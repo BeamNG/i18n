@@ -1,6 +1,6 @@
 {
     "engine.welcome": "Welcome to BeamNG.drive in US English :)",
-	"engine.cef.subprocessdied.title": "Unresponsive UI Process",
-	"engine.cef.subprocessdied.msg": "The UI Process failed to respond in time.\nThis can happen if an Antivirus blocks the BeamNG.drive.ui.exe application.\n\nYou can eventually get more help there:\n\nhttp://wiki.beamng.com/Errors/Unresponsive_UI_Process\n\nDo you want to open that address in your browser now?",
-	"engine.cef.subprocessdied.url": "http://wiki.beamng.com/Errors/Unresponsive_UI_Process",
+    "engine.cef.subprocessdied.title": "Unresponsive UI Process",
+    "engine.cef.subprocessdied.msg": "The UI Process failed to respond in time.\nThis can happen if an Antivirus blocks the BeamNG.drive.ui.exe application.\n\nYou can eventually get more help there:\n\nhttp://wiki.beamng.com/Errors/Unresponsive_UI_Process\n\nDo you want to open that address in your browser now?",
+    "engine.cef.subprocessdied.url": "http://wiki.beamng.com/Errors/Unresponsive_UI_Process"
 }
