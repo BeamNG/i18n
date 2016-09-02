@@ -14,7 +14,6 @@
     "engine.levelModified.title": "Level Modified",
     "engine.levelModified.msg": "Level has been modified in the Editor. Save?",
 
-    /* this is a comment to the file property */
     "engine.editor.menu.file": "File",
     "engine.editor.menu.newLevel": "New Level",
     "engine.editor.menu.openLevel": "Open Level...",
