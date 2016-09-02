@@ -1,1 +1,7 @@
-{}
+{
+    "ui.colorpicker.saturation": "Κορεσμός",
+    "ui.environment.night": "Νύχτα",
+    "ui.environment.saturn": "Κρόνος",
+    "ui.environment.sun": "Ήλιος",
+    "ui.vehicleconfig.color": "Χρώμα"
+}
