@@ -1,9 +1,19 @@
 {
+    "engine.editor.menu.saveLevelAs": "Αποθήκευση Επιπέδου Ως...",
     "ui.colorpicker.brightness": "Φωτεινότητα",
+    "ui.colorpicker.color": "Χρώμα",
     "ui.colorpicker.saturation": "Κορεσμός",
+    "ui.credits.programmers": "Προγραμματιστές",
     "ui.dashboard.help": "Βοήθεια",
+    "ui.dashboard.quit": "Έξοδος από το παιχνίδι",
+    "ui.environment.moon": "Φεγγάρι",
     "ui.environment.night": "Νύχτα",
     "ui.environment.saturn": "Κρόνος",
+    "ui.environment.simulationSpeed": "Ταχύτητα Προσομοίωσης",
     "ui.environment.sun": "Ήλιος",
+    "ui.levelselect.features": "Χαρακτηριστικά",
+    "ui.levelselect.size": "Μέγεθος",
+    "ui.levelselect.suitablefor": "Κατάλληλο για",
+    "ui.photomode.cameraSpeed": "Ταχύτητα Κάμερας",
     "ui.vehicleconfig.color": "Χρώμα"
 }
