@@ -1,5 +1,7 @@
 {
+    "ui.colorpicker.brightness": "Φωτεινότητα",
     "ui.colorpicker.saturation": "Κορεσμός",
+    "ui.dashboard.help": "Βοήθεια",
     "ui.environment.night": "Νύχτα",
     "ui.environment.saturn": "Κρόνος",
     "ui.environment.sun": "Ήλιος",
