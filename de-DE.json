@@ -1,0 +1,11 @@
+{
+    "menus.mainmenu.play": "SPIELEN",
+    "menus.mainmenu.options": "OPTIONEN",
+    "menus.mainmenu.garage": "GARAGE",
+    "menus.mainmenu.help": "HILFE",
+    "menus.mainmenu.exit": "Beenden",
+    "menus.mainmenu.credits": "CREDITS",
+    "menus.mainmenu.mods": "MODS",
+    "menus.mainmenu.repo": "Repository",
+    "menus.mainmenu.news": "Neuigkeiten"
+}
