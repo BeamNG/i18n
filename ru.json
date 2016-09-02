@@ -1,1 +1,20 @@
-{}
+{
+    "engine.editor.menu.saveLevelAs": "Сохранить уровень как...",
+    "engine.levelModified.title": "Уровень изменен",
+    "ui.colorpicker.brightness": "Яркость",
+    "ui.colorpicker.colToPre": "Добавить цвет к Палитре",
+    "ui.colorpicker.saturation": "Насыщенность",
+    "ui.credits.programmers": "Программисты",
+    "ui.credits.specialThanksTo": "Выражаем особую благодарность",
+    "ui.dashboard.controls": "Управление",
+    "ui.dashboard.help": "Помощь",
+    "ui.environment.environment": "Окружение",
+    "ui.environment.moon": "Луна",
+    "ui.environment.night": "Ночь",
+    "ui.environment.saturn": "Сатурн",
+    "ui.environment.sun": "Солнце",
+    "ui.environment.timeOfDay": "Время суток",
+    "ui.feedback.leaveMessage": "Пожалуйста, напишите сообщение здесь",
+    "ui.levelselect.chooseSpwanpoint": "Выберете место размещения",
+    "ui.vehicleconfig.color": "Цвет"
+}
