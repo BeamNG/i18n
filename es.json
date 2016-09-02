@@ -1,1 +1,6 @@
-{}
+{
+    "ui.colorpicker.brightness": "Brillo",
+    "ui.dashboard.controls": "Controles",
+    "ui.dashboard.help": "Ayuda",
+    "ui.environment.night": "Noche"
+}
