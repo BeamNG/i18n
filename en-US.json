@@ -156,6 +156,18 @@
     "ui.photomode.roll": "Roll",
     "ui.photomode.showGrid": "Show Grid",
 
+    "ui.appselect.apps": "Apps",
+    "ui.appselect.reset": "Reset Layout",
+    "ui.appselect.done": "Done",
+    "ui.appselect.add": "Add app",
+    "ui.appselect.official": "Official",
+    "ui.appselect.downloadMore": "Download more!",
+    "ui.appselect.filters": "Filters",
+    "ui.appselect.search": "Search",
+    "ui.appselect.deselectAll": "Deselect All",
+    "ui.appselect.selectAll": "Select All",
+
+
     "ui.launcher.test": "hello world!",
 
     "ui.apps.vehicleDebug.breakAll": "Break all breakgroups",
