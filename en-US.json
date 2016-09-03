@@ -168,6 +168,12 @@
     "ui.appselect.selectAll": "Select All",
 
 
+    "ui.playmodes.campaigns": "Campaigns",
+    "ui.playmodes.scenarios": "Scenarios",
+    "ui.playmodes.freeroam": "Freeroam",
+    "ui.playmodes.career": "Career",
+    "ui.playmodes.comingSoon": "Coming soon",
+
     "ui.launcher.test": "hello world!",
 
     "ui.apps.vehicleDebug.breakAll": "Break all breakgroups",
