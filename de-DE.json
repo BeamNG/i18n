@@ -4,6 +4,7 @@
     "engine.msgboxErrorTitle": "Fehler",
     "engine.windowedModeReq.msgEditor": "Bitte beende den Missionseditor um in den Vollbildmodus zu wechseln.",
     "engine.windowedModeReq.msgGUI": "Bitte beende den GUI-Editor um in den Vollbildmodus zu wechseln.",
+    "ui.appselect.search": "Suchen",
     "ui.colorpicker.brightness": "Helligkeit",
     "ui.colorpicker.color": "Farbe",
     "ui.colorpicker.saturation": "Sättigung",
