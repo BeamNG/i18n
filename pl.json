@@ -1,6 +1,7 @@
 {
     "engine.cef.subprocessdied.msg": "Proces UI nie zareagował na czas.\nMoże się to zdarzyć, jeśli Antywirus blokuje aplikację BeamNG.drive.ui.exe.\n\nWięcej informacji możesz uzyskać tutaj:\n\nhttp://wiki.beamng.com/Errors/Unresponsive_UI_Process\n\nCzy chcesz teraz otworzyć ten adres w przeglądarce?",
     "engine.cef.subprocessdied.url": "http://wiki.beamng.com/Errors/Unresponsive_UI_Process",
+    "engine.editor.menu.playLevel": "Załaduj Poziom",
     "engine.editor.menu.saveLevelAs": "Zapisz Poziom Jako...",
     "engine.levelModified.title": "Poziom Zmieniony",
     "engine.resourceMissing": "Nie udało się utworzyć zasób (czy brakuje pliku?):",
