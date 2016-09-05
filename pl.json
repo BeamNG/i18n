@@ -20,7 +20,7 @@
     "engine.levelModified.msg": "Poziom został zmodyfikowany w edytorze. Zapisać?",
     "engine.levelModified.title": "Poziom Zmieniony",
     "engine.msgboxErrorTitle": "Błąd",
-    "engine.resourceMissing": "Nie udało się utworzyć zasób (czy brakuje pliku?):",
+    "engine.resourceMissing": "Nie udało się utworzyć zasobu (brakuje pliku?):",
     "engine.welcome": "Witaj w BeamNG.drive w języku Polskim :)",
     "engine.windowedModeReq.msgEditor": "Proszę wyjść z edytora misji, aby przełączyć na tryb pełnoekranowy.",
     "engine.windowedModeReq.msgGUI": "Proszę wyjść z edytora GUI, aby przełączyć się na tryb pełnoekranowy.",
