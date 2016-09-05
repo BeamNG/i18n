@@ -102,6 +102,7 @@
     "ui.feedback.submit": "Absenden",
     "ui.launcher.test": "Hallo Welt!",
     "ui.levelselect.authors": "Autor(en)",
+    "ui.levelselect.biome": "Biome",
     "ui.levelselect.chooseSpwanpoint": "Wähle den Startpunkt",
     "ui.levelselect.description": "Beschreibung",
     "ui.levelselect.features": "Eigenschaften",
@@ -123,10 +124,12 @@
     "ui.modmanager.modmanager": "Modifikations Manager",
     "ui.photomode.advancedImgSettings": "Erweiterte Bildeinstellungen",
     "ui.photomode.cameraSpeed": "Kamerageschwindigkeit",
+    "ui.photomode.fov": "Sichtfeld",
     "ui.photomode.postfx": "Nachbearbeitungseffekte",
     "ui.photomode.quitPhotoMode": "Fotomodus beenden",
     "ui.photomode.roll": "Rollen",
     "ui.photomode.showGrid": "Raster anzeigen",
+    "ui.photomode.takeScreen": "Erstelle Screenshot",
     "ui.photomode.takebigScreen": "Nehmen Sie große Screenshot",
     "ui.photomode.uploadScreen": "Screenshot auf Medienserver hochladen",
     "ui.playmodes.campaigns": "Kampagnen",
@@ -142,5 +145,5 @@
     "ui.vehicleconfig.parts": "Teile",
     "ui.vehicleconfig.save": "Speichern",
     "ui.vehicleconfig.tuning": "Tuning",
-    "ui.vehicleconfig.vehicleconfig": "Personalisierung des Fahrzeugs"
+    "ui.vehicleconfig.vehicleconfig": "Fahrzeuganpassung"
 }
