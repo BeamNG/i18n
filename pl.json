@@ -162,7 +162,7 @@
     "ui.vehicleconfig.color": "Kolor",
     "ui.vehicleconfig.filename": "Nazwa Pliku",
     "ui.vehicleconfig.load": "Załaduj",
-    "ui.vehicleconfig.mouseOverUi": "Proszę trzymać myszy nad ui podczas pisania, aby upewnić się, że klawiatura jest skierowana do niego",
+    "ui.vehicleconfig.mouseOverUi": "Proszę trzymać kursor nad interfejsem podczas pisania, aby upewnić się, że działanie klawiatury jest skierowana do niego",
     "ui.vehicleconfig.overwrite": "Nadpisz",
     "ui.vehicleconfig.parts": "Części",
     "ui.vehicleconfig.save": "Zapisz",
