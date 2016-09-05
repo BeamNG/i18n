@@ -1,5 +1,5 @@
 {
-    "engine.cef.subprocessdied.msg": "De UI Process reageerde ongewoon lang.\nDe oorzaak kan een Antivirus zijn die de BeamNG.drive.ui.exe applicatie blokkeert.\n\nJe kan hier meer informatie vinden:\n\nhttp://wiki.beamng.com/Errors/Unresponsive_UI_Process\n\nWil je het web adres openen in je browser?",
+    "engine.cef.subprocessdied.msg": "Het UI proces reageerde niet te langzaam.\nDe oorzaak kan een Antivirus zijn die de BeamNG.drive.ui.exe applicatie blokkeert.\n\nJe kunt hier meer informatie vinden:\n\nhttp://wiki.beamng.com/Errors/Unresponsive_UI_Process\n\nWilt u het web adres openen in uw browser?",
     "engine.cef.subprocessdied.title": "Het UI Proces reageert niet meer",
     "engine.cef.subprocessdied.url": "http://wiki.beamng.com/Errors/Unresponsive_UI_Process",
     "engine.editor.menu.createBlankTerrain": "Creëer Leeg Terrein",
@@ -44,6 +44,7 @@
     "ui.colorpicker.chrominess": "Chrome-effect",
     "ui.colorpicker.colToPre": "Voeg kleur toe aan Verzameling",
     "ui.colorpicker.color": "Kleur",
+    "ui.colorpicker.rightToDel": "Rechter muisklik op preset om deze te verwijderen",
     "ui.colorpicker.saturation": "Verzadiging",
     "ui.colorpicker.userPresets": "Gebruiker Verzamelingen",
     "ui.credits.customerSupport": "Klanten Service",
