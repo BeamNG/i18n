@@ -120,7 +120,7 @@
     "ui.launcher.test": "Bonjour le monde !",
     "ui.levelselect.authors": "Auteur(s)",
     "ui.levelselect.biome": "Biome",
-    "ui.levelselect.chooseSpwanpoint": "Choisir le point de départ",
+    "ui.levelselect.chooseSpwanpoint": "Choisir le point d'apparition",
     "ui.levelselect.description": "Description",
     "ui.levelselect.features": "Fonctionnalités",
     "ui.levelselect.play": "Jouer",
