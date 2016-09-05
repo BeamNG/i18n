@@ -1,6 +1,6 @@
 {
     "engine.cef.subprocessdied.msg": "Die UI- Prozess nicht rechtzeitig reagieren zu können.\nDies kann passieren, wenn ein Antivirus blockiert die BeamNG.drive.ui.exe Anwendung .\n\nSie können schließlich weitere Hilfe dorthin zu gelangen :\n\nhttp://wiki.beamng.com/Errors/Unresponsive_UI_Process\n\nWollen Sie nun diese Adresse in Ihrem Browser zu öffnen ?",
-    "engine.cef.subprocessdied.title": "Nicht reagierender UI Prozess",
+    "engine.cef.subprocessdied.title": "Nicht reagierende Benutzeroberfläche",
     "engine.cef.subprocessdied.url": "http://wiki.beamng.com/Errors/Unresponsive_UI_Process",
     "engine.editor.menu.createBlankTerrain": "Erstelle leeres Terrain",
     "engine.editor.menu.exitLevel": "Level verlassen",
@@ -13,7 +13,7 @@
     "engine.editor.menu.playLevel": "Level spielen",
     "engine.editor.menu.quit": "Beenden",
     "engine.editor.menu.saveLevel": "Level Speichern",
-    "engine.editor.menu.saveLevelAs": "Sparen Niveau ...",
+    "engine.editor.menu.saveLevelAs": "Level speichern als...",
     "engine.engineFail": "Initialisierung fehlgeschlagen. Wird beendet.",
     "engine.invalidUserpath.msg": "BeamNG.drive kann nicht Benutzerpfad in Startup.ini ( Spielordner ) definiert zugreifen. Ändern Sie für einen gültigen Pfad:",
     "engine.invalidUserpath.title": "Ungültiger Benutzerpfad",
