@@ -31,6 +31,7 @@
     "ui.apps.vehicleDebug.explodeVehicle": "Räjäytä ajoneuvo",
     "ui.apps.vehicleDebug.extinguishVehicle": "Sammuta ajoneuvopalo",
     "ui.apps.vehicleDebug.igniteNode": "Sytytä solmu",
+    "ui.apps.vehicleDebug.igniteNodeMin": "Sytytä node (minimaalinen)",
     "ui.apps.vehicleDebug.igniteVehicle": "Sytytä ajoneuvo",
     "ui.appselect.add": "Lisää sovellus",
     "ui.appselect.apps": "Sovellukset",
