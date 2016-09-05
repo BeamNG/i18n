@@ -1,1 +1,17 @@
-{}
+{
+    "ui.appselect.search": "Ieškoti",
+    "ui.colorpicker.brightness": "Ryškumas",
+    "ui.colorpicker.saturation": "Spalvų sodrumas",
+    "ui.credits.specialThanksTo": "Speciali padėka",
+    "ui.dashboard.help": "Pagalba",
+    "ui.dashboard.levels": "Žemėlapiai",
+    "ui.environment.gravity": "Gravitacija",
+    "ui.environment.mars": "Marsas",
+    "ui.environment.mercury": "Merkurijus",
+    "ui.environment.night": "Naktis",
+    "ui.environment.saturn": "Saturnas",
+    "ui.environment.sun": "Saulė",
+    "ui.environment.timeOfDay": "Dienos laikas",
+    "ui.feedback.back": "Atgal",
+    "ui.vehicleconfig.color": "Spalva"
+}
