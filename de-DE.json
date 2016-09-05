@@ -17,6 +17,7 @@
     "engine.levelModified.msg": "Das Level wurde im Editor modifiziert. Speichern?",
     "engine.levelModified.title": "Level Modifiziert",
     "engine.msgboxErrorTitle": "Fehler",
+    "engine.resourceMissing": "Konnte die Rossource nicht laden (fehlt die Datei?):",
     "engine.windowedModeReq.msgEditor": "Bitte beende den Missionseditor um in den Vollbildmodus zu wechseln.",
     "engine.windowedModeReq.msgGUI": "Bitte beende den GUI-Editor um in den Vollbildmodus zu wechseln.",
     "engine.windowedModeReq.title": "erfordert Fenstermodus",
