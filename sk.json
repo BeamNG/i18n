@@ -1,5 +1,5 @@
 {
-    "engine.cef.subprocessdied.msg": "Proces používateľského rozhrania neodpovedal včas.\nMôže to byť spôsobené antivírusovým programom, ktorý blokuje aplikáciu BeamNG.drive.ui.exe.\n\nViac informácií nájdete tu:\n\nhttp://wiki.beamng.com/Errors/Unresponsive_UI_Process\n\nChcete teraz prejsť na túto adresu?\n",
+    "engine.cef.subprocessdied.msg": "Proces používateľského rozhrania neodpovedal včas.\nMôže to byť spôsobené antivírusovým programom, ktorý blokuje aplikáciu BeamNG.drive.ui.exe.\n\nViac informácií nájdete tu:\n\nhttp://wiki.beamng.com/Errors/Unresponsive_UI_Process\n\nChcete teraz prejsť na túto adresu?",
     "engine.cef.subprocessdied.title": "UI proces neodpovedá",
     "engine.cef.subprocessdied.url": "http://wiki.beamng.com/Errors/Unresponsive_UI_Process",
     "engine.editor.menu.createBlankTerrain": "Vytvoriť prázdny terén",
