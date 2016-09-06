@@ -167,7 +167,7 @@
     "ui.photomode.farBlurMax": "Far Blur Max",
     "ui.photomode.focusRangeMax": "Fokusbereich  ( Max )",
     "ui.photomode.focusRangeMin": "Fokusbereich  ( Min )",
-    "ui.photomode.fov": "Sichtfeld",
+    "ui.photomode.fov": "Sichtfeld (FOV)",
     "ui.photomode.postfx": "Nachbearbeitungseffekte",
     "ui.photomode.quitPhotoMode": "Fotomodus beenden",
     "ui.photomode.roll": "Neigung",
