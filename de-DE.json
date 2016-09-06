@@ -27,7 +27,7 @@
     "engine.windowedModeReq.title": "erfordert Fenstermodus",
     "ui.apps.vehicleDebug.breakAll": "Alle Verbindungspunkte lösen",
     "ui.apps.vehicleDebug.breakHinges": "Alle Scharniere brechen ",
-    "ui.apps.vehicleDebug.deflateTires": "Luft aus Reifen entlassen",
+    "ui.apps.vehicleDebug.deflateTires": "Luft aus Reifen lassen",
     "ui.apps.vehicleDebug.explodeVehicle": "Fahrzeug Explodieren",
     "ui.apps.vehicleDebug.extinguishVehicle": "Flammen am Fahrzeug löschen",
     "ui.apps.vehicleDebug.igniteNode": "Entzünde Node",
