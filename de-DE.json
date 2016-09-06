@@ -26,7 +26,7 @@
     "engine.windowedModeReq.msgGUI": "Bitte beende den GUI-Editor um in den Vollbildmodus zu wechseln.",
     "engine.windowedModeReq.title": "erfordert Fenstermodus",
     "ui.apps.vehicleDebug.breakAll": "Alle Verbindungspunkte lösen",
-    "ui.apps.vehicleDebug.breakHinges": "Alle Schaniere lösen",
+    "ui.apps.vehicleDebug.breakHinges": "Alle Scharniere brechen ",
     "ui.apps.vehicleDebug.deflateTires": "Alle Reifen luftleer machen",
     "ui.apps.vehicleDebug.explodeVehicle": "Fahrzeug Explodieren",
     "ui.apps.vehicleDebug.extinguishVehicle": "Flammen am Fahrzeug löschen",
