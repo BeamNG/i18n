@@ -174,6 +174,30 @@
     "ui.playmodes.career": "Career",
     "ui.playmodes.comingSoon": "Coming soon",
 
+    "ui.options.options": "Options",
+    "ui.options.gameplay": "Gameplay", 
+    "ui.options.audio": "Audio",
+
+    "ui.options.graphics": "Graphics", 
+    "ui.options.graphics.display": "Display",
+    "ui.options.graphics.resolution": "Resolution",
+    "ui.options.graphics.fullscreen": "Full Screen",
+    "ui.options.graphics.vsync": "Vertical Sync",
+    "ui.options.graphics.borderless": "Borderless",
+    "ui.options.graphics.gamma": "Gamma",
+    "ui.options.graphics.fpslimiter": "FPS Limiter",
+    "ui.options.graphics.uimaxres": "UI Maximum Resolution",
+    "ui.options.graphics.overallquality": "Overall Quality",
+    "ui.options.graphics.antialiasing": "Anti-aliasing",
+    "ui.options.graphics.grassdensity": "Grass Density",
+    "ui.options.graphics.GraphicDynReflection": "Dynamic Reflection",
+    "ui.options.graphics.GraphicDynReflection.warning": "Note - Faces per update can be very graphically intensive. If you experience performance issues, consider lowering this",
+    "ui.options.graphics.GraphicDynReflectionTexsize": "Texture Size",
+    "ui.options.graphics.GraphicDynReflectionFacesPerupdate": "Faces per update",
+    "ui.options.graphics.GraphicDynReflectionDetail": "Detail",
+    "ui.options.graphics.GraphicDynReflectionDistance": "Distance",
+    
+
     "ui.launcher.test": "hello world!",
 
     "ui.apps.vehicleDebug.breakAll": "Break all breakgroups",
@@ -184,4 +208,5 @@
     "ui.apps.vehicleDebug.igniteNode": "Ignite Node",
     "ui.apps.vehicleDebug.igniteNodeMin": "Ignite Node Minimal",
     "ui.apps.vehicleDebug.extinguishVehicle": "Extinguish Vehicle"
+
 }
