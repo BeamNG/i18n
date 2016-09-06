@@ -1,1 +1,16 @@
-{}
+{
+    "engine.levelModified.title": "",
+    "ui.colorpicker.brightness": "Parlaklık",
+    "ui.colorpicker.saturation": "Doygunluk",
+    "ui.credits.specialThanksTo": "Özel Teşekkürler",
+    "ui.dashboard.controls": "Kontroller",
+    "ui.dashboard.help": "Yardım",
+    "ui.environment.night": "Gece",
+    "ui.environment.saturn": "Satürn",
+    "ui.environment.sun": "Güneş",
+    "ui.feedback.leaveMessage": "Buraya mesaj ekleyin",
+    "ui.options.graphics.GraphicDynReflectionDetail": "Detay",
+    "ui.options.graphics.display": "Görüntü",
+    "ui.options.graphics.vsync": "Dikey senkronizasyon",
+    "ui.vehicleconfig.color": "Renk"
+}
