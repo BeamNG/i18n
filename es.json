@@ -25,7 +25,7 @@
     "engine.windowedModeReq.msgEditor": "Por Favor, Salga del Editor de Misión para cambiar a pantalla completa.",
     "engine.windowedModeReq.msgGUI": "Sal del editor de GUI para cambiar a pantalla completa.",
     "engine.windowedModeReq.title": "Se requiere modo ventana",
-    "ui.apps.vehicleDebug.breakAll": "Rompe todas las Uniones De las Piezas",
+    "ui.apps.vehicleDebug.breakAll": "Rompe todos los Grupos (Breakgroups)",
     "ui.apps.vehicleDebug.breakHinges": "Romper todas las bisagras",
     "ui.apps.vehicleDebug.deflateTires": "Desinflar Neumáticos",
     "ui.apps.vehicleDebug.explodeVehicle": "Explotar vehículo",
