@@ -1,4 +1,5 @@
 {
+    "engine.cef.subprocessdied.msg": "Användargränssnittet Processen misslyckades med att svara i tid.\nDetta kan hända om en Antivirus blockerar BeamNG.drive.ui.exe ansökan.\n\nDu kan så småningom få mer hjälp där:\n\nhttp://wiki.beamng.com/Errors/Unresponsive_UI_Process\n\nVill du öppna den adressen i din webbläsare nu?",
     "engine.cef.subprocessdied.url": "http://wiki.beamng.com/Errors/Unresponsive_UI_Process",
     "engine.editor.menu.createBlankTerrain": "Skapa Tom Terräng",
     "engine.editor.menu.exportTerrainHeightmap": "Exportera Heightmap",
@@ -101,6 +102,7 @@
     "ui.levelselect.biome": "Biome",
     "ui.levelselect.chooseSpwanpoint": "Välj spawn point",
     "ui.levelselect.description": "Beskrivning",
+    "ui.levelselect.features": "Funktioner",
     "ui.levelselect.play": "Spela",
     "ui.levelselect.roads": "Vägar",
     "ui.levelselect.size": "Storlek",
