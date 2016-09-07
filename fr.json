@@ -144,7 +144,7 @@
     "ui.options.gameplay": "Options de jeu",
     "ui.options.graphics": "Graphique",
     "ui.options.graphics.GraphicDynReflection": "Réflexion Dynamique",
-    "ui.options.graphics.GraphicDynReflection.warning": "Remarque - Le nombre de faces par mise à jour peuvent être très graphiquement intensifs. Si vous rencontrez des problèmes de performances, envisager d'abaisser cette valeur",
+    "ui.options.graphics.GraphicDynReflection.warning": "Remarque - La fréquence de mise à jours des reflets peut utiliser beaucoup de ressources. Si vous rencontrez des problèmes de performances, envisager d'abaisser cette valeur",
     "ui.options.graphics.GraphicDynReflectionDetail": "Détail",
     "ui.options.graphics.GraphicDynReflectionDistance": "Distance",
     "ui.options.graphics.GraphicDynReflectionFacesPerupdate": "Faces par mise à jour",
