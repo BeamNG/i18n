@@ -147,7 +147,7 @@
     "ui.options.graphics.GraphicDynReflection.warning": "注意：打开此功能会使游戏的画质更好。如果您遇到性能问题，请降低画质",
     "ui.options.graphics.GraphicDynReflectionDetail": "细节",
     "ui.options.graphics.GraphicDynReflectionDistance": "显示距离",
-    "ui.options.graphics.GraphicDynReflectionFacesPerupdate": "",
+    "ui.options.graphics.GraphicDynReflectionFacesPerupdate": "车身反射",
     "ui.options.graphics.GraphicDynReflectionTexsize": "贴图尺寸",
     "ui.options.graphics.antialiasing": "抗锯齿",
     "ui.options.graphics.borderless": "无边框窗口",
