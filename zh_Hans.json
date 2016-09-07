@@ -28,7 +28,7 @@
     "ui.apps.vehicleDebug.breakAll": "一键解体",
     "ui.apps.vehicleDebug.breakHinges": "破坏所有铰链",
     "ui.apps.vehicleDebug.deflateTires": "爆胎",
-    "ui.apps.vehicleDebug.explodeVehicle": "让车爆炸",
+    "ui.apps.vehicleDebug.explodeVehicle": "炸毁车辆",
     "ui.apps.vehicleDebug.extinguishVehicle": "灭火",
     "ui.apps.vehicleDebug.igniteNode": "点燃任意Node",
     "ui.apps.vehicleDebug.igniteNodeMin": "点燃小的节点",
