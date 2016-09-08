@@ -145,7 +145,7 @@
     "ui.options.graphics": "Графика",
     "ui.options.graphics.GraphicDynReflection": "Динамические отражения",
     "ui.options.graphics.GraphicDynReflection.warning": "Внимание - большое значение обновления отражений может быть очень требовательно к производительности. Если вы имеете проблемы с производительностью, попробуйте уменьшить это значение",
-    "ui.options.graphics.GraphicDynReflectionDetail": "Деталь",
+    "ui.options.graphics.GraphicDynReflectionDetail": "Детальность",
     "ui.options.graphics.GraphicDynReflectionDistance": "Расстояние",
     "ui.options.graphics.GraphicDynReflectionFacesPerupdate": "Частота обновления отражений",
     "ui.options.graphics.GraphicDynReflectionTexsize": "Размер текстуры",
