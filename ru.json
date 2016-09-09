@@ -161,6 +161,7 @@
     "ui.options.graphics.uimaxres": "Максимальное разрешение пользовательского интерфейса",
     "ui.options.graphics.vsync": "Вертикальная синхронизация",
     "ui.options.options": "Опции",
+    "ui.options.physics": "Физика",
     "ui.photomode.advancedImgSettings": "Расширенные настройки изображения",
     "ui.photomode.blureCurveFar": "Кривая дальнего размытия",
     "ui.photomode.cameraSpeed": "Скорость камеры",
