@@ -1,10 +1,16 @@
 {
     "ui.appselect.search": "搜索",
     "ui.colorpicker.brightness": "亮度",
+    "ui.colorpicker.saturation": "饱和度",
+    "ui.credits.specialThanksTo": "特别感谢",
     "ui.dashboard.controls": "控制",
     "ui.dashboard.help": "帮助",
     "ui.environment.night": "夜晚",
+    "ui.environment.saturn": "土星",
+    "ui.environment.sun": "太阳\n日",
     "ui.environment.timeOfDay": "时间",
     "ui.options.graphics.GraphicDynReflection.warning": "注意：打开此功能会使游戏的画质更好。如果您遇到性能问题，请降低画质",
-    "ui.options.graphics.display": "显示"
+    "ui.options.graphics.GraphicDynReflectionDetail": "反射细节",
+    "ui.options.graphics.display": "显示",
+    "ui.vehicleconfig.color": "颜色"
 }
