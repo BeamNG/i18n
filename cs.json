@@ -207,6 +207,7 @@
     "ui.options.options": "Nastavení",
     "ui.options.physics": "Fyzika",
     "ui.options.physics.noCollisions": "Vypnout kolize mezi vozidly",
+    "ui.options.theme": "Téma",
     "ui.options.theme.accent": "Důraz",
     "ui.options.theme.warn": "Varování",
     "ui.options.units.dateFormat": "Formát data",
