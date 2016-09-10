@@ -132,7 +132,7 @@
     "ui.hints.delicateCars": "Certaine voitures ne sont pas conçues pour etre malmenés, gardez un oeuil sur la jauge de température !",
     "ui.hints.engineBrakeForDownhill": "Mieux vaut utiliser le frein moteur dans les descentes avec les camions chargés, autrement les freins pourraient lâcher.",
     "ui.hints.moonGravity": "Vous pouvez simuler la gravité lunaire dans le menu \"Environnement\".",
-    "ui.hints.notAllCarsCanRace": "Beaucoup des véhicules ne sont pas d'origine prévus pour la conduite sportive ou la course. Des modifications sont disponibles dans le sélecteur de pièces [action=parts_selector].",
+    "ui.hints.notAllCarsCanRace": "Beaucoup de véhicules ne sont pas prévus pour la conduite sportive ou la course par défaut. Des modifications sont disponibles dans le sélecteur de pièces [action=parts_selector].",
     "ui.hints.oldCarsBurn": "Certaines voitures anciennes peuvent prendre feu facilement après un accident, mais les modèles modernes sont beaucoup plus sûrs.",
     "ui.hints.raceBrakesEffectiveness": "Les freins de courses perdent en efficacité lorsqu'ils sont trop froid.",
     "ui.hints.removeRearSeats": "Pour rendre votre véhicule plus rapide, vous pouvez l'alléger en retirant des pièces inutilisés comme les sièges arrieres en se rendant dans le Sélectionneur de Pièces [action=parts_selector].",
