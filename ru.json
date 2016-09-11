@@ -221,7 +221,7 @@
     "ui.options.graphics.GraphicDynReflectionTexsize": "Размер текстуры",
     "ui.options.graphics.GraphicLightingQuality": "Качество Освещения",
     "ui.options.graphics.GraphicPostfxQuality": "Качество Постобработки",
-    "ui.options.graphics.GraphicShaderQuality": "Качество теней",
+    "ui.options.graphics.GraphicShaderQuality": "Качество шейдеров",
     "ui.options.graphics.GraphicTextureQuality": "Качество Текстур",
     "ui.options.graphics.PostFXHDRGeneralEnabled": "HDR",
     "ui.options.graphics.PostFXLightRaysEnabled": "Лучи света",
