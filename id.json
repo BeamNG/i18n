@@ -1,1 +1,27 @@
-{}
+{
+    "ui.appselect.categories.utility": "Kegunaan",
+    "ui.appselect.categories.vehicle_info": "Informasi Kendaraan",
+    "ui.colorpicker.chrominess": "Ketebalan Cat",
+    "ui.credits.environmentArtists": "Seniman Lingkungan",
+    "ui.credits.specialThanksTo": "Ucapan terimakasih yang istimewa untuk",
+    "ui.dashboard.help": "Bantuan",
+    "ui.dashboard.mods": "Modifikasi",
+    "ui.dashboard.quit": "Keluar dari permainan",
+    "ui.debug.renderer.disableShadows": "Mematikan Bayangan",
+    "ui.debug.vehicle.beamTransparency": "Transparansi Sorotan",
+    "ui.environment.environment": "Lingkungan",
+    "ui.hints.moonGravity": "Anda bisa mensimulasikan gravitasi bulan di menu \"Lingkungan\".",
+    "ui.levelselect.suitablefor": "Cocok untuk",
+    "ui.options.camera.chaseRollRelaxation": "",
+    "ui.options.camera.enableCustom": "Memungkinkan mode baru atau buatan",
+    "ui.options.camera.relaxation": "Relaksasi",
+    "ui.options.gameplay.competitiveScenarios": "Kondisi skenario kompetitif",
+    "ui.options.gameplay.defaultToCurrentVehicle": "Pilih kendaraan ini sebagai setelan standar",
+    "ui.options.gameplay.gameplay": "Gameplay",
+    "ui.options.gameplay.multiseat": "Multiseat",
+    "ui.options.graphics.PostFXLightRaysEnabled": "Cahaya Sinar",
+    "ui.options.graphics.PostFXSSAOGeneralEnabled": "SSAO",
+    "ui.options.graphics.gamma": "Gama",
+    "ui.options.physics": "Fisika",
+    "ui.options.utilities": "Kegunaan"
+}
