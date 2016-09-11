@@ -102,7 +102,7 @@
     "ui.debug.effects.toggleFreeCamera": "Skakel Vry Kamera",
     "ui.debug.renderer": "Renderer",
     "ui.debug.renderer.boundingBoxes": "Verbondings Bokse",
-    "ui.debug.renderer.disableShadows": "Onaktiveer Skadus",
+    "ui.debug.renderer.disableShadows": "Onaktiveer Skaduwees",
     "ui.debug.renderer.toggleFps": "Skakel wys FPS",
     "ui.debug.renderer.visualization": "Visualisering",
     "ui.debug.renderer.wireframeMode": "Draadraam Modus",
