@@ -132,7 +132,7 @@
     "ui.hints.moonGravity": "Sie können nun Mondschwerkraft im Menü \"Umwelt\" aktivieren.",
     "ui.hints.notAllCarsCanRace": "Viele Fahrzeuge eignen sich im Auslieferungszustand nicht für temperamentvolles Fahren oder Rennen. Nachrüstteile sind in in der Teileauswahl [action=parts_selector] verfügbar.",
     "ui.hints.snapOversteer": "Autos mit mehr Gewicht auf der Hinterachse haben die Tendenz beim Gas geben zunächst zu untersteuern, und dann plötzlich zu übersteuern.",
-    "ui.hints.spatialNavigation": "Sie können durch das Menü mit einem Gamepad navigieren [action=menu_item_left] [action=menu_item_up] [action=menu_item_right] [action=menu_item_down] [action=menu_item_select].",
+    "ui.hints.spatialNavigation": "Sie können durch das Menü mit einem Gamepad navigieren [action=menu_item_left] [action=menu_item_up] [action=menu_item_right] [action=1menu_item_down] [action=1menu_item_select].",
     "ui.hints.towTrailer": "Um einen Anhänger mit ihrem Lastwagen zu ziehen: beide mit [action=vehicle_selector] platzieren, dem Anhänger nähern, und [action=couplersToggle] drücken",
     "ui.hints.tuning": "Sie können Reifendruck, Spureinstellung und andere Einstellungen im \"Tuning\"-Menü anpassen [action=parts_selector].",
     "ui.launcher.test": "Hallo Welt!",
