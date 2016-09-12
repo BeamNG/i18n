@@ -168,7 +168,7 @@
     "ui.hints.chooseShiftingMode": "asettaaksesi uuden oletusvaihteiston, paina [action=toggleShifterMode]",
     "ui.hints.corneringWithKeyboard": "Kun ajat kaarteessa näppäimistollä, naputa toistuvasti [action=steer_left] tai [action=steer_right] hallitaksesi ohjauksen kulmaa paremmin ja ehkäistäksesi aliohjautumista.",
     "ui.hints.countersteerEarly": "Jos ajoneuvo alkaa heittelehtiä puolelta toiselle, yritä ohjata vastaan aikaisemmin ja nopeammin. Ratin (tai peliohjaimen) käyttö on hyvin suositeltavaa.",
-    "ui.hints.cruiseControlApp": "Pitkiä rentouttavia maantiematkoja varten voit lisätä \"Vakionopeudensäädin\"-Käyttöliittymäsovelluksen. Se toimii kaikissa autoissa!",
+    "ui.hints.cruiseControlApp": "Pitkiä rentoja maantiematkoja varten voit lisätä \"Vakionopeudensäädin\"- käyttöliittymäsovelluksen. Se toimii kaikissa autoissa!",
     "ui.hints.customLicensePlate": "Voit muuttaa rekisterikilven tekstiä osavalikossa [action=parts_selector].",
     "ui.hints.customizeSpecializedBindings": "Voit muuttaa ajoneuvokohtaisia kontrolleja (esim. autonmurskain, kanuuna) painamalla niitä näytön oikeassa yläkulmassa.",
     "ui.hints.delicateCars": "Joitakin autoja ei ole suunniteltu ajettavaksi kovaa. Pidä lämpömittaria silmällä!",
