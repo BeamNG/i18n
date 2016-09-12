@@ -171,6 +171,7 @@
     "ui.options.gameplay": "Options de jeu",
     "ui.options.gameplay.defaultToCurrentVehicle": "Définir le vehicule actuel par défaut",
     "ui.options.gameplay.gameplay": "Jouabilité",
+    "ui.options.gameplay.multiseat": "Multi-Sièges",
     "ui.options.gameplay.raceBrakesPreheated": "Commencer avec les freins de course préchauffės",
     "ui.options.graphics": "Graphique",
     "ui.options.graphics.GraphicDynReflection": "Réflexion Dynamique",
