@@ -36,7 +36,7 @@
     "scenarios.hirochi_raceway.gm_racetest.description": "Une courte suite de petit sauts",
     "scenarios.hirochi_raceway.training_RWD_handling.description": "",
     "scenarios.hirochi_raceway.training_advanced_braking.title": "Entraînement 7 : Freinage avancé",
-    "scenarios.hirochi_raceway.training_cornering.description": "Cela va t'apprendre a utilisé une ligne de course pour une conduite plus efficace",
+    "scenarios.hirochi_raceway.training_cornering.description": "Cela va vous apprendre comment utiliser une ligne de course pour une conduite plus efficace",
     "scenarios.hirochi_raceway.training_cornering.nomove.msg": "Vous avez heurtė quelque chose",
     "scenarios.hirochi_raceway.training_hairpins.nomove.msg": "Vous avez heurté quelque chose",
     "scenarios.hirochi_raceway.training_hairpins.position.msg": "Vous n'êtes pas dans la zone de freinage…",
