@@ -25,6 +25,7 @@
     "engine.windowedModeReq.msgEditor": "Bitte beende den Missionseditor um in den Vollbildmodus zu wechseln.",
     "engine.windowedModeReq.msgGUI": "Bitte beende den GUI-Editor um in den Vollbildmodus zu wechseln.",
     "engine.windowedModeReq.title": "erfordert Fenstermodus",
+    "scenarios.east_coast_usa.east_coast_chase_1.distance.msg": "Der Verdächtige ist geflohen",
     "ui.apps.vehicleDebug.breakAll": "Alle Verbindungspunkte lösen",
     "ui.apps.vehicleDebug.breakHinges": "Alle Scharniere brechen",
     "ui.apps.vehicleDebug.deflateTires": "Luft aus Reifen lassen",
