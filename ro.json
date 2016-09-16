@@ -26,6 +26,7 @@
     "engine.windowedModeReq.msgGUI": "Vă rugăm să ieşiţi din GUI Editor pentru a putea să schimbaţi pe ecran întreg.",
     "engine.windowedModeReq.title": "Modul Windowed Este Necesar",
     "scenarios.east_coast_usa.east_coast_chase_1.distance.msg": "Suspectul a scăpat",
+    "scenarios.hirochi_raceway.training_spin_recovery.nomove.msg": "Ai părăsit zona de recuperare. Data viitoare încearcă să anticipezi mișcarea mașinii pentru a nu pierde controlul.",
     "scenarios.jungle_rock_island.intro_jri_mountain_race.description": "O cursă deasupra vulcanului în Jungle Rock Island",
     "ui.apps.vehicleDebug.breakAll": "Sparge toate breakgroup-urile",
     "ui.apps.vehicleDebug.breakHinges": "Sparge toate balamalele",
