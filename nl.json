@@ -83,6 +83,7 @@
     "scenarios.jungle_rock_island.jri_chase.speed.msg": "goed gedaan ",
     "scenarios.jungle_rock_island.jri_drown_the_pigeon.description": "Help om de kleine hulpeloze gele Pigeon meerdere plassen met water te overleven",
     "scenarios.jungle_rock_island.jri_ds_320_rally.description": "Rij een de-tuned Bolide naar waar hij niet thuishoort",
+    "scenarios.jungle_rock_island.jri_moose.speed.msg": "Te langzaam... Rijdt sneller!",
     "scenarios.small_island.cop_chase.wayPointAction.wayPointMsg": "Stop de Pessima!",
     "scenarios.small_island.intro_rally_stage1.description": "Een introducerende rally stage",
     "scenarios.small_island.intro_rally_stage3.description": "Een point-to-point rally race.",
