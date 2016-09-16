@@ -136,6 +136,7 @@
     "ui.environment.weather": "天气",
     "ui.environment.windSpeed": "风速",
     "ui.environment.zeroGravity": "零重力",
+    "ui.faq": "帮助/问答",
     "ui.feedback.back": "返回",
     "ui.feedback.clear": "清除",
     "ui.feedback.leaveMessage": "请在此输入反馈信息",
