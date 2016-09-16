@@ -37,6 +37,7 @@
     "scenarios.hirochi_raceway.training_hairpins.nomove.msg": "Вы что-то задели",
     "scenarios.jungle_rock_island.intro_jri_mountain_race.description": "Гонка через местность с вулканом на карте Jungle Rock Island",
     "scenarios.port.port_escape.description": "Испытание на время через порт",
+    "scenarios.utah.chapter_1.chapter_1_crawl.damage.msg": "Вы уничтожили автомобиль в",
     "scenarios.utah.chapter_1.chapter_1_crawl.description": "Глава 1: Передвижение - Статистика: Счет: Провал:",
     "scenarios.utah.chapter_1.chapter_1_highway.description": "Глава 1: Шоссе - статистика: Счет:",
     "scenarios.utah.chapter_1.chapter_1_jump.title": "Прыжок",
