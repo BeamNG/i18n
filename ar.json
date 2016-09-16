@@ -1,1 +1,21 @@
-{}
+{
+    "scenarios.driver_training.driver_training.training_driftB.description": "هذا السيناريو يسمح لك لتطوير مهارات الانجراف الخاص بك.",
+    "scenarios.driver_training.safety_training.training_slalom.nomove.msg": "لا تصطدم بالمخاريط...",
+    "scenarios.east_coast_usa.car_delivery_2.title": "توصيل السيارة 2",
+    "scenarios.east_coast_usa.east_coast_chase_1.damage.msg": "لقد حطمت سيارتك",
+    "scenarios.east_coast_usa.east_coast_chase_1.distance.msg": "المتهم هرب",
+    "scenarios.hirochi_raceway.gm_racetest.description": "سلسلة قصيرة من القفزات الصغيرة",
+    "scenarios.hirochi_raceway.training_hairpins.nomove.msg": "لقد اصطدمت بشيء",
+    "scenarios.jungle_rock_island.intro_jri_mountain_race.description": "سباق فوق البركان في جزيرة حجرة الغابة",
+    "ui.credits.specialThanksTo": "شكر خاص ل",
+    "ui.debug.vehicle.beamTransparency": "شفافية العرض",
+    "ui.environment.environment": "بيئة",
+    "ui.faq": "مساعدة / أسئلة شائعة",
+    "ui.hints.thermalDebugApp": "لمعرفة المزيد عن محاكاة المحرك, يمكنك إضافة \" تصحيح حرارة المحرك\" الى واجهة المستخدم.",
+    "ui.levelselect.suitablefor": "مناسب ل",
+    "ui.options.gameplay.gameplay": "اللعب",
+    "ui.options.graphics.PostFXLightRaysEnabled": "اشعة الضوء",
+    "ui.options.physics": "فيزياء",
+    "ui.options.utilities": "خدمات",
+    "ui.performance.showDetails": "اكشف التفاصيل"
+}
