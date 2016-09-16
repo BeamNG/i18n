@@ -163,6 +163,7 @@
     "scenarios.utah.chapter_1.chapter_1_hilldrop.title": "Cuesta Abajo",
     "scenarios.utah.chapter_1.chapter_1_jump.damage.msg": "Has destruido el carro en ",
     "scenarios.utah.chapter_1.chapter_1_jump.title": "Salta",
+    "scenarios.utah.chapter_1.chapter_1_ramcliff.description": "Capítulo 1: Caída del Acantilado - estadísticas: daño de tu vehículo, daño del vehículo enemigo, puntuación: daño de ambos vehículos (intenta destruir ambos vehículos tanto como sea posible), fracaso: el vehículo enemigo no ha sido arrojado por el acantilado, límite de tiempo de 30 segundos",
     "scenarios.utah.chapter_1.chapter_1_rubberband.title": "Banda Elastica",
     "scenarios.utah.chapter_1.chapter_1_suspension.title": "Suspensión",
     "scenarios.utah.downhill_rally.title": "Rally Cuesta Abajo",
