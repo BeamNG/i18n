@@ -41,7 +41,7 @@
     "ui.environment.saturn": "土星",
     "ui.environment.sun": "太阳\n日",
     "ui.environment.timeOfDay": "时间",
-    "ui.faq": "帮助/常见问题",
+    "ui.faq": "(本游戏已经有一个简体中文版本在做了,并且已经完成了40%的翻译,您正在浪费时间从头开始做一个版本.如果您想帮忙的话请往下翻列表,简体中文在比较后面的位置)",
     "ui.faq.changeCamera.q": "如何切换视角？",
     "ui.hints.moonGravity": "你可以在“环境”菜单中模拟月球重力",
     "ui.hints.notAllCarsCanRace": "很多原装车辆是不适合激烈驾驶或者比赛。请在零件选择器里面选择升级改装件 [action=parts_selector]Alt+l then 1",
