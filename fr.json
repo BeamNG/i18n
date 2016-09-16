@@ -41,7 +41,7 @@
     "scenarios.hirochi_raceway.training_advanced_braking.title": "Entraînement 7 : Freinage avancé",
     "scenarios.hirochi_raceway.training_cornering.description": "Cela va vous apprendre comment utiliser une ligne de course pour une conduite plus efficace",
     "scenarios.hirochi_raceway.training_cornering.nomove.msg": "Vous avez heurtė quelque chose",
-    "scenarios.hirochi_raceway.training_hairpins.nomove.msg": "Vous avez heurté quelque chose",
+    "scenarios.hirochi_raceway.training_hairpins.nomove.msg": "Vous avez heurté  quelque chose",
     "scenarios.hirochi_raceway.training_hairpins.position.msg": "Vous n'êtes pas dans la zone de freinage…",
     "scenarios.jungle_rock_island.intro_jri_hillclimb.title": "Monté de colline (Hillclimb)",
     "scenarios.jungle_rock_island.intro_jri_mountain_race.description": "Une course sur autour d'un volcan sur Jungle Rock Island",
