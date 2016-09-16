@@ -33,7 +33,7 @@
     "scenarios.gridmap.corridor.title": "Korridor",
     "scenarios.hirochi_raceway.training_acceleration_braking.description": "Det här kommer att lära dig grunderna för att accelerera och bromsa",
     "scenarios.hirochi_raceway.training_advanced_braking.nomove.msg": "Du körde på en kona! Nästa gång så försök att bromsa försiktigt så att du inte låser hjulen.",
-    "scenarios.hirochi_raceway.training_drifting.drift.msg": "Bra jobbat, du målade halkbanan med gummi! Din poäng:",
+    "scenarios.hirochi_raceway.training_drifting.drift.msg": "Bra jobbat, du målade halkbanan med gummi! Din poäng: ",
     "scenarios.hirochi_raceway.training_hairpins.nomove.msg": "du körde på något",
     "scenarios.hirochi_raceway.training_spin_recovery.nomove.msg": "Du lämnade återhämtningsområdet! Försök att förutse rörelsen på bilen för att undvika att förlora kontroll.",
     "scenarios.jungle_rock_island.intro_jri_hillclimb.title": "Bergsklättring",
