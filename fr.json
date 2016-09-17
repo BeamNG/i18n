@@ -35,7 +35,7 @@
     "scenarios.driver_training.driver_training.training_lanechange.description": "Cette leçon simule les changements de files a haute vitesse",
     "scenarios.driver_training.safety_training.training_mu_braking.title": "Entraînement de Sécurité : μ-Freinage",
     "scenarios.driver_training.safety_training.training_slalom.nomove.msg": "Ne touchez pas les cônes…",
-    "scenarios.east_coast_usa.bank_robbery.description": "Vous avez été alerté d'un braquage de banque dans votre ville. Répondez à cette alerte et arrêtez le suspect en fuite avant qu'il n'atteigne sa cachette.",
+    "scenarios.east_coast_usa.bank_robbery.description": "Un braquage de banque a été signalé dans votre ville. Répondez à cet appel et arrêtez le suspect en fuite avant qu'il n'atteigne son repaire. ",
     "scenarios.east_coast_usa.car_delivery.description": "Transporter une Hirochi Sunburst Race Edition neuve à son nouveau propriétaire à la campagne",
     "scenarios.east_coast_usa.car_delivery.distance.msg": "Vous avez perdu la voiture !",
     "scenarios.east_coast_usa.car_delivery_2.description": "Livrez une supercar classique de grande valeur à une maison en ville.",
