@@ -1,1 +1,10 @@
-{}
+{
+    "scenarios.east_coast_usa.east_coast_chase_1.distance.msg": "용의자를 추격해라",
+    "scenarios.hirochi_raceway.training_hairpins.nomove.msg": "충돌했습니다!",
+    "scenarios.jungle_rock_island.intro_jri_mountain_race.description": "화산 드라이빙 체험",
+    "scenarios.utah.chapter_1.chapter_1_crawl.damage.msg": "차를 망가트렸습니다!",
+    "scenarios.utah.chapter_1.chapter_1_highway.description": "챕터 1:고속도로 - 상태:…점수…",
+    "ui.faq": "도움말",
+    "ui.options.gameplay.gameplay": "시작",
+    "ui.options.physics": "물리 판정"
+}
