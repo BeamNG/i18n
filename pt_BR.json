@@ -324,6 +324,7 @@
     "ui.debug.vehicle.keepOnlyCurrent": "Manter apenas corrente",
     "ui.debug.vehicle.meshVisibility": "Visibilidade da Malha",
     "ui.debug.vehicle.nodeText": "Texto do Nódulo",
+    "ui.debug.vehicle.nodeVis": "VisualizaçãodoNódulo",
     "ui.debug.vehicle.reloadAll": "Recarregar Todos",
     "ui.debug.vehicle.removeAll": "Remover Todos",
     "ui.debug.vehicle.resetAll": "Reiniciar Todos",
