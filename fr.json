@@ -468,7 +468,7 @@
     "ui.faq.getSupport.q": "Comment obtenir de l'aide?",
     "ui.faq.installMods.a": "Télécharger le .zip du véhicule ou le niveau que vous souhaitez installer. Déposez le zip dans [b]Mes Documents\\BeamNG.drive\\mods [/b]. Ne pas le décompresser. Pour plus d'informations et d'instructions supplémentaires veuillez [url=http://www.beamng.com/threads/guide-to-mod-installation.12872/] visiter notre wiki ici [/url].",
     "ui.faq.installMods.q": "Où dois-je installer les Mods ?",
-    "ui.faq.mapEditor.a": "L'éditeur de carte est accessible en appuyant sur [action = toggleEditor] lors de l'exécution en mode fenêtré",
+    "ui.faq.mapEditor.a": "L'éditeur de carte est accessible en appuyant sur [action=toggleEditor] lors de l'exécution en mode fenêtré",
     "ui.faq.mapEditor.q": "Comment puis-je ouvrir l'éditeur de carte?",
     "ui.faq.spawnVehicle.a": "Vous pouvez utiliser le sélecteur de véhicule à partir du tableau de bord en utilisant [action = toggleMenues] ou appuyez sur [action = vehicle_selector].",
     "ui.faq.spawnVehicle.q": "Comment puis-je Spawn plus de véhicules?",
