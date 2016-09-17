@@ -41,6 +41,7 @@
     "scenarios.utah.chapter_1.chapter_1_crawl.description": "Глава 1: Передвижение - Статистика: Счет: Провал:",
     "scenarios.utah.chapter_1.chapter_1_highway.description": "Глава 1: Шоссе - статистика: Счет:",
     "scenarios.utah.chapter_1.chapter_1_jump.title": "Прыжок",
+    "ui.apps.categories.vehicle_profiling": "Профиль автомобиля",
     "ui.apps.vehicleDebug.breakAll": "Сломать все ломающиеся группы",
     "ui.apps.vehicleDebug.breakHinges": "Сломать все петли",
     "ui.apps.vehicleDebug.deflateTires": "Спустить шины",
