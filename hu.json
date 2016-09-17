@@ -20,7 +20,7 @@
     "scenarios.driver_training.driver_training.training_driftB.description": "Ez a küldetés lehetővé teszi, hogy fejleszd a Drift képességeidet.",
     "scenarios.driver_training.safety_training.training_slalom.nomove.msg": "Ne érj a bójákhoz...",
     "scenarios.east_coast_usa.car_delivery_2.title": "Autó szállítás 2",
-    "scenarios.east_coast_usa.east_coast_chase_1.damage.msg": "Összetörted az autódat",
+    "scenarios.east_coast_usa.east_coast_chase_1.damage.msg": "Összetörted az autód",
     "scenarios.east_coast_usa.east_coast_chase_1.distance.msg": "A célpont elmenekült",
     "scenarios.hirochi_raceway.gm_racetest.description": "Egy rövid sorozat kissebb ugrásokból",
     "scenarios.hirochi_raceway.training_RWD_handling.description": "Ez megfogja tanítani hogyan vezess egy hátsókerék meghajtású autót anélkül hogy elvesztenéd az irányítást",
