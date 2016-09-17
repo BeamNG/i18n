@@ -89,7 +89,7 @@
     "scenarios.jungle_rock_island.jri_chase.speed.msg": "bien joué ",
     "scenarios.jungle_rock_island.jri_ds_320_rally.description": "Emmenez un version basique de la Bolide la où elle ne devrait pas",
     "scenarios.jungle_rock_island.jri_moose.speed.msg": "Trop lent… Roulez plus vite !",
-    "scenarios.port.port_escape.description": "Un contre la montre à travers le port\n",
+    "scenarios.port.port_escape.description": "Une course contre la montre à  travers le port\n",
     "scenarios.small_island.cop_chase.description": "Neutralisez la Pessima avec votre Sunburst de la police.",
     "scenarios.small_island.cop_chase.wayPointAction.wayPointMsg": "Arrêtez la Pessima !",
     "scenarios.small_island.intro_rally_stage3.description": "Un rallye d'un point à un autre.",
