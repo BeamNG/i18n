@@ -59,7 +59,7 @@
     "scenarios.gridmap.hard_parking.title": "Parking Difficile",
     "scenarios.hirochi_raceway.gm_racetest.description": "Une courte suite de petit sauts",
     "scenarios.hirochi_raceway.training_RWD_handling.description": "Apprenez la conduite d'une voiture a roues arrière motrices à ses limites sans perdre le contrôle ",
-    "scenarios.hirochi_raceway.training_acceleration_braking.description": "Voici les bases pour accélérer et freiner",
+    "scenarios.hirochi_raceway.training_acceleration_braking.description": "Ce test vous apprendra les bases de l’accélération et du freinage ",
     "scenarios.hirochi_raceway.training_acceleration_braking.position.msg": "Vous n'êtes pas dans la zone de freinage ...",
     "scenarios.hirochi_raceway.training_advanced_braking.nomove.msg": "Vous avez touché un cône ! La prochaine fois, essayez d'éviter de bloquer les roues en appuyant plus prudemment sur la pédale de frein.",
     "scenarios.hirochi_raceway.training_advanced_braking.title": "Entraînement 7 : Freinage avancé",
