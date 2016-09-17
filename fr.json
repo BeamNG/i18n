@@ -211,7 +211,7 @@
     "ui.feedback.submit": "Soumettre",
     "ui.hints.chooseDefaultVehicle": "Vous pouvez choisir et modifier le véhicule par défaut : direction le Garage !",
     "ui.hints.corneringWithKeyboard": "Quand vous prenez un virage avec un clavier, tappez régulièrement [action=steer_left] ou [action=steer_right] pour mieux contrôller l'angle et éviter le sous-virage.",
-    "ui.hints.countersteerEarly": "Si un véhicule commence à zigzaguer, vous devez corriger la trajectoire plus tôt et plus rapidement. L'utilisation d'un volant (ou d'une manette) est particulièrement recommandée.",
+    "ui.hints.countersteerEarly": "Si un véhicule commence a balancer d'un côté a l'autre, vous devez contre-balancer vite et rapidement. Utiliser un Volant (Ou une Manette) est grandement reccomandé.",
     "ui.hints.customLicensePlate": "Vous pouvez modifier le texte de la plaque d’immatriculation dans le sélécteur depieces [action=parts_selector].",
     "ui.hints.delicateCars": "Certaine voitures ne sont pas conçues pour etre malmenés, gardez un oeuil sur la jauge de température !",
     "ui.hints.engineBrakeForDownhill": "Mieux vaut utiliser le frein moteur dans les descentes avec les camions chargés, autrement les freins pourraient lâcher.",
