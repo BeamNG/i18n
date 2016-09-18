@@ -83,7 +83,7 @@
     "scenarios.driver_training.driver_training.training_rwd.title": "12 Training: Hinterradantrieb Handhabung",
     "scenarios.driver_training.safety_training.training_mu_braking.nomove.msg": "Triff nicht die Hütchen...",
     "scenarios.driver_training.safety_training.training_mu_braking.title": "Sicherheitstraining: μ-Bremsen",
-    "scenarios.driver_training.safety_training.training_slalom.nomove.msg": "Berühren Sie keine Kegel...",
+    "scenarios.driver_training.safety_training.training_slalom.nomove.msg": "Berühre nicht die Pylonen...",
     "scenarios.driver_training.safety_training.training_slalom.title": "Sicherheitstraining: Slalom",
     "scenarios.driver_training.safety_training.training_spin_recovery.nomove.msg": "Nicht die Kegel berühren...",
     "scenarios.driver_training.safety_training.training_spin_recovery.title": "Sicherheitstraining: Schleudern",
