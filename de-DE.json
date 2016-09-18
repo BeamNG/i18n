@@ -66,7 +66,7 @@
     "scenarios.driver_training.driver_training.training_cornerspeedB.nomove.msg": "Du hast ein Hütchen erwischt! Versuche innerhalb der Rüttelstreifen zu bleiben.",
     "scenarios.driver_training.driver_training.training_cornerspeedB.timeLimit.msg": "Du hast mehr als 50 Sekunden benötigt, versuche es mit etwas mehr Geschwindigkeit erneut",
     "scenarios.driver_training.driver_training.training_cornerspeedB.title": "Lektion 4.5: Kurvengeschwindigkeiten",
-    "scenarios.driver_training.driver_training.training_driftB.description": "Dieses Szenario lässt Dich deine Drifting-Fähigkeiten weiter entwickeln.",
+    "scenarios.driver_training.driver_training.training_driftB.description": "Dieses Szenario gibt dir die Möglichkeit deine Drift Fähigkeiten auszubauen.",
     "scenarios.driver_training.driver_training.training_driftB.drift.fail.msg": "Das nennst du Driften? Fahre schneller und seitlicher! Deine Punktzahl:",
     "scenarios.driver_training.driver_training.training_driftB.drift.msg": "Sehr gut, du hast das Skidpad mit Gummi bemalt! Deine Punktzahl:",
     "scenarios.driver_training.driver_training.training_driftB.title": "Lektion 10: Driften",
