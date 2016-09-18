@@ -427,6 +427,7 @@
     "ui.hints.moonGravity": "Você pode simular a gravidade da lua no menu \"Ambiente\".",
     "ui.hints.notAllCarsCanRace": "Muitos veículos não são apropriados para uma direção inspirada ou corrida em suas formas originais. Melhoramentos estão disponíveis no Seletor de Partes  [action=parts_selector] 1.",
     "ui.hints.oldCarsBurn": "Alguns carros antigos tem tendências a pegar fogo após uma batida, mas carros modernos são muito mais seguros.",
+    "ui.hints.parkingbrakeForTurning": "Use o freio de mão [action=parkingbrake] como um jeito rápido (e perigoso!) de virar.",
     "ui.hints.playMultiseat": "Conecte vários controles e jogue com seus amigos em casa, abrindo qualquer um dos cenários Multijogadores.",
     "ui.hints.publishScreenshots": "Se você gosta de tirar fotos do seu passeio, use [action=hide_ui] para esconder a interface e então [action=publishScreenShot] para fazer o upload da imagem.",
     "ui.hints.quickCameraMovement": "Segure [action=movefast] para mover a câmera mais rápido (não suportado por todas as câmeras).",
