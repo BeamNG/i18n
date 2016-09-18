@@ -572,7 +572,7 @@
     "ui.options.camera": "Camera",
     "ui.options.camera.chaseRollRelaxation": "Relaxation du Roulis Poursuite",
     "ui.options.camera.defaultMode": "Mode par défaut",
-    "ui.options.camera.enableCustom": "Activer les nouveaux modes ou modes perso",
+    "ui.options.camera.enableCustom": "Activer les nouveaux modes ou les modes personnalisés",
     "ui.options.camera.fovTune": "Régler champ de vision",
     "ui.options.camera.positionOffset": "Excentrage",
     "ui.options.camera.relaxation": "Relaxation",
