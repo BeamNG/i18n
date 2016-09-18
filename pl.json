@@ -453,6 +453,7 @@
     "ui.performance.benchmark.vehicles": "Pojazdy",
     "ui.performance.cpu": "Procesor (CPU)",
     "ui.performance.laptopGPU.controlPanel": "Idź do NVIDIA Control Panel",
+    "ui.performance.laptopGPU.manageSettings": "Idź do 'Zarządzaj ustawieniami 3D'",
     "ui.performance.os": "System Operacyjny (OS)",
     "ui.performance.score": "Wynik",
     "ui.performance.showDetails": "Pokaż szczegóły",
