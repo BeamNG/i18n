@@ -535,7 +535,7 @@
     "ui.hints.raceBrakesEffectiveness": "Rennbremsen verlieren ihre Wirksamkeit, wenn sie zu kalt sind.",
     "ui.hints.recoverVehicle": "Wenn Ihr Fahrzeug stecken bleibt, drücken Sie [action=recover_vehicle]1 um es wiederherzustellen.",
     "ui.hints.removeRearSeats": "Mach dein Auto schneller, indem du unnötiges Gewicht, wie die Rücksitze entfernst. Dies kannst du in der Teileauswahl [action=parts_selector] tun.",
-    "ui.hints.rollPitchApps": "Wenn Sie über Felsen fahren, können die \"Drehung\" und \"Neigung\" UI-Anwendungen nützlich sein.",
+    "ui.hints.rollPitchApps": "Wenn du gerne durch felsiges Gelände fährst, sind die Fahrzeug-Neigungs UI Apps vielleicht sinnvoll für Dich",
     "ui.hints.saveRestoreVehicleHome": "Du kannst einen neuen standart Spawn speichern, indem du [action=saveHome] drückst. Um dorthin zurückzukehren, drücke [action=loadHome]1",
     "ui.hints.showCustomVehicles": "Um Ihre eigenen Auto Konfigurationen in der Fahrzeugauswahl anzuzeigen, aktiviere Optionen > Gameplay > Zeige eigene Fahrzeuge.",
     "ui.hints.slideBackWithParkingBrake": "Du kannst das Heck der front-lastigen Vorderradangetriebenen Fahrzeuge leicht mit der Handbremse driften lassen, insbesondere auf lockerem Untergrund.",
