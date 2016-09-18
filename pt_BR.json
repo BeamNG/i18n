@@ -49,6 +49,7 @@
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.nomove.msg": "você bateu em algo",
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.timeLimit.msg": "Muito lento! O tempo limite é de 15 segundos",
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.title": "Treino 1: Aceleração e Frenagem (versão 2)",
+    "scenarios.driver_training.driver_training.training_advanced.description": "O percurso vai o familiarizar com as técnicas e linhas ideais necessárias para curvas difíceis",
     "scenarios.driver_training.driver_training.training_advanced.nomove.msg": "Você acertou um cone! Tente se manter dentro das zebras.",
     "scenarios.driver_training.driver_training.training_advanced.timeLimit.msg": "Você demorou mais que 42 segundos, tente novamente com mais velocidade",
     "scenarios.driver_training.driver_training.training_advanced.title": "Treinamento 8: Curvas Avançadas",
