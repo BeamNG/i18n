@@ -64,6 +64,7 @@
     "scenarios.east_coast_usa.tanker_delivery.description": "Dostarcz cysternę do garażu w mieście",
     "scenarios.east_coast_usa.tanker_delivery.distance.msg": "Straciłeś cysternę!",
     "scenarios.east_coast_usa.tanker_delivery.title": "Dostawa Cysterny",
+    "scenarios.gridmap.corridor.title": "Korytarz",
     "scenarios.gridmap.gm_ds_large_jumps.title": "Wielki Lot Vanstera",
     "scenarios.gridmap.gm_intersection.description": "Dostosuj swoją prędkość i spróbuj uderzyć inny samochód",
     "scenarios.gridmap.gm_intersection.title": "Skrzyżowanie",
