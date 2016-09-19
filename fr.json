@@ -535,7 +535,7 @@
     "ui.hints.thermalDebugApp": "Pour apprendre plus sur notre simulation de moteurs, vous pouvez ajouter l'application \"Engine Thermal Debug\" a l'interface (UI).",
     "ui.hints.tiresBurstOnBumps": "Tous les pneus ne sont pas conçus pour des vitesses et chargements élevés. Certains vont éclater lorsqu'ils heurtent des bosses à haute vitesse.",
     "ui.hints.toggleFogLights": "Si votre véhicule est équipé de feux de brouillard, vous pouvez les activer en utilisant [action=toggle_foglights].",
-    "ui.hints.toggleLightBars": "Les barres claires dans les véhicules d'urgence peuvent être basculées avec [action = toggle_lightbar_signal].",
+    "ui.hints.toggleLightBars": "Les gyrophares sur les véhicules d'urgences peuvent être allumées ou éteintes avec [action=toggle_lightbar_signal].",
     "ui.hints.toggleMods": "Vous pouvez rapidement activer et désactiver tous les mods en cliquant sur &quot;Actif All&quot; / &quot;Aucun&quot; dans le Gestionnaire Mod.",
     "ui.hints.towTrailer": "Pour attacher une remorque a votre véhicule : faites apparaître les deux avec [action=vehicle_selector], approchez la remorque et appuyez sur [action=couplersToggle]",
     "ui.hints.tuning": "Vous pouvez modifier la pression des pneus, la géométrie des trains roulant et d'autres réglages dans le menu \"Réglages\"\n[action=parts_selector].",
