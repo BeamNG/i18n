@@ -203,7 +203,7 @@
     "scenarios.hirochi_raceway.training_corner_speeds.nomove.msg": "Vous avez heurter un obstacle! La prochaine fois essayer de freiner plus tôt pour maintenir le contrôle dans la courbe.",
     "scenarios.hirochi_raceway.training_corner_speeds.timeLimit.msg": "Le temps est écoulé! Essayez à nouveau un peu plus vite.",
     "scenarios.hirochi_raceway.training_corner_speeds.title": "Entraînement 6: Vitesse de passage en Courbe",
-    "scenarios.hirochi_raceway.training_cornering.description": "Cela va vous apprendre comment utiliser une ligne de course pour une conduite plus efficace",
+    "scenarios.hirochi_raceway.training_cornering.description": "Cela va t'apprendre a utilisé une ligne de course pour une conduite plus efficace ",
     "scenarios.hirochi_raceway.training_cornering.nomove.msg": "Vous avez heurté quelque chose",
     "scenarios.hirochi_raceway.training_cornering.position.msg": "Vous n'êtes pas dans la zone de freinage ...",
     "scenarios.hirochi_raceway.training_cornering.title": "Entraînement 2: Prendre un virage",
