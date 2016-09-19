@@ -222,6 +222,7 @@
     "scenarios.hirochi_raceway.training_slalom_FWD.description": "Ce cours permettra de tester vos compétences de roue avant de manutention d'entraînement",
     "scenarios.hirochi_raceway.training_slalom_FWD.title": "Entraînement 8: Slalom Avec une Traction",
     "scenarios.hirochi_raceway.training_spin_recovery.description": "Cela vous former pour empêcher une voiture d'entraînement de roue arrière de patiner sur",
+    "scenarios.hirochi_raceway.training_spin_recovery.nomove.msg": "Vous avez quitté la zone de rétablissement! La prochaine fois, essayez d'anticiper le mouvement de la voiture pour éviter d'en perdre le contrôle.",
     "scenarios.hirochi_raceway.training_spin_recovery.timeLimit.msg": "Le temps est écoulé! Essayez à nouveau un peu plus vite.",
     "scenarios.hirochi_raceway.training_spin_recovery.title": "Entraînement 5: Sortie de Vrille",
     "scenarios.jungle_rock_island.drag_race.description": "Prenez votre Drag Barstow et gagner une course de traînée contre un Drag Édition Moonhawk. Vous devez passer sur votre propre et l'heure de votre départ précisément.",
