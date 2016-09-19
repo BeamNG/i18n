@@ -282,7 +282,7 @@
     "scenarios.utah.chapter_1.chapter_1_cannon.title": "Canon",
     "scenarios.utah.chapter_1.chapter_1_cliffjump.description": "Chapitre 1: Descente de la Falaise - statistiques: distance verticale relative atteinte, dégâts , temps, score: distance veritcale relative moins (dégâts + temps) (retrouvez-vous en bas avec le moins de dégâts possible), échec: n'a pas bougé  du point de départ en 20 secondes, limite de temps de 40 secondes",
     "scenarios.utah.chapter_1.chapter_1_cliffjump.title": "La Descente de la Falaise",
-    "scenarios.utah.chapter_1.chapter_1_crawl.damage.msg": "Vous aurez détruit votre voiture dans",
+    "scenarios.utah.chapter_1.chapter_1_crawl.damage.msg": "Vous avez détruit la voiture en ",
     "scenarios.utah.chapter_1.chapter_1_crawl.title": "Crawl",
     "scenarios.utah.chapter_1.chapter_1_drag.description": "Chapitre 1: Drag Race - Statistiques: le temps pris, score: temps les dégâts subis moins pris, (être aussi rapide que possible sans subir de dégâts), l'échec: la course n'a pas fini, Note: besoin d'un moyen de rendre la voiture AI essayer de race et aussi spontanément exploser (trigger particules, le son et briser certains groupes de rupture spécifiques peut-être)",
     "scenarios.utah.chapter_1.chapter_1_drag.title": "course d'accélération",
