@@ -523,7 +523,7 @@
     "ui.hints.recoverVehicle": "Si votre véhicule est bloqué, appuyez sur [action=recover_vehicle] pour se rétablir.",
     "ui.hints.removeRearSeats": "Pour rendre votre véhicule plus rapide, vous pouvez l'alléger en retirant des pièces inutilisés comme les sièges arrieres en se rendant dans le Sélectionneur de Pièces [action=parts_selector].",
     "ui.hints.rollPitchApps": "Si vous aimez le \"Crawling\", les Apps \"Roll\" et \"Pitch\" vous seront très utiles.",
-    "ui.hints.saveRestoreVehicleHome": "Vous pouvez sauver la maison de véhicule avec [action = saveHome] et plus tard le restaurer avec [action = loadHome]",
+    "ui.hints.saveRestoreVehicleHome": "Vous pouvez sauvegarder l'emplacement actuel du véhicule avec [action=saveHome] et y revenir avec [action=loadHome]",
     "ui.hints.showCustomVehicles": "Pour afficher vos propres configurations de voitures personnalisées dans le sélecteur de véhicules, activez Options > Options de jeu > Afficher les véhicules personnalisés.",
     "ui.hints.slideBackWithParkingBrake": "Vous pouvez faire glisser l'arrière de l'avant-roues motrices véhicules nez-lourds facilement avec le frein de stationnement, en particulier sur les surfaces libres.",
     "ui.hints.slowMotionPhysics": "Admirez la physique au ralenti à l'aide de [action=slow_motion] et [action=faster_motion].",
