@@ -66,7 +66,7 @@
     "scenarios.driver_training.driver_training.training_cornerspeedB.timeLimit.msg": "Vous avez mis plus de 50 secondes, essayez à  nouveau avec un peu plus de vitesse",
     "scenarios.driver_training.driver_training.training_cornerspeedB.title": "Entraînement 4.5: Vitesse de passage en Courbe",
     "scenarios.driver_training.driver_training.training_driftB.description": "Ce scénario vous permet d'améliorer vos compétences en drift.",
-    "scenarios.driver_training.driver_training.training_driftB.drift.fail.msg": "Vous appelez ça du drift? Allez plus vite et un angle plus grand! Ton score: ",
+    "scenarios.driver_training.driver_training.training_driftB.drift.fail.msg": "Tu appelles ça drifter? Donne-lui plus de vitesse et d'angle! Ton score:",
     "scenarios.driver_training.driver_training.training_driftB.drift.msg": "Bon travail, vous avez repeint la piste avec de la gomme ! Votre score:",
     "scenarios.driver_training.driver_training.training_driftB.title": "Entraînement 10: Dérapage",
     "scenarios.driver_training.driver_training.training_hairpins3.5.description": "Vous allez apprendre comment utiliser le frein à main pour naviguer à travers un virage en tête d'épingle",
