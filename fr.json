@@ -109,7 +109,7 @@
     "scenarios.east_coast_usa.destroy_the_car.timeLimit.msg": "Le temps est écoulé",
     "scenarios.east_coast_usa.destroy_the_car.title": "Détruisez la Moonhawk",
     "scenarios.east_coast_usa.east_coast_chase_1.damage.msg": "Vous avez détruit votre voiture",
-    "scenarios.east_coast_usa.east_coast_chase_1.description": "Rapports d'un criminel autour de la scierie. Allez attraper!",
+    "scenarios.east_coast_usa.east_coast_chase_1.description": "Rapport d'un criminel près de la scierie. Allez l'attraper!",
     "scenarios.east_coast_usa.east_coast_chase_1.distance.msg": "Le suspect s'est enfui",
     "scenarios.east_coast_usa.east_coast_chase_1.speed.msg": "bien joué",
     "scenarios.east_coast_usa.east_coast_chase_1.title": "East Coast Chase 1",
