@@ -501,7 +501,7 @@
     "ui.hints.customizeSpecializedBindings": "Vous pouvez personnaliser les touches pour les fonctions spécifiques au véhicule (utilisés dans le broyeur de voiture, canons, etc.) en cliquant sur le coin supérieur droit de l'écran.",
     "ui.hints.delicateCars": "Certaine voitures ne sont pas conçues pour etre malmenés, gardez un oeuil sur la jauge de température !",
     "ui.hints.driveAtNight": "Vous pouvez conduire la nuit en changeant les paramètres dans le menu «Environnement».",
-    "ui.hints.driveTheCanon": "Saviez-vous que vous pouvez conduire (et tirer!) avec un canon? Filtre les \"objets\" dans le sélecteur de véhicule [action=vehicle_selector].",
+    "ui.hints.driveTheCanon": "Saviez-vous que vous pouvez conduire (et tirer !) avec un canon ? Dans le sélecteur de véhicule, vous pouvez filter les \"Prop\" [action=vehicle_selector].",
     "ui.hints.driveWithMouse": "Vous pouvez conduire en utilisant votre souris. Il suffit d'aller dans le menu Contrôles et affecter de nouvelles touches.",
     "ui.hints.engineBrakeForDownhill": "Mieux vaut utiliser le frein moteur dans les descentes avec les camions chargés, autrement les freins pourraient lâcher.",
     "ui.hints.funStabilityControl": "Voitures avec contrôle de stabilité peuvent passer à des modes plus dangereux (mais amusant) en utilisant [action = toggleESCMode].",
