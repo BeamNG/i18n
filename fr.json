@@ -487,7 +487,7 @@
     "ui.faq.spawnVehicle.q": "Comment faire apparaître d'autres véhicules ?",
     "ui.faq.updateGame.a": "Steam installe automatiquement les mises à jour lorsque vous êtes connecté à Internet [br] Pour plus d'informations, visitez notre page wiki [url=http://wiki.beamng.com/Updating_the_game]. http://wiki.beamng.com/Updating_the_game[/url]",
     "ui.faq.updateGame.q": "Comment mettre à jour le jeu ?",
-    "ui.faq.useMods.a": "Après l'installation d'un mod, vous trouverez le mod dans le menu véhicule ou le sélecteur de niveau.",
+    "ui.faq.useMods.a": "Après l'installation d'un mod, vous le trouverez dans le menu véhicule ou le sélecteur de niveau.",
     "ui.faq.useMods.q": "Comment utiliser les Mods ?",
     "ui.feedback.back": "Retour",
     "ui.feedback.clear": "Effacer",
