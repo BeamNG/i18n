@@ -54,7 +54,7 @@
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.position.msg": "Vous avez manqué la zone de freinage",
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.timeLimit.msg": "Trop lent! Le délai est de 15 secondes",
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.title": "Entraînement 1: Accélération et freinage (version 2)",
-    "scenarios.driver_training.driver_training.training_advanced.description": "Ce cours vous familiariser avec les techniques et les lignes de course nécessaires à plusieurs tours de difficulté avancés",
+    "scenarios.driver_training.driver_training.training_advanced.description": "Cette course va vous familiariser avec les techniques et les lignes à la corde nécessaires à augmenter la difficulté.",
     "scenarios.driver_training.driver_training.training_advanced.nomove.msg": "Vous avez touché un cône! Essayez de rester à l'intérieur des bandes rugueuses.",
     "scenarios.driver_training.driver_training.training_advanced.timeLimit.msg": "Vous avez mit plus de 42 secondes, essayez à nouveau un peu plus vite",
     "scenarios.driver_training.driver_training.training_advanced.title": "Entraînement 8: Prendre un virage avancé",
