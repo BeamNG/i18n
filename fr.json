@@ -641,7 +641,7 @@
     "ui.options.theme": "Thème",
     "ui.options.theme.accent": "Accentué",
     "ui.options.theme.background": "Contexte",
-    "ui.options.theme.dark": "Thème noir",
+    "ui.options.theme.dark": "Thème sombre",
     "ui.options.theme.primary": "Primaire",
     "ui.options.theme.reset": "Réinitialiser Thème",
     "ui.options.theme.warn": "Chaud",
