@@ -65,7 +65,7 @@
     "scenarios.driver_training.driver_training.training_cornerspeedB.nomove.msg": "Vous avez touché un cône ! Essayez de rester entre les bandes rugueuses.",
     "scenarios.driver_training.driver_training.training_cornerspeedB.timeLimit.msg": "Vous avez mis plus de 50 secondes, essayez à  nouveau avec un peu plus de vitesse",
     "scenarios.driver_training.driver_training.training_cornerspeedB.title": "Entraînement 4.5: Vitesse de passage en Courbe",
-    "scenarios.driver_training.driver_training.training_driftB.description": "Ce scénario vous permet d'améliorer votre dextérité pour le drift.",
+    "scenarios.driver_training.driver_training.training_driftB.description": "Ce scénario vous permet d'améliorer vos compétences en drift.",
     "scenarios.driver_training.driver_training.training_driftB.drift.fail.msg": "Vous appelez ça du drift? Allez plus vite et un angle plus grand! Ton score: ",
     "scenarios.driver_training.driver_training.training_driftB.drift.msg": "Great job, vous avez peint que coussinet de caoutchouc! Ton score:",
     "scenarios.driver_training.driver_training.training_driftB.title": "Entraînement 10: Dérapage",
