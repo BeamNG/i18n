@@ -147,6 +147,7 @@
     "scenarios.east_coast_usa.rallycross_nd_long_a1.title": "Cours de longue Rallycross",
     "scenarios.east_coast_usa.tanker_delivery.damage.msg": "Vous endommagé la remorque",
     "scenarios.east_coast_usa.tanker_delivery.description": "Livrer une remorque-citerne au garage en ville",
+    "scenarios.east_coast_usa.tanker_delivery.distance.msg": "Vous avez perdu la remorque !",
     "scenarios.east_coast_usa.tanker_delivery.title": "Livraison de Citerne",
     "scenarios.east_coast_usa.town_course_short_a.description": "Un court sprint de rallye autour de la ville",
     "scenarios.east_coast_usa.town_course_short_a.title": "Ville Short Course A",
