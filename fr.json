@@ -113,7 +113,7 @@
     "scenarios.east_coast_usa.east_coast_chase_1.distance.msg": "Le suspect s'est enfui",
     "scenarios.east_coast_usa.east_coast_chase_1.speed.msg": "bien joué",
     "scenarios.east_coast_usa.east_coast_chase_1.title": "East Coast Chase 1",
-    "scenarios.east_coast_usa.east_coast_chase_1.wayPointAction.msg": "Arrêtez le criminel!",
+    "scenarios.east_coast_usa.east_coast_chase_1.wayPointAction.msg": "Arrêtez le criminel !",
     "scenarios.east_coast_usa.east_coast_chase_2.damage.msg": "Vous avez détruit votre voiture",
     "scenarios.east_coast_usa.east_coast_chase_2.description": "Catch que moonhawk!",
     "scenarios.east_coast_usa.east_coast_chase_2.distance.msg": "Le suspect c'est enfui",
