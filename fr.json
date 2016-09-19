@@ -94,7 +94,7 @@
     "scenarios.east_coast_usa.car_delivery.description": "Transporter une Hirochi Sunburst Race Edition neuve à son nouveau propriétaire à la campagne",
     "scenarios.east_coast_usa.car_delivery.distance.msg": "Vous avez perdu la voiture !",
     "scenarios.east_coast_usa.car_delivery.title": "Car Livraison",
-    "scenarios.east_coast_usa.car_delivery_2.damage.msg": "Vous endommagé votre voiture ...",
+    "scenarios.east_coast_usa.car_delivery_2.damage.msg": "Vous avez endommagé votre voiture...",
     "scenarios.east_coast_usa.car_delivery_2.description": "Livrez une supercar classique de grande valeur à une maison en ville.",
     "scenarios.east_coast_usa.car_delivery_2.distance.msg": "Vous avez perdu la voiture !",
     "scenarios.east_coast_usa.car_delivery_2.title": "Livraison de voiture 2",
