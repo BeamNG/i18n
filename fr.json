@@ -160,7 +160,7 @@
     "scenarios.gridmap.gm_ds_offroad_shortcourse.title": "Off-Road Short Course",
     "scenarios.gridmap.gm_intersection.description": "Calibrer votre vitesse et essayer de frapper l'autre voiture",
     "scenarios.gridmap.gm_intersection.title": "Intersection",
-    "scenarios.gridmap.gm_intersection_2.description": "Calibrer votre vitesse et essayer de frapper l'autre voiture. Cette fois-ci avec une torsion!",
+    "scenarios.gridmap.gm_intersection_2.description": "Calibrer votre vitesse et essayer d'entrer en collision avec l'autre voiture. Cette fois-ci avec un tête à queue !",
     "scenarios.gridmap.gm_intersection_2.title": "Intersection 2",
     "scenarios.gridmap.gm_jumps.description": "Une courte série de petits sauts",
     "scenarios.gridmap.gm_jumps.title": "Sauts",
