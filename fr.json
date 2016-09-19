@@ -609,7 +609,7 @@
     "ui.options.graphics.GraphicTextureQuality": "La qualité de texture",
     "ui.options.graphics.PostFXDOFGeneralEnabled": "DoF",
     "ui.options.graphics.PostFXHDRGeneralEnabled": "HDR",
-    "ui.options.graphics.PostFXLightRaysEnabled": "Rayons Lumineux",
+    "ui.options.graphics.PostFXLightRaysEnabled": "Rayons de Lumières",
     "ui.options.graphics.PostFXSSAOGeneralEnabled": "SSAO",
     "ui.options.graphics.antialiasing": "Anti-Crénelage",
     "ui.options.graphics.borderless": "Fenêtre sans bordures",
