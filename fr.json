@@ -663,7 +663,7 @@
     "ui.performance.laptopGPU.controlPanel": "Allez au panneau de configuration Nvidia",
     "ui.performance.laptopGPU.customize": "Personnaliser BeamNG.drive pour utiliser «processeur NVIDIA hautes performances»",
     "ui.performance.laptopGPU.manageSettings": "Dirigez vous vers \"Gérer les paramètres 3D\"",
-    "ui.performance.laptopGPU.more": "Pour plus d'informations ou des cartes AMD s'il vous plaît consultez notre [url = http: //wiki.beamng.com/Dedicated_Graphics] Guide Wiki [/ url] ou s'il vous plaît contacter notre support",
+    "ui.performance.laptopGPU.more": "Pour plus d'informations sur les cartes graphiques AMD, consultez notre Wiki [url=http://wiki.beamng.com/Dedicated_Graphics] ou contactez notre Support",
     "ui.performance.maxRealtimeVehicles": "Max véhicules temps réel",
     "ui.performance.minRequired": "Le minimum",
     "ui.performance.os": "Système d'exploitation",
