@@ -408,7 +408,7 @@
     "ui.debug.activatePhysics": "Activer Physique",
     "ui.debug.effects": "Effets",
     "ui.debug.effects.fov": "Champ de Vision",
-    "ui.debug.effects.msg.fovOnlyInFreeMode": "Le champ de vision marche seulement en mode \"caméra libre\".",
+    "ui.debug.effects.msg.fovOnlyInFreeMode": "Le champ de vision marche uniquement avec la caméra libre",
     "ui.debug.renderer": "Moteur de Rendu",
     "ui.debug.renderer.boundingBoxes": "Zone de délimitation",
     "ui.debug.renderer.disableShadows": "Désactiver les Ombres",
