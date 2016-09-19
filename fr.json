@@ -496,7 +496,7 @@
     "ui.hints.chooseShiftingMode": "Pour définir un nouveau mode par défaut de changement de vitesse, appuyez sur [action=toggleShifterMode]",
     "ui.hints.corneringWithKeyboard": "Quand vous prenez un virage avec un clavier, tappez régulièrement [action=steer_left] ou [action=steer_right] pour mieux contrôller l'angle et éviter le sous-virage.",
     "ui.hints.countersteerEarly": "Si un véhicule commence a balancer d'un côté a l'autre, vous devez contre-balancer vite et rapidement. Utiliser un Volant (Ou une Manette) est grandement reccomandé.",
-    "ui.hints.cruiseControlApp": "Pour de long et détendu voyages sur l'autoroute, vous pouvez ajouter l'application \"Régulateur de Vitesse\". Elle fonctionne pour toutes les voitures!",
+    "ui.hints.cruiseControlApp": "Pour de longs voyages relax sur des voies rapides, vous pouvez ajouter l'application \"Régulateur de Vitesse\". Elle fonctionne pour toutes les voitures !",
     "ui.hints.customLicensePlate": "Vous pouvez modifier le texte de la plaque d’immatriculation dans le sélécteur depieces [action=parts_selector].",
     "ui.hints.customizeSpecializedBindings": "Vous pouvez personnaliser les touches pour les fonctions spécifiques au véhicule (utilisés dans le broyeur de voiture, canons, etc.) en cliquant sur le coin supérieur droit de l'écran.",
     "ui.hints.delicateCars": "Certaine voitures ne sont pas conçues pour etre malmenés, gardez un oeuil sur la jauge de température !",
