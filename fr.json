@@ -425,7 +425,7 @@
     "ui.debug.renderer.wireframeMode": "WireframeMode",
     "ui.debug.terrain": "Terrain",
     "ui.debug.terrain.groundmodel": "Groundmodel Debug",
-    "ui.debug.terrain.staticCollision": "statique Collision",
+    "ui.debug.terrain.staticCollision": "Collision statique",
     "ui.debug.userInterface": "Interface Utilisateur",
     "ui.debug.userInterface.enable": "Activer JS Debug Logs",
     "ui.debug.vehicle": "Debug du véhicule",
