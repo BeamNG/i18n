@@ -51,6 +51,7 @@
     "scenarios.east_coast_usa.car_delivery_2.description": "Dostarcz cenny klasyczny supersamochód do domu w mieście.",
     "scenarios.east_coast_usa.car_delivery_2.title": "Dostarczenie samochodu 2",
     "scenarios.east_coast_usa.deliverytruck_takedown.damage.msg": "Zniszczyłeś swój samochód.",
+    "scenarios.east_coast_usa.destroy_the_car.timeLimit.msg": "Skończył ci się czas",
     "scenarios.east_coast_usa.east_coast_chase_1.damage.msg": "Rozbiłeś swój samochód",
     "scenarios.east_coast_usa.east_coast_chase_1.distance.msg": "Podejrzany uciekł",
     "scenarios.east_coast_usa.east_coast_chase_2.distance.msg": "Podejrzany uciekł",
