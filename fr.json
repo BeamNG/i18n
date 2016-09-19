@@ -67,7 +67,7 @@
     "scenarios.driver_training.driver_training.training_cornerspeedB.title": "Entraînement 4.5: Vitesse de passage en Courbe",
     "scenarios.driver_training.driver_training.training_driftB.description": "Ce scénario vous permet d'améliorer vos compétences en drift.",
     "scenarios.driver_training.driver_training.training_driftB.drift.fail.msg": "Vous appelez ça du drift? Allez plus vite et un angle plus grand! Ton score: ",
-    "scenarios.driver_training.driver_training.training_driftB.drift.msg": "Great job, vous avez peint que coussinet de caoutchouc! Ton score:",
+    "scenarios.driver_training.driver_training.training_driftB.drift.msg": "Bon travaille, vous avez repeint la piste avec du caoutchouc! Ton score:",
     "scenarios.driver_training.driver_training.training_driftB.title": "Entraînement 10: Dérapage",
     "scenarios.driver_training.driver_training.training_hairpins3.5.description": "Vous allez apprendre comment utiliser le frein à main pour naviguer à travers un virage en tête d'épingle",
     "scenarios.driver_training.driver_training.training_hairpins3.5.nomove.msg": "Vous avez heurté quelque chose",
