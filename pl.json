@@ -292,6 +292,7 @@
     "scenarios.utah.chapter_1.chapter_1_drag.title": "Wyścig Równoległy",
     "scenarios.utah.chapter_1.chapter_1_highway.description": "Rozdział 1: Autostrada - statystyki:  wynik: ",
     "scenarios.utah.chapter_1.chapter_1_highway.title": "Autostrada",
+    "scenarios.utah.chapter_1.chapter_1_hilldrop.description": "Rodzial 1: Zjazd - statystyki: otrzymane obrażenia, przejechany dystans, wynik: przejechany dystans, (przejedź jak najdalej jak to możliwe w ciagu 20 sekund (limit czasu!!), niepowodzenie: nie poruszyłeś się z obszaru startu przez 10 sekund",
     "scenarios.utah.chapter_1.chapter_1_hilldrop.title": "Spadek",
     "scenarios.utah.chapter_1.chapter_1_jump.damage.msg": "Zniszczyłeś samochód w ciągu ",
     "scenarios.utah.chapter_1.chapter_1_jump.description": "Rozdział 1: Skok - statystyki: wynik: niepowodzenie: ",
