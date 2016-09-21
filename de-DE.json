@@ -119,7 +119,7 @@
     "scenarios.driver_training.driver_training.training_cornering2.5.title": "Lektion 2.5: Kurven fahren",
     "scenarios.driver_training.driver_training.training_cornerspeedB.description": "Dieser Kurs wird dich mit den Geschwindigkeiten, die für verschiedene Kurvenradien benötigt werden, vertraut machen",
     "scenarios.driver_training.driver_training.training_cornerspeedB.nomove.msg": "Du hast ein Hütchen erwischt! Versuche innerhalb der Rüttelstreifen zu bleiben.",
-    "scenarios.driver_training.driver_training.training_cornerspeedB.timeLimit.msg": "Du hast mehr als {{timeLimit}} Sekunden benötigt, versuche es mit etwas mehr Geschwindigkeit erneut",
+    "scenarios.driver_training.driver_training.training_cornerspeedB.timeLimit.msg": "Du hast mehr als {{timeLimit}} Sekunden benötigt, versuche es erneut mit etwas mehr Geschwindigkeit",
     "scenarios.driver_training.driver_training.training_cornerspeedB.title": "Lektion 4.5: Kurvengeschwindigkeiten",
     "scenarios.driver_training.driver_training.training_driftB.description": "Dieses Szenario ermöglicht es dir, deine Driftfähigkeiten zu verbessern.",
     "scenarios.driver_training.driver_training.training_driftB.drift.fail.msg": "Das nennst du Driften? Fahre schneller und seitlicher! Deine Punktzahl:",
