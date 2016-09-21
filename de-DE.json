@@ -1,5 +1,6 @@
 {
     "campaigns.utah.chapter_1.title": "Kapitel Eins",
+    "campaigns.utah.chapter_2.mixed.title": "Kapitel 2 gemischt",
     "engine.cef.subprocessdied.msg": "Der UI- Prozess hat nicht rechtzeitig reagiert.\nDies kann passieren, wenn ein Antivirenprogramm die BeamNG.drive.ui.exe Anwendung blockiert.\n\nDu kannst hier weitere Hilfe erhalten :\n\nhttp://wiki.beamng.com/Errors/Unresponsive_UI_Process\n\nMöchtest du jetzt diese Seite in deinem Browser öffnen?",
     "engine.cef.subprocessdied.title": "Nicht reagierende Benutzeroberfläche",
     "engine.cef.subprocessdied.url": "http://wiki.beamng.com/Errors/Unresponsive_UI_Process",
