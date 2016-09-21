@@ -90,7 +90,7 @@
     "scenarios.driver_training.safety_training.training_spin_recovery.nomove.msg": "Berühre nicht die Pylonen...",
     "scenarios.driver_training.safety_training.training_spin_recovery.title": "Sicherheitstraining: Schleudern",
     "scenarios.east_coast_usa.bank_robbery.description": "Du hörst von einem Bankraub in deinem lokalen Ort. Kümmere dich darum und halte den flüchtenden Verdächtigen bevor er sein Versteck erreicht.",
-    "scenarios.east_coast_usa.bank_robbery.onRaceWaypoint.msg": "Halte den Räuber auf!",
+    "scenarios.east_coast_usa.bank_robbery.onRaceWaypoint.msg": "Halte den Dieb auf!",
     "scenarios.east_coast_usa.bank_robbery.title": "Bankraub",
     "scenarios.east_coast_usa.car_delivery.damage.msg": "Du hast dein Fahrzeug beschädigt...",
     "scenarios.east_coast_usa.car_delivery.description": "Transportiere einen brandneuen Hirochi Sunburst Race Edition zu seinem neuen Besitzer auf dem Land",
