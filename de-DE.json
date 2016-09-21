@@ -138,7 +138,7 @@
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.title": "Lektion 1: Beschleunigung und Bremsen (Version 2)",
     "scenarios.driver_training.driver_training.training_advanced.description": "Dieser Kurs wird dir die Techniken und Rennlinien beibringen, die du für fortgeschrittenere schwierige Kurven brauchst",
     "scenarios.driver_training.driver_training.training_advanced.nomove.msg": "Du hast ein Hütchen erwischt! Versuche innerhalb der Rüttelstreifen zu bleiben.",
-    "scenarios.driver_training.driver_training.training_advanced.timeLimit.msg": "Du hast mehr als 42 Sekunden gebraucht, versuche es erneut mit etwas mehr Geschwindigkeit",
+    "scenarios.driver_training.driver_training.training_advanced.timeLimit.msg": "Du hast mehr als {{timeLimit}} Sekunden gebraucht, versuche es erneut mit etwas mehr Geschwindigkeit",
     "scenarios.driver_training.driver_training.training_advanced.title": "Lektion 8: Fortgeschrittenes Kurvenfahren",
     "scenarios.driver_training.driver_training.training_cornering2.5.description": "Dieser Kurs wird deine Fähigkeit, einen Kurvenradius beizubehalten, testen",
     "scenarios.driver_training.driver_training.training_cornering2.5.nomove.msg": "du hast etwas getroffen",
