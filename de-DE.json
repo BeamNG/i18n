@@ -619,6 +619,7 @@
     "ui.mainmenu.options": "OPTIONEN",
     "ui.mainmenu.play": "SPIELEN",
     "ui.mainmenu.repo": "Datenbank",
+    "ui.modmanager.deactiveAll": "Alle Mods deaktivieren",
     "ui.modmanager.filename": "Dateiname",
     "ui.modmanager.modmanager": "Modifikations-Manager",
     "ui.modmanager.openInExplorer": "Im Explorer öffnen",
