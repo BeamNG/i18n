@@ -181,6 +181,7 @@
     "scenarios.gridmap.gm_suspension_race.description": "Fahre durch die Fahrwerksteststrecke",
     "scenarios.gridmap.gm_suspension_race.title": "Aufhängungsrennen",
     "scenarios.gridmap.hard_parking.description": "Parke so schnell wie möglich zwischen zwei Autos ein, indem du in die Parklücke rutschst.",
+    "scenarios.gridmap.hard_parking.fail.time.msg": "Du hast mehr als {{time}} Sekunden gebraucht",
     "scenarios.gridmap.hard_parking.title": "Einparkwettbewerb",
     "scenarios.gridmap.slalom.description": "Ein Slalomkurs",
     "scenarios.gridmap.slalom.title": "Slalom",
