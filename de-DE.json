@@ -25,6 +25,7 @@
     "engine.windowedModeReq.msgEditor": "Bitte beende den Missionseditor um in den Vollbildmodus zu wechseln.",
     "engine.windowedModeReq.msgGUI": "Bitte beende den GUI-Editor um in den Vollbildmodus zu wechseln.",
     "engine.windowedModeReq.title": "erfordert Fenstermodus",
+    "levels.cardealer.info.roads": "60% schneller Asphalt, 40% Schotterpiste",
     "levels.dry_rock_island.info.title": "Dry Rock Island",
     "levels.utah.info.description": "Canyonlands-inspirierte Karte in Utah. Große Mengen an Staub, Dreck und Steinen bedecken diese Karte.",
     "scenarios.Industrial.autocrosstest.description": "Autocross Test",
