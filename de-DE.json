@@ -294,7 +294,7 @@
     "scenarios.utah.chapter_1.chapter_1_cannon.description": "Kapitel 1: Kanone - Statistiken: Schaden am gegnerischen Auto, Punktzahl: Schaden am gegnerischen Auto, (Richte so viel Schaden wie möglich mit nur einem Schuss am gegnerischen Auto an), Fehlschlag: Kanone in 20 Sekunden nicht abgefeuert",
     "scenarios.utah.chapter_1.chapter_1_cannon.title": "Kanone",
     "scenarios.utah.chapter_1.chapter_1_cliffjump.description": "Kapitel 1: Klippen-Abfahrt - Statistiken: absolvierte Höhenmeter, erhaltener Schaden, Zeit, Punktzahl: absolvierte Höhenmeter minus (erhaltener Schaden + benötigte Zeit) (Fahre so schnell wie möglich nach unten mit so wenig Schaden wie möglich), Fehlschlag: Oberen Bereich nicht in 20 Sekunden verlassen, 40 Sekunden Zeitlimit",
-    "scenarios.utah.chapter_1.chapter_1_cliffjump.timeLimit.msg": "Du hast das obere Areal nicht in {{failureTime}} Sekunden verlassen!",
+    "scenarios.utah.chapter_1.chapter_1_cliffjump.timeLimit.msg": "Du hast den oberen Bereich nicht in {{failureTime}} Sekunden verlassen!",
     "scenarios.utah.chapter_1.chapter_1_cliffjump.title": "Klippen-Abfahrt",
     "scenarios.utah.chapter_1.chapter_1_crawl.damage.msg": "Du hast das Auto in {{timeStr}} zerstört",
     "scenarios.utah.chapter_1.chapter_1_crawl.description": "Kapitel 1: Crawl - Statistiken:  Punktzahl:  Fehlschlag: ",
