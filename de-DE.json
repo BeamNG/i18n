@@ -107,7 +107,7 @@
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.description": "Dies wird dir die Grundlagen des Beschleunigens und Bremsens zeigen",
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.nomove.msg": "du hast etwas berührt",
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.position.msg": "Du hast die Bremszone verpasst",
-    "scenarios.driver_training.driver_training.training_acceleration_braking1.5.timeLimit.msg": "Zu langsam! Das Zeitlimit ist 15 Sekunden",
+    "scenarios.driver_training.driver_training.training_acceleration_braking1.5.timeLimit.msg": "Zu langsam! Das Zeitlimit ist {{timeLimit}} Sekunden",
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.title": "Lektion 1: Beschleunigung und Bremsen (Version 2)",
     "scenarios.driver_training.driver_training.training_advanced.description": "Dieser Kurs wird dir die Techniken und Rennlinien beibringen, die du für fortgeschrittenere schwierige Kurven brauchst",
     "scenarios.driver_training.driver_training.training_advanced.nomove.msg": "Du hast ein Hütchen erwischt! Versuche innerhalb der Rüttelstreifen zu bleiben.",
