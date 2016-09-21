@@ -199,6 +199,7 @@
     "scenarios.east_coast_usa.bank_robbery.damage.fail.msg": "Rozbiłeś swój samochód",
     "scenarios.east_coast_usa.bank_robbery.description": "Masz zgłoszenie o napadzie na bank w twoim mieście. Odpowiedz na zgłoszenie i zatrzymaj podejrzanego zanim dotrze do swojej kryjówki.",
     "scenarios.east_coast_usa.bank_robbery.distance.fail.msg": "Podejrzany uciekł",
+    "scenarios.east_coast_usa.bank_robbery.onRaceWaypoint.msg": "Zatrzymaj złodzieja!",
     "scenarios.east_coast_usa.bank_robbery.title": "Napad Na Bank",
     "scenarios.east_coast_usa.bank_robbery.win.msg": "Dobra robota, twój czas: {{timeLimit}}",
     "scenarios.east_coast_usa.car_delivery.damage.msg": "Uszkodziłeś swój pojazd...",
