@@ -41,6 +41,7 @@
     "engine.windowedModeReq.msgEditor": "Bitte beende den Missionseditor um in den Vollbildmodus zu wechseln.",
     "engine.windowedModeReq.msgGUI": "Bitte beende den GUI-Editor um in den Vollbildmodus zu wechseln.",
     "engine.windowedModeReq.title": "erfordert Fenstermodus",
+    "extensions.scenario.damageGoal.fail.msg": "Du hast dein Auto beschädigt",
     "levels.Cliff.info.title": "Klippe",
     "levels.Gridmap.info.roads": "Einige Schotterstraßen",
     "levels.cardealer.info.roads": "60% schneller Asphalt, 40% Schotter",
