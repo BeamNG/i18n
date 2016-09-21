@@ -287,7 +287,7 @@
     "scenarios.utah.chapter_1.chapter_1_cannon.title": "Kanone",
     "scenarios.utah.chapter_1.chapter_1_cliffjump.description": "Kapitel 1: Klippen-Abfahrt - Statistiken: absolvierte Höhenmeter, erhaltener Schaden, Zeit, Punktzahl: absolvierte Höhenmeter minus (erhaltener Schaden + benötigte Zeit) (Fahre so schnell wie möglich nach unten mit so wenig Schaden wie möglich), Fehlschlag: Oberen Bereich nicht in 20 Sekunden verlassen, 40 Sekunden Zeitlimit",
     "scenarios.utah.chapter_1.chapter_1_cliffjump.title": "Klippen-Abfahrt",
-    "scenarios.utah.chapter_1.chapter_1_crawl.damage.msg": "Du hast das Auto zerstört in ",
+    "scenarios.utah.chapter_1.chapter_1_crawl.damage.msg": "Du hast das Auto in {{timeStr}} zerstört",
     "scenarios.utah.chapter_1.chapter_1_crawl.description": "Kapitel 1: Crawl - Statistiken:  Punktzahl:  Fehlschlag: ",
     "scenarios.utah.chapter_1.chapter_1_crawl.title": "Crawl",
     "scenarios.utah.chapter_1.chapter_1_drag.description": "Kapitel 1: Drag Rennen - Statistiken: benötigte Zeit, Punktzahl: benötigte Zeit minus erhaltener Schaden, (sei so schnell wie möglich ohne Schaden zu erhalten), Fehlschlag: Rennen nicht beendet, Anmerkung: brauchen einen Weg, das AI Auto zum Rennenfahren und spontanen explodieren zu bringen (Trigger Partikel, Ton und vielleicht einige bestimmte Break Gruppen brechen)",
