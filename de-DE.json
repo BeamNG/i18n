@@ -42,7 +42,7 @@
     "engine.windowedModeReq.msgEditor": "Bitte beende den Missionseditor um in den Vollbildmodus zu wechseln.",
     "engine.windowedModeReq.msgGUI": "Bitte beende den GUI-Editor um in den Vollbildmodus zu wechseln.",
     "engine.windowedModeReq.title": "erfordert Fenstermodus",
-    "extensions.scenario.damageGoal.checkDamage.fail.msg": "Vorsicht! Dein Fahrzeug ist {{damage}}% beschädigt",
+    "extensions.scenario.damageGoal.checkDamage.fail.msg": "Vorsicht! Dein Fahrzeug ist zu {{damage}}% beschädigt",
     "extensions.scenario.damageGoal.fail.msg": "Du hast dein Auto beschädigt",
     "levels.Cliff.info.features": "Große Klippeninsel",
     "levels.Cliff.info.title": "Klippe",
