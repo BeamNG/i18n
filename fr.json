@@ -179,6 +179,7 @@
     "scenarios.gridmap.gm_ds_offroad_shortcourse.title": "Course Tout Terrains Rapide",
     "scenarios.gridmap.gm_intersection.description": "Calibrer votre vitesse et essayer de frapper l'autre voiture",
     "scenarios.gridmap.gm_intersection.title": "Intersection",
+    "scenarios.gridmap.gm_intersection.win.msg": "Bien joué, votre vitesse est de : {{speed}} km/h",
     "scenarios.gridmap.gm_intersection_2.description": "Calibrez votre vitesse et essayez d'entrer en collision avec l'autre voiture. Cette fois-ci avec une surprise !",
     "scenarios.gridmap.gm_intersection_2.title": "Intersection 2",
     "scenarios.gridmap.gm_jumps.description": "Une courte série de petits sauts",
