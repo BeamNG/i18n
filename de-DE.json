@@ -319,7 +319,7 @@
     "scenarios.hirochi_raceway.training_hairpins.description": "Dies wird dir zeigen, wie man schnell durch eine Haarnadelkurve fährt",
     "scenarios.hirochi_raceway.training_hairpins.drift.msg": "Ihr Handbremsmanöver war nicht extravagant genug",
     "scenarios.hirochi_raceway.training_hairpins.nomove.msg": "du hast etwas berührt",
-    "scenarios.hirochi_raceway.training_hairpins.position.msg": "Du bist nicht in der Bremszone...",
+    "scenarios.hirochi_raceway.training_hairpins.position.msg": "Du bist nicht im Bremsbereich...",
     "scenarios.hirochi_raceway.training_hairpins.timeLimit.msg": "mehr als {{timeLimit}} Sek. gebraucht",
     "scenarios.hirochi_raceway.training_hairpins.title": "Lektion 3: Haarnadelkurven",
     "scenarios.hirochi_raceway.training_slalom_FWD.description": "Diese Strecke wird deine Fähigkeiten im Fahren mit Frontantrieb testen",
