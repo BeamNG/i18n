@@ -528,6 +528,7 @@
     "scenarios.utah.chapter_2.chapter_2_3_crawl.title": "rozdział_2_3_raczkowanie",
     "scenarios.utah.chapter_2.chapter_2_4_delivery.description": "rozdział_2_4_dostawa - musisz dostarczyć przedmiot do lokalizacji (po prostu jedź do punktu kontrolnego, brak limitu czasowego)",
     "scenarios.utah.chapter_2.chapter_2_4_delivery.title": "rozdział_2_4_dostawa",
+    "scenarios.utah.chapter_2.chapter_2_5_roll.description": "chapter _2_5_roll - bez hamulców, hamulca ręcznego, gazu lub biegów, tylko kierowanie i próba przejechania jak największej odległości, gracz musi przejechać dalej od wyznaczonego dystansu w metrach, aby mieć lepszy czas od NPC, mogą kontynuować nawet jeśli przegrają",
     "scenarios.utah.chapter_2.chapter_2_6_canyon.description": "rozdział_2_6_kanion - wyścig finałowy, prosty uliczny wyścig, gracz może przejść dalej nawet, gdy zostanie pokonany, jednakże dostanie inny komiks końcowy",
     "scenarios.utah.chapter_2.chapter_2_6_canyon.title": "rozdział_2_6_kanion",
     "scenarios.utah.downhill_rally.description": "Długi odcinek rajdowy przez stan Utah",
