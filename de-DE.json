@@ -723,6 +723,7 @@
     "ui.modmanager.modname": "Modname",
     "ui.modmanager.numActive": "{{active}} von {{all}} Mods aktiv",
     "ui.modmanager.openInExplorer": "Im Explorer öffnen",
+    "ui.modmanager.pack": "Packen",
     "ui.modmanager.path": "Pfad",
     "ui.modmanager.type": "Typ",
     "ui.options.audio": "Audio",
