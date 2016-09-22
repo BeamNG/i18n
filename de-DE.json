@@ -637,7 +637,7 @@
     "ui.hints.driveAtNight": "Du kannst bei Nacht fahren, indem du die Einstellung im \"Umwelt\" Menü änderst.",
     "ui.hints.driveTheCanon": "Wusstest du, dass du eine Kanone fahren (und feuern!) kannst? Stelle den Filter auf \"Requisite\" in der Fahrzeugauswahl [action=vehicle_selector].",
     "ui.hints.driveWithMouse": "Du kannst auch mit deiner Maus fahren. Gehe einfach in die Steuerungseinstellungen und weise eine neue Steuerung zu.",
-    "ui.hints.engineBrakeForDownhill": "Nutzen Sie die Motorbremse, wenn Sie mit einem beladenen Lastwagen bergab fahren. Ansonsten könnten die Bremsen überlastet werden.",
+    "ui.hints.engineBrakeForDownhill": "Nutze die Motorbremse, wenn du mit einem beladenen Lastwagen bergab fährst. Ansonsten könnten die Bremsen überlastet werden.",
     "ui.hints.funStabilityControl": "Autos mit Stabilitätskontrolle können in gefährlichere (aber spaßigere) Modi mit [action=toggleESCMode] wechseln.",
     "ui.hints.grabVehicleParts": "Du kannst Teile vom Auto greifen, indem du [action=grabNodeToggle] hältst und mit der Maus ziehst.",
     "ui.hints.importveFramerate": "Um deine Framerate zu verbessern, überprüfe die aufgelisteten Tipps unter Hilfe > Leistung > Leistungsverbesserungen",
