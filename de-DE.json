@@ -628,7 +628,7 @@
     "ui.hints.changeBrakePads": "Wenn die Bremsen zu schwach sind, kannst du bessere Bremsbeläge in der Teileauswahl [action=parts_selector] auswählen.",
     "ui.hints.chooseDefaultVehicle": "Du kannst das Standardfahrzeug auswählen und anpassen: gehe einfach zur Garage!",
     "ui.hints.chooseShiftingMode": "Um einen neuen Standard-Schaltmodus festzulegen, drücke [action=toggleShifterMode]",
-    "ui.hints.corneringWithKeyboard": "Beim Kurvenfahren mit der Tastatur drücken Sie wiederholt [action=steer_left] oder [action=steer_right], um den Lenkwinkel besser zu kontrollieren und ungewolltem Untersteuern vorzubeugen.",
+    "ui.hints.corneringWithKeyboard": "Beim Kurvenfahren mit der Tastatur drücke wiederholt [action=steer_left] oder [action=steer_right], um den Lenkwinkel besser zu kontrollieren und ungewolltem Untersteuern vorzubeugen.",
     "ui.hints.countersteerEarly": "Wenn ein Fahrzeg hin- und herschleudert, musst du früher und schneller gegenlenken. Das Verwenden eines Lenkrads (oder Gamepads) ist empfehlenswert.",
     "ui.hints.cruiseControlApp": "Für lange, entspannte Fahrten auf dem Highway kannst du die \"Tempomat\" UI App hinzufügen. Diese funktioniert für alle Autos!",
     "ui.hints.customLicensePlate": "Du kannst das Kennzeichen in der Teileauswahl [action=parts_selector] anpassen.",
