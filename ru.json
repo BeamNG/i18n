@@ -193,6 +193,7 @@
     "scenarios.gridmap.gm_intersection.description": "Наберите нужную скорость и попробуйте ударить другой автомобиль",
     "scenarios.gridmap.gm_intersection.title": "Перекрёсток",
     "scenarios.gridmap.gm_intersection_2.title": "Перекрёсток 2",
+    "scenarios.gridmap.gm_intersection_2.win.msg": "Восхитительно, ваша скорость: {{speed}} км\\ч",
     "scenarios.gridmap.gm_jumps.description": "Несколько идущих подряд прыжков",
     "scenarios.gridmap.gm_jumps.title": "Прыжки",
     "scenarios.gridmap.gm_racetest.description": "Несколько идущих подряд прыжков",
