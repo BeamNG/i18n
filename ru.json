@@ -81,6 +81,7 @@
     "levels.template.info.description": "пусто",
     "levels.the_void.info.biome": "...",
     "levels.the_void.info.features": "...",
+    "levels.the_void.info.roads": "70% хорошего асфальта, 25% гравия, 5% трасс",
     "levels.the_void.info.title": "Пустота",
     "levels.utah.info.biome": "пустыня, каньоны, плато",
     "levels.utah.info.description": "Карта, вдохновлённая каньонами штата Юта. Местность покрыта песчаной пылью, гравием и камнями.",
