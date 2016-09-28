@@ -547,7 +547,7 @@
     "ui.hints.driveTheCanon": "Saviez-vous que vous pouvez conduire (et tirer !) avec un canon ? Dans le sélecteur de véhicule, vous pouvez filtrer les \"Prop\" [action=vehicle_selector].",
     "ui.hints.driveWithMouse": "Vous pouvez conduire en utilisant votre souris. Il suffit d'aller dans le menu Contrôles et affecter de nouvelles touches.",
     "ui.hints.engineBrakeForDownhill": "Mieux vaut utiliser le frein moteur dans les descentes avec les camions chargés, autrement les freins pourraient lâcher.",
-    "ui.hints.funStabilityControl": "Le voitures avec contrôle de stabilité peuvent passer à des modes plus dangereux (mais amusant) en utilisant [action=toggleESCMode].",
+    "ui.hints.funStabilityControl": "Les voitures avec un contrôleur de stabilité peuvent faire des choses plus dangereuses (mais forcément plus amusant) en utilisant [action=toggleESCMode].",
     "ui.hints.grabVehicleParts": "Vous pouvez attraper des parties du véhicule en maintenant [action=grabNodeToggle], puis en déplaçant votre souris.",
     "ui.hints.importveFramerate": "Pour améliorer votre fréquence d'images, consultez les conseils énumérés sous Aide>Performance>Amélioration des performances de base",
     "ui.hints.increaseGroundClearance": "Augmentez la garde au sol de votre véhicule tout-terrain si vous avez des difficultés pour franchir une rivière.",
