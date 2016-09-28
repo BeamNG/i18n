@@ -217,7 +217,7 @@
     "scenarios.hirochi_raceway.intro_fullcircuit.title": "Full Circuit",
     "scenarios.hirochi_raceway.intro_shortcircuit.description": "La plus petite configuration de Hirochi Raceway",
     "scenarios.hirochi_raceway.intro_shortcircuit.title": "Court-circuit",
-    "scenarios.hirochi_raceway.training_RWD_handling.description": "Apprenez la conduite d'une voiture a roues arrière motrices à ses limites sans perdre le contrôle",
+    "scenarios.hirochi_raceway.training_RWD_handling.description": "Apprenez la conduite d'une propulsion aux limites sans perdre le contrôle ",
     "scenarios.hirochi_raceway.training_RWD_handling.nomove.msg": "Vous avez touché un cône! Essayez de nouveau et prendre soin de les éviter.",
     "scenarios.hirochi_raceway.training_RWD_handling.timeLimit.msg": "Le temps est écoulé! Essayez à nouveau un peu plus vite.",
     "scenarios.hirochi_raceway.training_RWD_handling.title": "Stage Sécurité  4: Maniement d'une propulsion",
