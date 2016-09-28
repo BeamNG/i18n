@@ -556,7 +556,7 @@
     "ui.hints.keepTheEngineUpright": "Faire fonctionner un moteur à l'envers cause une carence d'huile. La fumée échappement deviendra bleue à cause de l'huile noyant les cylindres, et les paliers moteurs pourraient casser.",
     "ui.hints.liftOffOversteer": "Une décélération soudaine dans un virage rapide peut déstabiliser le véhicule et vous faire perdre le contrôle.",
     "ui.hints.moonGravity": "Vous pouvez simuler la gravité lunaire dans le menu \"Environnement\".",
-    "ui.hints.notAllCarsCanRace": "Beaucoup de véhicules ne sont pas prévus pour la conduite sportive ou la course en l'état. Des modifications sont disponibles dans le sélecteur de pièces [action=parts_selector].",
+    "ui.hints.notAllCarsCanRace": "Beaucoup de véhicules ne sont pas prévus pour la conduite sportive ou la course. Des pièces sport et course sont disponibles dans le Sélecteur de Pièces [action=parts_selector].",
     "ui.hints.oldCarsBurn": "Certaines voitures anciennes peuvent prendre feu facilement après un accident, mais les modèles modernes sont beaucoup plus sûrs.",
     "ui.hints.parkingbrakeForTurning": "Utilisez le frein à main [action=parkingbrake] comme un moyen rapide et dangereux de faire un demi-tour.",
     "ui.hints.photoModeMenu": "Le menu du mode photo donne accès à de nombreux contrôles sur la caméra et une option pour envoyer directement l'image sur le serveur BeamNG.",
