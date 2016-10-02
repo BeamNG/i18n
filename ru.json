@@ -268,7 +268,7 @@
     "scenarios.hirochi_raceway.intro_fullcircuit.title": "Полный круг",
     "scenarios.hirochi_raceway.intro_shortcircuit.description": "Меньший круг гоночного комплекса Hirochi",
     "scenarios.hirochi_raceway.intro_shortcircuit.title": "Короткий круг",
-    "scenarios.hirochi_raceway.training_RWD_handling.description": "В этом сценарии вы научитесь управлять заднеприводным автомобилем на грани его возможностей, но не теряя над ним контроль.",
+    "scenarios.hirochi_raceway.training_RWD_handling.description": "В этом сценарии вы научитесь управлять заднеприводным автомобилем на грани его возможностей, но не теряя над ним контроль",
     "scenarios.hirochi_raceway.training_RWD_handling.nomove.msg": "Вы задели конус! В следующий раз старайтесь их объезжать.",
     "scenarios.hirochi_raceway.training_RWD_handling.timeLimit.msg": "Время вышло! Попробуйте быть немного быстрее.",
     "scenarios.hirochi_raceway.training_RWD_handling.title": "Обучение 4: Управление заднеприводным автомобилем",
