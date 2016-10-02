@@ -687,7 +687,7 @@
     "ui.options.gameplay.defaultToCurrentVehicle": "Установить данное авто как стандартное",
     "ui.options.gameplay.enginesPreheated": "Прогреть двигатель",
     "ui.options.gameplay.gameplay": "Геймплей",
-    "ui.options.gameplay.multiseat": "Моногопользовательский режим",
+    "ui.options.gameplay.multiseat": "Используй многопользовательский режим для этой сессии",
     "ui.options.gameplay.noSteer": "Снять рулевое колесо",
     "ui.options.gameplay.raceBrakesPreheated": "Начинать гонку с прогретыми тормозами",
     "ui.options.graphics": "Графика",
