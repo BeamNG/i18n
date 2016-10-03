@@ -1,8 +1,10 @@
 {
+    "campaigns.training.training.training_drift.title": "Huấn luyện 10: Rê đuôi xe (Drift)",
     "engine.welcome": "Chào mừng bạn đến với BeamNG.drive bằng tiếng Việt",
     "levels.cardealer.info.roads": "60% Đường nhựa cao tốc, 40% Đường dất",
     "levels.dry_rock_island.info.title": "Đảo Dry Rock",
     "levels.port.info.biome": "Khí hậu ôn hòa, đồng cỏ, khu vực miền duyên hải",
+    "levels.smallgrid_aitest.info.roads": "Không Có",
     "levels.utah.info.description": "Vùng hẻm núi-Bản dồ lấy cảm hứng từ Utah. Rất nhiều bụi dất và đá bao phủ bản đồ này.",
     "scenarios.driver_training.driver_training.training_driftB.description": "Nhiệm vụ sẽ giúp bạn cải thiện kĩ năng rê đuôi xe (Drift).",
     "scenarios.driver_training.safety_training.training_slalom.nomove.msg": "Đừng tông phải các trụ nón...",
@@ -19,6 +21,7 @@
     "scenarios.utah.chapter_1.chapter_1_cliffjump.description": "Chương 1: Cú rơi từ vách đá - thống kê sơ bộ: Khoảng cách tương đối đạt được, thiệt hại đã chịu, thời gian, điểm số: Khoảng cách (Tính thẳng xuống) đạt được trừ (Thiệt hại đã chịu + thời gian thực hiện) (càng xuống càng nhanh và chịu càng ít thiệt hại càng tốt), Điều kiện thất bại: Không rời khỏi điểm cao nhất trong mốc thời gian 20 giây, 40 giây quy định.",
     "scenarios.utah.chapter_1.chapter_1_crawl.damage.msg": "Bạn đã phá hủy toàn bộ xe trong vòng {{timeStr}}",
     "scenarios.utah.chapter_1.chapter_1_highway.description": "Chương 1: Xa lộ - thống kê sơ bộ:  Số điểm:",
+    "ui.apps.automatic_gears.name": "Cấp số tự động",
     "ui.apps.categories.vehicle_info": "Thông Tin Phương Tiện",
     "ui.credits.specialThanksTo": "Lời cảm ơn chân thành đến",
     "ui.debug.vehicle.beamTransparency": "Độ trong suốt của các thanh trong khung xương",
@@ -32,7 +35,10 @@
     "ui.options.graphics.GraphicDynReflection.warning": "Lưu ý: Số mặt trong một lần cập nhật rất nặng, nếu bạn đang có vấn đề về hiệu suất khi chơi, hãy cân nhắc giảm chỉ số này lại",
     "ui.options.graphics.PostFXLightRaysEnabled": "Tia Sáng",
     "ui.options.graphics.PostFXSSAOGeneralEnabled": "SSAO",
+    "ui.options.graphics.uimaxresExplanation": "Xác lập độ phân giải của Giao Diện Người Dùng. Hữu ích với màn hình độ phân giải 4K",
     "ui.options.physics": "Các hiệu ứng vật lý",
     "ui.options.theme.primary": "Màu chủ đạo",
-    "ui.performance.showDetails": "Hiển Thị Chi Tiết"
+    "ui.performance.showDetails": "Hiển Thị Chi Tiết",
+    "ui.unit.ltr100": "Lít / 100km",
+    "vehicle.recovery.loadHome": "Đã đưa phương tiện về vị trí ban đầu"
 }
