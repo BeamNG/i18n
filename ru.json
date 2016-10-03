@@ -778,6 +778,7 @@
     "ui.modmanager.activate": "Включить",
     "ui.modmanager.active": "Включен",
     "ui.modmanager.creationDate": "Дата создания",
+    "ui.modmanager.deactivate": "Отключить",
     "ui.modmanager.deactiveAll": "Отключить все моды",
     "ui.modmanager.filename": "Имя файла",
     "ui.modmanager.modmanager": "Менеджер модификаций",
