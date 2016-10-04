@@ -180,6 +180,7 @@
     "ui.debug.vehicle.meshVisibility": "Viditelnost objektů",
     "ui.debug.vehicle.nodeText": "Text uzlů",
     "ui.debug.vehicle.nodeVis": "Vizualizace uzlů",
+    "ui.debug.vehicle.reloadAll": "Aktualizovat vše",
     "ui.debug.vehicle.removeAll": "Odstranit všechny",
     "ui.debug.vehicle.removeCurrent": "Odstranit aktuální",
     "ui.debug.vehicle.resetAll": "Resetovat všechny",
