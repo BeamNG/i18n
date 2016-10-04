@@ -323,7 +323,7 @@
     "ui.options.graphics.GraphicAnisotropic": "Anizotropní filtrování",
     "ui.options.graphics.GraphicAntialiasType": "Vyhlazování hran",
     "ui.options.graphics.GraphicDynReflection": "Dynamické odlesky",
-    "ui.options.graphics.GraphicDynReflection.warning": "Poznámka: Počet překreslovaných trojúhelníků má výrazný dopad na GPU. Zvažte snížení této hodnoty v případě potíží s výkonem.",
+    "ui.options.graphics.GraphicDynReflection.warning": "Poznámka: Počet překreslovaných trojúhelníků má výrazný dopad na grafikcý výkon. Zvažte snížení této hodnoty v případě potíží s výkonem.",
     "ui.options.graphics.GraphicDynReflectionDetail": "Detail",
     "ui.options.graphics.GraphicDynReflectionDistance": "Vzdálenost",
     "ui.options.graphics.GraphicDynReflectionFacesPerupdate": "Počet trojúhelníků za překreslení",
