@@ -596,6 +596,7 @@
     "ui.apps.racelaps.name": "Kisakierrokset",
     "ui.apps.replay.name": "Uusinta",
     "ui.apps.roll.name": "Kallistus",
+    "ui.apps.speedometer.name": "Nopeusmittari",
     "ui.apps.vehicleDebug.breakAll": "Irroita kaikki irtoavat osat",
     "ui.apps.vehicleDebug.breakHinges": "Riko kaikki saranat",
     "ui.apps.vehicleDebug.deflateTires": "Tyhjennä renkaat",
