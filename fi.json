@@ -289,6 +289,7 @@
     "scenarios.driver_training.driver_training.training_slalom.description": "Pujotteluratoja on vaikea hallita. Hae tunnetta auton painoon kun mutkittelet keilojen välissä",
     "scenarios.driver_training.driver_training.training_slalom.title": "Turvallisuuskoulutus 8: Pujottelu",
     "scenarios.driver_training.driver_training.training_tightroad.damage.msg": "Auts, luulen että ETK ei tule lainaamaan meille enää autoja.",
+    "scenarios.driver_training.driver_training.training_tightroad.description": "Hallitset siis vasemmalle kääntymisen taidon, mutta osaatko ajaa kapeaa tietä pitkin? ETK on lainannut meille yhden testiautoistaan - pidä huolta siitä.",
     "scenarios.driver_training.driver_training.training_tightroad.nomove.msg": "Osuit merkkiin - laitoin ne sinne sitä varten ettet oikaise, kuten tiedät.",
     "scenarios.driver_training.driver_training.training_tightroad.title": "Harjoitus 3: Tiukka tierata",
     "scenarios.driver_training.safety_training.training_mu_braking.description": " ",
