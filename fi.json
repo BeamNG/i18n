@@ -1088,6 +1088,7 @@
     "vehicle.bdebug.beamVisMode.simple": "Yksinkertainen",
     "vehicle.bdebug.beamVisMode.type": "Tyyppi",
     "vehicle.bdebug.cogMode.nowheels": "Ilman renkaita",
+    "vehicle.bdebug.cogMode.off": "Pois",
     "vehicle.bdebug.cogMode.on": "Päällä",
     "vehicle.bdebug.disabled": "Debug-piirtäminen ei käytössä",
     "vehicle.bdebug.enabled": "Debug-piirtäminen käytössä",
