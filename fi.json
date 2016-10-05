@@ -669,6 +669,7 @@
     "ui.common.enable": "Käytä",
     "ui.common.filters": "Suodattimet",
     "ui.common.finish": "Maali",
+    "ui.common.fooOrBar": "{{ foo }} tai {{ bar }}",
     "ui.common.next": "Seuraava",
     "ui.common.no": "Ei",
     "ui.common.official": "Virallinen",
