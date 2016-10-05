@@ -587,6 +587,7 @@
     "ui.apps.categories.vehicle_profiling": "Ajoneuvon profilointi",
     "ui.apps.compass.name": "Kompassi",
     "ui.apps.detailed_vehicle_damage_app.name": "Tarkka Ajoneuvon Vahinkosovellus",
+    "ui.apps.digital_speedometer.name": "Digitaalinen nopeusmittari",
     "ui.apps.engine_debug.name": "Moottorin Debug",
     "ui.apps.esc_desired_yaw_rate_graph.name": "ESC:n halutun kääntymistahdin kuvaaja",
     "ui.apps.indicated_airspeed.name": "Mitattu ilmanopeus",
