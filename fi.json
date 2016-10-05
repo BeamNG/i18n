@@ -1088,8 +1088,10 @@
     "vehicle.engine.cylinderWallsMelted": "Sylinterien seinämät sulivat",
     "vehicle.engine.headGasketDamaged": "Kannentiiviste vahingoittunut",
     "vehicle.engine.rodBearingsDamaged": "Kiertokangen laakerit vaurioituneet",
+    "vehicle.engine.starvedOfOil": "Moottori on tukehtunut öljystä",
     "vehicle.recovery.end": "Ajoneuvo palautettu (ei voida palauttaa kauemmaksi)",
     "vehicle.recovery.loadHome": "Ajoneuvo palautettu alkupisteeseen",
     "vehicle.recovery.quick": "Ajoneuvo palautettu (Pidä pohjassa palauttaaksesi kauemmas)",
-    "vehicle.recovery.saveHome": "Ajoneuvon sijainti päivitetty (käytä [action=loadHome] palauttaaksesi)"
+    "vehicle.recovery.saveHome": "Ajoneuvon sijainti päivitetty (käytä [action=loadHome] palauttaaksesi)",
+    "vehicle.turbocharger.overheating": "Turbo ylikuumenee"
 }
