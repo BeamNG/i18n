@@ -1018,6 +1018,7 @@
     "ui.vehicleconfig.vehicleconfig": "Ajoneuvon räätälöinti",
     "vehicle.bdebug.beamVisMode.type": "Tyyppi",
     "vehicle.bdebug.meshVisibility": "Geometrian näkyvyyttä vaihdettiin: {{visibilityPercent}}%",
+    "vehicle.beamstate.tireDeflated": "{{wheelName | translate}} rengas tyhjeni",
     "vehicle.bullettime.change": "{{slowmoTimes}} kertaa hitaampi kuin reaaliaika",
     "vehicle.bullettime.realtime": "Reaaliaika",
     "vehicle.drivetrain.usingHshifter": "H-vaihdinta käytettiin. Nyt käytössä: '{{shifterModeName | translate}}'",
