@@ -1046,6 +1046,7 @@
     "vehicle.bullettime.realtime": "Reaaliaika",
     "vehicle.drivetrain.usingHshifter": "H-vaihdinta käytettiin. Nyt käytössä: '{{shifterModeName | translate}}'",
     "vehicle.engine.rodBearingsDamaged": "Kiertokangen laakerit vaurioituneet",
+    "vehicle.recovery.end": "Ajoneuvo palautettu (ei voida palauttaa kauemmaksi)",
     "vehicle.recovery.loadHome": "Ajoneuvo palautettu alkupisteeseen",
     "vehicle.recovery.quick": "Ajoneuvo palautettu (Pidä pohjassa palauttaaksesi kauemmas)",
     "vehicle.recovery.saveHome": "Ajoneuvon sijainti päivitetty (käytä [action=loadHome] palauttaaksesi)"
