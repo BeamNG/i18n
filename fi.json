@@ -592,6 +592,7 @@
     "ui.apps.indicated_airspeed.name": "Mitattu ilmanopeus",
     "ui.apps.messages.name": "Viestit",
     "ui.apps.navigation.name": "Navigaatio",
+    "ui.apps.precision_compass.name": "Tarkkuuskompassi",
     "ui.apps.race_realtime_display.name": "Kisan reaaliaikanäyttö",
     "ui.apps.racelaps.name": "Kisakierrokset",
     "ui.apps.replay.name": "Uusinta",
