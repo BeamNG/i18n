@@ -116,6 +116,7 @@
     "levels.east_coast_usa.info.suitablefor": "ralliajo, kuljetus",
     "levels.east_coast_usa.info.title": "Itärannikko, USA",
     "levels.east_coast_usa.spawnpoints.gasStation": "Bensa-aseman parkkipaikka",
+    "levels.east_coast_usa.spawnpoints.highway": "Maantie",
     "levels.groundmodeltest.info.biome": "VR",
     "levels.groundmodeltest.info.description": "Maastomallien testaus, esim. ABS:ää varten",
     "levels.groundmodeltest.info.features": "Useita eri maastomalleja",
