@@ -243,6 +243,7 @@
     "scenarios.derby.variedground_derby.description": "Viimeinen liikkuva auto voittaa. Tuhoa ystäviesi autot samalla huolehtien omastasi!",
     "scenarios.derby.variedground_derby.title": "Romuralli - Vaihtelevapintainen areena",
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.damage.msg": "Minne matka? Harjoitusalue on toisessa suunnassa!",
+    "scenarios.driver_training.driver_training.training_acceleration_braking1.5.defaultWin": "Osaat ajaa kuin ammattilainen suoralla? Katsotaan mitä tapahtuu mutkissa...",
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.description": "Tervetuloa ETK:n ajajan elämyskeskukseen. Nimeni on Mike, ja tulen olemaan ohjaajasi tässä kurssissa. [br][br] Aloitetaan mukavasta ja helposta - sinun täytyy vain kiihdyttää ja sitten jarruttaa, ennen kuin osut seinään. Varmista että jarrutat ennen stop-merkkejä!",
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.nomove.msg": "Tunnu missään. Ota uusi yritys ja ole varovaisempi!",
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.position.msg": "Ohitit jarrutusalueen",
