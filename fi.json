@@ -1074,6 +1074,7 @@
     "vehicle.bdebug.disabled": "Debug-piirtäminen ei käytössä",
     "vehicle.bdebug.meshVisibility": "Geometrian näkyvyyttä vaihdettiin: {{visibilityPercent}}%",
     "vehicle.bdebug.nodeTextMode.names+numbers": "Nimet ja numerot",
+    "vehicle.bdebug.nodeVisMode.density": "Tiheys",
     "vehicle.bdebug.nodeVisMode.weights": "Massat",
     "vehicle.bdebug.trisOff": "Törmäysgeometrian piirtäminen pois käytöstä",
     "vehicle.bdebug.trisOn": "Törmäysgeometrian piirtäminen käytössä",
