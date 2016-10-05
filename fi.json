@@ -1236,6 +1236,7 @@
     "vehicle.engine.coolantOverheating": "Jäähdytysneste ylikuumenee",
     "vehicle.engine.cylinderWallsMelted": "Sylinterien seinämät sulivat",
     "vehicle.engine.headGasketDamaged": "Kannentiiviste vahingoittunut",
+    "vehicle.engine.oilOverheating": "Öljy ylikuumenee",
     "vehicle.engine.pistonRingsDamaged": "Männänrenkaat vaurioituneet",
     "vehicle.engine.radiatorDamaged": "Jäähdytin vahingoittunut",
     "vehicle.engine.rodBearingsDamaged": "Kiertokangen laakerit vaurioituneet",
