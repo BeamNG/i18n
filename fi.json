@@ -1115,6 +1115,7 @@
     "vehicle.bdebug.beamVisMode.simple": "Yksinkertainen",
     "vehicle.bdebug.beamVisMode.stress": "Kuormitus",
     "vehicle.bdebug.beamVisMode.type": "Tyyppi",
+    "vehicle.bdebug.clear": "Debug-piirtäminen tyhjennetty",
     "vehicle.bdebug.cogMode.nowheels": "Ilman renkaita",
     "vehicle.bdebug.cogMode.off": "Pois",
     "vehicle.bdebug.cogMode.on": "Päällä",
