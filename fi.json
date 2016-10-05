@@ -1092,6 +1092,7 @@
     "vehicle.recovery.end": "Ajoneuvo palautettu (ei voida palauttaa kauemmaksi)",
     "vehicle.recovery.loadHome": "Ajoneuvo palautettu alkupisteeseen",
     "vehicle.recovery.quick": "Ajoneuvo palautettu (Pidä pohjassa palauttaaksesi kauemmas)",
+    "vehicle.recovery.recovering": "Ajoneuvon palautus käynnissä...",
     "vehicle.recovery.saveHome": "Ajoneuvon sijainti päivitetty (käytä [action=loadHome] palauttaaksesi)",
     "vehicle.turbocharger.overheating": "Turbo ylikuumenee"
 }
