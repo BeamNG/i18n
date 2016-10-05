@@ -650,6 +650,7 @@
     "ui.apps.vehicledebug.name": "Ajoneuvo-Debug",
     "ui.apps.vehicletelemetrydebug.name": "Ajoneuvotelemetrian Debug",
     "ui.apps.wheelsdebug.name": "Rengasdebug",
+    "ui.apps.wind.name": "Tuuli!",
     "ui.appselect.add": "Lisää sovellus",
     "ui.appselect.apps": "Sovellukset",
     "ui.appselect.categories.debug": "Debug",
