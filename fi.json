@@ -564,6 +564,7 @@
     "scenarios.utah.chapter_1.chapter_1_jump.title": "Hyppy",
     "scenarios.utah.chapter_1.chapter_1_ramcliff.description": "Puske vanha auto jyrkänteen huipulta ja hyppää perässä.",
     "scenarios.utah.chapter_1.chapter_1_ramcliff.distance.fail.msg": "Ajoneuvoa ei työnnetty alas jyrkänteeltä.",
+    "scenarios.utah.chapter_1.chapter_1_ramcliff.pass.msg": "Molemmat autot ovat pudonneet",
     "scenarios.utah.chapter_1.chapter_1_ramcliff.title": "Jyrkännepusku",
     "scenarios.utah.chapter_1.chapter_1_rubberband.description": "Kuminauha - tilastot: kärsitty vahinko, suoritusaika, kuinka pitkälle pääsit joessa, pisteet: Kuinka pitkälle pääsit joessa, epäonnistuminen: kuminauhaa ei aktivoida, ensimmäistä reittipistettä ei saavutettu, Huom.: tarvitsee napin jolla kuminauhaefekti aktivoidaan joka yhdistää auton tien reunaan ajaksi jolloin nappia pidetään pohjassa, näin lennät joen yli",
     "scenarios.utah.chapter_1.chapter_1_rubberband.timeLimit.msg": "Sinulla kesti yli {{timeLimit}} sekuntia",
