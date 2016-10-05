@@ -545,6 +545,7 @@
     "scenarios.utah.chapter_1.chapter_1_drag.pass.msg": "Kisa läpäisty",
     "scenarios.utah.chapter_1.chapter_1_drag.title": "Kiihdytyskisa",
     "scenarios.utah.chapter_1.chapter_1_highway.description": "Aja tiesulun ohi.",
+    "scenarios.utah.chapter_1.chapter_1_highway.fail.msg": "Sinun täytyy ohitaa tiesulku",
     "scenarios.utah.chapter_1.chapter_1_highway.pass.msg": "Tiesulku ohitettu",
     "scenarios.utah.chapter_1.chapter_1_highway.timeLimit.msg": "Käytit yli {{timeLimit}} sekuntia",
     "scenarios.utah.chapter_1.chapter_1_highway.title": "Valtatie",
