@@ -104,7 +104,7 @@
     "scenarios.utah.chapter_1.chapter_1_cliffjump.description": "Kapitola 1: Sjezd z útesu - statistiky: dosažena relativní vertikální vzdálenost, poškození, čas, skóre: dosažena relativní vertikální vzdálenost mínus (poškození + doba trvání) (dostaň se co nejdále s co nejmenším poškozením co nejrychleji), neúspěch: neopustil jsi vrchol do 20 sekund, časový limit 40 sekund",
     "scenarios.utah.chapter_1.chapter_1_cliffjump.timeLimit.msg": "Neopustil jsi vrchol během {{failureTime}} sekund!",
     "scenarios.utah.chapter_1.chapter_1_cliffjump.title": "Sjíždění útesu",
-    "scenarios.utah.chapter_1.chapter_1_crawl.damage.msg": "Zničil jsi auto za ",
+    "scenarios.utah.chapter_1.chapter_1_crawl.damage.msg": "Zničil si auto za {{timeStr}}",
     "scenarios.utah.chapter_1.chapter_1_drag.pass.msg": "Závod dokončen",
     "scenarios.utah.chapter_1.chapter_1_highway.description": "Projeď přes zátaras na silnici.",
     "scenarios.utah.chapter_1.chapter_1_jump.damage.msg": "Zničil si vozidlo v ",
