@@ -1273,6 +1273,7 @@
     "vehicle.engine.radiatorDamaged": "Jäähdytin vahingoittunut",
     "vehicle.engine.rodBearingsDamaged": "Kiertokangen laakerit vaurioituneet",
     "vehicle.engine.starvedOfOil": "Moottorin öljynpaine on alhainen",
+    "vehicle.fire.fuelTankRuptured": "Polttoainetankki repesi",
     "vehicle.main.instability": "Epävakaus havaittu ajoneuvossa {{vehicle}}: palautetaan ajoneuvo ja pysäytetään fysiikat",
     "vehicle.recovery.end": "Ajoneuvo palautettu (ei voida palauttaa kauemmaksi)",
     "vehicle.recovery.loadHome": "Ajoneuvo palautettu alkupisteeseen",
