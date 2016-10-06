@@ -101,7 +101,7 @@
     "scenarios.small_island.intro_round_circuit.description": "Okruh okolo ostrova",
     "scenarios.utah.canyon_race.description": "Dlouhá jízda kolem kaňonů a nížin Utahu",
     "scenarios.utah.chapter_1.chapter_1_cannon.title": "Kanón",
-    "scenarios.utah.chapter_1.chapter_1_cliffjump.description": "Kapitola 1: Sjezd z útesu - statistiky: dosažena relativní vertikální vzdálenost, poškození, čas, skóre: dosažena relativní vertikální vzdálenost mínus (poškození + doba trvání) (dostaň se co nejdále s co nejmenším poškozením co nejrychleji), neúspěch: neopustil jsi vrchol do 20 sekund, časový limit 40 sekund",
+    "scenarios.utah.chapter_1.chapter_1_cliffjump.description": "Dostaň se nejrychlejší cestou na dno útesu.",
     "scenarios.utah.chapter_1.chapter_1_cliffjump.timeLimit.msg": "Neopustil jsi vrchol během {{failureTime}} sekund!",
     "scenarios.utah.chapter_1.chapter_1_cliffjump.title": "Sjíždění útesu",
     "scenarios.utah.chapter_1.chapter_1_crawl.damage.msg": "Zničil jsi auto za {{timeStr}}",
