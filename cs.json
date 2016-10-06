@@ -65,7 +65,7 @@
     "scenarios.east_coast_usa.tanker_delivery.distance.msg": "Ztratil si přívěs!",
     "scenarios.east_coast_usa.tanker_delivery.title": "Doručení cisterny",
     "scenarios.gridmap.corridor.title": "Koridor",
-    "scenarios.gridmap.gm_corridor.fail.msg": "Dostal jsi zásah!",
+    "scenarios.gridmap.gm_corridor.fail.msg": "Dostal jsi to!",
     "scenarios.gridmap.gm_ds_large_jumps.description": "Vezmi dodávku se zvýšeným podvozkem na pekelnou jízdu",
     "scenarios.gridmap.gm_intersection.title": "Křižovatka",
     "scenarios.gridmap.gm_skycurve1.title": "Nebeská zatáčka 1",
