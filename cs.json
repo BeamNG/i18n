@@ -106,7 +106,7 @@
     "scenarios.utah.chapter_1.chapter_1_cliffjump.title": "Sjíždění útesu",
     "scenarios.utah.chapter_1.chapter_1_crawl.damage.msg": "Zničil jsi auto za ",
     "scenarios.utah.chapter_1.chapter_1_drag.pass.msg": "Závod dokončen",
-    "scenarios.utah.chapter_1.chapter_1_highway.description": "Projeď přes zátaras na silnici.\n",
+    "scenarios.utah.chapter_1.chapter_1_highway.description": "Projeď přes zátaras na silnici.",
     "scenarios.utah.chapter_1.chapter_1_jump.damage.msg": "Zničil si vozidlo v ",
     "scenarios.utah.chapter_1.chapter_1_jump.fail.msg": "Netrefil jsi se",
     "scenarios.utah.chapter_1.chapter_1_jump.title": "Skok",
