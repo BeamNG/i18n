@@ -41,7 +41,7 @@
     "levels.utah.spawnpoints.parkingLot": "Parkoviště",
     "levels.utah.spawnpoints.westHighway": "Západní dálnice",
     "scenarios.derby.fourway_derby.description": "Poslední pohyblivé auto vítězí. Znič auta svých přátel a chraň přitom své!",
-    "scenarios.driver_training.driver_training.training_driftB.description": "Tento scénář vám umožňuje rozvíjet schopnost jízdy řízeným smykem.",
+    "scenarios.driver_training.driver_training.training_driftB.description": "Dobrá tedy, ukončíme to malou lekcí v jízdě smykem. Pro tento test budeš muset použít manuální řazení - zůstaň na druhém rychlostním stupni, aby ses co nejsnadněji udržel ve smyku. [br][br]Udržuj auto co nejdéle v jízdě bokem, abys získal co nejvíce bodů v časovém limitu 60 sekund.[br][br]Pro změnu rychlostního stupně použij [action=shiftUp] a [action=shiftDown].",
     "scenarios.driver_training.driver_training.training_driftB.drift.fail.msg": "Tomu říkáš driftování? Dej tomu více rychlosti a větší úhel! Tvé skóre:",
     "scenarios.driver_training.driver_training.training_easycircuit.damage.msg": "Tohle auto bude potřeboval pořádný kus klempířiny.",
     "scenarios.driver_training.driver_training.training_hairpins3.5.nomove.msg": "něco si srazil",
