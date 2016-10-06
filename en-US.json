@@ -237,7 +237,7 @@
     "ui.vehicleconfig.load": "Load",
     "ui.vehicleconfig.filename": "Filename",
     "ui.vehicleconfig.licensePlate": "License Plate",
-    "ui.vehicleconfig.stickySelection": "Sticky Selecttion",
+    "ui.vehicleconfig.stickySelection": "Sticky Selection",
     "ui.vehicleconfig.subparts": "Subparts",
     "ui.vehicleconfig.simpleTree": "Simple Tree",
     "ui.vehicleconfig.mouseOverUi": "Please keep the mouse over the ui while typing to make sure the keyboard input is directed to it",
