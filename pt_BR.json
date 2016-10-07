@@ -472,6 +472,7 @@
     "ui.apps.compass.name": "Bússola",
     "ui.apps.esc_desired_yaw_rate_graph.name": "Gráfico da taxa de guinada desejada do ESC (Controle de Estabilidade)",
     "ui.apps.indicated_airspeed.name": "Velocidade do ar Indicada",
+    "ui.apps.replay.name": "Replay",
     "ui.apps.roll.name": "Rotação",
     "ui.apps.vehicleDebug.breakAll": "Quebrar todos os grupos de quebra",
     "ui.apps.vehicleDebug.breakHinges": "Quebrar todas as Dobradiças",
@@ -876,6 +877,7 @@
     "ui.vehicleconfig.stickySelection": "Seleção Pegajosa",
     "ui.vehicleconfig.tuning": "Ajuste",
     "ui.vehicleconfig.vehicleconfig": "Customização Veicular",
+    "vehicle.bullettime.change": "{{slowmoTimes}} vezes mais lento que o tempo real",
     "vehicle.drivetrain.usingHshifter": "Câmbio em H foi usado. Atualmente usando: '{{shifterModeName | translate}}'",
     "vehicle.recovery.loadHome": "Veículo restabelecido na posição inicial"
 }
