@@ -824,7 +824,7 @@
     "ui.options.camera.relaxation": "Relaxation",
     "ui.options.camera.transitionTime": "Temps de transition",
     "ui.options.gameplay": "Options de jeu",
-    "ui.options.gameplay.competitiveScenarios": "Condition de scénario compétitif",
+    "ui.options.gameplay.competitiveScenarios": "Conditions réelle du scénario",
     "ui.options.gameplay.controlOnBlur": "Laisser le contrôleur et le retour de force actifs même lorsque que le focus est hors de la fenêtre du jeu",
     "ui.options.gameplay.defaultToCurrentVehicle": "Définir le véhicule actuel comme celui par défaut",
     "ui.options.gameplay.enginesPreheated": "Démarrer le véhicules avec un moteurs préchauffées",
