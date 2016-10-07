@@ -81,6 +81,7 @@
     "levels.east_coast_usa.info.features": "cidade pequena, estradas costeiras, estradas na floresta, área de exploração de madeira, casas antigas",
     "levels.east_coast_usa.info.roads": "70% asfalto de alta velocidade, 25% estadas de terra de alta velocidade, 5% trilhas",
     "levels.east_coast_usa.spawnpoints.gasStation": "Estacionamento do Posto de Gasolina",
+    "levels.east_coast_usa.spawnpoints.highway": "Rodovia",
     "levels.groundmodeltest.info.description": "Testes de groundmodel, para ABS etc",
     "levels.groundmodeltest.info.features": "Vários groundmodels diferentes",
     "levels.groundmodeltest.info.title": "Área de Teste de Groundmodel",
