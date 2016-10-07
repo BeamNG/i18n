@@ -501,6 +501,7 @@
     "ui.apps.digital_speedometer.name": "Velocímetro Digital",
     "ui.apps.engine_damage_app.name": "Aplicativo de Dano do Motor",
     "ui.apps.engine_debug.name": "Debug de motor",
+    "ui.apps.engine_thermal_debug.name": "Depuração Térmica do Motor",
     "ui.apps.esc_desired_yaw_rate_graph.name": "Gráfico da taxa de guinada desejada do ESC (Controle de Estabilidade)",
     "ui.apps.escstiffness.name": "Rigidez do ESC",
     "ui.apps.g-forces.name": "Força-G",
