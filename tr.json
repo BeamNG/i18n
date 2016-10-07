@@ -237,7 +237,7 @@
     "scenarios.utah.canyon_race.title": "Kanyon Yarışı",
     "scenarios.utah.chapter_1.chapter_1_bridge.description": "",
     "scenarios.utah.chapter_1.chapter_1_bridge.title": "Köprü",
-    "scenarios.utah.chapter_1.chapter_1_cliffjump.description": "En hızlı yoldan uçurumun altına in.",
+    "scenarios.utah.chapter_1.chapter_1_cliffjump.description": "Uçurumun sonuna en çabuk yoldan ulaş.",
     "scenarios.utah.chapter_1.chapter_1_cliffjump.timeLimit.msg": "Alanı   {{failureTime}} saniyede terk etmedin!",
     "scenarios.utah.chapter_1.chapter_1_cliffjump.title": "Yamaç İnişi",
     "scenarios.utah.chapter_1.chapter_1_crawl.damage.msg": "Aracı şu kadar sürede tahrip ettiniz {{timeStr}}",
