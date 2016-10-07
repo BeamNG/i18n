@@ -115,7 +115,7 @@
     "scenarios.driver_training.driver_training.training_lanechange.title": "Eğitim 4: Şerit Değiştirme",
     "scenarios.driver_training.driver_training.training_rwd.defaultWin": "Aferin, buna gerçekten alışamaya başladın.",
     "scenarios.driver_training.driver_training.training_rwd.timeLimit.msg": "{{timeLimit}} saniyeden daha fazla sürdü, biraz daha hızla tekrar dene",
-    "scenarios.driver_training.driver_training.training_tightroad.damage.msg": "Ahh, artık ETK'nın bize araba ödünç vereceğinden emin değilim.",
+    "scenarios.driver_training.driver_training.training_tightroad.damage.msg": "Ahh, artık ETK'nın bize başka arabalar ödünç vereceğinden emin değilim.",
     "scenarios.driver_training.safety_training.training_mu_braking.nomove.msg": "Konilere değme...",
     "scenarios.driver_training.safety_training.training_mu_braking.title": "Güvenlik Eğitimi: μ-Frenlemesi",
     "scenarios.driver_training.safety_training.training_slalom.nomove.msg": "Konilere vurma...",
