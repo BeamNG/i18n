@@ -158,7 +158,7 @@
     "scenarios.east_coast_usa.town_course_short_a.title": "Kısa Kasaba Parkuru A",
     "scenarios.gridmap.corridor.title": "Koridor",
     "scenarios.gridmap.gm_corridor.fail.msg": "Vuruldun!",
-    "scenarios.gridmap.gm_ds_large_jumps.description": "harbi bir yolculuğa çıkmak için yükseltilmiş van'ı al.",
+    "scenarios.gridmap.gm_ds_large_jumps.description": "Harbi bir yolculuğa çıkmak için yükseltilmiş van'ı al.",
     "scenarios.gridmap.gm_ds_large_jumps.title": "Vanster Atlayışı",
     "scenarios.gridmap.gm_ds_offroad_shortcourse.description": "3 sıra mücadele, D15 hepsini bitirebilir mi?",
     "scenarios.gridmap.gm_intersection.description": "Hızını ayarla ve diğer araca çarpmaya çalış",
