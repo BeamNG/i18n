@@ -971,6 +971,7 @@
     "vehicle.bdebug.beamVisMode.simple": "Simples",
     "vehicle.bdebug.beamVisMode.type": "Tipo",
     "vehicle.bdebug.cogMode.nowheels": "Sem rodas",
+    "vehicle.bdebug.cogMode.on": "Ligado",
     "vehicle.bdebug.disabled": "Projeção de Depuração desabilitada",
     "vehicle.bdebug.enabled": "Projeto de Depuração habilitado",
     "vehicle.bdebug.meshVisibility": "Visibilidade da malha alterada: {{visibilityPercent}}%",
