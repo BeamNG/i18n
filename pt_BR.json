@@ -185,7 +185,7 @@
     "scenarios.driver_training.driver_training.training_rwd.nomove.msg": "Você acertou um cone! Tente ficar na pista.",
     "scenarios.driver_training.driver_training.training_rwd.timeLimit.msg": "Você levou mais que {{timeLimit}} segundos, tente novamente com mais velocidade",
     "scenarios.driver_training.driver_training.training_rwd.title": "Treinamento 12: Pilotando em carros com tração traseira",
-    "scenarios.driver_training.driver_training.training_tightroad.damage.msg": "Ai, não tenho certeza se a ETK vai nos emprestar mais carros.",
+    "scenarios.driver_training.driver_training.training_tightroad.damage.msg": "Opa, não tenho certeza se a ETK vai nos emprestar mais carros.",
     "scenarios.driver_training.safety_training.training_mu_braking.nomove.msg": "Não acerte os cones...",
     "scenarios.driver_training.safety_training.training_mu_braking.title": "Treinamento de Segurança: frenagem μ",
     "scenarios.driver_training.safety_training.training_slalom.nomove.msg": "Não bata nos cones...",
