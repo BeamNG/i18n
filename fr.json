@@ -857,6 +857,7 @@
     "ui.options.graphics.postfx": "PostFX",
     "ui.options.graphics.resolution": "Résolution",
     "ui.options.graphics.uimaxres": "Résolution Maximale de l'Interface",
+    "ui.options.graphics.uimaxresExplanation": "Spécifiez la résolution maximum pour l'interface d'utilisateur. Utile pour les écrans 4K.",
     "ui.options.graphics.vsync": "Synchronisation Verticale",
     "ui.options.graphicsGraphicMeshQuality": "Qualité modèles 3D",
     "ui.options.options": "Options",
