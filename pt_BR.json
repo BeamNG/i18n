@@ -170,7 +170,7 @@
     "scenarios.driver_training.driver_training.training_driftB.drift.fail.msg": "Você chama isso de Drifting? Dê mais velocidade e ângulo! Sua Pontuação:",
     "scenarios.driver_training.driver_training.training_driftB.drift.msg": "Bom trabalho, você pintou aquele bloco de derrapagem com borracha! Sua Pontuação:",
     "scenarios.driver_training.driver_training.training_driftB.title": "Treinamento 10: Drifting",
-    "scenarios.driver_training.driver_training.training_easycircuit.damage.msg": "Este carro necessitará de sérios trabalhos de reparo.",
+    "scenarios.driver_training.driver_training.training_easycircuit.damage.msg": "Este carro precisará de sérios trabalhos de reparo.",
     "scenarios.driver_training.driver_training.training_hairpins3.5.description": "Isto irá lhe ensinar como usar o freio de mão para percorrer rapidamente uma curva fechada",
     "scenarios.driver_training.driver_training.training_hairpins3.5.nomove.msg": "você bateu em algo",
     "scenarios.driver_training.driver_training.training_hairpins3.5.timeLimit.msg": "Muito lento! O tempo limite é de {{timeLimit}} segundos",
