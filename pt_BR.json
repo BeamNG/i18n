@@ -175,7 +175,7 @@
     "scenarios.driver_training.driver_training.training_cornering2.5.nomove.msg": "você bateu em algo",
     "scenarios.driver_training.driver_training.training_cornering2.5.timeLimit.msg": "Você levou mais de {{timeLimit}} segundos, tente novamente com mais velocidade",
     "scenarios.driver_training.driver_training.training_cornering2.5.title": "Treinamento 2.5: Curvas",
-    "scenarios.driver_training.driver_training.training_cornerspeedB.description": "Este percurso irá lhe familiarizar com as diferentes velocidades requeridas para os diferentes raios de curvas",
+    "scenarios.driver_training.driver_training.training_cornerspeedB.description": "Você não pode fazer curvas em qualquer velocidade: mantenha-se nos limites de velocidade das placas para garantir seu sucesso.",
     "scenarios.driver_training.driver_training.training_cornerspeedB.nomove.msg": "Você acertou um cone! Tente ficar dentro das zebras.",
     "scenarios.driver_training.driver_training.training_cornerspeedB.timeLimit.msg": "Você levou mais de {{timeLimit}} segundos, tente novamente com mais velocidade",
     "scenarios.driver_training.driver_training.training_cornerspeedB.title": "Treinamento 4.5: Velocidades em Curva",
