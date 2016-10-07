@@ -892,7 +892,7 @@
     "ui.vehicleconfig.tuning": "Ajuste",
     "ui.vehicleconfig.vehicleconfig": "Customização Veicular",
     "vehicle.bdebug.meshVisibility": "Visibilidade da malha alterada: {{visibilityPercent}}%",
-    "vehicle.bdebug.trisOn": "desenho de Triângulo de Colisão habilitado ",
+    "vehicle.bdebug.trisOn": "Projeto de Triângulo de Colisão habilitado ",
     "vehicle.bullettime.change": "{{slowmoTimes}} vezes mais lento que o tempo real",
     "vehicle.bullettime.realtime": "Tempo real",
     "vehicle.drivetrain.usingHshifter": "Câmbio em H foi usado. Atualmente usando: '{{shifterModeName | translate}}'",
