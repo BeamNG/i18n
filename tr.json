@@ -610,5 +610,6 @@
     "ui.vehicleconfig.save": "Kaydet",
     "ui.vehicleconfig.simpleTree": "Basit Ağaç",
     "ui.vehicleconfig.tuning": "Tuning",
-    "ui.vehicleconfig.vehicleconfig": "Araç kişiselleştirme"
+    "ui.vehicleconfig.vehicleconfig": "Araç kişiselleştirme",
+    "vehicle.recovery.loadHome": "Araç ev pozisyonunda yenilendi"
 }
