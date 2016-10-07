@@ -278,7 +278,7 @@
     "ui.apps.compass.name": "Pusula",
     "ui.apps.detailed_vehicle_damage_app.name": "Detaylı Araç Hasar Uygulaması",
     "ui.apps.esc_desired_yaw_rate_graph.name": "",
-    "ui.apps.indicated_airspeed.name": "Göstergeli Havahızı",
+    "ui.apps.indicated_airspeed.name": "Gösterilen Havahızı",
     "ui.apps.replay.name": "Tekrar",
     "ui.apps.roll.name": "Eğim",
     "ui.apps.vehicleDebug.breakAll": "Tüm kırılma-gruplarını kır",
