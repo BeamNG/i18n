@@ -925,6 +925,7 @@
     "ui.scenarios.end.relativeToBest": "Em Relação ao Melhor",
     "ui.scenarios.end.requirements": "Requerimentos",
     "ui.scenarios.end.result": "Resultado",
+    "ui.scenarios.end.result.success": "Sucesso",
     "ui.scenarios.end.stats": "Estatísticas",
     "ui.scenarios.end.yourScore": "Sua pontuação",
     "ui.scenarios.start.trainingScenario": "Cenário de Treinamento",
