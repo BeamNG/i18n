@@ -172,7 +172,7 @@
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.description": "Isto irá lhe ensinar o básico sobre aceleração e frenagem",
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.nomove.msg": "Vai ficar tudo bem. Tente outra vez e seja mais cuidadoso!",
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.position.msg": "Você passou a área de frenagem",
-    "scenarios.driver_training.driver_training.training_acceleration_braking1.5.timeLimit.msg": "Muito lento! O tempo limite é de {{timeLimit}} segundos",
+    "scenarios.driver_training.driver_training.training_acceleration_braking1.5.timeLimit.msg": "Muito lento! Você terá de usar seu acelerador para este teste.",
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.title": "Treino 1: Aceleração e Frenagem (versão 2)",
     "scenarios.driver_training.driver_training.training_advanced.description": "O percurso vai o familiarizar com as técnicas e linhas ideais necessárias para curvas difíceis",
     "scenarios.driver_training.driver_training.training_advanced.nomove.msg": "Você acertou um cone! Tente se manter dentro das zebras.",
