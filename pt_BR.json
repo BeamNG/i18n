@@ -872,6 +872,7 @@
     "ui.scenarios.end.result": "Resultado",
     "ui.scenarios.end.stats": "Estatísticas",
     "ui.scenarios.end.yourScore": "Sua pontuação",
+    "ui.scenarios.start.trainingScenario": "Cenário de Treinamento",
     "ui.unit.ltr100": "Litro / 100km",
     "ui.unit.mi": "Milhas",
     "ui.unit.psi": "PSI",
@@ -889,5 +890,6 @@
     "vehicle.bdebug.meshVisibility": "Visibilidade da malha alterada: {{visibilityPercent}}%",
     "vehicle.bullettime.change": "{{slowmoTimes}} vezes mais lento que o tempo real",
     "vehicle.drivetrain.usingHshifter": "Câmbio em H foi usado. Atualmente usando: '{{shifterModeName | translate}}'",
-    "vehicle.recovery.loadHome": "Veículo restabelecido na posição inicial"
+    "vehicle.recovery.loadHome": "Veículo restabelecido na posição inicial",
+    "vehicle.recovery.saveHome": "Posição do veículo atualizada (utilize [action=loadHome] 1 para restaurar)"
 }
