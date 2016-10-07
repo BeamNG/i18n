@@ -565,7 +565,7 @@
     "ui.options.graphics.postfx": "PostFX",
     "ui.options.graphics.resolution": "Çözünürlük",
     "ui.options.graphics.uimaxres": "Kullanıcı arayüzünün maksimum çözünürlüğü",
-    "ui.options.graphics.uimaxresExplanation": "Arayüzün maksimum çözünürlüğünü belirler. 4k ekranlar için yararlı.",
+    "ui.options.graphics.uimaxresExplanation": "Kullanıcı arayüzü için maksimum çözünürlüğü belirler. 4k ekranlar için kullanışlıdır.",
     "ui.options.graphics.vsync": "Dikey senkronizasyon",
     "ui.options.graphicsGraphicMeshQuality": "Mesh kalitesi",
     "ui.options.options": "Ayarlar",
