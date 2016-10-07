@@ -1,6 +1,7 @@
 {
     "campaigns.training.training.description": "Comece por aprender os essenciais de pilotagem no BeamNG.drive",
     "campaigns.training.training.training_advanced.title": "Treinamento 9: Curvas Avançadas",
+    "campaigns.training.training.training_cornering.title": "Treinamento 2: Curvas",
     "campaigns.training.training.training_drift.title": "Treinamento 10: Drifting",
     "campaigns.training.training.training_lanechange.title": "Treinamento 4: Troca de Faixa",
     "campaigns.training.training.training_slalom.title": "Treinamento 7: Slalom",
@@ -484,6 +485,7 @@
     "ui.apps.detailed_vehicle_damage_app.name": "App Detalhado de Dano do Veículo ",
     "ui.apps.esc_desired_yaw_rate_graph.name": "Gráfico da taxa de guinada desejada do ESC (Controle de Estabilidade)",
     "ui.apps.indicated_airspeed.name": "Velocidade do ar Indicada",
+    "ui.apps.messages.name": "Mensagens",
     "ui.apps.race_realtime_display.name": "Tela da Corrida em Tempo Real",
     "ui.apps.replay.name": "Replay",
     "ui.apps.roll.name": "Rotação",
@@ -529,6 +531,7 @@
     "ui.common.property.authors": "Autor(es)",
     "ui.common.property.createdAt": "Criação",
     "ui.common.property.difficulty": "Dificuldade",
+    "ui.common.property.goals": "Objetivos",
     "ui.common.property.multiseatPlayers": "Multijogadores",
     "ui.common.reset": "Resetar",
     "ui.common.retry": "Tentar novamente",
