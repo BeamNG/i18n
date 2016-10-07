@@ -235,7 +235,7 @@
     "scenarios.utah.chapter_1.chapter_1_crawl.damage.msg": "Aracı şu kadar sürede tahrip ettiniz {{timeStr}}",
     "scenarios.utah.chapter_1.chapter_1_crawl.timeLimit.msg": "{{timeLimit}} saniyeden daha fazla sürdü",
     "scenarios.utah.chapter_1.chapter_1_drag.title": "Drag Yarışı",
-    "scenarios.utah.chapter_1.chapter_1_highway.description": "Bölüm 1: Otoyol - istatistikler:  skor: ",
+    "scenarios.utah.chapter_1.chapter_1_highway.description": "Yoldaki barikatı geç",
     "scenarios.utah.chapter_1.chapter_1_hilldrop.fail.msg": "10 saniye içinde hareket edemedin",
     "scenarios.utah.chapter_1.chapter_1_hilldrop.title": "Yokuş Aşağı",
     "scenarios.utah.chapter_1.chapter_1_jump.damage.msg": "Aracı {{timeStr}} saniyede tahrip ettiniz",
