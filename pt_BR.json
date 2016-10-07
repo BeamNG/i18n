@@ -87,6 +87,7 @@
     "levels.hirochi_raceway.info.title": "Hirochi Raceway",
     "levels.industrial.info.features": "pista de rallycross, pista de drift, pista de corrida, pista de terra com saltos, área do porto",
     "levels.industrial.info.title": "Área Industrial",
+    "levels.industrial.spawnpoints.spawn_drift": "Trajeto de Drift",
     "levels.italy.info.description": "Estradas de asfalto sinuosas através de uma pequena ilha, cidade e grande quantidade de costas.",
     "levels.italy.info.roads": "70% asfalto de alta velocidade, 30% terra",
     "levels.italy.info.suitablefor": "rally",
