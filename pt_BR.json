@@ -470,6 +470,7 @@
     "ui.apps.categories.vehicle_info": "Informação do Veículo",
     "ui.apps.categories.vehicle_profiling": "Perfil do Veículo",
     "ui.apps.esc_desired_yaw_rate_graph.name": "Gráfico da taxa de guinada desejada do ESC (Controle de Estabilidade)",
+    "ui.apps.roll.name": "Rotação",
     "ui.apps.vehicleDebug.breakAll": "Quebrar todos os grupos de quebra",
     "ui.apps.vehicleDebug.breakHinges": "Quebrar todas as Dobradiças",
     "ui.apps.vehicleDebug.deflateTires": "Murchar Pneus",
