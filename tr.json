@@ -268,6 +268,7 @@
     "ui.apps.categories.vehicle_control": "Araç Kontrolü",
     "ui.apps.categories.vehicle_info": "Araç Bilgisi",
     "ui.apps.categories.vehicle_profiling": "Araç Profili Belirleme",
+    "ui.apps.compass.name": "Pusula",
     "ui.apps.esc_desired_yaw_rate_graph.name": "",
     "ui.apps.indicated_airspeed.name": "Gösterilen Havahızı",
     "ui.apps.roll.name": "Eğim",
