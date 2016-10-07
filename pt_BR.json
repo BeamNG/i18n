@@ -263,6 +263,7 @@
     "scenarios.east_coast_usa.town_course_short_b.title": "Percurso da Cidade Pequeno B",
     "scenarios.gridmap.corridor.description": "Um caminhão está vindo em sua direção, e você está preso em um corredor pequeno. Ache um jeito de sobreviver!",
     "scenarios.gridmap.corridor.title": "Corredor",
+    "scenarios.gridmap.gm_corridor.fail.msg": "Você foi atingido!",
     "scenarios.gridmap.gm_ds_large_jumps.description": "Leve a van elevada para um passeio radical",
     "scenarios.gridmap.gm_ds_large_jumps.title": "Grande Pulo da Vanster",
     "scenarios.gridmap.gm_ds_offroad_shortcourse.description": "3 conjuntos de desafios, a D15 aguentará?",
@@ -413,7 +414,7 @@
     "scenarios.utah.chapter_1.chapter_1_crawl.title": "Escalada",
     "scenarios.utah.chapter_1.chapter_1_drag.description": "Capítulo 1: Corrida de Arrancada - estatísticas: tempo levado, pontuação: tempo levado menos dano recebido, (seja o mais rápido possível sem levar dano), falhou: não terminou a corrida, Nota: necessita um jeito de fazer o carro da IA tentar correr e também espontaneamente explodir (provocar partícula, som e alguns grupos de quebra, porém)",
     "scenarios.utah.chapter_1.chapter_1_drag.title": "Corrida de Arrancada",
-    "scenarios.utah.chapter_1.chapter_1_highway.description": "Capítulo 1: Estrada - estatus: pontuação: ",
+    "scenarios.utah.chapter_1.chapter_1_highway.description": "Passe por um bloqueio na estrada.",
     "scenarios.utah.chapter_1.chapter_1_highway.timeLimit.msg": "Você levou mais de {{timeLimit}} segundos",
     "scenarios.utah.chapter_1.chapter_1_highway.title": "Estrada",
     "scenarios.utah.chapter_1.chapter_1_hilldrop.description": "Capítulo 1: Downhill - estatísticas: dano recebido, distância percorrida, (vá o mais longe possível em 20 segundos (limite de tempo!!), falhou: não saiu da área de início em 10 segundos",
@@ -458,6 +459,7 @@
     "scenarios.utha.chapter_2.chapter_2_5_roll.title": "capítulo_2_5_rolar",
     "scenarios.utha.chapter_2.chapter_2_6_canyon.description": "capitulo_2_6_montanha - corrida final, simples corrida de rua, o jogador pode progredir mesmo se for derrotado mas terá um quadrinho diferente",
     "scenarios.utha.chapter_2.chapter_2_6_canyon.title": "Capítulo_2_6_canion",
+    "ui.apps.automatic_gears.name": "Transmissões Automáticas",
     "ui.apps.categories.debug": "Depuração",
     "ui.apps.categories.info": "Informação",
     "ui.apps.categories.racing": "Corrida",
@@ -466,6 +468,7 @@
     "ui.apps.categories.vehicle_control": "Controle do Veículo",
     "ui.apps.categories.vehicle_info": "Informação do Veículo",
     "ui.apps.categories.vehicle_profiling": "Perfil do Veículo",
+    "ui.apps.esc_desired_yaw_rate_graph.name": "Gráfico da taxa de guinada desejada do ESC (Controle de Estabilidade)",
     "ui.apps.vehicleDebug.breakAll": "Quebrar todos os grupos de quebra",
     "ui.apps.vehicleDebug.breakHinges": "Quebrar todas as Dobradiças",
     "ui.apps.vehicleDebug.deflateTires": "Murchar Pneus",
@@ -774,6 +777,7 @@
     "ui.options.graphics.postfx": "Efeitos Pós Processamento",
     "ui.options.graphics.resolution": "Resolução",
     "ui.options.graphics.uimaxres": "Resolução Maxima do IU",
+    "ui.options.graphics.uimaxresExplanation": "Especifica resolução máxima para a interface do usuário. Útil para monitores 4K.",
     "ui.options.graphics.vsync": "Sincronia Vertical",
     "ui.options.graphicsGraphicMeshQuality": "Qualidade da Malha",
     "ui.options.options": "Opções",
@@ -861,5 +865,6 @@
     "ui.vehicleconfig.simpleTree": "Árvore Simples",
     "ui.vehicleconfig.stickySelection": "Seleção Pegajosa",
     "ui.vehicleconfig.tuning": "Ajuste",
-    "ui.vehicleconfig.vehicleconfig": "Customização Veicular"
+    "ui.vehicleconfig.vehicleconfig": "Customização Veicular",
+    "vehicle.recovery.loadHome": "Veículo restabelecido na posição inicial"
 }
