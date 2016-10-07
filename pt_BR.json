@@ -465,6 +465,7 @@
     "scenarios.utah.chapter_1.chapter_1_rubberband.description": "Capítulo 1: Elástico - estatísticas: dano recebido, tempo levado, o quão longe você foi no rio, pontuação: o quão longe você foi no rio, falhou: não ativou o elástico, não ativou o primeiro ponto de passagem, Notas: precisa de um botão que ative o efeito de elástico que conecta o seu carro ao lado da rua pela duração que você segura o botão, ativando isto irá arremessá-lo através do rio",
     "scenarios.utah.chapter_1.chapter_1_rubberband.title": "Borracha",
     "scenarios.utah.chapter_1.chapter_1_suspension.description": "Capítulo 1: Suspensão - estatísticas: tempo levado, dano recebido, pontuação = (tempo levado + dano recebido), falhou: não completou todos os checkpoints",
+    "scenarios.utah.chapter_1.chapter_1_suspension.fail.msg": "Você falhou em completar o trajeto",
     "scenarios.utah.chapter_1.chapter_1_suspension.followpath.fail.msg": "Você falhou em completar o trajeto.",
     "scenarios.utah.chapter_1.chapter_1_suspension.timeLimit.msg": " Você levou mais de {{timeLimit}} segundo(s)",
     "scenarios.utah.chapter_1.chapter_1_suspension.title": "Suspensão",
