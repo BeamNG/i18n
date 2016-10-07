@@ -110,7 +110,7 @@
     "scenarios.driver_training.driver_training.training_hairpins3.5.nomove.msg": "Bir şeye çarptın",
     "scenarios.driver_training.driver_training.training_hairpins3.5.timeLimit.msg": "Çok yavaş! Süre limiti 16 saniye",
     "scenarios.driver_training.driver_training.training_hairpins3.5.title": "Eğitim 4.1: keskin viraj (versiyon 2)",
-    "scenarios.driver_training.driver_training.training_lanechange.description": "Otoyol hızlarında şerit değiştirmek direksiyonda hassas eller gerektirir. 80'lerin süperaracını kontrol etmek için gerekenler sende var mı?",
+    "scenarios.driver_training.driver_training.training_lanechange.description": "Otoyol hızlarında şerit değiştirmek direksiyonda hassas eller gerektirir. Bir 80'ler süper aracını kontrol etmek için gerekenler sende var mı?",
     "scenarios.driver_training.driver_training.training_lanechange.timeLimit.msg": "12 saniyeden fazla sürdü, daha fazla hızla tekrar dene",
     "scenarios.driver_training.driver_training.training_lanechange.title": "Eğitim 4: Şerit Değiştirme",
     "scenarios.driver_training.driver_training.training_rwd.defaultWin": "Aferin, buna gerçekten alışamaya başladın.",
@@ -634,5 +634,6 @@
     "ui.vehicleconfig.vehicleconfig": "Araç kişiselleştirme",
     "vehicle.bullettime.change": "Gerçek zamandan {{slowmoTimes}} kat daha yavaştır.",
     "vehicle.drivetrain.usingHshifter": "H tipi vites kullanıldı. Şimdi kullanılan: '{{shifterModeName | translate}}'",
-    "vehicle.recovery.loadHome": "Araç ev pozisyonunda yenilendi"
+    "vehicle.recovery.loadHome": "Araç ev pozisyonunda yenilendi",
+    "vehicle.recovery.saveHome": "Araç pozisyonu güncellendi (geriye almak için: [action=loadHome]"
 }
