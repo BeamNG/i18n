@@ -1017,7 +1017,7 @@
     "ui.options.audio.unmute": "Включить звук",
     "ui.options.audio.volume": "Громкость",
     "ui.options.camera": "Камера",
-    "ui.options.camera.chaseRollRelaxation": "Чувствительность к крену",
+    "ui.options.camera.chaseRollRelaxation": "Отклонение по крену",
     "ui.options.camera.defaultMode": "Стандартный режим",
     "ui.options.camera.enableCustom": "Включить новые или пользовательские режимы",
     "ui.options.camera.fovTune": "Настройка FOV (поля зрения)",
