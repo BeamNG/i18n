@@ -981,7 +981,7 @@
     "vehicle.recovery.end": "Veículo restaurado (não é possível restaurar além)",
     "vehicle.recovery.loadHome": "Veículo restabelecido na posição inicial",
     "vehicle.recovery.quick": "Veículo restaurado (segure para restaurar além)",
-    "vehicle.recovery.recovered": "Veículo restaurado",
+    "vehicle.recovery.recovered": "Veículo recuperado",
     "vehicle.recovery.recovering": "Recuperação do veículo em progresso...",
     "vehicle.recovery.saveHome": "Posição do veículo atualizada (utilize [action=loadHome] 1 para restaurar)",
     "vehicle.turbocharger.overheating": "O Turbo está superaquecendo"
