@@ -176,7 +176,7 @@
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.timeLimit.msg": "Muito lento! Você terá de usar seu acelerador para este teste.",
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.title": "Treino 1: Aceleração e Frenagem (versão 2)",
     "scenarios.driver_training.driver_training.training_advanced.description": "O percurso vai o familiarizar com as técnicas e linhas ideais necessárias para curvas difíceis",
-    "scenarios.driver_training.driver_training.training_advanced.nomove.msg": "Você acertou um cone! Tente se manter dentro das zebras.",
+    "scenarios.driver_training.driver_training.training_advanced.nomove.msg": "Você acertou um cone - se você está deslizando para fora da pista, tente reduzir a velocidade ao entrar na curva.",
     "scenarios.driver_training.driver_training.training_advanced.timeLimit.msg": "Você demorou mais que 42 segundos, tente novamente com mais velocidade",
     "scenarios.driver_training.driver_training.training_advanced.title": "Treinamento 8: Curvas Avançadas",
     "scenarios.driver_training.driver_training.training_cornering2.5.description": "No caso improvável de a rua não ser em linha reta, você pode ter que parar de acelerar e usar o volante do seu carro. [br][br] Tente aqui nesta rotatória, mas tome cuidado com a parte escorregadia.",
