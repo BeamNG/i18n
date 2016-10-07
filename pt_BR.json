@@ -876,6 +876,6 @@
     "ui.vehicleconfig.stickySelection": "Seleção Pegajosa",
     "ui.vehicleconfig.tuning": "Ajuste",
     "ui.vehicleconfig.vehicleconfig": "Customização Veicular",
-    "vehicle.drivetrain.usingHshifter": "Câmbio em H fora usado. Atualmente usando: '{{shifterModeName | translate}}'",
+    "vehicle.drivetrain.usingHshifter": "Câmbio em H foi usado. Atualmente usando: '{{shifterModeName | translate}}'",
     "vehicle.recovery.loadHome": "Veículo restabelecido na posição inicial"
 }
