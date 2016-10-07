@@ -583,6 +583,7 @@
     "ui.common.reset": "Resetar",
     "ui.common.retry": "Tentar novamente",
     "ui.common.search": "Busca",
+    "ui.common.skip": "Pular",
     "ui.common.sortBy": "Organizar Por",
     "ui.credits.assistantenvArtists": "Artistas Assistentes de Ambiente",
     "ui.credits.conceptArtists2D": "Artistas de Conceito - 2D",
@@ -703,6 +704,7 @@
     "ui.feedback.leaveMessage": "Por favor adicione uma mensagem aqui",
     "ui.feedback.submit": "Submeter",
     "ui.goals.distance": "Na cola",
+    "ui.goals.position": "Posicionamento ",
     "ui.goals.wayPointAction": "Ação do Ponto de Passagem",
     "ui.hints.TrackIRSupported": "BeamNG.drive suporta o dispositivo de rastreamento TrackIR; apenas plugue-o e abra o jogo!",
     "ui.hints.absWasOptional": "Freios anti-travamento nem sempre foram mandatórios. Carros antigos requerem técnicas de frenagem mais cuidadoras para se manterem sob controle.",
@@ -979,6 +981,8 @@
     "vehicle.recovery.end": "Veículo restaurado (não é possível restaurar além)",
     "vehicle.recovery.loadHome": "Veículo restabelecido na posição inicial",
     "vehicle.recovery.quick": "Veículo restaurado (segure para restaurar além)",
+    "vehicle.recovery.recovered": "Veículo restaurado",
+    "vehicle.recovery.recovering": "Recuperação do veículo em progresso...",
     "vehicle.recovery.saveHome": "Posição do veículo atualizada (utilize [action=loadHome] 1 para restaurar)",
     "vehicle.turbocharger.overheating": "O Turbo está superaquecendo"
 }
