@@ -469,6 +469,7 @@
     "ui.apps.categories.vehicle_control": "Controle do Veículo",
     "ui.apps.categories.vehicle_info": "Informação do Veículo",
     "ui.apps.categories.vehicle_profiling": "Perfil do Veículo",
+    "ui.apps.compass.name": "Bússola",
     "ui.apps.esc_desired_yaw_rate_graph.name": "Gráfico da taxa de guinada desejada do ESC (Controle de Estabilidade)",
     "ui.apps.indicated_airspeed.name": "Velocidade do ar Indicada",
     "ui.apps.roll.name": "Rotação",
