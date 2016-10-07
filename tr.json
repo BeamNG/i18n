@@ -42,6 +42,7 @@
     "extensions.scenario.damageGoal.checkDamage.win.msg": "%{{damage}} hasar",
     "extensions.scenario.damageGoal.fail.msg": "Aracınız hasar aldı",
     "extensions.scenario.damageGoal.win.msg": "Aferin {{timeStr}}",
+    "extensions.scenario.drift.passGoal": "Başarılar, skorun: {{driftPoints}}.",
     "levels.Cliff.info.features": "büyük uçurum adası",
     "levels.Cliff.info.suitablefor": "birşeyleri yok etmek",
     "levels.Cliff.info.title": "Uçurum",
@@ -634,6 +635,7 @@
     "ui.vehicleconfig.tuning": "Tuning",
     "ui.vehicleconfig.vehicleconfig": "Araç kişiselleştirme",
     "vehicle.bullettime.change": "Gerçek zamandan {{slowmoTimes}} kat daha yavaştır.",
+    "vehicle.bullettime.realtime": "Gerçek Zaman",
     "vehicle.drivetrain.usingHshifter": "H tipi vites kullanıldı. Şimdi kullanılan: '{{shifterModeName | translate}}'",
     "vehicle.recovery.loadHome": "Araç ev pozisyonunda yenilendi",
     "vehicle.recovery.saveHome": "Araç pozisyonu güncellendi (geriye almak için: [action=loadHome]"
