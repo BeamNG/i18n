@@ -189,7 +189,7 @@
     "scenarios.driver_training.driver_training.training_rwd.defaultWin": "Bom trabalho, você está realmente pegando o jeito disto.",
     "scenarios.driver_training.driver_training.training_rwd.description": "Esse percurso irá testar suas habilidades ao manejar um carro de tração traseira",
     "scenarios.driver_training.driver_training.training_rwd.nomove.msg": "Você acertou um cone! Tente ficar na pista.",
-    "scenarios.driver_training.driver_training.training_rwd.timeLimit.msg": "Você levou mais que {{timeLimit}} segundos, tente novamente com mais velocidade",
+    "scenarios.driver_training.driver_training.training_rwd.timeLimit.msg": "Esse carro tem um motor V8 bem potente... Use-o!",
     "scenarios.driver_training.driver_training.training_rwd.title": "Treinamento 12: Pilotando em carros com tração traseira",
     "scenarios.driver_training.driver_training.training_tightroad.damage.msg": "Opa, não tenho certeza se a ETK vai nos emprestar mais carros.",
     "scenarios.driver_training.driver_training.training_tightroad.title": "Treinamento 3: Curso de Estrada Estreita",
