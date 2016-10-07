@@ -491,6 +491,7 @@
     "ui.apps.categories.vehicle_info": "Informação do Veículo",
     "ui.apps.categories.vehicle_profiling": "Perfil do Veículo",
     "ui.apps.compass.name": "Bússola",
+    "ui.apps.cruise_control.name": "Controle de Cruzeiro",
     "ui.apps.detailed_vehicle_damage_app.name": "App Detalhado de Dano do Veículo ",
     "ui.apps.digital_speedometer.name": "Velocímetro Digital",
     "ui.apps.engine_debug.name": "Debug de motor",
@@ -932,6 +933,6 @@
     "vehicle.drivetrain.usingHshifter": "Câmbio em H foi usado. Atualmente usando: '{{shifterModeName | translate}}'",
     "vehicle.engine.rodBearingsDamaged": "Bronzinas da biela danificadas",
     "vehicle.recovery.loadHome": "Veículo restabelecido na posição inicial",
-    "vehicle.recovery.quick": "Veículo restaurado (segure parece restaurar ainda mais)",
+    "vehicle.recovery.quick": "Veículo restaurado (segure para restaurar além)",
     "vehicle.recovery.saveHome": "Posição do veículo atualizada (utilize [action=loadHome] 1 para restaurar)"
 }
