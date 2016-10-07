@@ -509,6 +509,7 @@
     "ui.apps.esc_desired_yaw_rate_graph.name": "Gráfico da taxa de guinada desejada do ESC (Controle de Estabilidade)",
     "ui.apps.escstiffness.name": "Rigidez do ESC",
     "ui.apps.g-forces.name": "Força-G",
+    "ui.apps.gears.name": "Marchas",
     "ui.apps.indicated_airspeed.name": "Velocidade do ar Indicada",
     "ui.apps.log_all_available_streams.name": "Registrar todas as transmissões disponíveis",
     "ui.apps.messages.name": "Mensagens",
