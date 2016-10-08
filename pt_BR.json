@@ -974,7 +974,7 @@
     "ui.performance.recommended": "Recomendado",
     "ui.performance.score": "Pontuação",
     "ui.performance.showDetails": "Mostrar Detalhes",
-    "ui.performance.warnings.cpuonecore": "Este jogo não irá rodar bem com um único núcleo fisico",
+    "ui.performance.warnings.cpuonecore": "Este jogo não irá rodar satisfatoriamente com um único núcleo fisico",
     "ui.photomode.advancedImgSettings": "Opções Avançadas de Imagem",
     "ui.photomode.blureCurveFar": "Curva de desfoque Longe",
     "ui.photomode.cameraSpeed": "Velocidade da Câmera",
