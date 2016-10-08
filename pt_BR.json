@@ -445,6 +445,7 @@
     "scenarios.utah.chapter_1.chapter_1_cannon.damage.msg": "Você destruiu o carro em ",
     "scenarios.utah.chapter_1.chapter_1_cannon.description": "Capítulo 1: Canhão - Estatísticas: condição do veículo inimigo, (destrua o máximo possível do carro com uma tentativa), fracasso: não disparou o canhão em 20 segundos",
     "scenarios.utah.chapter_1.chapter_1_cannon.title": "Canhão",
+    "scenarios.utah.chapter_1.chapter_1_cliffjump.altitude.fail.msg": "Você caiu apenas {{altitude}} m e é necessário pelo menos 30m ",
     "scenarios.utah.chapter_1.chapter_1_cliffjump.description": "Chegue à base do penhasco do jeito mais rápido.",
     "scenarios.utah.chapter_1.chapter_1_cliffjump.timeLimit.msg": "Você não deixou a área superior em  {{failureTime}} segundos!",
     "scenarios.utah.chapter_1.chapter_1_cliffjump.title": "Descida da Montanha",
