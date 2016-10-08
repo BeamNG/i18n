@@ -536,6 +536,7 @@
     "scenarios.utah.chapter_1.chapter_1_walljump.fail.msg": "Você falhou em bater na parede",
     "scenarios.utah.chapter_1.chapter_1_walljump.title": "Salto na Parede",
     "scenarios.utah.chapter_1.chapter_1_walljump.win.msg": "Atingiu a parede",
+    "scenarios.utah.chapter_2.chapter_2_0_comics_test.description": "Capítulo_2_0_testecômico - Teste Cômico",
     "scenarios.utah.chapter_2.chapter_2_0_comics_test.title": "chapter_2_0_comictest",
     "scenarios.utah.chapter_2.chapter_2_1_ram.title": "chapter_2_1_ram",
     "scenarios.utah.chapter_2.chapter_2_2_mixed.description": "chapter_2_2_mixed - apenas uma corrida pura contra um oponente",
