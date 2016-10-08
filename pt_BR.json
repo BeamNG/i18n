@@ -1003,6 +1003,7 @@
     "vehicle.bullettime.change": "{{slowmoTimes}} vezes mais lento que o tempo real",
     "vehicle.bullettime.realtime": "Tempo real",
     "vehicle.drivetrain.engineDrying": "Motor está secando da água ({{percent}}%)",
+    "vehicle.drivetrain.fuelLeaking": "Combustível vazando",
     "vehicle.drivetrain.shifterModeNameArcade": "Arcade",
     "vehicle.drivetrain.shifterModeNameUnknown": "Método de troca de marchas desconhecido",
     "vehicle.drivetrain.usingHshifter": "Câmbio em H foi usado. Atualmente usando: '{{shifterModeName | translate}}'",
