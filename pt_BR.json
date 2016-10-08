@@ -174,7 +174,7 @@
     "scenarios.derby.variedground_derby.description": "Último carro que andar ganha. Bata em seus amigos enquanto cuida do seu próprio carro!",
     "scenarios.derby.variedground_derby.title": "Derby de Demolição - Arena de Terreno Variado",
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.damage.msg": "onde você está indo? A área de teste é na outra direção!",
-    "scenarios.driver_training.driver_training.training_acceleration_braking1.5.defaultWin": "Então você dirigi como profissional em linha reta? Vamos ver como você faz em curvas...",
+    "scenarios.driver_training.driver_training.training_acceleration_braking1.5.defaultWin": "Então você consegue dirigir como profissional em linha reta? Vamos ver como você se sai nas curvas...",
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.description": "Bem-vindo ao ETK Driver Experience Center. Meu nome é Mike, e eu serei seu instrutor para esse percurso. [br] [br] Vamos começar pelo mais fácil e simples - tudo o que você tem que fazer é acelerar, e então parar antes de atingir as barreiras. Lembre-se de frear quando passar as placas de 'Pare'!",
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.nomove.msg": "Vai ficar tudo bem. Tente outra vez e seja mais cuidadoso!",
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.position.msg": "Você passou a área de frenagem",
