@@ -536,6 +536,7 @@
     "ui.apps.precision_compass.name": "Bússola de Precisão",
     "ui.apps.race_check_points.name": "Check Points da Corrida",
     "ui.apps.race_realtime_display.name": "Tela da Corrida em Tempo Real",
+    "ui.apps.race_time_comparison.name": "Comparação do Tempo de Corrida",
     "ui.apps.racelaps.name": "Voltas da corrida",
     "ui.apps.replay.name": "Replay",
     "ui.apps.roll.name": "Rotação",
