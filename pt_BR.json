@@ -977,6 +977,7 @@
     "ui.performance.warnings.amdhd": "Pelo menos uma AMD Radeon HD XXX é recomendada",
     "ui.performance.warnings.cpuonecore": "Este jogo não irá rodar satisfatoriamente com um único núcleo fisico",
     "ui.performance.warnings.dinput": "Entrada Direta (usada por volantes) não está disponível, por favor reinstale DirectX 9: [url=http://wiki.beamng.com/DirectXInstallation] wiki.beamng.com/DirectXInstallation[/url]",
+    "ui.performance.warnings.missing64binary": "Não rodando versão 64 bits: Versão 64 bit faltando: Por favor reinstale",
     "ui.photomode.advancedImgSettings": "Opções Avançadas de Imagem",
     "ui.photomode.blureCurveFar": "Curva de desfoque Longe",
     "ui.photomode.cameraSpeed": "Velocidade da Câmera",
