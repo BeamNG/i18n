@@ -454,6 +454,7 @@
     "scenarios.utah.chapter_1.chapter_1_drag.pass.msg": "Corrida completada",
     "scenarios.utah.chapter_1.chapter_1_drag.title": "Corrida de Arrancada",
     "scenarios.utah.chapter_1.chapter_1_highway.description": "Passe por um bloqueio na estrada.",
+    "scenarios.utah.chapter_1.chapter_1_highway.pass.msg": "Barreira da estrada passada",
     "scenarios.utah.chapter_1.chapter_1_highway.timeLimit.msg": "Você levou mais de {{timeLimit}} segundos",
     "scenarios.utah.chapter_1.chapter_1_highway.title": "Estrada",
     "scenarios.utah.chapter_1.chapter_1_hilldrop.description": "Capítulo 1: Downhill - estatísticas: dano recebido, distância percorrida, (vá o mais longe possível em 20 segundos (limite de tempo!!), falhou: não saiu da área de início em 10 segundos",
