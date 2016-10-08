@@ -988,6 +988,7 @@
     "ui.vehicleconfig.stickySelection": "Seleção Pegajosa",
     "ui.vehicleconfig.tuning": "Ajuste",
     "ui.vehicleconfig.vehicleconfig": "Customização Veicular",
+    "vehicle.bdebug.beamVisMode.deformation": "Deformação",
     "vehicle.bdebug.beamVisMode.deformgroups": "Grupos de deformação",
     "vehicle.bdebug.beamVisMode.off": "Desligado",
     "vehicle.bdebug.beamVisMode.simple": "Simples",
