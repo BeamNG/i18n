@@ -112,7 +112,7 @@
     "scenarios.hirochi_raceway.training_hairpins.nomove.msg": "do něčeho jsi narazil",
     "scenarios.hirochi_raceway.training_hairpins.position.msg": "Nejsi v oblasti pro zabrždění...",
     "scenarios.hirochi_raceway.training_hairpins.timeLimit.msg": "vyčerpáno víc než {{timeLimit}} sekund",
-    "scenarios.hirochi_raceway.training_slalom_FWD.description": "Tento kurz vyzkouší, jak ovládáš auta s předním náhonem",
+    "scenarios.hirochi_raceway.training_slalom_FWD.description": "Tato dráha vyzkouší, jak ovládáš auta s předním náhonem",
     "scenarios.hirochi_raceway.training_slalom_FWD.timeLimit.msg": "Vypršel čas! Zkus to znovu a trošku na to šlápni.",
     "scenarios.jungle_rock_island.drag_race.fail.msg": "Prohrál jsi...",
     "scenarios.jungle_rock_island.drag_race.title": "Letištní závod",
