@@ -1,5 +1,6 @@
 {
     "campaigns.training.training.training_drift.title": "Trénink 10: Driftování",
+    "campaigns.training.training.training_lanechange.title": "Trénink 4: Změna jízdního pruhu",
     "campaigns.utah.chapter_1.title": "Prachsprostá destrukce",
     "campaigns.utah.chapter_2.mixed.title": "Kapitola 2, smíšená",
     "engine.cef.subprocessdied.msg": "Proces uživatelského rozhraní neodpovídá.\nMůže to být způsobeno tím, že antivirový program blokuje aplikaci BeamNG.drive.ui.exe.\n\nVíce informací naleznete na:\n\nhttp://wiki.beamng.com/Errors/Unresponsive_UI_Process\n\nPřejete si přejít na tuto adresu?",
@@ -129,6 +130,7 @@
     "scenarios.utah.chapter_1.chapter_1_jump.fail.msg": "Netrefil jsi se",
     "scenarios.utah.chapter_1.chapter_1_jump.title": "Skok",
     "scenarios.utah.chapter_1.chapter_1_suspension.timeLimit.msg": " Trvalo ti to déle než {{timeLimit}} sekund",
+    "scenarios.utah.chapter_2.chapter_2_3_crawl.title": "chapter_2_3_crawl",
     "scenarios.utah.chapter_2.chapter_2_4_delivery.title": "chapter_2_4_delivery",
     "scenarios.utah.chapter_2.chapter_2_6_canyon.title": "chapter_2_6_canyon",
     "ui.apps.automatic_gears.name": "Automat Převody",
