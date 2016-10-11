@@ -130,6 +130,7 @@
     "scenarios.small_island.intro_round_circuit.description": "Okruh okolo ostrova",
     "scenarios.utah.canyon_race.description": "Dlouhá jízda kolem kaňonů a nížin Utahu",
     "scenarios.utah.canyon_race.title": "Závod kaňonem",
+    "scenarios.utah.chapter_1.chapter_1_bridge.description": "Pokus se přejet přes vratký most během písečné bouře.",
     "scenarios.utah.chapter_1.chapter_1_cannon.title": "Kanón",
     "scenarios.utah.chapter_1.chapter_1_cliffjump.description": "Dostaň se na dno útesu tou nejrychlejší cestou.",
     "scenarios.utah.chapter_1.chapter_1_cliffjump.timeLimit.msg": "Neopustil jsi vrchol během {{failureTime}} sekund!",
