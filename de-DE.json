@@ -566,7 +566,7 @@
     "ui.apps.categories.vehicle_info": "Fahrzeuginformationen",
     "ui.apps.categories.vehicle_profiling": "Fahrzeuganpassung",
     "ui.apps.esc_desired_yaw_rate_graph.name": "Graph für gewünschte Gier-rate des ESP",
-    "ui.apps.roll.name": "Neigungen",
+    "ui.apps.roll.name": "Neigung",
     "ui.apps.vehicleDebug.breakAll": "Alle Verbindungspunkte lösen",
     "ui.apps.vehicleDebug.breakHinges": "Alle Scharniere brechen",
     "ui.apps.vehicleDebug.deflateTires": "Luft aus Reifen lassen",
