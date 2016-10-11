@@ -175,6 +175,7 @@
     "ui.apps.digital_speedometer.name": "Digitální tachometr",
     "ui.apps.engine_debug.name": "Ladění motoru",
     "ui.apps.esc_desired_yaw_rate_graph.name": "ESC Graf požadované rychlosti změny směru",
+    "ui.apps.escstiffness.name": "Tuhost ESC",
     "ui.apps.indicated_airspeed.name": "Indikovaná vzdušná rychlost",
     "ui.apps.messages.name": "Zprávy",
     "ui.apps.navigation.name": "Navigace",
