@@ -980,5 +980,6 @@
     "ui.vehicleconfig.simpleTree": "Einfacher Baum",
     "ui.vehicleconfig.stickySelection": "Angeheftete Auswahl",
     "ui.vehicleconfig.tuning": "Tuning",
-    "ui.vehicleconfig.vehicleconfig": "Fahrzeuganpassung"
+    "ui.vehicleconfig.vehicleconfig": "Fahrzeuganpassung",
+    "vehicle.recovery.loadHome": "Fahrzeug zu Startposition wiederhergestellt"
 }
