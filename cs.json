@@ -160,6 +160,7 @@
     "ui.apps.indicated_airspeed.name": "Indikovaná vzdušná rychlost",
     "ui.apps.messages.name": "Zprávy",
     "ui.apps.navigation.name": "Navigace",
+    "ui.apps.precision_compass.name": "Přesný kompas",
     "ui.apps.racelaps.name": "Kola závodu",
     "ui.apps.replay.name": "Záznam",
     "ui.apps.roll.name": "Náklon",
