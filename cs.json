@@ -31,7 +31,7 @@
     "engine.windowedModeReq.msgGUI": "Pro přepnutí do celoobrazovkového režimu prosím ukončete GUI Editor.",
     "engine.windowedModeReq.title": "Vyžadován režim v okně",
     "extensions.scenario.drift.passGoal": "Výborně, dosáhl jsi {{driftPoints}} bodů.",
-    "levels.Gridmap.info.roads": "nějaká ta polňačka",
+    "levels.Gridmap.info.roads": "Nějaká ta polňačka",
     "levels.cardealer.info.roads": "60% rychlý asfalt, 40% šotolina",
     "levels.driver_training.info.description": "Výcvikové středisko nacházející se v Německu",
     "levels.dry_rock_island.info.features": "průmysl, přístav, nezpevněné horské cesty",
