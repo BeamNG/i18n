@@ -518,7 +518,7 @@
     "vehicle.bullettime.change": "{{slowmoTimes}} krát pomalejší než reálný čas",
     "vehicle.bullettime.realtime": "Reálný čas",
     "vehicle.drivetrain.usingHshifter": "Bylo použito H-řazení. Nyní se používá: '{{shifterModeName | translate}}'",
-    "vehicle.engine.rodBearingsDamaged": "Ojniční ložiska byla poškozena",
+    "vehicle.engine.rodBearingsDamaged": "Ojniční ložiska jsou poškozena",
     "vehicle.recovery.loadHome": "Vůz vrácen do počáteční pozice",
     "vehicle.recovery.saveHome": "Pozice vozu aktualizována (použij [action=loadHome] pro obnovení)"
 }
