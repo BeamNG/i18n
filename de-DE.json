@@ -948,6 +948,7 @@
     "ui.performance.recommended": "Empfohlen",
     "ui.performance.score": "Punktzahl",
     "ui.performance.showDetails": "Details anzeigen",
+    "ui.performance.warnings.cpuonecore": "Dieses Spiel wird nicht gut auf nur einem physikalischen Kern laufen.",
     "ui.photomode.advancedImgSettings": "Erweiterte Bildeinstellungen",
     "ui.photomode.blureCurveFar": "Unschärfegrad in der Ferne",
     "ui.photomode.cameraSpeed": "Kamerageschwindigkeit",
