@@ -889,6 +889,7 @@
     "ui.options.graphics.postfx": "Nachbearbeitung",
     "ui.options.graphics.resolution": "Auflösung",
     "ui.options.graphics.uimaxres": "Maximale UI-Auflösung",
+    "ui.options.graphics.uimaxresExplanation": "Gibt die maximale Auflösung für die Benutzeroberfläche an. Nützlich für 4k Bildschirme.",
     "ui.options.graphics.vsync": "Vertikale Synchronisation",
     "ui.options.graphicsGraphicMeshQuality": "Gitterqualität",
     "ui.options.options": "Optionen",
