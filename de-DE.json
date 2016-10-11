@@ -563,6 +563,7 @@
     "ui.apps.categories.vehicle_control": "Fahrzeugkontrolle",
     "ui.apps.categories.vehicle_info": "Fahrzeuginformationen",
     "ui.apps.categories.vehicle_profiling": "Fahrzeuganpassung",
+    "ui.apps.esc_desired_yaw_rate_graph.name": "Graph Für Gewünschte Gierungsrate Des ESC",
     "ui.apps.vehicleDebug.breakAll": "Alle Verbindungspunkte lösen",
     "ui.apps.vehicleDebug.breakHinges": "Alle Scharniere brechen",
     "ui.apps.vehicleDebug.deflateTires": "Luft aus Reifen lassen",
