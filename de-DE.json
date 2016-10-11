@@ -244,6 +244,7 @@
     "scenarios.driver_training.driver_training.training_driftB.drift.fail.msg": "Das nennst du Driften? Fahre schneller und seitlicher! Deine Punktzahl:",
     "scenarios.driver_training.driver_training.training_driftB.drift.msg": "Sehr gut, du hast das Skidpad mit Gummi bemalt! Deine Punktzahl:",
     "scenarios.driver_training.driver_training.training_driftB.title": "Lektion 10: Driften",
+    "scenarios.driver_training.driver_training.training_easycircuit.damage.msg": "Dieses Auto wird einige ernsthafte Reparaturarbeiten benötigen.",
     "scenarios.driver_training.driver_training.training_hairpins3.5.description": "Dies wird dir beibringen, wie du mithilfe der Handbremse auch enge Kurven meisterst",
     "scenarios.driver_training.driver_training.training_hairpins3.5.nomove.msg": "Du hast etwas getroffen",
     "scenarios.driver_training.driver_training.training_hairpins3.5.timeLimit.msg": "Zu langsam! Das Zeitlimit liegt bei {{timeLimit}} Sekunden",
@@ -994,7 +995,7 @@
     "ui.vehicleconfig.stickySelection": "Angeheftete Auswahl",
     "ui.vehicleconfig.tuning": "Tuning",
     "ui.vehicleconfig.vehicleconfig": "Fahrzeuganpassung",
-    "vehicle.bdebug.meshVisibility": "Änderte Mesh Sichtbarkeit zu {{visibilityPercent}}%",
+    "vehicle.bdebug.meshVisibility": "Änderte Mesh Sichtbarkeit: {{visibilityPercent}}%",
     "vehicle.bullettime.change": "{{slowmoTimes}} Mal langsamer als Echtzeit",
     "vehicle.drivetrain.usingHshifter": "H-Schaltung wurde benutzt. Jetzt benutzt: '{{shifterModeName | translate}}'",
     "vehicle.recovery.loadHome": "Fahrzeug wurde auf die ursprüngliche Position zurückgesetzt"
