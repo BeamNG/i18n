@@ -47,7 +47,7 @@
     "levels.utah.spawnpoints.parkingLot": "Parkoviště",
     "levels.utah.spawnpoints.westHighway": "Západní dálnice",
     "levels.utah_offroad_park.info.biome": "poušť",
-    "scenarios.Industrial.pessima_autocross.description": "Projeď krkolomnou tratí s Pessimou, která má řízení všech kol.",
+    "scenarios.Industrial.pessima_autocross.description": "Projeď krkolomnou tratí s Pessimou, která má řízení všech kol",
     "scenarios.derby.fourway_derby.description": "Poslední pohyblivé auto vítězí. Znič auta svých přátel a chraň přitom své!",
     "scenarios.driver_training.driver_training.training_driftB.description": "Dobrá tedy, zakončíme to malou lekcí jízdy smykem. Pro tento test budeš muset použít manuální řazení - zůstaň na druhém rychlostním stupni, aby ses co nejsnadněji udržel ve smyku. [br][br]Udržuj auto co nejdéle v jízdě bokem, abys získal co nejvíce bodů v časovém limitu 60 sekund.[br][br]Pro změnu rychlostního stupně použij [action=shiftUp] a [action=shiftDown].",
     "scenarios.driver_training.driver_training.training_driftB.drift.fail.msg": "Tomu říkáš driftování? Chce to větší rychlost a úhel! Tvé skóre: {{score}}",
