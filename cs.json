@@ -128,6 +128,7 @@
     "scenarios.utah.chapter_1.chapter_1_jump.fail.msg": "Netrefil jsi se",
     "scenarios.utah.chapter_1.chapter_1_jump.title": "Skok",
     "scenarios.utah.chapter_1.chapter_1_suspension.timeLimit.msg": " Trvalo ti to déle než {{timeLimit}} sekund",
+    "scenarios.utah.chapter_2.chapter_2_4_delivery.title": "chapter_2_4_delivery",
     "scenarios.utah.chapter_2.chapter_2_6_canyon.title": "chapter_2_6_canyon",
     "ui.apps.automatic_gears.name": "Automat Převody",
     "ui.apps.categories.debug": "Ladění",
