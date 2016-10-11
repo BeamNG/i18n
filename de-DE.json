@@ -952,6 +952,7 @@
     "ui.performance.recommended": "Empfohlen",
     "ui.performance.score": "Punktzahl",
     "ui.performance.showDetails": "Details anzeigen",
+    "ui.performance.warnings.amdhd": "Mindestens eine AMD Radeon HD XXX ist empfohlen",
     "ui.performance.warnings.cpuonecore": "Dieses Spiel wird nicht gut auf nur einem physikalischen Kern laufen.",
     "ui.photomode.advancedImgSettings": "Erweiterte Bildeinstellungen",
     "ui.photomode.blureCurveFar": "Unschärfegrad in der Ferne",
@@ -992,7 +993,7 @@
     "ui.vehicleconfig.stickySelection": "Angeheftete Auswahl",
     "ui.vehicleconfig.tuning": "Tuning",
     "ui.vehicleconfig.vehicleconfig": "Fahrzeuganpassung",
-    "vehicle.bullettime.change": "{{slowmoTimes}} mal langsamer als Echtzeit",
+    "vehicle.bullettime.change": "{{slowmoTimes}} Mal langsamer als Echtzeit",
     "vehicle.drivetrain.usingHshifter": "H-Schaltung wurde benutzt. Jetzt benutzt: '{{shifterModeName | translate}}'",
     "vehicle.recovery.loadHome": "Fahrzeug wurde auf die ursprüngliche Position zurückgesetzt"
 }
