@@ -43,6 +43,7 @@
     "levels.dry_rock_island.info.features": "průmysl, přístav, nezpevněné horské cesty",
     "levels.dry_rock_island.info.title": "Dry Rock Island",
     "levels.east_coast_usa.info.description": "Východní pobřeží USA. Lokace byla inspirována především státy Maine a New Hampshire",
+    "levels.industrial.spawnpoints.spawn_drift": "Driftovací dráha",
     "levels.jungle_rock_island.info.biome": "tropické, džungle, ostrov",
     "levels.jungle_rock_island.spawnpoints.spawnsObservatory": "Observatoř",
     "levels.jungle_rock_island.spawnpoints.spawnsPeninsula": "Poloostrov",
@@ -156,6 +157,7 @@
     "scenarios.utah.chapter_1.chapter_1_jump.title": "Skok",
     "scenarios.utah.chapter_1.chapter_1_rubberband.title": "Gumový pás",
     "scenarios.utah.chapter_1.chapter_1_suspension.timeLimit.msg": " Trvalo ti to déle než {{timeLimit}} sekund",
+    "scenarios.utah.chapter_1.chapter_1_suspension.title": "Odpružení",
     "scenarios.utah.chapter_2.chapter_2_3_crawl.title": "chapter_2_3_crawl",
     "scenarios.utah.chapter_2.chapter_2_4_delivery.title": "chapter_2_4_delivery",
     "scenarios.utah.chapter_2.chapter_2_6_canyon.title": "chapter_2_6_canyon",
@@ -165,6 +167,7 @@
     "ui.apps.categories.vehicle_info": "Informace o vozidlu",
     "ui.apps.categories.vehicle_profiling": "Profilování vozidla",
     "ui.apps.compass.name": "Kompas",
+    "ui.apps.cruise_control.name": "Tempomat",
     "ui.apps.detailed_vehicle_damage_app.name": "Aplikace Detailní poškození vozu",
     "ui.apps.digital_speedometer.name": "Digitální tachometr",
     "ui.apps.engine_debug.name": "Ladění motoru",
@@ -541,5 +544,6 @@
     "vehicle.drivetrain.usingHshifter": "Bylo použito H-řazení. Nyní se používá: '{{shifterModeName | translate}}'",
     "vehicle.engine.rodBearingsDamaged": "Ojniční ložiska jsou poškozena",
     "vehicle.recovery.loadHome": "Vůz vrácen do počáteční pozice",
+    "vehicle.recovery.quick": "Vozidlo bylo obnoveno (podržením se vrátíte dále)",
     "vehicle.recovery.saveHome": "Pozice vozu aktualizována (použij [action=loadHome] pro obnovení)"
 }
