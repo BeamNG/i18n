@@ -992,6 +992,7 @@
     "ui.vehicleconfig.stickySelection": "Angeheftete Auswahl",
     "ui.vehicleconfig.tuning": "Tuning",
     "ui.vehicleconfig.vehicleconfig": "Fahrzeuganpassung",
+    "vehicle.bullettime.change": "{{slowmoTimes}} mal langsamer als Echtzeit",
     "vehicle.drivetrain.usingHshifter": "H-Schaltung wurde benutzt. Jetzt benutzt: '{{shifterModeName | translate}}'",
     "vehicle.recovery.loadHome": "Fahrzeug wurde auf die ursprüngliche Position zurückgesetzt"
 }
