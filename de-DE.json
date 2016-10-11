@@ -733,6 +733,7 @@
     "ui.feedback.clear": "Leeren",
     "ui.feedback.leaveMessage": "Füge hier deine Nachricht ein",
     "ui.feedback.submit": "Absenden",
+    "ui.goals.distance": "Beschattung",
     "ui.hints.TrackIRSupported": "BeamNG.drive unterstützt das TrackIR Head-Tracking-Gerät; einfach anschließen und das Spiel starten!",
     "ui.hints.absWasOptional": "Das Anti-blockier-System war nicht immer vorgeschrieben. Ältere Autos benötigen eine vorsichtige Bremstechnik, um sie unter Kontrolle zu behalten.",
     "ui.hints.adaptToBadRoads": "Alte Straßen mit Unebenheiten, Asphalt-Ausbesserungen und Oberflächenunebenheiten werden Kurvengeschwindigkeit limitieren. Sie müssen Ihre Geschwindigkeit an die Straßenbedingungen anpassen.",
@@ -969,6 +970,7 @@
     "ui.scenarios.end.result": "Ergebnis",
     "ui.scenarios.end.stats": "Statistiken",
     "ui.scenarios.end.yourScore": "Deine Punktzahl",
+    "ui.unit.ltr100": "Liter/100km",
     "ui.vehicleconfig.color": "Farbe",
     "ui.vehicleconfig.filename": "Dateiname",
     "ui.vehicleconfig.licensePlate": "Nummernschild",
@@ -981,5 +983,5 @@
     "ui.vehicleconfig.stickySelection": "Angeheftete Auswahl",
     "ui.vehicleconfig.tuning": "Tuning",
     "ui.vehicleconfig.vehicleconfig": "Fahrzeuganpassung",
-    "vehicle.recovery.loadHome": "Fahrzeug zu Startposition wiederhergestellt"
+    "vehicle.recovery.loadHome": "Fahrzeug wurde auf die ursprüngliche Position zurückgesetzt"
 }
