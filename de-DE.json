@@ -402,7 +402,7 @@
     "scenarios.hirochi_raceway.training_corner_speeds.timeLimit.msg": "Die Zeit ist um! Versuch es erneut mit etwas mehr Geschwindigkeit.",
     "scenarios.hirochi_raceway.training_corner_speeds.title": "Lektion 6: Kurvengeschwindigkeiten",
     "scenarios.hirochi_raceway.training_cornering.description": "Dies wird dir beibringen, die Ideallinie für effizienteres Fahren zu nutzen",
-    "scenarios.hirochi_raceway.training_cornering.nomove.msg": "du hast etwas berührt",
+    "scenarios.hirochi_raceway.training_cornering.nomove.msg": "Du hast etwas berührt",
     "scenarios.hirochi_raceway.training_cornering.position.msg": "Du bist nicht in der Bremszone...",
     "scenarios.hirochi_raceway.training_cornering.timeLimit.msg": "Mehr als {{timeLimit}} Sek. gebraucht",
     "scenarios.hirochi_raceway.training_cornering.title": "Lektion 2: Kurven fahren",
