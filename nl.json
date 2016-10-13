@@ -46,6 +46,7 @@
     "levels.dry_rock_island.info.title": "Dry Rock Island",
     "levels.east_coast_usa.info.description": "De oostkust van de Verenigde Staten van Amerika. Grootendeels gebaseerd op Maine en New-Hampshire",
     "levels.jungle_rock_island.info.biome": "tropisch, jungle, eiland",
+    "levels.jungle_rock_island.spawnpoints.spawnsObservatory": "Observatorium",
     "levels.port.info.description": "Een verlaten industriële haven.",
     "levels.small_island.info.biome": "Matig",
     "levels.small_island.info.title": "Small Island, USA",
