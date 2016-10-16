@@ -966,6 +966,7 @@
     "ui.performance.benchmark.vehicles": "Fahrzeuge",
     "ui.performance.cpu": "Prozessor (CPU)",
     "ui.performance.gpu": "Grafikkarte (GPU)",
+    "ui.performance.improvements.resolution": "Verringere Auflösung in",
     "ui.performance.improvements.textures": "Verringere Texturqualität in",
     "ui.performance.laptopGPU": "Benutze die Grafikeinstellungen für Laptops",
     "ui.performance.laptopGPU.controlPanel": "Rufe NVIDIA Control Panel auf",
