@@ -578,6 +578,7 @@
     "ui.apps.detailed_vehicle_damage_app.name": "Detaillierte Fahrzeugschaden App",
     "ui.apps.esc_desired_yaw_rate_graph.name": "Graph für gewünschte Gier-rate des ESP",
     "ui.apps.indicated_airspeed.name": "Angegebene Luftgeschwindigkeit",
+    "ui.apps.race_realtime_display.name": "Rennen Realzeit Anzeige",
     "ui.apps.replay.name": "Wiederholung",
     "ui.apps.roll.name": "Neigung",
     "ui.apps.vehicleDebug.breakAll": "Alle Verbindungspunkte lösen",
