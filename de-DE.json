@@ -1056,6 +1056,7 @@
     "vehicle.beamstate.tireDeflated": "{{wheelName | translate}} Reifen geplatzt",
     "vehicle.bullettime.change": "{{slowmoTimes}} Mal langsamer als Echtzeit",
     "vehicle.bullettime.realtime": "Echtzeit",
+    "vehicle.drivetrain.shifterModeNameArcade": "Arcade",
     "vehicle.drivetrain.usingHshifter": "H-Schaltung wurde benutzt. Jetzt benutzt: '{{shifterModeName | translate}}'",
     "vehicle.engine.rodBearingsDamaged": "Pleuellager beschädigt",
     "vehicle.recovery.end": "Fahrzeug zurückgesetzt (kann nicht weiter zurückgesetzt werden)",
