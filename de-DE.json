@@ -980,7 +980,7 @@
     "ui.performance.score": "Punktzahl",
     "ui.performance.showDetails": "Details anzeigen",
     "ui.performance.warnings.amdhd": "Mindestens eine AMD Radeon HD XXX ist empfohlen",
-    "ui.performance.warnings.app32": "64 Bit Version des Spiels empfohlen: Momentan läuft das Spiel im x86 Komptabilitätsmodus.",
+    "ui.performance.warnings.app32": "64 Bit Version des Spiels empfohlen: Momentan läuft das Spiel im x86 Komptabilitätsmodus",
     "ui.performance.warnings.cpuonecore": "Dieses Spiel wird nicht gut auf nur einem physikalischen Kern laufen",
     "ui.performance.warnings.dinput": "Direkte Eingabe (benutzt bei Lenkrädern) ist nicht verfügbar, bitte installiere DirectX9 erneut: [url=http://wiki.beamng.com/DirectXInstallation] wiki.beamng.com/DirectXInstallation[/url]",
     "ui.performance.warnings.missing64binary": "64 Bit Version läuft nicht: 64 Bit Version fehlt: Bitte neu installieren ",
