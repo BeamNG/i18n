@@ -1050,6 +1050,6 @@
     "vehicle.drivetrain.usingHshifter": "H-Schaltung wurde benutzt. Jetzt benutzt: '{{shifterModeName | translate}}'",
     "vehicle.engine.rodBearingsDamaged": "Pleuellager beschädigt",
     "vehicle.recovery.loadHome": "Fahrzeug wurde auf die ursprüngliche Position zurückgesetzt",
-    "vehicle.recovery.quick": "Fahrzeug zurückgesetzt (halte um weiter zurückzusetzen)",
+    "vehicle.recovery.quick": "Fahrzeug zurückgesetzt (halten, um weiter zurückzusetzen)",
     "vehicle.recovery.saveHome": "Fahrzeugposition aktualisiert (benutze [action=loadHome] zum Zurücksetzen)"
 }
