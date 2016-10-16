@@ -543,6 +543,7 @@
     "ui.playmodes.comingSoon": "Už brzy",
     "ui.playmodes.freeroam": "Volná jízda",
     "ui.playmodes.scenarios": "Scénáře",
+    "ui.scenarios.end.passFailRatio": "Splněno / Nesplněno",
     "ui.scenarios.end.requirements": "Požadavky",
     "ui.scenarios.end.result.fail": "Neúspěch",
     "ui.scenarios.end.stats": "Statistiky",
