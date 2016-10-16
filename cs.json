@@ -553,6 +553,7 @@
     "ui.vehicleconfig.save": "Uložit",
     "ui.vehicleconfig.tuning": "Ladění",
     "ui.vehicleconfig.vehicleconfig": "Přizpůsobení vozu",
+    "vehicle.bdebug.cogMode.nowheels": "Bez kol",
     "vehicle.bdebug.meshVisibility": "Změna viditelnosti modelů: {{visibilityPercent}}%",
     "vehicle.bdebug.nodeVisMode.weights": "Hmotnosti",
     "vehicle.bdebug.trisOn": "Zobrazení trojúhelníků kolizního systému zapnuto",
