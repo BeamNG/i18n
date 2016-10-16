@@ -257,7 +257,7 @@
     "scenarios.driver_training.driver_training.training_driftB.title": "Lektion 11: Driften",
     "scenarios.driver_training.driver_training.training_easycircuit.damage.msg": "Dieses Auto wird einige ernsthafte Reparaturarbeiten benötigen.",
     "scenarios.driver_training.driver_training.training_easycircuit.description": "Ich habe einen Rundkurs für dich aufgebaut damit du das gelernte üben kannst. Sollte recht einfach sein: 2 Runden, keine Überraschungen.",
-    "scenarios.driver_training.driver_training.training_easycircuit.nomove.msg": "Es gibt nur eine einzige Pylone auf dieser Piste und du hast es geschafft sie zu treffen.",
+    "scenarios.driver_training.driver_training.training_easycircuit.nomove.msg": "Es gibt nur eine einzige Pylone auf dieser Strecke und du hast es geschafft sie zu treffen.",
     "scenarios.driver_training.driver_training.training_easycircuit.title": "Lektion 6: Einfacher Rundkurs",
     "scenarios.driver_training.driver_training.training_hairpins3.5.description": "Dies wird dir beibringen, wie du mithilfe der Handbremse auch enge Kurven meisterst",
     "scenarios.driver_training.driver_training.training_hairpins3.5.nomove.msg": "Du hast etwas getroffen",
