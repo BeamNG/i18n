@@ -89,6 +89,7 @@
     "scenarios.driver_training.driver_training.training_tightroad.damage.msg": "Au, nejsem si jistý, zda nám ETK ještě někdy půjčí auto.",
     "scenarios.driver_training.driver_training.training_tightroad.nomove.msg": "Trefil jsi tyčku - víš, dal jsem je tam, abys neřezal zatáčky.",
     "scenarios.driver_training.driver_training.training_tightroad.title": "Trénink 3: Úzké silnice",
+    "scenarios.driver_training.safety_training.training_mu_braking.title": "Trénink bezpečné jízdy: μ-brzdění",
     "scenarios.driver_training.safety_training.training_slalom.nomove.msg": "Nesrážej kužely...",
     "scenarios.east_coast_usa.bank_robbery.description": "Právě jste dostali zprávu o probíhajícím přepadení banky ve vašem městě. Zareagujte a vydejte se zastavit unikajícího pachatele dřív, než stihne zmizet z dohledu.",
     "scenarios.east_coast_usa.bank_robbery.onRaceWaypoint.msg": "Zastav lupiče!",
