@@ -590,6 +590,7 @@
     "ui.apps.digital_speedometer.name": "Digitales Tachometer",
     "ui.apps.engine_debug.name": "Motor Debug",
     "ui.apps.esc_desired_yaw_rate_graph.name": "Graph für gewünschte Gier-rate des ESP",
+    "ui.apps.escstiffness.name": "ESC Steifheit ",
     "ui.apps.indicated_airspeed.name": "Angegebene Luftgeschwindigkeit",
     "ui.apps.messages.name": "Nachrichten",
     "ui.apps.navigation.name": "Navigation",
