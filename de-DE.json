@@ -956,7 +956,7 @@
     "ui.performance.benchmark.vehicles": "Fahrzeuge",
     "ui.performance.cpu": "Prozessor (CPU)",
     "ui.performance.gpu": "Grafikkarte (GPU)",
-    "ui.performance.improvements.textures": "Verringere Texturqualität",
+    "ui.performance.improvements.textures": "Verringere Texturqualität in",
     "ui.performance.laptopGPU": "Benutze die Grafikeinstellungen für Laptops",
     "ui.performance.laptopGPU.controlPanel": "Rufe NVIDIA Control Panel auf",
     "ui.performance.laptopGPU.customize": "Passe BeamNG.drive an, um einen 'High-performance NVIDIA processor' zu benutzen",
