@@ -508,6 +508,7 @@
     "ui.options.utilities": "Utility",
     "ui.options.utilities.g27ShiftLed": "Logitech G27 - LED indikátor řazení",
     "ui.perforamnce.improvements": "Základní vylepšení výkonu",
+    "ui.performance.acknowledge": "Potvrzeno",
     "ui.performance.acknowledged": "Potvrzeno",
     "ui.performance.cpu": "Procesor (CPU)",
     "ui.performance.improvements.resolution": "Snížit rozlišení v",
