@@ -521,6 +521,7 @@
     "ui.performance.cpu": "Procesor (CPU)",
     "ui.performance.improvements.resolution": "Snížit rozlišení v",
     "ui.performance.improvements.textures": "Snížit kvalitu textur v",
+    "ui.performance.laptopGPU.controlPanel": "Otevřete aplikaci Ovládácí panel NVIDIA",
     "ui.performance.laptopGPU.customize": "Nastavte BeamNG.drive tak, aby používal 'High-performance NVIDIA processor'",
     "ui.performance.os": "Operační systém (OS)",
     "ui.performance.ram.wipNote": "Paměť nemusí být přesná, pracujeme na zlepšení",
