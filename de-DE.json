@@ -144,6 +144,7 @@
     "levels.jungle_rock_island.info.title": "Jungle Rock Island",
     "levels.jungle_rock_island.spawnpoints.spawnsObservatory": "Observatorium",
     "levels.jungle_rock_island.spawnpoints.spawnsPeninsula": "Halbinsel",
+    "levels.jungle_rock_island.spawnpoints.spawnsPort": "Hafen",
     "levels.menu.info.biome": "Gemäßigt, Wald, Küste",
     "levels.menu.info.description": "Alter Menübildschirm, sollte gelöscht werden",
     "levels.menu.info.features": "Menü",
@@ -604,6 +605,7 @@
     "ui.apps.vehicleDebug.igniteNode": "Entzünde Node",
     "ui.apps.vehicleDebug.igniteNodeMin": "Entflammbare Nodes entzünden (minimal)",
     "ui.apps.vehicleDebug.igniteVehicle": "Fahrzeug anzünden",
+    "ui.apps.vehicle_damage_app.name": "Fahrzeugschaden App",
     "ui.apps.vehicledebug.name": "Fahrzeug Debug",
     "ui.apps.vehicletelemetrydebug.name": "Fahrzeugtelemetrie Debug",
     "ui.apps.wheelsdebug.name": "Räder Debug",
@@ -1040,6 +1042,7 @@
     "ui.vehicleconfig.tuning": "Tuning",
     "ui.vehicleconfig.vehicleconfig": "Fahrzeuganpassung",
     "vehicle.bdebug.meshVisibility": "Änderte Mesh Sichtbarkeit: {{visibilityPercent}}%",
+    "vehicle.bdebug.nodeVisMode.weights": "Gewichte",
     "vehicle.bdebug.trisOn": "Kollisionsdreieck Zeichnung Aktiviert",
     "vehicle.beamstate.tireDeflated": "{{wheelName | translate}} Reifen geplatzt",
     "vehicle.bullettime.change": "{{slowmoTimes}} Mal langsamer als Echtzeit",
@@ -1047,5 +1050,6 @@
     "vehicle.drivetrain.usingHshifter": "H-Schaltung wurde benutzt. Jetzt benutzt: '{{shifterModeName | translate}}'",
     "vehicle.engine.rodBearingsDamaged": "Pleuellager beschädigt",
     "vehicle.recovery.loadHome": "Fahrzeug wurde auf die ursprüngliche Position zurückgesetzt",
+    "vehicle.recovery.quick": "Fahrzeug zurückgesetzt (halte um weiter zurückzusetzen)",
     "vehicle.recovery.saveHome": "Fahrzeugposition aktualisiert (benutze [action=loadHome] zum Zurücksetzen)"
 }
