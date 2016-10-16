@@ -1009,6 +1009,7 @@
     "ui.vehicleconfig.tuning": "Tuning",
     "ui.vehicleconfig.vehicleconfig": "Fahrzeuganpassung",
     "vehicle.bdebug.meshVisibility": "Änderte Mesh Sichtbarkeit: {{visibilityPercent}}%",
+    "vehicle.bdebug.trisOn": "Kollisionsdreieck Zeichnung Aktiviert",
     "vehicle.bullettime.change": "{{slowmoTimes}} Mal langsamer als Echtzeit",
     "vehicle.bullettime.realtime": "Echtzeit",
     "vehicle.drivetrain.usingHshifter": "H-Schaltung wurde benutzt. Jetzt benutzt: '{{shifterModeName | translate}}'",
