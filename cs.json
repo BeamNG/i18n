@@ -188,6 +188,7 @@
     "ui.apps.digital_speedometer.name": "Digitální tachometr",
     "ui.apps.engine_damage_app.name": "Aplikace Poškození motoru",
     "ui.apps.engine_debug.name": "Ladění motoru",
+    "ui.apps.engine_thermal_debug.name": "Ladění termiky motoru",
     "ui.apps.esc_desired_yaw_rate_graph.name": "ESC Graf požadované rychlosti změny směru",
     "ui.apps.escstiffness.name": "Tuhost ESC",
     "ui.apps.g-forces.name": "Přetížení",
