@@ -208,6 +208,7 @@
     "ui.apps.replay.name": "Záznam",
     "ui.apps.roll.name": "Náklon",
     "ui.apps.speedometer.name": "Tachometr",
+    "ui.apps.turbo_activity_graph.name": "Graf činnosti turbodmychadla",
     "ui.apps.vehicleDebug.deflateTires": "Vypustit pneumatiky",
     "ui.apps.vehicleDebug.explodeVehicle": "Explodovat vůz",
     "ui.apps.vehicleDebug.extinguishVehicle": "Uhasit vůz",
