@@ -1,4 +1,5 @@
 {
+    "campaigns.training.training.description": "Začněte s osvojováním základů řízení v BeamNG.drive",
     "campaigns.training.training.training_cornering.title": "Trénink 2: Zatáčení",
     "campaigns.training.training.training_drift.title": "Trénink 10: Driftování",
     "campaigns.training.training.training_lanechange.title": "Trénink 4: Změna jízdního pruhu",
@@ -106,6 +107,7 @@
     "scenarios.east_coast_usa.intro_road_race2.description": "Závod na venkově na východním pobřeží Spojených států",
     "scenarios.east_coast_usa.jump_course_a.title": "Kurz skoku",
     "scenarios.east_coast_usa.pessima_test.description": "Krátký závod s Pessimou",
+    "scenarios.east_coast_usa.pessima_test.title": "Představení Pessimy",
     "scenarios.east_coast_usa.police_patrol.description": "Zastavte rychle jedoucí Hirochi SBR4 ve svém o mnoho slabším Gavril Roamer Sheriff Edition",
     "scenarios.east_coast_usa.police_patrol.distance.msg": "Podezřelý uprchl ",
     "scenarios.east_coast_usa.tanker_delivery.distance.msg": "Ztratil si přívěs!",
