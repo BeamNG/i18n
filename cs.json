@@ -353,7 +353,7 @@
     "ui.faq": "Nápověda / Často kladené dotazy",
     "ui.faq.changeCamera.a": "Stisknutím [action=switch_camera] volíte mezi kamerami vozidla, nebo [action=toggleCamera] přepnete na volnou kameru.",
     "ui.faq.changeCamera.q": "Jak změním pohled?",
-    "ui.faq.changeVehicle.a": "Obrazovku pro výběr vozu můžete otevřít buďto z herního menu [action=toggleMenues] nebo za pomocí stisku [action=vehicle_selector].",
+    "ui.faq.changeVehicle.a": "Obrazovku pro výběr vozu můžete otevřít z herního menu [action=toggleMenues] nebo stiskem [action=vehicle_selector].",
     "ui.feedback.back": "Zpět",
     "ui.feedback.clear": "Vymazat",
     "ui.feedback.leaveMessage": "Prosím vložte zprávu sem",
