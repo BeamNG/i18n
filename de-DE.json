@@ -268,7 +268,7 @@
     "scenarios.driver_training.driver_training.training_slalom.description": "Ein Slalomkurs ist schwer zu meistern. Bekomme ein Gefühl für das Gewicht des Autos, während du zwischen den Pylonen fährst.",
     "scenarios.driver_training.driver_training.training_slalom.title": "Sicherheitstraining 8: Slalom",
     "scenarios.driver_training.driver_training.training_tightroad.damage.msg": "Ouch, Ich bin mir nicht sicher ob uns ETK weiterhin Wagen zur Verfügung stellen wird.",
-    "scenarios.driver_training.driver_training.training_tightroad.nomove.msg": "Du hast die Markierung berührt - Wusstest du, ich hab sie da hingestellt damit du keine Kurven schneidest.",
+    "scenarios.driver_training.driver_training.training_tightroad.nomove.msg": "Du hast eine Markierung berührt - Weißt du, ich hab sie da hingestellt, damit du keine Kurven schneidest.",
     "scenarios.driver_training.driver_training.training_tightroad.title": "Lektion 3: Enger Straßenkurs",
     "scenarios.driver_training.safety_training.training_mu_braking.nomove.msg": "Berühre nicht die Pylonen...",
     "scenarios.driver_training.safety_training.training_mu_braking.title": "Sicherheitstraining: μ-Bremsen",
