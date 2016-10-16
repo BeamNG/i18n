@@ -63,6 +63,7 @@
     "extensions.scenario.damageGoal.checkDamage.win.msg": "{{damage}% Schaden",
     "extensions.scenario.damageGoal.fail.msg": "Du hast dein Auto beschädigt",
     "extensions.scenario.damageGoal.win.msg": "Gut gemacht {{timeStr}}",
+    "extensions.scenario.drift.passGoal": "Gut gemacht! Deine Punktzahl ist: {{driftPoints}}",
     "extensions.scenario.speedGoal.countdown": "{{countdown}}...",
     "extensions.scenario.speedGoal.fail.msg": "Deine Geschwindigkeit entspricht nicht der verlangten Geschwindigkeit",
     "extensions.scenario.speedGoal.win.msg": "Gut gemacht {{time}}",
@@ -614,6 +615,7 @@
     "ui.common.delete": "Löschen",
     "ui.common.disable": "Deaktivieren",
     "ui.common.downloadMore": "Mehr herunterladen!",
+    "ui.common.enable": "Aktivieren ",
     "ui.common.filters": "Filter",
     "ui.common.next": "Weiter",
     "ui.common.official": "Offiziell",
@@ -988,6 +990,7 @@
     "ui.scenarios.end.result": "Ergebnis",
     "ui.scenarios.end.stats": "Statistiken",
     "ui.scenarios.end.yourScore": "Deine Punktzahl",
+    "ui.scenarios.start.trainingScenario": "Übungsszenario",
     "ui.unit.ltr100": "Liter/100km",
     "ui.unit.mi": "Meilen",
     "ui.unit.psi": "PSI",
@@ -1006,5 +1009,6 @@
     "vehicle.bdebug.meshVisibility": "Änderte Mesh Sichtbarkeit: {{visibilityPercent}}%",
     "vehicle.bullettime.change": "{{slowmoTimes}} Mal langsamer als Echtzeit",
     "vehicle.drivetrain.usingHshifter": "H-Schaltung wurde benutzt. Jetzt benutzt: '{{shifterModeName | translate}}'",
-    "vehicle.recovery.loadHome": "Fahrzeug wurde auf die ursprüngliche Position zurückgesetzt"
+    "vehicle.recovery.loadHome": "Fahrzeug wurde auf die ursprüngliche Position zurückgesetzt",
+    "vehicle.recovery.saveHome": "Fahrzeugposition aktualisiert (benutze [action=loadHome] zum Zurücksetzen)"
 }
