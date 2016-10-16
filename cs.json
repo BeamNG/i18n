@@ -72,6 +72,7 @@
     "scenarios.derby.fourway_derby.description": "Poslední pohyblivé auto vítězí. Znič auta svých přátel a chraň přitom své!",
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.damage.msg": "kam to jedeš? Zkušební plocha je opačným směrem!",
     "scenarios.driver_training.driver_training.training_cornering2.5.description": "Pokud se náhodou stane, že silnice nevede rovně, asi budeš muset sundat nohu z plynu a použít volant. [br][br]Zkus si to tady na kruhovém objezdu, ale dávej pozor na kluznou plochu.",
+    "scenarios.driver_training.driver_training.training_cornerspeedB.description": "Nemůžeš si jen tak projet každou zatáčku v libovolné rychlosti: přibliž se co nejvíce k rychlostním omezením na značkách a úspěch se zaručeně dostaví.",
     "scenarios.driver_training.driver_training.training_driftB.description": "Dobrá tedy, zakončíme to malou lekcí jízdy smykem. Pro tento test budeš muset použít manuální řazení - zůstaň na druhém rychlostním stupni, aby ses co nejsnadněji udržel ve smyku. [br][br]Udržuj auto co nejdéle v jízdě bokem, abys získal co nejvíce bodů v časovém limitu 60 sekund.[br][br]Pro změnu rychlostního stupně použij [action=shiftUp] a [action=shiftDown].",
     "scenarios.driver_training.driver_training.training_driftB.drift.fail.msg": "Tomu říkáš driftování? Chce to větší rychlost a úhel! Tvé skóre: {{score}}",
     "scenarios.driver_training.driver_training.training_easycircuit.damage.msg": "Tohle auto bude potřeboval pořádný kus klempířiny.",
