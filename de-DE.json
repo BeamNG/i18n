@@ -584,6 +584,7 @@
     "ui.apps.categories.vehicle_profiling": "Fahrzeuganpassung",
     "ui.apps.compass.name": "Kompass",
     "ui.apps.detailed_vehicle_damage_app.name": "Detaillierte Fahrzeugschaden App",
+    "ui.apps.digital_speedometer.name": "Digitaler Tachometer",
     "ui.apps.engine_debug.name": "Motor Debug",
     "ui.apps.esc_desired_yaw_rate_graph.name": "Graph für gewünschte Gier-rate des ESP",
     "ui.apps.indicated_airspeed.name": "Angegebene Luftgeschwindigkeit",
