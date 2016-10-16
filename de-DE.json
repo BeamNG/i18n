@@ -984,7 +984,7 @@
     "ui.performance.warnings.cpuonecore": "Dieses Spiel wird nicht gut auf nur einem physikalischen Kern laufen",
     "ui.performance.warnings.dinput": "Direkte Eingabe (benutzt bei Lenkrädern) ist nicht verfügbar, bitte installiere DirectX9 erneut: [url=http://wiki.beamng.com/DirectXInstallation] wiki.beamng.com/DirectXInstallation[/url]",
     "ui.performance.warnings.missing64binary": "64 Bit Version läuft nicht: 64 Bit Version fehlt: Bitte neu installieren ",
-    "ui.performance.warnings.oswin8": "Windows 8 empfohlen: Läuft momentan im x86 Kompatibilitätsmodus.",
+    "ui.performance.warnings.oswin8": "Windows 8 empfohlen: Läuft momentan im x86 Kompatibilitätsmodus",
     "ui.performance.warnings.remotedesktop": "Du benutzt Remote Desktop",
     "ui.photomode.advancedImgSettings": "Erweiterte Bildeinstellungen",
     "ui.photomode.blureCurveFar": "Unschärfegrad in der Ferne",
