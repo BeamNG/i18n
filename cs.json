@@ -36,6 +36,7 @@
     "engine.windowedModeReq.title": "Vyžadován režim v okně",
     "extensions.scenario.damageGoal.checkDamage.fail.msg": "Opatrně! Tvůj vůz je z {{damage}}% poškozen",
     "extensions.scenario.damageGoal.fail.msg": "Poškodil jsi svůj vůz",
+    "extensions.scenario.damageGoal.win.msg": "Výborně! Tvůj čas je: {{timeStr}}",
     "extensions.scenario.drift.failedGoal": "Nasbírej alespoň {{minDrift}} bodů.",
     "extensions.scenario.drift.passGoal": "Výborně, dosáhl jsi {{driftPoints}} bodů.",
     "levels.Cliff.info.features": "velký ostrov, strmé útesy",
