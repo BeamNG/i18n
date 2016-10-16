@@ -969,7 +969,7 @@
     "ui.performance.showDetails": "Details anzeigen",
     "ui.performance.warnings.amdhd": "Mindestens eine AMD Radeon HD XXX ist empfohlen",
     "ui.performance.warnings.cpuonecore": "Dieses Spiel wird nicht gut auf nur einem physikalischen Kern laufen",
-    "ui.performance.warnings.dinput": "Direkter Eingang (Benutzt bei Lenkrädern) ist nicht verfügbar, bitte installiere DirectX9 erneut [url=http://wiki.beamng.com/DirectXInstallation] wiki.beamng.com/DirectXInstallation[/url]",
+    "ui.performance.warnings.dinput": "Direkte Eingabe (benutzt bei Lenkrädern) ist nicht verfügbar, bitte installiere DirectX9 erneut: [url=http://wiki.beamng.com/DirectXInstallation] wiki.beamng.com/DirectXInstallation[/url]",
     "ui.photomode.advancedImgSettings": "Erweiterte Bildeinstellungen",
     "ui.photomode.blureCurveFar": "Unschärfegrad in der Ferne",
     "ui.photomode.cameraSpeed": "Kamerageschwindigkeit",
