@@ -1008,6 +1008,7 @@
     "ui.vehicleconfig.vehicleconfig": "Fahrzeuganpassung",
     "vehicle.bdebug.meshVisibility": "Änderte Mesh Sichtbarkeit: {{visibilityPercent}}%",
     "vehicle.bullettime.change": "{{slowmoTimes}} Mal langsamer als Echtzeit",
+    "vehicle.bullettime.realtime": "Echtzeit",
     "vehicle.drivetrain.usingHshifter": "H-Schaltung wurde benutzt. Jetzt benutzt: '{{shifterModeName | translate}}'",
     "vehicle.recovery.loadHome": "Fahrzeug wurde auf die ursprüngliche Position zurückgesetzt",
     "vehicle.recovery.saveHome": "Fahrzeugposition aktualisiert (benutze [action=loadHome] zum Zurücksetzen)"
