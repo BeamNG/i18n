@@ -607,7 +607,7 @@
     "ui.apps.replay.name": "Wiederholung",
     "ui.apps.roll.name": "Neigung",
     "ui.apps.speedometer.name": "Tachometer",
-    "ui.apps.turbo_activity_graph.name": "Turbolader Aktivität Graph  ",
+    "ui.apps.turbo_activity_graph.name": "Turbolader Aktivität Graph",
     "ui.apps.vehicleDebug.breakAll": "Alle Verbindungspunkte lösen",
     "ui.apps.vehicleDebug.breakHinges": "Alle Scharniere brechen",
     "ui.apps.vehicleDebug.deflateTires": "Luft aus Reifen lassen",
