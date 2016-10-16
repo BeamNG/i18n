@@ -1067,6 +1067,7 @@
     "vehicle.bdebug.meshVisibility": "Änderte Mesh Sichtbarkeit: {{visibilityPercent}}%",
     "vehicle.bdebug.nodeVisMode.weights": "Gewichte",
     "vehicle.bdebug.trisOn": "Kollisionsdreieck Zeichnung Aktiviert",
+    "vehicle.beamstate.beamBroke": "Beam {{id}} brach gerade: {{id1}} -> {{id2name}} ",
     "vehicle.beamstate.tireDeflated": "{{wheelName | translate}} Reifen geplatzt",
     "vehicle.bullettime.change": "{{slowmoTimes}} Mal langsamer als Echtzeit",
     "vehicle.bullettime.realtime": "Echtzeit",
