@@ -151,7 +151,7 @@
     "scenarios.jungle_rock_island.jri_moose.speed.msg": "Příliš pomalu... Jeď rychleji!",
     "scenarios.jungle_rock_island.jri_moose.timeLimit.msg": "vyčerpáno víc než {{timeLimit}} sekund",
     "scenarios.jungle_rock_island.jri_pessima.title": "Prohlídka ostrova - Pessima",
-    "scenarios.jungle_rock_island.jri_rally_port.description": "Drsná rally přes džungli končící v přístavu",
+    "scenarios.jungle_rock_island.jri_rally_port.description": "Drsná šotolinová rally s cílem v přístavu",
     "scenarios.jungle_rock_island.jri_rally_port.title": "Závod do přístavu",
     "scenarios.port.port_escape.description": "Závod na čas skrz přístav",
     "scenarios.small_island.cop_chase.wayPointAction.wayPointMsg": "Zastav Pessimu!",
