@@ -563,6 +563,7 @@
     "scenarios.utah.chapter_2.chapter_2_6_canyon.description": "chapter_2_6_canyon - final race, simple road race, player can progress even if they are defeated but they will get a different outro comic",
     "scenarios.utah.chapter_2.chapter_2_6_canyon.title": "chapter_2_6_canyon",
     "scenarios.utah.cinematic_chase.description": "Ein Hochgeschindigkeitsrennen zwischen zwei Deutschen Luxusautos in der Wüste",
+    "scenarios.utah.cinematic_chase.distance.msg": "Der schlechte typ konnte entkommen",
     "scenarios.utah.cinematic_chase.title": "Filmreife Verfolgungsjagd",
     "scenarios.utah.downhill_rally.description": "Ein langer Rallykurs durch Utah",
     "scenarios.utah.downhill_rally.title": "Rally Bergab",
