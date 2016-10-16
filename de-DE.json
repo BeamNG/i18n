@@ -264,6 +264,7 @@
     "scenarios.driver_training.driver_training.training_rwd.timeLimit.msg": "Du hast mehr als {{timeLimit}} Sekunden gebraucht, versuche es erneut mit etwas mehr Geschwindigkeit",
     "scenarios.driver_training.driver_training.training_rwd.title": "Lektion 12: Fahren mit Heckantrieb",
     "scenarios.driver_training.driver_training.training_tightroad.damage.msg": "Ouch, Ich bin mir nicht sicher ob uns ETK weiterhin Wagen zur Verfügung stellen wird.",
+    "scenarios.driver_training.driver_training.training_tightroad.title": "Training 3: Enge Straße",
     "scenarios.driver_training.safety_training.training_mu_braking.nomove.msg": "Berühre nicht die Pylonen...",
     "scenarios.driver_training.safety_training.training_mu_braking.title": "Sicherheitstraining: μ-Bremsen",
     "scenarios.driver_training.safety_training.training_slalom.nomove.msg": "Berühre nicht die Pylonen...",
