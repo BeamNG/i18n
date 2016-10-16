@@ -572,7 +572,7 @@
     "scenarios.utha.chapter_2.chapter_2_6_canyon.description": "Kapitel_2_6_Canyon - Letztes Rennen, einfaches Straßenrennen, Spieler kommt weiter, selbst wenn er verliert, aber er bekommt einen anderen Endcomic zu sehen",
     "scenarios.utha.chapter_2.chapter_2_6_canyon.title": "Kapitel_2_6_Canyon",
     "ui.apps.automatic_gears.name": "Automatikgetriebe",
-    "ui.apps.brake_thermal_debug.name": "Bremsen Temperatur Debug ",
+    "ui.apps.brake_thermal_debug.name": "Bremsen Temperatur Debug",
     "ui.apps.categories.debug": "Fehlerbehebung",
     "ui.apps.categories.info": "Info",
     "ui.apps.categories.racing": "Rennen",
