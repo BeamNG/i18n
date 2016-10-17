@@ -289,7 +289,7 @@
     "scenarios.driver_training.driver_training.training_hairpins3.5.damage.msg": "Äh, müssen wir wieder zu Lektion 1 zurück?",
     "scenarios.driver_training.driver_training.training_hairpins3.5.defaultWin": "Ich muss zugeben, das sah ziemlich cool aus.",
     "scenarios.driver_training.driver_training.training_hairpins3.5.description": "Dies wird dir beibringen, wie du mithilfe der Handbremse auch enge Kurven meisterst",
-    "scenarios.driver_training.driver_training.training_hairpins3.5.nomove.msg": "Du hast etwas getroffen",
+    "scenarios.driver_training.driver_training.training_hairpins3.5.nomove.msg": "Du bist die Kurve nicht sauber gefahren – Ich sehe, dass du ein Hindernis gerammt hast",
     "scenarios.driver_training.driver_training.training_hairpins3.5.timeLimit.msg": "Zu langsam! Das Zeitlimit liegt bei {{timeLimit}} Sekunden",
     "scenarios.driver_training.driver_training.training_hairpins3.5.title": "Lektion 7: Haarnadelkurven",
     "scenarios.driver_training.driver_training.training_lanechange.damage.msg": "Unsere Versicherung wird das nicht freuen...",
