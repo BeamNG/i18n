@@ -302,7 +302,7 @@
     "scenarios.driver_training.driver_training.training_rwd.defaultWin": "Gut gemacht! So langsam hast du den Dreh raus.",
     "scenarios.driver_training.driver_training.training_rwd.description": "Dieser Kurs wird deine Fähigkeiten im Umgang mit einem heckgetriebenen Fahrzeug testen",
     "scenarios.driver_training.driver_training.training_rwd.nomove.msg": "Du hast ein Hütchen erwischt! Versuche innerhalb der Rüttelstreifen zu bleiben.",
-    "scenarios.driver_training.driver_training.training_rwd.timeLimit.msg": "Du hast mehr als {{timeLimit}} Sekunden gebraucht, versuche es erneut mit etwas mehr Geschwindigkeit",
+    "scenarios.driver_training.driver_training.training_rwd.timeLimit.msg": "Dieses Auto hat einen V8 Motor mit sehr viel Kraft... benutze sie!",
     "scenarios.driver_training.driver_training.training_rwd.title": "Lektion 9: Fahren mit Heckantrieb",
     "scenarios.driver_training.driver_training.training_slalom.damage.msg": "Schätze, ich hätte die Barriere weiter weg aufbauen sollen!",
     "scenarios.driver_training.driver_training.training_slalom.defaultWin": "Gut gemacht! Du bist den Hütchen wie ein Profi ausgewichen.",
