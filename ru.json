@@ -1066,7 +1066,7 @@
     "ui.options.graphics.postfx": "Постобработка",
     "ui.options.graphics.resolution": "Разрешение",
     "ui.options.graphics.uimaxres": "Максимальное разрешение пользовательского интерфейса",
-    "ui.options.graphics.uimaxresExplanation": "Определяет максимальное разрешение для пользовательского интерфейса. Полезно для 4k экранов.",
+    "ui.options.graphics.uimaxresExplanation": "Задаёт максимальное разрешение пользовательского интерфейса. Полезно для 4k экранов.",
     "ui.options.graphics.uimaxresNotAvailable": "Максимальное разрешение интерфейса не доступно в главном меню",
     "ui.options.graphics.vsync": "Вертикальная синхронизация",
     "ui.options.graphicsGraphicMeshQuality": "Качество моделей",
