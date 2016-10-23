@@ -473,7 +473,7 @@
     "ui.options.camera.transitionTime": "Rychlost přechodu",
     "ui.options.gameplay": "Hra",
     "ui.options.gameplay.competitiveScenarios": "Rovné podmínky scénářů",
-    "ui.options.gameplay.controlOnBlur": "Povolit vstup a zpětnou vazbu ovladače když je okno neaktivní.",
+    "ui.options.gameplay.controlOnBlur": "Povolit vstup a zpětnou vazbu ovladače, když je okno neaktivní.",
     "ui.options.gameplay.defaultToCurrentVehicle": "Nastavit aktuální vozidlo jako výchozí",
     "ui.options.gameplay.enginesPreheated": "Startovat se zahřátým motorem",
     "ui.options.gameplay.gameplay": "Hratelnost",
