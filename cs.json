@@ -90,7 +90,7 @@
     "scenarios.driver_training.driver_training.training_lanechange.description": "Změna jízdních pruhů při dálničních rychlostech vyžaduje opravdu jemnou ruku na volantu. Máš na to vzít do svých rukou řízení supersportu z osmdesátek?",
     "scenarios.driver_training.driver_training.training_lanechange.title": "Trénink 4: Změna pruhu",
     "scenarios.driver_training.driver_training.training_rwd.defaultWin": "Skvělá práce, vážně ti to začíná jít.",
-    "scenarios.driver_training.driver_training.training_rwd.timeLimit.msg": "Tenhle auťák má v sobě V8 s hromadou koní... použij je!",
+    "scenarios.driver_training.driver_training.training_rwd.timeLimit.msg": "Tenhle auťák v sobě má V8 s hromadou koní... použij je!",
     "scenarios.driver_training.driver_training.training_slalom.description": "Slalom je opravdu těžká disciplína na ovládnutí. Nauč se pracovat s váhou svého vozu a propleť se s ním mezi kužely",
     "scenarios.driver_training.driver_training.training_tightroad.damage.msg": "Au, nejsem si jistý, zda nám ETK ještě někdy půjčí auto.",
     "scenarios.driver_training.driver_training.training_tightroad.nomove.msg": "Trefil jsi tyčku - víš, dal jsem je tam, abys neřezal zatáčky.",
