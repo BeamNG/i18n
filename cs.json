@@ -126,7 +126,7 @@
     "scenarios.gridmap.gm_intersection.title": "Křižovatka",
     "scenarios.gridmap.gm_jumps.description": "Krátká série malých skoků",
     "scenarios.gridmap.gm_skycurve1.title": "Nebeská zatáčka 1",
-    "scenarios.gridmap.gm_suspension_race.description": "Závod skrze zkušební retardéry",
+    "scenarios.gridmap.gm_suspension_race.description": "Závod na hrbolaté zkušební dráze",
     "scenarios.gridmap.hard_parking.description": "Zaparkuj podélně jak nejrychleji to je možné zajetím mezi dvě vozidla.",
     "scenarios.gridmap.hard_parking.fail.distance.msg": "Nesprávně zaparkováno",
     "scenarios.gridmap.hard_parking.fail.time.msg": "Vyčerpal jsi víc než {{time}} sekund",
