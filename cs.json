@@ -42,6 +42,7 @@
     "extensions.scenario.drift.passGoal": "Výborně, dosáhl jsi {{driftPoints}} bodů.",
     "levels.Cliff.info.features": "velký ostrov, strmé útesy",
     "levels.Gridmap.info.roads": "Nějaká ta polňačka",
+    "levels.Gridmap.info.title": "Hřiště",
     "levels.autotest.info.title": "automatizované testování",
     "levels.cardealer.info.description": "Prodejna aut na východním pobřeží Spojených států.",
     "levels.cardealer.info.roads": "60% rychlý asfalt, 40% šotolina",
