@@ -253,7 +253,7 @@
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.damage.msg": "Wohin fährst du? Das Testareal ist in der anderen Richtung!",
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.defaultWin": "Du kannst also wie ein Profi geradeaus fahren? Dann zeig mal, wie du dich in Kurven machst...",
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.description": "Dies wird dir die Grundlagen des Beschleunigens und Bremsens zeigen",
-    "scenarios.driver_training.driver_training.training_acceleration_braking1.5.nomove.msg": "du hast etwas berührt",
+    "scenarios.driver_training.driver_training.training_acceleration_braking1.5.nomove.msg": "Das beult sich wieder aus. Versuch es noch einmal und sei bitte vorsichtiger!",
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.position.msg": "Du hast die Bremszone verpasst",
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.timeLimit.msg": "Zu langsam! Das Zeitlimit ist {{timeLimit}} Sekunden",
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.title": "Lektion 1: Beschleunigung und Bremsen",
