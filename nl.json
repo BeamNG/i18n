@@ -540,6 +540,7 @@
     "ui.performance.showDetails": "Laat Details Zien",
     "ui.performance.warnings.amdhd": "Het beste advies is dat je op z'n minst een AMD Radeon HD XXX nodig hebt",
     "ui.performance.warnings.cpuonecore": "Dit spel werkt niet goed op één physical core.",
+    "ui.performance.warnings.dinput": "Direct Input (gebruikt voor stuurwielen) is niet beschikbaar, gelieve DirectX 9 te herinstalleren: [url=http://wiki.beamng.com/DirectXInstallation]wiki.beamng.com/DirectXInstallation[/url]",
     "ui.photomode.advancedImgSettings": "Geavanceerde beeldinstellingen",
     "ui.photomode.blureCurveFar": "Vervaging Veraf",
     "ui.photomode.cameraSpeed": "Camera Snelheid",
