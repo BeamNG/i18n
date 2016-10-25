@@ -557,6 +557,7 @@
     "ui.scenarios.start.trainingScenario": "Trainingsscenario",
     "ui.unit.ltr100": "Liter/100km",
     "ui.unit.mi": "Mijl",
+    "ui.unit.psi": "PSI",
     "ui.vehicleconfig.color": "Kleur",
     "ui.vehicleconfig.filename": "Bestandsnaam",
     "ui.vehicleconfig.load": "Laden",
