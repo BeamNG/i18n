@@ -553,7 +553,7 @@
     "ui.performance.warnings.cpuonecore": "Dit spel werkt niet goed op één physical core.",
     "ui.performance.warnings.dinput": "Direct Input (gebruikt voor stuurwielen) is niet beschikbaar, herinstalleer DirectX 9 alstublieft: [url=http://wiki.beamng.com/DirectXInstallation]wiki.beamng.com/DirectXInstallation[/url]",
     "ui.performance.warnings.missing64binary": "Geen 64 Bit versie: 64 Bit versie missend: Installeer opnieuw alstublieft",
-    "ui.performance.warnings.remotedesktop": "Je gebruikt een Remote Desktop",
+    "ui.performance.warnings.remotedesktop": "Je gebruikt een Extern Bureaublad",
     "ui.photomode.advancedImgSettings": "Geavanceerde beeldinstellingen",
     "ui.photomode.blureCurveFar": "Vervaging Veraf",
     "ui.photomode.cameraSpeed": "Camera Snelheid",
