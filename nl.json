@@ -108,6 +108,7 @@
     "scenarios.east_coast_usa.police_patrol.distance.msg": "De verdachte is gevlucht ",
     "scenarios.east_coast_usa.police_patrol.wayPointAction.msg": "Stop de Snelheidsmaniak",
     "scenarios.east_coast_usa.tanker_delivery.title": "Tankauto Bezorgen",
+    "scenarios.east_coast_usa.town_course_short_b.description": "Nog een korte rally sprint rond de stad",
     "scenarios.gridmap.corridor.title": "Gang",
     "scenarios.gridmap.gm_corridor.fail.msg": "Je bent geraakt!",
     "scenarios.gridmap.gm_ds_large_jumps.description": "Neem een verhoogde bus mee op een rit van je leven",
