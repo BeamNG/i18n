@@ -65,6 +65,7 @@
     "levels.utah.spawnpoints.parkingLot": "Parkeerplaats",
     "levels.utah.spawnpoints.westHighway": "Westerse Snelweg",
     "levels.utah_offroad_park.info.biome": "woestijn",
+    "scenarios.Industrial.pessima_autocross.description": "Rijd de 4-wielsgestuurde Pessima over een riskante route.",
     "scenarios.Industrial.pessima_autocross.title": "Wendbare Pessima",
     "scenarios.derby.fourway_derby.description": "Laatste bewegende auto wint. Maak de auto van je vrienden kapot zonder je eigen auto kapot te rijden!",
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.timeLimit.msg": "Te langzaam! Je hebt maximaal 15 seconden",
