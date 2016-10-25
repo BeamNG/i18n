@@ -534,6 +534,7 @@
     "ui.performance.score": "Score",
     "ui.performance.showDetails": "Laat Details Zien",
     "ui.performance.warnings.amdhd": "Het beste advies is dat je op z'n minst een AMD Radeon HD XXX nodig hebt",
+    "ui.performance.warnings.cpuonecore": "Dit spel werkt niet goed op één physical core.",
     "ui.photomode.advancedImgSettings": "Geavanceerde beeldinstellingen",
     "ui.photomode.blureCurveFar": "Vervaging Veraf",
     "ui.photomode.cameraSpeed": "Camera Snelheid",
