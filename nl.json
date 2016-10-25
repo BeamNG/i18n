@@ -68,6 +68,7 @@
     "scenarios.driver_training.driver_training.training_cornering2.5.description": "Bij deze opdracht wordt gekeken of je een bepaalde bocht aan kan houden",
     "scenarios.driver_training.driver_training.training_cornerspeedB.description": "Deze les laat je wennen aan de verschillende snelheden waarmee je verschillende bochten moet nemen",
     "scenarios.driver_training.driver_training.training_driftB.description": "Dit scenario helpt je om je driftvaardigheden te verbeteren.",
+    "scenarios.driver_training.driver_training.training_easycircuit.damage.msg": "Deze auto heeft serieus onderhoud nodig.",
     "scenarios.driver_training.driver_training.training_hairpins3.5.description": "Dit wil je leren hoe je de handrem moet gebruiken om strak door een haarspeldbocht te rijden",
     "scenarios.driver_training.driver_training.training_hairpins3.5.nomove.msg": "je hebt iets geraakt",
     "scenarios.driver_training.driver_training.training_hairpins3.5.title": "Training 4.1: Haarspeldbochten (versie 2)",
@@ -568,8 +569,10 @@
     "ui.vehicleconfig.save": "Opslaan",
     "ui.vehicleconfig.tuning": "Tuning",
     "ui.vehicleconfig.vehicleconfig": "Voertuig Aanpassen",
+    "vehicle.bdebug.meshVisibility": "Mesh zichtbaarheid veranderd: {{visibilityPercent}}%",
     "vehicle.bullettime.change": "{{slowmoTimes}} keer langzamer dan echte tijd",
     "vehicle.bullettime.realtime": "Echte tijd",
+    "vehicle.drivetrain.usingHshifter": "H-shifter werd gebruikt. Nu in gebruik: '{{shifterModeName | translate}}'",
     "vehicle.recovery.loadHome": "Voertuig terug gezet naar thuis positie",
     "vehicle.recovery.saveHome": "Voertuig positie geupdated (gebruik [action=loadHome] om het terug te draaien)"
 }
