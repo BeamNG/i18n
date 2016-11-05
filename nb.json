@@ -278,6 +278,7 @@
     "scenarios.driver_training.driver_training.training_easycircuit.timeLimit.msg": "Det ble litt for tregt - ikke vær redd for å presse bilen litt til!",
     "scenarios.driver_training.driver_training.training_easycircuit.title": "Øvelse 6: Enkel Bane",
     "scenarios.driver_training.driver_training.training_hairpins3.5.damage.msg": "Um, må vi gå tilbake til første øvelse?",
+    "scenarios.driver_training.driver_training.training_hairpins3.5.defaultWin": "Jeg må innrømme, det så ganske kult ut.",
     "scenarios.driver_training.driver_training.training_hairpins3.5.description": "Hvordan snu bilen raskt rundt på et lite område? Dra i håndbrekket for å skli rundt hårnålsvingen, akkurat som på film.",
     "scenarios.driver_training.driver_training.training_hairpins3.5.nomove.msg": "Du tok ikke svingen helt rent - jeg ser at du traff et hinder.",
     "scenarios.driver_training.driver_training.training_hairpins3.5.timeLimit.msg": "Tiden er ute! Du må fullføre raskere enn det.",
