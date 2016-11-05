@@ -443,6 +443,7 @@
     "scenarios.hirochi_raceway.training_acceleration_braking.description": "Dette vil lære deg det grunnleggende om gasspådrag og bremsing",
     "scenarios.hirochi_raceway.training_acceleration_braking.nomove.msg": "Du traff noe",
     "scenarios.hirochi_raceway.training_acceleration_braking.position.msg": "Du er ikke i nedbremsingsområdet...",
+    "scenarios.hirochi_raceway.training_acceleration_braking.timeLimit.msg": "Du brukte mer enn {{timeLimit}} sekunder",
     "scenarios.hirochi_raceway.training_acceleration_braking.title": "Trening 1: Gasspådrag og Bremsing",
     "scenarios.hirochi_raceway.training_advanced_braking.description": "Dette scenarioet vil lære deg terskelbremsing og nedkorting av svingradier",
     "scenarios.hirochi_raceway.training_advanced_braking.nomove.msg": "Du traff en kjegle! Neste gang prøv å hindre hjulene fra å låse seg ved å sakte koble inn bremsen.",
