@@ -798,6 +798,7 @@
     "ui.debug.vehicle.beamVis": "Beam Visualisering",
     "ui.debug.vehicle.centerOfGravity": "Gravitasjonssenter",
     "ui.debug.vehicle.collisionTriangle": "Feilsøk kollisjonstriangler",
+    "ui.debug.vehicle.enable": "Aktiver Feilsøking",
     "ui.debug.vehicle.keepOnlyCurrent": "Bare behold nåværende",
     "ui.debug.vehicle.meshVisibility": "Meshsynlighet",
     "ui.debug.vehicle.nodeText": "Nodetekst",
