@@ -881,6 +881,7 @@
     "ui.hints.absWasOptional": "Blokkeringsfrie bremser har ikke alltid vært påbudt. Eldre biler krever mer forsiktige bremseteknikker for å holdes under kontroll.",
     "ui.hints.adaptToBadRoads": "Gamle veier med humper, asfaltflekker og ujevnheter vil begrense svinghastigheten. Du må tilpasse farten til veiforholdene.",
     "ui.hints.blueSmokeIsPistonDamage": "Dersom du ser blå røyk fra eksosrøret, blir olje brent i motoren, noe som indikerer skade på stempelringene.",
+    "ui.hints.brakesAndSteeringVary": "Hvert kjøretøy har forskjellig bremse- og svinge-egenskaper. Bli kjent med kjøretøyet før du presser grensene.",
     "ui.hints.carefulWithOldSportsCars": "Gamle sportsbiler uten elektronikk kan være vanskelig å kontrollere og krever forsiktig gasspådrag.",
     "ui.hints.carsBurnFuel": "Bilen din kan gå tom for drivstoff etter veldig lange kjøringer. Pass på måleren!",
     "ui.hints.changeBrakePads": "Hvis du opplever dårlige bremser kan du installere bedre bremseklosser i Delevelgeren [action=parts_selector].",
