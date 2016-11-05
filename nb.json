@@ -1154,6 +1154,7 @@
     "ui.scenarios.end.result": "Resultat",
     "ui.scenarios.end.result.fail": "Mislykket",
     "ui.scenarios.end.result.success": "Suksess",
+    "ui.scenarios.end.stats": "Statistikk",
     "ui.scenarios.end.yourScore": "Din poengsum",
     "ui.scenarios.start.start": "Start",
     "ui.scenarios.start.trainingScenario": "Øvelsesscenario",
