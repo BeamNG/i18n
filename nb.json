@@ -709,6 +709,7 @@
     "ui.apps.vehicle_damage_app.name": "Kjøretøyskade App",
     "ui.apps.vehicledebug.name": "KjøretøyFeilsøking",
     "ui.apps.vehicletelemetrydebug.name": "TelemetriFeilsøking Kjøretøy",
+    "ui.apps.weight_distribution.name": "Vektdistribusjon",
     "ui.apps.wheelsdebug.name": "Hjulfeilsøking",
     "ui.apps.wind.name": "Vind!",
     "ui.appselect.add": "Legg til app",
