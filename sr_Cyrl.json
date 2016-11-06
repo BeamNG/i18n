@@ -985,7 +985,7 @@
     "ui.mainmenu.help": "Помоћ",
     "ui.mainmenu.mods": "Модови",
     "ui.mainmenu.news": "Вести",
-    "ui.mainmenu.onlineFeatures.featureDescription": "Можете изабрати да омогућите или онемогућите онлајн функције у BeamNG.drive-а. Ово ће утицати:[br][list][*]In-game складиште[*]Претплате модова[*]Достигнућа[*]Листе лидера[*]Чет одлике[*]Одлике дељења модова[*]Одлике дељења садржаја[/list]Омогућавањем онлајн одлика слажете се са нашом [url=http://wiki.beamng.com/Privacy_Policy]Политиком приватности[/url] и наш [url=http://wiki.beamng.com/TOS]Услови коришћења[/url].[br][br]Можете променити ово подешавање било кад у Опције>Увод у игру.",
+    "ui.mainmenu.onlineFeatures.featureDescription": "Можете изабрати да омогућите или онемогућите онлајн функције у BeamNG.drive-у. Ово ће утицати:[br][list][*]In-game складиште[*]Претплате модова[*]Достигнућа[*]Листе лидера[*]Чет одлике[*]Одлике дељења садржаја[/list]Омогућавањем онлајн одлика слажете се са нашом [url=http://wiki.beamng.com/Privacy_Policy]Политиком приватности[/url] и наш [url=http://wiki.beamng.com/TOS]Услови коришћења[/url].[br][br]Можете променити ово подешавање било кад у Опције>Увод у игру.",
     "ui.mainmenu.onlineFeatures.featureTitle": "Омогући онлајн садржај?",
     "ui.mainmenu.options": "Опције",
     "ui.mainmenu.play": "Играј",
