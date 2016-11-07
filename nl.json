@@ -595,6 +595,6 @@
     "vehicle.bullettime.change": "{{slowmoTimes}} keer langzamer dan echte tijd",
     "vehicle.bullettime.realtime": "Echte tijd",
     "vehicle.drivetrain.usingHshifter": "H-shifter werd gebruikt. Nu in gebruik: '{{shifterModeName | translate}}'",
-    "vehicle.recovery.loadHome": "Voertuig terug gezet naar thuis positie",
+    "vehicle.recovery.loadHome": "Voertuig teruggeplaatst op begin positie",
     "vehicle.recovery.saveHome": "Voertuig positie geupdated (gebruik [action=loadHome] om het terug te draaien)"
 }
