@@ -135,7 +135,7 @@
     "scenarios.hirochi_raceway.training_acceleration_braking.position.msg": "Je bent niet in de remzone....",
     "scenarios.hirochi_raceway.training_advanced_braking.nomove.msg": "Je hebt een kegel geraakt! Probeer de volgende keer te voorkomen dat je wielen blokkeren door voorzichtiger te remmen.",
     "scenarios.hirochi_raceway.training_advanced_braking.title": "Training 7: Geavanceerd Remmen",
-    "scenarios.hirochi_raceway.training_cornering.description": "Dit leert je een ideale lijn te volgen om efficenter te rijden",
+    "scenarios.hirochi_raceway.training_cornering.description": "Dit leert je de ideale lijn te volgen om efficenter te rijden",
     "scenarios.hirochi_raceway.training_cornering.nomove.msg": "je hebt iets geraakt",
     "scenarios.hirochi_raceway.training_cornering.position.msg": "Je bent niet in het remgebied...",
     "scenarios.hirochi_raceway.training_cornering.title": "Training 2: Bochtenwerk",
