@@ -77,7 +77,7 @@
     "scenarios.driver_training.driver_training.training_driftB.description": "Dit scenario helpt je om je driftvaardigheden te verbeteren.",
     "scenarios.driver_training.driver_training.training_easycircuit.damage.msg": "Deze auto gaat heel wat reparaties nodig hebben.",
     "scenarios.driver_training.driver_training.training_hairpins3.5.description": "Dit wil je leren hoe je de handrem moet gebruiken om strak door een haarspeldbocht te rijden",
-    "scenarios.driver_training.driver_training.training_hairpins3.5.nomove.msg": "je hebt iets geraakt",
+    "scenarios.driver_training.driver_training.training_hairpins3.5.nomove.msg": "Je hebt die bocht niet netjes gemaakt - ik zie dat je een obstakel hebt geraakt.",
     "scenarios.driver_training.driver_training.training_hairpins3.5.title": "Training 4.1: Haarspeldbochten (versie 2)",
     "scenarios.driver_training.driver_training.training_lanechange.description": "Deze koers simuleert het veranderen van rijbaan op hoge snelheid",
     "scenarios.driver_training.driver_training.training_lanechange.title": "Training 4: Rijbaan Wisselen",
