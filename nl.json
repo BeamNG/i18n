@@ -181,7 +181,7 @@
     "scenarios.utah.chapter_1.chapter_1_highway.description": "Passeer een blokkade op de weg.",
     "scenarios.utah.chapter_1.chapter_1_hilldrop.title": "Heuvelaf",
     "scenarios.utah.chapter_1.chapter_1_jump.damage.msg": "Je vernietigde de auto in.. ",
-    "scenarios.utah.chapter_1.chapter_1_jump.fail.msg": "Je hebt gemist",
+    "scenarios.utah.chapter_1.chapter_1_jump.fail.msg": "Je miste",
     "scenarios.utah.chapter_1.chapter_1_jump.title": "Spring",
     "scenarios.utah.chapter_1.chapter_1_ramcliff.description": "Hoofdstuk 1: Klifrol - stats: schade van je auto, schade van vijandige auto, score: schade van beide auto's (probeer beide auto's zo veel mogelijk te slopen), Niet gehaald: vijandige auto is niet van de klif afgeduwd, 30 seconden tijdslimiet",
     "scenarios.utah.chapter_1.chapter_1_ramcliff.distance.fail.msg": "Het voertuig is niet van de klif geduwd.",
