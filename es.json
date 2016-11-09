@@ -284,7 +284,7 @@
     "scenarios.driver_training.driver_training.training_lanechange.defaultWin": "Bien hecho, el Civetta Bolide puede ser un coche complicado para los principiantes.",
     "scenarios.driver_training.driver_training.training_lanechange.description": "Cambiar de carril a velocidad de autopista requiere un manejo adecuado del volante. ¿Tienes lo que hay que tener para controlar un superdeportivo de los 80?",
     "scenarios.driver_training.driver_training.training_lanechange.nomove.msg": "Tocaste un cono! Trata de mantenerte dentro de las bandas sonoras.",
-    "scenarios.driver_training.driver_training.training_lanechange.timeLimit.msg": "Has tardado más de {{timeLimit}} segundos, inténtalo de nuevo con algo más de velocidad",
+    "scenarios.driver_training.driver_training.training_lanechange.timeLimit.msg": "Se supone que tienes que ir a velocidad de autovía, ¿no?",
     "scenarios.driver_training.driver_training.training_lanechange.title": "Entrenamiento 4: Cambio de carril",
     "scenarios.driver_training.driver_training.training_rwd.defaultWin": "¡Buen trabajo! le estás pillando el tranquillo a esto.",
     "scenarios.driver_training.driver_training.training_rwd.description": "Esto ayudará a comprobar tus habilidades manejando un vehículo de tracción trasera",
