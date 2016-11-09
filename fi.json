@@ -1281,7 +1281,7 @@
     "vehicle.bdebug.trisOn": "Törmäysgeometrian piirtäminen käytössä",
     "vehicle.beamstate.beamBroke": "Beam {{id}} rikkoutui: {{id1name}} [{{id1}}]  ->  {{id2name}} [{{id2}}]",
     "vehicle.beamstate.tireDeflated": "{{wheelName | translate}} rengas tyhjeni",
-    "vehicle.bullettime.change": "{{slowmoTimes}}-kertainen hidastus",
+    "vehicle.bullettime.change": "{{slowmoTimes}} - kertainen hidastus",
     "vehicle.bullettime.realtime": "Reaaliaika",
     "vehicle.bullettime.slowmotion": "Hidastus aktivoitu",
     "vehicle.drivetrain.axleBroken": "{{axleName}} vetoakseli rikkoutui",
