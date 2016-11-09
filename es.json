@@ -689,6 +689,7 @@
     "ui.common.enable": "Activar",
     "ui.common.filters": "Filtros",
     "ui.common.finish": "Meta",
+    "ui.common.fooOrBar": "{{ foo }} o {{ bar }}",
     "ui.common.menu": "Menú",
     "ui.common.never": "Nunca",
     "ui.common.next": "Siguiente",
