@@ -57,7 +57,7 @@
     "scenarios.jungle_rock_island.intro_jri_mountain_race.description": "在雨林石岛的火山上比赛",
     "scenarios.small_island.cop_chase.wayPointAction.wayPointMsg": "截停Pessima!",
     "scenarios.utah.chapter_1.chapter_1_cliffjump.description": "",
-    "scenarios.utah.chapter_1.chapter_1_crawl.damage.msg": "",
+    "scenarios.utah.chapter_1.chapter_1_crawl.damage.msg": "你在{{timeStr}}内摧毁了车辆",
     "scenarios.utah.chapter_1.chapter_1_highway.description": "",
     "scenarios.utah.chapter_1.chapter_1_jump.title": "",
     "ui.apps.automatic_gears.name": "自动档档位指示",
