@@ -1021,6 +1021,7 @@
     "ui.vehicleconfig.tuning": "Réglages",
     "ui.vehicleconfig.vehicleconfig": "Customisation de Vehicule",
     "vehicle.bdebug.cogMode.nowheels": "Sans les roues",
+    "vehicle.bdebug.disabled": "Debug tracé désactivé",
     "vehicle.bdebug.meshVisibility": "Visibilité de l'objet modifiée : {{visibilityPercent}}%",
     "vehicle.bdebug.nodeVisMode.weights": "Poids",
     "vehicle.bdebug.trisOn": "Affichage des Triangles de Collision activé",
