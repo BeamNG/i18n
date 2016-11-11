@@ -235,7 +235,7 @@
     "scenarios.driver_training.driver_training.training_driftB.drift.msg": "Bon travail, vous avez repeint la piste avec de la gomme ! Votre score :",
     "scenarios.driver_training.driver_training.training_driftB.title": "Stage Sécurité  10: Drift",
     "scenarios.driver_training.driver_training.training_easycircuit.damage.msg": "Cette voiture va avoir besoin de sérieuses réparations.",
-    "scenarios.driver_training.driver_training.training_easycircuit.description": "Je vous ai préparé un circuit pour mettre en pratique ce que vous avez appris. Ça devrait être plutôt facile : 2 tours, pas de surprise.",
+    "scenarios.driver_training.driver_training.training_easycircuit.description": "Je vous ai préparé un circuit pour mettre en pratique ce que vous avez appris. Cela devrait être plutôt facile : 2 tours, aucune surprise.",
     "scenarios.driver_training.driver_training.training_hairpins3.5.description": "Vous allez apprendre comment utiliser le frein à main pour naviguer à travers un virage en tête d'épingle",
     "scenarios.driver_training.driver_training.training_hairpins3.5.nomove.msg": "Vous n'avez pas tout à fait réalisé ce virage proprement - Je vois que vous avez heurté un obstacle.",
     "scenarios.driver_training.driver_training.training_hairpins3.5.timeLimit.msg": "Trop lent! La limite de temps est de {{timeLimit}} secondes",
