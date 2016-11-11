@@ -554,6 +554,7 @@
     "scenarios.utha.chapter_2.chapter_2_5_roll.title": "",
     "scenarios.utha.chapter_2.chapter_2_6_canyon.description": "chapter_2_6_canyon - dernière course, course sur route simple, joueur peut progresser même si elles sont vaincus, mais ils auront une bande dessinée outro différente",
     "scenarios.utha.chapter_2.chapter_2_6_canyon.title": "Chapitre 2.6: Canyon",
+    "ui.apps.aicontrol.name": "Contrôle IA",
     "ui.apps.automatic_gears.name": "Boîte de vitesse automatique",
     "ui.apps.brake_thermal_debug.name": "Débogage Température des Freins",
     "ui.apps.categories.debug": "Débugage",
