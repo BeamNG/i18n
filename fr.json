@@ -979,6 +979,7 @@
     "ui.performance.warnings.intelgpu": "Vous utilisez un processeur graphique Intel. Assurez-vous d'utiliser le processeur praphique dédiée à sa place.",
     "ui.performance.warnings.minmem": "Moins de 4B de mémoire : Pas assez de mémoire système pour charger certains niveaux",
     "ui.performance.warnings.missing64binary": "N'exécute pas la version 64 Bit : version 64 Bit manquante : Veuillez réinstaller",
+    "ui.performance.warnings.oldwin7": "N'exécute pas une version 64 bits : le système d'exploitation est plus vieux que Windows 7 Service Pack 1 : Veuillez mettre à niveau Windows",
     "ui.performance.warnings.oswin8": "Windows 8 recommandé : version x86 mode compatibilité exécutée pour l'instant",
     "ui.performance.warnings.remotedesktop": "Vous utilisez le Bureau à Distance",
     "ui.photomode.advancedImgSettings": "Réglages d'image avancé",
