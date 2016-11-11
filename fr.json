@@ -615,6 +615,7 @@
     "ui.common.filters": "Filtres",
     "ui.common.finish": "Arrivée",
     "ui.common.next": "Suivant",
+    "ui.common.no": "Non",
     "ui.common.official": "Officiel",
     "ui.common.order.author": "Auteur",
     "ui.common.order.date": "Date",
@@ -1020,6 +1021,7 @@
     "vehicle.bullettime.realtime": "Temps réel",
     "vehicle.drivetrain.shifterModeNameArcade": "Arcade",
     "vehicle.drivetrain.usingHshifter": "Le levier de vitesse en H a été utilisé. '{{shifterModeName | translate}}' maintenant utilisé",
+    "vehicle.engine.headGasketDamaged": "Joint de culasse endommagé",
     "vehicle.engine.rodBearingsDamaged": "Roulements de bielle endommagés",
     "vehicle.recovery.loadHome": "Véhicule restauré à la position initiale",
     "vehicle.recovery.saveHome": "Position du véhicule mise à jour (utilisez [action=loadHome] pour réinitialiser)"
