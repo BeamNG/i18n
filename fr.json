@@ -961,6 +961,7 @@
     "ui.performance.warnings.amdhd": "Au minumim une AMD Radeon HD XXX est recommandée",
     "ui.performance.warnings.app32": "Version 64 Bit du jeu recommandée : version x86 mode compatibilité exécutée pour l'instant",
     "ui.performance.warnings.cpuonecore": "Ce je ne fonctionnera pas correctement avec un seul cœur physique",
+    "ui.performance.warnings.gpulowmem": "Votre processeur graphique possède moins de 512 Mo de mémoire vidéo",
     "ui.performance.warnings.intelgpu": "Vous utilisez un processeur graphique Intel. Assurez-vous d'utiliser le processeur praphique dédiée à sa place.",
     "ui.performance.warnings.minmem": "Moins de 4B de mémoire : Pas assez de mémoire système pour charger certains niveaux",
     "ui.performance.warnings.missing64binary": "N'exécute pas la version 64 Bit : version 64 Bit manquante : Veuillez réinstaller",
