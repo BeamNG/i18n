@@ -1005,6 +1005,7 @@
     "ui.vehicleconfig.tuning": "Réglages",
     "ui.vehicleconfig.vehicleconfig": "Customisation de Vehicule",
     "vehicle.bdebug.meshVisibility": "Visibilité de l'objet modifiée : {{visibilityPercent}}%",
+    "vehicle.bdebug.nodeVisMode.weights": "Poids",
     "vehicle.bdebug.trisOn": "Affichage des Triangles de Collision activé",
     "vehicle.beamstate.tireDeflated": "pneu {{wheelName | translate}} dégonflé",
     "vehicle.bullettime.change": "{{slowmoTimes}} fois plus lent qu'en temps réel",
