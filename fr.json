@@ -566,6 +566,7 @@
     "ui.apps.digital_speedometer.name": "Compteur de Vitesse Digital",
     "ui.apps.engine_damage_app.name": "App Dégats Moteur",
     "ui.apps.engine_debug.name": "Débogage Moteur",
+    "ui.apps.g-forces.name": "g",
     "ui.apps.indicated_airspeed.name": "Vitesse Air Indiquée",
     "ui.apps.messages.name": "Messages",
     "ui.apps.navigation.name": "Navigation",
