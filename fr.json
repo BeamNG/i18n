@@ -578,6 +578,7 @@
     "ui.apps.replay.name": "Replay",
     "ui.apps.roll.name": "Roulis",
     "ui.apps.speedometer.name": "Compteur de Vitesse",
+    "ui.apps.turbo_activity_graph.name": "Graph Activité Turbo",
     "ui.apps.vehicleDebug.breakAll": "Casser tout les breakgroups",
     "ui.apps.vehicleDebug.breakHinges": "Casser toute les charnières",
     "ui.apps.vehicleDebug.deflateTires": "Dégonfler les Pneus",
