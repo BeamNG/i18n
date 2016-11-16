@@ -1071,6 +1071,7 @@
     "vehicle.recovery.end": "Véhicule réparé (impossible d'aller plus loin)",
     "vehicle.recovery.loadHome": "Véhicule restauré à la position initiale",
     "vehicle.recovery.quick": "Véhicule réparé (maintenez pour aller plus loin)",
+    "vehicle.recovery.recovered": "Véhicule restauré",
     "vehicle.recovery.recovering": "Récupération du véhicule en cours...",
     "vehicle.recovery.saveHome": "Position du véhicule mise à jour (utilisez [action=loadHome] pour réinitialiser)",
     "vehicle.turbocharger.overheating": "Le turbo surchauffe"
