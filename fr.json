@@ -237,6 +237,7 @@
     "scenarios.driver_training.driver_training.training_driftB.title": "Stage Sécurité  10: Drift",
     "scenarios.driver_training.driver_training.training_easycircuit.damage.msg": "Cette voiture va avoir besoin de sérieuses réparations.",
     "scenarios.driver_training.driver_training.training_easycircuit.description": "Je vous ai préparé un circuit pour mettre en pratique ce que vous avez appris. Cela devrait être plutôt facile : 2 tours, aucune surprise.",
+    "scenarios.driver_training.driver_training.training_easycircuit.nomove.msg": "Il y avait un seul cône sur toute la piste, et vous avez réussi à le toucher.",
     "scenarios.driver_training.driver_training.training_hairpins3.5.description": "Comment faites-vous demi-tour rapidement dans un petit espace ? Tirez le frein à main pour déraper autour d'un virage en épingle à cheveux, comme dans les films.",
     "scenarios.driver_training.driver_training.training_hairpins3.5.nomove.msg": "Vous n'avez pas tout à fait réalisé ce virage proprement - Je vois que vous avez heurté un obstacle.",
     "scenarios.driver_training.driver_training.training_hairpins3.5.timeLimit.msg": "Trop lent! La limite de temps est de {{timeLimit}} secondes",
