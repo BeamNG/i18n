@@ -1055,7 +1055,7 @@
     "vehicle.bdebug.beamVisMode.simple": "Simple",
     "vehicle.bdebug.cogMode.nowheels": "Sans les roues",
     "vehicle.bdebug.disabled": "Tracé de débogage désactivé",
-    "vehicle.bdebug.enabled": "Debug tracé activé",
+    "vehicle.bdebug.enabled": "Débogage tracé activé",
     "vehicle.bdebug.meshVisibility": "Visibilité de l'objet modifiée : {{visibilityPercent}}%",
     "vehicle.bdebug.nodeTextMode.names+numbers": "Noms et nombres",
     "vehicle.bdebug.nodeVisMode.density": "Densité",
