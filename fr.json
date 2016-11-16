@@ -227,7 +227,7 @@
     "scenarios.driver_training.driver_training.training_cornering2.5.nomove.msg": "Vous avez heurté quelque chose",
     "scenarios.driver_training.driver_training.training_cornering2.5.timeLimit.msg": "Vous avez pris plus de {{timeLimit}} secondes, essayez à nouveau avec un peu plus de vitesse",
     "scenarios.driver_training.driver_training.training_cornering2.5.title": "Stage Sécurité  2.5: Négocier les virages",
-    "scenarios.driver_training.driver_training.training_cornerspeedB.description": "Ce parcours va vous familiariser avec les différentes vitesses requises pour différents angles de virage",
+    "scenarios.driver_training.driver_training.training_cornerspeedB.description": "Vous ne pouvez pas prendre n'importe quel virage à n'importe quelle vitesse : respectez les limitations de vitesse sur les panneaux pour réussir.",
     "scenarios.driver_training.driver_training.training_cornerspeedB.nomove.msg": "Vous avez touché un cône ! Essayez de rester entre les bandes rugueuses.",
     "scenarios.driver_training.driver_training.training_cornerspeedB.timeLimit.msg": "Vous avez mis plus de {{timeLimit}} secondes, essayez à  nouveau avec un peu plus de vitesse",
     "scenarios.driver_training.driver_training.training_cornerspeedB.title": "Stage Sécurité  4.5: Vitesse de passage en Courbe",
