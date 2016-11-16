@@ -240,7 +240,7 @@
     "scenarios.driver_training.driver_training.training_hairpins3.5.nomove.msg": "Vous n'avez pas tout à fait réalisé ce virage proprement - Je vois que vous avez heurté un obstacle.",
     "scenarios.driver_training.driver_training.training_hairpins3.5.timeLimit.msg": "Trop lent! La limite de temps est de {{timeLimit}} secondes",
     "scenarios.driver_training.driver_training.training_hairpins3.5.title": "Stage Sécurité  4.1: Virages en épingle (version 2)",
-    "scenarios.driver_training.driver_training.training_lanechange.description": "Cette leçon simule les changements de files a haute vitesse",
+    "scenarios.driver_training.driver_training.training_lanechange.description": "Changer de voie à haute vitesse exige d'être doux avec le volant. Serez-vous capable de prendre le contrôle d'une supercar des années 80 ?",
     "scenarios.driver_training.driver_training.training_lanechange.nomove.msg": "Vous avez touché un cône ! Essayez de rester entre les vibreurs.",
     "scenarios.driver_training.driver_training.training_lanechange.timeLimit.msg": "Vous avez pris plus de {{timeLimit}} secondes, réessayez avec plus de vitesse",
     "scenarios.driver_training.driver_training.training_lanechange.title": "Entrainement 4: Changement de voie",
