@@ -222,7 +222,7 @@
     "scenarios.driver_training.driver_training.training_advanced.nomove.msg": "Vous avez touché un cône! Essayez de rester dans la zone délimitée.",
     "scenarios.driver_training.driver_training.training_advanced.timeLimit.msg": "Vous avez mis plus de {{timeLimit}} secondes, essayez à nouveau un peu plus vite",
     "scenarios.driver_training.driver_training.training_advanced.title": "Stage Sécurité  8: Prendre un virage avancé",
-    "scenarios.driver_training.driver_training.training_cornering2.5.description": "Ce parcours va tester votre habilité à maintenir un angle de virage constant",
+    "scenarios.driver_training.driver_training.training_cornering2.5.description": "Dans le cas improbable où la route n'est pas droite, vous pourriez avoir à arrêter d'accélérer et utiliser le volant de votre voiture. [br][br]Essayez ici sur le rond-point, mais faites attention à la zone glissante.",
     "scenarios.driver_training.driver_training.training_cornering2.5.nomove.msg": "Vous avez heurté quelque chose",
     "scenarios.driver_training.driver_training.training_cornering2.5.timeLimit.msg": "Vous avez pris plus de {{timeLimit}} secondes, essayez à nouveau avec un peu plus de vitesse",
     "scenarios.driver_training.driver_training.training_cornering2.5.title": "Stage Sécurité  2.5: Négocier les virages",
