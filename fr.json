@@ -985,7 +985,7 @@
     "ui.performance.warnings.app32": "Version 64 Bit du jeu recommandée : version x86 mode compatibilité exécutée pour l'instant",
     "ui.performance.warnings.cpulowclock": "Votre fréquence d'horloge est inférieure à 2GHz",
     "ui.performance.warnings.cpuonecore": "Ce je ne fonctionnera pas correctement avec un seul cœur physique",
-    "ui.performance.warnings.cpuquadcore": "Performances optimales avec un quadcore",
+    "ui.performance.warnings.cpuquadcore": "Performances optimales avec un quadricœur",
     "ui.performance.warnings.dinput": "DirectInput (utilisé pour les volants) n'est pas disponible, veuillez réinstaller DirectX 9 : [url=http://wiki.beamng.com/DirectXInstallation]",
     "ui.performance.warnings.freememlow": "Moins de 2 GB de mémoire physique disponible. Fermez des applications ou redémarrez.",
     "ui.performance.warnings.geforcemin": "Une GeForce 550 au minimum est requise",
