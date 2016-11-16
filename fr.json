@@ -596,6 +596,7 @@
     "ui.apps.vehicleDebug.igniteVehicle": "Mettre le feu au véhicule",
     "ui.apps.vehicle_damage_app.name": "App Dégâts Véhicule",
     "ui.apps.vehicledebug.name": "VehicleDebug",
+    "ui.apps.vehicletelemetrydebug.name": "Déboggeur de la Télémétrie du Véhicule",
     "ui.apps.wheelsdebug.name": "Débogage des roues",
     "ui.appselect.add": "Ajouter Application",
     "ui.appselect.apps": "Applications",
