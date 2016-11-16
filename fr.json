@@ -1044,5 +1044,6 @@
     "vehicle.engine.headGasketDamaged": "Joint de culasse endommagé",
     "vehicle.engine.rodBearingsDamaged": "Roulements de bielle endommagés",
     "vehicle.recovery.loadHome": "Véhicule restauré à la position initiale",
+    "vehicle.recovery.quick": "Véhicule réparé (maintenez pour réparer plus loin)",
     "vehicle.recovery.saveHome": "Position du véhicule mise à jour (utilisez [action=loadHome] pour réinitialiser)"
 }
