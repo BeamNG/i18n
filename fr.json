@@ -181,6 +181,7 @@
     "levels.utah.info.suitablefor": "tout terrain, trail, exploration",
     "levels.utah.info.title": "Utah, USA",
     "levels.utah.spawnpoints.buildingSite": "Site de Construction",
+    "levels.utah.spawnpoints.industrial": "Industriel",
     "levels.utah.spawnpoints.parkingLot": "Parking",
     "levels.utah.spawnpoints.westHighway": "Voie Rapide Ouest",
     "levels.utah_offroad_park.info.biome": "désert",
@@ -1044,6 +1045,6 @@
     "vehicle.engine.headGasketDamaged": "Joint de culasse endommagé",
     "vehicle.engine.rodBearingsDamaged": "Roulements de bielle endommagés",
     "vehicle.recovery.loadHome": "Véhicule restauré à la position initiale",
-    "vehicle.recovery.quick": "Véhicule réparé (maintenez pour réparer plus loin)",
+    "vehicle.recovery.quick": "Véhicule réparé (maintenez pour aller plus loin)",
     "vehicle.recovery.saveHome": "Position du véhicule mise à jour (utilisez [action=loadHome] pour réinitialiser)"
 }
