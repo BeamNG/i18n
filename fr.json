@@ -219,7 +219,7 @@
     "scenarios.derby.variedground_derby.title": "Demolition Derby - Plasticien Rez-de-Arena",
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.damage.msg": "où allez-vous ? La zone de test est dans l'autre direction !",
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.description": "Cela vous apprendra les rudiments de l&#39;accélération et de freinage",
-    "scenarios.driver_training.driver_training.training_acceleration_braking1.5.nomove.msg": "Vous avez heurté  quelque chose",
+    "scenarios.driver_training.driver_training.training_acceleration_braking1.5.nomove.msg": "Ça ne se verra pas. Réessayez et soyez plus prudent s'il vous plaît !",
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.position.msg": "Vous avez manqué la zone de freinage",
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.timeLimit.msg": "Trop lent! Le délai est de {{timeLimit}} secondes",
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.title": "Stage Sécurité  1: Accélération et freinage (version 2)",
