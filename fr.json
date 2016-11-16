@@ -754,7 +754,7 @@
     "ui.faq.changeVehicle.q": "Comment puis-je changer de véhicules ?",
     "ui.faq.findMods.a": "Vous pouvez télécharger des mods à partir du dépot: [url=http://www.beamng.com/resources/]. Repository BeamNG.drive [/url] Si vous êtes connecté cliquez simplement sur le bouton \"Install Mod\" sur la page du mods .",
     "ui.faq.findMods.q": "Où  trouver des mods ?",
-    "ui.faq.getSupport.a": "Vous pouvez obtenir de l'aide dans nos forum: [url=http: //www.beamng.com/forums/] beamng.com/forums [/ url]. Ou vous pouvez nous contacter directement par: [url=https://support.beamng.com/]support.beamng.com[/ url] ou par courriel: [b]support@beamng.com[/ b][br] Nous allons essayer de revenir vers vous dès que possible sous deux jours ouvrables.",
+    "ui.faq.getSupport.a": "Vous pouvez obtenir de l'aide dans nos forum : [url=http: //www.beamng.com/forums/] beamng.com/forums [/ url]. Ou vous pouvez nous contacter directement via : [url=http://support.beamng.com/]support.beamng.com[/ url] ou par courriel: [h1]support@beamng.com[/h1][br] Nous allons essayer de revenir vers vous dès que possible sous deux jours ouvrables.",
     "ui.faq.getSupport.q": "Comment obtenir de l'aide ?",
     "ui.faq.installMods.a": "Télécharger le .zip du véhicule ou le niveau que vous souhaitez installer. Déposez le zip dans [b]Mes Documents\\BeamNG.drive\\mods [/b]. Ne pas le décompresser. Pour plus d'informations et d'instructions supplémentaires veuillez [url=http://www.beamng.com/threads/guide-to-mod-installation.12872/] visiter notre wiki ici [/url].",
     "ui.faq.installMods.q": "Où dois-je installer les Mods ?",
