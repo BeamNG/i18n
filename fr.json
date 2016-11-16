@@ -240,7 +240,7 @@
     "scenarios.driver_training.driver_training.training_easycircuit.nomove.msg": "Il n'y a qu'un seul cône sur toute la piste, et vous avez réussi à le toucher.",
     "scenarios.driver_training.driver_training.training_hairpins3.5.description": "Comment faites-vous demi-tour rapidement dans un petit espace ? Tirez le frein à main pour déraper autour d'un virage en épingle à cheveux, comme dans les films.",
     "scenarios.driver_training.driver_training.training_hairpins3.5.nomove.msg": "Vous n'avez pas tout à fait réalisé ce virage proprement - Je vois que vous avez heurté un obstacle.",
-    "scenarios.driver_training.driver_training.training_hairpins3.5.timeLimit.msg": "C'est fini ! Il fallait finir plus vite que ça.",
+    "scenarios.driver_training.driver_training.training_hairpins3.5.timeLimit.msg": "C'est fini ! Il va falloir finir plus vite que ça.",
     "scenarios.driver_training.driver_training.training_hairpins3.5.title": "Stage Sécurité  4.1: Virages en épingle (version 2)",
     "scenarios.driver_training.driver_training.training_lanechange.description": "Changer de voies à grande vitesse exige d'être doux avec la direction. Serez-vous capable de garder le contrôle d'une supercar des années 80 ?",
     "scenarios.driver_training.driver_training.training_lanechange.nomove.msg": "Vous avez touché un cône ! Essayez de rester entre les vibreurs.",
