@@ -1057,7 +1057,7 @@
     "vehicle.drivetrain.usingHshifter": "Le levier de vitesse en H a été utilisé. '{{shifterModeName | translate}}' maintenant utilisé",
     "vehicle.engine.headGasketDamaged": "Joint de culasse endommagé",
     "vehicle.engine.rodBearingsDamaged": "Roulements de bielle endommagés",
-    "vehicle.fire.fuelTankRuptured": "Réservoir de carburant rompu",
+    "vehicle.fire.fuelTankRuptured": "Réservoir de carburant endommagé",
     "vehicle.recovery.end": "Véhicule réparé (impossible d'aller plus loin)",
     "vehicle.recovery.loadHome": "Véhicule restauré à la position initiale",
     "vehicle.recovery.quick": "Véhicule réparé (maintenez pour aller plus loin)",
