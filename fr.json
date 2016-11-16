@@ -221,7 +221,7 @@
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.description": "Cela vous apprendra les rudiments de l&#39;accélération et de freinage",
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.nomove.msg": "Ça ne se verra pas. Réessayez et soyez plus prudent s'il vous plaît !",
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.position.msg": "Vous avez manqué la zone de freinage",
-    "scenarios.driver_training.driver_training.training_acceleration_braking1.5.timeLimit.msg": "Trop lent! Le délai est de {{timeLimit}} secondes",
+    "scenarios.driver_training.driver_training.training_acceleration_braking1.5.timeLimit.msg": "Trop lent ! Il faudrait utiliser la pédale d'accélérateur pour ce test.",
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.title": "Stage Sécurité  1: Accélération et freinage (version 2)",
     "scenarios.driver_training.driver_training.training_advanced.description": "Cette course va vous familiariser avec les techniques et les lignes à la corde nécessaires à augmenter la difficulté.",
     "scenarios.driver_training.driver_training.training_advanced.nomove.msg": "Vous avez touché un cône! Essayez de rester dans la zone délimitée.",
@@ -653,6 +653,7 @@
     "ui.common.reset": "Reset",
     "ui.common.retry": "Réesayer",
     "ui.common.search": "Chercher",
+    "ui.common.skip": "Passer",
     "ui.common.sortBy": "Trier par",
     "ui.credits.assistantenvArtists": "Assistant des artistes des Environnements",
     "ui.credits.conceptArtists2D": "Artistes Concept 2D",
@@ -772,6 +773,7 @@
     "ui.feedback.clear": "Effacer",
     "ui.feedback.leaveMessage": "Merci d'ajouter un message içi",
     "ui.feedback.submit": "Soumettre",
+    "ui.goals.position": "Positionnement",
     "ui.hints.TrackIRSupported": "BeamNG.drive supporte le dispositif  de suivi de tête TrackIR; il suffit de le brancher et de lancer le jeu !",
     "ui.hints.absWasOptional": "Les freins antiblocage n'ont pas toujours été obligatoire. Les vieilles voitures nécessitent des techniques de freinage plus prudent pour les garder sous contrôle.",
     "ui.hints.adaptToBadRoads": "Les vieilles routes avec des bosses, des patchs goudronnées et irrégularité de surface va limiter la vitesse dans les virages. Vous aurez besoin d'adapter votre vitesse en fonction des conditions de la route.",
@@ -1064,9 +1066,12 @@
     "vehicle.drivetrain.usingHshifter": "Le levier de vitesse en H a été utilisé. '{{shifterModeName | translate}}' maintenant utilisé",
     "vehicle.engine.headGasketDamaged": "Joint de culasse endommagé",
     "vehicle.engine.rodBearingsDamaged": "Roulements de bielle endommagés",
+    "vehicle.engine.starvedOfOil": "Le moteur est en manque d'huile",
     "vehicle.fire.fuelTankRuptured": "Réservoir de carburant endommagé",
     "vehicle.recovery.end": "Véhicule réparé (impossible d'aller plus loin)",
     "vehicle.recovery.loadHome": "Véhicule restauré à la position initiale",
     "vehicle.recovery.quick": "Véhicule réparé (maintenez pour aller plus loin)",
-    "vehicle.recovery.saveHome": "Position du véhicule mise à jour (utilisez [action=loadHome] pour réinitialiser)"
+    "vehicle.recovery.recovering": "Récupération du véhicule en cours...",
+    "vehicle.recovery.saveHome": "Position du véhicule mise à jour (utilisez [action=loadHome] pour réinitialiser)",
+    "vehicle.turbocharger.overheating": "Le turbo surchauffe"
 }
