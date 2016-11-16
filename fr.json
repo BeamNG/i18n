@@ -585,7 +585,7 @@
     "ui.apps.engine_damage_app.name": "App Dégats Moteur",
     "ui.apps.engine_debug.name": "Débogage Moteur",
     "ui.apps.engine_thermal_debug.name": "Débogage Température Moteur",
-    "ui.apps.esc_desired_yaw_rate_graph.name": "Graphique Vitesse de lacet désirée ESP",
+    "ui.apps.esc_desired_yaw_rate_graph.name": "Graphique ESP Taux de Lacet Désiré",
     "ui.apps.forced_induction_debug.name": "Déboggage Admission Forcée",
     "ui.apps.g-forces.name": "g",
     "ui.apps.gears.name": "Vitesses",
