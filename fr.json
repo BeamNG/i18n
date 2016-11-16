@@ -105,6 +105,7 @@
     "levels.east_coast_usa.info.roads": "70% routes rapides, 25% chemin de terre rapides, 5% trails",
     "levels.east_coast_usa.info.title": "East Coast, USA",
     "levels.east_coast_usa.spawnpoints.gasStation": "Parking de la Station Essence",
+    "levels.east_coast_usa.spawnpoints.highway": "Voie Rapide",
     "levels.groundmodeltest.info.description": "Groundmodel tests, for ABS etc",
     "levels.groundmodeltest.info.features": "Various different groundmodels",
     "levels.groundmodeltest.info.suitablefor": "Testing different traction levels",
