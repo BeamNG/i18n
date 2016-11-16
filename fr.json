@@ -1045,7 +1045,7 @@
     "vehicle.bdebug.disabled": "Tracé de débogage désactivé",
     "vehicle.bdebug.meshVisibility": "Visibilité de l'objet modifiée : {{visibilityPercent}}%",
     "vehicle.bdebug.nodeVisMode.weights": "Poids",
-    "vehicle.bdebug.trisOff": "Tracé Triangle Collision désactivé",
+    "vehicle.bdebug.trisOff": "Tracé des Triangles de Collision désactivé",
     "vehicle.bdebug.trisOn": "Affichage des Triangles de Collision activé",
     "vehicle.beamstate.beamBroke": "Beam {{id}} vient de se casser : [{{id1}}]  ->  [{{id2}}]",
     "vehicle.beamstate.tireDeflated": "pneu {{wheelName | translate}} dégonflé",
