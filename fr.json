@@ -586,6 +586,7 @@
     "ui.apps.engine_debug.name": "Débogage Moteur",
     "ui.apps.engine_thermal_debug.name": "Débogage Température Moteur",
     "ui.apps.esc_desired_yaw_rate_graph.name": "Graphique ESP Taux de Lacet Désiré",
+    "ui.apps.escstiffness.name": "Rigidité de l'ESP",
     "ui.apps.forced_induction_debug.name": "Déboggage Admission Forcée",
     "ui.apps.g-forces.name": "g",
     "ui.apps.gears.name": "Vitesses",
