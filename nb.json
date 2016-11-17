@@ -961,7 +961,7 @@
     "ui.hints.toggleMods": "Du kan raskt deaktivere og aktivere alle modifikasjoner ved å klikke \"Aktiver Alle\"/\"Ingen\" i Modifikasjonbehandleren.",
     "ui.hints.towTrailer": "For å trekke en tilhenger med bilen: spawn begge med [action=vehicle_selector], nærm deg tilhengeren, og trykk [action=couplersToggle]",
     "ui.hints.tuning": "Du kan finjustere dekktrykk, hjuloppheng, og andre innstillinger i \"Tuning\" menyen [action=parts_selector].",
-    "ui.hints.tweakFOV": "Kameraets synsvinkel kan justeres i Innstillinger > Gameplay > FOV Tuning.",
+    "ui.hints.tweakFOV": "Kameraets synsvinkel kan justeres i Innstillinger > Spill > FOV Justering.",
     "ui.hints.unlockExtraFunctionality": "Lås opp ekstra funksjonalitet med 'Instillinger' > 'Gameplay' > 'Avanserte Funksjoner' avmerkingsboksen.",
     "ui.hints.useTurnSignals": "Visste du at de fleste kjøretøy har blinklys? Dette gjelder også i BeamNG.drive! Bruk [action=toggle_left_signal] og [action=toggle_right_signal] for å aktivere dem.",
     "ui.hints.vehicleSkins": "Noen kjøretøy har andre dekaler. Du finner dem i Delevelgeren [action=parts_selector], under Lakk Design.",
