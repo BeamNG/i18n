@@ -589,6 +589,7 @@
     "scenarios.utha.chapter_2.chapter_2_6_canyon.description": "rozdział_2_6_kanion - wyścig finałowy, prosty uliczny wyścig, gracz przejdzie dalej nawet jeśli nie wygra, ale dostanie inny komiks na zakończenie",
     "scenarios.utha.chapter_2.chapter_2_6_canyon.title": "rodział_2_6_kanion",
     "ui.apps.aicontrol.name": "Kontrola SI",
+    "ui.apps.automatic_gears.name": "Automatyczne Biegi",
     "ui.apps.brake_thermal_debug.name": "Debug Termiki Hamulców",
     "ui.apps.categories.debug": "Debug",
     "ui.apps.categories.info": "Informacyjne",
@@ -1081,5 +1082,6 @@
     "vehicle.engine.rodBearingsDamaged": "Uszkodzone panewki",
     "vehicle.fire.fuelTankRuptured": "Przebity zbiornik paliwa",
     "vehicle.main.instability": "Wykryto niestabilność pojazdu {{vehicle}}: następuje resetowanie pojazdu i wyłączenie fizyki",
+    "vehicle.recovery.loadHome": "Pojazd przywrócony do pozycji startowej ",
     "vehicle.turbocharger.overheating": "Turbo się przegrzewa"
 }
