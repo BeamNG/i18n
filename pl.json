@@ -797,6 +797,7 @@
     "ui.feedback.clear": "Wyczyść",
     "ui.feedback.leaveMessage": "Proszę dodać tu komentarz",
     "ui.feedback.submit": "Wyślij",
+    "ui.goals.distance": "Śledzenie",
     "ui.goals.timeLimit": "Limit Czasu",
     "ui.hints.TrackIRSupported": "BeamNG.drive wspiera urządzenie śledzące ruchy głowy TrackIR; po prostu podepnij i włącz grę!",
     "ui.hints.absWasOptional": "System ABS nie zawsze był obowiązkowy. Starsze samochody wymagają ostrożniejszych technik hamowania do utrzymania ich pod kontrolą.",
