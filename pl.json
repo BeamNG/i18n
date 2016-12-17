@@ -271,6 +271,7 @@
     "scenarios.driver_training.driver_training.training_lanechange.nomove.msg": "Potrąciłeś pachołek! Postaraj się pozostać na wyznaczonej trasie.",
     "scenarios.driver_training.driver_training.training_lanechange.timeLimit.msg": "Zajęło ci to więcej niż {{timeLimit}} sekund, spróbuj ponownie z trochę większą prędkością",
     "scenarios.driver_training.driver_training.training_lanechange.title": "Trening 4: Zmiana Pasa",
+    "scenarios.driver_training.driver_training.training_rwd.defaultWin": "Dobra robota! Masz do tego wprawę.",
     "scenarios.driver_training.driver_training.training_rwd.description": "Ten kurs sprawdzi twoje umiejętności panowania nad samochodem z napędem na tylną oś",
     "scenarios.driver_training.driver_training.training_rwd.nomove.msg": "Potrąciłeś pachołek! Postaraj się pozostać na wyznaczonej trasie.",
     "scenarios.driver_training.driver_training.training_rwd.timeLimit.msg": "Ten samochód ma silnik V8 o dużej mocy... użyj jej!",
