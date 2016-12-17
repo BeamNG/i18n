@@ -1082,6 +1082,6 @@
     "vehicle.engine.rodBearingsDamaged": "Uszkodzone panewki",
     "vehicle.fire.fuelTankRuptured": "Przebity zbiornik paliwa",
     "vehicle.main.instability": "Wykryto niestabilność pojazdu {{vehicle}}: następuje resetowanie pojazdu i wyłączenie fizyki",
-    "vehicle.recovery.loadHome": "Pojazd przywrócony do pozycji startowej ",
+    "vehicle.recovery.loadHome": "Pojazd przywrócony do pozycji początkowej",
     "vehicle.turbocharger.overheating": "Turbo się przegrzewa"
 }
