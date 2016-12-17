@@ -632,6 +632,7 @@
     "ui.apps.vehicleDebug.igniteVehicle": "Podpal Pojazd",
     "ui.apps.vehicledebug.name": "DebugPojazdu",
     "ui.apps.weight_distribution.name": "Rozmieszczenie ciężaru",
+    "ui.apps.wheelsdebug.name": "Debugowanie kół",
     "ui.appselect.add": "Dodaj aplikację",
     "ui.appselect.apps": "Aplikacje",
     "ui.appselect.categories.debug": "Debug",
