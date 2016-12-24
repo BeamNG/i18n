@@ -484,7 +484,7 @@
     "ui.apps.weight_distribution.name": "Weight distribution",
     "ui.apps.wheelsdebug.name": "Wheelsdebug",
     "ui.apps.wind.name": "Wind!",
-    "ui.apps.powertrain_debug.name": "Powertrain Debug",
+    "ui.apps.powertrain_debug.name": "Powertrain Visualization",
 
     "ui.playmodes.campaigns": "Campaigns",
     "ui.playmodes.scenarios": "Scenarios",
@@ -504,6 +504,14 @@
     "ui.options.userInterface.enableAdvanced": "Enable advanced functions",
     "ui.options.userInterface.creatorMode": "Creator mode",
 
+    "ui.options.language": "Language",
+    "ui.options.communityTranslations": "Community translations",
+    "ui.options.currentLanguage": "Current Language",
+    "ui.options.communityTranslationsAgree": "Agree & enable",
+    "ui.options.communityTranslationsAckText": "Translations are created by the users of the community. BeamNG is not responsible for the translations in any way (i.e. inappropriate or incorrect). Use at your own risk.",
+    
+
+
     "ui.options.userInterface.showCustomVehicles": "Show custom vehicles in vehicle selector",
     "ui.options.userInterface.garageAutoSave": "Auto-save vehicle in garage",
 
@@ -518,7 +526,7 @@
     "ui.options.gameplay.noSteer": "Remove steering wheel",
     "ui.options.gameplay.competitiveScenarios": "Competitive scenario conditions",
     "ui.options.gameplay.defaultToCurrentVehicle": "Set current vehicle as default",
-    "ui.options.gameplay.updateLanguages": "Update Languages",
+    "ui.options.gameplay.updateTranslations": "Update Translations",
 
     "ui.options.camera": "Camera",
     "ui.options.camera.defaultMode": "Default Mode",
@@ -1643,7 +1651,8 @@
     "vehicle.drivetrain.axleBroken":"{{axleName}} wheel axle broken",
     "vehicle.drivetrain.deviceBroken":"{{deviceName}} broken",
     "vehicle.drivetrain.stalledStarting":"Engine is off, restarting...",
-    "vehicle.drivetrain.stalled":"Engine is off...",
+    "vehicle.drivetrain.stalledAutoClutch":"Engine is off, hold [action=activateStarterMotor] to turn it on",
+    "vehicle.drivetrain.stalled":"Engine is off, hold [action=clutch] and [action=activateStarterMotor] to turn it on",
     "vehicle.drivetrain.fuelLeaking": "Fuel leaking",
     "vehicle.drivetrain.driveshaftBroken":"Driveshaft broken",
     "vehicle.drivetrain.engineDrying":"Engine drying from water ({{percent}}%)",
