@@ -963,7 +963,7 @@
     "ui.hints.liftOffOversteer": "Subitamente tirar o pé do acelerador numa curva em alta velocidade pode causar a perda de controle do veículo. Isso é chamado de sobresterçamento \"lift-off\".",
     "ui.hints.moonGravity": "Você pode simular a gravidade da lua no menu \"Ambiente\".",
     "ui.hints.notAllCarsCanRace": "Muitos veículos não são apropriados para uma direção inspirada ou corrida em suas formas originais. Melhoramentos estão disponíveis no Seletor de Partes  [action=parts_selector] 1.",
-    "ui.hints.oldCarsBurn": "Alguns carros antigos tem tendências a pegar fogo após uma batida, mas carros modernos são muito mais seguros.",
+    "ui.hints.oldCarsBurn": "Alguns carros antigos tem maior chance de pegar fogo após uma batida, mas carros modernos são muito mais seguros.",
     "ui.hints.parkingbrakeForTurning": "Use o freio de mão [action=parkingbrake] como um jeito rápido (e perigoso) de virar.",
     "ui.hints.photoModeMenu": "O menu do Modo Foto fornece controle avançado sobre a câmera e uma opção de upload direto da foto aos servidores do BeamNG.",
     "ui.hints.playMultiseat": "Conecte vários controles e jogue com seus amigos em casa, abrindo qualquer um dos cenários Multijogadores.",
