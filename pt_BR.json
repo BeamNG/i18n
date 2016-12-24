@@ -299,7 +299,7 @@
     "scenarios.driver_training.driver_training.training_driftB.drift.fail.msg": "Você chama isso de Drifting? Dê mais velocidade e ângulo! Sua Pontuação: {{score}}",
     "scenarios.driver_training.driver_training.training_driftB.drift.msg": "Bom trabalho, você pintou aquele bloco de derrapagem com borracha! Sua Pontuação: {{score}}",
     "scenarios.driver_training.driver_training.training_driftB.title": "Treinamento 11: Drifting",
-    "scenarios.driver_training.driver_training.training_easycircuit.damage.msg": "Este carro precisará de sérios trabalhos de reparo.",
+    "scenarios.driver_training.driver_training.training_easycircuit.damage.msg": "Este carro precisará de um sério conserto.",
     "scenarios.driver_training.driver_training.training_easycircuit.defaultWin": "Bem feito! Você passou o básico deste percurso. Agora podemos seguir em frente com técnicas de pilotagem mais avançadas.",
     "scenarios.driver_training.driver_training.training_easycircuit.description": "Eu fiz um circuito para você praticar o que aprendeu. Deve ser bem fácil: 2 voltas, sem surpresas.",
     "scenarios.driver_training.driver_training.training_easycircuit.nomove.msg": "Existe apenas um único cone neste percurso, e você conseguiu atingi-lo.",
