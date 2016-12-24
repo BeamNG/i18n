@@ -899,7 +899,7 @@
     "ui.environment.weather": "Clima",
     "ui.environment.windSpeed": "Velocidade do Vento",
     "ui.environment.zeroGravity": "Gravidade Zero",
-    "ui.faq": "Ajuda/Perguntas Frequentes",
+    "ui.faq": "Ajuda / Perguntas Frequentes",
     "ui.faq.changeCamera.a": "Pressione [action=switch_camera] para circular através das câmeras do veículo, ou [action=toggleCamera] para usar a câmera livre.",
     "ui.faq.changeCamera.q": "Como eu mudo a camera?",
     "ui.faq.changeVehicle.a": "Você pode usar o selecionador de veículo pelo painel usando [action=toggleMenues] 1 ou pressionando [action=vehicle_selector] 2.",
