@@ -40,7 +40,7 @@
     "campaigns.utah.chapter_2.roll.title": "Глава 2 инерция",
     "campaigns.utah.chapter_2.summaryHeading": "Поздравляем!",
     "campaigns.utah.chapter_2.summaryMessage": "Отлично! Теперь вы готовы перейти к следующей главе.",
-    "campaigns.utah.chapter_2.title": "Коменистый старт",
+    "campaigns.utah.chapter_2.title": "Каменистый старт",
     "engine.cef.subprocessdied.msg": "Обработка интерфейса не отвечает.\nЭто может происходить, если Антивирус блокирует приложение BeamNG.drive.ui.exe.\n\nВы можете получить больше информации здесь:\n\nhttp://wiki.beamng.com/Errors/Unresponsive_UI_Process\n\nХотите перейти по ссылке сейчас?",
     "engine.cef.subprocessdied.title": "Пользовательский интерфейс не отвечает",
     "engine.cef.subprocessdied.url": "http://wiki.beamng.com/Errors/Unresponsive_UI_Process",
