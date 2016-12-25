@@ -1336,7 +1336,7 @@
     "ui.options.units.torque": "Крутящий момент",
     "ui.options.units.volume": "Объём",
     "ui.options.units.weight": "Масса",
-    "ui.options.userInterface": "Пользовательский интерфейс",
+    "ui.options.userInterface": "Интерфейс",
     "ui.options.userInterface.creatorMode": "Режим создателя",
     "ui.options.userInterface.enableAdvanced": "Режим разработчика",
     "ui.options.userInterface.garageAutoSave": "Сохранять автомобили в гараже автоматически",
