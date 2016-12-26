@@ -818,6 +818,7 @@
     "ui.common.yes": "Kyllä",
     "ui.controls.configuration": "Konfiguraatio",
     "ui.controls.driverWarning": "Varoitus: jos laitteesi {{productName}} force feedbackissa on ongelmia, sinun kannattaa päivittää uusimpiin Logitechin ajureihin.",
+    "ui.controls.ffbHardwareMissing": "Ei voimapalautteeseen tarvittavaa välineistöä löydetty",
     "ui.controls.searchBasicBindings": "Hae perusnäppäimiä",
     "ui.credits.assistantenvArtists": "Avustavat ympäristötaiteilijat",
     "ui.credits.conceptArtists2D": "Konseptitaiteilijat - 2D",
