@@ -1337,6 +1337,7 @@
     "vehicle.drivetrain.shifterModeNameAutomatic": "Automaatti",
     "vehicle.drivetrain.shifterModeNameManual": "Manuaali",
     "vehicle.drivetrain.shifterModeNameManualAssist": "Manuaali (kytkinavustus)",
+    "vehicle.drivetrain.shifterModeNameRealistic": "Realistinen",
     "vehicle.drivetrain.shifterModeNameUnknown": "Tuntematon vaihdetila",
     "vehicle.drivetrain.stalled": "Moottori sammunut. Käynnistä pitämällä [action=clutch] ja [action=activateStarterMotor] pohjassa",
     "vehicle.drivetrain.usingHshifter": "H-vaihdinta käytettiin. Nyt käytössä: '{{shifterModeName | translate}}'",
