@@ -635,7 +635,7 @@
     "scenarios.utah.chapter_2.chapter_2_1_ram.description": "chapter_2_1_ram - completed if they knock the other car off the cliff but don't fall off themselves",
     "scenarios.utah.chapter_2.chapter_2_1_ram.pass.msg": "Hienosti tehty! Nyt se on pelkkää romumetallia.",
     "scenarios.utah.chapter_2.chapter_2_1_ram.title": "Covetin poisheitto",
-    "scenarios.utah.chapter_2.chapter_2_2_mixed.description": "Kisa vastustajaa vastaan läpi vaihtelevaa maastoa.",
+    "scenarios.utah.chapter_2.chapter_2_2_mixed.description": "Kisa vastustajan kanssa vaihtelevan maaston läpi.",
     "scenarios.utah.chapter_2.chapter_2_2_mixed.title": "chapter_2_2_mixed",
     "scenarios.utah.chapter_2.chapter_2_3_crawl.description": "chapter_2_3_crawl - yksinkertainen kisa vastustajan kanssa",
     "scenarios.utah.chapter_2.chapter_2_3_crawl.title": "chapter_2_3_crawl",
