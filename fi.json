@@ -645,7 +645,7 @@
     "scenarios.utah.chapter_2.chapter_2_5_roll.description": "chapter_2_5_roll - no brakes, handbrake, accelerator or gears, only steering and trying to travel the furthest distance, player needs to travel further than a specific distance in meters to get a higher time than the NPC, they can progress even if they fail however",
     "scenarios.utah.chapter_2.chapter_2_5_roll.title": "chapter_2_5_roll",
     "scenarios.utah.chapter_2.chapter_2_6_canyon.description": "Kovaotteinen kisa kapeiden kanjonisolien lävitse.",
-    "scenarios.utah.chapter_2.chapter_2_6_canyon.pass.msg": "Onnittelut! Se oli rankka kisa, mutta sinä teit sen!",
+    "scenarios.utah.chapter_2.chapter_2_6_canyon.pass.msg": "Onnittelut! Kisa oli rankka, mutta pääsit läpi!",
     "scenarios.utah.chapter_2.chapter_2_6_canyon.title": "chapter_2_6_canyon",
     "scenarios.utah.cinematic_chase.damage.msg": "Kolaroit autosi",
     "scenarios.utah.cinematic_chase.description": "Vauhdikas kamppailu aavikolla kahden saksalaisen luksusauton välillä",
