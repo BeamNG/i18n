@@ -1051,7 +1051,7 @@
     "ui.options.camera.relaxation": "Relaksaatio",
     "ui.options.camera.transitionTime": "Muutosaika",
     "ui.options.communityTranslationsAgree": "Hyväksy ja ota käyttöön",
-    "ui.options.currentLanguage": "Nykyinen Kieli",
+    "ui.options.currentLanguage": "Nykyinen kieli",
     "ui.options.gameplay": "Pelaaminen",
     "ui.options.gameplay.competitiveScenarios": "Skenaarion kilpailulliset olosuhteet",
     "ui.options.gameplay.controlOnBlur": "Salli ohjaaminen ja force feedback kun ikkuna ei päällimmäinen",
