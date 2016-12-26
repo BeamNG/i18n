@@ -666,6 +666,7 @@
     "scenarios.utha.chapter_2.chapter_2_5_roll.title": "chapter_2_5_roll",
     "scenarios.utha.chapter_2.chapter_2_6_canyon.description": "chapter_2_6_canyon - viimeinen kilpailu, yksinkertainen tieosuus, pelaaja voi edistyä vaikka häviäisikin, mutta näkee eri loppusarjakuvan",
     "scenarios.utha.chapter_2.chapter_2_6_canyon.title": "chapter_2_6_canyon",
+    "ui.actions.switchLeft": "Vaihda vasemmalle",
     "ui.apps.absdebug.name": "Abs-Debug",
     "ui.apps.aicontrol.name": "AI-hallinta",
     "ui.apps.automatic_gears.name": "Automaattivaihteet",
