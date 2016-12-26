@@ -800,7 +800,7 @@
     "ui.common.warning": "Varoitus",
     "ui.common.yes": "Kyllä",
     "ui.controls.configuration": "Konfiguraatio",
-    "ui.controls.driverWarning": "Varoitus: jos sinulla on ongelmia voimapalutteen kanssa, sinun ehkä täytyy päivittää uusimpaan Logitech-ajurin versioon.",
+    "ui.controls.driverWarning": "Varoitus: jos laitteesi {{productName}} force feedbackissa on ongelmia, sinun kannattaa päivittää uusimpiin Logitechin ajureihin.",
     "ui.credits.assistantenvArtists": "Avustavat ympäristötaiteilijat",
     "ui.credits.conceptArtists2D": "Konseptitaiteilijat - 2D",
     "ui.credits.customerSupport": "Asiakaspalvelu",
