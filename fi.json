@@ -754,6 +754,7 @@
     "ui.appselect.search": "Haku",
     "ui.appselect.selectAll": "Valitse kaikki",
     "ui.campaigns.end.missions": "Tehtävät",
+    "ui.color.colorPalette": "Väripaletti {{id}}",
     "ui.colorpicker.brightness": "Kirkkaus",
     "ui.colorpicker.chrominess": "Heijastavuus",
     "ui.colorpicker.colToPre": "Lisää väri esivalintoihin",
