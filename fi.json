@@ -1331,6 +1331,7 @@
     "vehicle.drivetrain.shifterModeNameManual": "Manuaali",
     "vehicle.drivetrain.shifterModeNameManualAssist": "Manuaali (kytkinavustus)",
     "vehicle.drivetrain.shifterModeNameUnknown": "Tuntematon vaihdetila",
+    "vehicle.drivetrain.stalled": "Moottori sammunut. Käynnistä pitämällä [action=clutch] ja [action=activateStarterMotor] pohjassa",
     "vehicle.drivetrain.usingHshifter": "H-vaihdinta käytettiin. Nyt käytössä: '{{shifterModeName | translate}}'",
     "vehicle.engine.blockMelted": "Sylinterilohko suli",
     "vehicle.engine.coolantOverheating": "Jäähdytysneste ylikuumenee",
