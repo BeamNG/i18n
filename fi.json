@@ -714,6 +714,7 @@
     "ui.apps.pedals_and_axis.name": "Polkimet ja akselit",
     "ui.apps.performance_timers.name": "Suorituskyvyn ajastimet",
     "ui.apps.pitch.name": "Nousukulma",
+    "ui.apps.powertrain_debug.name": "Voimansiirron havannointi",
     "ui.apps.precision_compass.name": "Tarkkuuskompassi",
     "ui.apps.race_check_points.name": "Kisan tarkastuspisteet",
     "ui.apps.race_realtime_display.name": "Kisan reaaliaikanäyttö",
