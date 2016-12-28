@@ -1088,7 +1088,7 @@
     "ui.faq.spawnVehicle.a": "Voit siirtyä ajoneuvovalikkoon käyttöliittymän kautta painamalla [action=toggleMenues] tai suoraan [action=vehicle_selector].",
     "ui.faq.spawnVehicle.q": "Kuinka lisään useampia ajoneuvoja?",
     "ui.faq.updateGame.a": "Steam päivittää pelin automaattisesti kun olet yhteydessä internettiin.[br] Saat lisätietoa tutustumalla wikisivustoomme [url=http://wiki.beamng.com/Updating_the_game]",
-    "ui.faq.updateGame.q": "Kuinka päivitän pelin?",
+    "ui.faq.updateGame.q": "Miten päivitän pelin?",
     "ui.faq.useMods.a": "Asennettuasi modin, löydät sen ajoneuvo- tai tasovalikosta.",
     "ui.faq.useMods.q": "Kuinka käytän modeja?",
     "ui.feedback.back": "Takaisin",
