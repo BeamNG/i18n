@@ -1577,7 +1577,7 @@
     "vehicle.drivetrain.engineDrying": "Moottori kuivuu vedestä ({{percent}}%)",
     "vehicle.drivetrain.engineFlooding": "Moottori täyttyy vedestä ({{percent}}%)",
     "vehicle.drivetrain.engineHydrolocked": "Moottori täyttyi vedestä",
-    "vehicle.drivetrain.fuelLeaking": "Polttoainevuoto",
+    "vehicle.drivetrain.fuelLeaking": "Polttoaine vuotaa",
     "vehicle.drivetrain.shifterModeChanged": "'{{shifterModeName | translate}}' vaihdetila käytössä",
     "vehicle.drivetrain.shifterModeNameArcade": "Arcade",
     "vehicle.drivetrain.shifterModeNameAutomatic": "Automaatti",
