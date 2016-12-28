@@ -482,7 +482,7 @@
     "scenarios.east_coast_usa.east_coast_chase_2.speed.msg": "Mainiota! Aikasi: {{time}}",
     "scenarios.east_coast_usa.east_coast_chase_2.title": "Itärannikon takaa-ajo 2",
     "scenarios.east_coast_usa.east_coast_chase_2.wayPointAction.msg": "Pysäytä rikollinen!",
-    "scenarios.east_coast_usa.gm_racetest.description": "Lyhyt pätkä pieniä hyppyjä",
+    "scenarios.east_coast_usa.gm_racetest.description": "Lyhyt sarja pieniä hyppyjä",
     "scenarios.east_coast_usa.gm_racetest.title": "Kisatesti",
     "scenarios.east_coast_usa.hidden_jump_a.description": "Haastava hyppy jyrkänteen reunaa ylöspäin",
     "scenarios.east_coast_usa.hidden_jump_a.title": "Piilotettu hyppyri",
