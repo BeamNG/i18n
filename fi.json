@@ -1484,7 +1484,7 @@
     "ui.scenarios.end.relativeToBest": "Suhteessa parhaaseen",
     "ui.scenarios.end.requirements": "Vaatimukset",
     "ui.scenarios.end.result": "Lopputulos",
-    "ui.scenarios.end.result.fail": "Epäonnituit",
+    "ui.scenarios.end.result.fail": "Hylätty",
     "ui.scenarios.end.result.success": "Onnistuit",
     "ui.scenarios.end.stats": "Tilastot",
     "ui.scenarios.end.yourScore": "Pisteesi",
