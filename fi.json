@@ -386,7 +386,7 @@
     "scenarios.driver_training.driver_training.training_cornering2.5.nomove.msg": "Näyttää siltä että saatat ajaa mutkan liian leveästi. Mene hitaammin, jos on tarvetta.",
     "scenarios.driver_training.driver_training.training_cornering2.5.timeLimit.msg": "Haluan sinun ajavan tätä nopeammin.",
     "scenarios.driver_training.driver_training.training_cornering2.5.title": "Harjoitus 2: Kaarreajo",
-    "scenarios.driver_training.driver_training.training_cornerspeedB.damage.msg": "Autot kääntyvät yleensä huonommin, kun niitä on kolhitty päin seiniä.",
+    "scenarios.driver_training.driver_training.training_cornerspeedB.damage.msg": "Autot kääntyvät huonommin, kun niitä on kolhittu",
     "scenarios.driver_training.driver_training.training_cornerspeedB.defaultWin": "Hyvää työtä! Huomaan että sinulla on jo hyvä käsitys nopeuden hallitsemisesta kaarteessa.",
     "scenarios.driver_training.driver_training.training_cornerspeedB.description": "Et voi ajaa joka mutkassa millä tahansa nopeudella: pysy kylttien nopeusrajoituksissa ja onnistuminen on taattu.",
     "scenarios.driver_training.driver_training.training_cornerspeedB.nomove.msg": "Osuit keilaan. Yritä pysyä kanttareiden välissä.",
