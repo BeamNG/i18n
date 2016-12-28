@@ -975,7 +975,7 @@
     "ui.controls.searchAllBindings": "Etsi kaikkia painikkeita",
     "ui.controls.searchBasicBindings": "Hae perusnäppäimiä",
     "ui.controls.showAdvancedBindings": "Näytä edistyneet painikkeet",
-    "ui.controls.showAdvancedExp": "Oletuksena vain peruspainikkeet ovat esillä. Ota käyttöön nähdäksesi kaikki",
+    "ui.controls.showAdvancedExp": "Oletuksena vain jotkut peruspainikkeet ovat esillä. Ota käyttöön nähdäksesi kaikki.",
     "ui.controls.usePhoneOrTablet": "Käytä puhelinta tai tablettia ajamiseen!",
     "ui.credits.assistantenvArtists": "Avustavat ympäristötaiteilijat",
     "ui.credits.conceptArtists2D": "Konseptitaiteilijat - 2D",
