@@ -399,7 +399,7 @@
     "scenarios.driver_training.driver_training.training_driftB.title": "Harjoitus 11: Drifting",
     "scenarios.driver_training.driver_training.training_easycircuit.damage.msg": "Tämä auto tulee tarvitsemaan mittavia korjaustöitä.",
     "scenarios.driver_training.driver_training.training_easycircuit.defaultWin": "Hyvää työtä! Olet läpäissyt kurssin perusosan. Nyt voimme siirtyä hieman edistyneempiin ajotekniikoihin.",
-    "scenarios.driver_training.driver_training.training_easycircuit.description": "Olen tehnyt sinulle radan, jossa voit harjoitella oppimiasi asioita. Sen pitäisi olla helppo: 2 kierrosta, ei yllätyksiä.",
+    "scenarios.driver_training.driver_training.training_easycircuit.description": "Olen tehnyt sinulle radan harjoitellaksesi oppimiasi asioita. Radan pitäisi olla helppo: 2 kierrosta, ei yllätyksiä",
     "scenarios.driver_training.driver_training.training_easycircuit.nomove.msg": "Koko radalla on vain yksi keila, ja onnistuit osumaan siihen.",
     "scenarios.driver_training.driver_training.training_easycircuit.timeLimit.msg": "Tuo oli hieman liian hidasta - älä pelkää viedä autoa lähemmäs rajoja!",
     "scenarios.driver_training.driver_training.training_easycircuit.title": "Harjoitus 6: Helppo rata",
