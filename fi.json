@@ -1148,7 +1148,7 @@
     "ui.hints.carsBurnFuel": "Autostasi voi loppua polttoaine pitkän ajon jälkeen. Muista katsoa polttoainemittaria!",
     "ui.hints.changeBrakePads": "Jos koet jarrutustehon häviötä, voit sovittaa paremmat jarrupalat osavalikosta [action=parts_selector].",
     "ui.hints.chooseDefaultVehicle": "Voit valita oletusajoneuvon ja muokata sitä: pitää vain mennä autotalliin!",
-    "ui.hints.chooseShiftingMode": "Vaihtaaksesi oletusvaihteistoa, mene kohteesen Asetukset > Pelaaminen",
+    "ui.hints.chooseShiftingMode": "Vaihtaaksesi oletusvaihteistoa, mene kohteeseen Asetukset > Pelaaminen",
     "ui.hints.corneringWithKeyboard": "Kun ajat kaarteessa näppäimistollä, naputa toistuvasti [action=steer_left] tai [action=steer_right] hallitaksesi ohjauksen kulmaa paremmin ja ehkäistäksesi aliohjautumista.",
     "ui.hints.countersteerEarly": "Jos ajoneuvo alkaa heittelehtiä puolelta toiselle, yritä ohjata vastaan aikaisemmin ja nopeammin. Ratin (tai peliohjaimen) käyttö on hyvin suositeltavaa.",
     "ui.hints.cruiseControlApp": "Pitkiä, rentoja maantiematkoja varten voit lisätä \"Vakionopeudensäädin\"- käyttöliittymäsovelluksen. Se toimii kaikissa autoissa!",
