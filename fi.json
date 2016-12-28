@@ -402,7 +402,7 @@
     "scenarios.driver_training.driver_training.training_easycircuit.description": "Olen tehnyt sinulle radan, jossa voit harjoitella oppimiasi asioita. Sen pitäisi olla helppo: 2 kierrosta, ei yllätyksiä.",
     "scenarios.driver_training.driver_training.training_easycircuit.nomove.msg": "Koko radalla on vain yksi keila, ja onnistuit osumaan siihen.",
     "scenarios.driver_training.driver_training.training_easycircuit.timeLimit.msg": "Tuo oli hieman liian hidasta - älä pelkää viedä autoa lähemmäs rajoja!",
-    "scenarios.driver_training.driver_training.training_easycircuit.title": "Harjoittelu 6: Helppo rata",
+    "scenarios.driver_training.driver_training.training_easycircuit.title": "Harjoitus 6: Helppo rata",
     "scenarios.driver_training.driver_training.training_hairpins3.5.damage.msg": "Hm, pitääkö meidän palata ensimmäiseen harjoitukseen?",
     "scenarios.driver_training.driver_training.training_hairpins3.5.defaultWin": "Pakko myöntää, tuo näytti melko siistiltä.",
     "scenarios.driver_training.driver_training.training_hairpins3.5.description": "Kuinka kääntää auto ympäri nopeasti ahtaassa paikassa? Vedä käsijarrusta luisuaksesi U-käännöksen ympäri, juuri niin kuin elokuvissa.",
