@@ -597,7 +597,7 @@
     "scenarios.hirochi_raceway.training_hairpins.timeLimit.msg": "Aikaa kului yli {{timeLimit}} s",
     "scenarios.hirochi_raceway.training_hairpins.title": "Harjoitus 3: Neulansilmät",
     "scenarios.hirochi_raceway.training_slalom_FWD.description": "Tämä rata testaa etuvedon käsittelytaitojasi",
-    "scenarios.hirochi_raceway.training_slalom_FWD.nomove.msg": "Osuit keilaan! Yritä pitää yllä tasaista nopeutta ja kääntyä sulavasti.",
+    "scenarios.hirochi_raceway.training_slalom_FWD.nomove.msg": "Osuit keilaan! Yritä ylläpitää tasaista nopeutta ja kääntyä rauhallisemmin.",
     "scenarios.hirochi_raceway.training_slalom_FWD.timeLimit.msg": "Aika loppui! Yritä uudelleen hieman nopeammin.",
     "scenarios.hirochi_raceway.training_slalom_FWD.title": "Harjoitus 8: Pujottelu etuvedolla",
     "scenarios.hirochi_raceway.training_spin_recovery.description": "Tämä opettaa sinulle, kuinka estetään takavetoinen auto pyörähtämästä ympäri",
