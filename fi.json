@@ -747,7 +747,7 @@
     "scenarios.utah.chapter_2.chapter_2_4_delivery.title": "Varaosien kuljetus",
     "scenarios.utah.chapter_2.chapter_2_5_roll.description": "Rullaa niin pitkälle kuin pääset käyttämällä vain ohjauspyörää - ei jarruja, ei moottoria.",
     "scenarios.utah.chapter_2.chapter_2_5_roll.fail.msg": "Luotan että pystyt parempaan kuin tuo.",
-    "scenarios.utah.chapter_2.chapter_2_5_roll.pass.msg": "Olet osannut hyvin, kun olet päässyt näin pitkälle.",
+    "scenarios.utah.chapter_2.chapter_2_5_roll.pass.msg": "Olet osannut hyvin, kun pääsit näin pitkälle.",
     "scenarios.utah.chapter_2.chapter_2_5_roll.title": "Painovoimakisa",
     "scenarios.utah.chapter_2.chapter_2_6_canyon.description": "Kovaotteinen kisa kapeiden kanjonisolien lävitse.",
     "scenarios.utah.chapter_2.chapter_2_6_canyon.fail.msg": "Aiotko todella päästää hänet noin helpolla?",
