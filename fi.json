@@ -1084,7 +1084,7 @@
     "ui.faq.installMods.a": "Lataa .zip ajoneuvosta tai tasosta jonka haluat asentaa. Siirrä zip hakemistoon [h1]My Documents\\BeamNG.drive\\mods[/h1]. Älä pura tiedostoa. Lisätietoja- ja ohjeita löytyy [url=http://www.beamng.com/threads/guide-to-mod-installation.12872/]wikistä[/url].",
     "ui.faq.installMods.q": "Minne asennan modit?",
     "ui.faq.mapEditor.a": "Karttaeditoriin pääsee painamalla [action=toggleEditor] kun peli on ikkunatilassa",
-    "ui.faq.mapEditor.q": "Miten avaan kartanmuokkaimen?",
+    "ui.faq.mapEditor.q": "Kuinka avaan karttaeditorin?",
     "ui.faq.spawnVehicle.a": "Voit siirtyä ajoneuvovalikkoon käyttöliittymän kautta painamalla [action=toggleMenues] tai suoraan [action=vehicle_selector].",
     "ui.faq.spawnVehicle.q": "Kuinka lisään useampia ajoneuvoja?",
     "ui.faq.updateGame.a": "Steam päivittää pelin automaattisesti kun olet yhteydessä internettiin.[br] Saat lisätietoa tutustumalla wikisivustoomme [url=http://wiki.beamng.com/Updating_the_game]",
