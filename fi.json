@@ -1479,7 +1479,7 @@
     "ui.quickrace.tracks.lapsChangeable": "Kierrosmäärä vaihdettavissa",
     "ui.quickrace.tracks.reversible": "Kaksisuuntainen",
     "ui.scenarios.end.freeroam": "Vapaa-ajo",
-    "ui.scenarios.end.passFailRatio": "Läpäisty / Hylätty",
+    "ui.scenarios.end.passFailRatio": "Onnistunut / Epäonnistunut",
     "ui.scenarios.end.points": "Pisteet",
     "ui.scenarios.end.relativeToBest": "Suhteessa parhaaseen",
     "ui.scenarios.end.requirements": "Vaatimukset",
