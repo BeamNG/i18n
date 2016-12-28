@@ -1602,7 +1602,7 @@
     "vehicle.main.instability": "Epävakaus havaittu ajoneuvossa {{vehicle}}: palautetaan ajoneuvo ja pysäytetään fysiikat",
     "vehicle.recovery.end": "Ajoneuvo palautettu (ei voida palauttaa kauemmaksi)",
     "vehicle.recovery.loadHome": "Ajoneuvo palautettu alkupisteeseen",
-    "vehicle.recovery.quick": "Ajoneuvo palautettu (pidä pohjassa palauttaaksesi kauemmas)",
+    "vehicle.recovery.quick": "Ajoneuvo palautettu (...)",
     "vehicle.recovery.recovered": "Ajoneuvo palautettu",
     "vehicle.recovery.recovering": "Ajoneuvon palautus käynnissä...",
     "vehicle.recovery.saveHome": "Ajoneuvon sijainti päivitetty (käytä [action=loadHome] palauttaaksesi)",
