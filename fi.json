@@ -91,7 +91,7 @@
     "engine.editor.menu.postfxManager": "PostEffect-hallinta",
     "engine.editor.menu.quit": "Lopeta",
     "engine.editor.menu.redo": "Tee uudelleen",
-    "engine.editor.menu.resetSelRot": "Palauta valittu käätyminen",
+    "engine.editor.menu.resetSelRot": "Nollaa valittu rotaatio",
     "engine.editor.menu.resetSelScale": "Palauta valittu mittakaava",
     "engine.editor.menu.saveLevel": "Tallenna taso",
     "engine.editor.menu.saveLevelAs": "Tallenna taso nimellä...",
