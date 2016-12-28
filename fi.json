@@ -421,7 +421,7 @@
     "scenarios.driver_training.driver_training.training_rwd.nomove.msg": "Katso niitä keiloja! Muista että tämä auto ei ohjaudu aivan yhtä hyvin kuin jotkut muut mitä olet ajanut.",
     "scenarios.driver_training.driver_training.training_rwd.timeLimit.msg": "Tässä autossa on V8-moottori, jossa runsaasti tehoa... Käytä sitä!",
     "scenarios.driver_training.driver_training.training_rwd.title": "Harjoitus 9: Takavedon käsittely",
-    "scenarios.driver_training.driver_training.training_slalom.damage.msg": "Näköjään minun olisi pitänyt pystyttää muurit kauemmaksi!",
+    "scenarios.driver_training.driver_training.training_slalom.damage.msg": "Luulen, että minun olisi pitänyt siirtää muurit kauemmaksi!",
     "scenarios.driver_training.driver_training.training_slalom.defaultWin": "Hyvää työtä! Väistit keilat kuin ammattilainen.",
     "scenarios.driver_training.driver_training.training_slalom.description": "Pujotteluratoja on vaikea hallita. Hae tunnetta auton painoon kun mutkittelet keilojen välissä",
     "scenarios.driver_training.driver_training.training_slalom.nomove.msg": "Tönäisit keilaa tuolla taaempana, otapa uusi yritys.",
