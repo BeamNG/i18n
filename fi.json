@@ -683,7 +683,7 @@
     "scenarios.utah.chapter_1.chapter_1_crawl.damage.msg": "Tuhosit auton ajassa {{timeStr}}",
     "scenarios.utah.chapter_1.chapter_1_crawl.description": "Kiipeä kukkulan päälle, ylittäen sarjan vaativia esteitä.",
     "scenarios.utah.chapter_1.chapter_1_crawl.fail.msg": "Et läpäissyt vähintään yhtä osuutta",
-    "scenarios.utah.chapter_1.chapter_1_crawl.pass.msg": "Hyvä yritys\n",
+    "scenarios.utah.chapter_1.chapter_1_crawl.pass.msg": "Hyvä yritys",
     "scenarios.utah.chapter_1.chapter_1_crawl.timeLimit.msg": "Käytit yli {{timeLimit}} sekuntia aikaa",
     "scenarios.utah.chapter_1.chapter_1_crawl.title": "Ryömintä",
     "scenarios.utah.chapter_1.chapter_1_drag.description": "Vaikea kisa tehokasta mutta huonosti pidettyä muskeliautoa vastaan.",
