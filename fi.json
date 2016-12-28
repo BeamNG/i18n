@@ -831,7 +831,7 @@
     "ui.apps.json_dump.name": "JSON-tyhjennys",
     "ui.apps.log_all_available_streams.name": "Kirjaa kaikki saatavilla olevat virrat",
     "ui.apps.messages.name": "Viestit",
-    "ui.apps.navigation.name": "Suunnistus",
+    "ui.apps.navigation.name": "Navigaatio",
     "ui.apps.node_beam_info.name": "Node/Beam info",
     "ui.apps.odometer.name": "Matkamittari",
     "ui.apps.pedals_and_axis.name": "Polkimet ja akselit",
