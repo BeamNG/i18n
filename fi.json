@@ -810,7 +810,7 @@
     "ui.apps.digital_speedometer.name": "Digitaalinen nopeusmittari",
     "ui.apps.digital_tachometer.name": "Digitaalinen kierroslukumittari",
     "ui.apps.engine_damage_app.name": "Moottorin vahinkosovellus",
-    "ui.apps.engine_debug.name": "Moottorin vianetsintä",
+    "ui.apps.engine_debug.name": "Moottorin Debug",
     "ui.apps.engine_dynamometer.name": "Moottorin dynamometri",
     "ui.apps.engine_heat_debug_graph.name": "Moottorilämmön Debug-kuvaaja",
     "ui.apps.engine_thermal_debug.name": "Moottorilämmön Debug",
