@@ -967,7 +967,7 @@
     "ui.controls.ffbHardwareMissing": "Force Feedback ohjauslaitteistoa ei löytynyt",
     "ui.controls.firewallError": "Peli näyttäisi olevan estetty Windowsin palomuurissa.",
     "ui.controls.hardware": "Laitteisto",
-    "ui.controls.hint1": "Vihje: Pidä ajurit ajan tasalla ja ota \"yhdistetyt polkimet\" pois päältä Windowsin ohjauspaneelista (jos saatavilla)",
+    "ui.controls.hint1": "Vihje: Pidä ajurit aina ajan tasalla ja ota \"yhdistetyt polkimet\" pois päältä Windowsin ohjauspaneelista (jos saatavilla)",
     "ui.controls.hint2": "Vihje: Voit asettaa hiiren ohjaustoimintoon (tai mihin tahansa muuhun) 'Painikkeet' -valikosta",
     "ui.controls.iosQRCode": "Skannaa alla oleva QR-koodi tai paina nappia IOS-sovelluksessa.",
     "ui.controls.remotControlApp": "Etäohjaussovellus",
