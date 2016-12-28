@@ -715,7 +715,7 @@
     "scenarios.utah.chapter_1.chapter_1_rubberband.timeLimit.msg": "Sinulla kesti yli {{timeLimit}} sekuntia",
     "scenarios.utah.chapter_1.chapter_1_rubberband.title": "Kuminauha",
     "scenarios.utah.chapter_1.chapter_1_suspension.description": "Kisaa haasteellisen maaston läpi ja ota jousitus koetukselle.",
-    "scenarios.utah.chapter_1.chapter_1_suspension.fail.msg": "Et onnistunut läpäisemään rataa",
+    "scenarios.utah.chapter_1.chapter_1_suspension.fail.msg": "Et onnistunut läpäisemäään rataa",
     "scenarios.utah.chapter_1.chapter_1_suspension.followpath.fail.msg": "Et onnistunut läpäisemään rataa.",
     "scenarios.utah.chapter_1.chapter_1_suspension.pass.msg": "Rata läpäisty",
     "scenarios.utah.chapter_1.chapter_1_suspension.timeLimit.msg": " Käytit enemmän kuin {{timeLimit}} sekuntia",
