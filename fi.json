@@ -431,7 +431,7 @@
     "scenarios.driver_training.driver_training.training_tightroad.defaultWin": "Läpäisit radan... vaikka en kylläkään sanoisi ETK 800-sarjaa hankalaksi ajettavaksi.",
     "scenarios.driver_training.driver_training.training_tightroad.description": "Hallitset siis vasemmalle kääntymisen taidon, mutta osaatko ajaa kapeaa tietä pitkin? ETK on lainannut meille yhden testiautoistaan - pidä huolta siitä.",
     "scenarios.driver_training.driver_training.training_tightroad.nomove.msg": "Osuit merkkiin - laitoin ne sinne ettet oikaisisi, kuten tiedät.",
-    "scenarios.driver_training.driver_training.training_tightroad.timeLimit.msg": "Jos aiot matkustaa noin hitaasti, luulen ettei auton käyttäminen ole välttämätöntä.",
+    "scenarios.driver_training.driver_training.training_tightroad.timeLimit.msg": "Jos aiot matkustaa noin hitaasti, luulen että auto ei ole edes tarpeellinen.",
     "scenarios.driver_training.driver_training.training_tightroad.title": "Harjoitus 3: Tiukka tierata",
     "scenarios.driver_training.safety_training.training_mu_braking.description": " ",
     "scenarios.driver_training.safety_training.training_mu_braking.nomove.msg": "Älä osu keiloihin...",
