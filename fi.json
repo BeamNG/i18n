@@ -511,7 +511,7 @@
     "scenarios.east_coast_usa.rallycross_nd_long_a1.title": "Rallicross pitkä reitti",
     "scenarios.east_coast_usa.tanker_delivery.damage.msg": "Perävaunu vaurioitui",
     "scenarios.east_coast_usa.tanker_delivery.description": "Toimita säiliövaunu huoltamolle kaupungissa",
-    "scenarios.east_coast_usa.tanker_delivery.distance.msg": "Sinä menetit perävaunun!",
+    "scenarios.east_coast_usa.tanker_delivery.distance.msg": "Menetit perävaunusi!",
     "scenarios.east_coast_usa.tanker_delivery.title": "Säiliöauton kuljetus",
     "scenarios.east_coast_usa.tanker_delivery.wayPointAction.wp1.msg": "Nouda perävaunu",
     "scenarios.east_coast_usa.tanker_delivery.wayPointAction.wp2.msg": "Peruuta hitaasti ja kiinnitä perävaunu",
