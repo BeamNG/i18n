@@ -1287,7 +1287,7 @@
     "ui.options.gameplay": "Pelaaminen",
     "ui.options.gameplay.autoClutch": "Kytkinavustus",
     "ui.options.gameplay.autoThrottle": "Kaasuavustus",
-    "ui.options.gameplay.competitiveScenarios": "Skenaarion kilpailullisuus",
+    "ui.options.gameplay.competitiveScenarios": "Skenaarion kilpailulliset ehdot",
     "ui.options.gameplay.controlOnBlur": "Salli ohjaaminen ja force feedback kun ikkuna ei päällimmäinen",
     "ui.options.gameplay.defaultGearboxBehavior": "Vaihdelaatikon oletuskäytös",
     "ui.options.gameplay.defaultToCurrentVehicle": "Aseta nykyinen ajoneuvo oletusajoneuvoksi",
