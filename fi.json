@@ -1174,7 +1174,7 @@
     "ui.hints.playMultiseat": "Kytke useampi ohjain ja pelaa kavereiden kanssa kotona, avaamalla minkä tahansa paikallismoninpeliä tukevan skenaarion.",
     "ui.hints.publishScreenshots": "Jos pidät autosi kuvaamisesta, voit käyttää [action=hide_ui] käyttöliittymän piilottamiseen ja sitten [action=publishScreenShot] lähettääksesi kuvan.",
     "ui.hints.quickCameraMovement": "Paina [action=movefast] pohjaan, että kamera liikkuu nopeammin (kaikki kamerat eivät tue tätä).",
-    "ui.hints.quickSteerResponse": "Jotta ohjaus reagoisi nopeammin, kokeile eri suodattimia [action=steer_left] ja [action=steer_right] -toimintoihin.",
+    "ui.hints.quickSteerResponse": "Jotta ohjaus reagoisi nopeammin, kokeile eri suodattimia [action=steer_left] ja [action=steer_right] -toimintoihin",
     "ui.hints.raceBrakesEffectiveness": "Kilpajarrut menettävät tehoa ollessaan liian kylmiä.",
     "ui.hints.recoverVehicle": "Jos ajoneuvosi jumiutuu, paina [action=recover_vehicle] palauttaaksesi sen.",
     "ui.hints.removeRearSeats": "Tee ajoneuvostasi nopeampi poistamalla tarpeeton paino, kuten takaistuimet, käyttäen osanvalitsinta [action=parts_selector].",
