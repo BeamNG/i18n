@@ -742,7 +742,7 @@
     "scenarios.utah.chapter_2.chapter_2_3_crawl.title": "Joenuomakisa",
     "scenarios.utah.chapter_2.chapter_2_4_delivery.cargoFellOff.fail.msg": "Arvostan vaivannäköäsi, mutta koetathan olla tuhoamatta lastia?",
     "scenarios.utah.chapter_2.chapter_2_4_delivery.description": "Auta kuljettamaan kaverin varaosat paikan päälle.",
-    "scenarios.utah.chapter_2.chapter_2_4_delivery.fail.msg": "Nämä osat täytyy toimittaa todellakin!",
+    "scenarios.utah.chapter_2.chapter_2_4_delivery.fail.msg": "Nämä osat todellakin täytyy toimittaa!",
     "scenarios.utah.chapter_2.chapter_2_4_delivery.pass.msg": "Kiitokset osien toimittamisesta. Nyt voin viimeinkin lähteä liikkeelle.",
     "scenarios.utah.chapter_2.chapter_2_4_delivery.title": "Varaosien kuljetus",
     "scenarios.utah.chapter_2.chapter_2_5_roll.description": "Rullaa niin pitkälle kuin pääset käyttämällä vain ohjauspyörää - ei jarruja, ei moottoria.",
