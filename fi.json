@@ -1366,7 +1366,7 @@
     "ui.options.utilities": "Apuohjelmat",
     "ui.options.utilities.g27ShiftLed": "Logitech G27:n vaihteenvaihdon merkkivalot",
     "ui.options.utilities.outgaugeSupport": "OutGauge-tuki",
-    "ui.perforamnce.benchmark.realtime": "Reaaliaika",
+    "ui.perforamnce.benchmark.realtime": "Normaali nopeus",
     "ui.perforamnce.improvements": "Suorituskyvyn parantaminen",
     "ui.performance": "Suorituskyky",
     "ui.performance.acknowledge": "Hyväksy",
