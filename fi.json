@@ -649,7 +649,7 @@
     "scenarios.small_island.cop_chase.description": "Tee Pessima vaarattomaksi Sunburst-poliisiautollasi.",
     "scenarios.small_island.cop_chase.distance.msg": "Epäilty pääsi karkuun",
     "scenarios.small_island.cop_chase.speed.msg": "Hyvä suoritus! Aikasi: {{time}}",
-    "scenarios.small_island.cop_chase.title": "PikkuSaaren Takaa-ajo",
+    "scenarios.small_island.cop_chase.title": "Pienen Saaren takaa-ajo",
     "scenarios.small_island.cop_chase.wayPointAction.wayPointMsg": "Pysäytä Pessima!",
     "scenarios.small_island.intro_rally_stage1.description": "Johdatteleva rallietappi",
     "scenarios.small_island.intro_rally_stage1.title": "Pienen Saaren ralli - Osuus 1",
