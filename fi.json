@@ -1223,7 +1223,7 @@
     "ui.loading.spawn.sky": "Muodostetaan pilviä",
     "ui.loading.spawn.sound": "Aiheutetaan melua",
     "ui.loading.spawn.static": "Rakennetaan rakennuksia",
-    "ui.loading.spawn.terrain": "Lapioidaan maata",
+    "ui.loading.spawn.terrain": "Lapioidaan multaa",
     "ui.loading.spawn.time": "Luodaan päivä ja yö",
     "ui.loading.spawn.vehicles": "Valmistellaan moottoreita",
     "ui.loading.spawn.water": "Kaadetaan vettä",
