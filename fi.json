@@ -463,7 +463,7 @@
     "scenarios.east_coast_usa.deliverytruck_takedown.description": "Pysäytä vaarallinen kuorma-auto!",
     "scenarios.east_coast_usa.deliverytruck_takedown.distance.msg": "Jouduit liian kauas epäillystä",
     "scenarios.east_coast_usa.deliverytruck_takedown.speed.msg": "Mainiota! Aikasi: {{time}}",
-    "scenarios.east_coast_usa.deliverytruck_takedown.title": "Kuljetusauton pysäytys",
+    "scenarios.east_coast_usa.deliverytruck_takedown.title": "Kuorma-auton pysäytys",
     "scenarios.east_coast_usa.deliverytruck_takedown.wayPointAction.msg": "Pysäytä kuorma-auto",
     "scenarios.east_coast_usa.destroy_the_car.damage.msg": "Romutit Moonhawkin ajassa {{timeStr}}",
     "scenarios.east_coast_usa.destroy_the_car.description": "Tuhoa Moonhawk, maksoi mitä maksoi",
