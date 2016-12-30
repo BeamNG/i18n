@@ -668,6 +668,7 @@
     "ui.common.skip": "Passer",
     "ui.common.sortBy": "Trier par",
     "ui.controls.configuration": "Configuration",
+    "ui.controls.driverWarning": "Attention: si vous avez des problèmes avec le retour de force de {{NomProduit}}, vous devez probablement mettre à jour pour le pilote le plus récent de Logitect",
     "ui.credits.assistantenvArtists": "Assistant des artistes des Environnements",
     "ui.credits.conceptArtists2D": "Artistes Concept 2D",
     "ui.credits.customerSupport": "Support Client",
