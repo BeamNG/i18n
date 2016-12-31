@@ -691,7 +691,7 @@
     "ui.common.sortBy": "Trier par",
     "ui.controls.configuration": "Configuration",
     "ui.controls.driverWarning": "Attention: si vous avez des problèmes avec le retour de force de votre {{productName}}, vous pourriez avoir à mettre à jour le pilote Logitech vers sa version la plus récente.",
-    "ui.controls.ffbHardwareMissing": "Pas de périphérique avec retour de force trouvé",
+    "ui.controls.ffbHardwareMissing": "Aucun périphérique avec retour de force trouvé",
     "ui.controls.searchBasicBindings": "Rechercher contrôles classiques",
     "ui.credits.assistantenvArtists": "Assistant des artistes des Environnements",
     "ui.credits.conceptArtists2D": "Artistes Concept 2D",
