@@ -622,6 +622,7 @@
     "ui.apps.replay.name": "Replay",
     "ui.apps.roll.name": "Roulis",
     "ui.apps.speedometer.name": "Compteur de Vitesse",
+    "ui.apps.tacho2.name": "Compteur de vitesse 2",
     "ui.apps.turbo_activity_graph.name": "Graph Activité Turbo",
     "ui.apps.vehicleDebug.breakAll": "Casser tout les breakgroups",
     "ui.apps.vehicleDebug.breakHinges": "Casser toute les charnières",
