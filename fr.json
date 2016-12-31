@@ -72,7 +72,7 @@
     "extensions.scenario.speedGoal.fail.msg": "Vous n'avez pas atteint la vitesse requise",
     "extensions.scenario.speedGoal.win.msg": "bien joué  {{time}}",
     "extensions.scenario.timeLimit.failedGoal": "vous avez mis plus de {{maxTime}}",
-    "levels.Cliff.info.biome": "tempéré, falaise, prairie",
+    "levels.Cliff.info.biome": "tempéré, falaises, prairies",
     "levels.Cliff.info.description": "Gigantesque falaise à 60 degrés , conçue pour casser des voitures",
     "levels.Cliff.info.features": "Une île avec de dangereux ravins",
     "levels.Cliff.info.roads": "pas de routes",
