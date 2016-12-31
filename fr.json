@@ -556,7 +556,7 @@
     "scenarios.utah.chapter_1.chapter_1_suspension.followpath.fail.msg": "Vous n'avez pas réussi à finir la course.",
     "scenarios.utah.chapter_1.chapter_1_suspension.timeLimit.msg": " Vous avez mis plus de {{timeLimit}} secondes",
     "scenarios.utah.chapter_1.chapter_1_suspension.title": "Suspension",
-    "scenarios.utah.chapter_1.chapter_1_walljump.description": "Sauter à travers une fente et un mur en pierre.",
+    "scenarios.utah.chapter_1.chapter_1_walljump.description": "Sautez au dessus du vide et traversez un mur de briques.",
     "scenarios.utah.chapter_1.chapter_1_walljump.fail.msg": "Vous n'avez pas cassé le mur !",
     "scenarios.utah.chapter_1.chapter_1_walljump.title": "Saut dans le mur",
     "scenarios.utah.chapter_1.chapter_1_walljump.win.msg": "Joli saut ! Vous êtes passé à travers.",
