@@ -1138,6 +1138,7 @@
     "vehicle.bdebug.disabled": "Tracé de débogage désactivé",
     "vehicle.bdebug.enabled": "Débogage tracé activé",
     "vehicle.bdebug.meshVisibility": "Visibilité de l'objet modifiée : {{visibilityPercent}}%",
+    "vehicle.bdebug.nodeTextMode.names": "Noms",
     "vehicle.bdebug.nodeTextMode.names+numbers": "Noms et nombres",
     "vehicle.bdebug.nodeTextMode.numbers": "Nombres",
     "vehicle.bdebug.nodeVisMode.density": "Densité",
