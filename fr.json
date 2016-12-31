@@ -1012,6 +1012,7 @@
     "ui.perforamnce.improvements": "Amélioration basique des performances",
     "ui.performance": "Performance",
     "ui.performance.benchmark": "Physique Benchmark",
+    "ui.performance.benchmark.isRunningNote": "Veuillez patienter : Le benchmark est en cours d'exécution.[br]Cela durera une minute.",
     "ui.performance.benchmark.notavailable": "Le test de performances ne peut être lancé qu'à partir de l'écran d'accueil sans aucun niveau ou véhicule chargé.",
     "ui.performance.benchmark.run": "Run Physique Benchmark",
     "ui.performance.benchmark.testVehicle": "Tester le véhicule",
