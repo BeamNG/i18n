@@ -1107,6 +1107,7 @@
     "vehicle.engine.rodBearingsDamaged": "Roulements de bielle endommagés",
     "vehicle.engine.starvedOfOil": "Le moteur est en manque d'huile",
     "vehicle.fire.fuelTankRuptured": "Réservoir de carburant endommagé",
+    "vehicle.main.instability": "Instabilité détectée pour le véhicule {{vehicle}} : réinitialisation du véhicule et désactivation de la physique",
     "vehicle.recovery.end": "Véhicule réparé (impossible d'aller plus loin)",
     "vehicle.recovery.loadHome": "Véhicule restauré à la position initiale",
     "vehicle.recovery.quick": "Véhicule réparé (maintenez pour aller plus loin)",
