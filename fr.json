@@ -1103,6 +1103,7 @@
     "vehicle.bullettime.change": "Temps ralentit {{slowmoTimes}} fois",
     "vehicle.bullettime.realtime": "Temps réel",
     "vehicle.drivetrain.shifterModeNameArcade": "Arcade",
+    "vehicle.drivetrain.stalled": "Le moteur est arrêté, tenir [action=clutch] et [action=activateStarterMotor] pour le démarrer",
     "vehicle.drivetrain.usingHshifter": "Le levier de vitesse en H a été utilisé. '{{shifterModeName | translate}}' maintenant utilisé",
     "vehicle.engine.headGasketDamaged": "Joint de culasse endommagé",
     "vehicle.engine.rodBearingsDamaged": "Roulements de bielle endommagés",
