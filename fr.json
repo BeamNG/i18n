@@ -607,6 +607,7 @@
     "ui.apps.escstiffness.name": "Rigidité de l'ESP",
     "ui.apps.forced_induction_debug.name": "Déboggage Admission Forcée",
     "ui.apps.g-forces.name": "g",
+    "ui.apps.gearbox_debug.name": "Debug boite de vitesse",
     "ui.apps.gears.name": "Vitesses",
     "ui.apps.indicated_airspeed.name": "Vitesse Air Indiquée",
     "ui.apps.log_all_available_streams.name": "Archiver tous les flux de données disponibles",
