@@ -527,6 +527,7 @@
     "scenarios.utah.chapter_1.chapter_1_drag.pass.msg": "Course terminée",
     "scenarios.utah.chapter_1.chapter_1_drag.title": "course d'accélération",
     "scenarios.utah.chapter_1.chapter_1_highway.description": "Passage d'un barrage en force.",
+    "scenarios.utah.chapter_1.chapter_1_highway.fail.msg": "Vous devez passer le barrage",
     "scenarios.utah.chapter_1.chapter_1_highway.timeLimit.msg": "Vous avez mis plus de {{timeLimit}} secondes",
     "scenarios.utah.chapter_1.chapter_1_highway.title": "Voie Rapide",
     "scenarios.utah.chapter_1.chapter_1_hilldrop.description": "Chapitre 1: Descente - Statistiques: dégâts subis, distance parcourue, score: distance parcourue, (Allez le plus loin possible en 20 secondes (délai !!), échec: pas de mouvement détécté sur la zone de départ pendant 10 secondes",
