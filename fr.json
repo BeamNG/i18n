@@ -236,6 +236,7 @@
     "scenarios.derby.variedground_derby.description": "La dernière voiture en mouvement gagne. Casse les voitures de vos amis tout en prenant soin de votre propre voiture !",
     "scenarios.derby.variedground_derby.title": "Demolition Derby - Plasticien Rez-de-Arena",
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.damage.msg": "où allez-vous ? La zone de test est dans l'autre direction !",
+    "scenarios.driver_training.driver_training.training_acceleration_braking1.5.defaultWin": "Alors vous pouvez conduire comme un pro en ligne droite ? Regardons comment vous vous débrouillez dans les virages...",
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.description": "Bienvenue à l'ETK Driver Experience. Mon nom est Mike et je vais être votre instructeur pour cette course. Commencer gentiment, tout ce que vous avez à faire c'est accélérer, puis vous arrêter avant de percuter les barrières. Soyez sûr de freiner au moment où vous atteignez les panneaux stop! ",
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.nomove.msg": "Ça ne se verra pas. Réessayez et soyez plus prudent s'il vous plaît !",
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.position.msg": "Vous avez manqué la zone de freinage",
