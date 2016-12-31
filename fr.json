@@ -1104,6 +1104,7 @@
     "vehicle.bdebug.meshVisibility": "Visibilité de l'objet modifiée : {{visibilityPercent}}%",
     "vehicle.bdebug.nodeTextMode.names+numbers": "Noms et nombres",
     "vehicle.bdebug.nodeVisMode.density": "Densité",
+    "vehicle.bdebug.nodeVisMode.velocities": "Vélocités",
     "vehicle.bdebug.nodeVisMode.weights": "Poids",
     "vehicle.bdebug.trisOff": "Tracé des Triangles de Collision désactivé",
     "vehicle.bdebug.trisOn": "Affichage des Triangles de Collision activé",
