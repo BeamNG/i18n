@@ -589,6 +589,7 @@
     "ui.apps.aicontrol.name": "Contrôle IA",
     "ui.apps.automatic_gears.name": "Boîte de vitesse automatique",
     "ui.apps.brake_thermal_debug.name": "Débogage Température des Freins",
+    "ui.apps.brake_torque_graph.name": "Graphique de couple des freins",
     "ui.apps.categories.debug": "Débugage",
     "ui.apps.categories.info": "Info",
     "ui.apps.categories.racing": "Courses",
