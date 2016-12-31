@@ -520,6 +520,7 @@
     "scenarios.utah.chapter_1.chapter_1_cannon.timeLimit.msg": "Vous avez mis plus de {{timeLimit}} secondes",
     "scenarios.utah.chapter_1.chapter_1_cannon.title": "Canon",
     "scenarios.utah.chapter_1.chapter_1_cliffjump.description": "Atteignez le bas de la falaise le plus rapidement possible.",
+    "scenarios.utah.chapter_1.chapter_1_cliffjump.pass.msg": "Niveau minimum atteint.",
     "scenarios.utah.chapter_1.chapter_1_cliffjump.timeLimit.msg": "Vous n'avez pas quitté le sommet en moins de  {{failureTime}} secondes!",
     "scenarios.utah.chapter_1.chapter_1_cliffjump.title": "La Descente de la Falaise",
     "scenarios.utah.chapter_1.chapter_1_crawl.damage.msg": "Vous avez détruit la voiture en {{timeStr}}",
