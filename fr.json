@@ -1112,6 +1112,7 @@
     "vehicle.bullettime.realtime": "Temps réel",
     "vehicle.drivetrain.shifterModeNameArcade": "Arcade",
     "vehicle.drivetrain.shifterModeNameRealistic": "Réaliste",
+    "vehicle.drivetrain.shifterModeNameUnknown": "Mode de changement de vitesse inconnu",
     "vehicle.drivetrain.stalled": "Le moteur est arrêté, maintenez [action=clutch] et [action=activateStarterMotor] appuyé pour le démarrer",
     "vehicle.drivetrain.usingHshifter": "Le levier de vitesse en H a été utilisé. '{{shifterModeName | translate}}' maintenant utilisé",
     "vehicle.engine.headGasketDamaged": "Joint de culasse endommagé",
