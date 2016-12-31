@@ -444,7 +444,7 @@
     "scenarios.hirochi_raceway.training_hairpins.position.msg": "Vous n'êtes pas dans la zone de freinage…",
     "scenarios.hirochi_raceway.training_hairpins.timeLimit.msg": "vous avez pris plus de {{timeLimit}} secondes",
     "scenarios.hirochi_raceway.training_hairpins.title": "Stage Sécurité  3: Le virage en épingle",
-    "scenarios.hirochi_raceway.training_slalom_FWD.description": "Ce cours permettra de tester vos compétences de roue avant de manutention d'entraînement",
+    "scenarios.hirochi_raceway.training_slalom_FWD.description": "Cette course va tester vos compétences sur une traction avant",
     "scenarios.hirochi_raceway.training_slalom_FWD.nomove.msg": "Vous avez touché un cône ! Essayez de garder une vitesse constante et de manœuvrer en douceur.",
     "scenarios.hirochi_raceway.training_slalom_FWD.timeLimit.msg": "Temps écoulé ! Réessayez avec un peu plus de vitesse.",
     "scenarios.hirochi_raceway.training_slalom_FWD.title": "Stage Sécurité  8: Slalom Avec une Traction",
