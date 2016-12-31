@@ -1069,7 +1069,7 @@
     "ui.performance.warnings.oldwin7": "N'exécute pas une version 64 bits : le système d'exploitation est plus vieux que Windows 7 Service Pack 1 : Veuillez mettre à niveau Windows",
     "ui.performance.warnings.oswin8": "Windows 8 recommandé : version x86 mode compatibilité exécutée pour l'instant",
     "ui.performance.warnings.remotedesktop": "Vous utilisez le Bureau à Distance",
-    "ui.performance.warnings.thirdpartysoftware": "N'exécute pas une version 64 bits : Programme Lavasoft détecté. Plus d'informations & solution ici : [url=http://wiki.beamng.com/Lavasoft]wiki.beamng.com/Lavasoft[/url]",
+    "ui.performance.warnings.thirdpartysoftware": "Le programme n'est pas lancé en 64 bits: Programme Lavasoft détecté. Plus d'informations & solution ici : [url=http://wiki.beamng.com/Lavasoft]wiki.beamng.com/Lavasoft[/url]",
     "ui.photomode.advancedImgSettings": "Réglages d'image avancé",
     "ui.photomode.blureCurveFar": "Courbe de flou éloignée",
     "ui.photomode.cameraSpeed": "Vitesse de la caméra",
