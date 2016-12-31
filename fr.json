@@ -944,6 +944,7 @@
     "ui.options.gameplay": "Options de jeu",
     "ui.options.gameplay.competitiveScenarios": "Conditions réelle du scénario",
     "ui.options.gameplay.controlOnBlur": "Laisser le contrôleur et le retour de force actifs même lorsque que le focus est hors de la fenêtre du jeu",
+    "ui.options.gameplay.defaultGearboxBehavior": "Comportement par défaut de la boîte de vitesses",
     "ui.options.gameplay.defaultToCurrentVehicle": "Définir le véhicule actuel par défaut",
     "ui.options.gameplay.enginesPreheated": "Démarrer le véhicules avec un moteurs préchauffées",
     "ui.options.gameplay.gameplay": "Options de jeu",
