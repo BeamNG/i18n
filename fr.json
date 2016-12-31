@@ -961,6 +961,7 @@
     "ui.options.camera.relaxation": "Relaxation",
     "ui.options.camera.transitionTime": "Temps de transition",
     "ui.options.communityTranslations": "Traductions de la communauté ",
+    "ui.options.communityTranslationsAckText": "Les traductions sont créées par la communauté. BeamNG n'est pas responsable pour la traduction (inappropriée ou incorrecte). A n'utiliser qu'à votre propre risque.",
     "ui.options.communityTranslationsAgree": "Accepter & activer",
     "ui.options.currentLanguage": "Langage Actuel",
     "ui.options.gameplay": "Options de jeu",
