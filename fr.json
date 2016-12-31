@@ -406,7 +406,7 @@
     "scenarios.hirochi_raceway.dialog_test.fail.time.msg": "Vous avez mis plus de {{timeLimit}} secondes",
     "scenarios.hirochi_raceway.dialog_test.title": "Test de dialogue",
     "scenarios.hirochi_raceway.forgotten_raceway.description": "Une course autour d'une partie très ancienne et envahie par la végétation du circuit Hirochi Raceway",
-    "scenarios.hirochi_raceway.forgotten_raceway.title": "Forgotten Raceway",
+    "scenarios.hirochi_raceway.forgotten_raceway.title": "Route oubliée",
     "scenarios.hirochi_raceway.gm_racetest.description": "Une petite série de petit sauts",
     "scenarios.hirochi_raceway.gm_racetest.title": "Hirochi Quickrace test",
     "scenarios.hirochi_raceway.intro_fullcircuit.description": "Un circuit autour de l'île",
