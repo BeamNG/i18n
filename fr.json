@@ -675,6 +675,7 @@
     "ui.common.property.createdAt": "Création",
     "ui.common.property.difficulty": "Difficulté",
     "ui.common.property.goals": "Buts",
+    "ui.common.property.map": "Carte",
     "ui.common.property.multiseatPlayers": "Joueurs Multijoueur",
     "ui.common.realistic": "Réaliste",
     "ui.common.reset": "Reset",
