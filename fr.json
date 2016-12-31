@@ -1045,6 +1045,7 @@
     "ui.performance.benchmark.vehicles": "Véhicules",
     "ui.performance.cpu": "Processeur (CPU)",
     "ui.performance.gpu": "Carte graphique (GPU)",
+    "ui.performance.improvements.lighting": "Réduire l'éclairage",
     "ui.performance.improvements.resolution": "Diminuez la résolution dans",
     "ui.performance.improvements.ssao": "Désactiver l'Occlusion Ambiance dans",
     "ui.performance.improvements.textures": "Réduisez la qualité des textures dans",
