@@ -1060,7 +1060,7 @@
     "ui.performance.warnings.freememlow": "Moins de 2 GB de mémoire physique disponible. Fermez des applications ou redémarrez.",
     "ui.performance.warnings.geforcemin": "Une GeForce 550 au minimum est requise",
     "ui.performance.warnings.gpulowmem": "Votre processeur graphique possède moins de 512 Mo de mémoire vidéo",
-    "ui.performance.warnings.gpurecmem": "Au minimum 2048 Mo de mémoire est recommandé",
+    "ui.performance.warnings.gpurecmem": "Au minimum 2048 Mo de mémoire ram est recommandé",
     "ui.performance.warnings.intelgpu": "Vous utilisez un processeur graphique Intel. Assurez-vous d'utiliser le processeur praphique dédiée à sa place.",
     "ui.performance.warnings.minmem": "Moins de 4B de mémoire : Pas assez de mémoire système pour charger certains niveaux",
     "ui.performance.warnings.missing64binary": "N'exécute pas la version 64 Bit : version 64 Bit manquante : Veuillez réinstaller",
