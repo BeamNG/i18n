@@ -33,6 +33,7 @@
     "engine.cef.subprocessdied.title": "Le processus de l'interface utilisateur ne répond pas",
     "engine.cef.subprocessdied.url": "http://wiki.beamng.com/Errors/Unresponsive_UI_Process",
     "engine.editor.menu.createBlankTerrain": "Creer un niveau vide",
+    "engine.editor.menu.deselect": "Déselectionner",
     "engine.editor.menu.exitLevel": "Sortir du niveau",
     "engine.editor.menu.exportTerrainHeightmap": "Exporter la Heightmap du terrain",
     "engine.editor.menu.exportToCollada": "Exporter en COLLADA...",
