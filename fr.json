@@ -760,6 +760,7 @@
     "ui.apps.digital_speedometer.name": "Compteur de vitesse digital",
     "ui.apps.engine_damage_app.name": "App Dégats Moteur",
     "ui.apps.engine_debug.name": "Débogage Moteur",
+    "ui.apps.engine_dynamometer.name": "Dynamomètre Moteur",
     "ui.apps.engine_heat_debug_graph.name": "Débogage graphique température moteur",
     "ui.apps.engine_thermal_debug.name": "Débogage Température Moteur",
     "ui.apps.engineinfo.name": "InfoMoteur",
