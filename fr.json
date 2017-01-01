@@ -1075,6 +1075,7 @@
     "ui.goals.position": "Positionnement",
     "ui.goals.speed": "Vitesse",
     "ui.goals.timeLimit": "Limite de temps",
+    "ui.goals.wayPointAction": "Action du WayPoint",
     "ui.hints.TrackIRSupported": "BeamNG.drive supporte le dispositif de suivi de tête TrackIR, il suffit de le brancher et de lancer le jeu !",
     "ui.hints.absWasOptional": "l'ABS n'a pas toujours été obligatoire. Les vieilles voitures nécessitent des techniques de freinage plus prudentes pour les garder sous contrôle.",
     "ui.hints.adaptToBadRoads": "Les vieilles routes avec des bosses, les parties goudronnées et les bosses vont limiter votre vitesse dans les virages. Vous aurez besoin d'adapter votre vitesse en fonction des conditions de la route.",
