@@ -40,6 +40,7 @@
     "engine.editor.menu.alignCenter": "Aligner au centre",
     "engine.editor.menu.belowCamera": "Caméra du dessous",
     "engine.editor.menu.createBlankTerrain": "Créer un niveau vide",
+    "engine.editor.menu.cut": "Couper",
     "engine.editor.menu.deselect": "Déselectionner",
     "engine.editor.menu.dropSel": "Lacher la sélection",
     "engine.editor.menu.editorSettings": "Réglages éditeur...",
