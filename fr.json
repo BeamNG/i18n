@@ -913,6 +913,7 @@
     "ui.feedback.leaveMessage": "Merci d'entrer votre message ici",
     "ui.feedback.submit": "Soumettre",
     "ui.garage.exit": "Sortir du garage",
+    "ui.garage.load.emptyHint": "Configurez et sauvegardez vos propres voitures pour les faire apparaître dans cette liste",
     "ui.garage.load.loadCar": "Charger une voiture",
     "ui.garage.paint.base": "Couleurs prédéfinies",
     "ui.garage.paint.customize": "Changer la couleur",
