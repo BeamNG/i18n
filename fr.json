@@ -595,7 +595,7 @@
     "scenarios.utah.chapter_2.chapter_2_2_mixed.description": "Une course contre un adversaire sur un terrain varié.",
     "scenarios.utah.chapter_2.chapter_2_2_mixed.title": "chapter_2_2_mixed",
     "scenarios.utah.chapter_2.chapter_2_3_crawl.description": "chapter_2_3_crawl - a simple race against an opponent",
-    "scenarios.utah.chapter_2.chapter_2_3_crawl.title": "Chapitre_2_3_crawl",
+    "scenarios.utah.chapter_2.chapter_2_3_crawl.title": "Course dans la rivière",
     "scenarios.utah.chapter_2.chapter_2_4_delivery.description": "chapter_2_4_delivery - you need to delivery an item to a location (basically just drive to a checkpoint, no timer)",
     "scenarios.utah.chapter_2.chapter_2_4_delivery.title": "Livraison des pièces",
     "scenarios.utah.chapter_2.chapter_2_5_roll.description": "chapter_2_5_roll - no brakes, handbrake, accelerator or gears, only steering and trying to travel the furthest distance, player needs to travel further than a specific distance in meters to get a higher time than the NPC, they can progress even if they fail however",
