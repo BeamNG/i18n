@@ -576,6 +576,7 @@
     "ui.playmodes.comingSoon": "Binnenkort",
     "ui.playmodes.freeroam": "Vrij rijden",
     "ui.playmodes.scenarios": "Scenario's",
+    "ui.quickrace.setting": "Instellingen",
     "ui.scenarios.end.yourScore": "Jouw score",
     "ui.scenarios.start.trainingScenario": "Trainingsscenario",
     "ui.unit.ltr100": "Liter/100km",
@@ -597,5 +598,6 @@
     "vehicle.bullettime.realtime": "Echte tijd",
     "vehicle.drivetrain.usingHshifter": "H-shifter is gebruikt. Nu in gebruik: '{{shifterModeName | translate}}'",
     "vehicle.recovery.loadHome": "Voertuig teruggeplaatst op begin positie",
+    "vehicle.recovery.recovered": "Voertuig hersteld",
     "vehicle.recovery.saveHome": "Voertuig positie geupdated (gebruik [action=loadHome] om het terug te draaien)"
 }
