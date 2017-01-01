@@ -1352,6 +1352,7 @@
     "vehicle.bdebug.nodeTextMode.numbers": "Nombres",
     "vehicle.bdebug.nodeTextMode.off": "Off",
     "vehicle.bdebug.nodeVisMode.density": "Densité",
+    "vehicle.bdebug.nodeVisMode.forces": "Forces",
     "vehicle.bdebug.nodeVisMode.simple": "Simple",
     "vehicle.bdebug.nodeVisMode.velocities": "Vélocités",
     "vehicle.bdebug.nodeVisMode.weights": "Poids",
