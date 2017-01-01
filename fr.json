@@ -1088,7 +1088,7 @@
     "ui.options.communityTranslationsAgree": "Accepter & activer",
     "ui.options.currentLanguage": "Langage Actuel",
     "ui.options.gameplay": "Options de jeu",
-    "ui.options.gameplay.autoClutch": "Embrayage automatique",
+    "ui.options.gameplay.autoClutch": "Assistant d'embrayage",
     "ui.options.gameplay.autoThrottle": "Assistant d'accélération",
     "ui.options.gameplay.competitiveScenarios": "Conditions réelle du scénario",
     "ui.options.gameplay.controlOnBlur": "Laisser le contrôleur et le retour de force actifs même lorsque que la fenêtre du jeu est en arrière plan",
