@@ -49,6 +49,7 @@
     "engine.editor.menu.importTerrainHeightmap": "Importer la Heightmap du terrain",
     "engine.editor.menu.lighting": "Éclairage",
     "engine.editor.menu.lockSelection": "Verrouiller la sélection",
+    "engine.editor.menu.negXAxis": "Axe -X",
     "engine.editor.menu.negZAxis": "Axe -Z",
     "engine.editor.menu.newLevel": "Nouveau niveau",
     "engine.editor.menu.object": "Objet",
