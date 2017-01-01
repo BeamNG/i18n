@@ -285,6 +285,7 @@
     "scenarios.driver_training.driver_training.training_hairpins3.5.nomove.msg": "Vous n'avez pas tout à fait réalisé ce virage proprement - Je vois que vous avez heurté un obstacle.",
     "scenarios.driver_training.driver_training.training_hairpins3.5.timeLimit.msg": "Temps écoulé ! Il va falloir finir plus vite que ça.",
     "scenarios.driver_training.driver_training.training_hairpins3.5.title": "Stage Sécurité  4.1: Virages en épingle (version 2)",
+    "scenarios.driver_training.driver_training.training_lanechange.damage.msg": "Notre assurance ne va pas être contente de ça...",
     "scenarios.driver_training.driver_training.training_lanechange.description": "Changer de voies à grande vitesse exige d'être doux avec la direction. Serez-vous capable de garder le contrôle d'une supercar des années 80 ?",
     "scenarios.driver_training.driver_training.training_lanechange.nomove.msg": "Vous avez touché un cône ! Essayez de rester entre les vibreurs.",
     "scenarios.driver_training.driver_training.training_lanechange.timeLimit.msg": "Vous êtes supposé conduire à grande vitesse, n'est-ce-pas ?",
