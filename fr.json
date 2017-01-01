@@ -640,7 +640,7 @@
     "scenarios.utah.chapter_1.chapter_1_highway.fail.msg": "Vous devez passer la barrage routier",
     "scenarios.utah.chapter_1.chapter_1_highway.timeLimit.msg": "Vous avez mis plus de {{timeLimit}} secondes",
     "scenarios.utah.chapter_1.chapter_1_highway.title": "Voie Rapide",
-    "scenarios.utah.chapter_1.chapter_1_hilldrop.description": "Chapitre 1: Descente - Statistiques: dégâts subis, distance parcourue, score: distance parcourue, (Allez le plus loin possible en 20 secondes (délai !!), échec: pas de mouvement détécté sur la zone de départ pendant 10 secondes",
+    "scenarios.utah.chapter_1.chapter_1_hilldrop.description": "Précipitez un semi-remorque du haut d'une colline et traversez le canyon aussi loin que vous pouvez en 20 secondes.",
     "scenarios.utah.chapter_1.chapter_1_hilldrop.fail.msg": "Vous n'avez pas bougé dans les 10 secondes",
     "scenarios.utah.chapter_1.chapter_1_hilldrop.pass.msg": "Bien joué !",
     "scenarios.utah.chapter_1.chapter_1_hilldrop.timeLimit.msg": "vous avez mis plus de{{timeLimit}} secondes",
