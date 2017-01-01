@@ -734,6 +734,7 @@
     "ui.actions.spawn": "Placer voiture",
     "ui.actions.switchLeft": "Décaler à gauche",
     "ui.actions.switchRight": "Décaler à droite",
+    "ui.apps.absdebug.name": "DébogageABS",
     "ui.apps.aicontrol.name": "ContrôleIA",
     "ui.apps.automatic_gears.name": "Boîte de vitesse automatique",
     "ui.apps.brake_thermal_debug.name": "Débogage Température Freins",
