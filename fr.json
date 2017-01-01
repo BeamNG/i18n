@@ -390,6 +390,7 @@
     "scenarios.driver_training.driver_training.training_lanechange.nomove.msg": "J'ai vu un cône renversé... Ça veut dire que vous êtes sorti de la piste !",
     "scenarios.driver_training.driver_training.training_lanechange.timeLimit.msg": "Vous êtes supposé conduire à grande vitesse, n'est-ce-pas ?",
     "scenarios.driver_training.driver_training.training_lanechange.title": "Entrainement 4: Changement de voie",
+    "scenarios.driver_training.driver_training.training_rwd.damage.msg": "Cette voiture aura vraiment besoin de réparations avant de pouvoir être conduite à nouveau. ",
     "scenarios.driver_training.driver_training.training_rwd.defaultWin": "Bon travail ! Vous commencez vraiment à vous y habituer.",
     "scenarios.driver_training.driver_training.training_rwd.description": "La Bruckell Moonhawk se pilote comme un bateau, alors si déjà vous parvenez à finir un tour de ce circuit du premier coup, vous faites mieux que la plupart de mes élèves.",
     "scenarios.driver_training.driver_training.training_rwd.nomove.msg": "Vous avez touché un cône ! Essayez de rester sur la route.",
