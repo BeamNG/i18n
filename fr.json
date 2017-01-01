@@ -101,6 +101,7 @@
     "extensions.scenario.speedGoal.countdown": "{{countdown}}...",
     "extensions.scenario.speedGoal.fail.msg": "Vous n'avez pas atteint la vitesse requise",
     "extensions.scenario.speedGoal.win.msg": "Bien joué ! Votre temps: {{time}}",
+    "extensions.scenario.timeLimit.checkTime.countdown": "{{countdown}}...",
     "extensions.scenario.timeLimit.failedGoal": "vous avez mis plus de {{maxTime}}",
     "levels.Cliff.info.biome": "tempéré, falaises, prairies",
     "levels.Cliff.info.description": "Une gigantesque falaise à 60 degrés, conçue pour casser des voitures",
