@@ -647,6 +647,7 @@
     "ui.apps.messages.name": "Messages",
     "ui.apps.navigation.name": "Navigation",
     "ui.apps.pitch.name": "Inclinaison",
+    "ui.apps.powertrain_debug.name": "Visualisation transmission",
     "ui.apps.precision_compass.name": "Précision du compas",
     "ui.apps.race_check_points.name": "Checkpoints Course",
     "ui.apps.race_realtime_display.name": "Vue de la Course en Temps Réel",
