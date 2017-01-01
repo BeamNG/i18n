@@ -64,6 +64,7 @@
     "engine.editor.menu.openLevel": "Ouvrir un niveau...",
     "engine.editor.menu.placeCameraPlayer": "Placer une caméra sur le joueur",
     "engine.editor.menu.playLevel": "Jouer",
+    "engine.editor.menu.posXAxis": "Axe +X",
     "engine.editor.menu.postfxManager": "PostEffect Manager",
     "engine.editor.menu.quit": "Quitter",
     "engine.editor.menu.resetSelRot": "Réinitialiser la rotation sélectionnée",
