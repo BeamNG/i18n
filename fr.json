@@ -1191,6 +1191,7 @@
     "ui.unit.ltr100": "Litres/100km",
     "ui.unit.m": "Mètres",
     "ui.unit.mi": "Miles",
+    "ui.unit.mpg": "Miles par Gallon",
     "ui.unit.psi": "PSI",
     "ui.vehicleconfig.color": "Couleur",
     "ui.vehicleconfig.filename": "Nom du fichier",
