@@ -1242,6 +1242,7 @@
     "ui.quickrace.tod": "Heure",
     "ui.quickrace.tod.afternoon": "Après-midi",
     "ui.quickrace.tod.earlyNoon": "Fin d'après-midi",
+    "ui.quickrace.tod.evening": "Soir",
     "ui.quickrace.tod.lateNoon": "Fin de matinée",
     "ui.quickrace.tod.morning": "Matin",
     "ui.quickrace.tod.night": "Nuit",
