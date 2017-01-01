@@ -63,6 +63,7 @@
     "engine.editor.menu.unlockSelection": "Débloquer la Sélection",
     "engine.editor.menu.xAxis": "Axe X",
     "engine.editor.menu.yAxis": "Axe Y",
+    "engine.editor.menu.zAxis": "Axe Z",
     "engine.engineFail": "Échec de l'initialisation du jeu, fermeture.",
     "engine.invalidUserpath.msg": "BeamNG.drive ne peut pas accéder à \"UserPath\" défini dans le fichier startup.ini (dossier du jeu). Changer pour un chemin d'accès valide: ",
     "engine.invalidUserpath.title": "Chemin d'accès utilisateur non valide",
