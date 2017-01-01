@@ -624,6 +624,7 @@
     "scenarios.utah.cinematic_chase.damage.msg": "Vous avez accidenté votre voiture",
     "scenarios.utah.cinematic_chase.description": "Un duel à grande vitesse entre deux voitures de luxe Allemandes dans le désert",
     "scenarios.utah.cinematic_chase.distance.msg": "Le méchant s'est enfui",
+    "scenarios.utah.cinematic_chase.speed.msg": "Bien joué ! Votre temps : {{time}}",
     "scenarios.utah.cinematic_chase.title": "Poursuite Cinématique",
     "scenarios.utah.downhill_rally.description": "Un long parcours de rallye dans l'Utah",
     "scenarios.utah.downhill_rally.title": "Descente en Rallye",
