@@ -579,7 +579,7 @@
     "scenarios.utah.chapter_1.chapter_1_crawl.fail.msg": "Vous n'avez même pas réussi une seule étape",
     "scenarios.utah.chapter_1.chapter_1_crawl.timeLimit.msg": "Vous avez mis plus de {{timeLimit}} secondes",
     "scenarios.utah.chapter_1.chapter_1_crawl.title": "Crawl",
-    "scenarios.utah.chapter_1.chapter_1_drag.description": "",
+    "scenarios.utah.chapter_1.chapter_1_drag.description": "Une course de dragsters difficile contre une muscle car puissante mais néanmoins mal entretenue.",
     "scenarios.utah.chapter_1.chapter_1_drag.pass.msg": "Course terminée",
     "scenarios.utah.chapter_1.chapter_1_drag.title": "Course Dragster",
     "scenarios.utah.chapter_1.chapter_1_highway.description": "Passage d'un barrage en force.",
