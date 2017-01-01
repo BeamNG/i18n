@@ -113,7 +113,7 @@
     "levels.driver_training.info.description": "Terrain d'entainement situé de Allemagne",
     "levels.driver_training.info.title": "ETK Driver Training Facility (Piste d'entrainement à la conduite ETK)",
     "levels.driver_training.roads": "",
-    "levels.driver_training.suitablefor": "vide",
+    "levels.driver_training.suitablefor": "Course d'entrainement",
     "levels.dry_rock_island.info.features": "site industriel, port, routes de montagne en terre",
     "levels.dry_rock_island.info.roads": "40% asphalt, 30% route de terre, 30% trails et routes industrielles",
     "levels.dry_rock_island.info.suitablefor": "rally, livraison",
