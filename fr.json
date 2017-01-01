@@ -1198,6 +1198,7 @@
     "ui.options.graphics.GraphicDynReflectionDistance": "Distance",
     "ui.options.graphics.GraphicDynReflectionFacesPerupdate": "Fréquence de mise à jour",
     "ui.options.graphics.GraphicDynReflectionTexsize": "Netteté des textures",
+    "ui.options.graphics.GraphicGrassDensity": "Densité de l'herbe",
     "ui.options.graphics.GraphicLightingQuality": "Qualité de l'éclairage",
     "ui.options.graphics.GraphicPostfxQuality": "Qualité du Post-traitement",
     "ui.options.graphics.GraphicShaderQuality": "Qualité des ombres",
