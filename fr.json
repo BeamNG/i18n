@@ -642,6 +642,7 @@
     "scenarios.utah.chapter_1.chapter_1_drag.title": "Course Dragster",
     "scenarios.utah.chapter_1.chapter_1_highway.description": "Passage d'un barrage en force.",
     "scenarios.utah.chapter_1.chapter_1_highway.fail.msg": "Vous devez passer la barrage routier",
+    "scenarios.utah.chapter_1.chapter_1_highway.pass.msg": "Barrage passé",
     "scenarios.utah.chapter_1.chapter_1_highway.timeLimit.msg": "Vous avez mis plus de {{timeLimit}} secondes",
     "scenarios.utah.chapter_1.chapter_1_highway.title": "Voie Rapide",
     "scenarios.utah.chapter_1.chapter_1_hilldrop.description": "Précipitez un semi-remorque du haut d'une colline dans un canyon aussi loin que vous pouvez en 20 secondes.",
