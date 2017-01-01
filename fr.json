@@ -168,6 +168,7 @@
     "levels.menu.info.title": "Menu",
     "levels.port.info.description": "Un port industriel abandonné.",
     "levels.port.info.features": "Zone Portuaire abandonnée",
+    "levels.port.info.roads": "70% asphalte, 30% terre",
     "levels.port.info.title": "Port",
     "levels.small_island.info.biome": "tempéré",
     "levels.small_island.info.description": "Routes goudronnées rapides et quelque pistes en terre techniques",
