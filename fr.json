@@ -1136,6 +1136,7 @@
     "ui.mainmenu.options": "Options",
     "ui.mainmenu.play": "Jouer",
     "ui.mainmenu.repo": "Mods",
+    "ui.mainmenu.warningdetails": "Cliquez ici pour les détails et pour confirmer avoir pris connaissance",
     "ui.modmanager.activate": "Activer",
     "ui.modmanager.activateAll": "Activer tous les Mods",
     "ui.modmanager.active": "Activé",
