@@ -636,7 +636,7 @@
     "scenarios.utah.chapter_1.chapter_1_suspension.description": "Chapitre 1: Suspension - Statistiques: temps pris, dommages reçus, score = (temps pris + dégâts reçus), échec: n'a pas terminé tous les points de contrôle",
     "scenarios.utah.chapter_1.chapter_1_suspension.fail.msg": "Vous n'avez pas réussi à terminer la course",
     "scenarios.utah.chapter_1.chapter_1_suspension.followpath.fail.msg": "Vous n'avez pas réussi à finir la course.",
-    "scenarios.utah.chapter_1.chapter_1_suspension.pass.msg": "Cours terminé",
+    "scenarios.utah.chapter_1.chapter_1_suspension.pass.msg": "Course terminée",
     "scenarios.utah.chapter_1.chapter_1_suspension.timeLimit.msg": " Vous avez mis plus de {{timeLimit}} secondes",
     "scenarios.utah.chapter_1.chapter_1_suspension.title": "Suspension",
     "scenarios.utah.chapter_1.chapter_1_walljump.description": "Sautez au dessus du vide et traversez un mur de briques.",
