@@ -759,6 +759,7 @@
     "ui.apps.steering_position.name": "Position de la direction",
     "ui.apps.tacho2.name": "CompteurVitesse2",
     "ui.apps.tcs_activity_graph.name": "Activité Graph TCS",
+    "ui.apps.torquecurve.name": "Courbe de couple",
     "ui.apps.trip_computer.name": "Ordinateur de bord",
     "ui.apps.turbo_activity_graph.name": "Graphique activité Turbo",
     "ui.apps.vehicleDebug.breakAll": "Casser tout",
