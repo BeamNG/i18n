@@ -1456,6 +1456,7 @@
     "vehicle.drivetrain.deviceBroken": "{{deviceName}} cassé",
     "vehicle.drivetrain.driveshaftBroken": "Arbre de transmission cassé",
     "vehicle.drivetrain.engineHydrolocked": "Moteur noyé",
+    "vehicle.drivetrain.shifterModeChanged": "Mode de transmission actuel : '{{shifterModeName | translate}}'",
     "vehicle.drivetrain.shifterModeNameArcade": "Arcade",
     "vehicle.drivetrain.shifterModeNameManualAssist": "Réaliste (Assistant d'embrayage)",
     "vehicle.drivetrain.shifterModeNameRealistic": "Réaliste",
