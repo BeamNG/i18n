@@ -898,6 +898,7 @@
     "ui.controls.ffb": "Retour de force",
     "ui.controls.ffbConfigMissing": "Aucune configuration de retour de force trouvée",
     "ui.controls.ffbHardwareMissing": "Aucun périphérique avec retour de force trouvé",
+    "ui.controls.firewallError": "Le jeu semble être bloqué par le pare-feu Windows",
     "ui.controls.hardware": "Périphériques",
     "ui.controls.hint1": "Conseil: Installez toujours le dernier driver et désactivez les pédales combinés dans les paramètres de votre volant (si disponible)",
     "ui.controls.hint2": "Conseil: vous pouvez aussi assigner la souris comme \"volant\" (ou n'importe quelle autre action) dans le menu \"Commandes\"",
