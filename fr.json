@@ -573,6 +573,7 @@
     "scenarios.utah.chapter_1.chapter_1_suspension.title": "Suspension",
     "scenarios.utah.chapter_1.chapter_1_walljump.description": "Sautez au dessus du vide et traversez un mur de briques.",
     "scenarios.utah.chapter_1.chapter_1_walljump.fail.msg": "Vous n'avez pas cassé le mur !",
+    "scenarios.utah.chapter_1.chapter_1_walljump.timeLimit.msg": "Vous avez mis plus de {{timeLimit}} secondes",
     "scenarios.utah.chapter_1.chapter_1_walljump.title": "Saut dans le mur",
     "scenarios.utah.chapter_1.chapter_1_walljump.win.msg": "Joli saut ! Vous êtes passé à travers.",
     "scenarios.utah.chapter_2.chapter_2_0_comics_test.description": "chapter_2_0_comictest - comic test",
