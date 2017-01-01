@@ -776,6 +776,7 @@
     "ui.common.filters": "Filtres",
     "ui.common.finish": "Terminé",
     "ui.common.fooOrBar": "{{ foo }} ou {{ bar }}",
+    "ui.common.info": "Info",
     "ui.common.menu": "Menu",
     "ui.common.next": "Suivant",
     "ui.common.no": "Non",
