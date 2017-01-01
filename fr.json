@@ -1167,6 +1167,7 @@
     "ui.performance.warnings.powerdisconnected": "Alimentation non connectée",
     "ui.performance.warnings.remotedesktop": "Vous utilisez le bureau à distance",
     "ui.performance.warnings.thirdpartysoftware": "Le programme n'est pas lancé en 64 bits: Programme Lavasoft détecté. Plus d'informations & solution ici : [url=http://wiki.beamng.com/Lavasoft]wiki.beamng.com/Lavasoft[/url]",
+    "ui.performance.warnings.win8rec": "Windows 8 est recommendé",
     "ui.photomode.advancedImgSettings": "Réglages image avancé",
     "ui.photomode.blureCurveFar": "Blur Curve Far",
     "ui.photomode.cameraSpeed": "Vitesse de la caméra",
