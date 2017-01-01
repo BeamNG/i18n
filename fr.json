@@ -607,6 +607,7 @@
     "scenarios.utah.chapter_2.chapter_2_4_delivery.fail.msg": "Ces pièces ont vraiment besoin d'être livrées !",
     "scenarios.utah.chapter_2.chapter_2_4_delivery.title": "Livraison des pièces",
     "scenarios.utah.chapter_2.chapter_2_5_roll.description": "chapter_2_5_roll - no brakes, handbrake, accelerator or gears, only steering and trying to travel the furthest distance, player needs to travel further than a specific distance in meters to get a higher time than the NPC, they can progress even if they fail however",
+    "scenarios.utah.chapter_2.chapter_2_5_roll.fail.msg": "Je suis sur que tu peux faire mieux que ça.",
     "scenarios.utah.chapter_2.chapter_2_5_roll.title": "chapter_2_5_roll",
     "scenarios.utah.chapter_2.chapter_2_6_canyon.description": "Une course difficile à travers les passages étroits d'un canyon.",
     "scenarios.utah.chapter_2.chapter_2_6_canyon.fail.msg": "Allez-vous vraiment le laisser s'enfuir avec ça ?",
