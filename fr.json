@@ -1286,6 +1286,7 @@
     "ui.quickrace.tracks.allowRollingStart": "Autoriser le démarrage progressif",
     "ui.quickrace.tracks.laps": "Tours",
     "ui.quickrace.tracks.reversible": "Inversable",
+    "ui.scenarios.end.freeroam": "Conduite libre",
     "ui.scenarios.end.passFailRatio": "Réussi / Raté",
     "ui.scenarios.end.points": "Points",
     "ui.scenarios.end.relativeToBest": "Relatif au meilleur",
