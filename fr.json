@@ -868,6 +868,7 @@
     "ui.common.sortBy": "Trier par",
     "ui.common.unknown": "Inconnu",
     "ui.common.warn": "Attention",
+    "ui.controls.androidQRCode": "Scannez le code QR ci-dessous ou cliquez sur le bouton pour télécharger l'application Android.",
     "ui.controls.bindings": "Assignation",
     "ui.controls.configuration": "Configuration",
     "ui.controls.createBinding": "Ajouter une touche",
