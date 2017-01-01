@@ -369,6 +369,7 @@
     "scenarios.driver_training.driver_training.training_driftB.drift.msg": "Bon travail, vous avez repeint la piste avec de la gomme ! Votre score:",
     "scenarios.driver_training.driver_training.training_driftB.title": "Stage Sécurité 10: Drift",
     "scenarios.driver_training.driver_training.training_easycircuit.damage.msg": "Cette voiture va avoir besoin de sérieuses réparations.",
+    "scenarios.driver_training.driver_training.training_easycircuit.defaultWin": "Bien joué ! Vous avez compris les éléments essentiels de ce cours. Maintenant nous pouvons passer à des techniques de conduite plus avancées.",
     "scenarios.driver_training.driver_training.training_easycircuit.description": "Je vous ai préparé un circuit pour mettre en pratique ce que vous avez appris. Cela devrait être plutôt facile: 2 tours, aucune surprise.",
     "scenarios.driver_training.driver_training.training_easycircuit.nomove.msg": "Il n'y a qu'un seul cône sur toute la piste, et vous avez réussi à le toucher.",
     "scenarios.driver_training.driver_training.training_easycircuit.title": "Entrainement 6: Circuit facile",
