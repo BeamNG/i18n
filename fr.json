@@ -1452,6 +1452,7 @@
     "vehicle.drivetrain.axleBroken": "L'axe de la roue {{axleName}} est cassé",
     "vehicle.drivetrain.cannotShiftSequential": "Mode de transmission actuel: '{{shifterModeName | translate }}' (utilisez [action=toggleShifterMode] pour changer)",
     "vehicle.drivetrain.deviceBroken": "{{deviceName}} cassé",
+    "vehicle.drivetrain.driveshaftBroken": "Arbre de transmission cassé",
     "vehicle.drivetrain.engineHydrolocked": "Moteur noyé",
     "vehicle.drivetrain.shifterModeNameArcade": "Arcade",
     "vehicle.drivetrain.shifterModeNameManualAssist": "Réaliste (Assistant d'embrayage)",
