@@ -588,6 +588,7 @@
     "scenarios.utah.chapter_2.chapter_2_5_roll.description": "chapter_2_5_roll - no brakes, handbrake, accelerator or gears, only steering and trying to travel the furthest distance, player needs to travel further than a specific distance in meters to get a higher time than the NPC, they can progress even if they fail however",
     "scenarios.utah.chapter_2.chapter_2_5_roll.title": "chapter_2_5_roll",
     "scenarios.utah.chapter_2.chapter_2_6_canyon.description": "Une course difficile à travers les passages étroits d'un canyon.",
+    "scenarios.utah.chapter_2.chapter_2_6_canyon.fail.msg": "Allez-vous vraiment le laisser s'enfuir avec ça ?",
     "scenarios.utah.chapter_2.chapter_2_6_canyon.pass.msg": "Félicitation! C'était une course difficile, mais vous l'avez fait !",
     "scenarios.utah.chapter_2.chapter_2_6_canyon.title": "Chapitre_2_6_canyon",
     "scenarios.utah.cinematic_chase.damage.msg": "Vous avez accidenté votre voiture",
