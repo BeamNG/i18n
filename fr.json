@@ -400,6 +400,7 @@
     "scenarios.driver_training.driver_training.training_slalom.title": "Stage Sécurité 8: Slalom",
     "scenarios.driver_training.driver_training.training_tightroad.damage.msg": "Aïe, je ne suis pas sûr qu'a l'avenir, ETK nous renvoie d'autre voitures.",
     "scenarios.driver_training.driver_training.training_tightroad.defaultWin": "Vous avez fini le cours... bien que ce ne soit pas un exploit de réussir à conduire une ETK 800.",
+    "scenarios.driver_training.driver_training.training_tightroad.description": "Alors vous maîtrisez l'art de tourner à gauche, mais pouvez vous emprunter une route étroite ? ETK nous a prêté une de ses voitures de test - prenez en soin.",
     "scenarios.driver_training.driver_training.training_tightroad.nomove.msg": "Vous avez heurté un marqueur - Je les ai mis là pour que vous arrêtiez de couper les virages, vous savez.",
     "scenarios.driver_training.driver_training.training_tightroad.timeLimit.msg": "Si vous comptez circuler aussi lentement, je ne pense pas qu'une voiture soit nécessaire.",
     "scenarios.driver_training.driver_training.training_tightroad.title": "Entrainement 3: Parcours sur route serrée",
