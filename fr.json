@@ -1280,6 +1280,7 @@
     "vehicle.bdebug.beamVisMode.breakgroups": "Groupe cassés",
     "vehicle.bdebug.beamVisMode.off": "Off",
     "vehicle.bdebug.beamVisMode.simple": "Simple",
+    "vehicle.bdebug.beamVisMode.stress": "Stress",
     "vehicle.bdebug.cogMode.nowheels": "Sans les roues",
     "vehicle.bdebug.cogMode.off": "Off",
     "vehicle.bdebug.disabled": "Débogage tracé désactivé",
