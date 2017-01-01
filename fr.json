@@ -1332,7 +1332,7 @@
     "vehicle.drivetrain.deviceBroken": "{{deviceName}} cassé",
     "vehicle.drivetrain.engineHydrolocked": "Moteur noyé",
     "vehicle.drivetrain.shifterModeNameArcade": "Arcade",
-    "vehicle.drivetrain.shifterModeNameManualAssist": "Réaliste (Embrayage automatique)",
+    "vehicle.drivetrain.shifterModeNameManualAssist": "Réaliste (Assistant d'embrayage)",
     "vehicle.drivetrain.shifterModeNameRealistic": "Réaliste",
     "vehicle.drivetrain.shifterModeNameUnknown": "Mode de changement de vitesse inconnu",
     "vehicle.drivetrain.stalled": "Le moteur est arrêté, maintenez [action=clutch] et [action=activateStarterMotor] appuyé pour le démarrer",
