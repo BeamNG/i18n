@@ -92,7 +92,7 @@
     "engine.windowedModeReq.msgEditor": "S'il vous plaît quitter l'éditeur de mission pour passer en plein écran.",
     "engine.windowedModeReq.msgGUI": "Merci de quitter l’éditeur pour basculer en mode plein écran.",
     "engine.windowedModeReq.title": "Mode fenetré requis",
-    "extensions.campaign.exploration.mapHint": "Appuyez sur [action=toggle_physics] pour afficher la carte des missions",
+    "extensions.campaign.exploration.mapHint": "Appuyez sur [action=toggle_physics] pour afficher la carte des missions disponibles",
     "extensions.scenario.damageGoal.checkDamage.fail.msg": "Attention! Votre voiture est endommagée à {{damage}}%",
     "extensions.scenario.damageGoal.checkDamage.win.msg": "{{damage}% degats",
     "extensions.scenario.damageGoal.fail.msg": "Vous avez endommagé votre voiture",
