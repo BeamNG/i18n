@@ -547,6 +547,7 @@
     "scenarios.utah.chapter_1.chapter_1_bridge.description": "Tentez de traverser un pont branlant pendant une tempête de sable.",
     "scenarios.utah.chapter_1.chapter_1_bridge.distance.fail.msg": "Mauvaise direction, traversez le pont",
     "scenarios.utah.chapter_1.chapter_1_bridge.distance.msg": "Bien joué ! Doucement mais surement",
+    "scenarios.utah.chapter_1.chapter_1_bridge.pass": "Bel effort !",
     "scenarios.utah.chapter_1.chapter_1_bridge.title": "Pont",
     "scenarios.utah.chapter_1.chapter_1_cannon.damage.msg": "Vous avez détruit la voiture en {{timeStr}}",
     "scenarios.utah.chapter_1.chapter_1_cannon.description": "Chapitre 1: Cannon - Statistiques: les dommages de la voiture de l'ennemi, score: dégâts de la voiture de l'ennemi, (détruire la voiture avec un seul coup si possible), panne: canon n'a pas tiré pendant 20 secondes",
