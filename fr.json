@@ -285,7 +285,7 @@
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.position.msg": "Vous avez manqué la zone de freinage",
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.timeLimit.msg": "Trop lent ! Vous devez utiliser la pédale d'accélérateur pour ce test.",
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.title": "Stage Sécurité 1: Accélération et freinage",
-    "scenarios.driver_training.driver_training.training_advanced.description": "Cette course va vous familiariser avec les techniques et les lignes à la corde nécessaires à augmenter la difficulté.",
+    "scenarios.driver_training.driver_training.training_advanced.description": "La dernière course semblait trop facile pour vous, alors j'ai préparé un circuit avec 4 des virages les plus difficiles auxquels j'ai pu penser. Bonne chance, vous en aurez besoin !",
     "scenarios.driver_training.driver_training.training_advanced.nomove.msg": "Vous avez touché un cône - Si vous sortez de la piste, essayez de réduire votre vitesse en entrée de virage.",
     "scenarios.driver_training.driver_training.training_advanced.timeLimit.msg": "Pas assez rapide - Je sais que vous pouvez faire mieux que ça.",
     "scenarios.driver_training.driver_training.training_advanced.title": "Stage Sécurité 8: Prendre un virage compliqué",
