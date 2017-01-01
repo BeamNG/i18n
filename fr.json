@@ -1322,6 +1322,7 @@
     "vehicle.drivetrain.stalledAutoClutch": "Le moteur est arrêté, appuyez sur [action=activateStarterMotor] pour le démarrer",
     "vehicle.drivetrain.usingHshifter": "Une boîte de vitesse en H a été utilisé. '{{shifterModeName | translate}}' maintenant utilisé",
     "vehicle.engine.headGasketDamaged": "Joint de culasse endommagé",
+    "vehicle.engine.pistonRingsDamaged": "Segments de piston endommagés",
     "vehicle.engine.radiatorDamaged": "Radiateur endommagé",
     "vehicle.engine.rodBearingsDamaged": "Roulements de bielle endommagés",
     "vehicle.engine.starvedOfOil": "Le moteur n'a plus assez d'huile",
