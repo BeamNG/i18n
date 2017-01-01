@@ -745,6 +745,7 @@
     "scenarios.utha.chapter_2.chapter_2_6_canyon.description": "chapter_2_6_canyon - dernière course, course sur route simple, joueur peut progresser même si elles sont vaincus, mais ils auront une bande dessinée outro différente",
     "scenarios.utha.chapter_2.chapter_2_6_canyon.title": "Chapitre 2.6: Canyon",
     "ui.actions.confirm": "Confirmer",
+    "ui.actions.decrease": "Diminuer",
     "ui.actions.enter": "Entrer dans le panel",
     "ui.actions.exit": "Sortir du panel",
     "ui.actions.increase": "Augmenter",
