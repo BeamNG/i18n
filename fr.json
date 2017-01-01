@@ -288,6 +288,7 @@
     "scenarios.driver_training.driver_training.training_advanced.nomove.msg": "Vous avez touché un cône - si vous sortez de la piste, essayez de réduire votre vitesse en entrée de virage.",
     "scenarios.driver_training.driver_training.training_advanced.timeLimit.msg": "Pas assez rapide - Je sais que vous pouvez faire mieux que ça.",
     "scenarios.driver_training.driver_training.training_advanced.title": "Stage Sécurité  8: Prendre un virage avancé",
+    "scenarios.driver_training.driver_training.training_cornering2.5.damage.msg": "Rester hors de l'herbe serait un bon début.",
     "scenarios.driver_training.driver_training.training_cornering2.5.description": "Dans le cas peu probable où la route n'est pas droite, vous pourriez avoir à arrêter d'accélérer et utiliser le volant de votre voiture. [br][br]Essayez ici sur le rond-point, mais faites attention à la zone glissante.",
     "scenarios.driver_training.driver_training.training_cornering2.5.nomove.msg": "On dirait que vous avez été à fond dans le virage. Prenez-le plus lentement si besoin.",
     "scenarios.driver_training.driver_training.training_cornering2.5.timeLimit.msg": "Vous avez pris plus de {{timeLimit}} secondes, essayez à nouveau avec un peu plus de vitesse",
