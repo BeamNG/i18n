@@ -707,6 +707,7 @@
     "ui.apps.g-forces.name": "Force en G",
     "ui.apps.gearbox_debug.name": "Débogage boite de vitesse",
     "ui.apps.gears.name": "Vitesses",
+    "ui.apps.generic_profiling_graph.name": "Graph Profil Générique",
     "ui.apps.indicated_airspeed.name": "Vitesse air indiquée",
     "ui.apps.json_dump.name": "Fichier JSON de débogage",
     "ui.apps.log_all_available_streams.name": "Archiver tous les flux de données disponibles",
