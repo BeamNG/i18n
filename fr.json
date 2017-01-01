@@ -1296,6 +1296,7 @@
     "ui.performance.orEquivalent": "ou équivalent",
     "ui.performance.os": "Système d'exploitation",
     "ui.performance.ram": "Mémoire système (RAM)",
+    "ui.performance.ram.physical": "Physique",
     "ui.performance.ram.virtual": "Virtuelle",
     "ui.performance.ram.wipNote": "La quantité de mémoire peut être incorrecte, c'est un WIP",
     "ui.performance.recommended": "Recommandé",
