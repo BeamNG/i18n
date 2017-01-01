@@ -63,6 +63,7 @@
     "engine.editor.menu.lockSelection": "Verrouiller la sélection",
     "engine.editor.menu.makeSelPrefab": "Créer une sélection préfabriquée",
     "engine.editor.menu.negXAxis": "Axe -X",
+    "engine.editor.menu.negYAxis": "Axe -Y",
     "engine.editor.menu.negZAxis": "Axe -Z",
     "engine.editor.menu.newLevel": "Nouveau niveau",
     "engine.editor.menu.object": "Objet",
