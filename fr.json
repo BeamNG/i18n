@@ -1352,7 +1352,7 @@
     "vehicle.bullettime.realtime": "Temps réel",
     "vehicle.bullettime.slowmotion": "Ralentit activé",
     "vehicle.drivetrain.axleBroken": "L'axe de la roue {{axleName}} est cassé",
-    "vehicle.drivetrain.cannotShiftSequential": "Utilise actuellement le mode de transmission : '{{shifterModeName | translate }}' (utilisez [action=toggleShifterMode] 1 pour changer)",
+    "vehicle.drivetrain.cannotShiftSequential": "Mode de transmission actuel : '{{shifterModeName | translate }}' (utilisez [action=toggleShifterMode] pour changer)",
     "vehicle.drivetrain.deviceBroken": "{{deviceName}} cassé",
     "vehicle.drivetrain.engineHydrolocked": "Moteur noyé",
     "vehicle.drivetrain.shifterModeNameArcade": "Arcade",
