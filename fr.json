@@ -764,6 +764,7 @@
     "ui.apps.precision_compass.name": "Précision du compas",
     "ui.apps.race_check_points.name": "Checkpoints Course",
     "ui.apps.race_realtime_display.name": "Affichage en temps réel de la course",
+    "ui.apps.race_time_comparison.name": "Comparaison Temps de course",
     "ui.apps.racecountdown.name": "Compte-à-rebours course",
     "ui.apps.racelaps.name": "Tours",
     "ui.apps.racing_position.name": "Position de course",
