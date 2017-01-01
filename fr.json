@@ -655,7 +655,7 @@
     "scenarios.utah.chapter_1.chapter_1_rubberband.description": "",
     "scenarios.utah.chapter_1.chapter_1_rubberband.timeLimit.msg": "Vous avez mis plus de {{timeLimit}} secondes",
     "scenarios.utah.chapter_1.chapter_1_rubberband.title": "Élastique",
-    "scenarios.utah.chapter_1.chapter_1_suspension.description": "Chapitre 1: Suspension - Statistiques: temps pris, dommages reçus, score = (temps pris + dégâts reçus), échec: n'a pas terminé tous les points de contrôle",
+    "scenarios.utah.chapter_1.chapter_1_suspension.description": "Foncez sur un terrain difficile et mettez vos suspensions à l'épreuve.",
     "scenarios.utah.chapter_1.chapter_1_suspension.fail.msg": "Vous n'avez pas réussi à terminer la course",
     "scenarios.utah.chapter_1.chapter_1_suspension.followpath.fail.msg": "Vous n'avez pas réussi à finir la course.",
     "scenarios.utah.chapter_1.chapter_1_suspension.pass.msg": "Course terminée",
