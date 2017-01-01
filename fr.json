@@ -1286,6 +1286,7 @@
     "ui.performance.warnings.amdhd": "Au minumim une AMD Radeon HD XXX est recommandée",
     "ui.performance.warnings.app32": "Une version 64 Bits du jeu est recommandé: Lancement en mode de compatibilité x86 (32 Bits)",
     "ui.performance.warnings.batterycritical": "Le niveau de la batterie est critique",
+    "ui.performance.warnings.cpu64bits": "Processeur 64 bits recommandé",
     "ui.performance.warnings.cpulowclock": "La fréquence de votre processeur (CPU) est inférieure à 2GHz",
     "ui.performance.warnings.cpuonecore": "Ce je ne fonctionnera pas correctement avec un seul cœur physique",
     "ui.performance.warnings.cpuquadcore": "Performances optimales avec un quadricœur",
