@@ -33,7 +33,7 @@
     "engine.cef.subprocessdied.msg": "Le processus \"Interface\" ne répond plus\nCela peut arriver si un Antivirus bloque l'application BeamNG.drive.ui.exe\n\nVous pouvez éventuellement recevoir plus d'aide ici\n\nhttp://wiki.beamng.com/Errors/Unresponsive_UI_Process\n\nVoulez vous ouvrir cette adresse dans votre navigateur ?",
     "engine.cef.subprocessdied.title": "Le processus \"Interface\" ne répond pas",
     "engine.cef.subprocessdied.url": "http://wiki.beamng.com/Errors/Unresponsive_UI_Process",
-    "engine.editor.menu.alignBounds": "Aligner les limites",
+    "engine.editor.menu.alignBounds": "Aligner les bords",
     "engine.editor.menu.alignCenter": "Aligner au centre",
     "engine.editor.menu.belowCamera": "Caméra du dessous",
     "engine.editor.menu.createBlankTerrain": "Créer un niveau vide",
