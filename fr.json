@@ -442,6 +442,7 @@
     "scenarios.hirochi_raceway.training_acceleration_braking.description": "Ce test vous apprendra les bases de l’accélération et du freinage",
     "scenarios.hirochi_raceway.training_acceleration_braking.nomove.msg": "Vous avez percuté quelque chose",
     "scenarios.hirochi_raceway.training_acceleration_braking.position.msg": "Vous n'êtes pas dans la zone de freinage...",
+    "scenarios.hirochi_raceway.training_acceleration_braking.timeLimit.msg": "Vous avez mis plus de {{timeLimit}} secondes",
     "scenarios.hirochi_raceway.training_acceleration_braking.title": "Stage Sécurité  1: Accélération et freinage",
     "scenarios.hirochi_raceway.training_advanced_braking.description": "Ce scénario enseignera seuil coins de rayon de freinage et la diminution",
     "scenarios.hirochi_raceway.training_advanced_braking.nomove.msg": "Vous avez touché un cône ! La prochaine fois, essayez d'éviter de bloquer les roues en appuyant plus prudemment sur la pédale de frein.",
