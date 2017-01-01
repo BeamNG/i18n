@@ -47,6 +47,7 @@
     "engine.editor.menu.exportTerrainHeightmap": "Exporter la Heightmap du terrain",
     "engine.editor.menu.exportToCollada": "Exporter en COLLADA...",
     "engine.editor.menu.file": "Fichier",
+    "engine.editor.menu.fitViewSelection": "Ajuster la vue à la sélection",
     "engine.editor.menu.hideSelection": "Cacher la sélection",
     "engine.editor.menu.importTerrainHeightmap": "Importer la Heightmap du terrain",
     "engine.editor.menu.lighting": "Éclairage",
