@@ -704,6 +704,7 @@
     "ui.apps.engineinfo.name": "InfoMoteur",
     "ui.apps.esc_desired_yaw_rate_graph.name": "Graphique ESP Taux de Lacet Désiré",
     "ui.apps.escstiffness.name": "Rigidité de l'ESP",
+    "ui.apps.ffb_graph.name": "Graph Retour de Force",
     "ui.apps.forced_induction_debug.name": "Débogage Admission Forcée",
     "ui.apps.g-forces.name": "Force en G",
     "ui.apps.gearbox_debug.name": "Débogage boite de vitesse",
