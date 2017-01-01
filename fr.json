@@ -1455,6 +1455,7 @@
     "vehicle.bdebug.beamVisMode.off": "Off",
     "vehicle.bdebug.beamVisMode.simple": "Simple",
     "vehicle.bdebug.beamVisMode.stress": "Stress",
+    "vehicle.bdebug.beamVisMode.type": "Type",
     "vehicle.bdebug.beamVisMode.with broken": "Avec cassés",
     "vehicle.bdebug.clear": "Débogage tracé effacé",
     "vehicle.bdebug.cogMode": "Mode du centre de gravité changé: {{cogMode | translate}}",
