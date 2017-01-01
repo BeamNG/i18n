@@ -796,6 +796,7 @@
     "ui.controls.remotControlApp": "Application contrôle à distance",
     "ui.controls.searchBasicBindings": "Rechercher",
     "ui.controls.showAdvancedBindings": "Afficher touches spéciales",
+    "ui.controls.showAdvancedExp": "Par défaut, seulement certains commandes sont affichées. Cochez pour montrer toutes les commandes",
     "ui.controls.usePhoneOrTablet": "Utilisez votre téléphone ou votre tablette comme volant pour conduire !",
     "ui.credits.assistantenvArtists": "Assistant des artistes des Environnements",
     "ui.credits.conceptArtists2D": "Artistes Concept 2D",
