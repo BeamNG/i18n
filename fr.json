@@ -296,6 +296,7 @@
     "quickrace.industrial.track_rt_long.description": "Le plus long circuit du site industriel.",
     "quickrace.industrial.track_rt_long.title": "Circuit long",
     "quickrace.industrial.track_rt_perimeter.description": "Une disposition de circuit pour haute vitesses sur le site industriel.",
+    "quickrace.industrial.track_rt_perimeter.title": "Périmètre du circuit",
     "quickrace.industrial.track_rt_short.description": "Un très court circuit sur le site industriel.",
     "quickrace.industrial.track_rt_short.title": "Circuit court",
     "quickrace.industrial.track_rt_sprint.description": "Une courte disposition sinueuse sur le site industriel.",
