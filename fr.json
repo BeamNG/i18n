@@ -1316,6 +1316,7 @@
     "ui.unit.c": "Degrés Celsius",
     "ui.unit.f": "Degré Farenheit",
     "ui.unit.ftlb": "Livre-pied",
+    "ui.unit.hp": "Chevaux",
     "ui.unit.imperial": "Impériale",
     "ui.unit.j": "Joule",
     "ui.unit.k": "Kelvin",
