@@ -1226,6 +1226,7 @@
     "ui.options.graphics": "Graphiques",
     "ui.options.graphics.GraphicAnisotropic": "Filtre Anisotropique",
     "ui.options.graphics.GraphicAntialiasType": "Anti-crénelage",
+    "ui.options.graphics.GraphicDisableShadows": "Désactiver les ombres",
     "ui.options.graphics.GraphicDynReflection": "Réflexions dynamiques",
     "ui.options.graphics.GraphicDynReflection.warning": "Remarque - La fréquence de mise à jours des reflets peut utiliser beaucoup de ressources. Si vous rencontrez des problèmes de performances, envisager d'abaisser cette valeur",
     "ui.options.graphics.GraphicDynReflectionDetail": "Détail",
