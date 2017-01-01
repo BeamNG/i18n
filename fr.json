@@ -973,7 +973,7 @@
     "ui.garage.save.back": "Garage",
     "ui.garage.save.continue": "Sortir",
     "ui.garage.save.enterName": "Veuillez rentrer un nom",
-    "ui.garage.save.overwrite": "Nom utilisé par une autre voiture. Surécrire ?",
+    "ui.garage.save.overwrite": "Nom utilisé par une autre voiture. Remplacer ?",
     "ui.garage.save.setDef": "Définir comme véhicule par défaut",
     "ui.garage.tabs.load": "Mes voitures",
     "ui.garage.tabs.paint": "Peinture",
