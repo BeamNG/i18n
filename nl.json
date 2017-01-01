@@ -22,6 +22,7 @@
     "engine.editor.menu.quit": "Stoppen",
     "engine.editor.menu.saveLevel": "Level Opslaan",
     "engine.editor.menu.saveLevelAs": "Level Opslaan Als...",
+    "engine.editor.menu.unlockSelection": "Selectie ontgrendelen",
     "engine.engineFail": "Er is iets fout gegaan bij het starten van het spel, het spel word nu afgesloten.",
     "engine.invalidUserpath.msg": "BeamNG.drive kan UserPath in startup.ini niet vinden (gamemap). Verander naar een beschikbaar pad: ",
     "engine.invalidUserpath.title": "Ongeldig gebruikerspad",
