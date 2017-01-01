@@ -699,6 +699,7 @@
     "scenarios.utah.chapter_2.chapter_2_2_mixed.pass.msg": "Bien joué. Vous avez gagné {{reward}}$.",
     "scenarios.utah.chapter_2.chapter_2_2_mixed.title": "Course poussièreuse",
     "scenarios.utah.chapter_2.chapter_2_3_crawl.description": "Une course sur une route bosselé. Pourrez vous arriver à la ligne d'arrivé ?",
+    "scenarios.utah.chapter_2.chapter_2_3_crawl.fail.msg": "Tous aboient mais ne mordent pas. Revenez quand vous aurez appris comment conduire.",
     "scenarios.utah.chapter_2.chapter_2_3_crawl.pass.msg": "Vous l'avez encore battu ! Félicitation !",
     "scenarios.utah.chapter_2.chapter_2_3_crawl.title": "Course dans la rivière",
     "scenarios.utah.chapter_2.chapter_2_4_delivery.cargoFellOff.fail.msg": "J'apprécie l'effort, mais essayez peut-être de ne pas endommager la marchandise ?",
