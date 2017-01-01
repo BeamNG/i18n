@@ -1060,6 +1060,7 @@
     "ui.options.graphics.uimaxresExplanation": "Spécifie la résolution maximum pour l'Interface Utilisateur. Utile pour les écrans 4k.",
     "ui.options.graphics.vsync": "Synchronisation Verticale",
     "ui.options.graphicsGraphicMeshQuality": "Qualité feuillage",
+    "ui.options.onlineFeatures": "Fonctionnalités en ligne",
     "ui.options.options": "Options",
     "ui.options.physics": "Physique",
     "ui.options.physics.noCollisions": "Désactiver les collisions Inter-véhicule",
