@@ -1407,6 +1407,7 @@
     "vehicle.bdebug.cogMode": "Mode du centre de gravité changé: {{cogMode | translate}}",
     "vehicle.bdebug.cogMode.nowheels": "Sans les roues",
     "vehicle.bdebug.cogMode.off": "Off",
+    "vehicle.bdebug.cogMode.on": "On",
     "vehicle.bdebug.disabled": "Débogage tracé désactivé",
     "vehicle.bdebug.enabled": "Débogage tracé activé",
     "vehicle.bdebug.meshVisibility": "Visibilité du feuillage modifiée: {{visibilityPercent}}%",
