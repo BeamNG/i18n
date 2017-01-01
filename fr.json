@@ -347,7 +347,7 @@
     "scenarios.driver_training.driver_training.training_cornering2.5.damage.msg": "Rester hors de l'herbe serait un bon début.",
     "scenarios.driver_training.driver_training.training_cornering2.5.description": "Dans le cas peu probable où la route n'est pas droite, vous pourriez avoir à arrêter d'accélérer et utiliser le volant de votre voiture. [br][br]Essayez ici sur le rond-point, mais faites attention à la zone glissante.",
     "scenarios.driver_training.driver_training.training_cornering2.5.nomove.msg": "On dirait que vous avez été à fond dans le virage. Prenez-le plus lentement si besoin.",
-    "scenarios.driver_training.driver_training.training_cornering2.5.timeLimit.msg": "Vous avez mis plus de {{timeLimit}} secondes, essayez à nouveau avec un peu plus de vitesse",
+    "scenarios.driver_training.driver_training.training_cornering2.5.timeLimit.msg": "Je veux vous voir conduire plus vite que ça.",
     "scenarios.driver_training.driver_training.training_cornering2.5.title": "Stage Sécurité 2.5: Négocier les virages",
     "scenarios.driver_training.driver_training.training_cornerspeedB.defaultWin": "Bon travail ! Je vois que vous avez saisi le concept de la gestion de la vitesse pendant un virage.",
     "scenarios.driver_training.driver_training.training_cornerspeedB.description": "Vous ne pouvez pas prendre tous les virages à n'importe quelle vitesse: respectez les limitations de vitesse sur les panneaux pour vous assurer de réussir.",
