@@ -321,6 +321,7 @@
     "scenarios.driver_training.driver_training.training_slalom.description": "Une course en slalom est difficile à maîtriser. Habituez-vous au poids de la voiture pendant que vous zigzaguez entre les cônes",
     "scenarios.driver_training.driver_training.training_tightroad.damage.msg": "Aïe, je ne suis pas sûr qu'a l'avenir, ETK nous renvoie d'autre voitures.",
     "scenarios.driver_training.driver_training.training_tightroad.nomove.msg": "Vous avez heurté un marqueur - Je les ai mis là pour que vous arrêtiez de couper les virages, vous savez.",
+    "scenarios.driver_training.driver_training.training_tightroad.timeLimit.msg": "Si vous comptez circuler aussi lentement, je ne pense pas qu'une voiture soit nécessaire.",
     "scenarios.driver_training.driver_training.training_tightroad.title": "Entrainement 3: Parcours sur route serrée",
     "scenarios.driver_training.safety_training.training_mu_braking.nomove.msg": "Ne touchez pas les cônes ...",
     "scenarios.driver_training.safety_training.training_mu_braking.title": "Stage Sécurité : Freinage Surfaces Mixtes",
