@@ -285,7 +285,7 @@
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.title": "Stage Sécurité  1: Accélération et freinage (version 2)",
     "scenarios.driver_training.driver_training.training_advanced.description": "Cette course va vous familiariser avec les techniques et les lignes à la corde nécessaires à augmenter la difficulté.",
     "scenarios.driver_training.driver_training.training_advanced.nomove.msg": "Vous avez touché un cône - si vous sortez de la piste, essayez de réduire votre vitesse en entrée de virage.",
-    "scenarios.driver_training.driver_training.training_advanced.timeLimit.msg": "Vous avez mis plus de {{timeLimit}} secondes, essayez à nouveau un peu plus vite",
+    "scenarios.driver_training.driver_training.training_advanced.timeLimit.msg": "Pas assez rapide - je sais que vous pouvez faire mieux que ça.",
     "scenarios.driver_training.driver_training.training_advanced.title": "Stage Sécurité  8: Prendre un virage avancé",
     "scenarios.driver_training.driver_training.training_cornering2.5.description": "Dans le cas peu probable où la route n'est pas droite, vous pourriez avoir à arrêter d'accélérer et utiliser le volant de votre voiture. [br][br]Essayez ici sur le rond-point, mais faites attention à la zone glissante.",
     "scenarios.driver_training.driver_training.training_cornering2.5.nomove.msg": "On dirait que vous avez été à fond dans le virage. Prenez-le plus lentement si besoin.",
