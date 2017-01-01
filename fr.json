@@ -1339,6 +1339,7 @@
     "vehicle.drivetrain.shifterModeNameUnknown": "Mode de changement de vitesse inconnu",
     "vehicle.drivetrain.stalled": "Le moteur est arrêté, maintenez [action=clutch] et [action=activateStarterMotor] appuyé pour le démarrer",
     "vehicle.drivetrain.stalledAutoClutch": "Le moteur est arrêté, appuyez sur [action=activateStarterMotor] pour le démarrer",
+    "vehicle.drivetrain.stalledStarting": "Moteur éteint, redémarrage... ",
     "vehicle.drivetrain.usingHshifter": "Une boîte de vitesse en H a été utilisé. '{{shifterModeName | translate}}' maintenant utilisé",
     "vehicle.engine.headGasketDamaged": "Joint de culasse endommagé",
     "vehicle.engine.pistonRingsDamaged": "Segments de piston endommagés",
