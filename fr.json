@@ -1266,6 +1266,7 @@
     "ui.unit.metric": "Métrique (SI)",
     "ui.unit.mi": "Miles",
     "ui.unit.mpg": "Miles par Gallon",
+    "ui.unit.nm": "Newton mètre",
     "ui.unit.psi": "PSI",
     "ui.vehicleconfig.color": "Couleur",
     "ui.vehicleconfig.filename": "Nom du fichier",
