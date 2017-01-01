@@ -324,6 +324,7 @@
     "scenarios.driver_training.driver_training.training_rwd.title": "Stage Sécurité  12: Conduite d'une traction arrière",
     "scenarios.driver_training.driver_training.training_slalom.damage.msg": "J'imagine que j'aurais dû mettre les obstacles plus loin !",
     "scenarios.driver_training.driver_training.training_slalom.description": "Une course en slalom est difficile à maîtriser. Habituez-vous au poids de la voiture pendant que vous zigzaguez entre les cônes",
+    "scenarios.driver_training.driver_training.training_slalom.timeLimit.msg": "Trop lent ! Une course de slalom est seulement un défi à vive allure.",
     "scenarios.driver_training.driver_training.training_slalom.title": "Stage sécurité 8: Slalom",
     "scenarios.driver_training.driver_training.training_tightroad.damage.msg": "Aïe, je ne suis pas sûr qu'a l'avenir, ETK nous renvoie d'autre voitures.",
     "scenarios.driver_training.driver_training.training_tightroad.nomove.msg": "Vous avez heurté un marqueur - Je les ai mis là pour que vous arrêtiez de couper les virages, vous savez.",
