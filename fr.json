@@ -78,6 +78,7 @@
     "engine.editor.menu.openLevel": "Ouvrir un niveau...",
     "engine.editor.menu.placeCameraPlayer": "Placer une caméra sur le joueur",
     "engine.editor.menu.placeCameraSelection": "Placer la caméra à la sélection",
+    "engine.editor.menu.placePlayerCamera": "Placer le joueur sur la caméra",
     "engine.editor.menu.playLevel": "Jouer",
     "engine.editor.menu.playerCamera": "Caméra du joueur",
     "engine.editor.menu.posXAxis": "Axe +X",
