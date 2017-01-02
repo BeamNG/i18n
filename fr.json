@@ -1507,6 +1507,7 @@
     "vehicle.bdebug.disabled": "Débogage tracé désactivé",
     "vehicle.bdebug.enabled": "Débogage tracé activé",
     "vehicle.bdebug.meshVisibility": "Visibilité du feuillage modifiée: {{visibilityPercent}}%",
+    "vehicle.bdebug.nodeTextMode": "Libellés de nœud modifiés : {{nodeTextMode | translate }}",
     "vehicle.bdebug.nodeTextMode.names": "Noms",
     "vehicle.bdebug.nodeTextMode.names+numbers": "Noms et nombres",
     "vehicle.bdebug.nodeTextMode.numbers": "Nombres",
