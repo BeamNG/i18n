@@ -1496,7 +1496,7 @@
     "vehicle.bdebug.nodeTextMode.numbers": "Nombres",
     "vehicle.bdebug.nodeTextMode.off": "Off",
     "vehicle.bdebug.nodeTextMode.weights": "Poids",
-    "vehicle.bdebug.nodeVisMode": "Visualisation des nœuds modifiée : {{nodeVisMode | translate}}",
+    "vehicle.bdebug.nodeVisMode": "Visualisation node modifiée: {{nodeVisMode | translate}}",
     "vehicle.bdebug.nodeVisMode.density": "Densité",
     "vehicle.bdebug.nodeVisMode.forces": "Forces",
     "vehicle.bdebug.nodeVisMode.simple": "Simple",
