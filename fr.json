@@ -707,6 +707,7 @@
     "scenarios.utah.chapter_1.chapter_1_jump.title": "Saut",
     "scenarios.utah.chapter_1.chapter_1_ramcliff.description": "Percutez une vieille voiture du haut de la falaise et arrivez au pied ce celle-ci.",
     "scenarios.utah.chapter_1.chapter_1_ramcliff.distance.fail.msg": "Le véhicule n'as pas été poussé de la falaise.",
+    "scenarios.utah.chapter_1.chapter_1_ramcliff.fail.msg": "Vous n'avez pas fait descendre les deux véhicules de la colline",
     "scenarios.utah.chapter_1.chapter_1_ramcliff.pass.msg": "Les deux voitures sont tombées",
     "scenarios.utah.chapter_1.chapter_1_ramcliff.title": "Pousser de la falaise",
     "scenarios.utah.chapter_1.chapter_1_rubberband.description": "NE PAS TRADUIRE !!",
