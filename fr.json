@@ -1370,6 +1370,7 @@
     "ui.performance.link.graphicsOptions": "Options graphiques",
     "ui.performance.maxRealtimeVehicles": "Max véhicules temps réel",
     "ui.performance.minRequired": "Minimum",
+    "ui.performance.orBetter": "ou mieux",
     "ui.performance.orEquivalent": "ou équivalent",
     "ui.performance.os": "Système d'exploitation",
     "ui.performance.ram": "Mémoire système (RAM)",
