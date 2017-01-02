@@ -83,6 +83,7 @@
     "engine.editor.menu.playerCamera": "Caméra du joueur",
     "engine.editor.menu.posXAxis": "Axe +X",
     "engine.editor.menu.posYAxis": "Axe +Y",
+    "engine.editor.menu.posZAxis": "Axe +Z",
     "engine.editor.menu.postfxManager": "PostEffect Manager",
     "engine.editor.menu.quit": "Quitter",
     "engine.editor.menu.redo": "Rétablir",
