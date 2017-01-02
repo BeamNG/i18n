@@ -1498,6 +1498,7 @@
     "vehicle.drivetrain.deviceBroken": "{{deviceName}} cassé",
     "vehicle.drivetrain.driveshaftBroken": "Arbre de transmission cassé",
     "vehicle.drivetrain.engineDamaged": "Moteur endommagé",
+    "vehicle.drivetrain.engineFlooding": "Moteur submergé par l'eau ({{percent}}%)",
     "vehicle.drivetrain.engineHydrolocked": "Moteur noyé",
     "vehicle.drivetrain.shifterModeChanged": "Mode de transmission actuel: '{{shifterModeName | translate}}'",
     "vehicle.drivetrain.shifterModeNameArcade": "Arcade",
