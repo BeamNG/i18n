@@ -1525,6 +1525,7 @@
     "vehicle.drivetrain.deviceBroken": "{{deviceName}} cassé",
     "vehicle.drivetrain.driveshaftBroken": "Arbre de transmission cassé",
     "vehicle.drivetrain.engineDamaged": "Moteur endommagé",
+    "vehicle.drivetrain.engineDried": "Le moteur a séché",
     "vehicle.drivetrain.engineFlooding": "Moteur submergé par l'eau à ({{percent}}%)",
     "vehicle.drivetrain.engineHydrolocked": "Moteur noyé",
     "vehicle.drivetrain.fuelLeaking": "Fuite de carburant",
