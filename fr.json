@@ -90,6 +90,7 @@
     "engine.editor.menu.toTerrain": "au Terrain",
     "engine.editor.menu.toggleCamera": "Afficher caméra",
     "engine.editor.menu.transformSel": "Transformer la sélection...",
+    "engine.editor.menu.undo": "Annuler",
     "engine.editor.menu.unlockSelection": "Débloquer la Sélection",
     "engine.editor.menu.view": "Vue",
     "engine.editor.menu.visibilityLayers": "Visibilité couches",
