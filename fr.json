@@ -59,6 +59,7 @@
     "engine.editor.menu.file": "Fichier",
     "engine.editor.menu.fitViewSelection": "Ajuster la vue à la sélection",
     "engine.editor.menu.fitViewSelectionOrbit": "Ajuster la vue à la sélection et à l'orbite",
+    "engine.editor.menu.gameOptions": "Réglages du jeu...",
     "engine.editor.menu.gridOrtho": "Afficher la grille en vue \"Ortho\"",
     "engine.editor.menu.hideSelection": "Cacher la sélection",
     "engine.editor.menu.importTerrainHeightmap": "Importer la Heightmap du terrain",
