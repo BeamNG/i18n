@@ -908,6 +908,7 @@
     "ui.common.disable": "Désactiver",
     "ui.common.downloadMore": "Téléchargez-en plus !",
     "ui.common.enable": "Activer",
+    "ui.common.error": "Erreur",
     "ui.common.exit": "Sortir",
     "ui.common.filename": "Nom du fichier",
     "ui.common.filters": "Filtres",
