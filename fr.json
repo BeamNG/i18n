@@ -104,6 +104,7 @@
     "engine.editor.menu.undo": "Annuler",
     "engine.editor.menu.unlockSelection": "Débloquer la Sélection",
     "engine.editor.menu.view": "Vue",
+    "engine.editor.menu.viewType": "Vue",
     "engine.editor.menu.visibilityLayers": "Visibilité couches",
     "engine.editor.menu.worldCamera": "Caméra monde",
     "engine.editor.menu.xAxis": "Axe X",
