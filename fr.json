@@ -1205,6 +1205,7 @@
     "ui.loading.spawn.terrain": "Creusage de la terre",
     "ui.loading.spawn.time": "Création du jour et de la nuit",
     "ui.loading.spawn.vehicles": "Préparation des moteurs",
+    "ui.loading.spawn.water": "Remplissage de l'eau",
     "ui.mainmenu.addmods": "AJOUTER DES MODS",
     "ui.mainmenu.background.back": "Retour",
     "ui.mainmenu.credits": "Crédits",
