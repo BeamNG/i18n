@@ -787,6 +787,7 @@
     "ui.apps.dialog.name": "Dialogue",
     "ui.apps.digital_airspeedometer.name": "Indicateur numérique de la vitesse du vent",
     "ui.apps.digital_speedometer.name": "Compteur de vitesse digital",
+    "ui.apps.digital_tachometer.name": "Compteur numérique de vitesse",
     "ui.apps.engine_damage_app.name": "App Dégats Moteur",
     "ui.apps.engine_debug.name": "Débogage Moteur",
     "ui.apps.engine_dynamometer.name": "Dynamomètre moteur",
