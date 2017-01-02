@@ -1540,6 +1540,7 @@
     "vehicle.bullettime.realtime": "Temps réel",
     "vehicle.bullettime.slowmotion": "Ralentit activé",
     "vehicle.drivetrain.axleBroken": "L'axe de la roue {{axleName}} est cassé",
+    "vehicle.drivetrain.cannotShiftAuto": "Impossible de passer la vitesse #{{gear}} avec une boîte automatique",
     "vehicle.drivetrain.cannotShiftSequential": "Mode de transmission actuel: '{{shifterModeName | translate }}' (utilisez [action=toggleShifterMode] pour changer)",
     "vehicle.drivetrain.deviceBroken": "{{deviceName}} cassé",
     "vehicle.drivetrain.driveshaftBroken": "Arbre de transmission cassé",
