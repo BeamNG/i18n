@@ -1466,6 +1466,7 @@
     "ui.scenarios.start.start": "Commencer",
     "ui.scenarios.start.trainingScenario": "Scénario d'entrainement",
     "ui.unit.bar": "Bar",
+    "ui.unit.bhp": "Puissance du frein",
     "ui.unit.c": "Degrés Celsius",
     "ui.unit.f": "Degré Farenheit",
     "ui.unit.ftlb": "Livre-pied",
