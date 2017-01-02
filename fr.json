@@ -817,6 +817,7 @@
     "ui.apps.engine_heat_debug_graph.name": "Débogage graphique température moteur",
     "ui.apps.engine_thermal_debug.name": "Débogage Température Moteur",
     "ui.apps.engineinfo.name": "InfoMoteur",
+    "ui.apps.esc_activity_graph.name": "Graph Activité ESP",
     "ui.apps.esc_desired_yaw_rate_graph.name": "Graphique ESP Taux de Lacet Désiré",
     "ui.apps.escstiffness.name": "Rigidité de l'ESP",
     "ui.apps.ffb_graph.name": "Graph Retour de Force",
