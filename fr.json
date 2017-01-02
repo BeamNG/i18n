@@ -933,6 +933,7 @@
     "ui.controls.hint1": "Conseil: Installez toujours le dernier driver et désactivez les pédales combinés dans les paramètres de votre volant (si disponible)",
     "ui.controls.hint2": "Conseil: vous pouvez aussi assigner la souris comme \"volant\" (ou n'importe quelle autre action) dans le menu \"Commandes\"",
     "ui.controls.remotControlApp": "Application contrôle à distance",
+    "ui.controls.searchAllBindings": "Rechercher",
     "ui.controls.searchBasicBindings": "Rechercher",
     "ui.controls.showAdvancedBindings": "Afficher touches spéciales",
     "ui.controls.showAdvancedExp": "Par défaut, seulement les commandes de base sont affichées. Activez pour montrer toutes les commandes",
