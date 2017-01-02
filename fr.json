@@ -827,6 +827,7 @@
     "ui.apps.log_all_available_streams.name": "Archiver tous les flux de données disponibles",
     "ui.apps.messages.name": "Messages",
     "ui.apps.navigation.name": "Navigation",
+    "ui.apps.node_beam_info.name": "Info Node/Beam",
     "ui.apps.odometer.name": "Odomètre",
     "ui.apps.pedals_and_axis.name": "Pédales et Axes",
     "ui.apps.performance_timers.name": "Timers performances",
