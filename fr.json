@@ -1231,6 +1231,7 @@
     "ui.mainmenu.help": "Aide",
     "ui.mainmenu.mods": "Mods",
     "ui.mainmenu.news": "Nouveautés",
+    "ui.mainmenu.onlineFeatures.featureDescription": "Vous pouvez choisir d'activer ou désactiver toutes les fonctionnalités en ligne dans BeamNG.drive. Cela affectera : [br][list][*]Accès au dépôt (repository) en jeu[*]Abonnement aux Mods[*]Succès[*]Classement[*]Fonctionnalités du Chat[*]Fonctionnalités de partage de contenu[/list]En activant les fonctionnalités en ligne vous acceptez notre [url=http://wiki.beamng.com/Privacy_Policy]Politique de confidentialité[/url] et nos [url=http://wiki.beamng.com/TOS]Conditions d'utilisation[/url].[br][br]Vous pouvez changer ce paramètre à tout moment dans Options > Gameplay.",
     "ui.mainmenu.onlineFeatures.featureTitle": "Activer les fonctionnalités en ligne ?",
     "ui.mainmenu.options": "Options",
     "ui.mainmenu.play": "Jouer",
