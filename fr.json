@@ -784,6 +784,7 @@
     "ui.apps.categories.vehicle_info": "Info du véhicule",
     "ui.apps.categories.vehicle_profiling": "Profil du véhicule",
     "ui.apps.chat_application.name": "Application de chat",
+    "ui.apps.checkpoint_time_comparison.name": "Comparaison Temps Checkpoint",
     "ui.apps.compass.name": "Boussole",
     "ui.apps.cruise_control.name": "Régulateur de vitesse",
     "ui.apps.dashboard_indicators.name": "Indicateurs du tableau de bord",
