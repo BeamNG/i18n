@@ -1512,6 +1512,7 @@
     "vehicle.engine.coolantOverheating": "Surchauffe du liquide de refroidissement",
     "vehicle.engine.cylinderWallsMelted": "La paroie des cylindres a fondues",
     "vehicle.engine.headGasketDamaged": "Joint de culasse endommagé",
+    "vehicle.engine.oilOverheating": "Surchauffe de l'huile",
     "vehicle.engine.pistonRingsDamaged": "Segments de piston endommagés",
     "vehicle.engine.radiatorDamaged": "Radiateur endommagé",
     "vehicle.engine.rodBearingsDamaged": "Roulements de bielle endommagés",
