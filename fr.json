@@ -1073,6 +1073,7 @@
     "ui.garage.load.loadCar": "Charger une voiture",
     "ui.garage.paint.base": "Couleurs prédéfinies",
     "ui.garage.paint.customize": "Changer la couleur",
+    "ui.garage.paint.decals": "Détails palette {{id}}",
     "ui.garage.paint.licensePlate": "Personnaliser la plaque",
     "ui.garage.paint.setVal": "Garder la valeur",
     "ui.garage.parts.extras": "Spécials",
