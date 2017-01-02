@@ -1376,6 +1376,7 @@
     "ui.performance.warnings.minmem": "Moins de 4 GO de mémoire: Pas assez de mémoire pour charger certains niveaux",
     "ui.performance.warnings.missing64binary": "N'exécute pas la version 64 Bit : version 64 Bit manquante : Veuillez réinstaller",
     "ui.performance.warnings.oldwin7": "Le programme n'est pas lancé en 64 Bits: le système d'exploitation est plus vieux que Windows 7 Service Pack 1: Veuillez mettre à niveau Windows",
+    "ui.performance.warnings.os32bits": "Vous possédez un processeur 64 bits mais seulement un système d'exploitation 32 bits",
     "ui.performance.warnings.oswin8": "Windows 8 est recommandé: Utilisation du mode de compatibilité x86 (32 Bits)",
     "ui.performance.warnings.powerdisconnected": "Alimentation non connectée",
     "ui.performance.warnings.remotedesktop": "Vous utilisez le bureau à distance",
