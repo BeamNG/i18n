@@ -90,6 +90,7 @@
     "engine.editor.menu.redo": "Rétablir",
     "engine.editor.menu.resetSelRot": "Réinitialiser la rotation sélectionnée",
     "engine.editor.menu.resetSelScale": "Réinitialiser la taille sélectionnée",
+    "engine.editor.menu.resetTransforms": "Réinitialiser les transformations",
     "engine.editor.menu.saveLevel": "Sauvegarder le niveau",
     "engine.editor.menu.saveLevelAs": "Sauvegarder le niveau sous ...",
     "engine.editor.menu.screenCenter": "Centre de l'écran",
