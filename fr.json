@@ -836,6 +836,7 @@
     "ui.apps.speedometer.name": "Compteur de vitesse",
     "ui.apps.steering_position.name": "Position de la direction",
     "ui.apps.tacho2.name": "CompteurVitesse2",
+    "ui.apps.tachometer.name": "Compteur de vitesse",
     "ui.apps.tcs_activity_graph.name": "Activité Graph TCS",
     "ui.apps.tcs_debug_graph.name": "Graph débogage TSC",
     "ui.apps.torquecurve.name": "CourbeCouple",
