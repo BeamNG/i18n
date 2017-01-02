@@ -407,6 +407,7 @@
     "scenarios.driver_training.driver_training.training_hairpins3.5.timeLimit.msg": "Temps écoulé ! Il va falloir finir plus vite que ça.",
     "scenarios.driver_training.driver_training.training_hairpins3.5.title": "Stage Sécurité 4.1: Virages en épingle (version 2)",
     "scenarios.driver_training.driver_training.training_lanechange.damage.msg": "Notre assurance ne va pas être contente...",
+    "scenarios.driver_training.driver_training.training_lanechange.defaultWin": "Bien joué ! La Civetta Bolide peut être une voiture complexe pour les débutants;",
     "scenarios.driver_training.driver_training.training_lanechange.description": "Changer de voies à grande vitesse exige d'être doux avec la direction. Serez-vous capable de garder le contrôle d'une supercar des années 80 ?",
     "scenarios.driver_training.driver_training.training_lanechange.nomove.msg": "J'ai vu un cône renversé... Ça veut dire que vous êtes sorti de la piste !",
     "scenarios.driver_training.driver_training.training_lanechange.timeLimit.msg": "Vous êtes supposé conduire à grande vitesse, n'est-ce-pas ?",
