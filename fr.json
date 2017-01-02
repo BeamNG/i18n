@@ -1325,7 +1325,7 @@
     "ui.options.graphics.restartRequired": "Un redémarrage est requis pour que les changements prennent effet",
     "ui.options.graphics.uimaxres": "Résolution max interface",
     "ui.options.graphics.uimaxresExplanation": "Spécifie la résolution maximum pour l'Interface Utilisateur. Utile pour les écrans 4k.",
-    "ui.options.graphics.uimaxresNotAvailable": "La Résolution Maximale de l'UI n'est pas disponible dans le menu principal",
+    "ui.options.graphics.uimaxresNotAvailable": "La résolution maximale de l'interface n'est pas disponible dans le menu principal",
     "ui.options.graphics.vsync": "Synchronisation Verticale",
     "ui.options.graphicsGraphicMeshQuality": "Qualité feuillage",
     "ui.options.language": "Langage",
