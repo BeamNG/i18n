@@ -736,6 +736,7 @@
     "scenarios.utah.chapter_2.chapter_2_1_ram.playerfall.fail.msg": "Whoa ! Vous n'êtes pas blessé ? Vous n'étiez pas supposé tomber, faites attention !",
     "scenarios.utah.chapter_2.chapter_2_1_ram.title": "Destruction de Covet",
     "scenarios.utah.chapter_2.chapter_2_2_mixed.description": "Une course contre un adversaire sur un terrain varié.",
+    "scenarios.utah.chapter_2.chapter_2_2_mixed.fail.msg": "C'est tout ce que vous êtes capable de faire ?",
     "scenarios.utah.chapter_2.chapter_2_2_mixed.pass.msg": "Bien joué. Vous avez gagné {{reward}}$.",
     "scenarios.utah.chapter_2.chapter_2_2_mixed.title": "Course poussièreuse",
     "scenarios.utah.chapter_2.chapter_2_3_crawl.description": "Une course sur une route bosselé. Pourrez vous arriver à la ligne d'arrivé ?",
