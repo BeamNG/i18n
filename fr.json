@@ -44,6 +44,7 @@
     "engine.editor.menu.atOrigin": "à l'origine",
     "engine.editor.menu.audioParams": "Paramètres audio...",
     "engine.editor.menu.belowCamera": "Caméra du dessous",
+    "engine.editor.menu.copy": "Copier",
     "engine.editor.menu.createBlankTerrain": "Créer un niveau vide",
     "engine.editor.menu.cut": "Couper",
     "engine.editor.menu.deselect": "Déselectionner",
