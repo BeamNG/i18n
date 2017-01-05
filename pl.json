@@ -690,6 +690,7 @@
     "ui.common.skip": "Pomiń",
     "ui.common.sortBy": "Sortuj Według",
     "ui.controls.configuration": "Konfiguracja",
+    "ui.controls.driverWarning": "Uwaga: jeśli masz problemy z sprzężeniem zwrotnym (force feedback) na swoim {{productName}}, powinieneś zaktualizować sterowniki Logitech do najnowszej wersji",
     "ui.credits.assistantenvArtists": "Asystenci Artystów Środowiska",
     "ui.credits.conceptArtists2D": "Artyści Konceptowi - 2D",
     "ui.credits.customerSupport": "Obsługa Klienta",
