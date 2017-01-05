@@ -654,6 +654,7 @@
     "ui.appselect.reset": "Zresetuj Układ Interfejsu",
     "ui.appselect.search": "Szukaj",
     "ui.appselect.selectAll": "Wybierz Wszystko",
+    "ui.color.colorPalette": "Paleta kolorów {{id}}",
     "ui.colorpicker.brightness": "Jasność",
     "ui.colorpicker.chrominess": "Chromowanie",
     "ui.colorpicker.colToPre": "Dodaj kolor do palety",
