@@ -681,6 +681,7 @@
     "ui.common.search": "Szukaj",
     "ui.common.skip": "Pomiń",
     "ui.common.sortBy": "Sortuj Według",
+    "ui.controls.configuration": "Konfiguracja",
     "ui.credits.assistantenvArtists": "Asystenci Artystów Środowiska",
     "ui.credits.conceptArtists2D": "Artyści Konceptowi - 2D",
     "ui.credits.customerSupport": "Obsługa Klienta",
@@ -1036,6 +1037,7 @@
     "ui.playmodes.comingSoon": "Wkrótce",
     "ui.playmodes.freeroam": "Jazda Dowolna",
     "ui.playmodes.scenarios": "Scenariusze",
+    "ui.quickrace.setting": "Ustawienia",
     "ui.scenarios.end.goals.speed": "Prędkość",
     "ui.scenarios.end.passFailRatio": "Sukcesy / Porażki",
     "ui.scenarios.end.points": "Punkty",
@@ -1086,5 +1088,6 @@
     "vehicle.fire.fuelTankRuptured": "Przebity zbiornik paliwa",
     "vehicle.main.instability": "Wykryto niestabilność pojazdu {{vehicle}}: następuje resetowanie pojazdu i wyłączenie fizyki",
     "vehicle.recovery.loadHome": "Pojazd przywrócony do pozycji początkowej",
+    "vehicle.recovery.recovered": "Pojazd przywrócony",
     "vehicle.turbocharger.overheating": "Turbo się przegrzewa"
 }
