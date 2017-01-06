@@ -606,7 +606,7 @@
     "ui.apps.aicontrol.name": "Kontrola SI",
     "ui.apps.automatic_gears.name": "Automatyczne Biegi",
     "ui.apps.brake_thermal_debug.name": "Debug Termiki Hamulców",
-    "ui.apps.brake_torque_graph.name": "Wykres siły hamowania",
+    "ui.apps.brake_torque_graph.name": "Wykres Siły Hamowania",
     "ui.apps.categories.debug": "Debug",
     "ui.apps.categories.info": "Informacyjne",
     "ui.apps.categories.racing": "Wyścigowe",
