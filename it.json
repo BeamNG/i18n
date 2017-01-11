@@ -836,6 +836,7 @@
     "ui.performance.acknowledge": "",
     "ui.performance.acknowledged": "",
     "ui.performance.benchmark": "Benchmark della fisica",
+    "ui.performance.benchmark.isRunningNote": "Attendere prego: Benchmark in corso. Ci vorrà qualche minuto.",
     "ui.performance.benchmark.run": "Avvia Benchmark della fisica",
     "ui.performance.benchmark.testVehicle": "Prova veicolo",
     "ui.performance.benchmark.vehicles": "Veicoli",
