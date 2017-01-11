@@ -19,6 +19,7 @@
     "engine.cef.subprocessdied.title": "L'UI non risponde",
     "engine.cef.subprocessdied.url": "http://wiki.beamng.com/Errors/Unresponsive_UI_Process",
     "engine.editor.menu.createBlankTerrain": "Crea un Terreno Vuoto",
+    "engine.editor.menu.deselect": "Deseleziona",
     "engine.editor.menu.exitLevel": "Esci dal Livello",
     "engine.editor.menu.exportTerrainHeightmap": "Esporta la mappa delle altezze del terreno",
     "engine.editor.menu.exportToCollada": "Esporta in COLLADA...",
