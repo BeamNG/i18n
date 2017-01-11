@@ -348,6 +348,7 @@
     "scenarios.jungle_rock_island.jri_portshakedown.title": "Distruzione al Porto",
     "scenarios.jungle_rock_island.jri_rally_port.description": "Rally su sterrato davvero difficile che finisce al porto",
     "scenarios.jungle_rock_island.jri_rally_port.title": "Rally al porto",
+    "scenarios.jungle_rock_island.jri_shortcut.description": "Una breve gara su per una scorciatoia fangosa",
     "scenarios.jungle_rock_island.jri_shortcut.title": "Scorciatoia",
     "scenarios.port.port_container_race.description": "Una difficile gara sopra i container da imbarcare",
     "scenarios.port.port_container_race.title": "Gara sui container del porto",
