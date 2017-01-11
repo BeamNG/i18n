@@ -911,6 +911,7 @@
     "vehicle.bullettime.change": "{{slowmoTimes}} volte più lento del tempo reale",
     "vehicle.bullettime.realtime": "Tempo Reale",
     "vehicle.drivetrain.shifterModeNameArcade": "Arcade",
+    "vehicle.drivetrain.shifterModeNameRealistic": "Realistico",
     "vehicle.drivetrain.stalled": "Il motore è spento, tieni premuto [action=clutch] e [action=activateStarterMotor] per accenderlo",
     "vehicle.drivetrain.usingHshifter": "È stato usato un cambio ad H. In uso ora: '{{shifterModeName | translate}}'",
     "vehicle.engine.headGasketDamaged": "Guarnizione di testa danneggiata",
