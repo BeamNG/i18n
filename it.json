@@ -241,6 +241,7 @@
     "scenarios.east_coast_usa.tanker_delivery.description": "Porta l'autobotte al garage in città",
     "scenarios.east_coast_usa.tanker_delivery.distance.msg": "Hai perso il carico!",
     "scenarios.east_coast_usa.tanker_delivery.title": "Consegna l'Autobotte",
+    "scenarios.east_coast_usa.tanker_delivery.wayPointAction.wp2.msg": "Indietreggia lentamente e aggancia il rimorchio",
     "scenarios.east_coast_usa.town_course_short_a.description": "Un breve tracciato intorno la città",
     "scenarios.east_coast_usa.town_course_short_a.title": "Percorso corto in città A",
     "scenarios.east_coast_usa.town_course_short_b.description": "Un altro breve tracciato rally intorno la città",
