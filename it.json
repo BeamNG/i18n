@@ -769,6 +769,7 @@
     "ui.options.gameplay": "Gameplay",
     "ui.options.gameplay.competitiveScenarios": "Condizioni di scenario competitivo",
     "ui.options.gameplay.controlOnBlur": "Consentire input del controller e force feedback quando la finestra non è selezionata",
+    "ui.options.gameplay.defaultGearboxBehavior": "Comportamento del cambio predefinito",
     "ui.options.gameplay.defaultToCurrentVehicle": "Imposta il veicolo corrente come predefinito",
     "ui.options.gameplay.enginesPreheated": "Inizia con i motori dei veicoli pre-riscaldati",
     "ui.options.gameplay.gameplay": "Gioco",
