@@ -930,6 +930,7 @@
     "vehicle.bdebug.beamVisMode.off": "Off",
     "vehicle.bdebug.beamVisMode.simple": "Semplice",
     "vehicle.bdebug.cogMode.nowheels": "Senza ruote",
+    "vehicle.bdebug.cogMode.off": "Off",
     "vehicle.bdebug.meshVisibility": "Visibilità mesh: {{visibilityPercent}}%",
     "vehicle.bdebug.nodeVisMode.velocities": "Velocità",
     "vehicle.bdebug.nodeVisMode.weights": "Pesi",
