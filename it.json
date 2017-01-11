@@ -134,7 +134,7 @@
     "scenarios.derby.regular_derby.title": "Demolition Derby - Arena regolare",
     "scenarios.derby.variedground_derby.description": "L'ultima auto che si muove vince. Distruggi l'auto dei tuoi amici mentre stai attento alla tua!",
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.damage.msg": "dove stai andando? L'area test è dall'altra parte!",
-    "scenarios.driver_training.driver_training.training_acceleration_braking1.5.defaultWin": "Quindi sai guidare come un professionista sul dritto? Vediamo come te la cavi nelle curve",
+    "scenarios.driver_training.driver_training.training_acceleration_braking1.5.defaultWin": "Quindi se c'è da andare dritto sai guidare come un professionista? Vediamo come te la cavi con le curve...",
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.description": "Benvenuto nella scuola guida ETK. Il mio nome è Mike, e sarò il tuo istruttore per questo corso. [br][br] Iniziamo con qualcosa di semplice - tutto quello che devi fare è accelerare, e fermarti prima di colpire le barriere. Accertati di frenare quando raggiungi il segnale dello stop!",
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.nomove.msg": "Hai colpito qualcosa",
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.position.msg": "Hai mancato l'area in cui frenare",
