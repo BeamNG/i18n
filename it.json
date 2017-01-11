@@ -433,6 +433,7 @@
     "scenarios.utha.chapter_2.chapter_2_6_canyon.title": "capitolo_2_6_canyon",
     "ui.apps.aicontrol.name": "Controllo IA",
     "ui.apps.automatic_gears.name": "Cambio Automatico",
+    "ui.apps.brake_torque_graph.name": "Grafico della coppia frenante",
     "ui.apps.categories.debug": "Debug",
     "ui.apps.categories.info": "Informazioni",
     "ui.apps.categories.racing": "Gara",
