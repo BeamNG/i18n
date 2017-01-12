@@ -340,6 +340,7 @@
     "scenarios.hirochi_raceway.training_cornering.position.msg": "Non sei nell'area di frenata...",
     "scenarios.hirochi_raceway.training_cornering.title": "Allenamento 2: Affrontare le curve",
     "scenarios.hirochi_raceway.training_drifting.description": "Questo scenario ti permette di migliorare la tua abilità nelle derapate.",
+    "scenarios.hirochi_raceway.training_drifting.drift.failMsg": "E quello lo chiami derapare? Devi dargli più velocità e angolo! Il tuo punteggio:",
     "scenarios.hirochi_raceway.training_drifting.title": "Allenamento 10: Drifting",
     "scenarios.hirochi_raceway.training_hairpins.description": "Qui imparerai ad affrontare velocemente un tornante stretto",
     "scenarios.hirochi_raceway.training_hairpins.drift.msg": "Il tuo freno a mano non è stato abbastanza potente",
