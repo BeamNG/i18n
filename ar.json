@@ -295,7 +295,7 @@
     "scenarios.utah.chapter_1.chapter_1_crawl.damage.msg": "حطمت السيارة في غضون {{timeStr}}",
     "scenarios.utah.chapter_1.chapter_1_crawl.timeLimit.msg": "استغرقت اكثر من {{timeLimit}} ثانية",
     "scenarios.utah.chapter_1.chapter_1_drag.pass.msg": "اتممت السباق",
-    "scenarios.utah.chapter_1.chapter_1_drag.title": "سباق مقاومة",
+    "scenarios.utah.chapter_1.chapter_1_drag.title": "سباق الجر",
     "scenarios.utah.chapter_1.chapter_1_highway.description": "تخطى الحاجز المتواجد في الطريق.",
     "scenarios.utah.chapter_1.chapter_1_highway.fail.msg": "عليك أن تتخطي الحاجز",
     "scenarios.utah.chapter_1.chapter_1_hilldrop.fail.msg": "لم تتحرك لـ10 ثواني",
