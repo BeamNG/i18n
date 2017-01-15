@@ -402,6 +402,7 @@
     "ui.common.warn": "تحذير",
     "ui.controls.configuration": "الضبط",
     "ui.controls.driverWarning": "تحذير: إذا واجهتك مشاكل مع ردات الفعل (feedback) من {{productName}}، تأكد من تثبيت أحدث إصدار من ملفات تعريف Logitech.",
+    "ui.controls.searchBasicBindings": "بحث الارتباطات الأساسية",
     "ui.credits.environmentArtists": "مصممو البيئة",
     "ui.credits.madePossibleWith": "مقدمة برعاية",
     "ui.credits.organization": "تنظيم",
