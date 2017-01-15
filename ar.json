@@ -17,7 +17,7 @@
     "campaigns.utah.chapter_2.roll.title": "الفصل 2 : تدحرج",
     "campaigns.utah.chapter_2.summaryMessage": "أحسنت! أصبحت جاهز للإنتقال إلى الفصل التالي.",
     "campaigns.utah.chapter_2.title": "بداية صخرية",
-    "engine.cef.subprocessdied.msg": "فشلت عملية واجهة المستخدم للرد في الوقت المناسب\nهذا يمكن أن يحدث إذا كان مضاد الفيروسات يقوم بحظر تطبيق BeamNG.drive.ui.exe\nيمكنك الحصول على مزيد من المساعدة من هنا: \nhttp://wiki.beamng.com/Errors/Unresponsive_UI_Process\nهل تريد فتح هذا العنوان في المتصفح الخاص بك الآن؟",
+    "engine.cef.subprocessdied.msg": "تعذر تحميل واجهة المستخدم في الوقت المناسب.\nيمكن أن يحدث ذلك إذا كان مضاد الفيروسات يقوم بحظر تطبيق BeamNG.drive.ui.exe\nيمكنك الحصول على مزيد من المساعدة من هنا: \nhttp://wiki.beamng.com/Errors/Unresponsive_UI_Process\nهل تريد فتح هذا العنوان في المتصفح الخاص بك الآن؟",
     "engine.cef.subprocessdied.title": "نوافذ واجهة المستخدم المتعثرة",
     "engine.editor.menu.deselect": "إلغاء تحديد",
     "engine.editor.menu.exportTerrainHeightmap": "تصدير خريطة ارتفاع التضاريس",
