@@ -915,6 +915,7 @@
     "vehicle.bdebug.nodeVisMode.off": "إيقاف",
     "vehicle.bdebug.nodeVisMode.simple": "بسيط",
     "vehicle.bdebug.nodeVisMode.velocities": "Velocities",
+    "vehicle.bdebug.nodeVisMode.weights": "الأوزان",
     "vehicle.bdebug.trisOff": "تم الغاء رسم مثلث التصادم",
     "vehicle.bdebug.trisOn": "تم تفعيل رسم مثلث التصادم",
     "vehicle.beamstate.beamBroke": "Beam {{id}} just broke: {{id1name}} [{{id1}}]  ->  {{id2name}} [{{id2}}]",
