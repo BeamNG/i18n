@@ -874,6 +874,7 @@
     "ui.performance.warnings.oswin8": "يستحسن استخدام نسخة Windows 8: ستعمل اللعبة بطور توافق الإصدارات السابقة x86",
     "ui.performance.warnings.powerdisconnected": "الطاقة غير موصلة",
     "ui.performance.warnings.remotedesktop": "انت تستخدم  Remote Desktop",
+    "ui.performance.warnings.thirdpartysoftware": "لاتشتغل نسخة 64بت: اكتشف برنامج لافاسوفت مشكلة. للمزيد من المعلومات والحلول زر: [url=http://wiki.beamng.com/Lavasoft]",
     "ui.performance.warnings.win8rec": "يستحسن إستخدام نظام Windows 8",
     "ui.photomode.advancedImgSettings": "إعدادات الصور المتقدمة",
     "ui.photomode.blureCurveFar": "منحنى العزل البعيد",
