@@ -226,6 +226,7 @@
     "scenarios.driver_training.driver_training.training_slalom.description": "مضمار السلالوم يصعب اتقانه. استشعر وزن السيارة عندما تعبر بين المخروطات",
     "scenarios.driver_training.driver_training.training_tightroad.damage.msg": "آخ ، لااعلم ما اذا كانت ETK ستقرضنا المزيد من السيارات.",
     "scenarios.driver_training.driver_training.training_tightroad.nomove.msg": "لقد اصطدمت معلماً - كما تعلم وضعته لك حتى لا تتجاوز حدود المنعطف.",
+    "scenarios.driver_training.driver_training.training_tightroad.timeLimit.msg": "هاذا بطيء! اذا كنت تنوي السفر ببطى، فلا اعتقد ان السيارة ضرورية ",
     "scenarios.driver_training.driver_training.training_tightroad.title": "التدريب 3: مضمار ضيق",
     "scenarios.driver_training.safety_training.training_mu_braking.nomove.msg": "لا ترتطم بالمخروط...",
     "scenarios.driver_training.safety_training.training_mu_braking.title": "تدريبات السلامة: اصطفاف-μ",
