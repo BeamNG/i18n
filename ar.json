@@ -767,7 +767,7 @@
     "ui.options.gameplay.updateTranslations": "تحديث الترجمات",
     "ui.options.graphics": "الرسومات",
     "ui.options.graphics.GraphicAntialiasType": "Anti-aliasing",
-    "ui.options.graphics.GraphicDynReflection": "انعكاس ديناميكي ",
+    "ui.options.graphics.GraphicDynReflection": "الانعكاس الديناميكي",
     "ui.options.graphics.GraphicDynReflection.warning": "ملاحظة - زيادة معدل الوجوه لكل تحديث قد يكون ثقيل رسومياً. اذا واجهت مشاكل في الاداء ، قم بتقليل القيمة",
     "ui.options.graphics.GraphicDynReflectionDetail": "التفاصيل",
     "ui.options.graphics.GraphicDynReflectionDistance": "المسافة",
