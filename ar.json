@@ -873,6 +873,7 @@
     "ui.performance.warnings.intelgpu": "انت تستخدم معالج رسومات Intel GPU. تأكد من استخدام معالج رسومات منفصل.",
     "ui.performance.warnings.lowmem": "يستحسن استخدام ذاكرة عشوائية بسعة 8 GB",
     "ui.performance.warnings.missing64binary": "Not running 64 Bit version: 64 Bit version missing: يرجى إعادة التثبيت",
+    "ui.performance.warnings.oldwin7": "لاتشتغل نسخة 64بت: نظامك التشغيلي اقل من ويندوز 7 حزمة الخدمة 1: يرجى تحديثه او ترقيته ",
     "ui.performance.warnings.oswin8": "يستحسن استخدام نسخة Windows 8: ستعمل اللعبة بطور توافق الإصدارات السابقة x86",
     "ui.performance.warnings.powerdisconnected": "الطاقة غير موصلة",
     "ui.performance.warnings.remotedesktop": "انت تستخدم  Remote Desktop",
