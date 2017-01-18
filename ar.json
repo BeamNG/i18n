@@ -80,6 +80,7 @@
     "levels.dry_rock_island.info.title": "جزيرة الصخر الجاف",
     "levels.east_coast_usa.info.description": "الساحل الشرقي من الولايات المتحدة الأمريكية. يتمركز محوريا في ولاية مين وولاية نيو هامبشير",
     "levels.east_coast_usa.info.features": "بلدة صغيرة ، طرق جبلية ساحلية ، طرق غابات ، منطقة لقطع الأشجار ، منازل قديمة",
+    "levels.east_coast_usa.info.roads": "70% اسفلت سريع، 25% وحل سريع، 5% مسارات",
     "levels.east_coast_usa.spawnpoints.farmHouse": "البيت ريفي",
     "levels.east_coast_usa.spawnpoints.gasStation": "مواقف محطة الوقود",
     "levels.east_coast_usa.spawnpoints.highway": "طريق سريع",
