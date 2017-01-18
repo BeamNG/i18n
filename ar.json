@@ -761,6 +761,7 @@
     "ui.options.graphics.GraphicDynReflectionFacesPerupdate": "معدل الوجوه لكل تحديث",
     "ui.options.graphics.GraphicDynReflectionTexsize": "حجم الخامات",
     "ui.options.graphics.GraphicLightingQuality": "جودة الإضاءة",
+    "ui.options.graphics.GraphicPostfxQuality": "جودة معالجة التأثيرات",
     "ui.options.graphics.GraphicShaderQuality": "جودة معالجة الضلال",
     "ui.options.graphics.MainMenuBackgroundMode": "خلفية القائمة",
     "ui.options.graphics.PostFXLightRaysEnabled": "اشعة الضوء",
