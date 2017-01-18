@@ -650,6 +650,7 @@
     "ui.faq.changeVehicle.a": "يمكنك استخدام قائمة المركبات من الواجهة بالضغط على [action=toggleMenues] او [action=vehicle_selector].",
     "ui.faq.changeVehicle.q": "كيف ابدل مركبتي؟",
     "ui.faq.getSupport.q": "كيف تحصل على الدعم؟",
+    "ui.faq.installMods.a": "حمل الملف المضغوط للسيارة أو المستوى الذي ترغب في تثبيته. ضع الملف المضغوط في المسار التالي [h1]My Documents\\BeamNG.drive\\mods[/h1]\nلاتقوم بفك الضغط عن الملف المضغوط. لمزيد من المعلومات والتعليمات يرجى زيارة ويكي لدينا هنا [url=http://www.beamng.com/threads/guide-to-mod-installation.12872/]",
     "ui.faq.installMods.q": "أين يجب أن أثبت الإضافات؟",
     "ui.faq.spawnVehicle.a": "يمكنك اختيار قائمة المركبات من [action=toggleMenues] او بالضغط على [action=vehicle_selector].",
     "ui.faq.spawnVehicle.q": "كيف أختار أكثرمن مركبة؟",
