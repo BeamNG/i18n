@@ -1317,7 +1317,7 @@
     "ui.options.graphics.antialiasing": "Сглаживание",
     "ui.options.graphics.borderless": "Окно без рамки",
     "ui.options.graphics.display": "Экран",
-    "ui.options.graphics.fpslimiter": "Ограничитель FPS",
+    "ui.options.graphics.fpslimiter": "Ограничение FPS",
     "ui.options.graphics.fullscreen": "На весь экран",
     "ui.options.graphics.gamma": "Гамма",
     "ui.options.graphics.grassdensity": "Плотность травы",
