@@ -652,6 +652,7 @@
     "ui.apps.speedometer.name": "Prędkościomierz",
     "ui.apps.steering_position.name": "Pozycja Kierownicy",
     "ui.apps.tacho2.name": "Tacho2",
+    "ui.apps.tachometer.name": "Obrotomierz",
     "ui.apps.turbo_activity_graph.name": "Graf Aktywności Turbosprężarki",
     "ui.apps.vehicleDebug.breakAll": "Zniszcz wszystkie podzespoły",
     "ui.apps.vehicleDebug.breakHinges": "Zniszcz wszystkie Zawiasy",
