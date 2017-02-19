@@ -1003,6 +1003,7 @@
     "ui.options.graphics.resolution": "Rozdzielczość",
     "ui.options.graphics.uimaxres": "Maksymalna Rozdzielczość Interfejsu",
     "ui.options.graphics.uimaxresExplanation": "Określa maksymalną rozdzielczość interfejsu Użytkownika. Przydatne dla wyświetlaczy 4k.",
+    "ui.options.graphics.uimaxresNotAvailable": "Maksymalna rozdzielczość interfejsu nie jest dostępna w menu głównym",
     "ui.options.graphics.vsync": "Synchronizacja Pionowa",
     "ui.options.graphicsGraphicMeshQuality": "Jakość Modeli",
     "ui.options.options": "Opcje",
