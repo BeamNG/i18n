@@ -627,6 +627,7 @@
     "ui.apps.categories.vehicle_control": "Kontrola Pojazdu",
     "ui.apps.categories.vehicle_info": "Informacje o pojeździe",
     "ui.apps.categories.vehicle_profiling": "Informacje o Pojeździe",
+    "ui.apps.chat_application.name": "Aplikacja czatu",
     "ui.apps.compass.name": "Kompas",
     "ui.apps.cruise_control.name": "Tempomat",
     "ui.apps.detailed_vehicle_damage_app.name": "Szczegółowy Wskaźnik Uszkodzenia Pojazdu",
