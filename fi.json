@@ -1186,7 +1186,7 @@
     "ui.hints.quickSteerResponse": "Jotta ohjaus reagoisi nopeammin, kokeile eri suodattimia [action=steer_left] ja [action=steer_right] -toimintoihin.",
     "ui.hints.raceBrakesEffectiveness": "Kilpajarrut menettävät tehoa ollessaan liian kylmiä.",
     "ui.hints.recoverVehicle": "Jos ajoneuvosi jumiutuu, paina [action=recover_vehicle] palauttaaksesi sen.",
-    "ui.hints.removeRearSeats": "Tee ajoneuvostasi nopeampi poistamalla tarpeeton paino, kuten takaistuimet, käyttäen osanvalitsinta [action=parts_selector].",
+    "ui.hints.removeRearSeats": "Tee ajoneuvostasi nopeampi poistamalla tarpeeton paino, kuten takaistuimet, käyttämällä osavalikkoa [action=parts_selector].",
     "ui.hints.rollPitchApps": "Jos pidät kivikossa ajamisesta, \"Kallistuskulma\" ja \"Nousukulma\" -käyttöliittymäsovellukset voivat olla käteviä.",
     "ui.hints.saveRestoreVehicleHome": "Voit tallentaa ajoneuvon alkupaikan painamalla [action=saveHome] ja myöhemmin palauttaa sen [action=loadHome] -painikkeesta",
     "ui.hints.showCustomVehicles": "Saadaksesi itsetehdyt autokokoonpanot näkyviin ajoneuvovalikossa, ota käyttöön Asetukset > Pelaaminen > Näytä mukautetut ajoneuvot.",
