@@ -94,7 +94,7 @@
     "scenarios.east_coast_usa.town_course_short_b.description": "另一个围绕小镇的拉力赛段",
     "scenarios.gridmap.gm_corridor.fail.msg": "你被撞到了!",
     "scenarios.gridmap.gm_ds_large_jumps.title": "飞天面包车",
-    "scenarios.gridmap.hard_parking.description": "",
+    "scenarios.gridmap.hard_parking.description": "用漂移的方式以最快的速度平行停到两台车之间。",
     "scenarios.hirochi_raceway.forgotten_raceway.title": "被遗忘的赛道",
     "scenarios.hirochi_raceway.gm_racetest.description": "",
     "scenarios.hirochi_raceway.intro_fullcircuit.title": "宏地赛车场全圈",
