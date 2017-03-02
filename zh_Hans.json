@@ -171,6 +171,7 @@
     "ui.appselect.reset": "重置界面布局",
     "ui.appselect.search": "搜索",
     "ui.appselect.selectAll": "选择全部",
+    "ui.color.colorPalette": "调色板 {{id}}",
     "ui.color.colors": "颜色",
     "ui.color.user": "用户",
     "ui.colorpicker.brightness": "亮度",
