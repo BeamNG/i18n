@@ -281,6 +281,7 @@
     "ui.garage.exit": "退出车库",
     "ui.garage.paint.customize": "定制颜色",
     "ui.garage.tabs.load": "我的车",
+    "ui.garage.tune.name": "名称",
     "ui.hints.carefulWithOldSportsCars": "旧的跑车没有电子辅助设备，可能难以控制，需要温和的油门加速。",
     "ui.hints.changeBrakePads": "如果您遇到了制动失效，您可以到部件菜单[action=parts_selector]里选装更好的刹车碟。",
     "ui.hints.chooseDefaultVehicle": "你可以选择或改装原厂车辆：只需前往车库即可！",
