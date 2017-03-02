@@ -71,7 +71,7 @@
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.position.msg": "你错过了刹车区",
     "scenarios.driver_training.driver_training.training_cornering2.5.title": "科目2：过弯",
     "scenarios.driver_training.driver_training.training_driftB.description": "",
-    "scenarios.driver_training.driver_training.training_driftB.drift.fail.msg": "你这个叫做漂移？速度再快点，角度再大点！你的分数: {{score}}",
+    "scenarios.driver_training.driver_training.training_driftB.drift.fail.msg": "你把这叫漂移？速度再快点，角度再大点！你的分数: {{score}}",
     "scenarios.driver_training.driver_training.training_easycircuit.damage.msg": "这辆车大概要大修一番了。",
     "scenarios.driver_training.driver_training.training_easycircuit.nomove.msg": "整个赛道只有一个路障，然后你竟然还撞到了。",
     "scenarios.driver_training.driver_training.training_hairpins3.5.nomove.msg": "你的弯转得不是很干净——我看见你碰到障碍物了。",
