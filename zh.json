@@ -60,6 +60,7 @@
     "ui.hints.moonGravity": "",
     "ui.hints.notAllCarsCanRace": "",
     "ui.hints.thermalDebugApp": "",
+    "ui.levelselect.biome": "生物群系",
     "ui.levelselect.suitablefor": "适合",
     "ui.mainmenu.options": "選項",
     "ui.modmanager.openInExplorer": "在瀏覽器中開啟",
