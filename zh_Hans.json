@@ -117,7 +117,7 @@
     "scenarios.jungle_rock_island.jri_ds_320_rally.description": "把Bolide 320带到它不该去的地方",
     "scenarios.jungle_rock_island.jri_moose.speed.msg": "你太慢了…开快点！",
     "scenarios.small_island.cop_chase.wayPointAction.wayPointMsg": "截停Pessima!",
-    "scenarios.utah.canyon_race.description": "一场漫长的在犹他州的峡谷和低地中穿行的比赛。",
+    "scenarios.utah.canyon_race.description": "一场穿过犹他峡谷和洼地的漫长比赛。",
     "scenarios.utah.chapter_1.chapter_1_bridge.description": "尝试在沙尘暴中通过一座摇摇欲坠的木桥。",
     "scenarios.utah.chapter_1.chapter_1_cliffjump.description": "",
     "scenarios.utah.chapter_1.chapter_1_cliffjump.timeLimit.msg": "你没有在{{failureTime}}内离开崖顶！",
