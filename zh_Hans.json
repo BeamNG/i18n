@@ -134,6 +134,7 @@
     "scenarios.utah.chapter_1.chapter_1_jump.damage.msg": "你在{{timeStr}}内摧毁了载具",
     "scenarios.utah.chapter_1.chapter_1_jump.title": "",
     "scenarios.utah.chapter_1.chapter_1_ramcliff.description": "把一辆老破车撞下悬崖并让它掉到崖底。",
+    "scenarios.utah.chapter_1.chapter_1_rubberband.title": "橡皮筋",
     "scenarios.utah.chapter_2.chapter_2_4_delivery.title": "运输零件",
     "scenarios.utah.chapter_2.chapter_2_6_canyon.pass.msg": "恭喜！这是一场艰难的比赛，但是你赢了！",
     "scenarios.utah.cinematic_chase.description": "两辆德国高级车在沙漠中的高速对决",
