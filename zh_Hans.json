@@ -443,5 +443,6 @@
     "vehicle.drivetrain.usingHshifter": "检测到H档。现在使用：“{{shifterModeName | translate}}”",
     "vehicle.engine.radiatorDamaged": "散热器已损坏",
     "vehicle.engine.rodBearingsDamaged": "连杆轴承已损坏",
-    "vehicle.recovery.loadHome": "载具已回到生成点"
+    "vehicle.recovery.loadHome": "载具已回到生成点",
+    "vehicle.recovery.recovered": "车辆已还原"
 }
