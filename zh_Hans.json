@@ -340,6 +340,7 @@
     "ui.options.camera.chaseRollRelaxation": "追击视角下视角切换时间",
     "ui.options.camera.enableCustom": "使用新的或自定义模式",
     "ui.options.camera.relaxation": "视角切换时间",
+    "ui.options.communityTranslationsAgree": "同意并启用",
     "ui.options.currentLanguage": "目前语言",
     "ui.options.gameplay": "偏好设置",
     "ui.options.gameplay.competitiveScenarios": "",
