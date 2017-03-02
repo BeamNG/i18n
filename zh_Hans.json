@@ -441,6 +441,7 @@
     "ui.vehicleconfig.tuning": "调教",
     "ui.vehicleconfig.vehicleconfig": "车辆定制",
     "vehicle.beamstate.tireDeflated": "{{wheelName | translate}}爆胎",
+    "vehicle.bullettime.change": "放慢 {{slowmoTimes}} 倍速",
     "vehicle.bullettime.realtime": "实时",
     "vehicle.drivetrain.stalled": "发动机已熄火，按住[action=clutch]和[action=activateStarterMotor]来重新点火",
     "vehicle.drivetrain.usingHshifter": "检测到H档。现在使用：“{{shifterModeName | translate}}”",
