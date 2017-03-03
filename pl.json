@@ -66,6 +66,7 @@
     "engine.editor.menu.resetSelScale": "Resetuj Wybraną Skalę",
     "engine.editor.menu.saveLevel": "Zapisz Poziom",
     "engine.editor.menu.saveLevelAs": "Zapisz Poziom Jako...",
+    "engine.editor.menu.unlockSelection": "Odblokuj wybór",
     "engine.editor.menu.viewType": "Widok",
     "engine.editor.menu.xAxis": "Oś X",
     "engine.engineFail": "Nie udało się zainicjować gry, zamykanie.",
