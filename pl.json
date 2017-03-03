@@ -1193,6 +1193,7 @@
     "vehicle.bdebug.beamVisMode.off": "Wyłącz",
     "vehicle.bdebug.beamVisMode.simple": "Proste",
     "vehicle.bdebug.beamVisMode.type": "Rodzaj",
+    "vehicle.bdebug.beamVisMode.with broken": "Z zepsutymi",
     "vehicle.bdebug.cogMode.nowheels": "Bez kół",
     "vehicle.bdebug.cogMode.off": "Wyłączony",
     "vehicle.bdebug.meshVisibility": "Zmieniono widzialność siatki: {{visibilityPercent}}%",
