@@ -342,7 +342,7 @@
     "ui.mainmenu.help": "帮助",
     "ui.mainmenu.mods": "Mod",
     "ui.mainmenu.news": "新闻",
-    "ui.mainmenu.onlineFeatures.featureTitle": "是否开启线上功能？",
+    "ui.mainmenu.onlineFeatures.featureTitle": "是否启用线上功能？",
     "ui.mainmenu.options": "设置",
     "ui.mainmenu.play": "开始游戏",
     "ui.mainmenu.repo": "Mod资源库",
