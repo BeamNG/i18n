@@ -1132,6 +1132,7 @@
     "ui.playmodes.scenarios": "Scenariusze",
     "ui.quickrace.selectLevel": "Wybierz Mapę",
     "ui.quickrace.setting": "Ustawienia",
+    "ui.quickrace.tod": "Czas",
     "ui.quickrace.tod.lateNoon": "Późne Popołudnie",
     "ui.quickrace.tod.morning": "Poranek",
     "ui.quickrace.tod.night": "Noc",
