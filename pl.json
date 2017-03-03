@@ -1189,6 +1189,7 @@
     "ui.vehicleconfig.vehicleconfig": "Dostosowanie pojazdu",
     "vehicle.bdebug.beamVisMode": "Zmieniono wizualizację belek: {{beamVisMode | translate}}",
     "vehicle.bdebug.beamVisMode.breakgroups": "Grupy uszkodzeń",
+    "vehicle.bdebug.beamVisMode.broken only": "Tylko zepsute",
     "vehicle.bdebug.beamVisMode.deformation": "Odkształcenie",
     "vehicle.bdebug.beamVisMode.off": "Wyłącz",
     "vehicle.bdebug.beamVisMode.simple": "Proste",
