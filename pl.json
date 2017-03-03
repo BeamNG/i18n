@@ -71,6 +71,7 @@
     "engine.editor.menu.unlockSelection": "Odblokuj wybór",
     "engine.editor.menu.viewType": "Widok",
     "engine.editor.menu.xAxis": "Oś X",
+    "engine.editor.menu.yAxis": "Oś Y",
     "engine.engineFail": "Nie udało się zainicjować gry, zamykanie.",
     "engine.invalidUserpath.msg": "BeamNG.drive nie może uzyskać dostępu do UserPath zdefiniowanego w startup.ini (folderze gry). Zmień na prawidłową ścieżkę:",
     "engine.invalidUserpath.title": "Nieprawidłowa ścieżka użytkownika",
