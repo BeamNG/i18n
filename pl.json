@@ -1210,6 +1210,7 @@
     "vehicle.bdebug.nodeTextMode.names": "Nazwy",
     "vehicle.bdebug.nodeTextMode.names+numbers": "Nazwy i numery",
     "vehicle.bdebug.nodeTextMode.numbers": "Liczby",
+    "vehicle.bdebug.nodeTextMode.off": "Wyłączone",
     "vehicle.bdebug.nodeVisMode.density": "Gęstość",
     "vehicle.bdebug.nodeVisMode.off": "wyłącz",
     "vehicle.bdebug.nodeVisMode.simple": "Wszystkie",
