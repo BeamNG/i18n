@@ -1190,6 +1190,7 @@
     "vehicle.bdebug.nodeTextMode": "Zmieniono etykiety węzłów: {{nodeTextMode | translate }}",
     "vehicle.bdebug.nodeTextMode.materials": "Materiały",
     "vehicle.bdebug.nodeTextMode.names+numbers": "Nazwy i numery",
+    "vehicle.bdebug.nodeTextMode.numbers": "Liczby",
     "vehicle.bdebug.nodeVisMode.density": "Gęstość",
     "vehicle.bdebug.nodeVisMode.off": "wyłącz",
     "vehicle.bdebug.nodeVisMode.simple": "Wszystkie",
