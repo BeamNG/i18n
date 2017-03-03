@@ -680,6 +680,7 @@
     "ui.apps.tacho2.name": "Tacho2",
     "ui.apps.tachometer.name": "Obrotomierz",
     "ui.apps.tcs_activity_graph.name": "Wykres Aktywności Kontroli Trakcji",
+    "ui.apps.torquecurve.name": "Krzywa momentu obrotowego",
     "ui.apps.turbo_activity_graph.name": "Graf Aktywności Turbosprężarki",
     "ui.apps.vehicleDebug.breakAll": "Zniszcz wszystkie podzespoły",
     "ui.apps.vehicleDebug.breakHinges": "Zniszcz wszystkie Zawiasy",
