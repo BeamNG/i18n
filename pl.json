@@ -1114,6 +1114,7 @@
     "ui.performance.score": "Wynik",
     "ui.performance.showDetails": "Pokaż szczegóły",
     "ui.performance.warnings.gpulowmem": "Twoja karta graficzna (GPU) posiada mniej niż 512MB pamięci RAM",
+    "ui.performance.warnings.gpurecmem": "Zalecane jest posiadanie przynajmniej 2048MB pamięci",
     "ui.performance.warnings.memused": "Ponad 80% pamięci systemowej jest wykorzystywane. Zalecamy zamknąć programy lub zrestartować system.",
     "ui.performance.warnings.os32bits": "Posiadasz 64 bitowy procesor, jednakże zainstalowano 32 bitowy system operacyjny",
     "ui.performance.warnings.xinput": "XInput (dla gamepadów) jest niedostępny, proszę przeinstalować DirectX 9: [url=http://wiki.beamng.com/DirectXInstallation]wiki.beamng.com/DirectXInstallation[/url]",
