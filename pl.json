@@ -596,6 +596,7 @@
     "scenarios.utah.chapter_2.chapter_2_0_comics_test.description": "rozdział_2_0_testkomiksu - testowy komiks",
     "scenarios.utah.chapter_2.chapter_2_0_comics_test.title": "rozdział_2_0_testkomiksu",
     "scenarios.utah.chapter_2.chapter_2_1_ram.description": "rozdział_2_1_taran - ukończony jeśli zepchnęli drugi samochód z klifu, lecz sami z niego nie spadli",
+    "scenarios.utah.chapter_2.chapter_2_1_ram.pass.msg": "Dobra robota! To nadaje się już  tylko na złom.",
     "scenarios.utah.chapter_2.chapter_2_1_ram.title": "Pozbycie się Coveta",
     "scenarios.utah.chapter_2.chapter_2_2_mixed.description": "rozdział_2_2_wymieszany - zwykły wyścig z przeciwnikiem",
     "scenarios.utah.chapter_2.chapter_2_2_mixed.fail.msg": "To wszystko na co cię stać?",
