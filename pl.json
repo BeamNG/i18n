@@ -305,7 +305,7 @@
     "scenarios.driver_training.driver_training.training_hairpins3.5.nomove.msg": "Nie pokonałeś tego zakrętu czysto - Widziałem, że w coś uderzyłeś.",
     "scenarios.driver_training.driver_training.training_hairpins3.5.timeLimit.msg": "Za wolno! Limit czasowy to {{timeLimit}} sekund",
     "scenarios.driver_training.driver_training.training_hairpins3.5.title": "Trening 7: Serpentyny",
-    "scenarios.driver_training.driver_training.training_lanechange.damage.msg": "Nasz Ubezpieczyciel nie będzie zadowolony z tego...",
+    "scenarios.driver_training.driver_training.training_lanechange.damage.msg": "Nasz ubezpieczyciel nie będzie z tego zadowolony...",
     "scenarios.driver_training.driver_training.training_lanechange.defaultWin": "Dobra robota! Civetta Bolide potrafi przysporzyć wiele problemów początkującym.",
     "scenarios.driver_training.driver_training.training_lanechange.description": "Zmiana pasa przy prędkościach autostradowych wymaga łagodnej ręki na kierownicy. Czy masz to czego potrzeba by kierować supersamochodem z lat 80?",
     "scenarios.driver_training.driver_training.training_lanechange.nomove.msg": "Potrąciłeś pachołek! Postaraj się pozostać na wyznaczonej trasie.",
