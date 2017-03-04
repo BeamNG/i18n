@@ -561,6 +561,7 @@
     "scenarios.utah.chapter_1.chapter_1_bridge.title": "Most",
     "scenarios.utah.chapter_1.chapter_1_cannon.damage.msg": "Zniszczyłeś samochód w ciągu {{timeStr}}",
     "scenarios.utah.chapter_1.chapter_1_cannon.description": "Rozdział 1: Armata -statystyki: zniszcz samochód przeciwnika, wynik: uszkodzenia samochodu przeciwnika, (Uszkodź samochód jednym strzałem tak bardzo, jak to możliwe), niepowodzenie: nie wystrzelono z armaty w przeciągu 20 sekund",
+    "scenarios.utah.chapter_1.chapter_1_cannon.fail.msg": "Nie trafiłeś",
     "scenarios.utah.chapter_1.chapter_1_cannon.timeLimit.msg": "Zajęło ci to więcej niż {{timeLimit}} sekund",
     "scenarios.utah.chapter_1.chapter_1_cannon.title": "Armata",
     "scenarios.utah.chapter_1.chapter_1_cliffjump.description": "Dostań się do podnóża klifu najszybszą drogą.",
