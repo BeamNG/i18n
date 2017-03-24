@@ -27,6 +27,7 @@
     "engine.editor.menu.object": "Objekt",
     "engine.editor.menu.openLevel": "Otevřít úroveň...",
     "engine.editor.menu.playLevel": "Hrát level",
+    "engine.editor.menu.postfxManager": "PostEffect manažer",
     "engine.editor.menu.quit": "Opustit hru",
     "engine.editor.menu.resetSelScale": "Resetovat vybrané měřítko",
     "engine.editor.menu.saveLevel": "Uložit úroveň",
