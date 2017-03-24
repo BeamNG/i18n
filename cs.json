@@ -588,7 +588,7 @@
     "ui.options.graphics.antialiasing": "Vyhlazování hran",
     "ui.options.graphics.borderless": "Bez okrajů",
     "ui.options.graphics.display": "Obrazovka",
-    "ui.options.graphics.fpslimiter": "Omezení FPS",
+    "ui.options.graphics.fpslimiter": "Limit FPS",
     "ui.options.graphics.fullscreen": "Celá obrazovka",
     "ui.options.graphics.gamma": "Gamma",
     "ui.options.graphics.grassdensity": "Množství trávy",
