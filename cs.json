@@ -704,6 +704,7 @@
     "vehicle.engine.headGasketDamaged": "Poškozené těsnění pod hlavou",
     "vehicle.engine.rodBearingsDamaged": "Ojniční ložiska jsou poškozena",
     "vehicle.fire.fuelTankRuptured": "Palivová nádrž proražena",
+    "vehicle.main.instability": "Rozpoznána nestabilita vozidla {{vehicle}}: vozidlo se resetuje a vypíná se fyzika",
     "vehicle.recovery.end": "Vozidlo bylo obnoveno (již nelze jít dále)",
     "vehicle.recovery.loadHome": "Vůz vrácen do počáteční pozice",
     "vehicle.recovery.quick": "Vozidlo bylo obnoveno (podržením se vrátíte dále)",
