@@ -135,7 +135,7 @@
     "scenarios.driver_training.safety_training.training_slalom.nomove.msg": "Nesrážej kužely...",
     "scenarios.east_coast_usa.bank_robbery.description": "Právě jste dostali zprávu o probíhajícím přepadení banky ve vašem městě. Zareagujte a vydejte se zastavit unikajícího pachatele dřív, než stihne zmizet z dohledu.",
     "scenarios.east_coast_usa.bank_robbery.onRaceWaypoint.msg": "Zastav lupiče!",
-    "scenarios.east_coast_usa.bank_robbery.onRaceWaypointReached.msg": "Zavtavte zloděje!",
+    "scenarios.east_coast_usa.bank_robbery.onRaceWaypointReached.msg": "Zastav zloděje!",
     "scenarios.east_coast_usa.car_delivery.description": "Dopravte zbrusu nové Hirochi Sunburst Race Edition jeho novému majiteli na venkově",
     "scenarios.east_coast_usa.car_delivery.distance.msg": "Ztratil si vozidlo!",
     "scenarios.east_coast_usa.car_delivery_2.description": "Doruč cenné klasické superauto do domu ve městě.",
