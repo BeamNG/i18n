@@ -210,6 +210,7 @@
     "scenarios.jungle_rock_island.jri_chase.distance.msg": "Podezřelý uprchl",
     "scenarios.jungle_rock_island.jri_chase.speed.msg": "Výborně! Tvůj čas: {{time}}",
     "scenarios.jungle_rock_island.jri_chase.title": "Honička na Jungle Rock Islandu",
+    "scenarios.jungle_rock_island.jri_drown_the_pigeon.description": "Pomoz bezbrannému žlutému Pigeonu přebrodit se přez vodu",
     "scenarios.jungle_rock_island.jri_ds_320_rally.description": "Vezmi přiškrcený Bolide na místa, kam by neměl jezdit",
     "scenarios.jungle_rock_island.jri_moose.speed.msg": "Příliš pomalu... Jeď rychleji!",
     "scenarios.jungle_rock_island.jri_moose.timeLimit.msg": "vyčerpáno víc než {{timeLimit}} sekund",
