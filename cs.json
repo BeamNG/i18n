@@ -297,6 +297,7 @@
     "ui.appselect.reset": "Resetovat rozložení",
     "ui.appselect.search": "Hledat",
     "ui.appselect.selectAll": "Vybrat vše",
+    "ui.color.colorPalette": "Paleta barev {{id}}",
     "ui.colorpicker.brightness": "Jas",
     "ui.colorpicker.chrominess": "Chromovost",
     "ui.colorpicker.colToPre": "Uložit barvu do předvoleb",
