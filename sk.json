@@ -257,6 +257,7 @@
     "scenarios.east_coast_usa.tanker_delivery.wayPointAction.wp1.msg": "Vyzdvihnite príves",
     "scenarios.east_coast_usa.tanker_delivery.wayPointAction.wp2.msg": "Pomaly zacúvaj a pripoj príves",
     "scenarios.east_coast_usa.town_course_short_a.title": "Krátky mestský okruh A",
+    "scenarios.east_coast_usa.town_course_short_b.description": "Ďalšie krátke Rally okolo mestečka",
     "scenarios.gridmap.corridor.title": "Koridor",
     "scenarios.gridmap.gm_corridor.fail.msg": "Dostal si zásah!",
     "scenarios.gridmap.gm_ds_large_jumps.description": "Zober dodávku so zvýšeným podvozkom na pekelnú jadzu",
