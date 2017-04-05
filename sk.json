@@ -450,6 +450,7 @@
     "ui.common.default": "Predvolené",
     "ui.common.delete": "Zmazať",
     "ui.common.disable": "Zakázať",
+    "ui.common.enable": "Povoliť",
     "ui.common.filters": "Filtre",
     "ui.common.finish": "Cieľ",
     "ui.common.fooOrBar": "{{ foo }} alebo {{ bar }}",
