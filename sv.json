@@ -282,6 +282,7 @@
     "ui.common.property.multiseatPlayers": "Flerspelarläge",
     "ui.common.search": "Sök",
     "ui.common.sortBy": "Sortera efter",
+    "ui.common.test": "Test",
     "ui.credits.assistantenvArtists": "Assistenter till miljödesigners",
     "ui.credits.conceptArtists2D": "Konceptdesigners - 2D",
     "ui.credits.customerSupport": "Kundhjälp",
@@ -458,6 +459,7 @@
     "ui.mainmenu.options": "INSTÄLLINGAR",
     "ui.mainmenu.play": "SPELA",
     "ui.mainmenu.repo": "Repository",
+    "ui.modmanager.deleteMod": "Radera mod",
     "ui.modmanager.modmanager": "Mod Manager",
     "ui.options.audio": "Ljud",
     "ui.options.audio.audioDevice": "Ljudenhet",
@@ -576,5 +578,6 @@
     "ui.vehicleconfig.parts": "Delar",
     "ui.vehicleconfig.save": "Spara",
     "ui.vehicleconfig.tuning": "Trimmning",
-    "ui.vehicleconfig.vehicleconfig": "Fordonsanpassning"
+    "ui.vehicleconfig.vehicleconfig": "Fordonsanpassning",
+    "vehicle.drivetrain.driveshaftBroken": "Drivaxel sönder"
 }
