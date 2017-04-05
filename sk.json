@@ -35,6 +35,7 @@
     "engine.editor.menu.playLevel": "Hrať úroveň",
     "engine.editor.menu.postfxManager": "PostEffect manažér",
     "engine.editor.menu.quit": "Opustiť hru",
+    "engine.editor.menu.resetSelRot": "Obnoviť Vybratú Rotáciu",
     "engine.editor.menu.resetSelScale": "Obnoviť vybranú mierku",
     "engine.editor.menu.saveLevel": "Uložiť úroveň",
     "engine.editor.menu.saveLevelAs": "Uložiť úroveň ako...",
