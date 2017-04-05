@@ -271,7 +271,7 @@
     "scenarios.hirochi_raceway.training_RWD_handling.title": "Tréning 4: Ovládanie zadného náhonu",
     "scenarios.hirochi_raceway.training_acceleration_braking.description": "Toto vás naučí základy akcelerácie a brzdenia",
     "scenarios.hirochi_raceway.training_acceleration_braking.nomove.msg": "Trafil si niečo",
-    "scenarios.hirochi_raceway.training_acceleration_braking.position.msg": "Nenachádaš sa v brzdiacej zóne…",
+    "scenarios.hirochi_raceway.training_acceleration_braking.position.msg": "Nenachádzaš sa v brzdiacej zóne…",
     "scenarios.hirochi_raceway.training_acceleration_braking.timeLimit.msg": "Trvalo ti to viac ako {{timeLimit}} sekúnd",
     "scenarios.hirochi_raceway.training_advanced_braking.nomove.msg": "Trafili ste kužeľ! Nabudúce sa snažte predísť zablokovaniu kolies opatrnejšou prácou s brzdami.",
     "scenarios.hirochi_raceway.training_advanced_braking.title": "Tréning 7: Pokročilé Brzdenie",
