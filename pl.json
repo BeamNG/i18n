@@ -599,6 +599,7 @@
     "scenarios.utah.chapter_1.chapter_1_drag.pass.msg": "Wyścig ukończony",
     "scenarios.utah.chapter_1.chapter_1_drag.title": "Wyścig Równoległy",
     "scenarios.utah.chapter_1.chapter_1_highway.description": "Przejedź przez blokadę drogi.",
+    "scenarios.utah.chapter_1.chapter_1_highway.fail.msg": "Musisz pokonać blokadę drogową",
     "scenarios.utah.chapter_1.chapter_1_highway.timeLimit.msg": "Zajęło ci to więcej niż {{timeLimit}} sekund",
     "scenarios.utah.chapter_1.chapter_1_highway.title": "Autostrada",
     "scenarios.utah.chapter_1.chapter_1_hilldrop.description": "Rodzial 1: Zjazd - statystyki: odniesione uszkodzenia, przejechany dystans, wynik: przejechany dystans, (przejedź tak daleko, jak to możliwe w ciagu 20 sekund (limit czasu!!), niepowodzenie: nie ruszyłeś z obszaru startu w ciągu 10 sekund",
