@@ -1257,6 +1257,7 @@
     "vehicle.bdebug.nodeVisMode.density": "Gęstość",
     "vehicle.bdebug.nodeVisMode.off": "wyłącz",
     "vehicle.bdebug.nodeVisMode.simple": "Wszystkie",
+    "vehicle.bdebug.nodeVisMode.velocities": "Prędkości",
     "vehicle.bdebug.nodeVisMode.weights": "Ciężary",
     "vehicle.bdebug.trisOff": "Rysowanie Trójkątów Kolizji wyłączone",
     "vehicle.beamstate.tireDeflated": "{{wheelName | translate}} opona przebita",
