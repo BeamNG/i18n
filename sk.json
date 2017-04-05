@@ -879,6 +879,7 @@
     "vehicle.bdebug.beamVisMode.broken only": "Iba pokazené",
     "vehicle.bdebug.beamVisMode.off": "Vypnuté",
     "vehicle.bdebug.beamVisMode.simple": "Jednoduché",
+    "vehicle.bdebug.beamVisMode.stress": "Namáhanie",
     "vehicle.bdebug.beamVisMode.with broken": "S pokazenými",
     "vehicle.bdebug.cogMode.off": "Vypnuté",
     "vehicle.bdebug.meshVisibility": "Zmena viditeľnosti modelov: {{visibilityPercent}}%",
