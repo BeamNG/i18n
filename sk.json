@@ -90,6 +90,7 @@
     "levels.dry_rock_island.info.roads": "40% asfalt, 30% nespevnená cesta, 30% lesné a priemyselné cesty",
     "levels.dry_rock_island.info.title": "Dry Rock Island",
     "levels.east_coast_usa.info.description": "Východné pobrežie USA. Inšpirované predovšetkým štátmi Maine a New Hampshire",
+    "levels.east_coast_usa.info.roads": "70% asfalt, 25% poľné cesty, 5% cestičky",
     "levels.east_coast_usa.spawnpoints.farmHouse": "Statok",
     "levels.east_coast_usa.spawnpoints.highway": "Diaľnica",
     "levels.east_coast_usa.spawnpoints.sawmill": "Píla",
