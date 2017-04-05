@@ -305,7 +305,7 @@
     "scenarios.driver_training.driver_training.training_cornerspeedB.timeLimit.msg": "Zajęło ci to więcej niż {{timeLimit}} sekund, spróbuj ponownie z trochę większą prędkością",
     "scenarios.driver_training.driver_training.training_cornerspeedB.title": "Trening 4.5: Prędkości Na Zakręcie",
     "scenarios.driver_training.driver_training.training_driftB.description": "Ten scenariusz pozwoli ci rozwinąć umiejętność driftu.",
-    "scenarios.driver_training.driver_training.training_driftB.drift.fail.msg": "Ty to nazywasz to driftem? Osiągnij większe prędkości i kąty! Twój Wynik:",
+    "scenarios.driver_training.driver_training.training_driftB.drift.fail.msg": "Ty to nazywasz driftem? Spróbuj postarać się o większe prędkości i kąty driftu! Twój Wynik:",
     "scenarios.driver_training.driver_training.training_driftB.drift.msg": "Świetna robota, pomalowałeś tą płytę poślizgową w odcień opony! Twój wynik: {{score}}",
     "scenarios.driver_training.driver_training.training_driftB.title": "Trening 10: Diftowanie",
     "scenarios.driver_training.driver_training.training_easycircuit.damage.msg": "Ten samochód będzie potrzebował porządnej naprawy.",
