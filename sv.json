@@ -579,5 +579,6 @@
     "ui.vehicleconfig.save": "Spara",
     "ui.vehicleconfig.tuning": "Trimmning",
     "ui.vehicleconfig.vehicleconfig": "Fordonsanpassning",
-    "vehicle.drivetrain.driveshaftBroken": "Drivaxel sönder"
+    "vehicle.drivetrain.driveshaftBroken": "Drivaxel sönder",
+    "vehicle.recovery.recovered": "Fordonet återställt"
 }
