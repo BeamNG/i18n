@@ -175,6 +175,7 @@
     "scenarios.derby.mudpit_derby.description": "Posledné hybajúce sa auto vyhráva. Znič autá spoluhráčov ale davaj pozor na svoje auto!",
     "scenarios.derby.regular_derby.description": "Posledné hýbajúce sa auto vyhráva. Znič autá spoluhráčov ale dávaj pozor na svoje auto!",
     "scenarios.derby.regular_derby.title": "Demoličné derby - Regulárna Aréna",
+    "scenarios.derby.variedground_derby.description": "Posledné hýbajúce sa auto vyhráva. Znič autá spoluhráčov ale dávaj pozor na svoje auto!",
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.defaultWin": "Takže už vieš jazdiť rovno ako profík? Uvidíme ako ti to ide v zákrutách...",
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.description": "Vitajte v centre zručnosti ETK. Moje meno je Mike, budem tvojím inštruktorom na tomto okruhu. [br] 1[br] 2Začnime zľahka - stačí zrýchliť a potom zastaviť pred tým než trafíš bariéry. Uisti sa, že zastavíš akonáhle dosiahneš miesto na zastavenie!",
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.nomove.msg": "Trafil si niečo",
