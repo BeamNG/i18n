@@ -483,6 +483,7 @@
     "ui.controls.createBinding": "Vytvoriť novú klávesovú skratku",
     "ui.controls.driverWarning": "Varovanie: ak máš problémy so spätnou väzbou tvojho  {{productName}}, mal by si skúsiť nainštalovať najnovšiu verziu ovládača od Logitech.",
     "ui.controls.ffbHardwareMissing": "Hardvér s force feedbackom nebol nájdený",
+    "ui.controls.hint1": "Pomôcka: Vždy majte nainštalované najnovšie ovládače a zakážte \"kombinované pedále\" v kontrolnom panely Windows (ak je povolené)",
     "ui.controls.searchBasicBindings": "Hľadať základné klávesové skratky",
     "ui.credits.assistantenvArtists": "Pomocný výtvarníci prostredia",
     "ui.credits.conceptArtists2D": "Konceptoví výtvarníci - 2D",
