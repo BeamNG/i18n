@@ -705,6 +705,7 @@
     "ui.modmanager.modmanager": "Správca modov",
     "ui.modmanager.modname": "Názov modu",
     "ui.modmanager.openInExplorer": "Otvoriť v prieskumníku",
+    "ui.modmanager.pack": "Balík",
     "ui.modmanager.path": "Cesta",
     "ui.modmanager.type": "Typ",
     "ui.modmanager.unpack": "Rozbaliť",
