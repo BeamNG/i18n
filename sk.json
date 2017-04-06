@@ -270,6 +270,7 @@
     "scenarios.east_coast_usa.car_delivery_2.title": "Doručenie auta 2",
     "scenarios.east_coast_usa.deliverytruck_takedown.damage.msg": "Rozbil si si auto",
     "scenarios.east_coast_usa.deliverytruck_takedown.speed.msg": "Dobrá práca! Tvoj čas: {{time}}",
+    "scenarios.east_coast_usa.deliverytruck_takedown.wayPointAction.msg": "Zastav nákladiak",
     "scenarios.east_coast_usa.destroy_the_car.description": "Zničte Moonhawk nech to stojí čokoľvek",
     "scenarios.east_coast_usa.destroy_the_car.timeLimit.msg": "Bežíš už mimo čas",
     "scenarios.east_coast_usa.east_coast_chase_1.damage.msg": "Nabúrali ste svoje auto",
