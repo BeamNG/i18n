@@ -43,6 +43,7 @@
     "levels.port.info.description": "En övergiven industrihamn.",
     "levels.small_island.info.title": "Liten ö, USA",
     "levels.smallgrid_aitest.info.roads": "Ingen",
+    "levels.smallgrid_tiretest.info.roads": "Ingen",
     "levels.the_void.info.features": "...",
     "levels.utah.info.title": "Utah, USA",
     "levels.utah.spawnpoints.parkingLot": "Parkering",
