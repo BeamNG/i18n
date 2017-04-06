@@ -444,7 +444,7 @@
     "ui.hints.carsBurnFuel": "Din bil kan få slut på bränsle under långa resor. Passa bränslemätaren!",
     "ui.hints.chooseDefaultVehicle": "Du kan välja och anpassa standardfordonet: åk bara till Garaget!",
     "ui.hints.chooseShiftingMode": "För att ändra växlingsläge tryck [action=toggleShifterMode]",
-    "ui.hints.corneringWithKeyboard": "När du svänger med skrivbordet, tryck upprepade gånger på [action=steer_left] eller [action=steer_right] för att kunna kontrollera styrningsvinkeln bättre och förhindra oönskad understyrning.",
+    "ui.hints.corneringWithKeyboard": "När du svänger med ett tangentbord, tryck upprepade gånger på [action=steer_left] eller [action=steer_right] för att kunna kontrollera styrningsvinkeln bättre och förhindra oönskad understyrning.",
     "ui.hints.countersteerEarly": "Om fordonet börja vingla sida till sida måste du korrigera med hjälp av styrningen. Att använda en ratt eller spelkontroll rekommenderas starkt.",
     "ui.hints.customLicensePlate": "Du kan anpassa registreringsskylten i \"Delväljaren\" [action=parts_selector].",
     "ui.hints.customizeSpecializedBindings": "Du kan anpassa fordonsspecifika bindningar (används i exempelvis bilkrossaren och kanonen) genom att att klicka på dem i skärmens övre högra hörn.",
