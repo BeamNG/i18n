@@ -464,7 +464,7 @@
     "ui.hints.quickCameraMovement": "Håll ner [action=movefast] för snabbare kamerarörelse (fungerar inte med alla kameror).",
     "ui.hints.quickSteerResponse": "För bättre styrrespons kan du prova olika filter för [action=steer_left] och [action=steer_right].",
     "ui.hints.raceBrakesEffectiveness": "Racingbromsar förlorar effektivitet när de är för kalla.",
-    "ui.hints.recoverVehicle": "Om ditt fordon fastnar, tryck på [action=recover_vehicle] för att rädda det.",
+    "ui.hints.recoverVehicle": "Om ditt fordon fastnar, tryck på [action=recover_vehicle] för att återställa den.",
     "ui.hints.removeRearSeats": "Gör din bil snabbare genom att ta bort onödig vikt så som baksäten genom att använda Delväljaren [action=parts_selector].",
     "ui.hints.rollPitchApps": "Om du gillar att köra över stora stenar kan \"lutning\" och \"anfallsvinkel\" vara användbara grönssnittsappar.",
     "ui.hints.saveRestoreVehicleHome": "Du kan spara fordonsstartpunkten med [action=saveHome] och senare återställa det med [action=loadHome]",
