@@ -77,7 +77,7 @@
     "scenarios.east_coast_usa.minimum_speed.description": "",
     "scenarios.east_coast_usa.police_patrol.distance.msg": "嫌犯逃脫 ",
     "scenarios.east_coast_usa.police_patrol.speed.msg": "做得好！您用時: {{time}}",
-    "scenarios.east_coast_usa.rallycross_nd_long_a1.description": "",
+    "scenarios.east_coast_usa.rallycross_nd_long_a1.description": "在混合型道路及泥濘路面上進行拉力比賽",
     "scenarios.east_coast_usa.tanker_delivery.wayPointAction.wp2.msg": "",
     "scenarios.gridmap.hard_parking.description": "以最快速度側滑入兩車之間來達成平行泊車",
     "scenarios.gridmap.slalom.title": "",
