@@ -409,6 +409,7 @@
     "ui.feedback.submit": "Skicka",
     "ui.garage.paint.customize": "Anpassa färg",
     "ui.garage.tabs.photo": "Foto",
+    "ui.goals.timeLimit": "Tidsgräns",
     "ui.hints.TrackIRSupported": "BeamNG.drive stödjer TrackIRs huvudspårningsenhet; bara sätt in den och starta spelet!",
     "ui.hints.absWasOptional": "ABS-bromsar har inte alltid varit obligatoriska. Äldre bilar kräver en mer försiktig bromsteknik för att bibehålla kontrollen.",
     "ui.hints.adaptToBadRoads": "Gamla guppiga vägar, lagad asfalt och ojämna ytor begränsar hastigheten vid kurvtagning. Du måste anpassa hastigheten till underlaget.",
