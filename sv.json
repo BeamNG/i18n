@@ -42,6 +42,7 @@
     "extensions.scenario.speedGoal.countdown": "{{countdown}}...",
     "extensions.scenario.timeLimit.checkTime.countdown": "{{countdown}}...",
     "levels.cardealer.info.description": "En bilhandlare på östkusten av USA.",
+    "levels.cardealer.info.roads": "60% asfalt, 40% jord",
     "levels.jungle_rock_island.spawnpoints.spawnsObservatory": "Observatorium",
     "levels.jungle_rock_island.spawnpoints.spawnsPort": "Hamn",
     "levels.port.info.description": "En övergiven industrihamn.",
