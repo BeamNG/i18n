@@ -179,6 +179,7 @@
     "scenarios.Industrial.autocrosstest.title": "Autocross Test",
     "scenarios.Industrial.industrial_jump_large.title": "Veľký skok",
     "scenarios.Industrial.industrial_long_jumps.description": "Dlhá varianta pobrežného komplexu so skokmi",
+    "scenarios.Industrial.industrial_long_jumps.title": "priemyselná dráha dlhých skokov",
     "scenarios.Industrial.pessima_autocross.title": "Svižná Pessima",
     "scenarios.derby.concrete_derby.description": "Posledné hýbajúce auto vyhráva. Znič autá spoluhráčov ale dávaj pozor na svoje auto!",
     "scenarios.derby.derby_test.title": "Demoličné derby - Interný test",
