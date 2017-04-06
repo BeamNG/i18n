@@ -522,6 +522,7 @@
     "ui.mainmenu.help": "HJÄLP",
     "ui.mainmenu.mods": "MODS",
     "ui.mainmenu.news": "NYHETER",
+    "ui.mainmenu.onlineFeatures.featureTitle": "Aktivera Onlinefunktioner?",
     "ui.mainmenu.options": "INSTÄLLNINGAR",
     "ui.mainmenu.play": "SPELA",
     "ui.mainmenu.repo": "Repository",
