@@ -124,7 +124,7 @@
     "scenarios.utah.chapter_2.chapter_2_2_mixed.fail.msg": "你就這點本事？",
     "scenarios.utah.chapter_2.chapter_2_4_delivery.title": "零件運輸",
     "scenarios.utah.chapter_2.chapter_2_6_canyon.description": "在狹窄山谷的小徑中進行一場困難的比賽",
-    "scenarios.utah.cinematic_chase.damage.msg": "撞毀",
+    "scenarios.utah.cinematic_chase.damage.msg": "您已撞毀",
     "scenarios.utah.cinematic_chase.title": "電影般的汽車追逐",
     "ui.apps.categories.debug": "編譯操作",
     "ui.apps.digital_airspeedometer.name": "數位空速錶",
