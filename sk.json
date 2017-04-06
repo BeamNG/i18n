@@ -659,6 +659,7 @@
     "ui.debug.vehicle.removeAll": "Odstrániť Všetko",
     "ui.debug.vehicle.removeCurrent": "Odstrániť aktuálne",
     "ui.debug.vehicle.resetAll": "Resetovať Všetko",
+    "ui.debug.vehicle.spawnNew": "Pridať Nové",
     "ui.environment.cloudCover": "Oblačnosť",
     "ui.environment.day": "Ďeň",
     "ui.environment.earth": "Zem",
