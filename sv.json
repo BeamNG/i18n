@@ -126,7 +126,7 @@
     "scenarios.east_coast_usa.police_patrol.distance.msg": "Den misstänkte flydde ",
     "scenarios.east_coast_usa.police_patrol.speed.msg": "Bra jobbat! Din tid: {{time}}",
     "scenarios.east_coast_usa.police_patrol.title": "Polispatrull",
-    "scenarios.east_coast_usa.police_patrol.wayPointAction.msg": "Stanna forköraren",
+    "scenarios.east_coast_usa.police_patrol.wayPointAction.msg": "Stanna fortköraren",
     "scenarios.east_coast_usa.rallycross_nd_long_a1.description": "En Rallycrossbana som är en blandning av asfalt och grusvägar",
     "scenarios.east_coast_usa.rallycross_nd_long_a1.title": "Rallycross Lång Bana",
     "scenarios.east_coast_usa.tanker_delivery.damage.msg": "Du skadade vagnen",
