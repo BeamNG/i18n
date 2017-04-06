@@ -484,7 +484,7 @@
     "ui.hints.tiresBurstOnBumps": "Alla däck är inte gjorda för höga hastigheter och belastningar. Vissa kommer att gå sönder när de träffar gupp för snabbt.",
     "ui.hints.toggleFogLights": "Om ditt fordon är utrustat ned dimljus så kan du växla dem med hjälp av [action=toggle_foglights].",
     "ui.hints.towTrailer": "För att dra en släpvagn med din pickup: Ta fram båda med [action=vehicle_selector], närma dig släpvagnen och tryck på [action=couplersToggle]",
-    "ui.hints.tuning": "Du kan justera däcktryck, hjulinställning och andra inställningar i \"Trimmning\" menyn [action=parts_selector].",
+    "ui.hints.tuning": "Du kan justera däcktryck, hjulinställning och andra inställningar i \"Trimning\" menyn [action=parts_selector].",
     "ui.hints.useTurnSignals": "Visste du att de flesta bilarna har fungerande blinkers? Så är det i BeamNG.drive också! Använd [action=toggle_left_signal] och [action=toggle_right_signal] för att aktivera dem.",
     "ui.hints.vehicleSkins": "Vissa fordon kan ha olika dekaler. Du finner dem i Delväljaren [action=parts_selector], under fliken färg.",
     "ui.launcher.test": "hej världen!",
