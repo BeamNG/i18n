@@ -634,5 +634,6 @@
     "vehicle.bullettime.realtime": "Realtid",
     "vehicle.drivetrain.driveshaftBroken": "Drivaxel sönder",
     "vehicle.drivetrain.shifterModeNameArcade": "Arkad",
+    "vehicle.engine.coolantOverheating": "Kylarvätska överhettas",
     "vehicle.recovery.recovered": "Fordonet återställt"
 }
