@@ -910,6 +910,7 @@
     "ui.repository.filter_latest": "Posledné",
     "ui.repository.info": "Informácie",
     "ui.repository.option_reviews": "Hodnotenia",
+    "ui.repository.rating": "Hodnotenie",
     "ui.repository.version_id": "Verzia",
     "ui.scenarios.end.points": "Body",
     "ui.scenarios.end.requirements": "Potreby",
