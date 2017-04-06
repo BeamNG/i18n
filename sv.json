@@ -31,6 +31,7 @@
     "engine.windowedModeReq.msgGUI": "Vänligen gå ur GUI Ändraren för att byta till fullskärm.",
     "engine.windowedModeReq.title": "Fönsterläge krävs",
     "extensions.scenario.damageGoal.win.msg": "Bra jobbat! Din tid: {{timeStr}}",
+    "levels.cardealer.info.description": "En bilhandlare på östkusten av USA.",
     "levels.jungle_rock_island.spawnpoints.spawnsObservatory": "Observatorium",
     "levels.smallgrid_aitest.info.roads": "Ingen",
     "levels.utah.info.title": "Utah, USA",
