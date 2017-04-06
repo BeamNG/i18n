@@ -225,7 +225,7 @@
     "scenarios.jungle_rock_island.jri_ds_320_rally.title": "Superbilsrally",
     "scenarios.jungle_rock_island.jri_moose.damage.msg": "Du skadade din bil...",
     "scenarios.jungle_rock_island.jri_moose.description": "Ett klassiskt älgtest, utformat för att testa ett fordons stabilitet",
-    "scenarios.jungle_rock_island.jri_moose.speed.msg": "För långsamt... Kör fortare!",
+    "scenarios.jungle_rock_island.jri_moose.speed.msg": "För långsam... Kör fortare!",
     "scenarios.jungle_rock_island.jri_pessima.description": "Ett lopp runt hela ön i en Pessima Custom",
     "scenarios.jungle_rock_island.jri_portshakedown.title": "Hamn Uppgörelsen",
     "scenarios.jungle_rock_island.jri_shortcut.title": "Genväg",
