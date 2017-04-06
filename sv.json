@@ -223,7 +223,7 @@
     "scenarios.small_island.cop_chase.description": "Neutralisera Pessiman med din polis-Sunburst.",
     "scenarios.small_island.cop_chase.speed.msg": "Bra jobbat! Din tid: {{time}}",
     "scenarios.small_island.cop_chase.title": "Jakt på liten ö",
-    "scenarios.small_island.cop_chase.wayPointAction.wayPointMsg": "Stanna Pessiman!",
+    "scenarios.small_island.cop_chase.wayPointAction.wayPointMsg": "Stoppa Pessiman!",
     "scenarios.small_island.intro_rally_stage1.description": "En introduktion till rally",
     "scenarios.small_island.intro_rally_stage1.title": "Örally - Etapp 1",
     "scenarios.small_island.intro_rally_stage2.description": "En punkt-till-punkt-rallyetapp.",
