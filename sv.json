@@ -614,6 +614,7 @@
     "ui.vehicleconfig.tuning": "Trimmning",
     "ui.vehicleconfig.vehicleconfig": "Fordonsanpassning",
     "vehicle.bdebug.beamVisMode.off": "Av",
+    "vehicle.bdebug.nodeVisMode.weights": "Vikter",
     "vehicle.bullettime.realtime": "Realtid",
     "vehicle.drivetrain.driveshaftBroken": "Drivaxel sönder",
     "vehicle.drivetrain.shifterModeNameArcade": "Arkad",
