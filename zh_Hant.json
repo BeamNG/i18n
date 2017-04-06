@@ -68,7 +68,7 @@
     "scenarios.driver_training.driver_training.training_rwd.timeLimit.msg": "該載具配備有強有力的V8發動機... 請充分利用!",
     "scenarios.driver_training.driver_training.training_slalom.defaultWin": "太讚了！您像個專家一樣躲避了全部的路障.",
     "scenarios.driver_training.safety_training.training_mu_braking.nomove.msg": "不要碰到路障喔...",
-    "scenarios.east_coast_usa.bank_robbery.description": "您接到當地小鎮銀行被劫的報告。快速反應並在疑犯逃回藏身處前攔截",
+    "scenarios.east_coast_usa.bank_robbery.description": "您接到當地小鎮銀行被劫的報告。快速反應並在嫌犯逃回藏身處前攔截。",
     "scenarios.east_coast_usa.bank_robbery.onRaceWaypointReached.msg": "阻止搶劫犯！",
     "scenarios.east_coast_usa.car_delivery_2.title": "載具運輸 2",
     "scenarios.east_coast_usa.east_coast_chase_1.description": "",
