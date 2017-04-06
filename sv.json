@@ -183,6 +183,7 @@
     "scenarios.hirochi_raceway.training_slalom_FWD.title": "Övning 8: Framhjulsdriftsslalom",
     "scenarios.hirochi_raceway.training_spin_recovery.description": "Lär dig köra en bakhjulsdriven bil utan att få sladd",
     "scenarios.hirochi_raceway.training_spin_recovery.nomove.msg": "Du lämnade återhämtningsområdet! Försök att förutse rörelsen på bilen för att undvika att förlora kontroll.",
+    "scenarios.jungle_rock_island.drag_race.fail.msg": "Du förlorade...",
     "scenarios.jungle_rock_island.drag_race.title": "Flygfältsuppgörelsen",
     "scenarios.jungle_rock_island.hypermiling.speed.msg": "Du fastnade eller fick slut på bränsle",
     "scenarios.jungle_rock_island.hypermiling.title": "Hypermiling",
@@ -257,6 +258,8 @@
     "ui.apps.categories.vehicle_control": "Fordonskontroll",
     "ui.apps.categories.vehicle_info": "Fordonsinfo",
     "ui.apps.categories.vehicle_profiling": "Fordonsprofilering",
+    "ui.apps.cruise_control.name": "Farthållare",
+    "ui.apps.navigation.name": "Navigation",
     "ui.apps.vehicleDebug.breakAll": "Ta sönder alla breakgroups",
     "ui.apps.vehicleDebug.breakHinges": "Förstör alla gångjärn",
     "ui.apps.vehicleDebug.deflateTires": "Töm ut Luften ur Däcken",
@@ -603,6 +606,7 @@
     "ui.vehicleconfig.save": "Spara",
     "ui.vehicleconfig.tuning": "Trimmning",
     "ui.vehicleconfig.vehicleconfig": "Fordonsanpassning",
+    "vehicle.bullettime.realtime": "Realtid",
     "vehicle.drivetrain.driveshaftBroken": "Drivaxel sönder",
     "vehicle.recovery.recovered": "Fordonet återställt"
 }
