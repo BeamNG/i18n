@@ -423,7 +423,7 @@
     "ui.hints.keepTheEngineUpright": "En uppochnedvänd motor får snabbt oljebrist. Blå rök tyder på att cylindrarna oljefylls; och kullagrena kan gå sönder.",
     "ui.hints.moonGravity": "Du kan simulera mångravitation i \"Miljö\" menyn.",
     "ui.hints.notAllCarsCanRace": "Många fordon är inte anpassade för snabb körning eller racing i ordinarie utförande. Uppgraderingar finns i Delväljaren [action=parts_selector].",
-    "ui.hints.oldCarsBurn": "Vissa äldre bilar har lätt för att fatta eld efter en krock, men moderna bilar är mycket säkrare.",
+    "ui.hints.oldCarsBurn": "Vissa äldre bilar har lätt för att fatta eld efter en krock, medans moderna bilar är betydligt säkrare.",
     "ui.hints.photoModeMenu": "Fotoläget förser dig med avancerade kontroller över kameran och en möjlighet att direkt ladda upp bilder till BeamNG:s servrar.",
     "ui.hints.playMultiseat": "Anslut flera spelkontroller och spela med vänner hemma. Välj något av Flersätesscenariona.",
     "ui.hints.publishScreenshots": "Om du gillar att ta kort av ditt fordon så kan du använda [action=hide_ui] för att gömma användargränssnittet och sedan [action=publishScreenShot] för att ladda upp bilden.",
