@@ -242,6 +242,7 @@
     "scenarios.utah.chapter_1.chapter_1_rubberband.title": "Gummiband",
     "scenarios.utah.chapter_1.chapter_1_suspension.title": "Fjädring",
     "scenarios.utah.chapter_1.chapter_1_walljump.title": "Vägghopp",
+    "scenarios.utah.cinematic_chase.distance.msg": "Skurken kom undan",
     "scenarios.utah.downhill_rally.description": "Ett långt rallylopp genom Utah",
     "scenarios.utah.downhill_rally.title": "Nerförrally",
     "scenarios.utha.chapter_2.chapter_2_0_comics_test.description": "kapitel_2_0_comictest - comic test",
@@ -609,7 +610,9 @@
     "ui.vehicleconfig.save": "Spara",
     "ui.vehicleconfig.tuning": "Trimmning",
     "ui.vehicleconfig.vehicleconfig": "Fordonsanpassning",
+    "vehicle.bdebug.beamVisMode.off": "Av",
     "vehicle.bullettime.realtime": "Realtid",
     "vehicle.drivetrain.driveshaftBroken": "Drivaxel sönder",
+    "vehicle.drivetrain.shifterModeNameArcade": "Arkad",
     "vehicle.recovery.recovered": "Fordonet återställt"
 }
