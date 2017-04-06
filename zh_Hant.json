@@ -1,6 +1,6 @@
 {
     "campaigns.training.training.title": "駕駛員試煉",
-    "campaigns.training.training.training_advanced.title": "",
+    "campaigns.training.training.training_advanced.title": "訓練9：進階過彎",
     "campaigns.training.training.training_cornering.title": "試煉 2: 轉角性能",
     "campaigns.training.training.training_hairpins.title": "試煉 5: 急轉彎",
     "campaigns.utah.chapter_1.hilldrop.title": "衝落山坡",
@@ -58,7 +58,7 @@
     "scenarios.Industrial.autocrosstest.title": "",
     "scenarios.derby.derby_test.title": "",
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.defaultWin": "",
-    "scenarios.driver_training.driver_training.training_acceleration_braking1.5.description": "",
+    "scenarios.driver_training.driver_training.training_acceleration_braking1.5.description": "歡迎來到ETK駕駛體驗中心。我的名字是Mike，將擔任您的教練。[br][br]我們先由簡單開始——您只需加速向前，然後在障礙前停下來。記得要在見到「Stop」標誌時制動！",
     "scenarios.driver_training.driver_training.training_cornering2.5.title": "試煉 2: 轉角性能",
     "scenarios.driver_training.driver_training.training_driftB.drift.fail.msg": "你說這叫漂移？速度加快，角度加大！您的得分:{{score}}",
     "scenarios.driver_training.driver_training.training_driftB.title": "試煉 11: 甩尾",
