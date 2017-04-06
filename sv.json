@@ -302,6 +302,7 @@
     "ui.appselect.search": "Sök",
     "ui.appselect.selectAll": "Markera alla",
     "ui.color.colorPalette": "Färgpalett {{id}}",
+    "ui.color.hue": "Nyans",
     "ui.colorpicker.brightness": "Ljusstyrka",
     "ui.colorpicker.chrominess": "Kromhet",
     "ui.colorpicker.colToPre": "Lägg till färg till Förinställda",
