@@ -141,6 +141,7 @@
     "scenarios.east_coast_usa.town_course_short_a.title": "Stadsbana Kort A",
     "scenarios.east_coast_usa.town_course_short_b.description": "Ytterligare ett kort rally runt staden",
     "scenarios.gridmap.corridor.title": "Korridor",
+    "scenarios.gridmap.gm_corridor.fail.msg": "Du blev på körd!",
     "scenarios.gridmap.gm_ds_large_jumps.title": "Flygande Vanster",
     "scenarios.gridmap.gm_ds_offroad_shortcourse.description": "3 utmaningar, klarar D15:en av det?",
     "scenarios.gridmap.gm_intersection.description": "Anpassa farten så att du träffar den andra bilen",
