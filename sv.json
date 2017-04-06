@@ -34,6 +34,7 @@
     "engine.windowedModeReq.title": "Fönsterläge krävs",
     "extensions.scenario.damageGoal.fail.msg": "Du skadade din bil",
     "extensions.scenario.damageGoal.win.msg": "Bra jobbat! Din tid: {{timeStr}}",
+    "extensions.scenario.drift.failedGoal": "Du behöver minst {{minDrift}} poäng.",
     "extensions.scenario.onRaceEnd.default.win": "Snyggt jobbat! Din tid: {{timeStr}}",
     "extensions.scenario.speedGoal.countdown": "{{countdown}}...",
     "extensions.scenario.timeLimit.checkTime.countdown": "{{countdown}}...",
@@ -643,5 +644,6 @@
     "vehicle.drivetrain.driveshaftBroken": "Drivaxel sönder",
     "vehicle.drivetrain.shifterModeNameArcade": "Arkad",
     "vehicle.engine.coolantOverheating": "Kylarvätska överhettas",
+    "vehicle.recovery.loadHome": "Fordon återställt till hemposition",
     "vehicle.recovery.recovered": "Fordonet återställt"
 }
