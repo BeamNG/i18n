@@ -755,6 +755,7 @@
     "ui.faq.mapEditor.q": "Ako otvorím editor mapy?",
     "ui.faq.spawnVehicle.a": "Pre výber vozidla môžeš použiť selektor vozidiel z menu použitím [action=toggleMenues] alebo [action=vehicle_selector].",
     "ui.faq.spawnVehicle.q": "Ako môžem spawnúť viac vozidiel?",
+    "ui.faq.updateGame.a": "Steam automaticky inštaluje aktualizácie ak ste pripojený k internetu.[br]Pre viac informácii navštítvte našu wiki stránku [url=http://wiki.beamng.com/Updating_the_game]http://wiki.beamng.com/Updating_the_game[/url]",
     "ui.faq.updateGame.q": "Ako aktualizovať hru BeamNG?",
     "ui.faq.useMods.q": "Ako používať módy?",
     "ui.feedback.back": "Späť",
@@ -1154,5 +1155,5 @@
     "vehicle.recovery.loadHome": "Auto bolo vrátené do začiatočnej pozície",
     "vehicle.recovery.recovered": "Vozidlo obnovené",
     "vehicle.recovery.recovering": "Prebieha obnova vozidla...",
-    "vehicle.recovery.saveHome": "Pozícia vozidla akutualizovaná (použi [action=loadHome] pre obnovenie)"
+    "vehicle.recovery.saveHome": "Pozícia vozidla aktualizovaná (použi [action=loadHome] pre obnovenie)"
 }
