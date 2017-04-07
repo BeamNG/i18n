@@ -1152,7 +1152,7 @@
     "vehicle.fire.fuelTankRuptured": "Palivová nádrž prerazená",
     "vehicle.main.instability": "Zistená nestabilita vozidla {{vehicle}}: obnovujem vozidlo a deaktivujem fyziku",
     "vehicle.recovery.end": "Vozidlo obnovené (ďalej už obnoviť nejde)",
-    "vehicle.recovery.loadHome": "Auto bolo vrátené do začiatočnej pozície",
+    "vehicle.recovery.loadHome": "Vozidlo obnovené do východiskovej polohy",
     "vehicle.recovery.recovered": "Vozidlo obnovené",
     "vehicle.recovery.recovering": "Prebieha obnova vozidla...",
     "vehicle.recovery.saveHome": "Pozícia vozidla aktualizovaná (použi [action=loadHome] pre obnovenie)"
