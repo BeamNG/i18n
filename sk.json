@@ -396,6 +396,7 @@
     "scenarios.hirochi_raceway.training_advanced_braking.timeLimit.msg": "Čas uplynul! Skús znova s väčšou rýchlosťou.",
     "scenarios.hirochi_raceway.training_advanced_braking.title": "Tréning 7: Pokročilé Brzdenie",
     "scenarios.hirochi_raceway.training_corner_speeds.description": "Toto vás naučí správne vchádzať do zákrut v správnej rýchlosti",
+    "scenarios.hirochi_raceway.training_corner_speeds.timeLimit.msg": "Čas uplynul! Skús znova s väčšou rýchlosťou.",
     "scenarios.hirochi_raceway.training_corner_speeds.title": "Tréning 6: Rýchlosť v zákrutách",
     "scenarios.hirochi_raceway.training_cornering.description": "Toto vás naučí ako používať ideálnu stopu pre efektívnejšiu jazdu",
     "scenarios.hirochi_raceway.training_cornering.nomove.msg": "Niečo si trafil",
