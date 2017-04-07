@@ -345,6 +345,7 @@
     "scenarios.east_coast_usa.tanker_delivery.title": "Dodanie cisterny",
     "scenarios.east_coast_usa.tanker_delivery.wayPointAction.wp1.msg": "Vyzdvihnite príves",
     "scenarios.east_coast_usa.tanker_delivery.wayPointAction.wp2.msg": "Pomaly zacúvaj a pripoj príves",
+    "scenarios.east_coast_usa.town_course_short_a.description": "Krátky Rally závod okolo mesta",
     "scenarios.east_coast_usa.town_course_short_a.title": "Krátky mestský okruh A",
     "scenarios.east_coast_usa.town_course_short_b.description": "Ďalšie krátke Rally okolo mestečka",
     "scenarios.gridmap.corridor.description": "Nákladné auto sa na teba rúti a si uväznený v malej uličke. Nájdi spôsob ako prežiť!",
