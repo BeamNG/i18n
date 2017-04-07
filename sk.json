@@ -1069,7 +1069,7 @@
     "ui.scenarios.end.passFailRatio": "Splnené / Nesplnené",
     "ui.scenarios.end.points": "Body",
     "ui.scenarios.end.requirements": "Potreby",
-    "ui.scenarios.end.result.fail": "Zlyhal si",
+    "ui.scenarios.end.result.fail": "Neúspešný",
     "ui.scenarios.end.stats": "Štatistiky",
     "ui.scenarios.end.yourScore": "Vaše skóre",
     "ui.scenarios.start.trainingScenario": "Tréningová misia",
