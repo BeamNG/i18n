@@ -53,6 +53,7 @@
     "engine.editor.menu.object": "Objekt",
     "engine.editor.menu.openLevel": "Otvoriť úroveň...",
     "engine.editor.menu.orbitCamera": "Orbitálna Kamera",
+    "engine.editor.menu.placePlayerCamera": "Umiestniť hráča na pozíciu kamery",
     "engine.editor.menu.playLevel": "Hrať úroveň",
     "engine.editor.menu.posXAxis": "OS +X",
     "engine.editor.menu.postfxManager": "PostEffect manažér",
@@ -422,6 +423,7 @@
     "scenarios.jungle_rock_island.drag_race.title": "Zúčtovanie na Letisku",
     "scenarios.jungle_rock_island.drag_race.win.msg": "Dobrá práca! Tvoj čas: {{time}}",
     "scenarios.jungle_rock_island.hypermiling.description": "Dostaň sa na letisko s tvojou efektívnou Pessima HX a len kvapkou benzínu",
+    "scenarios.jungle_rock_island.hypermiling.speed.msg": "Zasekol si sa alebo ti došlo palivo",
     "scenarios.jungle_rock_island.intro_jri_hillclimb.description": "Závod do kopca okolo sopky na ostrove",
     "scenarios.jungle_rock_island.intro_jri_hillclimb.title": "Závod do kopca",
     "scenarios.jungle_rock_island.intro_jri_mountain_race.description": "Závod okolo sopky na Jungle Rock Island",
@@ -880,6 +882,7 @@
     "ui.mainmenu.play": "HRAŤ",
     "ui.mainmenu.repo": "Repozitár",
     "ui.modmanager.activateAll": "Aktivovať všetky módy",
+    "ui.modmanager.active": "Aktívny",
     "ui.modmanager.creationDate": "Dátum stvorenia",
     "ui.modmanager.dateAdded": "Dátum pridania",
     "ui.modmanager.deactivate": "Deaktivovať",
@@ -1029,6 +1032,7 @@
     "ui.performance.warnings.minmem": "Menej ako 4GB pamäte: Pre načítanie niektorých levelov nie je dostatok pamäte",
     "ui.performance.warnings.missing64binary": "Nie je spustená 64 Bitová verzia: 64 Bitová verzia chýba: Preinštalujte prosím hru",
     "ui.performance.warnings.oldwin7": "Nie je spustená 64 Bitová verzia: operačný systém je starší ako Windows 7 Service Pack 1: Aktualizujte prosím Windows",
+    "ui.performance.warnings.os32bits": "Máte 64 Bitový procesor ale len 32 Bitový operačný systém",
     "ui.performance.warnings.oswin8": "Doporučený systém je Windows 8: momentálne spustené v móde kompatibility x86",
     "ui.performance.warnings.powerdisconnected": "Odpojený zdroj",
     "ui.performance.warnings.thirdpartysoftware": "Nie je spustená 64 Bitová verzia: Softvér Lavasoft bol nájdený. Viac informácií a riešenie nájdeš tu: [url=http://wiki.beamng.com/Lavasoft] 1wiki.beamng.com/Lavasoft[/url]",
@@ -1117,6 +1121,7 @@
     "ui.vehicleconfig.tuning": "Ladenie vozidla",
     "ui.vehicleconfig.vehicleconfig": "Úprava vozidiel",
     "vehicle.bdebug.beamVisMode.broken only": "Iba pokazené",
+    "vehicle.bdebug.beamVisMode.deformation": "Deformácia",
     "vehicle.bdebug.beamVisMode.off": "Vypnuté",
     "vehicle.bdebug.beamVisMode.simple": "Jednoduché",
     "vehicle.bdebug.beamVisMode.stress": "Namáhanie",
@@ -1160,5 +1165,6 @@
     "vehicle.recovery.loadHome": "Vozidlo obnovené do východiskovej polohy",
     "vehicle.recovery.recovered": "Vozidlo obnovené",
     "vehicle.recovery.recovering": "Prebieha obnova vozidla...",
-    "vehicle.recovery.saveHome": "Pozícia vozidla aktualizovaná (použi [action=loadHome] pre obnovenie)"
+    "vehicle.recovery.saveHome": "Pozícia vozidla aktualizovaná (použi [action=loadHome] pre obnovenie)",
+    "vehicle.turbocharger.overheating": "Turbo sa prehrieva"
 }
