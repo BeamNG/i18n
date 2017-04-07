@@ -160,6 +160,7 @@
     "levels.smallgrid.info.roads": "Žiadne",
     "levels.smallgrid_aitest.info.description": "terén na testovanie AI",
     "levels.smallgrid_aitest.info.roads": "Žiadne",
+    "levels.smallgrid_lightstest.info.roads": "Nič",
     "levels.smallgrid_lightstest.info.title": "Mriežka, Malá, Test osvetlenia",
     "levels.smallgrid_soundtest.info.biome": "VR",
     "levels.smallgrid_tiretest.info.description": "Hroty na prepichovanie pneumatík",
