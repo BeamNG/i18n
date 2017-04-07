@@ -294,6 +294,7 @@
     "scenarios.east_coast_usa.car_delivery_2.description": "Dopravte vzácne klasické superauto pri dom v meste.",
     "scenarios.east_coast_usa.car_delivery_2.title": "Doručenie auta 2",
     "scenarios.east_coast_usa.deliverytruck_takedown.damage.msg": "Rozbil si si auto",
+    "scenarios.east_coast_usa.deliverytruck_takedown.description": "Zastav nebezpečné nákladné auto!",
     "scenarios.east_coast_usa.deliverytruck_takedown.speed.msg": "Dobrá práca! Tvoj čas: {{time}}",
     "scenarios.east_coast_usa.deliverytruck_takedown.wayPointAction.msg": "Zastav nákladné auto",
     "scenarios.east_coast_usa.destroy_the_car.damage.msg": "Zničil si Moonhawk za {{timeStr}}",
