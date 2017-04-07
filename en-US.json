@@ -1659,8 +1659,8 @@
     "levels.west_coast_usa.info.suitablefor":"drag races, police chases",
     "levels.west_coast_usa.info.features":"Belasco City, seaside cliff roads, redwood forest roads, overpasses, racetrack",
     "levels.west_coast_usa.spawnpoints.industrial":"Industrial Area",
-    "levels.west_coast_usa.spawnpoints.chinatown":"Chintown (DFKI)",
-    "levels.west_coast_usa.spawnpoints.redwood_forest":"Redwood forest (DFKI)",
+    "levels.west_coast_usa.spawnpoints.chinatown":"Chintown",
+    "levels.west_coast_usa.spawnpoints.redwood_forest":"Redwood forest",
     "levels.west_coast_usa.spawnpoints.highway":"Highway",
     "levels.west_coast_usa.spawnpoints.racetrack":"Race Track",
 
