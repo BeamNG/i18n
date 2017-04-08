@@ -194,7 +194,7 @@
     "scenarios.hirochi_raceway.training_corner_speeds.timeLimit.msg": "Tiden är ute! Försök igen med högre hastighet.",
     "scenarios.hirochi_raceway.training_corner_speeds.title": "Övning 6: Hastighet vid kurvtagning",
     "scenarios.hirochi_raceway.training_cornering.description": "Det här kommer lära dig hur man använder en racinglinje för mer effektiv körning",
-    "scenarios.hirochi_raceway.training_cornering.nomove.msg": "du krockade med någonting",
+    "scenarios.hirochi_raceway.training_cornering.nomove.msg": "Du krockade med något",
     "scenarios.hirochi_raceway.training_cornering.position.msg": "Du är inte i bromsområdet...",
     "scenarios.hirochi_raceway.training_cornering.title": "Övning: Kurvtagning",
     "scenarios.hirochi_raceway.training_drifting.description": "Detta scenario låter dig utveckla dina driftingkunskaper.",
