@@ -18,6 +18,7 @@
     "engine.editor.menu.openLevel": "Öppna Bana…",
     "engine.editor.menu.playLevel": "Spela Bana",
     "engine.editor.menu.quit": "Avsluta",
+    "engine.editor.menu.resetSelScale": "Återställ valda skalan",
     "engine.editor.menu.saveLevel": "Spara Bana",
     "engine.editor.menu.saveLevelAs": "Spara Bana Som…",
     "engine.editor.menu.undo": "Ångra",
@@ -670,6 +671,7 @@
     "vehicle.drivetrain.driveshaftBroken": "Drivaxel sönder",
     "vehicle.drivetrain.shifterModeNameArcade": "Arkad",
     "vehicle.engine.coolantOverheating": "Kylarvätska överhettas",
+    "vehicle.engine.rodBearingsDamaged": "Vevstakslager skadade",
     "vehicle.recovery.loadHome": "Fordon återställt till hemposition",
     "vehicle.recovery.recovered": "Fordonet återställt"
 }
