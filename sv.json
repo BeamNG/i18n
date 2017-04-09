@@ -7,6 +7,7 @@
     "engine.cef.subprocessdied.title": "Användargränssnittet svarar ej",
     "engine.cef.subprocessdied.url": "http://wiki.beamng.com/Errors/Unresponsive_UI_Process",
     "engine.editor.menu.camera": "Kamera",
+    "engine.editor.menu.cameraspeed.faster": "Snabbare",
     "engine.editor.menu.copy": "Kopiera",
     "engine.editor.menu.createBlankTerrain": "Skapa Tom Terräng",
     "engine.editor.menu.exitLevel": "Lämna Bana",
