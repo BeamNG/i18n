@@ -111,7 +111,7 @@
     "scenarios.east_coast_usa.car_delivery.title": "Billeverans",
     "scenarios.east_coast_usa.car_delivery_2.description": "Leverera en värdefull gammal klassisk sportbil till ett hus i staden.",
     "scenarios.east_coast_usa.car_delivery_2.distance.msg": "Du förlorade bilen!",
-    "scenarios.east_coast_usa.car_delivery_2.title": "Billeverering 2",
+    "scenarios.east_coast_usa.car_delivery_2.title": "Leverans av Bil 2",
     "scenarios.east_coast_usa.deliverytruck_takedown.description": "Stoppa den farliga lastbilen!",
     "scenarios.east_coast_usa.deliverytruck_takedown.distance.msg": "Du kom för långt bort från den misstänkte",
     "scenarios.east_coast_usa.destroy_the_car.description": "Förstör Moonhawken, oavsett vad som krävs",
