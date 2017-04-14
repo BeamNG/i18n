@@ -837,7 +837,7 @@
     "ui.performance.warnings.remotedesktop": "You are using Remote Desktop",
     "ui.performance.warnings.intelgpu": "You are using an Intel GPU. Make sure your dedicated GPU is used instead.",
     "ui.performance.warnings.geforcemin": "At least a GeForce 550 is required",
-    "ui.performance.warnings.amdhd": "At least a AMDÂ RadeonÂ HD XXX is recommended",
+    "ui.performance.warnings.amdhd": "At least a AMD Radeon HD XXX is recommended",
     "ui.performance.warnings.amdradeon": "At least an AMD Radeon R8 is required",
     "ui.performance.warnings.gpulowmem": "Your GPU has less than 512 of video memory",
     "ui.performance.warnings.gpurecmem": "At least 2048MB memory is recommended",
@@ -1001,6 +1001,10 @@
     "ui.loading.spawn.postfx": "Fancy effects",
     "ui.loading.spawn.collada": "Importing 3D stuff",
 
+    "replay.startRecording": "Recording new replay (press [action=toggleReplayRecording] to stop)",
+    "replay.stopRecording": "Replay saved (use replay UI app to view)",
+    "replay.stopRecordingAutoplay": "Replay saved",
+
 
     "scenarios.cliff.get_down.title": "Get down",
     "scenarios.cliff.get_down.description": "Reach the checkpoint at the beach.",
@@ -1098,7 +1102,7 @@
     "scenarios.driver_training.safety_training.training_spin_recovery.title":"Safety Training: Spin Recovery",
     "scenarios.driver_training.safety_training.training_spin_recovery.description":"",
     "scenarios.driver_training.safety_training.training_spin_recovery.nomove.msg":"Don't hit the cones...",
-    "scenarios.driver_training.safety_training.training_mu_braking.title":"Safety Training: Î¼-Braking",
+    "scenarios.driver_training.safety_training.training_mu_braking.title":"Safety Training: u-Braking",
     "scenarios.driver_training.safety_training.training_mu_braking.description":"",
     "scenarios.driver_training.safety_training.training_mu_braking.nomove.msg":"Don't hit the cones...",
     "scenarios.east_coast_usa.gm_racetest.title":"Racetest",
@@ -1391,7 +1395,7 @@
     "scenarios.utah.chapter_1.chapter_1_hilldrop.fail.msg": "You didn't move in 10 seconds",
     "scenarios.utah.chapter_1.chapter_1_hilldrop.pass.msg": "Well done!",
     "scenarios.utah.chapter_1.chapter_1_jump.title": "Jump",
-    "scenarios.utah.chapter_1.chapter_1_jump.timeLimit.msg":" You took more than {{timeLimit}} seconds",
+    "scenarios.utah.chapter_1.chapter_1_jump.timeLimit.msg":"You took more than {{timeLimit}} seconds",
     "scenarios.utah.chapter_1.chapter_1_jump.description": "Launch your car off a large jump and try to flatten the target.",
     "scenarios.utah.chapter_1.chapter_1_jump.damage.msg": "You destroyed the car in {{timeStr}}",
     "scenarios.utah.chapter_1.chapter_1_jump.fail.msg": "You missed",
@@ -1457,6 +1461,7 @@
     "scenarios.utah.guineapig.damage.msg": "The covet is too damaged!",
     "scenarios.utah.guineapig.pass.msg": "Covet delivered!",
     "scenarios.utah.guineapig.fail.msg": "You failed",
+    "scenarios.utah.guineapig.nocargo.msg": "You didn't deliver the cargo to its destination.",
     "scenarios.utah.guineapig.cargoFellOff.fail.msg": "The covet fell off the trailer.",
 
     "quickrace.east_coast_usa.dirt_race.title": "Dirt Race",
@@ -1659,7 +1664,7 @@
     "levels.west_coast_usa.info.suitablefor":"drag races, police chases",
     "levels.west_coast_usa.info.features":"Belasco City, seaside cliff roads, redwood forest roads, overpasses, racetrack",
     "levels.west_coast_usa.spawnpoints.industrial":"Industrial Area",
-    "levels.west_coast_usa.spawnpoints.chinatown":"Chintown",
+    "levels.west_coast_usa.spawnpoints.chinatown":"Chinatown",
     "levels.west_coast_usa.spawnpoints.redwood_forest":"Redwood forest",
     "levels.west_coast_usa.spawnpoints.highway":"Highway",
     "levels.west_coast_usa.spawnpoints.racetrack":"Race Track",
@@ -1670,7 +1675,11 @@
     "levels.Gridmap.info.roads":"Some dirt roads",
     "levels.Gridmap.info.suitablefor":"testing land vehicles",
     "levels.Gridmap.info.features":"high speed loop tracks, half pipe, full pipe, suspension tests, crash test objects",
-
+    "levels.Gridmap.spawnpoints.spawn_oval":"Oval",
+    "levels.Gridmap.spawnpoints.spawn_dirtpath":"Dirt Path",
+    "levels.Gridmap.spawnpoints.spawn_corner":"Corner",
+    "levels.Gridmap.spawnpoints.spawn_outside":"Outside",
+	
     "levels.groundmodeltest.info.title":"Groundmodel Test Area",
     "levels.groundmodeltest.info.description":"Groundmodel tests, for ABS etc",
     "levels.groundmodeltest.info.biome":"VR",
