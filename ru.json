@@ -1734,5 +1734,18 @@
     "engine.editor.menu.camera.left": "Слева",
     "ui.options.gameplay.helpTranslating": "Помочь с переводом",
     "scenarios.east_coast_usa.east_coast_chase_4.description": "Остановите фургон \"BeamCom\"",
-    "engine.editor.menu.camera.right": "Справа"
+    "engine.editor.menu.camera.right": "Справа",
+    "engine.editor.menu.camera.bottom": "Снизу",
+    "engine.editor.menu.camera.front": "Спереди",
+    "scenarios.utah.climbing_utah.title": "Покорение гор Юты",
+    "engine.editor.menu.camera.top": "Сверху",
+    "scenarios.east_coast_usa.dirt_hopper.description": "Небольшой заезд для вашего Ibishu Hopper",
+    "scenarios.utah.guineapig.title": "Гвинейская Свинобойня",
+    "ui.options.gameplay.translationProjectPage": "Страница перевода сообщества",
+    "quickrace.gridmap.bigo.title": "Скоростной круг",
+    "scenarios.utah.canyon_jump.description": "Перепрыгните несколько каньонов",
+    "quickrace.gridmap.suspension.description": "Эта гонка идёт взад и вперёд по четырём различным трекам на для тестирования подвески.",
+    "ui.debug.vehicle.loadDefault": "Загрузить по умолчанию",
+    "engine.editor.menu.orbitCamera": "Прикреплённая камера",
+    "scenarios.utah.guineapig.description": "Подберите Covet в его последнюю поездку."
 }
