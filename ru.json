@@ -1728,5 +1728,6 @@
     "vehicle.turbocharger.overheating": "Турбонаддув перегревается",
     "levels.west_coast_usa.info.suitablefor": "драг-заездов, полицейских погонь",
     "engine.editor.menu.camera.back": "Сзади",
-    "scenarios.utah.canyon_jump.title": "Прыжок через каньон"
+    "scenarios.utah.canyon_jump.title": "Прыжок через каньон",
+    "ui.options.gameplay.autoThrottle.tooltip": "Если включить, то ручная трансмиссия отключает дроссель при переходе на более высокую передачу и при необходимости использует согласование оборотов."
 }
