@@ -1725,5 +1725,6 @@
     "vehicle.recovery.recovered": "Транспортное средство восстановлено",
     "vehicle.recovery.recovering": "Восстановление транспортного средства...",
     "vehicle.recovery.saveHome": "Позиция транспортного средства обновлена ([action=loadHome] для восстановления)",
-    "vehicle.turbocharger.overheating": "Турбонаддув перегревается"
+    "vehicle.turbocharger.overheating": "Турбонаддув перегревается",
+    "levels.west_coast_usa.info.suitablefor": "драгзаездов, полицейских погонь"
 }
