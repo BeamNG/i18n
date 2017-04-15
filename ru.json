@@ -1748,5 +1748,7 @@
     "ui.debug.vehicle.loadDefault": "Загрузить по умолчанию",
     "engine.editor.menu.orbitCamera": "Прикреплённая камера",
     "scenarios.utah.guineapig.description": "Подберите Covet в его последнюю поездку.",
-    "quickrace.jungle_rock_island.jri_dirt_race.description": "Этот маршрут пролегает по грунтовым дорогам рядом с центральной горой на карте."
+    "quickrace.jungle_rock_island.jri_dirt_race.description": "Маршрут пролегает по грунтовым дорогам рядом с центральной горой. ",
+    "scenarios.east_coast_usa.dirt_hopper.title": "Грязевой Попрыгун",
+    "ui.repository.option_reviews": "Отзывы"
 }
