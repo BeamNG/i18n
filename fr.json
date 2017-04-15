@@ -1548,7 +1548,7 @@
     "ui.vehicleconfig.color": "Couleur",
     "ui.vehicleconfig.filename": "Nom du fichier",
     "ui.vehicleconfig.licensePlate": "Plaque d'immatriculation",
-    "ui.vehicleconfig.load": "Chargement",
+    "ui.vehicleconfig.load": "Charger",
     "ui.vehicleconfig.mouseOverUi": "Gardez bien la souris sur l'interface lorsque vous écrivez au clavier",
     "ui.vehicleconfig.overwrite": "Remplacer",
     "ui.vehicleconfig.parts": "Pièces",
