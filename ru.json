@@ -1747,5 +1747,6 @@
     "quickrace.gridmap.suspension.description": "Эта гонка идёт взад и вперёд по четырём различным трекам на для тестирования подвески.",
     "ui.debug.vehicle.loadDefault": "Загрузить по умолчанию",
     "engine.editor.menu.orbitCamera": "Прикреплённая камера",
-    "scenarios.utah.guineapig.description": "Подберите Covet в его последнюю поездку."
+    "scenarios.utah.guineapig.description": "Подберите Covet в его последнюю поездку.",
+    "quickrace.jungle_rock_island.jri_dirt_race.description": "Этот маршрут пролегает по грунтовым дорогам рядом с центральной горой на карте."
 }
