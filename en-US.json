@@ -13,6 +13,7 @@
     "engine.windowedModeReq.msgGUI": "Please exit the GUI Editor to switch to full screen.",
     "engine.levelModified.title": "Level Modified",
     "engine.levelModified.msg": "Level has been modified in the Editor. Save?",
+    "engine.nodegrab.fixedwarning": "CTRL + Middle Mouse Button to unfix nodes",
 
 
     "engine.editor.loading": "Loading the World Editor...",
@@ -803,7 +804,7 @@
     "ui.performance.benchmark.vehicles": "Vehicles",
     "ui.perforamnce.benchmark.realtime": "Realtime",
     "ui.performance.benchmark.isRunningNote": "Please wait: The benchmark is running.[br]This will take a minute.",
-    "ui.performance.benchmark.notavailable": "The benchmark can only be run from the game start with no level or vehicles loaded.",
+    "ui.performance.benchmark.notavailable": "The benchmark can only be run from the main menu.",
     "ui.performance.score": "Score",
     "ui.performance.acknowledge": "Acknowledge",
     "ui.performance.acknowledged": "Acknowledged",
