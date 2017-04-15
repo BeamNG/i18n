@@ -1727,5 +1727,6 @@
     "vehicle.recovery.saveHome": "Позиция транспортного средства обновлена ([action=loadHome] для восстановления)",
     "vehicle.turbocharger.overheating": "Турбонаддув перегревается",
     "levels.west_coast_usa.info.suitablefor": "драг-заездов, полицейских погонь",
-    "engine.editor.menu.camera.back": "Сзади"
+    "engine.editor.menu.camera.back": "Сзади",
+    "scenarios.utah.canyon_jump.title": "Прыжок через каньон"
 }
