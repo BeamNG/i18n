@@ -63,7 +63,7 @@
     "engine.editor.menu.camera.isometric": "Isometric",
 
     "engine.editor.menu.cameraspeed": "Camera Speed",
-    
+
     "engine.editor.menu.cameraspeed.slowest": "Slowest",
     "engine.editor.menu.cameraspeed.slow": "Slow",
     "engine.editor.menu.cameraspeed.slower": "Slower",
@@ -569,14 +569,14 @@
     "ui.options.currentLanguage": "Current Language",
     "ui.options.communityTranslationsAgree": "Agree & enable",
     "ui.options.communityTranslationsAckText": "Translations are created by the users of the community. BeamNG is not responsible for the translations in any way (i.e. inappropriate or incorrect). Use at your own risk.",
-    
+
 
 
     "ui.options.userInterface.showCustomVehicles": "Show custom vehicles in vehicle selector",
     "ui.options.userInterface.garageAutoSave": "Auto-save vehicle in garage",
 
     "ui.options.gameplay.gameplay": "Gameplay",
-    
+
     "ui.options.gearbox": "Gearbox",
     "ui.options.gameplay.defaultGearboxBehavior": "Default gearbox behavior",
     "ui.options.gameplay.defaultGearboxBehavior.tooltip": "Sets the default gearbox behavior. Applies after spawning a fresh car.",
@@ -586,7 +586,7 @@
     "ui.options.gameplay.autoThrottle.tooltip": "If enabled, manual transmissions cut the throttle on up-shifting and use rev-matching where required.",
     "ui.options.gameplay.autoShiftPrevention": "Gear change assistant",
     "ui.options.gameplay.autoShiftPrevention.tooltip": "If enabled, automated transmissions prevent certain mode changes for a more immersive racing experience. (For example shifting out of M mode is disallowed until you are below a certain speed)",
-    
+
     "ui.options.gameplay.multiseat": "Use multiseat for this session",
     "ui.options.gameplay.controlOnBlur": "Allow controller input and force feedback when window focus is lost",
     "ui.options.gameplay.enginesPreheated": "Start vehicle engines preheated",
@@ -837,7 +837,7 @@
     "ui.performance.warnings.remotedesktop": "You are using Remote Desktop",
     "ui.performance.warnings.intelgpu": "You are using an Intel GPU. Make sure your dedicated GPU is used instead.",
     "ui.performance.warnings.geforcemin": "At least a GeForce 550 is required",
-    "ui.performance.warnings.amdhd": "At least a AMD Radeon HD XXX is recommended",
+    "ui.performance.warnings.amdhd": "At least a AMD Radeon HD XXX is recommended",
     "ui.performance.warnings.amdradeon": "At least an AMD Radeon R8 is required",
     "ui.performance.warnings.gpulowmem": "Your GPU has less than 512 of video memory",
     "ui.performance.warnings.gpurecmem": "At least 2048MB memory is recommended",
@@ -1316,7 +1316,7 @@
     "scenarios.jungle_rock_island.jri_portshakedown.title":"Port Shakedown",
     "scenarios.jungle_rock_island.jri_portshakedown.description":"Take a modified Sunburst for a ride..",
     "scenarios.jungle_rock_island.jri_chase.title":"Jungle Rock Island Chase",
-    "scenarios.jungle_rock_island.jri_chase.description":"Chase down a van using your old covet",
+    "scenarios.jungle_rock_island.jri_chase.description":"Chase down a van using your old Covet",
     "scenarios.jungle_rock_island.jri_chase.distance.msg": "The suspect got away",
     "scenarios.jungle_rock_island.jri_chase.damage.msg": "You crashed your car",
     "scenarios.jungle_rock_island.jri_chase.speed.msg": "Well done! Your time: {{time}}",
@@ -1453,16 +1453,16 @@
     "scenarios.utah.chapter_2.chapter_2_6_canyon.description": "A tough race through narrow canyon passes.",
     "scenarios.utah.chapter_2.chapter_2_6_canyon.pass.msg": "Congratulations! It was a tough race, but you made it!",
     "scenarios.utah.chapter_2.chapter_2_6_canyon.fail.msg": "Are you really gonna let him get away with that?",
-	
+
     "scenarios.utah.climbing_utah.title": "Climbing Utah",
     "scenarios.utah.climbing_utah.description": "Crawl through a difficult path to reach the top of the cliff",
     "scenarios.utah.guineapig.title": "Guinea Pig Preparations",
     "scenarios.utah.guineapig.description": "Transport a Covet for its last trip.",
-    "scenarios.utah.guineapig.damage.msg": "The covet is too damaged!",
+    "scenarios.utah.guineapig.damage.msg": "The Covet is too damaged!",
     "scenarios.utah.guineapig.pass.msg": "Covet delivered!",
     "scenarios.utah.guineapig.fail.msg": "You failed",
     "scenarios.utah.guineapig.nocargo.msg": "You didn't deliver the cargo to its destination.",
-    "scenarios.utah.guineapig.cargoFellOff.fail.msg": "The covet fell off the trailer.",
+    "scenarios.utah.guineapig.cargoFellOff.fail.msg": "The Covet fell off the trailer.",
 
     "quickrace.east_coast_usa.dirt_race.title": "Dirt Race",
     "quickrace.east_coast_usa.dirt_race.description": "A race through the deforestation area of the map, be sure not hit any fallen trees!",
@@ -1656,7 +1656,7 @@
     "levels.east_coast_usa.spawnpoints.gasStation":"Gas Station Parking Lot",
     "levels.east_coast_usa.spawnpoints.sawmill":"Sawmill",
     "levels.east_coast_usa.spawnpoints.highway":"Highway",
-    
+
     "levels.west_coast_usa.info.title":"West Coast, USA",
     "levels.west_coast_usa.info.description":"The western coast of the USA. Representative of various locations in California",
     "levels.west_coast_usa.info.biome":"coastal, urban, semi-arid",
@@ -1679,7 +1679,7 @@
     "levels.Gridmap.spawnpoints.spawn_dirtpath":"Dirt Path",
     "levels.Gridmap.spawnpoints.spawn_corner":"Corner",
     "levels.Gridmap.spawnpoints.spawn_outside":"Outside",
-	
+
     "levels.groundmodeltest.info.title":"Groundmodel Test Area",
     "levels.groundmodeltest.info.description":"Groundmodel tests, for ABS etc",
     "levels.groundmodeltest.info.biome":"VR",
