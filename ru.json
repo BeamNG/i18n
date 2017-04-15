@@ -1733,5 +1733,6 @@
     "ui.options.gameplay.autoShiftPrevention.tooltip": "Если включено, автоматическая трансмиссия предотвращает определенные изменения режима для более захватывающего гоночного опыта. (Например, переход из режима M запрещен до тех пор, пока вы не снизите скорость до определённого значения)",
     "engine.editor.menu.camera.left": "Слева",
     "ui.options.gameplay.helpTranslating": "Помочь с переводом",
-    "scenarios.east_coast_usa.east_coast_chase_4.description": "Остановите фургон \"BeamCom\""
+    "scenarios.east_coast_usa.east_coast_chase_4.description": "Остановите фургон \"BeamCom\"",
+    "engine.editor.menu.camera.right": "Справа"
 }
