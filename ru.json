@@ -1750,5 +1750,6 @@
     "scenarios.utah.guineapig.description": "Проводите Covet в его последний путь.",
     "quickrace.jungle_rock_island.jri_dirt_race.description": "Маршрут пролегает по грунтовым дорогам рядом с центральной горой. ",
     "scenarios.east_coast_usa.dirt_hopper.title": "Грязевой Попрыгун",
-    "ui.repository.option_reviews": "Отзывы"
+    "ui.repository.option_reviews": "Отзывы",
+    "ui.quickrace.changeConfig": "Сменить конфигурацию"
 }
