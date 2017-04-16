@@ -825,7 +825,7 @@
     "scenarios.utah.chapter_2.chapter_2_3_crawl.fail.msg": "Собака лает, да не кусает. Возвращайся, когда научишься водить.",
     "scenarios.utah.chapter_2.chapter_2_3_crawl.pass.msg": "Ты снова с ним справился! Поздравляю!",
     "scenarios.utah.chapter_2.chapter_2_3_crawl.title": "Гонка по руслу реки",
-    "scenarios.utah.chapter_2.chapter_2_4_delivery.cargoFellOff.fail.msg": "Твоё рвение похвально, но не стоит превращать груз в кучу мусора.",
+    "scenarios.utah.chapter_2.chapter_2_4_delivery.cargoFellOff.fail.msg": "Твоё рвение похвально, но может не стоит превращать груз в кучу мусора?",
     "scenarios.utah.chapter_2.chapter_2_4_delivery.description": "Помогите другу с доставкой запчастей.",
     "scenarios.utah.chapter_2.chapter_2_4_delivery.fail.msg": "Эти части нужно обязательно доставить!",
     "scenarios.utah.chapter_2.chapter_2_4_delivery.pass.msg": "Спасибо за доставку. Теперь я наконец могу двигаться дальше.",
@@ -1751,5 +1751,6 @@
     "quickrace.jungle_rock_island.jri_dirt_race.description": "Маршрут пролегает по грунтовым дорогам рядом с центральной горой. ",
     "scenarios.east_coast_usa.dirt_hopper.title": "Грязевой Попрыгун",
     "ui.repository.option_reviews": "Отзывы",
-    "ui.quickrace.changeConfig": "Сменить конфигурацию"
+    "ui.quickrace.changeConfig": "Сменить конфигурацию",
+    "scenarios.small_island.hopping_around.title": "Прыжки по округе"
 }
