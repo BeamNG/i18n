@@ -688,5 +688,9 @@
     "vehicle.engine.coolantOverheating": "Kylarvätska överhettas",
     "vehicle.engine.rodBearingsDamaged": "Vevstakslager skadade",
     "vehicle.recovery.loadHome": "Fordon återställt till hemposition",
-    "vehicle.recovery.recovered": "Fordonet återställt"
+    "vehicle.recovery.recovered": "Fordonet återställt",
+    "ui.options.language": "Språk",
+    "extensions.scenario.damageGoal.checkDamage.win.msg": "{{damage}}% skada",
+    "ui.garage.tabs.vehicles": "Fordon",
+    "levels.driver_training.roads": "Asfalt"
 }
