@@ -1292,5 +1292,12 @@
     "vehicle.main.instability": "Wykryto niestabilność pojazdu {{vehicle}}: następuje resetowanie pojazdu i wyłączenie fizyki",
     "vehicle.recovery.loadHome": "Pojazd przywrócony do pozycji początkowej",
     "vehicle.recovery.recovered": "Pojazd przywrócony",
-    "vehicle.turbocharger.overheating": "Turbo się przegrzewa"
+    "vehicle.turbocharger.overheating": "Turbo się przegrzewa",
+    "engine.editor.loading": "Ładowanie Edytora Świata...",
+    "engine.editor.menu.edit": "Edytuj",
+    "engine.editor.menu.undo": "Cofnij",
+    "engine.editor.menu.redo": "Ponów",
+    "engine.editor.menu.cut": "Wytnij",
+    "engine.editor.menu.select": "Wybierz...",
+    "engine.editor.menu.audioParams": "Parametry Audio..."
 }
