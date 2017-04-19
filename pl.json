@@ -1300,5 +1300,6 @@
     "engine.editor.menu.cut": "Wytnij",
     "engine.editor.menu.select": "Wybierz...",
     "engine.editor.menu.audioParams": "Parametry Audio...",
-    "engine.editor.menu.editorSettings": "Ustawienia Edytora..."
+    "engine.editor.menu.editorSettings": "Ustawienia Edytora...",
+    "engine.editor.menu.view": "Wyświetl"
 }
