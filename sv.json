@@ -692,5 +692,8 @@
     "ui.options.language": "Språk",
     "extensions.scenario.damageGoal.checkDamage.win.msg": "{{damage}}% skada",
     "ui.garage.tabs.vehicles": "Fordon",
-    "levels.driver_training.roads": "Asfalt"
+    "levels.driver_training.roads": "Asfalt",
+    "engine.editor.menu.delete": "Radera",
+    "engine.editor.menu.redo": "Göra om",
+    "engine.editor.menu.edit": "Redigera"
 }
