@@ -742,5 +742,6 @@
     "levels.driver_training.features": "tom",
     "levels.east_coast_usa.spawnpoints.sawmill": "Sågverk",
     "levels.menu.info.features": "meny",
-    "levels.port.info.title": "Hamn"
+    "levels.port.info.title": "Hamn",
+    "levels.utah.spawnpoints.industrial": "Industriell"
 }
