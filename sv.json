@@ -696,5 +696,6 @@
     "engine.editor.menu.delete": "Radera",
     "engine.editor.menu.redo": "Göra om",
     "engine.editor.menu.edit": "Redigera",
-    "engine.editor.menu.select": "Välj..."
+    "engine.editor.menu.select": "Välj...",
+    "engine.editor.menu.audioParams": "Ljud Parametrar..."
 }
