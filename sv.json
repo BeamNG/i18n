@@ -695,5 +695,6 @@
     "levels.driver_training.roads": "Asfalt",
     "engine.editor.menu.delete": "Radera",
     "engine.editor.menu.redo": "Göra om",
-    "engine.editor.menu.edit": "Redigera"
+    "engine.editor.menu.edit": "Redigera",
+    "engine.editor.menu.select": "Välj..."
 }
