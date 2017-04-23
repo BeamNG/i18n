@@ -809,7 +809,7 @@
     "scenarios.utah.cinematic_chase.title": "Кінематографічна погоня",
     "scenarios.utah.downhill_rally.description": "Довгий ралійний заїзд через штат Юта",
     "scenarios.utah.downhill_rally.title": "Ралі спуск",
-    "scenarios.utah.guineapig.damage.msg": "Covet занадто сильно пошкоджений!",
+    "scenarios.utah.guineapig.damage.msg": "Covet надто сильно пошкоджений!",
     "scenarios.utah.guineapig.fail.msg": "Невдача",
     "scenarios.utha.chapter_2.chapter_2_0_comics_test.description": "глава_2_0_комічнийтест - комічний тест",
     "scenarios.utha.chapter_2.chapter_2_0_comics_test.title": "глава_2_0_комічнийтест",
@@ -1422,7 +1422,7 @@
     "ui.performance.acknowledged": "Повідомлений",
     "ui.performance.benchmark": "Фізичний бенчмарк",
     "ui.performance.benchmark.isRunningNote": "Будь ласка, зачекайте: Запущено бенчмарк.[br]Це займе близько хвилини.",
-    "ui.performance.benchmark.notavailable": "Бенчмарк може бути запущений зразу після запуску гри, без рівня або транспортних засобів.",
+    "ui.performance.benchmark.notavailable": "Бенчмарк може бути запущений тільки з головного меню.",
     "ui.performance.benchmark.run": "Запустити фізичний бенчмарк",
     "ui.performance.benchmark.testVehicle": "Тестовий транспортний засіб",
     "ui.performance.benchmark.vehicles": "Транспортні засоби",
@@ -1683,5 +1683,11 @@
     "vehicle.recovery.recovered": "Транспортний засіб відновлено",
     "vehicle.recovery.recovering": "Відновлення транспортного засобу...",
     "vehicle.recovery.saveHome": "Положення транспортного засобу оновлено (Використовуйте [action=loadHome] для відновлення)",
-    "vehicle.turbocharger.overheating": "Турбонагнітач перегрівається"
+    "vehicle.turbocharger.overheating": "Турбонагнітач перегрівається",
+    "engine.editor.menu.camera.top": "Зверху",
+    "engine.editor.menu.camera.bottom": "Знизу",
+    "engine.editor.menu.camera.front": "Спереду",
+    "engine.editor.menu.camera.back": "Ззаду",
+    "engine.editor.menu.camera.left": "Ліворуч",
+    "engine.editor.menu.camera.right": "Праворуч"
 }
