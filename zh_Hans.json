@@ -4,10 +4,10 @@
     "campaigns.training.training.training_lanechange.title": "科目4:高速变道",
     "campaigns.utah.chapter_1.title": "横冲直撞",
     "campaigns.utah.chapter_1.walljump.title": "跳穿墙",
-    "engine.cef.subprocessdied.msg": "界面进程无响应。\n这可能是您的杀毒软件阻止了BeamNG.drive.ui.exe应用导致的。\n\n如需更多帮助请前往：\n\nhttp://wiki.beamng.com/Errors/Unresponsive_UI_Process\n\n您希望现在在浏览器里前往这个网址吗？",
+    "engine.cef.subprocessdied.msg": "界面进程无响应。\n这可能是您的杀毒软件阻止了BeamNG.drive.ui.exe应用所导致。\n\n如需更多帮助请前往：\n\nhttp://wiki.beamng.com/Errors/Unresponsive_UI_Process\n\n您希望现在在浏览器里前往这个网址吗？",
     "engine.cef.subprocessdied.title": "UI进程未响应",
     "engine.cef.subprocessdied.url": "http://wiki.beamng.com/Errors/Unresponsive_UI_Process",
-    "engine.editor.menu.createBlankTerrain": "新建地图",
+    "engine.editor.menu.createBlankTerrain": "新建空白地图",
     "engine.editor.menu.exitLevel": "离开地图",
     "engine.editor.menu.exportTerrainHeightmap": "导出地形图",
     "engine.editor.menu.exportToCollada": "以.dae格式导出...",
@@ -476,5 +476,14 @@
     "vehicle.engine.radiatorDamaged": "散热器已损坏",
     "vehicle.engine.rodBearingsDamaged": "连杆轴承已损坏",
     "vehicle.recovery.loadHome": "载具已回到生成点",
-    "vehicle.recovery.recovered": "载具已还原"
+    "vehicle.recovery.recovered": "载具已还原",
+    "engine.editor.loading": "正在加载地图编辑器…",
+    "engine.editor.menu.edit": "编辑",
+    "engine.editor.menu.undo": "撤销",
+    "engine.editor.menu.cut": "剪贴",
+    "engine.editor.menu.copy": "复制",
+    "engine.editor.menu.paste": "粘贴",
+    "engine.editor.menu.delete": "删除",
+    "engine.editor.menu.deselect": "取消选择",
+    "engine.editor.menu.select": "选择…"
 }
