@@ -743,5 +743,10 @@
     "levels.east_coast_usa.spawnpoints.sawmill": "Sågverk",
     "levels.menu.info.features": "meny",
     "levels.port.info.title": "Hamn",
-    "levels.utah.spawnpoints.industrial": "Industriell"
+    "levels.utah.spawnpoints.industrial": "Industriell",
+    "levels.utah_offroad_park.info.roads": "100% jord",
+    "levels.utah_offroad_park.info.features": "jord",
+    "scenarios.east_coast_usa.east_coast_chase_3.speed.msg": "Bra jobbat! Din tid: {{time}}",
+    "scenarios.east_coast_usa.east_coast_chase_4.speed.msg": "Bra jobbat! Din tid: {{time}}",
+    "vehicle.bdebug.nodeTextMode.materials": "Material"
 }
