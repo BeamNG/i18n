@@ -181,5 +181,6 @@
     "engine.editor.menu.exportTerrainHeightmap": "A terep heightmapjának exportálása",
     "engine.editor.menu.exportToCollada": "Exportálás COLLADA fájlba...",
     "engine.editor.menu.edit": "Szerkesztés",
-    "engine.editor.menu.undo": "Visszavonás"
+    "engine.editor.menu.undo": "Visszavonás",
+    "engine.editor.menu.redo": "Visszahozás"
 }
