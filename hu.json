@@ -222,5 +222,12 @@
     "engine.editor.menu.cameraspeed.fastest": "Leggyorsabb",
     "engine.editor.menu.toggleCamModes": "Kameramódok váltása",
     "engine.editor.menu.worldCamera": "Világkamera",
-    "engine.editor.menu.playerCamera": "Játékos kamera"
+    "engine.editor.menu.playerCamera": "Játékos kamera",
+    "engine.editor.menu.toggleCamera": "Kamera engedélyezése",
+    "engine.editor.menu.placeCameraSelection": "Kamera helyezése a kijelölésre",
+    "engine.editor.menu.placeCameraPlayer": "Kamera játékoshoz helyezése",
+    "engine.editor.menu.placePlayerCamera": "Játékos kamerához helyezése",
+    "engine.editor.menu.fitViewSelection": "Nézet kijelöléshez igazítása",
+    "engine.editor.menu.fitViewSelectionOrbit": "Nézet kijelöléshez és forgáshoz igazítása",
+    "engine.editor.menu.speed": "Gyorsaság"
 }
