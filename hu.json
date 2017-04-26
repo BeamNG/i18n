@@ -182,5 +182,6 @@
     "engine.editor.menu.exportToCollada": "Exportálás COLLADA fájlba...",
     "engine.editor.menu.edit": "Szerkesztés",
     "engine.editor.menu.undo": "Visszavonás",
-    "engine.editor.menu.redo": "Visszahozás"
+    "engine.editor.menu.redo": "Visszahozás",
+    "engine.editor.menu.cut": "Kivágás"
 }
