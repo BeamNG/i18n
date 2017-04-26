@@ -184,5 +184,14 @@
     "engine.editor.menu.undo": "Visszavonás",
     "engine.editor.menu.redo": "Visszahozás",
     "engine.editor.menu.cut": "Kivágás",
-    "engine.editor.menu.copy": "Másolás"
+    "engine.editor.menu.copy": "Másolás",
+    "engine.editor.menu.paste": "Beillesztés",
+    "engine.editor.menu.delete": "Törlés",
+    "engine.editor.menu.deselect": "Kijelölés megszüntetése",
+    "engine.editor.menu.select": "Kijelölés...",
+    "engine.editor.menu.audioParams": "Hang paraméterek...",
+    "engine.editor.menu.editorSettings": "Szerkesztő beállítások...",
+    "engine.editor.menu.snapOptions": "Megragadási beállítások...",
+    "engine.editor.menu.gameOptions": "Játékbeállítások...",
+    "engine.editor.menu.postfxManager": "PostEffect kezelő"
 }
