@@ -194,5 +194,22 @@
     "engine.editor.menu.snapOptions": "Megragadási beállítások...",
     "engine.editor.menu.gameOptions": "Játékbeállítások...",
     "engine.editor.menu.postfxManager": "PostEffect kezelő",
-    "engine.editor.menu.view": "Nézet"
+    "engine.editor.menu.view": "Nézet",
+    "engine.editor.menu.visibilityLayers": "Láthatósági rétegek",
+    "engine.editor.menu.gridOrtho": "Rács megjelenítése Ortho nézetekben",
+    "engine.editor.menu.camera": "Kamera",
+    "engine.editor.menu.standartCamera": "Hagyományos",
+    "engine.editor.menu.orbitCamera": "Szabad kamera",
+    "engine.editor.menu.smoothedCamera": "Elsimított",
+    "engine.editor.menu.smoothedRotateCamera": "Elsimított forgó",
+    "engine.editor.menu.cameratype.firstPerson": "Belső nézetű",
+    "engine.editor.menu.cameratype.thirdPerson": "Külső nézetű",
+    "engine.editor.menu.camera.top": "Felső",
+    "engine.editor.menu.camera.bottom": "Alsó",
+    "engine.editor.menu.camera.front": "Elülső",
+    "engine.editor.menu.camera.back": "Hátsó",
+    "engine.editor.menu.camera.left": "Bal",
+    "engine.editor.menu.camera.right": "Jobb",
+    "engine.editor.menu.camera.perspective": "Perspektíva",
+    "engine.editor.menu.camera.isometric": "Izometrikus"
 }
