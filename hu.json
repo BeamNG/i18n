@@ -221,5 +221,6 @@
     "engine.editor.menu.cameraspeed.fast": "Gyors",
     "engine.editor.menu.cameraspeed.fastest": "Leggyorsabb",
     "engine.editor.menu.toggleCamModes": "Kameramódok váltása",
-    "engine.editor.menu.worldCamera": "Világkamera"
+    "engine.editor.menu.worldCamera": "Világkamera",
+    "engine.editor.menu.playerCamera": "Játékos kamera"
 }
