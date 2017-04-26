@@ -183,5 +183,6 @@
     "engine.editor.menu.edit": "Szerkesztés",
     "engine.editor.menu.undo": "Visszavonás",
     "engine.editor.menu.redo": "Visszahozás",
-    "engine.editor.menu.cut": "Kivágás"
+    "engine.editor.menu.cut": "Kivágás",
+    "engine.editor.menu.copy": "Másolás"
 }
