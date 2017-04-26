@@ -315,5 +315,6 @@
     "ui.common.disable": "Letilt",
     "ui.common.retry": "Újrakezdés",
     "ui.common.menu": "Menü",
-    "ui.common.skip": "Kihagyás"
+    "ui.common.skip": "Kihagyás",
+    "ui.common.next": "Következő"
 }
