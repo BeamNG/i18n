@@ -864,7 +864,7 @@
     "scenarios.utah.downhill_rally.description": "Pitkä rallireitti Utah'n poikki",
     "scenarios.utah.downhill_rally.title": "Alamäkiralli",
     "scenarios.utah.guineapig.cargoFellOff.fail.msg": "Peräkärryn kiinnitykset pettivät.",
-    "scenarios.utah.guineapig.damage.msg": "Covetissa on liikaa vaurioita!",
+    "scenarios.utah.guineapig.damage.msg": "Covetissa liikaa vaurioita!",
     "scenarios.utah.guineapig.description": "Kuljeta Covetia viimeiselle matkalleen.",
     "scenarios.utah.guineapig.fail.msg": "Et onnistunut",
     "scenarios.utah.guineapig.pass.msg": "Covet saatiin perille!",
@@ -1497,7 +1497,7 @@
     "ui.performance.acknowledged": "Hyväksy",
     "ui.performance.benchmark": "Fysiikka-Benchmark",
     "ui.performance.benchmark.isRunningNote": "Odota: Benchmark on käynnisssa.[br] Tässä kestää noin minuutti.",
-    "ui.performance.benchmark.notavailable": "Benchmark voidaan suorittaa vain, jos tasoja tai ajoneuvoja ei ole ladattu.",
+    "ui.performance.benchmark.notavailable": "Benchmark voidaan suorittaa vain päävalikosta.",
     "ui.performance.benchmark.run": "Aja fysiikka-benchmark",
     "ui.performance.benchmark.testVehicle": "Testaa ajoneuvo",
     "ui.performance.benchmark.vehicles": "Ajoneuvot",
@@ -1768,5 +1768,6 @@
     "levels.Gridmap.spawnpoints.spawn_oval": "Soikio",
     "levels.Gridmap.spawnpoints.spawn_dirtpath": "Hiekkapolku",
     "levels.Gridmap.spawnpoints.spawn_corner": "Nurkka",
-    "levels.Gridmap.spawnpoints.spawn_outside": "Ulkopuoli"
+    "levels.Gridmap.spawnpoints.spawn_outside": "Ulkopuoli",
+    "engine.nodegrab.fixedwarning": "paina CTRL + hiiren keskinäppäin irrottaaksesi nodet"
 }
