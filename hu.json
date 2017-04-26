@@ -212,5 +212,6 @@
     "engine.editor.menu.camera.right": "Jobb",
     "engine.editor.menu.camera.perspective": "Perspektíva",
     "engine.editor.menu.camera.isometric": "Izometrikus",
-    "engine.editor.menu.cameraspeed": "Kamera gyorsasága"
+    "engine.editor.menu.cameraspeed": "Kamera gyorsasága",
+    "engine.editor.menu.cameraspeed.slowest": "Leglassabb"
 }
