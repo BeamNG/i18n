@@ -1325,5 +1325,8 @@
     "vehicle.recovery.recovered": "Vehículo reposicionado",
     "vehicle.recovery.recovering": "Reposicionamiento del vehículo en curso...",
     "vehicle.recovery.saveHome": "Posición del vehículo actualizada (Pulsa [action=loadHome] 1 para restaurarla)",
-    "vehicle.turbocharger.overheating": "El turbo se está sobrecalentando"
+    "vehicle.turbocharger.overheating": "El turbo se está sobrecalentando",
+    "engine.nodegrab.fixedwarning": "CTRL + Botón central del ratón para soltar los nodos",
+    "engine.editor.loading": "Cargando el Editor del Mundo...",
+    "engine.editor.menu.deselect": "Quitar selección"
 }
