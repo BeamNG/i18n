@@ -193,5 +193,6 @@
     "engine.editor.menu.editorSettings": "Szerkesztő beállítások...",
     "engine.editor.menu.snapOptions": "Megragadási beállítások...",
     "engine.editor.menu.gameOptions": "Játékbeállítások...",
-    "engine.editor.menu.postfxManager": "PostEffect kezelő"
+    "engine.editor.menu.postfxManager": "PostEffect kezelő",
+    "engine.editor.menu.view": "Nézet"
 }
