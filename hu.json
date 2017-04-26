@@ -214,5 +214,6 @@
     "engine.editor.menu.camera.isometric": "Izometrikus",
     "engine.editor.menu.cameraspeed": "Kamera gyorsasága",
     "engine.editor.menu.cameraspeed.slowest": "Leglassabb",
-    "engine.editor.menu.cameraspeed.slow": "Lassú"
+    "engine.editor.menu.cameraspeed.slow": "Lassú",
+    "engine.editor.menu.cameraspeed.slower": "Lassabb"
 }
