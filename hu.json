@@ -229,5 +229,7 @@
     "engine.editor.menu.placePlayerCamera": "Játékos kamerához helyezése",
     "engine.editor.menu.fitViewSelection": "Nézet kijelöléshez igazítása",
     "engine.editor.menu.fitViewSelectionOrbit": "Nézet kijelöléshez és forgáshoz igazítása",
-    "engine.editor.menu.speed": "Gyorsaság"
+    "engine.editor.menu.speed": "Gyorsaság",
+    "engine.editor.menu.viewType": "Nézet",
+    "engine.editor.menu.addBookmark": "Könyvjelző hozzáadása..."
 }
