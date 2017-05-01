@@ -489,5 +489,6 @@
     "ui.options.theme.background": "背景色",
     "engine.editor.menu.redo": "还原",
     "engine.editor.menu.audioParams": "",
-    "engine.editor.menu.gameOptions": ""
+    "engine.editor.menu.gameOptions": "",
+    "engine.editor.menu.postfxManager": "后效果管理器"
 }
