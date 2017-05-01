@@ -490,5 +490,6 @@
     "engine.editor.menu.redo": "还原",
     "engine.editor.menu.audioParams": "",
     "engine.editor.menu.gameOptions": "",
-    "engine.editor.menu.postfxManager": "后效果管理器"
+    "engine.editor.menu.postfxManager": "后效果管理器",
+    "engine.editor.menu.cameratype.firstPerson": "第一人称"
 }
