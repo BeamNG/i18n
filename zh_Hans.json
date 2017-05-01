@@ -511,5 +511,6 @@
     "ui.mainmenu.background.back": "返回",
     "ui.mainmenu.onlineFeatures.featureDescription": "您可以选择开启或关闭BeamNG.drive中的所有在线功能。这将会影响到：[br][list][*]游戏内资源库[*]MOD订阅[*]成就[*]排行榜[*]聊天室[*]内容共享功能[/list]启用在线功能代表着您同意我们的[url=http://wiki.beamng.com/Privacy_Policy]隐私政策[/url]以及我们的[url=http://wiki.beamng.com/TOS]服务条款[/url]。[br][br]您可以随时在设置>Gameplay下更改设定。",
     "ui.quickrace.selectLevel": "选择地图",
-    "ui.quickrace.selectVehicle": "选择载具"
+    "ui.quickrace.selectVehicle": "选择载具",
+    "ui.quickrace.tod.lateNoon": "午后"
 }
