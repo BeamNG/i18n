@@ -498,5 +498,6 @@
     "ui.common.delete": "删除",
     "ui.common.official": "官方",
     "ui.common.property.difficulty": "难度",
-    "ui.common.warn": "警告"
+    "ui.common.warn": "警告",
+    "ui.common.error": "错误"
 }
