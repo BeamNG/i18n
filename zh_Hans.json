@@ -494,5 +494,6 @@
     "engine.editor.menu.cameratype.firstPerson": "第一人称",
     "engine.editor.menu.negZAxis": "Z轴",
     "engine.editor.menu.resetSelScale": "重设所选比例",
-    "ui.common.resetAll": "全部重置"
+    "ui.common.resetAll": "全部重置",
+    "ui.common.delete": "删除"
 }
