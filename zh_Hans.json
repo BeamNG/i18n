@@ -497,5 +497,6 @@
     "ui.common.resetAll": "全部重置",
     "ui.common.delete": "删除",
     "ui.common.official": "官方",
-    "ui.common.property.difficulty": "难度"
+    "ui.common.property.difficulty": "难度",
+    "ui.common.warn": "警告"
 }
