@@ -514,5 +514,6 @@
     "ui.quickrace.selectVehicle": "选择载具",
     "ui.quickrace.tod.lateNoon": "午后",
     "ui.modmanager.unpack": "解压",
-    "ui.apps.aicontrol.name": "AI控制"
+    "ui.apps.aicontrol.name": "AI控制",
+    "ui.apps.brake_torque_graph.name": "制动扭矩图"
 }
