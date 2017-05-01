@@ -509,5 +509,6 @@
     "ui.unit.mpg": "英里每加仑",
     "ui.unit.gal": "加仑",
     "ui.mainmenu.background.back": "返回",
-    "ui.mainmenu.onlineFeatures.featureDescription": "你可以自由选择开启或关闭BeamNG.drive中的所有在线功能。 这将会影响到：[br][list] 1[*]库存[*]对Mod的捐助[*]成就[*]排行榜[*]在线聊天功能[*]分享功能[/list] 2 在激活在线功能时默认你已经同意我们的 [url=http://wiki.beamng.com/Privacy_Policy]隐私策略[/url] 和 [url=http://wiki.beamng.com/TOS]服务条件[/url]。[br] 3[br] 4你可以随时通过设置 > 游戏选项来更改当前设定。"
+    "ui.mainmenu.onlineFeatures.featureDescription": "您可以选择开启或关闭BeamNG.drive中的所有在线功能。这将会影响到：[br][list][*]游戏内资源库[*]MOD订阅[*]成就[*]排行榜[*]聊天室[*]内容共享功能[/list]启用在线功能代表着您同意我们的[url=http://wiki.beamng.com/Privacy_Policy]隐私政策[/url]以及我们的[url=http://wiki.beamng.com/TOS]服务条款[/url]。[br][br]您可以随时在设置>Gameplay下更改设定。",
+    "ui.quickrace.selectLevel": "选择地图"
 }
