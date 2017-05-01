@@ -505,5 +505,6 @@
     "ui.common.finish": "完成",
     "ui.common.arcade": "街机",
     "ui.actions.load": "加载",
-    "ui.actions.spawn": "生成车辆"
+    "ui.actions.spawn": "生成车辆",
+    "ui.unit.mpg": "英里每加仑"
 }
