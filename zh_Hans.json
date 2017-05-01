@@ -499,5 +499,7 @@
     "ui.common.official": "官方",
     "ui.common.property.difficulty": "难度",
     "ui.common.warn": "警告",
-    "ui.common.error": "错误"
+    "ui.common.error": "错误",
+    "ui.common.default": "默认",
+    "ui.common.menu": "菜单"
 }
