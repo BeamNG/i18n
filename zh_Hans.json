@@ -503,5 +503,6 @@
     "ui.common.default": "默认",
     "ui.common.menu": "菜单",
     "ui.common.finish": "完成",
-    "ui.common.arcade": "街机"
+    "ui.common.arcade": "街机",
+    "ui.actions.load": "加载"
 }
