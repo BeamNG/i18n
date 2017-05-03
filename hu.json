@@ -26,7 +26,7 @@
     "scenarios.hirochi_raceway.training_RWD_handling.description": "Ez megfogja tanítani hogyan vezess egy hátsókerék meghajtású autót anélkül hogy elvesztenéd az irányítást",
     "scenarios.hirochi_raceway.training_advanced_braking.title": "Gyakorlás 7: Haladó Fékezés",
     "scenarios.hirochi_raceway.training_hairpins.nomove.msg": "Eltaláltál valamit",
-    "scenarios.utah.chapter_1.chapter_1_crawl.damage.msg": "Elpusztítottad az autódat \"time\" alatt ",
+    "scenarios.utah.chapter_1.chapter_1_crawl.damage.msg": "Sikerült {{timeStr}} alatt rommá törni a kocsit",
     "scenarios.utah.chapter_1.chapter_1_highway.description": "1 fejezet: Autópálya - statisztikák: pont: ",
     "scenarios.utah.chapter_1.chapter_1_jump.title": "Ugrás",
     "ui.apps.vehicleDebug.breakAll": "Összes tartópont elengedése",
@@ -1019,5 +1019,8 @@
     "scenarios.jungle_rock_island.drag_race.title": "Reptéri összecsapás",
     "scenarios.jungle_rock_island.drag_race.fail.msg": "Vesztettél...",
     "scenarios.jungle_rock_island.jri_chase.distance.msg": "A gyanúsított elmenekült",
-    "scenarios.small_island.cop_chase.wayPointAction.wayPointMsg": "Állítsd meg a Pessimát!"
+    "scenarios.small_island.cop_chase.wayPointAction.wayPointMsg": "Állítsd meg a Pessimát!",
+    "scenarios.utah.canyon_race.description": "Egy hosszú, Utah kanyonjain és mélyföldjein átívelő futam",
+    "scenarios.utah.chapter_1.chapter_1_cliffjump.description": "Érd el minél hamarabb a meredély alját.",
+    "scenarios.utah.chapter_1.chapter_1_cliffjump.timeLimit.msg": "Nem sikerült {{failureTime}} másodpercen belül elhagyni a fenti területet!"
 }
