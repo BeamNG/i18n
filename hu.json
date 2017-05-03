@@ -1026,5 +1026,12 @@
     "scenarios.utah.chapter_1.chapter_1_drag.pass.msg": "Verseny befejezve",
     "scenarios.utah.chapter_1.chapter_1_ramcliff.description": "Takarítsd le a régi verdát a szirt tetejéről, egész a meredély aljáig.",
     "scenarios.utah.chapter_1.chapter_1_rubberband.title": "Gumiszalag",
-    "scenarios.utah.chapter_1.chapter_1_suspension.timeLimit.msg": "Több mint {{timeLimit}} másodperc alatt végeztél."
+    "scenarios.utah.chapter_1.chapter_1_suspension.timeLimit.msg": "Több mint {{timeLimit}} másodperc alatt végeztél.",
+    "scenarios.utah.chapter_2.chapter_2_0_comics_test.title": "chapter_2_0_comictest",
+    "scenarios.utah.chapter_2.chapter_2_4_delivery.title": "Alkatrész szállítás",
+    "quickrace.utah.mix_asphalt.title": "Kevert aszfalt",
+    "quickrace.jungle_rock_island.jri_hillclimb.description": "Aszfaltverseny a hegy tetejére. Az egész pályát tarkító éles kanyarok és veszélyes szakadékok teszik kihívássá a futamot.",
+    "quickrace.hirochi_raceway.shortcircuit1.title": "Rövid körverseny",
+    "quickrace.industrial.track_rt_long.title": "Hosszú versenypálya",
+    "quickrace.industrial.track_ri_highspeed.title": "Ipari száguldás"
 }
