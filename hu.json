@@ -136,7 +136,7 @@
     "ui.options.graphics.GraphicDynReflectionTexsize": "Textúra felbontás",
     "ui.options.graphics.PostFXLightRaysEnabled": "Fénysugarak",
     "ui.options.graphics.PostFXSSAOGeneralEnabled": "SSAO",
-    "ui.options.graphics.antialiasing": "Anti-aliasing",
+    "ui.options.graphics.antialiasing": "Élsimítás",
     "ui.options.graphics.borderless": "Keret nélkül",
     "ui.options.graphics.display": "Megjelenítő",
     "ui.options.graphics.fpslimiter": "FPS limitálás",
