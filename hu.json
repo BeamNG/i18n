@@ -1048,5 +1048,7 @@
     "levels.jungle_rock_island.spawnpoints.spawnsPeninsula": "Félsziget",
     "levels.smallgrid_aitest.info.roads": "Nincs",
     "levels.smallgrid_lightstest.info.title": "Rács, Kicsi, Fényteszt",
-    "levels.smallgrid_tiretest.info.roads": "Semmi"
+    "levels.smallgrid_tiretest.info.roads": "Nincs",
+    "levels.the_void.info.roads": "70% gyors aszfalt, 25% gyors föld, 5% ösvény",
+    "levels.utah.info.title": "Utah, USA"
 }
