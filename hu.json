@@ -1025,5 +1025,6 @@
     "scenarios.utah.chapter_1.chapter_1_cliffjump.timeLimit.msg": "Nem sikerült {{failureTime}} másodpercen belül elhagyni a fenti területet!",
     "scenarios.utah.chapter_1.chapter_1_drag.pass.msg": "Verseny befejezve",
     "scenarios.utah.chapter_1.chapter_1_ramcliff.description": "Takarítsd le a régi verdát a szirt tetejéről, egész a meredély aljáig.",
-    "scenarios.utah.chapter_1.chapter_1_rubberband.title": "Gumiszalag"
+    "scenarios.utah.chapter_1.chapter_1_rubberband.title": "Gumiszalag",
+    "scenarios.utah.chapter_1.chapter_1_suspension.timeLimit.msg": "Több mint {{timeLimit}} másodperc alatt végeztél."
 }
