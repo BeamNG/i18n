@@ -1041,5 +1041,9 @@
     "campaigns.training.training.training_drift.title": "10. lecke: Driftelés",
     "levels.cardealer.info.roads": "60% gyors aszfalt, 40% föld",
     "levels.Cliff.info.features": "nagy szirtes sziget",
-    "levels.driver_training.info.description": "Vezetéstechnikai központ Németországban"
+    "levels.driver_training.info.description": "Vezetéstechnikai központ Németországban",
+    "levels.dry_rock_island.info.title": "Dry Rock Sziget",
+    "levels.Gridmap.info.roads": "Néhány földút",
+    "levels.groundmodeltest.info.features": "Különböző földmodellek",
+    "levels.jungle_rock_island.spawnpoints.spawnsPeninsula": "Félsziget"
 }
