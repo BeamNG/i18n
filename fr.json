@@ -1706,5 +1706,8 @@
     "ui.options.userInterface.externalUi": "Activer l'interface navigateur",
     "scenarios.east_coast_usa.east_coast_chase_4.description": "Arrêtez un van 'BeamCom'",
     "quickrace.small_island.intro_round_circuit.title": "Circuit rond",
-    "quickrace.small_island.intro_round_circuitB.title": "Circuit rond - Alternative"
+    "quickrace.small_island.intro_round_circuitB.title": "Circuit rond - Alternative",
+    "engine.nodegrab.fixedwarning": "CTRL + Clic Molette pour détacher les nodes",
+    "ui.repository.option_ascending": "Ascendant",
+    "ui.options.gameplay.defaultGearboxBehavior.tooltip": "Définit le comportement par défaut de la boîte de vitesses. S'applique après l'apparition d'une nouvelle voiture."
 }
