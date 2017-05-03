@@ -1013,5 +1013,8 @@
     "scenarios.hirochi_raceway.training_acceleration_braking.description": "Ez a lecke megtanítja a gázadás és fékezés alapjait",
     "scenarios.hirochi_raceway.training_acceleration_braking.position.msg": "Nem a fékezési területen vagy...",
     "scenarios.hirochi_raceway.training_cornering.description": "Ez a lecke megtanít az ideális ív használatára, hogy hatékonyabban vezethess",
-    "scenarios.hirochi_raceway.training_cornering.nomove.msg": "Nekimentél valaminek"
+    "scenarios.hirochi_raceway.training_cornering.nomove.msg": "Nekimentél valaminek",
+    "scenarios.jungle_rock_island.intro_jri_mountain_race.description": "Verseny a Jungle Rock Sziget vulkánján át",
+    "scenarios.jungle_rock_island.jri_rally_port.title": "Rally a kikötőbe",
+    "scenarios.jungle_rock_island.drag_race.title": "Reptéri összecsapás"
 }
