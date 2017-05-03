@@ -1038,5 +1038,6 @@
     "campaigns.utah.chapter_2.title": "Egy ingatag kezdet",
     "campaigns.utah.chapter_2.summaryMessage": "Szép munka! Készen állsz a következő fejezetre.",
     "scenarios.utah.cinematic_chase.title": "Filmbe illő hajsza",
-    "campaigns.training.training.training_drift.title": "10. lecke: Driftelés"
+    "campaigns.training.training.training_drift.title": "10. lecke: Driftelés",
+    "levels.cardealer.info.roads": "60% gyors aszfalt, 40% sár"
 }
