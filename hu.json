@@ -1034,5 +1034,9 @@
     "quickrace.hirochi_raceway.shortcircuit1.title": "Rövid körverseny",
     "quickrace.industrial.track_rt_long.title": "Hosszú versenypálya",
     "quickrace.industrial.track_ri_highspeed.title": "Ipari száguldás",
-    "campaigns.utah.chapter_1.title": "Céltalan Rombolás"
+    "campaigns.utah.chapter_1.title": "Értelmetlen pusztítás",
+    "campaigns.utah.chapter_2.title": "Egy ingatag kezdet",
+    "campaigns.utah.chapter_2.summaryMessage": "Szép munka! Készen állsz a következő fejezetre.",
+    "scenarios.utah.cinematic_chase.title": "Filmbe illő hajsza",
+    "campaigns.training.training.training_drift.title": "10. lecke: Driftelés"
 }
