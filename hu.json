@@ -1047,5 +1047,6 @@
     "levels.groundmodeltest.info.features": "Különböző földmodellek",
     "levels.jungle_rock_island.spawnpoints.spawnsPeninsula": "Félsziget",
     "levels.smallgrid_aitest.info.roads": "Nincs",
-    "levels.smallgrid_lightstest.info.title": "Rács, Kicsi, Fényteszt"
+    "levels.smallgrid_lightstest.info.title": "Rács, Kicsi, Fényteszt",
+    "levels.smallgrid_tiretest.info.roads": "Semmi"
 }
