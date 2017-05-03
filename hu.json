@@ -1051,5 +1051,11 @@
     "levels.smallgrid_tiretest.info.roads": "Nincs",
     "levels.the_void.info.roads": "70% gyors aszfalt, 25% gyors föld, 5% ösvény",
     "levels.utah.info.title": "Utah, USA",
-    "levels.utah.info.description": "Canyonlands inspirálta pálya Utahban. Minden felé por, sár és kövek borítják ezt a pályát."
+    "levels.utah.info.description": "Kanyonok szabdalta vidék Utahban. A pályát rengeteg por, sár és szikla borítja.",
+    "levels.utah.info.biome": "sivatag, kanyon, fennsík",
+    "levels.utah.info.roads": "55% aszfalt, 45% föld",
+    "levels.utah.info.features": "Kanyonok, fennsíkok, folyó, síkság.",
+    "levels.utah.spawnpoints.westHighway": "Nyugati autópálya",
+    "levels.utah.spawnpoints.buildingSite": "Építési terület",
+    "levels.utah.spawnpoints.tourist": "Turistaközpont"
 }
