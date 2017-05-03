@@ -1085,5 +1085,6 @@
     "vehicle.engine.blockMelted": "Megolvadt a motorblokk",
     "vehicle.engine.headGasketDamaged": "Megsérült a hengerfejtömítés",
     "vehicle.engine.coolantOverheating": "Felforr a hűtővíz",
-    "vehicle.engine.radiatorDamaged": "Megsérült a hűtő"
+    "vehicle.engine.radiatorDamaged": "Megsérült a hűtő",
+    "vehicle.recovery.loadHome": "A jármű visszaállítva a kezdőponthoz"
 }
