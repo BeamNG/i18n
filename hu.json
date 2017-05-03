@@ -1040,5 +1040,6 @@
     "scenarios.utah.cinematic_chase.title": "Filmbe illő hajsza",
     "campaigns.training.training.training_drift.title": "10. lecke: Driftelés",
     "levels.cardealer.info.roads": "60% gyors aszfalt, 40% föld",
-    "levels.Cliff.info.features": "nagy szirtes sziget"
+    "levels.Cliff.info.features": "nagy szirtes sziget",
+    "levels.driver_training.info.description": "Vezetéstechnikai központ Németországban"
 }
