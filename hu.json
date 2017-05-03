@@ -102,8 +102,8 @@
     "ui.faq": "Segítség / GyIK",
     "ui.feedback.back": "Vissza",
     "ui.feedback.clear": "Törlés",
-    "ui.hints.moonGravity": "Tudod szimulálni a Hold gravitációját a \"Környezet\" menüben.",
-    "ui.hints.thermalDebugApp": "Hogy többet tudj meg a motor szimulációról, hozzá tudod adni a \"Motor Hőmérséklet Hibakeresés\" alkalmazást a Felhasználói Felülethez.",
+    "ui.hints.moonGravity": "A \"Környezet\" menüben akár holdi gravitációt is szimulálhatsz!",
+    "ui.hints.thermalDebugApp": "Ha többet szeretnél tudni a motor szimulációjáról, add hozzá a \"Motorhőmérséklet Debug\" appot a kezelőfelülethez.",
     "ui.launcher.test": "Szia világ!",
     "ui.levelselect.authors": "Készítő(k)",
     "ui.levelselect.chooseSpwanpoint": "Válassz kiindulási pontot",
@@ -1002,8 +1002,14 @@
     "scenarios.driver_training.driver_training.training_advanced.damage.msg": "Elég csúnya baleset volt, rendben vagy? Az autó ugyanis egyáltalán nem.",
     "scenarios.driver_training.driver_training.training_driftB.title": "11. lecke: Driftelés",
     "scenarios.driver_training.driver_training.training_driftB.defaultWin": "Szép munka! Teljesen beterítette a gumi az aszfaltot!",
-    "scenarios.driver_training.driver_training.training_driftB.drift.fail.msg": "Ezt nevezed te driftelésnek? Próbáld újra több sebességgel, és nagyobb szögben! A pontszámod: {{score}}",
+    "scenarios.driver_training.driver_training.training_driftB.drift.fail.msg": "Ezt nevezed te driftelésnek? Lépj a gázra, és dobd ki jobban a kocsi farát! A pontszámod: {{score}}",
     "scenarios.driver_training.driver_training.training_driftB.drift.msg": "Szép munka! Teljesen beterítette a gumi az aszfaltot! A pontszámod: {{score}}",
     "scenarios.driver_training.safety_training.training_spin_recovery.title": "Biztonsági lecke: Kipörgés",
-    "scenarios.driver_training.safety_training.training_spin_recovery.nomove.msg": "Ne menj neki a bójáknak..."
+    "scenarios.driver_training.safety_training.training_spin_recovery.nomove.msg": "Ne menj neki a bójáknak...",
+    "scenarios.driver_training.safety_training.training_mu_braking.nomove.msg": "Ne menj neki a bójáknak...",
+    "scenarios.east_coast_usa.police_patrol.distance.msg": "A gyanúsított elmenekült",
+    "scenarios.east_coast_usa.bank_robbery.description": "Bejelentést kaptál egy bankrablásról a közeli kisvárosban. Reagálj a riasztásra, és állítsd meg a gyanúsítottat, még mielőtt a búvóhelyére érne.",
+    "scenarios.gridmap.hard_parking.description": "Csusszanj be a lehető leggyorsabban a két autó közé.",
+    "scenarios.hirochi_raceway.training_acceleration_braking.description": "Ez a lecke megtanítja a gázadás és fékezés alapjait",
+    "scenarios.hirochi_raceway.training_acceleration_braking.position.msg": "Nem a fékezési területen vagy..."
 }
