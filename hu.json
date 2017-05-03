@@ -1016,5 +1016,8 @@
     "scenarios.hirochi_raceway.training_cornering.nomove.msg": "Nekimentél valaminek",
     "scenarios.jungle_rock_island.intro_jri_mountain_race.description": "Verseny a Jungle Rock Sziget vulkánján át",
     "scenarios.jungle_rock_island.jri_rally_port.title": "Rally a kikötőbe",
-    "scenarios.jungle_rock_island.drag_race.title": "Reptéri összecsapás"
+    "scenarios.jungle_rock_island.drag_race.title": "Reptéri összecsapás",
+    "scenarios.jungle_rock_island.drag_race.fail.msg": "Vesztettél...",
+    "scenarios.jungle_rock_island.jri_chase.distance.msg": "A gyanúsított elmenekült",
+    "scenarios.small_island.cop_chase.wayPointAction.wayPointMsg": "Állítsd meg a Pessimát!"
 }
