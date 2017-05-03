@@ -1011,5 +1011,6 @@
     "scenarios.east_coast_usa.bank_robbery.description": "Bejelentést kaptál egy bankrablásról a közeli kisvárosban. Reagálj a riasztásra, és állítsd meg a gyanúsítottat, még mielőtt a búvóhelyére érne.",
     "scenarios.gridmap.hard_parking.description": "Csusszanj be a lehető leggyorsabban a két autó közé.",
     "scenarios.hirochi_raceway.training_acceleration_braking.description": "Ez a lecke megtanítja a gázadás és fékezés alapjait",
-    "scenarios.hirochi_raceway.training_acceleration_braking.position.msg": "Nem a fékezési területen vagy..."
+    "scenarios.hirochi_raceway.training_acceleration_braking.position.msg": "Nem a fékezési területen vagy...",
+    "scenarios.hirochi_raceway.training_cornering.description": "Ez majd segít elsajátítani, hogyan használd az ideális ívet, hogy hatékonyabb légy"
 }
