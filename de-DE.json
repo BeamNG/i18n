@@ -60,7 +60,7 @@
     "engine.windowedModeReq.msgGUI": "Bitte beende den GUI-Editor um in den Vollbildmodus zu wechseln.",
     "engine.windowedModeReq.title": "erfordert Fenstermodus",
     "extensions.scenario.damageGoal.checkDamage.fail.msg": "Vorsicht! Dein Fahrzeug ist zu {{damage}}% beschädigt",
-    "extensions.scenario.damageGoal.checkDamage.win.msg": "{{damage}% Schaden",
+    "extensions.scenario.damageGoal.checkDamage.win.msg": "{{damage}}% Schaden",
     "extensions.scenario.damageGoal.fail.msg": "Du hast dein Auto beschädigt",
     "extensions.scenario.damageGoal.win.msg": "Gut gemacht! Deine Zeit: {{timeStr}}",
     "extensions.scenario.drift.failedGoal": "Du brauchst mindestens {{minDrift}} Punkte.",
