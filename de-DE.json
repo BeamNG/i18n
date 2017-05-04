@@ -68,7 +68,7 @@
     "extensions.scenario.onRaceEnd.default.win": "Gut gemacht! Deine Zeit: {{timeStr}}",
     "extensions.scenario.speedGoal.countdown": "{{countdown}}...",
     "extensions.scenario.speedGoal.fail.msg": "Deine Geschwindigkeit entspricht nicht der verlangten Geschwindigkeit",
-    "extensions.scenario.speedGoal.win.msg": "Gut gemacht {{time}}",
+    "extensions.scenario.speedGoal.win.msg": "Gut gemacht! Du hast {{time}} gebraucht.",
     "extensions.scenario.timeLimit.checkTime.countdown": "{{countdown}}...",
     "extensions.scenario.timeLimit.failedGoal": "mehr als {{maxTime}} gebraucht",
     "levels.Cliff.info.biome": "gemäßigt, Klippe, Grasland",
