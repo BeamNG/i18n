@@ -1509,5 +1509,6 @@
     "campaigns.training.training.training_slalom.title": "7. lecke: Szlalom",
     "campaigns.training.training.training_RWD_handling.title": "8. lecke: Hátsókerék-meghajtású kocsik",
     "campaigns.training.training.training_advanced.title": "9. lecke: Haladó kormányzás",
-    "levels.cardealer.info.title": "Autókereskedés"
+    "levels.cardealer.info.title": "Autókereskedés",
+    "levels.cardealer.info.description": "Egy autókereskedés, az Egyesült Államok keleti partján."
 }
