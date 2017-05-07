@@ -1530,5 +1530,6 @@
     "levels.east_coast_usa.info.title": "Keleti part, USA",
     "levels.east_coast_usa.info.description": "Az Egyesült Államok keleti partját, főleg Mainet és New Hampshiret idéző pálya",
     "levels.east_coast_usa.info.biome": "mérsékelt, erdő, tengerparti",
-    "levels.east_coast_usa.info.features": "kisváros, tengerparti sziklás utak, erdei utak, erdőirtási terület, régi házak"
+    "levels.east_coast_usa.info.features": "kisváros, tengerparti sziklás utak, erdei utak, erdőirtási terület, régi házak",
+    "vehicle.main.instability": "Instabillá vált ez a jármű: {{vehicle}} Jármű visszaállítása, és fizika letiltása."
 }
