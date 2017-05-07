@@ -1518,5 +1518,6 @@
     "levels.Cliff.info.suitablefor": "járművek széttörésére",
     "levels.Cliff.info.roads": "nincs",
     "levels.derby.info.title": "Derbi arénák",
-    "levels.derby.info.roads": "földutak"
+    "levels.derby.info.roads": "földutak",
+    "levels.derby.info.suitablefor": "roncsderbik"
 }
