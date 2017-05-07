@@ -1516,5 +1516,6 @@
     "levels.Cliff.info.title": "Szirt",
     "levels.Cliff.info.description": "Egy hatalmas, 60 fokos szikla. Autók széttörésére ideális",
     "levels.Cliff.info.suitablefor": "dolgokat széttörni",
-    "levels.Cliff.info.roads": "nincs"
+    "levels.Cliff.info.roads": "nincs",
+    "levels.derby.info.title": "Derbi Arénák"
 }
