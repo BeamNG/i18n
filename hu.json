@@ -1519,5 +1519,6 @@
     "levels.Cliff.info.roads": "nincs",
     "levels.derby.info.title": "Derbi arénák",
     "levels.derby.info.roads": "földutak",
-    "levels.derby.info.suitablefor": "roncsderbikre"
+    "levels.derby.info.suitablefor": "roncsderbikre",
+    "levels.driver_training.biome": "Erdő"
 }
