@@ -952,7 +952,7 @@
     "scenarios.driver_training.driver_training.training_cornering2.5.timeLimit.msg": "Ennél gyorsabban kéne vezetned.",
     "scenarios.driver_training.driver_training.training_cornering2.5.nomove.msg": "Elég szélesen szeded a kanyart. Ha kell, nyugodtan lassíts.",
     "scenarios.driver_training.driver_training.training_cornering2.5.damage.msg": "Kezdésként jó lenne, ha nem hajtanál bele a gyepbe.",
-    "scenarios.driver_training.driver_training.training_tightroad.title": "3. Lecke: Keskeny utas pálya",
+    "scenarios.driver_training.driver_training.training_tightroad.title": "3. lecke: Keskeny utas pálya",
     "scenarios.driver_training.driver_training.training_tightroad.description": "Szóval, most már mesterien kanyarodsz balra, de vajon elboldogulsz-e egy keskeny úton? Az ETK volt olyan kedves, és kölcsön adta nekünk az egyik tesztautóját ehhez a leckéhez - kérlek, vigyázz rá.",
     "scenarios.driver_training.driver_training.training_tightroad.defaultWin": "Teljesítetted a pályát... Bár az ETK 800-at nem nagy művészet vezetni.",
     "scenarios.driver_training.driver_training.training_tightroad.timeLimit.msg": "Ha ilyen lassan hajtasz, akkor szerintem nincs is szükséged autóra.",
@@ -1500,5 +1500,13 @@
     "scenarios.utah.cinematic_chase.distance.msg": "A rosszfiú elmenekült",
     "scenarios.utah.cinematic_chase.damage.msg": "Összetörted az autód",
     "scenarios.utah.cinematic_chase.speed.msg": "Szép volt! Az időd: {{time}}",
-    "campaigns.training.training.description": "Azzal kezdünk, hogy megtanuljuk hogyan kell kezelni egy autót a BeamNG.drive-ban."
+    "campaigns.training.training.description": "Tanuld meg a BeamNG.drive-ban való vezetés alapjait",
+    "campaigns.training.training.training_acceleration_braking.title": "1. lecke: Gyorsítás és fékezés",
+    "campaigns.training.training.training_cornering.title": "2. lecke: Kanyarodás",
+    "campaigns.training.training.training_tightroad.title": "3. lecke: Keskeny utas pálya",
+    "campaigns.training.training.training_lanechange.title": "4. lecke: Sávváltás",
+    "campaigns.training.training.training_cornerspeed.title": "6. lecke: Kormányzási sebesség",
+    "campaigns.training.training.training_slalom.title": "7. lecke: Szlalom",
+    "campaigns.training.training.training_RWD_handling.title": "8. lecke: Hátsókerék-meghajtású kocsik",
+    "campaigns.training.training.training_advanced.title": "9. lecke: Haladó kormányzás"
 }
