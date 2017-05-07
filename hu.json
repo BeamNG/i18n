@@ -1469,5 +1469,9 @@
     "quickrace.jungle_rock_island.jri_road_race.description": "Egy hosszú, a sziget peremén haladó aszfaltpálya. Nagysebességű futamokhoz és erősebb autókhoz ideális.",
     "quickrace.jungle_rock_island.jri_dirt_race.title": "Dirtfutam",
     "quickrace.jungle_rock_island.jri_dirt_race.description": "A pálya közepén elnyúló hegy körül kanyargó földutakból összeállított útvonal. ",
-    "quickrace.jungle_rock_island.intro_jri_mountain_race.title": "Hegyi futam"
+    "quickrace.jungle_rock_island.intro_jri_mountain_race.title": "Hegyi futam",
+    "quickrace.jungle_rock_island.intro_jri_mountain_race.description": "Versenyzés aszfalton a hegy tetejéig, majd lefelé a túloldalon. Bőven lesznek éles, és veszélyes kanyarok.",
+    "quickrace.jungle_rock_island.jri_peninsula.title": "Verseny a félszigeten",
+    "quickrace.jungle_rock_island.jri_peninsula.description": "Kanyargós pálya a Jungle Rock Island félszigetén. Az utak nagy része aszfalt.",
+    "quickrace.jungle_rock_island.jri_portshakedown.description": "Ez a trükkös pálya jó sofőröket igényel."
 }
