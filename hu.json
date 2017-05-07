@@ -1481,5 +1481,6 @@
     "quickrace.hirochi_raceway.forgotten_raceway.description": "Verseny a Hirochi versenypálya régi, elhanyagolt részén.",
     "quickrace.industrial.track_rc_sprint.description": "Egy változatos rallycross futam, többnyire aszfaltúton.",
     "quickrace.industrial.track_rc_perimeter.description": "Egy hosszú rallycross futam az ipartelepen.",
-    "quickrace.industrial.track_rt_short.title": "Rövid versenypálya"
+    "quickrace.industrial.track_rt_short.title": "Rövid versenypálya",
+    "quickrace.industrial.track_rt_short.description": "Nagyon rövid kör az ipari parkban."
 }
