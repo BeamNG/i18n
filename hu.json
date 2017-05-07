@@ -1508,5 +1508,6 @@
     "campaigns.training.training.training_cornerspeed.title": "6. lecke: Kormányzási sebesség",
     "campaigns.training.training.training_slalom.title": "7. lecke: Szlalom",
     "campaigns.training.training.training_RWD_handling.title": "8. lecke: Hátsókerék-meghajtású kocsik",
-    "campaigns.training.training.training_advanced.title": "9. lecke: Haladó kormányzás"
+    "campaigns.training.training.training_advanced.title": "9. lecke: Haladó kormányzás",
+    "levels.cardealer.info.title": "Autókereskedő"
 }
