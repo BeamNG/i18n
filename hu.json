@@ -1494,5 +1494,7 @@
     "campaigns.utah.chapter_1.cannon.title": "Ágyú",
     "campaigns.utah.chapter_1.highway.title": "Autópálya",
     "campaigns.utah.chapter_1.jump.title": "Ugratás",
-    "campaigns.utah.chapter_2.description": "Új kezdetek a utahi sivatagban."
+    "campaigns.utah.chapter_2.description": "Új kezdetek a utahi sivatagban.",
+    "campaigns.utah.chapter_2.summaryHeading": "Gratulálunk!",
+    "scenarios.utah.cinematic_chase.description": "Sivatagi nagy sebességű összecsapás két Német luxusautó között."
 }
