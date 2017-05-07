@@ -1485,5 +1485,7 @@
     "quickrace.industrial.track_rt_short.description": "Egy nagyon rövid körverseny az ipartelepen.",
     "quickrace.industrial.track_rt_west.title": "Nyugati versenypálya",
     "quickrace.industrial.track_rt_sprint.description": "Egy rövid, kanyargós ipartelepi pálya.",
-    "campaigns.utah.chapter_1.description": "1. rész: Montázs a pusztításról, Utahon keresztül"
+    "campaigns.utah.chapter_1.description": "1. rész: Montázs a pusztításról, Utahon keresztül",
+    "campaigns.utah.chapter_1.summaryHeading": "Gratulálunk!",
+    "campaigns.utah.chapter_1.summaryMessage": "Befejezted az első részt, itt tudod összehasonlítani teljesítményedet a többi játékossal."
 }
