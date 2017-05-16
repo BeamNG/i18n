@@ -1732,5 +1732,7 @@
     "quickrace.east_coast_usa.offroad.description": "Une piste étroite et cahoteuse progressant en difficulté, vous conduisant à travers la saleté et les cailloux ainsi que sur des rochers.",
     "quickrace.east_coast_usa.roadrace1.title": "Course sur Route 1",
     "quickrace.east_coast_usa.roadrace1.description": "Une course à travers la campagne sur la côte est des États-Unis.",
-    "quickrace.east_coast_usa.town_a.description": "Une courte course de rallye à travers la ville qui vous fait passer par de vifs virages et raccourcis sur la chaussée"
+    "quickrace.east_coast_usa.town_a.description": "Une court rallye à travers la ville, vous faisant passer par des virages serrés et des raccourcis sur la chaussée.",
+    "quickrace.east_coast_usa.town_b.title": "Parcours de la Ville 2",
+    "quickrace.east_coast_usa.town_b.description": "Un autre court rallye autour de la ville, faites attention à ne pas heurter les cylindres de signalisation !"
 }
