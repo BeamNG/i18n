@@ -516,5 +516,6 @@
     "ui.modmanager.unpack": "解压",
     "ui.apps.aicontrol.name": "AI控制",
     "ui.apps.brake_torque_graph.name": "制动扭矩图",
-    "ui.performance.warnings.minmem": "低于4GB内存：系统没有足够的内存来运行某些关卡"
+    "ui.performance.warnings.minmem": "内存低于4GB：没有足够内存以运行某些地图",
+    "ui.common.next": "下一个"
 }
