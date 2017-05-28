@@ -757,5 +757,6 @@
     "engine.editor.menu.cameraspeed.fast": "Snabb",
     "engine.editor.menu.cameraspeed.fastest": "Snabbaste",
     "engine.editor.menu.toggleCamModes": "Växla kameralägen",
-    "engine.editor.menu.viewType": "Vy"
+    "engine.editor.menu.viewType": "Vy",
+    "engine.editor.menu.lighting": "Ljus"
 }
