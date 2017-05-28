@@ -748,5 +748,6 @@
     "levels.utah_offroad_park.info.features": "jord",
     "scenarios.east_coast_usa.east_coast_chase_3.speed.msg": "Bra jobbat! Din tid: {{time}}",
     "scenarios.east_coast_usa.east_coast_chase_4.speed.msg": "Bra jobbat! Din tid: {{time}}",
-    "vehicle.bdebug.nodeTextMode.materials": "Material"
+    "vehicle.bdebug.nodeTextMode.materials": "Material",
+    "engine.editor.menu.view": "Vy"
 }
