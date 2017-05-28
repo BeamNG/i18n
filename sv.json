@@ -749,5 +749,13 @@
     "scenarios.east_coast_usa.east_coast_chase_3.speed.msg": "Bra jobbat! Din tid: {{time}}",
     "scenarios.east_coast_usa.east_coast_chase_4.speed.msg": "Bra jobbat! Din tid: {{time}}",
     "vehicle.bdebug.nodeTextMode.materials": "Material",
-    "engine.editor.menu.view": "Vy"
+    "engine.editor.menu.view": "Vy",
+    "engine.editor.menu.cameraspeed": "Kamerahastighet",
+    "engine.editor.menu.cameraspeed.slowest": "Slowest",
+    "engine.editor.menu.cameraspeed.slower": "Saktare",
+    "engine.editor.menu.cameraspeed.normal": "Normal",
+    "engine.editor.menu.cameraspeed.fast": "Snabb",
+    "engine.editor.menu.cameraspeed.fastest": "Snabbaste",
+    "engine.editor.menu.toggleCamModes": "Växla kameralägen",
+    "engine.editor.menu.viewType": "Vy"
 }
