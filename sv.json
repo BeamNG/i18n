@@ -783,5 +783,7 @@
     "ui.repository.filter_latest": "Senaste",
     "ui.quickrace.changeConfig": "Ändra konfiguration",
     "ui.quickrace.selectVehicle": "Välj fordon",
-    "ui.quickrace.tod.sunrise": "Soluppgång"
+    "ui.quickrace.tod.sunrise": "Soluppgång",
+    "vehicle.bdebug.nodeVisMode.simple": "Enkel",
+    "vehicle.bdebug.nodeTextMode.weights": "Vikter"
 }
