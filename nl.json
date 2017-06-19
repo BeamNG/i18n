@@ -8,7 +8,7 @@
     "campaigns.utah.chapter_2.canyon.title": "Hoofdstuk 2 kloof",
     "campaigns.utah.chapter_2.mixed.title": "Hoofdstuk 2 gemixt",
     "engine.cef.subprocessdied.msg": "Het UI-Proces reageerde ongewoon traag.\nDe oorzaak kan een Antivirusprogramma zijn die de BeamNG.drive.ui.exe applicatie blokkeert.\n\nJe kan hier meer informatie vinden:\n\nhttp://wiki.beamng.com/Errors/Unresponsive_UI_Process\n\nWilt je het web adres openen in je browser?",
-    "engine.cef.subprocessdied.title": "Het UI-Proces reageert niet meer",
+    "engine.cef.subprocessdied.title": "UI-Proces reageert niet",
     "engine.cef.subprocessdied.url": "http://wiki.beamng.com/Errors/Unresponsive_UI_Process",
     "engine.editor.menu.createBlankTerrain": "Creëer Leeg Terrein",
     "engine.editor.menu.exitLevel": "Level Verlaten",
