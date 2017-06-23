@@ -838,5 +838,7 @@
     "ui.apps.json_dump.name": "JSON-dump",
     "ui.apps.race_time.name": "Race tid",
     "ui.apps.automatic_gears.name": "Automatväxellåda",
-    "ui.apps.digital_speedometer.name": "Digital hastighetsmätare"
+    "ui.apps.digital_speedometer.name": "Digital hastighetsmätare",
+    "ui.apps.digital_airspeedometer.name": "Digital lufthastighetsmätare",
+    "ui.apps.pitch.name": "Lutning"
 }
