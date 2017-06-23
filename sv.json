@@ -1031,5 +1031,6 @@
     "vehicle.engine.radiatorDamaged": "Kylare skadad",
     "vehicle.bullettime.changeFast": "{{speed}} gånger snabbare än realtid",
     "vehicle.bdebug.cogMode.nowheels": "Utan hjul",
-    "vehicle.bdebug.nodeTextMode.numbers": "Nummer"
+    "vehicle.bdebug.nodeTextMode.numbers": "Nummer",
+    "vehicle.bdebug.beamVisMode.stress": "Stress"
 }
