@@ -785,5 +785,6 @@
     "ui.quickrace.selectVehicle": "Välj fordon",
     "ui.quickrace.tod.sunrise": "Soluppgång",
     "vehicle.bdebug.nodeVisMode.simple": "Enkel",
-    "vehicle.bdebug.nodeTextMode.weights": "Vikter"
+    "vehicle.bdebug.nodeTextMode.weights": "Vikter",
+    "engine.editor.loading": "Laddar världsredaktören..."
 }
