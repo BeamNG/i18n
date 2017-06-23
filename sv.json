@@ -996,5 +996,9 @@
     "campaigns.utah.chapter_1.summaryHeading": "Gratulerar! ",
     "campaigns.utah.chapter_1.suspension.title": "Fjädring",
     "campaigns.utah.chapter_1.jump.title": "Hopp",
-    "campaigns.utah.chapter_1.rubberband.title": "Gummisnodd"
+    "campaigns.utah.chapter_1.rubberband.title": "Gummisnodd",
+    "campaigns.utah.chapter_2.summaryHeading": "Gratulerar!",
+    "scenarios.utah.cinematic_chase.damage.msg": "Du kraschade din bil",
+    "campaigns.training.training.training_cornering.title": "Övning 2: Kurvtagning",
+    "campaigns.training.training.training_acceleration_braking.title": "Övning 1: Acceleration och inbromsning "
 }
