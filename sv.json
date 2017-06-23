@@ -816,5 +816,21 @@
     "ui.actions.spawn": "Återskapa bil",
     "ui.unit.nm": "Newton-meter",
     "ui.unit.j": "Joule",
-    "ui.unit.kPa": "Kilopascal"
+    "ui.unit.kPa": "Kilopascal",
+    "ui.repository.rating": "Betyg",
+    "ui.repository.last_updated": "Senast uppdaterad",
+    "ui.repository.option_rating": "Betyg",
+    "ui.repository.option_title": "Titel",
+    "ui.repository.filter_top_downloaded": "Mest nedladdad",
+    "ui.quickrace.selectLevel": "Välj level",
+    "ui.quickrace.selectTrack": "Välj layout",
+    "ui.quickrace.tod.sunset": "Solnedgång",
+    "ui.quickrace.country": "Land",
+    "ui.modmanager.numActive": "{{active}} av {{all}} mods aktiva",
+    "ui.modmanager.active": "Aktiv",
+    "ui.modmanager.deactivateAll": "Avaktivera alla mods",
+    "ui.modmanager.modname": "Mod namn",
+    "ui.modmanager.deactivate": "Avaktivera",
+    "ui.vehicleconfig.licensePlate": "Registreringsskylt",
+    "ui.apps.categories.info": "Info"
 }
