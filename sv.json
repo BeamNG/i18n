@@ -1026,5 +1026,6 @@
     "vehicle.drivetrain.engineFlooding": "Motorn fylls med vatten ({{percent}}%)",
     "vehicle.drivetrain.engineDamaged": "Motorn skadad",
     "vehicle.engine.pistonRingsDamaged": "Kolvtätningar skadade",
-    "vehicle.engine.oilOverheating": "Oljan överhettas"
+    "vehicle.engine.oilOverheating": "Oljan överhettas",
+    "vehicle.engine.headGasketDamaged": "Huvudpackning skadad"
 }
