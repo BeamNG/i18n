@@ -855,5 +855,12 @@
     "ui.options.units.power": "Kraft",
     "ui.options.units.pressure": "Tryck",
     "ui.options.graphics.MainMenuBackgroundMode": "Meny backgrund",
-    "ui.options.graphics.uimaxresExplanation": "Anger maximal upplösning för användargränssnittet. Användbart för 4k skärmar."
+    "ui.options.graphics.uimaxresExplanation": "Anger maximal upplösning för användargränssnittet. Användbart för 4k skärmar.",
+    "ui.options.graphics.PostFXHDRGeneralEnabled": "HDR",
+    "ui.options.graphics.GraphicTextureQuality": "Texturkvalitet",
+    "ui.options.graphics.GraphicDisableShadows": "Avaktivera skuggor",
+    "ui.options.audio.hardware": "Hårdvara",
+    "ui.options.audio.musicVol": "Musik volym",
+    "ui.controls.nDevicesDetected": "{{nDevices}} enheter upptäckta",
+    "ui.controls.availableHardware": "Tillgänglig hårdvara"
 }
