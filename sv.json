@@ -833,5 +833,9 @@
     "ui.modmanager.deactivate": "Avaktivera",
     "ui.vehicleconfig.licensePlate": "Registreringsskylt",
     "ui.apps.categories.info": "Info",
-    "ui.apps.aicontrol.name": "AI-kontroll"
+    "ui.apps.aicontrol.name": "AI-kontroll",
+    "ui.apps.engineinfo.name": "",
+    "ui.apps.json_dump.name": "JSON-dump",
+    "ui.apps.race_time.name": "Race tid",
+    "ui.apps.automatic_gears.name": "Automatväxellåda"
 }
