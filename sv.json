@@ -862,5 +862,6 @@
     "ui.options.audio.hardware": "Hårdvara",
     "ui.options.audio.musicVol": "Musik volym",
     "ui.controls.nDevicesDetected": "{{nDevices}} enheter upptäckta",
-    "ui.controls.availableHardware": "Tillgänglig hårdvara"
+    "ui.controls.availableHardware": "Tillgänglig hårdvara",
+    "ui.controls.driverWarning": "Varning: om du har problem med vibrationen i din {{productName}}, så kanske du behöver uppdatera till senaste Logitech-drivrutinen."
 }
