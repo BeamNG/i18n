@@ -1004,5 +1004,6 @@
     "levels.driver_training.info.description": "Träningsområde i Tyskland",
     "levels.west_coast_usa.spawnpoints.highway": "Motorväg",
     "levels.Gridmap.info.biome": "VR",
-    "levels.Gridmap.spawnpoints.spawn_outside": "Utomhus"
+    "levels.Gridmap.spawnpoints.spawn_outside": "Utomhus",
+    "levels.industrial.spawnpoints.spawn_drift": "Driftbana"
 }
