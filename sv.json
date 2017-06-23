@@ -951,5 +951,6 @@
     "scenarios.hirochi_raceway.training_acceleration_braking.nomove.msg": "Du träffade någonting",
     "scenarios.hirochi_raceway.training_acceleration_braking.timeLimit.msg": "Du använde mer än {{timeLimit}} sekunder",
     "scenarios.hirochi_raceway.training_slalom_FWD.timeLimit.msg": "Tiden är ute! Försök igen med högre hastighet.",
-    "scenarios.hirochi_raceway.training_advanced_braking.timeLimit.msg": "Tiden är ute! Försök igen med högre hastighet."
+    "scenarios.hirochi_raceway.training_advanced_braking.timeLimit.msg": "Tiden är ute! Försök igen med högre hastighet.",
+    "scenarios.hirochi_raceway.intro_fullcircuit.title": "Full bana"
 }
