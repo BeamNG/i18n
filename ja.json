@@ -542,5 +542,8 @@
     "ui.options.gameplay.defaultGearboxBehavior.tooltip": "デフォルトのトランスミッションモードは新しい車両を使用する際に適用されます。",
     "ui.options.gameplay.autoShiftPrevention.tooltip": "有効にした場合、よりレースに集中するためにオートマチックトランスミッションの特定の操作を禁止します。(例えばMモードからのシフトを速度が低下するまで禁止します)",
     "ui.options.gameplay.translationProjectPage": "翻訳プロジェクトのサイト",
-    "ui.common.realistic": "リアリスティック"
+    "ui.common.realistic": "リアリスティック",
+    "scenarios.gridmap.hard_parking.description": "2台の車の間を滑り、できるだけ早く駐車する。",
+    "scenarios.hirochi_raceway.training_RWD_handling.description": "これは制御を失うことなく、限界で後輪駆動車を運転する方法を教えてくれるでしょう",
+    "campaigns.utah.chapter_1.title": "無意味な破壊"
 }
