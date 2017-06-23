@@ -792,5 +792,6 @@
     "engine.editor.menu.gameOptions": "Spelalternativ...",
     "engine.editor.menu.postfxManager": "Eftereffekt-redigeraren",
     "engine.editor.menu.standartCamera": "Standard",
-    "engine.editor.menu.cameratype.firstPerson": "Första person"
+    "engine.editor.menu.cameratype.firstPerson": "Första person",
+    "engine.editor.menu.cameratype.thirdPerson": "Tredje Person"
 }
