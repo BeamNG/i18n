@@ -787,5 +787,7 @@
     "vehicle.bdebug.nodeVisMode.simple": "Enkel",
     "vehicle.bdebug.nodeTextMode.weights": "Vikter",
     "engine.editor.loading": "Laddar världsredaktören...",
-    "engine.editor.menu.cut": "Klipp"
+    "engine.editor.menu.cut": "Klipp",
+    "engine.editor.menu.paste": "Infoga",
+    "engine.editor.menu.gameOptions": "Spelalternativ..."
 }
