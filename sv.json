@@ -786,5 +786,6 @@
     "ui.quickrace.tod.sunrise": "Soluppgång",
     "vehicle.bdebug.nodeVisMode.simple": "Enkel",
     "vehicle.bdebug.nodeTextMode.weights": "Vikter",
-    "engine.editor.loading": "Laddar världsredaktören..."
+    "engine.editor.loading": "Laddar världsredaktören...",
+    "engine.editor.menu.cut": "Klipp"
 }
