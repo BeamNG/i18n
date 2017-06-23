@@ -789,5 +789,8 @@
     "engine.editor.loading": "Laddar världsredaktören...",
     "engine.editor.menu.cut": "Klipp",
     "engine.editor.menu.paste": "Infoga",
-    "engine.editor.menu.gameOptions": "Spelalternativ..."
+    "engine.editor.menu.gameOptions": "Spelalternativ...",
+    "engine.editor.menu.postfxManager": "Eftereffekt-redigeraren",
+    "engine.editor.menu.standartCamera": "Standard",
+    "engine.editor.menu.cameratype.firstPerson": "Första person"
 }
