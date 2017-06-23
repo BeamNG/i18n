@@ -832,5 +832,6 @@
     "ui.modmanager.modname": "Mod namn",
     "ui.modmanager.deactivate": "Avaktivera",
     "ui.vehicleconfig.licensePlate": "Registreringsskylt",
-    "ui.apps.categories.info": "Info"
+    "ui.apps.categories.info": "Info",
+    "ui.apps.aicontrol.name": "AI-kontroll"
 }
