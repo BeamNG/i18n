@@ -954,5 +954,6 @@
     "scenarios.hirochi_raceway.training_advanced_braking.timeLimit.msg": "Tiden är ute! Försök igen med högre hastighet.",
     "scenarios.hirochi_raceway.intro_fullcircuit.title": "Full bana",
     "scenarios.hirochi_raceway.training_cornering.timeLimit.msg": "Du använde mer än {{timeLimit}}sekunder",
-    "scenarios.hirochi_raceway.training_spin_recovery.timeLimit.msg": "Tiden är ute! Försök igen men rappa på."
+    "scenarios.hirochi_raceway.training_spin_recovery.timeLimit.msg": "Tiden är ute! Försök igen men rappa på.",
+    "scenarios.jungle_rock_island.jri_rally_port.title": "Rally till hamnen"
 }
