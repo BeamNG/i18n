@@ -990,5 +990,9 @@
     "scenarios.utah.guineapig.fail.msg": "Du misslyckades",
     "quickrace.gridmap.slalom.title": "Slalom",
     "quickrace.jungle_rock_island.jri_rally_port.description": "Ett race på grusväg genom öns igenväxta djungel, som avslutas i den övergivna hamnen.",
-    "quickrace.hirochi_raceway.shortcircuit1.title": "Kort racerbana"
+    "quickrace.hirochi_raceway.shortcircuit1.title": "Kort racerbana",
+    "quickrace.small_island.rally1.title": "Rally 1",
+    "quickrace.small_island.rally3.title": "Rally 3",
+    "campaigns.utah.chapter_1.summaryHeading": "Gratulerar! ",
+    "campaigns.utah.chapter_1.suspension.title": "Fjädring"
 }
