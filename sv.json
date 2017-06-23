@@ -795,5 +795,6 @@
     "engine.editor.menu.cameratype.firstPerson": "Första person",
     "engine.editor.menu.cameratype.thirdPerson": "Tredje person",
     "engine.editor.menu.camera.perspective": "Perspektiv",
-    "engine.editor.menu.camera.isometric": "Isometrisk"
+    "engine.editor.menu.camera.isometric": "Isometrisk",
+    "engine.editor.menu.worldCamera": "Världskamera"
 }
