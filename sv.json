@@ -919,5 +919,6 @@
     "scenarios.driver_training.driver_training.training_cornerspeedB.damage.msg": "Bilar brukar svänga sämre när man kört in i väggar.",
     "scenarios.driver_training.driver_training.training_easycircuit.title": "Övning 6: Enkelt lopp",
     "scenarios.driver_training.driver_training.training_hairpins3.5.defaultWin": "Jag måste medge, det där var coolt.",
-    "scenarios.driver_training.driver_training.training_hairpins3.5.damage.msg": "Er, måste vi gå tillbaka till lektion nummer ett?"
+    "scenarios.driver_training.driver_training.training_hairpins3.5.damage.msg": "Er, måste vi gå tillbaka till lektion nummer ett?",
+    "scenarios.driver_training.driver_training.training_rwd.timeLimit.msg": "Bilen har en V8-motor med massor av kraft... använd det!"
 }
