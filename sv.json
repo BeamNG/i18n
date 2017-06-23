@@ -854,5 +854,6 @@
     "ui.options.units.length": "Längd",
     "ui.options.units.power": "Kraft",
     "ui.options.units.pressure": "Tryck",
-    "ui.options.graphics.MainMenuBackgroundMode": "Meny backgrund"
+    "ui.options.graphics.MainMenuBackgroundMode": "Meny backgrund",
+    "ui.options.graphics.uimaxresExplanation": "Anger maximal upplösning för användargränssnittet. Användbart för 4k skärmar."
 }
