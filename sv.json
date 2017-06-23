@@ -793,5 +793,7 @@
     "engine.editor.menu.postfxManager": "Eftereffekt-redigeraren",
     "engine.editor.menu.standartCamera": "Standard",
     "engine.editor.menu.cameratype.firstPerson": "Första person",
-    "engine.editor.menu.cameratype.thirdPerson": "Tredje Person"
+    "engine.editor.menu.cameratype.thirdPerson": "Tredje person",
+    "engine.editor.menu.camera.perspective": "Perspektiv",
+    "engine.editor.menu.camera.isometric": "Isometrisk"
 }
