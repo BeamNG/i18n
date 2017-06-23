@@ -813,5 +813,7 @@
     "extensions.scenario.timeLimit.failedGoal": "använde mer än {{maxTime}}",
     "extensions.scenario.drift.passGoal": "Snyggt jobbat! Din poäng var {{driftPoints}} poäng.",
     "ui.common.critical": "Kritisk",
-    "ui.actions.spawn": "Återskapa bil"
+    "ui.actions.spawn": "Återskapa bil",
+    "ui.unit.nm": "Newton-meter",
+    "ui.unit.j": "Joule"
 }
