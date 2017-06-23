@@ -941,5 +941,15 @@
     "scenarios.east_coast_usa.east_coast_chase_3.wayPointAction.msg": "Stoppa tjuven!",
     "scenarios.east_coast_usa.east_coast_chase_4.distance.msg": "Den misstänkte kom undan",
     "scenarios.east_coast_usa.east_coast_chase_4.wayPointAction.msg": "Stoppa tjuven!",
-    "scenarios.gridmap.gm_jumps.description": "En kort serie små hopp"
+    "scenarios.gridmap.gm_jumps.description": "En kort serie små hopp",
+    "scenarios.gridmap.hard_parking.fail.time.msg": "Du använde mer än {{time}} sekunder",
+    "scenarios.gridmap.gm_intersection.win.msg": "Härligt! Din hastighet: {{speed}} km/h",
+    "scenarios.gridmap.gm_intersection.fail.msg": "Du förlora!",
+    "scenarios.gridmap.gm_intersection_2.win.msg": "Underbart! Din hastighet: {{speed}} km/h",
+    "scenarios.gridmap.gm_intersection_2.fail.msg": "Du förlora!",
+    "scenarios.hirochi_raceway.training_hairpins.timeLimit.msg": "du använde mer än {{timeLimit}} sekunder",
+    "scenarios.hirochi_raceway.training_acceleration_braking.nomove.msg": "Du träffade någonting",
+    "scenarios.hirochi_raceway.training_acceleration_braking.timeLimit.msg": "Du använde mer än {{timeLimit}} sekunder",
+    "scenarios.hirochi_raceway.training_slalom_FWD.timeLimit.msg": "Tiden är ute! Försök igen med högre hastighet.",
+    "scenarios.hirochi_raceway.training_advanced_braking.timeLimit.msg": "Tiden är ute! Försök igen med högre hastighet."
 }
