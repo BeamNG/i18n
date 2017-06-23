@@ -973,5 +973,6 @@
     "scenarios.utah.chapter_1.chapter_1_highway.pass.msg": "Vägspärrningen passerad",
     "scenarios.utah.chapter_1.chapter_1_hilldrop.timeLimit.msg": "använde mer än {{timeLimit}} sekunder",
     "scenarios.utah.chapter_1.chapter_1_hilldrop.fail.msg": "Du rörde inte på dig inom 10 sekunder",
-    "scenarios.utah.chapter_1.chapter_1_hilldrop.pass.msg": "Snyggt!"
+    "scenarios.utah.chapter_1.chapter_1_hilldrop.pass.msg": "Snyggt!",
+    "scenarios.utah.chapter_1.chapter_1_jump.fail.msg": "Du missade"
 }
