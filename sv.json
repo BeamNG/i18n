@@ -1029,5 +1029,6 @@
     "vehicle.engine.oilOverheating": "Oljan överhettas",
     "vehicle.engine.headGasketDamaged": "Huvudpackning skadad",
     "vehicle.engine.radiatorDamaged": "Kylare skadad",
-    "vehicle.bullettime.changeFast": "{{speed}} gånger snabbare än realtid"
+    "vehicle.bullettime.changeFast": "{{speed}} gånger snabbare än realtid",
+    "vehicle.bdebug.cogMode.nowheels": "Utan hjul"
 }
