@@ -988,5 +988,7 @@
     "scenarios.utah.chapter_2.chapter_2_5_roll.fail.msg": "Jag är säker på att du kan göra bättre än så.",
     "scenarios.utah.chapter_2.chapter_2_6_canyon.fail.msg": "Ska du låta han komma undan med det där?",
     "scenarios.utah.guineapig.fail.msg": "Du misslyckades",
-    "quickrace.gridmap.slalom.title": "Slalom"
+    "quickrace.gridmap.slalom.title": "Slalom",
+    "quickrace.jungle_rock_island.jri_rally_port.description": "Ett race på grusväg genom öns igenväxta djungel, som avslutas i den övergivna hamnen.",
+    "quickrace.hirochi_raceway.shortcircuit1.title": "Kort racerbana"
 }
