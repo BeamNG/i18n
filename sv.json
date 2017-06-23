@@ -798,5 +798,6 @@
     "engine.editor.menu.camera.isometric": "Isometrisk",
     "engine.editor.menu.worldCamera": "Världskamera",
     "engine.editor.menu.placeCameraPlayer": "Placera kameran vid spelaren",
-    "engine.editor.menu.placePlayerCamera": "Placera spelaren vid kameran"
+    "engine.editor.menu.placePlayerCamera": "Placera spelaren vid kameran",
+    "engine.editor.menu.jumpBookmark": "Hoppa till bokmärke"
 }
