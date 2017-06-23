@@ -815,5 +815,6 @@
     "ui.common.critical": "Kritisk",
     "ui.actions.spawn": "Återskapa bil",
     "ui.unit.nm": "Newton-meter",
-    "ui.unit.j": "Joule"
+    "ui.unit.j": "Joule",
+    "ui.unit.kPa": "Kilopascal"
 }
