@@ -994,5 +994,7 @@
     "quickrace.small_island.rally1.title": "Rally 1",
     "quickrace.small_island.rally3.title": "Rally 3",
     "campaigns.utah.chapter_1.summaryHeading": "Gratulerar! ",
-    "campaigns.utah.chapter_1.suspension.title": "Fjädring"
+    "campaigns.utah.chapter_1.suspension.title": "Fjädring",
+    "campaigns.utah.chapter_1.jump.title": "Hopp",
+    "campaigns.utah.chapter_1.rubberband.title": "Gummisnodd"
 }
