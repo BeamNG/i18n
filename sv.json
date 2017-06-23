@@ -799,5 +799,19 @@
     "engine.editor.menu.worldCamera": "Världskamera",
     "engine.editor.menu.placeCameraPlayer": "Placera kameran vid spelaren",
     "engine.editor.menu.placePlayerCamera": "Placera spelaren vid kameran",
-    "engine.editor.menu.jumpBookmark": "Hoppa till bokmärke"
+    "engine.editor.menu.jumpBookmark": "Hoppa till bokmärke",
+    "engine.editor.menu.posXAxis": "+X axel",
+    "engine.editor.menu.posYAxis": "+Y axel",
+    "engine.editor.menu.posZAxis": "+Z axel",
+    "engine.editor.menu.negXAxis": "-X axel",
+    "engine.editor.menu.negYAxis": "-Y axel",
+    "engine.editor.menu.negZAxis": "-Z axel",
+    "engine.editor.menu.yAxis": "Y axel",
+    "engine.editor.menu.lockSelection": "Lås valda",
+    "engine.editor.menu.hideSelection": "Göm valda",
+    "engine.editor.menu.showSelection": "Visa valda",
+    "extensions.scenario.timeLimit.failedGoal": "använde mer än {{maxTime}}",
+    "extensions.scenario.drift.passGoal": "Snyggt jobbat! Din poäng var {{driftPoints}} poäng.",
+    "ui.common.critical": "Kritisk",
+    "ui.actions.spawn": "Återskapa bil"
 }
