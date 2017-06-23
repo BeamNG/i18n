@@ -1027,5 +1027,7 @@
     "vehicle.drivetrain.engineDamaged": "Motorn skadad",
     "vehicle.engine.pistonRingsDamaged": "Kolvtätningar skadade",
     "vehicle.engine.oilOverheating": "Oljan överhettas",
-    "vehicle.engine.headGasketDamaged": "Huvudpackning skadad"
+    "vehicle.engine.headGasketDamaged": "Huvudpackning skadad",
+    "vehicle.engine.radiatorDamaged": "Kylare skadad",
+    "vehicle.bullettime.changeFast": "{{speed}} gånger snabbare än realtid"
 }
