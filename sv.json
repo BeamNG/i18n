@@ -1045,5 +1045,6 @@
     "extensions.scenario.speedGoal.fail.msg": "Din hastighet är inte den krävda hastigheten",
     "extensions.campaign.exploration.mapHint": "Tryck på [action=pause] för att visa kartan med tillgängliga uppdrag",
     "ui.common.delete": "Radera",
-    "ui.common.error": "Fel"
+    "ui.common.error": "Fel",
+    "ui.unit.imperial": "Brittiska systemet"
 }
