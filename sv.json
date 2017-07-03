@@ -1046,5 +1046,9 @@
     "extensions.campaign.exploration.mapHint": "Tryck på [action=pause] för att visa kartan med tillgängliga uppdrag",
     "ui.common.delete": "Radera",
     "ui.common.error": "Fel",
-    "ui.unit.imperial": "Brittiska systemet"
+    "ui.unit.imperial": "Brittiska systemet",
+    "ui.mainmenu.addmods": "LÄGG TILL MODS",
+    "ui.repository.author": "Skapare",
+    "ui.quickrace.tracks.laps": "Lopp",
+    "ui.quickrace.tracks.lap": "Lopp"
 }
