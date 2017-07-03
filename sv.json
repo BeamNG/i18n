@@ -1050,5 +1050,6 @@
     "ui.mainmenu.addmods": "LÄGG TILL MODS",
     "ui.repository.author": "Skapare",
     "ui.quickrace.tracks.laps": "Lopp",
-    "ui.quickrace.tracks.lap": "Lopp"
+    "ui.quickrace.tracks.lap": "Lopp",
+    "ui.modmanager.activateAll": "Aktivera alla mod"
 }
