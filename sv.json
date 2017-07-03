@@ -1037,5 +1037,7 @@
     "engine.editor.menu.smoothedRotateCamera": "Mjuk rotation",
     "ui.common.reset": "Återställ",
     "ui.unit.kw": "Kilowatt",
-    "engine.editor.menu.camera.top": "Topp"
+    "engine.editor.menu.camera.top": "Topp",
+    "engine.editor.menu.camera.bottom": "Botten",
+    "engine.editor.menu.camera.front": "Front"
 }
