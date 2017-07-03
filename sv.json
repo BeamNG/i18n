@@ -1036,5 +1036,6 @@
     "vehicle.turbocharger.overheating": "Turbon överhettas",
     "engine.editor.menu.smoothedRotateCamera": "Mjuk rotation",
     "ui.common.reset": "Återställ",
-    "ui.unit.kw": "Kilowatt"
+    "ui.unit.kw": "Kilowatt",
+    "engine.editor.menu.camera.top": "Topp"
 }
