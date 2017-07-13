@@ -546,5 +546,18 @@
     "scenarios.gridmap.hard_parking.description": "2台の車の間を滑り、できるだけ早く駐車する。",
     "scenarios.hirochi_raceway.training_RWD_handling.description": "これは制御を失うことなく、限界で後輪駆動車を運転する方法を教えてくれるでしょう",
     "campaigns.utah.chapter_1.title": "無意味な破壊",
-    "ui.feedback.back": "戻る"
+    "ui.feedback.back": "戻る",
+    "ui.unit.lbft": "ポンド・フィート",
+    "ui.options.theme.primary": "基本",
+    "ui.options.theme.accent": "注意",
+    "ui.options.theme.background": "背景",
+    "ui.options.units.power": "仕事率",
+    "ui.options.userInterface.unitSystem": "単位",
+    "ui.options.gearbox": "トランスミッション",
+    "ui.faq.useMods.a": "Modをインストールした後は、それぞれのメニューから車両もしくは地形を選択できます。",
+    "ui.faq.updateGame.a": "インターネットに接続されている場合Steamによりアップデートは自動的にインストールされます。[br]さらなる情報は我々のWikiページをご覧ください[url=http://wiki.beamng.com/Updating_the_game]\nhttp://wiki.beamng.com/Updating_the_game[/url]",
+    "ui.faq.findMods.a": "こちらでModを見つけることができます:[url=http://www.beamng.com/resources/]\nBeamNG.drive repository[/url] ログインした場合Modページの緑のボタンから簡単にインストールできます。",
+    "ui.perforamnce.improvements": "簡単にパフォーマンスを向上させるには",
+    "ui.performance.link.graphicsOptions": "グラフィックオプション",
+    "ui.options.audio.effectsVol": "エフェクトボリューム。"
 }
