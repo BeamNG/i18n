@@ -942,5 +942,6 @@
     "ui.color.saturation": "Sytost",
     "ui.color.brightness": "Jas",
     "ui.color.chrominess": "Chromovost",
-    "ui.vehicleconfig.licensePlate": "SPZ"
+    "ui.vehicleconfig.licensePlate": "SPZ",
+    "engine.editor.menu.orbitCamera": "Orbit Kamera"
 }
