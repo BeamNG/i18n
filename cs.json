@@ -948,5 +948,5 @@
     "ui.mainmenu.onlineFeatures.featureDescription": "Můžete povolit nebo zakázat všechny online funkce v BeamNG.drive. Ovlivní to:[br][list][*]Repositář[*]Odběry Modifikací[*]Úspěchy[*]Žebříčky[*]Funkce chatu[*]Funkce sdílení obsahu[*][/list]Povolením online funkcí souhlasíte s našimi [url = http: //wiki.beamng.com/Privacy_Policy]Zásadami ochrany osobních údajů[/url] a s našimi [url = http: //wiki.beamng.com/TOS]Smluvními podmínkami[/url].[br][br]Toto nastavení můžete kdykoli změnit v nabídce Možnosti > Hratelnost.",
     "ui.vehicleconfig.subparts": "Podčásti",
     "ui.vehicleconfig.simpleTree": "Jednoduchý Strom",
-    "ui.apps.brake_torque_graph.name": "Graf Brzdícího Momentu"
+    "ui.apps.brake_torque_graph.name": "Graf brzdného momentu"
 }
