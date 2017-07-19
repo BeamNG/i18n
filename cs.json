@@ -782,7 +782,7 @@
     "engine.editor.menu.atCamaraWoRot": "na Kameru s rotací",
     "engine.editor.menu.screenCenter": "Střed obrazovky",
     "engine.editor.menu.atCenteroid": "",
-    "engine.editor.menu.toTerrain": "",
+    "engine.editor.menu.toTerrain": "na Terén",
     "engine.editor.menu.belowSelection": "Pod výběr",
     "engine.editor.menu.posXAxis": "Osa +X",
     "engine.editor.menu.posYAxis": "Osa +Y",
@@ -944,5 +944,6 @@
     "ui.color.chrominess": "Chromovost",
     "ui.vehicleconfig.licensePlate": "SPZ",
     "engine.editor.menu.orbitCamera": "Orbit Kamera",
-    "engine.editor.menu.fitViewSelectionOrbit": "Přizpůsobit zobrazení výběru a Orbitě"
+    "engine.editor.menu.fitViewSelectionOrbit": "Přizpůsobit zobrazení výběru a Orbitě",
+    "ui.mainmenu.onlineFeatures.featureDescription": "Můžete povolit nebo zakázat všechny funkce online v BeamNG.drive. To bude mít vliv na: [br] [list] 1 [*] Sklad v hře [*] odběry Modifikací [*] Úspěchy [*] Žebříčky [*] Že souhlasíte s našimi zásadami ochrany osobních údajů [url = http: //wiki.beamng.com/Privacy_Policy] [/ url] a s našimi smluvními podmínkami [url = http: //wiki.beamng.com/TOS] [/ url] . [Br] 3 [br] 4Toto nastavení můžete kdykoli změnit v části Možnosti> Herní."
 }
