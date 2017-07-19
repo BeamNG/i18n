@@ -561,7 +561,7 @@
     "ui.options.communityTranslationsAgree": "Souhlasím & povolit",
     "ui.options.currentLanguage": "Aktuální jazyk",
     "ui.options.gameplay": "Hra",
-    "ui.options.gameplay.competitiveScenarios": "Rovné podmínky scénářů",
+    "ui.options.gameplay.competitiveScenarios": "Stejné podmínky scénářů",
     "ui.options.gameplay.controlOnBlur": "Povolit vstup a zpětnou vazbu ovladače, když je okno neaktivní.",
     "ui.options.gameplay.defaultToCurrentVehicle": "Nastavit aktuální vozidlo jako výchozí",
     "ui.options.gameplay.enginesPreheated": "Startovat se zahřátým motorem",
