@@ -779,7 +779,7 @@
     "engine.editor.menu.editors": "Editory",
     "engine.editor.menu.atOrigin": "v počátku",
     "engine.editor.menu.atCamera": "",
-    "engine.editor.menu.atCamaraWoRot": "",
+    "engine.editor.menu.atCamaraWoRot": "na Kameru s/Rotací",
     "engine.editor.menu.screenCenter": "Střed obrazovky",
     "engine.editor.menu.atCenteroid": "",
     "engine.editor.menu.toTerrain": "",
@@ -943,5 +943,6 @@
     "ui.color.brightness": "Jas",
     "ui.color.chrominess": "Chromovost",
     "ui.vehicleconfig.licensePlate": "SPZ",
-    "engine.editor.menu.orbitCamera": "Orbit Kamera"
+    "engine.editor.menu.orbitCamera": "Orbit Kamera",
+    "engine.editor.menu.fitViewSelectionOrbit": "Přizpůsobit zobrazení výběru a Orbitě"
 }
