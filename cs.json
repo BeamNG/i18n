@@ -949,5 +949,6 @@
     "ui.vehicleconfig.subparts": "Podčásti",
     "ui.vehicleconfig.simpleTree": "Jednoduchý Strom",
     "ui.apps.brake_torque_graph.name": "Graf brzdného momentu",
-    "ui.apps.dialog.name": "Dialog"
+    "ui.apps.dialog.name": "Dialog",
+    "ui.apps.engineinfo.name": "EngineInfo"
 }
