@@ -950,5 +950,7 @@
     "ui.vehicleconfig.simpleTree": "Jednoduchý Strom",
     "ui.apps.brake_torque_graph.name": "Graf brzdného momentu",
     "ui.apps.dialog.name": "Dialog",
-    "ui.apps.engineinfo.name": "EngineInfo"
+    "ui.apps.engineinfo.name": "EngineInfo",
+    "ui.apps.engine_dynamometer.name": "Dynamometr Motoru",
+    "ui.apps.engine_heat_debug_graph.name": "Graf Ladění Tepla Motoru"
 }
