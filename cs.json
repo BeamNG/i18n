@@ -952,5 +952,6 @@
     "ui.apps.dialog.name": "Dialog",
     "ui.apps.engineinfo.name": "EngineInfo",
     "ui.apps.engine_dynamometer.name": "Dynamometr Motoru",
-    "ui.apps.engine_heat_debug_graph.name": "Graf ladění teplot motoru"
+    "ui.apps.engine_heat_debug_graph.name": "Graf ladění teplot motoru",
+    "ui.apps.esc_activity_graph.name": "Graf Aktivity ESC "
 }
