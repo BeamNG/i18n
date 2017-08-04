@@ -418,7 +418,7 @@
     "scenarios.hirochi_raceway.dialog_test.description": "Zmenený dialóg Tréningu 2 kvôli demonštrácií využitia dialógov",
     "scenarios.hirochi_raceway.dialog_test.fail.time.msg": "Trvalo ti to viac ako {{time}} sekúnd",
     "scenarios.hirochi_raceway.dialog_test.title": "Dialogtest",
-    "scenarios.hirochi_raceway.forgotten_raceway.description": "Závod okolo veľmi starej a zarastenej časti Hirochi Raceway",
+    "scenarios.hirochi_raceway.forgotten_raceway.description": "Závod okolo veľmi starej a zarastenej časti na Hirochi Raceway",
     "scenarios.hirochi_raceway.forgotten_raceway.title": "Zabudnutý okruh",
     "scenarios.hirochi_raceway.gm_racetest.description": "Zopár za sebou idúcich malých skokov",
     "scenarios.hirochi_raceway.intro_fullcircuit.description": "Okruh okolo ostrova",
