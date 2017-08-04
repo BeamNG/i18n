@@ -481,7 +481,7 @@
     "scenarios.jungle_rock_island.jri_ds_320_rally.title": "Supercar Rally",
     "scenarios.jungle_rock_island.jri_moose.damage.msg": "Poškodil si svoje auto…",
     "scenarios.jungle_rock_island.jri_moose.description": "Klasický losí test na ukážku stability auta",
-    "scenarios.jungle_rock_island.jri_moose.speed.msg": "Si moc pomalý... Jazdi rýchlejšie!",
+    "scenarios.jungle_rock_island.jri_moose.speed.msg": "Si veľmi pomalý... Jazdi rýchlejšie!",
     "scenarios.jungle_rock_island.jri_moose.timeLimit.msg": "trvalo vám to viac ako {{timeLimit}} sekúnd",
     "scenarios.jungle_rock_island.jri_pessima.description": "Závod okolo celého ostrova v Pessime Custom",
     "scenarios.jungle_rock_island.jri_pessima.title": "Prehliadka ostrova - Pessima",
@@ -543,7 +543,7 @@
     "scenarios.utah.chapter_1.chapter_1_suspension.description": "Závoď cez ťažký terén a odskúšaj odpruženie.",
     "scenarios.utah.chapter_1.chapter_1_suspension.fail.msg": "Nezvládol si dokončiť kurz",
     "scenarios.utah.chapter_1.chapter_1_suspension.timeLimit.msg": " Trvalo ti to viac ako {{timeLimit}} sekúnd",
-    "scenarios.utah.chapter_1.chapter_1_suspension.title": "Podvozok",
+    "scenarios.utah.chapter_1.chapter_1_suspension.title": "Odpruženie",
     "scenarios.utah.chapter_1.chapter_1_walljump.description": "Skoč cez medzeru a skrz tehlový múr.",
     "scenarios.utah.chapter_1.chapter_1_walljump.timeLimit.msg": "Trvalo ti to viac ako {{timeLimit}} sekúnd",
     "scenarios.utah.chapter_1.chapter_1_walljump.title": "Skok cez múr",
@@ -1344,5 +1344,10 @@
     "ui.color.saturation": "Sýtosť",
     "ui.apps.speedometer.name": "Tachometer",
     "ui.options.onlineFeatures": "Online funkcie",
-    "ui.options.graphics.GraphicGrassDensity": "Hustota trávy"
+    "ui.options.graphics.GraphicGrassDensity": "Hustota trávy",
+    "scenarios.jungle_rock_island.jri_shortcut.title": "Skratka",
+    "scenarios.Industrial.industrial_allycross_intro_long.title": "Rallycross",
+    "scenarios.jungle_rock_island.jri_portshakedown.title": "Zahrievacia jazda v prístave",
+    "scenarios.utah.chapter_1.chapter_1_suspension.followpath.fail.msg": "Nesplnil si kurz.",
+    "quickrace.east_coast_usa.rallycross.title": "Rallycross dlhá trať"
 }
