@@ -1232,7 +1232,7 @@
     "vehicle.bdebug.beamVisMode.with broken": "S pokazenými",
     "vehicle.bdebug.cogMode.off": "Vypnuté",
     "vehicle.bdebug.disabled": "Debug režim vykreslovania zakázaný",
-    "vehicle.bdebug.meshVisibility": "Zmena viditeľnosti modelov: {{visibilityPercent}}%",
+    "vehicle.bdebug.meshVisibility": "Zmenená viditeľnosť objektu: {{visibilityPercent}}%",
     "vehicle.bdebug.nodeTextMode.names": "Mená",
     "vehicle.bdebug.nodeTextMode.numbers": "Čísla",
     "vehicle.bdebug.nodeTextMode.off": "Vypnutý",
