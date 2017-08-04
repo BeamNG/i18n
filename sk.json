@@ -581,7 +581,7 @@
     "ui.actions.spawn": "Vytvoriť auto",
     "ui.apps.absdebug.name": "Ladenie ABS",
     "ui.apps.aicontrol.name": "Ovládanie AI",
-    "ui.apps.automatic_gears.name": "Prevody v automate",
+    "ui.apps.automatic_gears.name": "Automatické radenie",
     "ui.apps.brake_thermal_debug.name": "Ladenie teploty bŕzd",
     "ui.apps.brake_torque_graph.name": "Graf točivého momentu bŕzd",
     "ui.apps.categories.debug": "Debug",
