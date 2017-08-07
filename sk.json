@@ -1423,5 +1423,6 @@
     "replay.stopRecordingAutoplay": "Nahrávka uložená",
     "scenarios.driver_training.driver_training.training_slalom.nomove.msg": "Narazil si tam kužeľ, skús to znovu.",
     "scenarios.Industrial.industrial_jump_large.description": "Skoky medzi sériami vyvýšených platforiem",
-    "quickrace.east_coast_usa.dirt_race.description": "Závod cez odlesnenú časť mapy, dávaj si pozor aby si nenarazil do padnutých stromov!"
+    "quickrace.east_coast_usa.dirt_race.description": "Závod cez odlesnenú časť mapy, dávaj si pozor aby si nenarazil do padnutých stromov!",
+    "scenarios.east_coast_usa.east_coast_chase_2.title": "East Coast Naháňačka 2"
 }
