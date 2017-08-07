@@ -1069,5 +1069,8 @@
     "levels.west_coast_usa.spawnpoints.industrial": "Industriområde",
     "levels.west_coast_usa.spawnpoints.chinatown": "Chinatown",
     "levels.west_coast_usa.info.title": "USA:s västkust",
-    "levels.east_coast_usa.info.title": "USA:s östkust"
+    "levels.east_coast_usa.info.title": "USA:s östkust",
+    "vehicle.bdebug.beamVisMode.simple": "Simple",
+    "vehicle.bdebug.nodeVisMode.velocities": "Hastighet",
+    "vehicle.drivetrain.stalledStarting": "Motorn är av, startar om..."
 }
