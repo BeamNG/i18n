@@ -1762,5 +1762,6 @@
     "levels.Gridmap.spawnpoints.spawn_dirtpath": "Грунтовая дорога",
     "levels.Gridmap.spawnpoints.spawn_corner": "Угол",
     "ui.repository.option_downloads": "Загрузки",
-    "levels.Gridmap.spawnpoints.spawn_outside": "Снаружи"
+    "levels.Gridmap.spawnpoints.spawn_outside": "Снаружи",
+    "ui.repository.filter_latest": "По времени"
 }
