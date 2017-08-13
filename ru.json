@@ -1763,5 +1763,6 @@
     "levels.Gridmap.spawnpoints.spawn_corner": "Угол",
     "ui.repository.option_downloads": "Загрузки",
     "levels.Gridmap.spawnpoints.spawn_outside": "Снаружи",
-    "ui.repository.filter_latest": "По времени"
+    "ui.repository.filter_latest": "По времени",
+    "ui.options.userInterface.externalUi": "Включить интерфейс браузера"
 }
