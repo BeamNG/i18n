@@ -1318,5 +1318,6 @@
     "engine.editor.menu.redo": "Wiederholen",
     "engine.editor.menu.cut": "Ausschneiden",
     "engine.editor.menu.copy": "Kopieren",
-    "engine.editor.menu.paste": "Einfügen"
+    "engine.editor.menu.paste": "Einfügen",
+    "engine.editor.menu.delete": "löschen"
 }
