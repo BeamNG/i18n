@@ -1324,5 +1324,7 @@
     "engine.editor.menu.select": "Aus­wäh­len...",
     "engine.editor.menu.audioParams": "Audio Einstellungen...",
     "engine.editor.menu.editorSettings": "Editor Einstellungen...",
-    "engine.editor.menu.snapOptions": "Snap Optionen..."
+    "engine.editor.menu.snapOptions": "Snap Optionen...",
+    "engine.editor.menu.gameOptions": "Spieloptionen…",
+    "engine.editor.menu.postfxManager": "Post Effect Manager"
 }
