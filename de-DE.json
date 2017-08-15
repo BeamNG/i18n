@@ -1352,5 +1352,6 @@
     "engine.editor.menu.cameraspeed.normal": "Normal",
     "engine.editor.menu.cameraspeed.faster": "Schneller",
     "engine.editor.menu.cameraspeed.fast": "Schnell",
-    "engine.editor.menu.cameraspeed.fastest": "Sehr schnell"
+    "engine.editor.menu.cameraspeed.fastest": "Sehr schnell",
+    "engine.editor.menu.toggleCamModes": "Kamera-Modus umschalten"
 }
