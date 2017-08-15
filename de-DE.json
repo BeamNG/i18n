@@ -1319,5 +1319,10 @@
     "engine.editor.menu.cut": "Ausschneiden",
     "engine.editor.menu.copy": "Kopieren",
     "engine.editor.menu.paste": "Einfügen",
-    "engine.editor.menu.delete": "löschen"
+    "engine.editor.menu.delete": "Löschen",
+    "engine.editor.menu.deselect": "Auswahl löschen",
+    "engine.editor.menu.select": "Aus­wäh­len...",
+    "engine.editor.menu.audioParams": "Audio Einstellungen...",
+    "engine.editor.menu.editorSettings": "Editor Einstellungen...",
+    "engine.editor.menu.snapOptions": "Snap Optionen..."
 }
