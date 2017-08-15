@@ -1350,5 +1350,7 @@
     "engine.editor.menu.cameraspeed.slow": "Langsam",
     "engine.editor.menu.cameraspeed.slower": "Langsamer",
     "engine.editor.menu.cameraspeed.normal": "Normal",
-    "engine.editor.menu.cameraspeed.faster": "Schneller"
+    "engine.editor.menu.cameraspeed.faster": "Schneller",
+    "engine.editor.menu.cameraspeed.fast": "Schnell",
+    "engine.editor.menu.cameraspeed.fastest": "Sehr schnell"
 }
