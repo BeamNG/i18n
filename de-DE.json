@@ -1328,5 +1328,6 @@
     "engine.editor.menu.gameOptions": "Spieloptionen…",
     "engine.editor.menu.postfxManager": "Post Effect Manager",
     "engine.editor.menu.view": "Ansicht",
-    "engine.editor.menu.visibilityLayers": "Darstellungsebenen"
+    "engine.editor.menu.visibilityLayers": "Darstellungsebenen",
+    "engine.editor.menu.gridOrtho": "Zeige Gitter in Orthografischer Sicht"
 }
