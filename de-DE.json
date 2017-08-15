@@ -1326,5 +1326,7 @@
     "engine.editor.menu.editorSettings": "Editor Einstellungen...",
     "engine.editor.menu.snapOptions": "Snap Optionen...",
     "engine.editor.menu.gameOptions": "Spieloptionen…",
-    "engine.editor.menu.postfxManager": "Post Effect Manager"
+    "engine.editor.menu.postfxManager": "Post Effect Manager",
+    "engine.editor.menu.view": "Ansicht",
+    "engine.editor.menu.visibilityLayers": "Darstellungsebenen"
 }
