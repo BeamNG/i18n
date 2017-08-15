@@ -1330,5 +1330,9 @@
     "engine.editor.menu.view": "Ansicht",
     "engine.editor.menu.visibilityLayers": "Darstellungsebenen",
     "engine.editor.menu.gridOrtho": "Zeige Gitter in orthografischer Ansicht",
-    "engine.editor.menu.camera": "Kamera"
+    "engine.editor.menu.camera": "Kamera",
+    "engine.editor.menu.standartCamera": "Standard",
+    "engine.editor.menu.orbitCamera": "Orbit Kamera",
+    "engine.editor.menu.smoothedCamera": "",
+    "engine.editor.menu.smoothedRotateCamera": ""
 }
