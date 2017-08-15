@@ -1334,5 +1334,7 @@
     "engine.editor.menu.standartCamera": "Standard",
     "engine.editor.menu.orbitCamera": "Orbit Kamera",
     "engine.editor.menu.smoothedCamera": "",
-    "engine.editor.menu.smoothedRotateCamera": ""
+    "engine.editor.menu.smoothedRotateCamera": "",
+    "engine.editor.menu.cameratype.firstPerson": "Ego Perspektive",
+    "engine.editor.menu.cameratype.thirdPerson": "Verfolgerperspektive"
 }
