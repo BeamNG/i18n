@@ -1336,5 +1336,18 @@
     "engine.editor.menu.smoothedCamera": "",
     "engine.editor.menu.smoothedRotateCamera": "",
     "engine.editor.menu.cameratype.firstPerson": "Ego Perspektive",
-    "engine.editor.menu.cameratype.thirdPerson": "Verfolgerperspektive"
+    "engine.editor.menu.cameratype.thirdPerson": "Verfolgerperspektive",
+    "engine.editor.menu.camera.top": "Draufsicht",
+    "engine.editor.menu.camera.bottom": "",
+    "engine.editor.menu.camera.front": "Vorderansicht",
+    "engine.editor.menu.camera.back": "Hinteransicht",
+    "engine.editor.menu.camera.left": "Seitenansicht (Links)",
+    "engine.editor.menu.camera.right": "Seitenansicht (Rechts)",
+    "engine.editor.menu.camera.perspective": "Perspektivische Ansicht",
+    "engine.editor.menu.camera.isometric": "Isometrische Ansicht",
+    "engine.editor.menu.cameraspeed": "Kamerageschwindigkeit",
+    "engine.editor.menu.cameraspeed.slowest": "Sehr langsam",
+    "engine.editor.menu.cameraspeed.slow": "Langsam",
+    "engine.editor.menu.cameraspeed.slower": "Langsamer",
+    "engine.editor.menu.cameraspeed.normal": "Normal"
 }
