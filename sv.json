@@ -1072,5 +1072,9 @@
     "levels.east_coast_usa.info.title": "USA:s östkust",
     "vehicle.bdebug.beamVisMode.simple": "Simple",
     "vehicle.bdebug.nodeVisMode.velocities": "Hastighet",
-    "vehicle.drivetrain.stalledStarting": "Motorn är av, startar om..."
+    "vehicle.drivetrain.stalledStarting": "Motorn är av, startar om...",
+    "ui.apps.racecountdown.name": "RaceNedräkning",
+    "ui.apps.racelaps.name": "RaceLopp",
+    "ui.apps.odometer.name": "Vägmätare",
+    "ui.apps.tachometer.name": "Varvräknare"
 }
