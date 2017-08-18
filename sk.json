@@ -1832,5 +1832,6 @@
     "quickrace.driver_training.procTrack.randomized.title": "Náhodná trať",
     "quickrace.driver_training.procTrack.bigSparse.description": "Vytvorí procedurálne generovanú veľkú trať obsahujúcu menej, ale zato väčšie prvky.",
     "quickrace.driver_training.procTrack.bigBasic.description": "Vytvorí procedurálne generovanú veľkú trať obsahujúcu všetky dostupné prvky trate.",
-    "quickrace.gridmap.bigo.title": "Vysokorýchlostný okruh"
+    "quickrace.gridmap.bigo.title": "Vysokorýchlostný okruh",
+    "quickrace.east_coast_usa.town_b.description": "Ďalší krátky rally okruh okolo mesta, snaž sa netrafiť kužele!"
 }
