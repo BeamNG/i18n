@@ -1747,5 +1747,9 @@
     "ui.radialmenu2.Manage.Set_home": "Nastaviť domov",
     "ui.radialmenu2.Manage.Set_home.desc": "Nastaviť nové miesto spawnu.",
     "replay.playError": "\"{{filename.replace(\"replays/\", \"\")}}\" sa nedá prehrať. Pozri súbor s logom pre detaily",
-    "scenarios.east_coast_usa.deliverytruck_takedown.title": "Zneškodnenie donáškového kamiónu"
+    "scenarios.east_coast_usa.deliverytruck_takedown.title": "Zneškodnenie donáškového kamiónu",
+    "scenarios.utah.canyon_jump.pass.msg": "Gratulujeme k zvládnutiu skokov!",
+    "scenarios.utah.canyon_jump.fail.msg": "Nezvládol si všetky skoky. ",
+    "scenarios.utah.chapter_2.chapter_2_4_delivery.drive_in_reverse.msg": "Pricúvaj blízko ku prívesu",
+    "scenarios.utah.chapter_2.chapter_2_4_delivery.zoom_controls.msg": "Môžeš použiť [action=decrease_zoom] pre oddialenie a [action=increase_zoom] pre priblíženie naspäť"
 }
