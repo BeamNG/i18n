@@ -1482,11 +1482,11 @@
     "ui.quickrace.laps": "Tours",
     "ui.quickrace.play": "Jouer",
     "ui.quickrace.quickraceLevels": "Time Trials Map selection",
-    "ui.quickrace.quickraceTracks": "Quick Play Layout",
+    "ui.quickrace.quickraceTracks": "Sélection de la Disposition des Contre la Montre",
     "ui.quickrace.reverse": "Inversé",
     "ui.quickrace.rollingStart": "Démarrage progressif",
     "ui.quickrace.select": "Sélectionner",
-    "ui.quickrace.selectLevel": "Sélectionner un niveau",
+    "ui.quickrace.selectLevel": "Sélectionner un Niveau",
     "ui.quickrace.selectTrack": "Sélectionner le circuit",
     "ui.quickrace.selectVehicle": "Sélectionner un véhicule",
     "ui.quickrace.setting": "Réglages",
@@ -1883,5 +1883,9 @@
     "ui.radialmenu2.powertrain.4WD_Mode": "Mode 4x4 (4WD)",
     "ui.radialmenu2.powertrain.4wd.connected": "4x4 (4WD) connecté",
     "ui.radialmenu2.powertrain.engine": "Moteur",
-    "ui.radialmenu2.powertrain.gearbox_mode": "Mode boîte de vitesses"
+    "ui.radialmenu2.powertrain.gearbox_mode": "Mode boîte de vitesses",
+    "engine.editor.menu.cameraTranslation": "Mouvement caméra",
+    "ui.mainmenu.modwizard": "GÉRER DES MODS",
+    "ui.repository.cat_yo-dawg-mod": "Mods de mods",
+    "ui.quickrace.tracks.procedural": "Circuit Procédural"
 }
