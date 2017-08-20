@@ -1887,5 +1887,6 @@
     "engine.editor.menu.cameraTranslation": "Mouvement caméra",
     "ui.mainmenu.modwizard": "GÉRER DES MODS",
     "ui.repository.cat_yo-dawg-mod": "Mods de mods",
-    "ui.quickrace.tracks.procedural": "Circuit Procédural"
+    "ui.quickrace.tracks.procedural": "Circuit Procédural",
+    "vehicle.beamstate.beamDeformed": "Beam {{id}} a été déformé: {{id1name}} [{{id1}}] -> {{id2name}} [{{id2}}]"
 }
