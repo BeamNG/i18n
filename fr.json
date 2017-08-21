@@ -114,7 +114,7 @@
     "engine.editor.menu.toggleCamera": "Activer/désactiver la caméra",
     "engine.editor.menu.transformSel": "Transformer la sélection...",
     "engine.editor.menu.undo": "Annuler",
-    "engine.editor.menu.unlockSelection": "Débloquer la sélection",
+    "engine.editor.menu.unlockSelection": "déverrouiller la selection ",
     "engine.editor.menu.view": "Vue",
     "engine.editor.menu.viewType": "Vue",
     "engine.editor.menu.visibilityLayers": "Visibilité couches",
