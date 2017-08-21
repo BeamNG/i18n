@@ -77,7 +77,7 @@
     "engine.editor.menu.hideSelection": "Cacher la sélection",
     "engine.editor.menu.importTerrainHeightmap": "Importer la Heightmap du terrain",
     "engine.editor.menu.jumpBookmark": "Aller aux marques-page",
-    "engine.editor.menu.lighting": "Éclairage",
+    "engine.editor.menu.lighting": "Lumière",
     "engine.editor.menu.lockSelection": "Verrouiller la sélection",
     "engine.editor.menu.makeSelPrefab": "Enregistrer la sélection",
     "engine.editor.menu.manageBookmarks": "Gérer les marques-page...",
