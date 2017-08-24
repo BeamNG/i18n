@@ -908,7 +908,7 @@
     "ui.hints.spatialNavigation": "Menu môžete ovládať pomocou ovládača  [action=menu_item_left] [action=menu_item_up] [action=menu_item_right] [action=menu_item_down] [action=menu_item_select].",
     "ui.hints.stabilityControlPresent": "Kontrola stability sa nachádza iba v najmodernejších vozidlách. Staršie autá sa budú ťažšie ovládať na plnom plyne.",
     "ui.hints.startSlow": "Je ľahké vyjsť mimo trať prvýkrát za volantom. Začni pomaly a pridávaj keď spoznáš ako sa každé auto správa.",
-    "ui.hints.thermalDebugApp": "Aby ste sa naučili viac o simulácií motora, pridajte si aplikáciu \"Ladenie motora\" na používateľské rozhranie.",
+    "ui.hints.thermalDebugApp": "Aby ste sa naučili viac o simulácii motora, pridajte si aplikáciu \"Ladenie motora\" na používateľské rozhranie.",
     "ui.hints.tiresBurstOnBumps": "Nie všetky pneumatiky sú navrhnuté na rýchlu jazdu alebo záťaž. Niektoré prasknú pri silných nárazoch do nerovností na ceste.",
     "ui.hints.toggleFogLights": "Ak je vaše vozidlo vybavené hmlovkami, môžete ich zapnúť pomocou [action=toggle_foglights].",
     "ui.hints.toggleLightBars": "Majáky na pohotovostných vozidlách môžu byť zapnuté pomocou [action=toggle_lightbar_signal].",
@@ -1847,5 +1847,6 @@
     "ui.garage.parts.extras": "Extra",
     "replay.jump": "Preskočiť {{seconds}} sekúnd",
     "scenarios.Industrial.industrial_allycross_intro_long.description": "Dlhá verzia rallycrossovej trate ",
-    "scenarios.jungle_rock_island.hypermiling.title": "Jazda na spotrebu"
+    "scenarios.jungle_rock_island.hypermiling.title": "Jazda na spotrebu",
+    "engine.editor.menu.cameraTranslation": "Transformácia kamery"
 }
