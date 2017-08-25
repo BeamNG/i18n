@@ -1842,7 +1842,7 @@
     "ui.performance.tempHide": "Piilota käyttöliittymä kymmeneksi sekunniksi",
     "ui.radialmenu2.main_menu": "Päävalikko",
     "ui.radialmenu2.back": "Takaisin",
-    "ui.radialmenu2.back.desc": "Yksi sivu taaksepäin.",
+    "ui.radialmenu2.back.desc": "Edellinen valikko.",
     "ui.radialmenu2.ai": "AI",
     "ui.radialmenu2.ai.desc": "Hallinta eri AI-asetuksille.",
     "ui.radialmenu2.ai.chase": "Jahtaa minua!",
