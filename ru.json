@@ -1978,5 +1978,10 @@
     "ui.options.camera.cameraTVSpeedTooltip": "Не задаёт фиксированную скорость, а используется как модификатор к динамически выбранной скорости",
     "ui.debug.vehicle.aerodynamics": "Отладка аэродинамики",
     "ui.debug.vehicle.tireContactPoint": "Отладка точек соприкосновения шин",
-    "replay.jump": "Перемотка на {{seconds}} секунд"
+    "replay.jump": "Перемотка на {{seconds}} секунд",
+    "ui.repository.cat_veh_props": "Объекты",
+    "ui.repository.cat_skin": "Покраски",
+    "ui.quickrace.tracks.proceduralInfo": "То же зерно (seed) на той же конфигурации даст в результате аналогичную трассу.",
+    "ui.credits.gameDesigners": "Геймдизайнеры",
+    "ui.apps.clock_debug.name": "Счетчик частоты"
 }
