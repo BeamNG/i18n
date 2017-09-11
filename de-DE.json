@@ -1395,5 +1395,7 @@
     "engine.editor.menu.unlockSelection": "Auswahl aufheben",
     "engine.editor.menu.hideSelection": "Auswahl verbergen",
     "engine.editor.menu.showSelection": "Auswahl anzeigen",
-    "engine.editor.menu.alignBounds": "Grenzen ausrichten"
+    "engine.editor.menu.alignBounds": "Grenzen ausrichten",
+    "engine.editor.menu.alignCenter": "Zentrieren",
+    "engine.editor.menu.resetTransforms": "Transformierungen zurücksetzen"
 }
