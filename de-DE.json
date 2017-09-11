@@ -1404,5 +1404,6 @@
     "engine.editor.menu.dropSel": "",
     "engine.editor.menu.dropLocation": "Ort fallen lassen",
     "engine.editor.menu.makeSelPrefab": "Auswahl vorbereiten",
-    "engine.editor.menu.explodeSelPrefab": "Ausgewählte Vorbereitung explodieren lassen"
+    "engine.editor.menu.explodeSelPrefab": "Ausgewählte Vorbereitung explodieren lassen",
+    "extensions.campaign.exploration.mapHint": "Drücke [action=pause] um die Karte mit den verfügbaren Missionen zu zeigen"
 }
