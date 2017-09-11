@@ -1461,6 +1461,6 @@
     "ui.repository.option_ascending": "Aufsteigend",
     "ui.repository.option_descending": "Absteigend",
     "ui.repository.filter_apply": "Anwenden",
-    "ui.repository.filter_top_downloaded": "Top Heruntergeladen",
-    "ui.repository.filter_top_rated": "Top Bewertet"
+    "ui.repository.filter_top_downloaded": "Am meisten heruntergeladen",
+    "ui.repository.filter_top_rated": "Am besten bewertet"
 }
