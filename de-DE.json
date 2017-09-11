@@ -1357,5 +1357,5 @@
     "engine.lua.reloaded": "Haupt LUA Instanz neu geladen",
     "engine.nodegrab.uncoupling": "Entkoppeln aller verbundenen Knoten",
     "engine.nodegrab.coupling": "Kopplung beider Knoten",
-    "engine.editor.menu.worldCamera": "Weltkamera"
+    "engine.editor.menu.worldCamera": "Freie Kamera"
 }
