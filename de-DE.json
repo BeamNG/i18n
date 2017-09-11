@@ -1473,5 +1473,7 @@
     "ui.repository.cat_veh_boats": "Boote",
     "ui.repository.cat_veh_config": "Konfigurationen",
     "ui.repository.cat_scenarios": "Szenarien",
-    "ui.repository.cat_terrain": "Gelände, Level, Karten"
+    "ui.repository.cat_terrain": "Gelände, Level, Karten",
+    "ui.repository.cat_ui": "Benutzeroberflächen-Apps",
+    "ui.repository.cat_sound": "Sounds"
 }
