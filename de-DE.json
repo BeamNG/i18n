@@ -1373,5 +1373,6 @@
     "engine.editor.menu.jumpBookmark": "Zum Lesezeichen springen",
     "engine.editor.menu.editors": "Editors",
     "engine.editor.menu.lighting": "Belichtung",
-    "engine.editor.menu.atOrigin": "beim Ursprung"
+    "engine.editor.menu.atOrigin": "beim Ursprung",
+    "engine.editor.menu.atCamera": "bei Kamera"
 }
