@@ -1394,5 +1394,6 @@
     "engine.editor.menu.lockSelection": "Auswahl festlegen",
     "engine.editor.menu.unlockSelection": "Auswahl aufheben",
     "engine.editor.menu.hideSelection": "Auswahl verbergen",
-    "engine.editor.menu.showSelection": "Auswahl anzeigen"
+    "engine.editor.menu.showSelection": "Auswahl anzeigen",
+    "engine.editor.menu.alignBounds": "Grenzen ausrichten"
 }
