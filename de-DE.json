@@ -1400,5 +1400,6 @@
     "engine.editor.menu.resetTransforms": "Transformierungen zurücksetzen",
     "engine.editor.menu.resetSelRot": "ausgewählte Drehung zurücksetzen",
     "engine.editor.menu.resetSelScale": "Ausgewählte Skalierung zurücksetzen",
-    "engine.editor.menu.transformSel": "Auswahl Transformieren..."
+    "engine.editor.menu.transformSel": "Auswahl Transformieren...",
+    "engine.editor.menu.dropSel": ""
 }
