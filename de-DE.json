@@ -1484,5 +1484,7 @@
     "ui.quickrace.changeConfig": "Konfiguration ändern",
     "ui.quickrace.selectLevel": "Karte auswählen",
     "ui.quickrace.selectTrack": "Layout wählen",
-    "ui.quickrace.selectVehicle": "Fahrzeug wählen"
+    "ui.quickrace.selectVehicle": "Fahrzeug wählen",
+    "ui.quickrace.play": "Spielen",
+    "ui.quickrace.quickraceLevels": "Zeitrennen-Karten auswahl"
 }
