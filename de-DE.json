@@ -1379,5 +1379,6 @@
     "engine.editor.menu.belowCamera": "Unterhalb Kamera",
     "engine.editor.menu.screenCenter": "Mittig des Bildschirms",
     "engine.editor.menu.atCenteroid": "beim Schwerpunkt",
-    "engine.editor.menu.toTerrain": "zu Boden"
+    "engine.editor.menu.toTerrain": "zu Boden",
+    "engine.editor.menu.belowSelection": "Unterhalb der Auswahl"
 }
