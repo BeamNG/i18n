@@ -1483,5 +1483,6 @@
     "ui.quickrace.finished": "Fertiggestellt",
     "ui.quickrace.changeConfig": "Konfiguration ändern",
     "ui.quickrace.selectLevel": "Karte auswählen",
-    "ui.quickrace.selectTrack": "Layout wählen"
+    "ui.quickrace.selectTrack": "Layout wählen",
+    "ui.quickrace.selectVehicle": "Fahrzeug wählen"
 }
