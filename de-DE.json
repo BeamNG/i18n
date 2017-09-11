@@ -1354,5 +1354,6 @@
     "engine.editor.menu.cameraspeed.fast": "Schnell",
     "engine.editor.menu.cameraspeed.fastest": "Sehr schnell",
     "engine.editor.menu.toggleCamModes": "Kamera-Modus umschalten",
-    "engine.lua.reloaded": "Haupt LUA Instanz neu geladen"
+    "engine.lua.reloaded": "Haupt LUA Instanz neu geladen",
+    "engine.nodegrab.uncoupling": "Entkopplen aller angeschlossenen Knoten"
 }
