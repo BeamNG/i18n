@@ -1367,5 +1367,7 @@
     "engine.editor.menu.fitViewSelection": "Ansicht zur Auswahl anpassen",
     "engine.editor.menu.fitViewSelectionOrbit": "Ansicht zur Auswahl und Horizont anpassen",
     "engine.editor.menu.speed": "Geschwindigkeit",
-    "engine.editor.menu.viewType": "Ansicht"
+    "engine.editor.menu.viewType": "Ansicht",
+    "engine.editor.menu.addBookmark": "Lesezeichen setzen...",
+    "engine.editor.menu.manageBookmarks": "Lesezeichen verwalten..."
 }
