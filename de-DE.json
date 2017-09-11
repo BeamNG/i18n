@@ -1435,5 +1435,6 @@
     "ui.unit.metric": "Metrisch (SI)",
     "ui.unit.imperial": "Imperial",
     "ui.unit.kPa": "Kilopascal",
-    "ui.mainmenu.modwizard": "MOD HELFER"
+    "ui.mainmenu.modwizard": "MOD HELFER",
+    "ui.mainmenu.onlineFeatures.featureDescription": "Du kannst alle Online-Funktionen in BeamNG.drive aktivieren oder deaktivieren. Dies betrifft:[br][list][*]Mod-Abonnements[*]Erfolge[*]Leaderboards[*]Chat-Features[*]Content-Sharing-Funktionen[/list] Bei der Aktivierung der Features stimmst du unseren [url=http://wiki.beamng.com/Privacy_Policy]Datenschutzbestimmungen[/url] und unseren [url=http://wiki.beamng.com/TOS]Nutzungsbedingungen[/url] zu. Du kannst diese Einstellungen immer ändern, indem du in Optionen auf Spieloptionen klickst."
 }
