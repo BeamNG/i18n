@@ -1433,5 +1433,7 @@
     "ui.actions.menuRight": "Menü rechts",
     "ui.comic.skip": "Überspringen",
     "ui.unit.metric": "Metrisch (SI)",
-    "ui.unit.imperial": "Imperial"
+    "ui.unit.imperial": "Imperial",
+    "ui.unit.kPa": "Kilopascal",
+    "ui.mainmenu.modwizard": "MOD HELFER"
 }
