@@ -1401,5 +1401,7 @@
     "engine.editor.menu.resetSelRot": "ausgewählte Drehung zurücksetzen",
     "engine.editor.menu.resetSelScale": "Ausgewählte Skalierung zurücksetzen",
     "engine.editor.menu.transformSel": "Auswahl Transformieren...",
-    "engine.editor.menu.dropSel": ""
+    "engine.editor.menu.dropSel": "",
+    "engine.editor.menu.dropLocation": "Ort fallen lassen",
+    "engine.editor.menu.makeSelPrefab": "Auswahl vorbereiten"
 }
