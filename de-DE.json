@@ -1568,5 +1568,6 @@
     "ui.options.gameplay.autoThrottle": "Gaspedalassistent (Manuelles Getriebe)",
     "ui.options.gameplay.autoThrottle.tooltip": "Bei Aktivierung schließen manuelle Getriebe die Gaszufuhr beim Hochschalten und benutzen Drehzahlanpassung, wo es nötig ist.",
     "ui.options.gameplay.gearboxSafety": "Getriebe-Sicherheitsassistent",
-    "ui.options.gameplay.gearboxSafety.tooltip": "Bei Aktivierung verhindert das Getriebe Gangwechsel, die Schaden anrichten können sowie einige Modenwechsel für ein realistischeres Rennerlebnis. (Zum Beispiel das Schalten aus dem M Modus ist nicht erlaubt bis du unter einer bestimmten Geschwindigkeit bist)"
+    "ui.options.gameplay.gearboxSafety.tooltip": "Bei Aktivierung verhindert das Getriebe Gangwechsel, die Schaden anrichten können sowie einige Modenwechsel für ein realistischeres Rennerlebnis. (Zum Beispiel das Schalten aus dem M Modus ist nicht erlaubt bis du unter einer bestimmten Geschwindigkeit bist)",
+    "ui.options.gameplay.updateTranslations": "Übersetzungen aktualisieren"
 }
