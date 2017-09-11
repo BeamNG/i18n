@@ -1392,5 +1392,7 @@
     "engine.editor.menu.zAxis": "Z Achse",
     "engine.editor.menu.object": "Objekt",
     "engine.editor.menu.lockSelection": "Auswahl festlegen",
-    "engine.editor.menu.unlockSelection": "Auswahl aufheben"
+    "engine.editor.menu.unlockSelection": "Auswahl aufheben",
+    "engine.editor.menu.hideSelection": "Auswahl verbergen",
+    "engine.editor.menu.showSelection": "Auswahl anzeigen"
 }
