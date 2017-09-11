@@ -1476,5 +1476,12 @@
     "ui.repository.cat_terrain": "Gelände, Level, Karten",
     "ui.repository.cat_ui": "Benutzeroberflächen-Apps",
     "ui.repository.cat_sound": "Sounds",
-    "ui.repository.cat_idplate": "Nummernschilder"
+    "ui.repository.cat_idplate": "Nummernschilder",
+    "ui.repository.cat_yo-dawg-mod": "Mods der Mods",
+    "ui.repository.cat_skin": "Skins",
+    "ui.repository.tagid": "Mod ID",
+    "ui.quickrace.finished": "Fertiggestellt",
+    "ui.quickrace.changeConfig": "Konfiguration ändern",
+    "ui.quickrace.selectLevel": "Karte auswählen",
+    "ui.quickrace.selectTrack": "Layout wählen"
 }
