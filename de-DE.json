@@ -1456,5 +1456,6 @@
     "ui.repository.option_reviews": "Bewertungen",
     "ui.repository.option_title": "Titel",
     "ui.repository.option_update": "Update",
-    "ui.repository.option_size": "Größe"
+    "ui.repository.option_size": "Größe",
+    "ui.repository.option_downloads": "Downloads"
 }
