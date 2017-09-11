@@ -1444,5 +1444,6 @@
     "ui.repository.no_mods_found": "Keine Ergebnisse gefunden",
     "ui.repository.unsubscribe": "Deabonnieren",
     "ui.repository.version_id": "Version",
-    "ui.repository.info": "Information"
+    "ui.repository.info": "Information",
+    "ui.repository.download_count": "Downloads"
 }
