@@ -1374,5 +1374,7 @@
     "engine.editor.menu.editors": "Editors",
     "engine.editor.menu.lighting": "Belichtung",
     "engine.editor.menu.atOrigin": "beim Ursprung",
-    "engine.editor.menu.atCamera": "bei Kamera"
+    "engine.editor.menu.atCamera": "bei Kamera",
+    "engine.editor.menu.atCamaraWoRot": "bei Kamera mit Rotation",
+    "engine.editor.menu.belowCamera": "Unterhalb Kamera"
 }
