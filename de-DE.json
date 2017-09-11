@@ -1338,7 +1338,7 @@
     "engine.editor.menu.cameratype.firstPerson": "Ego Perspektive",
     "engine.editor.menu.cameratype.thirdPerson": "Verfolgerperspektive",
     "engine.editor.menu.camera.top": "Draufsicht",
-    "engine.editor.menu.camera.bottom": "",
+    "engine.editor.menu.camera.bottom": "Boden",
     "engine.editor.menu.camera.front": "Vorderansicht",
     "engine.editor.menu.camera.back": "Hinteransicht",
     "engine.editor.menu.camera.left": "Seitenansicht (Links)",
