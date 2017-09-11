@@ -1500,5 +1500,6 @@
     "ui.quickrace.rollingStart": "Rollender Start",
     "ui.quickrace.tod.night": "Nachts",
     "ui.quickrace.tod.sunrise": "Sonnenaufgang",
-    "ui.quickrace.tod.morning": "Morgen"
+    "ui.quickrace.tod.morning": "Morgen",
+    "ui.quickrace.tod.earlyNoon": "Vormittags"
 }
