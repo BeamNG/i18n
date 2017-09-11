@@ -1492,5 +1492,6 @@
     "ui.quickrace.tracks.allowRollingStart": "Rollender Start erlauben",
     "ui.quickrace.tracks.laps": "Runden",
     "ui.quickrace.tracks.lap": "Runde",
-    "ui.quickrace.tracks.lapsChangeable": "Runden änderbar"
+    "ui.quickrace.tracks.lapsChangeable": "Runden änderbar",
+    "ui.quickrace.tracks.procedural": "Prozedurale Strecke"
 }
