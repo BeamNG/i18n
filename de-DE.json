@@ -1555,5 +1555,18 @@
     "ui.options.userInterface.externalUi": "Browser UI aktivieren",
     "ui.options.language": "Sprache",
     "ui.options.communityTranslations": "Communityübersetzungen",
-    "ui.options.currentLanguage": "Aktive Sprache"
+    "ui.options.currentLanguage": "Aktive Sprache",
+    "ui.options.availableLanguages": "Verfügbare Sprachen",
+    "ui.options.detectedLanguage": "Erkannte Sprachen",
+    "ui.options.communityTranslationsAgree": "Zustimmen & Aktivieren",
+    "ui.options.communityTranslationsAckText": "Diese Übersetzungen sind durch die Community erstellt worden. BeamnG ist in keiner Weise für die Übersetzungen verantwortlich (d.h. unangemessen oder falsch). Benutzung auf eigene Gefahr!",
+    "ui.options.assistants": "Fahrhilfen",
+    "ui.options.gameplay.defaultGearboxBehavior": "Standard Getriebeverhalten",
+    "ui.options.gameplay.defaultGearboxBehavior.tooltip": "Legt das Standard Getriebeverhalten fest. Wird nach Erzeugen eines neuen Autos angewendet.",
+    "ui.options.gameplay.autoClutch": "Kupplungsassistent (Manuelles Getriebe)",
+    "ui.options.gameplay.autoClutch.tooltip": "Bei Aktivierung wird die Kupplung im realistischen Modus automatisch kontrolliert. Lässt Autos gut anfahren, verhindert Abwürgen und stellt sicher, dass keine Gänge kaputt gehen.",
+    "ui.options.gameplay.autoThrottle": "Gaspedalassistent (Manuelles Getriebe)",
+    "ui.options.gameplay.autoThrottle.tooltip": "Bei Aktivierung schließen manuelle Getriebe die Gaszufuhr beim Hochschalten und benutzen Drehzahlanpassung, wo es nötig ist.",
+    "ui.options.gameplay.gearboxSafety": "Getriebe-Sicherheitsassistent",
+    "ui.options.gameplay.gearboxSafety.tooltip": "Bei Aktivierung verhindert das Getriebe Gangwechsel, die Schaden anrichten können sowie einige Modenwechsel für ein realistischeres Rennerlebnis. (Zum Beispiel das Schalten aus dem M Modus ist nicht erlaubt bis du unter einer bestimmten Geschwindigkeit bist)"
 }
