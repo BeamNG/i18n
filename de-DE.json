@@ -1439,5 +1439,7 @@
     "ui.mainmenu.onlineFeatures.featureDescription": "Du kannst alle Online-Funktionen in BeamNG.drive aktivieren oder deaktivieren. Dies betrifft:[br][list][*]Ablage im Spiel[*]Mod-Abonnements[*]Erfolge[*]Ranglisten[*]Chat-Funktionen[*]Content-Sharing-Funktionen[/list]Mit der Aktivierung der Online-Funktionen stimmst du unseren [url=http://wiki.beamng.com/Privacy_Policy]Datenschutzbestimmungen[/url] und unseren [url=http://wiki.beamng.com/TOS]Nutzungsbedingungen[/url] zu. Du kannst diese Einstellungen immer in Optionen > Spieloptionen ändern.",
     "ui.dashboard.replay": "Wiederholungen",
     "ui.dashboard.appedit": "UI-Apps anpassen",
-    "ui.repository.subscribe": "Abonnieren"
+    "ui.repository.subscribe": "Abonnieren",
+    "ui.repository.subscribed": "Abonniert: Du bekommst automatische Updates",
+    "ui.repository.no_mods_found": "Keine Ergebnisse"
 }
