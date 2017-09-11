@@ -1447,5 +1447,14 @@
     "ui.repository.info": "Information",
     "ui.repository.download_count": "Downloads",
     "ui.repository.rating": "Bewertung",
-    "ui.repository.last_updated": "Zuletzt aktualisiert"
+    "ui.repository.last_updated": "Zuletzt aktualisiert",
+    "ui.repository.author": "Autor",
+    "ui.repository.filesize": "Dateigröße",
+    "ui.repository.filters": "Filter",
+    "ui.repository.search": "Suche",
+    "ui.repository.option_rating": "Bewertung",
+    "ui.repository.option_reviews": "Bewertungen",
+    "ui.repository.option_title": "Titel",
+    "ui.repository.option_update": "Update",
+    "ui.repository.option_size": "Größe"
 }
