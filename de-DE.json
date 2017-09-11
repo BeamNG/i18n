@@ -1411,5 +1411,16 @@
     "ui.fonts.fallback": "Roboto",
     "ui.common.resetAll": "Alles zurücksetzen",
     "ui.common.default": "Standard",
-    "ui.common.info": "Information"
+    "ui.common.info": "Information",
+    "ui.common.save": "Speichern",
+    "ui.common.load": "Laden",
+    "ui.common.filename": "Dateiname",
+    "ui.common.unknown": "Unbekannt",
+    "ui.common.exit": "Beenden",
+    "ui.common.test": "Test",
+    "ui.common.arcade": "Arcade",
+    "ui.common.realistic": "Realistich",
+    "ui.actions.decrease": "Verringern",
+    "ui.actions.increase": "Erhöhen",
+    "ui.actions.enter": "Panel öffnen"
 }
