@@ -1504,5 +1504,7 @@
     "ui.quickrace.tod.earlyNoon": "Vormittags",
     "ui.quickrace.tod.noon": "Mittags",
     "ui.quickrace.tod.lateNoon": "Später Mittag",
-    "ui.quickrace.tod.afternoon": "Nachmittags"
+    "ui.quickrace.tod.afternoon": "Nachmittags",
+    "ui.quickrace.tod.evening": "Abends",
+    "ui.quickrace.tod.sunset": "Sonnenuntergang"
 }
