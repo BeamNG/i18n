@@ -1423,5 +1423,7 @@
     "ui.actions.decrease": "Verringern",
     "ui.actions.increase": "Erhöhen",
     "ui.actions.enter": "Panel öffnen",
-    "ui.actions.exit": "Panel verlassen"
+    "ui.actions.exit": "Panel verlassen",
+    "ui.actions.switchRight": "Nach rechts wechseln",
+    "ui.actions.switchLeft": "Nach links wechseln"
 }
