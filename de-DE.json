@@ -1376,5 +1376,8 @@
     "engine.editor.menu.atOrigin": "beim Ursprung",
     "engine.editor.menu.atCamera": "bei Kamera",
     "engine.editor.menu.atCamaraWoRot": "bei Kamera mit Rotation",
-    "engine.editor.menu.belowCamera": "Unterhalb Kamera"
+    "engine.editor.menu.belowCamera": "Unterhalb Kamera",
+    "engine.editor.menu.screenCenter": "Mittig des Bildschirms",
+    "engine.editor.menu.atCenteroid": "beim Schwerpunkt",
+    "engine.editor.menu.toTerrain": "zu Boden"
 }
