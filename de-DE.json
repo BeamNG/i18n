@@ -1445,5 +1445,7 @@
     "ui.repository.unsubscribe": "Deabonnieren",
     "ui.repository.version_id": "Version",
     "ui.repository.info": "Information",
-    "ui.repository.download_count": "Downloads"
+    "ui.repository.download_count": "Downloads",
+    "ui.repository.rating": "Bewertung",
+    "ui.repository.last_updated": "Zuletzt geupdatet"
 }
