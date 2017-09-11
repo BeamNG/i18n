@@ -1369,5 +1369,6 @@
     "engine.editor.menu.speed": "Geschwindigkeit",
     "engine.editor.menu.viewType": "Ansicht",
     "engine.editor.menu.addBookmark": "Lesezeichen setzen...",
-    "engine.editor.menu.manageBookmarks": "Lesezeichen verwalten..."
+    "engine.editor.menu.manageBookmarks": "Lesezeichen verwalten...",
+    "engine.editor.menu.jumpBookmark": "Zu Lesezeichen wechseln"
 }
