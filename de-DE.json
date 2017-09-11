@@ -1390,5 +1390,6 @@
     "engine.editor.menu.xAxis": "X Achse",
     "engine.editor.menu.yAxis": "Y Achse",
     "engine.editor.menu.zAxis": "Z Achse",
-    "engine.editor.menu.object": "Objekt"
+    "engine.editor.menu.object": "Objekt",
+    "engine.editor.menu.lockSelection": "Auswahl festlegen"
 }
