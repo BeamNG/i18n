@@ -1008,7 +1008,7 @@
     "ui.modmanager.filename": "Dateiname",
     "ui.modmanager.filesize": "Dateigröße",
     "ui.modmanager.modData": "Moddaten",
-    "ui.modmanager.modmanager": "Modifikations-Manager",
+    "ui.modmanager.modmanager": "Mod Manager",
     "ui.modmanager.modname": "Modname",
     "ui.modmanager.numActive": "{{active}} von {{all}} Mods aktiv",
     "ui.modmanager.openInExplorer": "Im Explorer öffnen",
@@ -1514,5 +1514,5 @@
     "ui.quickrace.brand": "Marke",
     "ui.quickrace.derby": "Derby Klasse",
     "ui.quickrace.highscoresSingle": "Bestzeiten - Eine Runde",
-    "ui.quickrace.highscoresTotal": "Bestzeit - Gesamtzeit"
+    "ui.quickrace.highscoresTotal": "Bestzeiten - Gesamtzeit"
 }
