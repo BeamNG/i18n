@@ -1514,5 +1514,8 @@
     "ui.quickrace.brand": "Marke",
     "ui.quickrace.derby": "Derby Klasse",
     "ui.quickrace.highscoresSingle": "Bestzeiten - Eine Runde",
-    "ui.quickrace.highscoresTotal": "Bestzeiten - Gesamtzeit"
+    "ui.quickrace.highscoresTotal": "Bestzeiten - Gesamtzeit",
+    "ui.modmanager.id": "Einzigartige ID",
+    "ui.modmanager.author": "Autor",
+    "ui.modmanager.openInRepo": "In Repo öffnen"
 }
