@@ -1488,5 +1488,7 @@
     "ui.quickrace.play": "Spielen",
     "ui.quickrace.quickraceLevels": "Zeitrennen Kartenauswahl",
     "ui.quickrace.quickraceTracks": "Zeitrennen Layoutauswahl",
-    "ui.quickrace.tracks.reversible": "Umkehrbar"
+    "ui.quickrace.tracks.reversible": "Umkehrbar",
+    "ui.quickrace.tracks.allowRollingStart": "Rollender Start erlauben",
+    "ui.quickrace.tracks.laps": "Runden"
 }
