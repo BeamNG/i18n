@@ -1525,5 +1525,6 @@
     "ui.color.factory": "Fabrik",
     "ui.color.user": "Benutzer",
     "ui.color.hue": "Farbton",
-    "ui.color.saturation": "Sättigung"
+    "ui.color.saturation": "Sättigung",
+    "ui.color.brightness": "Helligkeit"
 }
