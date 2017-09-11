@@ -49,7 +49,7 @@
     "engine.editor.menu.saveLevel": "Level speichern",
     "engine.editor.menu.saveLevelAs": "Level speichern als...",
     "engine.engineFail": "Initialisierung des Spiels fehlgeschlagen, Spiel wird beendet.",
-    "engine.invalidUserpath.msg": "BeamNG.drive kann nicht auf den Benutzerpfad zugreifen, der in startup.ini (Spielordner) definiert ist. Ändern Sie diesen in einen gültigen Pfad: ",
+    "engine.invalidUserpath.msg": "BeamNG.drive kann nicht auf den Benutzerpfad zugreifen, der in startup.ini (Spielordner) definiert ist. Ändere diesen in einen gültigen Pfad: ",
     "engine.invalidUserpath.title": "Ungültiger Benutzerpfad",
     "engine.levelModified.msg": "Das Level wurde im Editor modifiziert. Speichern?",
     "engine.levelModified.title": "Level geändert",
