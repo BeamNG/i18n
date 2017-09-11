@@ -1554,5 +1554,6 @@
     "ui.options.userInterface.creatorMode": "Creator Modus",
     "ui.options.userInterface.externalUi": "Browser UI aktivieren",
     "ui.options.language": "Sprache",
-    "ui.options.communityTranslations": "Communityübersetzungen"
+    "ui.options.communityTranslations": "Communityübersetzungen",
+    "ui.options.currentLanguage": "Aktive Sprache"
 }
