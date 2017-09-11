@@ -1495,5 +1495,7 @@
     "ui.quickrace.tracks.lapsChangeable": "Runden änderbar",
     "ui.quickrace.tracks.procedural": "Prozedurale Strecke",
     "ui.quickrace.tracks.proceduralInfo": "Gleiche Stelle auf demselben Layout bedeutet selbe Strecke.",
-    "ui.quickrace.select": "Auswählen"
+    "ui.quickrace.select": "Auswählen",
+    "ui.quickrace.reverse": "Rückwärts",
+    "ui.quickrace.rollingStart": "Rollender Start"
 }
