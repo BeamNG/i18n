@@ -1490,5 +1490,6 @@
     "ui.quickrace.quickraceTracks": "Zeitrennen Layoutauswahl",
     "ui.quickrace.tracks.reversible": "Umkehrbar",
     "ui.quickrace.tracks.allowRollingStart": "Rollender Start erlauben",
-    "ui.quickrace.tracks.laps": "Runden"
+    "ui.quickrace.tracks.laps": "Runden",
+    "ui.quickrace.tracks.lap": "Runde"
 }
