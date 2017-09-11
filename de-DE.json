@@ -1337,7 +1337,7 @@
     "engine.editor.menu.smoothedRotateCamera": "Geglättet Rotation",
     "engine.editor.menu.cameratype.firstPerson": "Ego Perspektive",
     "engine.editor.menu.cameratype.thirdPerson": "Verfolgerperspektive",
-    "engine.editor.menu.camera.top": "Draufsicht",
+    "engine.editor.menu.camera.top": "Vogelperspektive",
     "engine.editor.menu.camera.bottom": "Boden",
     "engine.editor.menu.camera.front": "Vorderansicht",
     "engine.editor.menu.camera.back": "Hinteransicht",
