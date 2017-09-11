@@ -1487,5 +1487,6 @@
     "ui.quickrace.selectVehicle": "Fahrzeug wählen",
     "ui.quickrace.play": "Spielen",
     "ui.quickrace.quickraceLevels": "Zeitrennen Kartenauswahl",
-    "ui.quickrace.quickraceTracks": "Zeitrennen Layoutauswahl"
+    "ui.quickrace.quickraceTracks": "Zeitrennen Layoutauswahl",
+    "ui.quickrace.tracks.reversible": "Umkehrbar"
 }
