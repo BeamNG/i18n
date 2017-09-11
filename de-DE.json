@@ -1365,5 +1365,7 @@
     "engine.editor.menu.placePlayerCamera": "Spieler bei Kamera platzieren",
     "engine.editor.menu.cameraTranslation": "Kamera-Transformation",
     "engine.editor.menu.fitViewSelection": "Ansicht zur Auswahl anpassen",
-    "engine.editor.menu.fitViewSelectionOrbit": "Ansicht zur Auswahl und Horizont anpassen"
+    "engine.editor.menu.fitViewSelectionOrbit": "Ansicht zur Auswahl und Horizont anpassen",
+    "engine.editor.menu.speed": "Geschwindigkeit",
+    "engine.editor.menu.viewType": "Ansicht"
 }
