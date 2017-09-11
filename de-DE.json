@@ -1457,5 +1457,10 @@
     "ui.repository.option_title": "Titel",
     "ui.repository.option_update": "Update",
     "ui.repository.option_size": "Größe",
-    "ui.repository.option_downloads": "Downloads"
+    "ui.repository.option_downloads": "Downloads",
+    "ui.repository.option_ascending": "Aufsteigend",
+    "ui.repository.option_descending": "Absteigend",
+    "ui.repository.filter_apply": "Anwenden",
+    "ui.repository.filter_top_downloaded": "Top Heruntergeladen",
+    "ui.repository.filter_top_rated": "Top Bewertet"
 }
