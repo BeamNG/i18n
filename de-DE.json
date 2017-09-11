@@ -1357,5 +1357,6 @@
     "engine.lua.reloaded": "Haupt LUA Instanz neu geladen",
     "engine.nodegrab.uncoupling": "Entkoppeln aller verbundenen Knoten",
     "engine.nodegrab.coupling": "Kopplung beider Knoten",
-    "engine.editor.menu.worldCamera": "Freie Kamera"
+    "engine.editor.menu.worldCamera": "Freie Kamera",
+    "engine.editor.menu.playerCamera": "Spieler Kamera"
 }
