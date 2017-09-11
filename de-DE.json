@@ -1491,5 +1491,6 @@
     "ui.quickrace.tracks.reversible": "Umkehrbar",
     "ui.quickrace.tracks.allowRollingStart": "Rollender Start erlauben",
     "ui.quickrace.tracks.laps": "Runden",
-    "ui.quickrace.tracks.lap": "Runde"
+    "ui.quickrace.tracks.lap": "Runde",
+    "ui.quickrace.tracks.lapsChangeable": "Runden änderbar"
 }
