@@ -1511,5 +1511,6 @@
     "ui.quickrace.laps": "Runden",
     "ui.quickrace.tod": "Zeit",
     "ui.quickrace.country": "Land",
-    "ui.quickrace.brand": "Marke"
+    "ui.quickrace.brand": "Marke",
+    "ui.quickrace.derby": "Derby Klasse"
 }
