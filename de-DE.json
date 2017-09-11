@@ -1410,5 +1410,6 @@
     "ui.fonts.secondary": "Nachrichtenzyklus",
     "ui.fonts.fallback": "Roboto",
     "ui.common.resetAll": "Alles zurücksetzen",
-    "ui.common.default": "Standard"
+    "ui.common.default": "Standard",
+    "ui.common.info": "Information"
 }
