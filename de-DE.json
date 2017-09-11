@@ -1506,5 +1506,10 @@
     "ui.quickrace.tod.lateNoon": "Später Mittag",
     "ui.quickrace.tod.afternoon": "Nachmittags",
     "ui.quickrace.tod.evening": "Abends",
-    "ui.quickrace.tod.sunset": "Sonnenuntergang"
+    "ui.quickrace.tod.sunset": "Sonnenuntergang",
+    "ui.quickrace.setting": "Einstellungen",
+    "ui.quickrace.laps": "Runden",
+    "ui.quickrace.tod": "Zeit",
+    "ui.quickrace.country": "Land",
+    "ui.quickrace.brand": "Marke"
 }
