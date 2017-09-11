@@ -1389,5 +1389,6 @@
     "engine.editor.menu.negZAxis": "- Z Achse",
     "engine.editor.menu.xAxis": "X Achse",
     "engine.editor.menu.yAxis": "Y Achse",
-    "engine.editor.menu.zAxis": "Z-Achse"
+    "engine.editor.menu.zAxis": "Z Achse",
+    "engine.editor.menu.object": "Objekt"
 }
