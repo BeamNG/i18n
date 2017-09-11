@@ -1382,5 +1382,6 @@
     "engine.editor.menu.toTerrain": "zu Boden",
     "engine.editor.menu.belowSelection": "Unterhalb der Auswahl",
     "engine.editor.menu.posXAxis": "+X Achse",
-    "engine.editor.menu.posYAxis": "+Y Achse"
+    "engine.editor.menu.posYAxis": "+Y Achse",
+    "engine.editor.menu.posZAxis": "+Z Axe"
 }
