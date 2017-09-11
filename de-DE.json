@@ -1493,5 +1493,6 @@
     "ui.quickrace.tracks.laps": "Runden",
     "ui.quickrace.tracks.lap": "Runde",
     "ui.quickrace.tracks.lapsChangeable": "Runden änderbar",
-    "ui.quickrace.tracks.procedural": "Prozedurale Strecke"
+    "ui.quickrace.tracks.procedural": "Prozedurale Strecke",
+    "ui.quickrace.tracks.proceduralInfo": "Gleiche Stelle auf dem selben Layout bedeutet: Selbe Strecke"
 }
