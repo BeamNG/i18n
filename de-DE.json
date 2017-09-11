@@ -1463,5 +1463,14 @@
     "ui.repository.filter_apply": "Anwenden",
     "ui.repository.filter_top_downloaded": "Am meisten heruntergeladen",
     "ui.repository.filter_top_rated": "Am besten bewertet",
-    "ui.repository.filter_latest": "Neueste"
+    "ui.repository.filter_latest": "Neueste",
+    "ui.repository.filter_subscribed_only": "Nur abonnierte",
+    "ui.repository.category": "Kategorie",
+    "ui.repository.cat_veh": "Fahrzeuge",
+    "ui.repository.cat_veh_land": "Land",
+    "ui.repository.cat_veh_air": "Luft",
+    "ui.repository.cat_veh_props": "Requisiten",
+    "ui.repository.cat_veh_boats": "Boote",
+    "ui.repository.cat_veh_config": "Konfigurationen",
+    "ui.repository.cat_scenarios": "Szenarien"
 }
