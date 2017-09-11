@@ -1526,5 +1526,6 @@
     "ui.color.user": "Benutzer",
     "ui.color.hue": "Farbton",
     "ui.color.saturation": "Sättigung",
-    "ui.color.brightness": "Helligkeit"
+    "ui.color.brightness": "Helligkeit",
+    "ui.color.chrominess": "Chromheitsgrad"
 }
