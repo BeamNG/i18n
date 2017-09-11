@@ -1370,5 +1370,6 @@
     "engine.editor.menu.viewType": "Ansicht",
     "engine.editor.menu.addBookmark": "Lesezeichen setzen...",
     "engine.editor.menu.manageBookmarks": "Lesezeichen verwalten...",
-    "engine.editor.menu.jumpBookmark": "Zum Lesezeichen springen"
+    "engine.editor.menu.jumpBookmark": "Zum Lesezeichen springen",
+    "engine.editor.menu.editors": "Editors"
 }
