@@ -1359,5 +1359,6 @@
     "engine.nodegrab.coupling": "Kopplung beider Knoten",
     "engine.editor.menu.worldCamera": "Freie Kamera",
     "engine.editor.menu.playerCamera": "Spieler Kamera",
-    "engine.editor.menu.toggleCamera": "Kamera wechseln"
+    "engine.editor.menu.toggleCamera": "Kamera wechseln",
+    "engine.editor.menu.placeCameraSelection": "Platziere Kamera bei Auswahl"
 }
