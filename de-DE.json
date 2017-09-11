@@ -1517,5 +1517,6 @@
     "ui.quickrace.highscoresTotal": "Bestzeiten - Gesamtzeit",
     "ui.modmanager.id": "Einzigartige ID",
     "ui.modmanager.author": "Autor",
-    "ui.modmanager.openInRepo": "In Repo öffnen"
+    "ui.modmanager.openInRepo": "In Repo öffnen",
+    "ui.modmanager.openModFolderInExplorer": "Mod-Ordner öffnen"
 }
