@@ -1441,5 +1441,6 @@
     "ui.dashboard.appedit": "UI-Apps anpassen",
     "ui.repository.subscribe": "Abonnieren",
     "ui.repository.subscribed": "Abonniert: Du bekommst automatische Updates",
-    "ui.repository.no_mods_found": "Keine Ergebnisse"
+    "ui.repository.no_mods_found": "Keine Ergebnisse gefunden",
+    "ui.repository.unsubscribe": "Deabonnieren"
 }
