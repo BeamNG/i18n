@@ -1513,5 +1513,6 @@
     "ui.quickrace.country": "Land",
     "ui.quickrace.brand": "Marke",
     "ui.quickrace.derby": "Derby Klasse",
-    "ui.quickrace.highscoresSingle": "Bestzeiten - Eine Runde"
+    "ui.quickrace.highscoresSingle": "Bestzeiten - Eine Runde",
+    "ui.quickrace.highscoresTotal": "Bestzeit - Gesamtzeit"
 }
