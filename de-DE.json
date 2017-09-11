@@ -1524,5 +1524,6 @@
     "ui.color.colorPalette": "Farbpalette {{id}}",
     "ui.color.factory": "Fabrik",
     "ui.color.user": "Benutzer",
-    "ui.color.hue": "Farbton"
+    "ui.color.hue": "Farbton",
+    "ui.color.saturation": "Sättigung"
 }
