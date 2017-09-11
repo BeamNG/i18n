@@ -1519,5 +1519,10 @@
     "ui.modmanager.author": "Autor",
     "ui.modmanager.openInRepo": "In Repo öffnen",
     "ui.modmanager.openModFolderInExplorer": "Mod-Ordner öffnen",
-    "ui.credits.gameDesigners": "Spieldesigner"
+    "ui.credits.gameDesigners": "Spieldesigner",
+    "ui.color.colors": "Farben",
+    "ui.color.colorPalette": "Farbpalette {{id}}",
+    "ui.color.factory": "Fabrik",
+    "ui.color.user": "Benutzer",
+    "ui.color.hue": "Farbton"
 }
