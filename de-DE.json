@@ -1422,5 +1422,6 @@
     "ui.common.realistic": "Realistich",
     "ui.actions.decrease": "Verringern",
     "ui.actions.increase": "Erhöhen",
-    "ui.actions.enter": "Panel öffnen"
+    "ui.actions.enter": "Panel öffnen",
+    "ui.actions.exit": "Panel verlassen"
 }
