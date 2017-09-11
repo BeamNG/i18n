@@ -1442,5 +1442,7 @@
     "ui.repository.subscribe": "Abonnieren",
     "ui.repository.subscribed": "Abonniert: Du bekommst automatische Updates",
     "ui.repository.no_mods_found": "Keine Ergebnisse gefunden",
-    "ui.repository.unsubscribe": "Deabonnieren"
+    "ui.repository.unsubscribe": "Deabonnieren",
+    "ui.repository.version_id": "Version",
+    "ui.repository.info": "Information"
 }
