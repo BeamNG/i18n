@@ -1553,5 +1553,6 @@
     "ui.options.userInterface.editApps": "UI-Apps anpassen",
     "ui.options.userInterface.creatorMode": "Creator Modus",
     "ui.options.userInterface.externalUi": "Browser UI aktivieren",
-    "ui.options.language": "Sprache"
+    "ui.options.language": "Sprache",
+    "ui.options.communityTranslations": "Communityübersetzungen"
 }
