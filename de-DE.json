@@ -1360,5 +1360,8 @@
     "engine.editor.menu.worldCamera": "Freie Kamera",
     "engine.editor.menu.playerCamera": "Spieler Kamera",
     "engine.editor.menu.toggleCamera": "Kamera wechseln",
-    "engine.editor.menu.placeCameraSelection": "Kamera bei Auswahl platzieren"
+    "engine.editor.menu.placeCameraSelection": "Kamera auf Auswahl platzieren",
+    "engine.editor.menu.placeCameraPlayer": "Kamera am Spieler platzieren",
+    "engine.editor.menu.placePlayerCamera": "Spieler bei Kamera platzieren",
+    "engine.editor.menu.cameraTranslation": "Kamera-Transformation"
 }
