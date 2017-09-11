@@ -1355,7 +1355,7 @@
     "engine.editor.menu.cameraspeed.fastest": "Sehr schnell",
     "engine.editor.menu.toggleCamModes": "Kamera-Modus umschalten",
     "engine.lua.reloaded": "Haupt LUA Instanz neu geladen",
-    "engine.nodegrab.uncoupling": "Entkoppeln aller verbundenen Knoten",
+    "engine.nodegrab.uncoupling": "Alle verbundenen Knoten lösen",
     "engine.nodegrab.coupling": "Kopplung beider Knoten",
     "engine.editor.menu.worldCamera": "Freie Kamera",
     "engine.editor.menu.playerCamera": "Spieler Kamera",
