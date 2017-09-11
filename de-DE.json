@@ -1426,5 +1426,12 @@
     "ui.actions.exit": "Panel verlassen",
     "ui.actions.switchRight": "Nach rechts wechseln",
     "ui.actions.switchLeft": "Nach links wechseln",
-    "ui.actions.confirm": "Bestätige"
+    "ui.actions.confirm": "Bestätigen",
+    "ui.actions.load": "Laden",
+    "ui.actions.spawn": "Auto erzeugen",
+    "ui.actions.menuLeft": "Menü links",
+    "ui.actions.menuRight": "Menü rechts",
+    "ui.comic.skip": "Überspringen",
+    "ui.unit.metric": "Metrisch (SI)",
+    "ui.unit.imperial": "Imperial"
 }
