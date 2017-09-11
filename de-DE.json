@@ -1383,5 +1383,10 @@
     "engine.editor.menu.belowSelection": "Unterhalb der Auswahl",
     "engine.editor.menu.posXAxis": "+X Achse",
     "engine.editor.menu.posYAxis": "+Y Achse",
-    "engine.editor.menu.posZAxis": "+Z Axe"
+    "engine.editor.menu.posZAxis": "+Z Achse",
+    "engine.editor.menu.negXAxis": "- X Achse",
+    "engine.editor.menu.negYAxis": "- Y Achse",
+    "engine.editor.menu.negZAxis": "- Z Achse",
+    "engine.editor.menu.xAxis": "X Achse",
+    "engine.editor.menu.yAxis": "Y Achse"
 }
