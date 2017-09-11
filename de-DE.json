@@ -1397,5 +1397,7 @@
     "engine.editor.menu.showSelection": "Auswahl anzeigen",
     "engine.editor.menu.alignBounds": "Grenzen ausrichten",
     "engine.editor.menu.alignCenter": "Zentrieren",
-    "engine.editor.menu.resetTransforms": "Transformierungen zurücksetzen"
+    "engine.editor.menu.resetTransforms": "Transformierungen zurücksetzen",
+    "engine.editor.menu.resetSelRot": "ausgewählte Drehung zurücksetzen",
+    "engine.editor.menu.resetSelScale": "Ausgewählte Skalierung zurücksetzen"
 }
