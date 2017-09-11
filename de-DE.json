@@ -1475,5 +1475,6 @@
     "ui.repository.cat_scenarios": "Szenarien",
     "ui.repository.cat_terrain": "Gelände, Level, Karten",
     "ui.repository.cat_ui": "Benutzeroberflächen-Apps",
-    "ui.repository.cat_sound": "Sounds"
+    "ui.repository.cat_sound": "Sounds",
+    "ui.repository.cat_idplate": "Nummernschilder"
 }
