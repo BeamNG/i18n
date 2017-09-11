@@ -1472,5 +1472,6 @@
     "ui.repository.cat_veh_props": "Requisiten",
     "ui.repository.cat_veh_boats": "Boote",
     "ui.repository.cat_veh_config": "Konfigurationen",
-    "ui.repository.cat_scenarios": "Szenarien"
+    "ui.repository.cat_scenarios": "Szenarien",
+    "ui.repository.cat_terrain": "Gelände, Level, Karten"
 }
