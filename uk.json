@@ -1689,5 +1689,12 @@
     "engine.editor.menu.camera.front": "Спереду",
     "engine.editor.menu.camera.back": "Ззаду",
     "engine.editor.menu.camera.left": "Ліворуч",
-    "engine.editor.menu.camera.right": "Праворуч"
+    "engine.editor.menu.camera.right": "Праворуч",
+    "engine.lua.reloaded": "\nОсновний екземпляр LUA перезавантажений",
+    "engine.nodegrab.fixedwarning": "CTRL + Кнопка середньої миші, щоб розбити вузли",
+    "engine.nodegrab.uncoupling": "\nРоз'єднати будь-які додані вузли",
+    "engine.nodegrab.coupling": "З'єднання двох вузлів",
+    "engine.editor.menu.orbitCamera": "\nОрбітальна камера",
+    "engine.editor.menu.toggleCamModes": "Переключити режими камери",
+    "ui.fonts.primary": "Грати\n"
 }
