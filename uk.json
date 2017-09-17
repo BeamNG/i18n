@@ -1049,7 +1049,7 @@
     "ui.dashboard.options": "Опції",
     "ui.dashboard.performance": "Продуктивність",
     "ui.dashboard.photomode": "Фоторежим",
-    "ui.dashboard.play": "Грати",
+    "ui.dashboard.play": "Продовжити",
     "ui.dashboard.quit": "Вийти з гри",
     "ui.dashboard.scenarios": "Сценарії",
     "ui.dashboard.tutorial": "Навчання",
@@ -1690,11 +1690,11 @@
     "engine.editor.menu.camera.back": "Ззаду",
     "engine.editor.menu.camera.left": "Ліворуч",
     "engine.editor.menu.camera.right": "Праворуч",
-    "engine.lua.reloaded": "\nОсновний екземпляр LUA перезавантажений",
+    "engine.lua.reloaded": "Основний екземпляр LUA перезавантажений",
     "engine.nodegrab.fixedwarning": "CTRL + Кнопка середньої миші, щоб розбити вузли",
-    "engine.nodegrab.uncoupling": "\nРоз'єднати будь-які додані вузли",
+    "engine.nodegrab.uncoupling": "Роз'єднати будь-які додані вузли",
     "engine.nodegrab.coupling": "З'єднання двох вузлів",
-    "engine.editor.menu.orbitCamera": "\nОрбітальна камера",
+    "engine.editor.menu.orbitCamera": "Орбітальна камера",
     "engine.editor.menu.toggleCamModes": "Переключити режими камери",
-    "ui.fonts.primary": "Грати\n"
+    "ui.fonts.primary": "Грати"
 }
