@@ -1980,5 +1980,6 @@
     "levels.hirochi_raceway.spawnpoints.spawn_startline": "Ligne de départ",
     "vehicle.drivetrain.engineMildOverrevDamage": "Moteur emballé: Système de distribution endommagé",
     "vehicle.drivetrain.engineCatastrophicOverrevDamage": "Moteur emballé: Moteur verrouillé",
-    "ui.options.camera.cameraTVSpeedTooltip": "Ne force pas la vitesse fixe,  il agit plutôt comme un modificateur sur la vitesse dynamiquement choisie"
+    "ui.options.camera.cameraTVSpeedTooltip": "Ne force pas la vitesse fixe, il agit plutôt comme un modificateur sur la vitesse dynamiquement choisie",
+    "ui.debug.vehicle.flexmeshdebug": "Débogage Flexmesh"
 }
