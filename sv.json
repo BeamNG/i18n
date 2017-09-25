@@ -1123,5 +1123,15 @@
     "ui.options.detectedLanguage": "Upptäckta språk",
     "ui.options.gameplay.helpTranslating": "Hjälp till att översätta",
     "ui.options.advanced": "Avancerad",
-    "ui.options.audio.quality": "Kvalitet"
+    "ui.options.audio.quality": "Kvalitet",
+    "ui.garage.photo.uploadToSteam": "Ladda upp till Steam",
+    "ui.garage.parts.extras": "Extra",
+    "ui.loading.spawn.time": "Skapar ljus och mörker",
+    "ui.loading.spawn.forest": "Växer träd",
+    "ui.loading.spawn.postfx": "Vackra effekter",
+    "ui.camera.speed": "Kamerahastighet satt till {{speed | number: 1}}",
+    "ui.camera.switched": "Fordonkamera: {{name}}",
+    "replay.jump": "Hoppar fram {{seconds}} sekunder",
+    "scenarios.driver_training.driver_training.training_cornering2.5.title": "Övning 2: Kurvtagning",
+    "scenarios.driver_training.driver_training.training_slalom.nomove.msg": "Du träffade en kon, försök igen."
 }
