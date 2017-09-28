@@ -1848,5 +1848,6 @@
     "replay.jump": "Preskočiť {{seconds}} sekúnd",
     "scenarios.Industrial.industrial_allycross_intro_long.description": "Dlhá verzia rallycrossovej trate ",
     "scenarios.jungle_rock_island.hypermiling.title": "Jazda na spotrebu",
-    "engine.editor.menu.cameraTranslation": "Transformácia kamery"
+    "engine.editor.menu.cameraTranslation": "Transformácia kamery",
+    "quickrace.east_coast_usa.rallycross.description": "Dlhá, náročná trať s mixom asfaltu a nespevnených ciest ťa povedie cez niektoré menej známe časti tejto mapy."
 }
