@@ -1367,7 +1367,7 @@
     "ui.options.currentLanguage": "Текущий язык",
     "ui.options.gameplay": "Геймплей",
     "ui.options.gameplay.autoClutch": "Помощь в сцеплении (ручная КПП)",
-    "ui.options.gameplay.autoClutch.tooltip": "Если включено, сцепление будет срабатывать автоматически. Хорошо работает при движении с места, предотвращает остановку двигателя, предохраняет КПП от поломки.",
+    "ui.options.gameplay.autoClutch.tooltip": "Если включено, сцепление будет срабатывать автоматически. Помогает при движении с места, предотвращает остановку двигателя, предохраняет КПП от поломки.",
     "ui.options.gameplay.autoShiftPrevention": "Помощь в переключении передач",
     "ui.options.gameplay.autoThrottle": "Помощь в акселераторе (ручная КПП)",
     "ui.options.gameplay.competitiveScenarios": "Условия в сценариях",
