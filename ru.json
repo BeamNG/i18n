@@ -1706,7 +1706,7 @@
     "vehicle.drivetrain.shifterModeNameUnknown": "Неопределённый режим переключения",
     "vehicle.drivetrain.stalled": "Двигатель заглох, удерживайте [action=clutch] и нажмите [action=activateStarterMotor] для запуска",
     "vehicle.drivetrain.stalledAutoClutch": "Двигатель заглох, нажмите [action=activateStarterMotor] для запуска",
-    "vehicle.drivetrain.stalledStarting": "Двигатель заглох, перезапускаем...",
+    "vehicle.drivetrain.stalledStarting": "Двигатель заглох, перезапуск...",
     "vehicle.drivetrain.usingHshifter": "Использовался аппаратный переключатель. Переключаем режим...",
     "vehicle.engine.blockMelted": "Блок цилиндров оплавился",
     "vehicle.engine.coolantOverheating": "Охлаждающая жидкость перегревается",
@@ -1983,5 +1983,7 @@
     "ui.repository.cat_skin": "Покраски",
     "ui.quickrace.tracks.proceduralInfo": "То же зерно (seed) на той же конфигурации даст в результате аналогичную трассу.",
     "ui.credits.gameDesigners": "Геймдизайнеры",
-    "ui.apps.clock_debug.name": "Счетчик частоты"
+    "ui.apps.clock_debug.name": "Счетчик частоты",
+    "ui.debug.vehicle.debugVisible": "Режим отладки",
+    "ui.debug.vehicle.flexmeshdebug": "Отладка сетки деформации"
 }
