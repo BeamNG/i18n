@@ -5,7 +5,7 @@
     "campaigns.utah.chapter_1.title": "毀天滅地",
     "campaigns.utah.chapter_2.summaryMessage": "做得好! 現在您已經準備好進入下一章了.",
     "campaigns.utah.chapter_2.title": "初來乍到",
-    "engine.cef.subprocessdied.title": "this was accidently created, please delete",
+    "engine.cef.subprocessdied.title": "this page was accidently created, please delete",
     "engine.editor.menu.deselect": "撤銷選擇",
     "engine.editor.menu.lighting": "光",
     "engine.editor.menu.object": "物體",
@@ -15,7 +15,7 @@
     "engine.editor.menu.unlockSelection": "解鎖模塊",
     "engine.editor.menu.xAxis": "X 軸",
     "engine.resourceMissing": "",
-    "engine.welcome": "歡迎來到正體字版本的BeamNG.drive :)",
+    "engine.welcome": "本页面创建纯属意外,翻译简体请前往简体中文,翻译正体请前往繁体中文",
     "extensions.scenario.damageGoal.checkDamage.fail.msg": "請注意! 您的載具已經損壞 {{damage}}%",
     "extensions.scenario.damageGoal.win.msg": "做得好！您用時: {{timeStr}}",
     "levels.Cliff.info.suitablefor": "",
@@ -256,5 +256,6 @@
     "vehicle.drivetrain.shifterModeNameUnknown": "",
     "vehicle.engine.radiatorDamaged": "散熱器已損毀",
     "vehicle.main.instability": "",
-    "vehicle.recovery.recovered": "載具已修復"
+    "vehicle.recovery.recovered": "載具已修復",
+    "engine.lua.reloaded": "this page was accidently created, please delete"
 }
