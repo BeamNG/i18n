@@ -517,5 +517,6 @@
     "ui.apps.aicontrol.name": "AI控制",
     "ui.apps.brake_torque_graph.name": "制动扭矩图",
     "ui.performance.warnings.minmem": "内存低于4GB：没有足够内存以运行某些地图",
-    "ui.common.next": "下一个"
+    "ui.common.next": "下一个",
+    "engine.lua.reloaded": "主LUA已加载完毕"
 }
