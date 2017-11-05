@@ -1886,7 +1886,7 @@
     "ui.radialmenu2.powertrain.gearbox_mode": "Mode boîte de vitesses",
     "engine.editor.menu.cameraTranslation": "Mouvement caméra",
     "ui.mainmenu.modwizard": "ASSISTANT DES MODS",
-    "ui.repository.cat_yo-dawg-mod": "Modification des Mods",
+    "ui.repository.cat_yo-dawg-mod": "Mods",
     "ui.quickrace.tracks.procedural": "Circuit Procédural",
     "vehicle.beamstate.beamDeformed": "Beam {{id}} a été déformé: {{id1name}} [{{id1}}] -> {{id2name}} [{{id2}}]",
     "ui.fonts.secondary": "Actualités",
