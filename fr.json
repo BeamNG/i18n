@@ -143,7 +143,7 @@
     "extensions.scenario.onRaceEnd.default.win": "Bien joué ! Ton temps : {{timeStr}}",
     "extensions.scenario.speedGoal.countdown": "{{countdown}}...",
     "extensions.scenario.speedGoal.fail.msg": "Vous n'avez pas atteint la vitesse demandée",
-    "extensions.scenario.speedGoal.win.msg": "Bien joué ! Ton temps: {{time}}",
+    "extensions.scenario.speedGoal.win.msg": "bien joué! Votre temps:  {{time}}",
     "extensions.scenario.timeLimit.checkTime.countdown": "{{countdown}}...",
     "extensions.scenario.timeLimit.failedGoal": "a pris plus de {{maxTime}}",
     "levels.Cliff.info.biome": "tempéré, falaise, prairie",
