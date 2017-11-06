@@ -135,7 +135,7 @@
     "engine.windowedModeReq.title": "Mode fenetré requis",
     "extensions.campaign.exploration.mapHint": "Appuyez sur [action=pause] pour afficher la carte des missions disponibles",
     "extensions.scenario.damageGoal.checkDamage.fail.msg": "Attention! Ta voiture est endommagée à {{damage}}%",
-    "extensions.scenario.damageGoal.checkDamage.win.msg": "{{damage}% de dégâts",
+    "extensions.scenario.damageGoal.checkDamage.win.msg": "{{damage}% degats",
     "extensions.scenario.damageGoal.fail.msg": "Vous avez abîmé votre voiture",
     "extensions.scenario.damageGoal.win.msg": "Bien joué! Votre temps : {{timeStr}}",
     "extensions.scenario.drift.failedGoal": "Il te faut au minimum {{minDrift}} points.",
