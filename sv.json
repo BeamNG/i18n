@@ -1133,5 +1133,8 @@
     "ui.camera.switched": "Fordonkamera: {{name}}",
     "replay.jump": "Hoppar fram {{seconds}} sekunder",
     "scenarios.driver_training.driver_training.training_cornering2.5.title": "Övning 2: Kurvtagning",
-    "scenarios.driver_training.driver_training.training_slalom.nomove.msg": "Du träffade en kon, försök igen."
+    "scenarios.driver_training.driver_training.training_slalom.nomove.msg": "Du träffade en kon, försök igen.",
+    "engine.editor.menu.visibilityLayers": "Synliga lager",
+    "engine.editor.menu.smoothedCamera": "Mjuk",
+    "vehicle.recovery.recovering": "Fordonet återställs..."
 }
