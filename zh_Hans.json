@@ -477,7 +477,7 @@
     "vehicle.engine.rodBearingsDamaged": "连杆轴承已损坏",
     "vehicle.recovery.loadHome": "载具已回到生成点",
     "vehicle.recovery.recovered": "载具已还原",
-    "engine.editor.loading": "加载地图编辑器中…",
+    "engine.editor.loading": "正在加载地图编辑器…",
     "engine.editor.menu.edit": "编辑",
     "engine.editor.menu.undo": "撤销",
     "engine.editor.menu.cut": "剪贴",
@@ -488,8 +488,8 @@
     "engine.editor.menu.select": "选择…",
     "ui.options.theme.background": "背景色",
     "engine.editor.menu.redo": "还原",
-    "engine.editor.menu.audioParams": "",
-    "engine.editor.menu.gameOptions": "",
+    "engine.editor.menu.audioParams": "音频参数...",
+    "engine.editor.menu.gameOptions": "游戏选项…",
     "engine.editor.menu.postfxManager": "后效果管理器",
     "engine.editor.menu.cameratype.firstPerson": "第一人称",
     "engine.editor.menu.negZAxis": "Z轴",
@@ -520,5 +520,6 @@
     "ui.common.next": "下一个",
     "engine.lua.reloaded": "主要脚本已加载完毕",
     "engine.nodegrab.fixedwarning": "CTRL + 鼠标中键以取消节点固定",
-    "engine.nodegrab.coupling": "连接两个节点"
+    "engine.nodegrab.coupling": "连接两个节点",
+    "engine.editor.menu.editorSettings": "编辑器设置…"
 }
