@@ -490,7 +490,7 @@
     "engine.editor.menu.redo": "还原",
     "engine.editor.menu.audioParams": "音频参数...",
     "engine.editor.menu.gameOptions": "游戏选项…",
-    "engine.editor.menu.postfxManager": "后效果管理器",
+    "engine.editor.menu.postfxManager": "后期画面效果管理器",
     "engine.editor.menu.cameratype.firstPerson": "第一人称",
     "engine.editor.menu.negZAxis": "Z轴",
     "engine.editor.menu.resetSelScale": "重设所选比例",
