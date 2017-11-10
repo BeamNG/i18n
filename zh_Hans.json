@@ -518,5 +518,6 @@
     "ui.apps.brake_torque_graph.name": "制动扭矩图",
     "ui.performance.warnings.minmem": "内存低于4GB：没有足够内存以运行某些地图",
     "ui.common.next": "下一个",
-    "engine.lua.reloaded": "主要脚本已加载完毕"
+    "engine.lua.reloaded": "主要脚本已加载完毕",
+    "engine.nodegrab.fixedwarning": "CTRL + 鼠标中键取消节点"
 }
