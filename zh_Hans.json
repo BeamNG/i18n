@@ -521,5 +521,6 @@
     "engine.lua.reloaded": "主要脚本已加载完毕",
     "engine.nodegrab.fixedwarning": "CTRL + 鼠标中键以取消节点固定",
     "engine.nodegrab.coupling": "连接两个节点",
-    "engine.editor.menu.editorSettings": "编辑器设置…"
+    "engine.editor.menu.editorSettings": "编辑器设置…",
+    "engine.editor.menu.view": "浏览"
 }
