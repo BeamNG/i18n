@@ -1172,7 +1172,7 @@
     "ui.hints.carsBurnFuel": "Votre voiture peut manquer de carburant après de très longues distances. Regardez la jauge de carburant !",
     "ui.hints.changeBrakePads": "Si votre freinage s'affaiblit, vous pouvez choisir de meilleures plaquettes de frein dans le sélecteur de pièces [action=parts_selector].",
     "ui.hints.chooseDefaultVehicle": "Vous pouvez choisir et modifier le véhicule par défaut : dirigez vous vers le garage !",
-    "ui.hints.chooseShiftingMode": "Pour définir un mode de passage de vitesses par défaut, appuyez sur [action=toggleShifterMode]",
+    "ui.hints.chooseShiftingMode": "Pour définir un mode de passage de vitesses par défaut, allez dans options puis gameplay",
     "ui.hints.corneringWithKeyboard": "Quand vous prenez un virage avec un clavier, tapez régulièrement [action=steer_left] ou [action=steer_right] pour mieux contrôler l'angle et éviter le sous-virage.",
     "ui.hints.countersteerEarly": "Si un véhicule commence à balancer d'un côté à un autre, vous devez contre-balancer vite et rapidement. Utiliser un volant (ou une manette) est fortement recommandé.",
     "ui.hints.cruiseControlApp": "Pour de longs voyages relax sur des voies rapides, vous pouvez ajouter l'application \"Régulateur de vitesse\". Elle fonctionne pour toutes les voitures !",
