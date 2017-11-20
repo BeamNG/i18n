@@ -1330,5 +1330,7 @@
     "engine.editor.menu.toggleCamera": "Załącz Kamerę",
     "engine.editor.menu.placeCameraSelection": "Umieść kamerę w wybranym miejscu",
     "engine.editor.menu.placeCameraPlayer": "Umieść kamerę w miejscu gracza",
-    "engine.editor.menu.cameraTranslation": "Zmiana kamery"
+    "engine.editor.menu.cameraTranslation": "Zmiana kamery",
+    "engine.editor.menu.speed": "Szybkość",
+    "engine.editor.menu.manageBookmarks": "Zarządzaj zakładkami..."
 }
