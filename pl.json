@@ -1374,5 +1374,7 @@
     "ui.actions.enter": "Wejdź w panel",
     "ui.actions.exit": "Wyjdź z panelu",
     "ui.actions.confirm": "Zatwierdź",
-    "ui.actions.load": "Załaduj"
+    "ui.actions.load": "Załaduj",
+    "ui.unit.kg": "Kilogramy",
+    "ui.unit.nm": "Niutonometry"
 }
