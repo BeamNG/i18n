@@ -1362,5 +1362,6 @@
     "ui.common.info": "Informacje",
     "ui.common.cancel": "Anuluj",
     "ui.common.save": "Zapisz",
-    "ui.common.load": "Załaduj"
+    "ui.common.load": "Załaduj",
+    "ui.common.filename": "Nazwa pliku"
 }
