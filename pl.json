@@ -48,7 +48,7 @@
     "engine.editor.menu.camera": "Kamera",
     "engine.editor.menu.camera.back": "Tył",
     "engine.editor.menu.camera.isometric": "Izometryczny",
-    "engine.editor.menu.cameraspeed.faster": "Szybciej",
+    "engine.editor.menu.cameraspeed.faster": "Szybszy",
     "engine.editor.menu.copy": "Kopiuj",
     "engine.editor.menu.createBlankTerrain": "Stwórz Pusty Teren",
     "engine.editor.menu.delete": "Usuń",
@@ -1319,7 +1319,12 @@
     "engine.editor.menu.camera.right": "Prawo",
     "engine.editor.menu.camera.perspective": "Perspektywa",
     "engine.editor.menu.cameraspeed": "Prędkość Kamery",
-    "engine.editor.menu.cameraspeed.slowest": "Najwolniej",
-    "engine.editor.menu.cameraspeed.slow": "Wolno",
-    "engine.editor.menu.cameraspeed.slower": "Wolniej"
+    "engine.editor.menu.cameraspeed.slowest": "Najwolniejszy",
+    "engine.editor.menu.cameraspeed.slow": "Wolny",
+    "engine.editor.menu.cameraspeed.slower": "Wolniejszy",
+    "engine.editor.menu.cameraspeed.normal": "Normalny",
+    "engine.editor.menu.cameraspeed.fast": "Szybki",
+    "engine.editor.menu.cameraspeed.fastest": "Najszybszy",
+    "engine.editor.menu.toggleCamModes": "Aktywuj Tryby Kamer",
+    "engine.editor.menu.worldCamera": "Kamera Główna"
 }
