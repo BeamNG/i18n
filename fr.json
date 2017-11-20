@@ -657,7 +657,7 @@
     "scenarios.jungle_rock_island.jri_ds_320_rally.description": "Emmenez la version 320 de la Bolide là où elle n'a jamais été censé rouler.",
     "scenarios.jungle_rock_island.jri_ds_320_rally.title": "Supercar Rallye",
     "scenarios.jungle_rock_island.jri_moose.damage.msg": "Vous avez endommagé votre voiture",
-    "scenarios.jungle_rock_island.jri_moose.description": "Classique test de stabilité, fait pour mettre en valeur la stabilité d'un véhicule",
+    "scenarios.jungle_rock_island.jri_moose.description": "Un test de changement de voie d'urgence classique, réalisé pour mettre en valeur la stabilité de maniabilité d'un véhicule. Pour ce test, vous utiliserez une Hirburi Sunburst RS",
     "scenarios.jungle_rock_island.jri_moose.speed.msg": "Trop lent, vous n'avez pas atteint 85km/h ou plus",
     "scenarios.jungle_rock_island.jri_moose.timeLimit.msg": "Trop lent, vous avez mis plus de {{timeLimit}} secondes pour arriver au checkpoint",
     "scenarios.jungle_rock_island.jri_moose.title": "Test de stabilité",
