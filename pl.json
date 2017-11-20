@@ -757,7 +757,7 @@
     "ui.comic.skip": "Pomiń",
     "ui.common.action.play": "GRAJ",
     "ui.common.apply": "Zatwierdź",
-    "ui.common.arcade": "Zręczościowe",
+    "ui.common.arcade": "Zręcznościowy",
     "ui.common.default": "Domyślny",
     "ui.common.delete": "Usuń",
     "ui.common.disable": "Wyłącz",
@@ -1366,5 +1366,7 @@
     "ui.common.filename": "Nazwa pliku",
     "ui.common.unknown": "Nieznany",
     "ui.common.exit": "Wyjdź",
-    "ui.common.test": "Test"
+    "ui.common.test": "Test",
+    "ui.common.stock": "Podstawowe",
+    "ui.common.off": "Wyłącz"
 }
