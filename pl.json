@@ -1378,5 +1378,7 @@
     "ui.unit.kg": "Kilogramy",
     "ui.unit.nm": "Niutonometry",
     "ui.unit.ftlb": "Funt na stopę",
-    "ui.unit.hp": "Konie mechaniczne"
+    "ui.unit.hp": "Konie mechaniczne",
+    "ui.unit.bhp": "Konie mechaniczne (na kołach)",
+    "ui.unit.kw": "Kilowat"
 }
