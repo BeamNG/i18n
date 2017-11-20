@@ -1400,5 +1400,6 @@
     "ui.dashboard.appedit": "Dostosuj Aplikacje UI",
     "ui.levelselect.x86Disabled": "Proszę korzystać z 64-bitowej wersji gry, aby grać na tej mapie.",
     "ui.repository.subscribe": "Subskrybuj",
-    "ui.repository.subscribed": "Zasubskrybowano: Aktualizacje będą pobierać się automatycznie"
+    "ui.repository.subscribed": "Zasubskrybowano: Aktualizacje będą pobierać się automatycznie",
+    "ui.repository.mods": "Mody"
 }
