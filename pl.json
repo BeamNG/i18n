@@ -1363,5 +1363,7 @@
     "ui.common.cancel": "Anuluj",
     "ui.common.save": "Zapisz",
     "ui.common.load": "Załaduj",
-    "ui.common.filename": "Nazwa pliku"
+    "ui.common.filename": "Nazwa pliku",
+    "ui.common.unknown": "Nieznany",
+    "ui.common.exit": "Wyjdź"
 }
