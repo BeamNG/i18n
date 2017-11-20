@@ -758,7 +758,7 @@
     "ui.common.action.play": "GRAJ",
     "ui.common.apply": "Zatwierdź",
     "ui.common.arcade": "Zręczościowe",
-    "ui.common.default": "Domyślne",
+    "ui.common.default": "Domyślny",
     "ui.common.delete": "Usuń",
     "ui.common.disable": "Wyłącz",
     "ui.common.downloadMore": "Pobierz Więcej!",
@@ -1356,5 +1356,7 @@
     "extensions.campaign.exploration.mapHint": "Wciśnij [action=pause] żeby wyświetlić mapę z dostępnymi misjami",
     "ui.fonts.primary": "Graj",
     "ui.fonts.secondary": "Nowości",
-    "ui.common.property.goals": "Cele"
+    "ui.common.property.goals": "Cele",
+    "ui.common.critical": "Krytyczny",
+    "ui.common.showDetails": "Pokaż Detale"
 }
