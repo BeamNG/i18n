@@ -1365,5 +1365,6 @@
     "ui.common.load": "Załaduj",
     "ui.common.filename": "Nazwa pliku",
     "ui.common.unknown": "Nieznany",
-    "ui.common.exit": "Wyjdź"
+    "ui.common.exit": "Wyjdź",
+    "ui.common.test": "Test"
 }
