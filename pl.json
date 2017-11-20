@@ -1344,5 +1344,6 @@
     "engine.editor.menu.negYAxis": "Oś -Y",
     "engine.editor.menu.negZAxis": "Oś -Z",
     "engine.editor.menu.lockSelection": "Zablokuj wybór",
-    "engine.editor.menu.hideSelection": "Ukryj wybór"
+    "engine.editor.menu.hideSelection": "Ukryj wybór",
+    "engine.editor.menu.showSelection": "Pokaż wybór"
 }
