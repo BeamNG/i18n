@@ -1351,5 +1351,6 @@
     "engine.editor.menu.transformSel": "Przekształć Wybrane…",
     "engine.editor.menu.dropSel": "Porzuć wybór",
     "extensions.scenario.onRaceEnd.default.win": "Dobra robota! Twój czas: {{timeStr}}",
-    "extensions.scenario.drift.failedGoal": "Musisz zdobyć przynajmniej {{minDrift}} points."
+    "extensions.scenario.drift.failedGoal": "Musisz zdobyć przynajmniej {{minDrift}} points.",
+    "extensions.scenario.drift.passGoal": "Dobra robota! Twój wynik to {{driftPoints}} punktów."
 }
