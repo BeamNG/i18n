@@ -1372,5 +1372,6 @@
     "ui.actions.decrease": "Zmniejsz",
     "ui.actions.increase": "Zwiększ",
     "ui.actions.enter": "Wejdź w panel",
-    "ui.actions.exit": "Wyjdź z panelu"
+    "ui.actions.exit": "Wyjdź z panelu",
+    "ui.actions.confirm": "Zatwierdź"
 }
