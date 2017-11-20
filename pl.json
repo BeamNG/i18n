@@ -1326,5 +1326,6 @@
     "engine.editor.menu.cameraspeed.fast": "Szybki",
     "engine.editor.menu.cameraspeed.fastest": "Najszybszy",
     "engine.editor.menu.toggleCamModes": "Aktywuj Tryby Kamer",
-    "engine.editor.menu.worldCamera": "Kamera Główna"
+    "engine.editor.menu.worldCamera": "Kamera Główna",
+    "engine.editor.menu.toggleCamera": "Włącz Kamere"
 }
