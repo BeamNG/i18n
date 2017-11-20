@@ -1318,5 +1318,8 @@
     "engine.editor.menu.camera.left": "Lewo",
     "engine.editor.menu.camera.right": "Prawo",
     "engine.editor.menu.camera.perspective": "Perspektywa",
-    "engine.editor.menu.cameraspeed": "Prędkość Kamery"
+    "engine.editor.menu.cameraspeed": "Prędkość Kamery",
+    "engine.editor.menu.cameraspeed.slowest": "Najwolniej",
+    "engine.editor.menu.cameraspeed.slow": "Wolno",
+    "engine.editor.menu.cameraspeed.slower": "Wolniej"
 }
