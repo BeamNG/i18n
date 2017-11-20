@@ -1388,5 +1388,8 @@
     "ui.mainmenu.warningdetails": "Kliknij tutaj, aby zobaczyć szczegóły i się zapoznać",
     "ui.mainmenu.modwizard": "INSTALATOR MODÓW",
     "ui.modWizard.skinWizard.intro": "Witaj w kreatorze skórek. Następujące kroki przybliżą ci sposób tworzenia malowań do każdego z oficjalnych pojazdów w BeamNG.Drive",
-    "ui.modWizard.skinWizard.selectVehicle": "Proszę Wybrać Pojazd"
+    "ui.modWizard.skinWizard.selectVehicle": "Proszę Wybrać Pojazd",
+    "ui.modWizard.skinWizard.skinName": "Proszę podać nazwę dla twojej skórki",
+    "ui.modWizard.skinWizard.howTo": "Jak zrobić skórkę",
+    "ui.modWizard.skinWizard.filesGenerated": "Pliki skórki zostały wygenerowane"
 }
