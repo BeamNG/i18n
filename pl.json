@@ -777,13 +777,13 @@
     "ui.common.order.difficulty": "Poziom Trudności",
     "ui.common.order.players": "Gracze",
     "ui.common.property.authors": "Autor(rzy)",
-    "ui.common.property.createdAt": "Utworzenie",
+    "ui.common.property.createdAt": "Utworzono",
     "ui.common.property.difficulty": "Poziom Trudności",
     "ui.common.property.map": "Mapa",
     "ui.common.property.multiseatPlayers": "Gracze Trybu Wielostanowiskowego",
     "ui.common.realistic": "Realistyczny",
     "ui.common.reset": "Resetuj",
-    "ui.common.resetAll": "Zresetuj wszystko",
+    "ui.common.resetAll": "Resetuj wszystko",
     "ui.common.retry": "Spróbuj ponownie",
     "ui.common.search": "Szukaj",
     "ui.common.skip": "Pomiń",
@@ -1352,5 +1352,8 @@
     "engine.editor.menu.dropSel": "Porzuć wybór",
     "extensions.scenario.onRaceEnd.default.win": "Dobra robota! Twój czas: {{timeStr}}",
     "extensions.scenario.drift.failedGoal": "Musisz zdobyć przynajmniej {{minDrift}} points.",
-    "extensions.scenario.drift.passGoal": "Dobra robota! Twój wynik to {{driftPoints}} punktów."
+    "extensions.scenario.drift.passGoal": "Dobra robota! Twój wynik to {{driftPoints}} punktów.",
+    "extensions.campaign.exploration.mapHint": "Wciśnij [action=pause] żeby wyświetlić mapę z dostępnymi misjami",
+    "ui.fonts.primary": "Graj",
+    "ui.fonts.secondary": "Nowości"
 }
