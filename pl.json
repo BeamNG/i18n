@@ -97,7 +97,7 @@
     "extensions.scenario.damageGoal.win.msg": "Dobra robota! Twój czas: {{timeStr}}",
     "extensions.scenario.speedGoal.countdown": "{{countdown}}...",
     "extensions.scenario.speedGoal.fail.msg": "Twoja prędkość była nieodpowiednia",
-    "extensions.scenario.speedGoal.win.msg": "dobra robota {{time}}",
+    "extensions.scenario.speedGoal.win.msg": "Dobra Robota! Twój czas: {{time}}",
     "extensions.scenario.timeLimit.checkTime.countdown": "{{countdown}}...",
     "extensions.scenario.timeLimit.failedGoal": "zajęło ci to więcej niż {{maxTime}}",
     "levels.Cliff.info.biome": "umiarkowany, klif, łąki",
