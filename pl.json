@@ -91,9 +91,9 @@
     "engine.windowedModeReq.msgEditor": "Aby przełączyć na tryb pełnoekranowy, należy wyjść z Edytora Misji.",
     "engine.windowedModeReq.msgGUI": "Aby przełączyć się na tryb pełnoekranowy, należy wyjść z Edytora GUI.",
     "engine.windowedModeReq.title": "Wymagany Tryb Okienkowy",
-    "extensions.scenario.damageGoal.checkDamage.fail.msg": "Ostrożniej! Twój samochód jest uszkodzony w {{damage}}%",
-    "extensions.scenario.damageGoal.checkDamage.win.msg": "{{damage}% uszkodzenia",
-    "extensions.scenario.damageGoal.fail.msg": "Uszkodziłeś swój samochód",
+    "extensions.scenario.damageGoal.checkDamage.fail.msg": "Ostrożnie! Samochód jest uszkodzony w {{damage}}%",
+    "extensions.scenario.damageGoal.checkDamage.win.msg": "{{damage}}% uszkodzenia",
+    "extensions.scenario.damageGoal.fail.msg": "Uszkodziłeś samochód",
     "extensions.scenario.damageGoal.win.msg": "Dobra robota! Twój czas: {{timeStr}}",
     "extensions.scenario.speedGoal.countdown": "{{countdown}}...",
     "extensions.scenario.speedGoal.fail.msg": "Twoja prędkość była nieadekwatna",
@@ -1350,5 +1350,5 @@
     "engine.editor.menu.alignCenter": "Wyrównaj do Środka",
     "engine.editor.menu.transformSel": "Przekształć Wybrane…",
     "engine.editor.menu.dropSel": "Porzuć wybór",
-    "extensions.scenario.onRaceEnd.default.win": "Dobra robota! Twój czas:{{timeStr}}"
+    "extensions.scenario.onRaceEnd.default.win": "Dobra robota! Twój czas: {{timeStr}}"
 }
