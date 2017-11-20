@@ -1391,5 +1391,6 @@
     "ui.modWizard.skinWizard.selectVehicle": "Proszę Wybrać Pojazd",
     "ui.modWizard.skinWizard.skinName": "Proszę podać nazwę dla twojej skórki",
     "ui.modWizard.skinWizard.howTo": "Jak zrobić skórkę",
-    "ui.modWizard.skinWizard.filesGenerated": "Pliki skórki zostały wygenerowane"
+    "ui.modWizard.skinWizard.filesGenerated": "Pliki skórki zostały wygenerowane",
+    "ui.modWizard.skinWizard.openFolder": "Kliknij tutaj aby otworzyć folder"
 }
