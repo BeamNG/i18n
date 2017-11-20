@@ -1301,5 +1301,6 @@
     "engine.editor.menu.select": "Wybierz...",
     "engine.editor.menu.audioParams": "Parametry Audio...",
     "engine.editor.menu.editorSettings": "Ustawienia Edytora...",
-    "engine.editor.menu.view": "Wyświetl"
+    "engine.editor.menu.view": "Wyświetl",
+    "engine.lua.reloaded": "Ponowne załadowanie instancji głównej LUA"
 }
