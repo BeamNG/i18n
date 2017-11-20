@@ -1377,5 +1377,6 @@
     "ui.actions.load": "Załaduj",
     "ui.unit.kg": "Kilogramy",
     "ui.unit.nm": "Niutonometry",
-    "ui.unit.ftlb": "Funt na stopę"
+    "ui.unit.ftlb": "Funt na stopę",
+    "ui.unit.hp": "Konie mechaniczne"
 }
