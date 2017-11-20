@@ -96,7 +96,7 @@
     "extensions.scenario.damageGoal.fail.msg": "Uszkodziłeś samochód",
     "extensions.scenario.damageGoal.win.msg": "Dobra robota! Twój czas: {{timeStr}}",
     "extensions.scenario.speedGoal.countdown": "{{countdown}}...",
-    "extensions.scenario.speedGoal.fail.msg": "Twoja prędkość była nieadekwatna",
+    "extensions.scenario.speedGoal.fail.msg": "Twoja prędkość była nieodpowiednia",
     "extensions.scenario.speedGoal.win.msg": "dobra robota {{time}}",
     "extensions.scenario.timeLimit.checkTime.countdown": "{{countdown}}...",
     "extensions.scenario.timeLimit.failedGoal": "zajęło ci to więcej niż {{maxTime}}",
