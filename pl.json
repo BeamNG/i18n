@@ -812,7 +812,7 @@
     "ui.credits.ui": "Interfejs użytkownika",
     "ui.credits.vehicleDesigners": "Projektanci pojazdów",
     "ui.dashboard.apps": "Aplikacje",
-    "ui.dashboard.audiodebug": "Audio Debug",
+    "ui.dashboard.audiodebug": "Debug Audio",
     "ui.dashboard.controls": "Sterowanie",
     "ui.dashboard.credits": "Autorzy",
     "ui.dashboard.debug": "Debug",
@@ -826,8 +826,8 @@
     "ui.dashboard.mods": "Mody",
     "ui.dashboard.options": "Opcje",
     "ui.dashboard.performance": "Wydajność",
-    "ui.dashboard.photomode": "Tryb Zdjęć",
-    "ui.dashboard.play": "Graj",
+    "ui.dashboard.photomode": "Tryb Fotograficzny",
+    "ui.dashboard.play": "Kontynuuj",
     "ui.dashboard.quit": "Wyłącz Grę",
     "ui.dashboard.scenarios": "Scenariusze",
     "ui.dashboard.tutorial": "Poradnik",
@@ -1017,7 +1017,7 @@
     "ui.mainmenu.help": "POMOC",
     "ui.mainmenu.mods": "MODY",
     "ui.mainmenu.news": "NOWOŚCI",
-    "ui.mainmenu.onlineFeatures.featureTitle": "Włączyć funkcje Online?",
+    "ui.mainmenu.onlineFeatures.featureTitle": "Włączyć funkcje sieciowe?",
     "ui.mainmenu.options": "OPCJE",
     "ui.mainmenu.play": "GRAJ",
     "ui.mainmenu.repo": "Repozytorium",
@@ -1394,5 +1394,8 @@
     "ui.modWizard.skinWizard.filesGenerated": "Pliki skórki zostały wygenerowane",
     "ui.modWizard.skinWizard.openFolder": "Kliknij tutaj aby otworzyć folder",
     "ui.modWizard.skinWizard.editFile": "Aby edytować skórkę otwórz plik .dds w kompatybilnym edytorze, takim jak Paint.net.",
-    "ui.modWizard.skinWizard.editSkin": "Gdy już otworzyłeś/aś folder możesz rozpocząć tworzenie tekstury. Zwyczajnie pomaluj gdzie tylko chcesz po białych elementach, a następnie zapisz swoją teksturę. Po kliknięciu \"dalej\" twoja tekstura zostanie załadowana do gry i będziesz mógł/mogła edytować ją w czasie rzeczywistym."
+    "ui.modWizard.skinWizard.editSkin": "Gdy już otworzysz folder możesz rozpocząć tworzenie skina. Zwyczajnie pomaluj gdzie tylko chcesz po białych elementach, a następnie zapisz swoją skórkę. Po kliknięciu \"dalej\" twoja tekstura zostanie załadowana do gry i będzie można edytować ją w czasie rzeczywistym.",
+    "ui.mainmenu.onlineFeatures.featureDescription": "Możesz wybrać czy chcesz włączyć lub wyłączyć wszystkie funkcje sieciowe dla BeamNG.drive. Będzie to miało wpływ na:[br][list][*]Wbudowane repozytorium modów[*]Subskrypcję modów[*]Osiągnięcia[*]Tabelę wyników[*]Funkcję czatu[*]Funkcję udostępniania treści[/list]. Poprzez włączenie funkcji sieciowych zgadzasz się z naszą [url=http://wiki.beamng.com/Privacy_Policy]Polityką prywatności[/url] oraz [url=http://wiki.beamng.com/TOS]Warunkami świadczenia usług[/url].[br][br]W każdej chwili możesz zmienić te ustawienia w menu Opcje > Rozgrywka.",
+    "ui.dashboard.replay": "Powtórki",
+    "ui.dashboard.appedit": "Dostosuj Aplikacje UI"
 }
