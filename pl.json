@@ -1361,5 +1361,6 @@
     "ui.common.showDetails": "Pokaż Detale",
     "ui.common.info": "Informacje",
     "ui.common.cancel": "Anuluj",
-    "ui.common.save": "Zapisz"
+    "ui.common.save": "Zapisz",
+    "ui.common.load": "Załaduj"
 }
