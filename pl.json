@@ -1228,7 +1228,7 @@
     "ui.unit.ltr100": "Litr/100km",
     "ui.unit.m": "Metry",
     "ui.unit.metric": "Metryczny (SI)",
-    "ui.unit.mi": "Mil",
+    "ui.unit.mi": "Mile",
     "ui.unit.mpg": "Mil na galon",
     "ui.unit.psi": "PSI",
     "ui.vehicleconfig.color": "Kolor",
@@ -1373,5 +1373,6 @@
     "ui.actions.increase": "Zwiększ",
     "ui.actions.enter": "Wejdź w panel",
     "ui.actions.exit": "Wyjdź z panelu",
-    "ui.actions.confirm": "Zatwierdź"
+    "ui.actions.confirm": "Zatwierdź",
+    "ui.actions.load": "Załaduj"
 }
