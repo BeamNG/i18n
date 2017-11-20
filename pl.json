@@ -1016,7 +1016,7 @@
     "ui.mainmenu.garage": "GARAŻ",
     "ui.mainmenu.help": "POMOC",
     "ui.mainmenu.mods": "MODY",
-    "ui.mainmenu.news": "AKTUALNOŚCI",
+    "ui.mainmenu.news": "NOWOŚCI",
     "ui.mainmenu.onlineFeatures.featureTitle": "Włączyć funkcje Online?",
     "ui.mainmenu.options": "OPCJE",
     "ui.mainmenu.play": "GRAJ",
@@ -1380,5 +1380,9 @@
     "ui.unit.ftlb": "Funt na stopę",
     "ui.unit.hp": "Konie mechaniczne",
     "ui.unit.bhp": "Konie mechaniczne (na kołach)",
-    "ui.unit.kw": "Kilowat"
+    "ui.unit.kw": "Kilowat",
+    "ui.unit.gal": "Galony",
+    "ui.unit.bar": "Bar",
+    "ui.unit.kPa": "Kilopascal",
+    "ui.mainmenu.addmods": "DODAJ MODY"
 }
