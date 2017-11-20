@@ -1359,5 +1359,6 @@
     "ui.common.property.goals": "Cele",
     "ui.common.critical": "Krytyczny",
     "ui.common.showDetails": "Pokaż Detale",
-    "ui.common.info": "Informacje"
+    "ui.common.info": "Informacje",
+    "ui.common.cancel": "Anuluj"
 }
