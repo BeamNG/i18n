@@ -1358,5 +1358,6 @@
     "ui.fonts.secondary": "Nowości",
     "ui.common.property.goals": "Cele",
     "ui.common.critical": "Krytyczny",
-    "ui.common.showDetails": "Pokaż Detale"
+    "ui.common.showDetails": "Pokaż Detale",
+    "ui.common.info": "Informacje"
 }
