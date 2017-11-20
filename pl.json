@@ -1305,5 +1305,6 @@
     "engine.lua.reloaded": "Ponownie załadowano główną instancję LUA",
     "engine.nodegrab.fixedwarning": "CTRL + Środkowy Przycisk Myszki aby odłączyć węzły",
     "engine.nodegrab.uncoupling": "Odłączanie wszystkich połączonych węzłów",
-    "engine.nodegrab.coupling": "Łączenie dwóch węzłów"
+    "engine.nodegrab.coupling": "Łączenie dwóch węzłów",
+    "engine.editor.menu.visibilityLayers": "Warstwy widoczności."
 }
