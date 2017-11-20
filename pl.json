@@ -1376,5 +1376,6 @@
     "ui.actions.confirm": "Zatwierdź",
     "ui.actions.load": "Załaduj",
     "ui.unit.kg": "Kilogramy",
-    "ui.unit.nm": "Niutonometry"
+    "ui.unit.nm": "Niutonometry",
+    "ui.unit.ftlb": "Funt na stopę"
 }
