@@ -1316,5 +1316,6 @@
     "engine.editor.menu.camera.bottom": "Dół",
     "engine.editor.menu.camera.front": "Przód",
     "engine.editor.menu.camera.left": "Lewo",
-    "engine.editor.menu.camera.right": "Prawo"
+    "engine.editor.menu.camera.right": "Prawo",
+    "engine.editor.menu.camera.perspective": "pespektywa"
 }
