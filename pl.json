@@ -1392,5 +1392,6 @@
     "ui.modWizard.skinWizard.skinName": "Proszę podać nazwę dla twojej skórki",
     "ui.modWizard.skinWizard.howTo": "Jak zrobić skórkę",
     "ui.modWizard.skinWizard.filesGenerated": "Pliki skórki zostały wygenerowane",
-    "ui.modWizard.skinWizard.openFolder": "Kliknij tutaj aby otworzyć folder"
+    "ui.modWizard.skinWizard.openFolder": "Kliknij tutaj aby otworzyć folder",
+    "ui.modWizard.skinWizard.editFile": "Aby edytować teksture otwórz plik .dds w kompatybilnym edytorze, takim jak Paint.net."
 }
