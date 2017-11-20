@@ -1368,5 +1368,6 @@
     "ui.common.exit": "Wyjdź",
     "ui.common.test": "Test",
     "ui.common.stock": "Podstawowe",
-    "ui.common.off": "Wyłącz"
+    "ui.common.off": "Wyłącz",
+    "ui.actions.decrease": "Zmniejsz"
 }
