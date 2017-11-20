@@ -1370,5 +1370,6 @@
     "ui.common.stock": "Podstawowe",
     "ui.common.off": "Wyłącz",
     "ui.actions.decrease": "Zmniejsz",
-    "ui.actions.increase": "Zwiększ"
+    "ui.actions.increase": "Zwiększ",
+    "ui.actions.enter": "Wejdź w panel"
 }
