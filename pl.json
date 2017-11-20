@@ -1332,5 +1332,15 @@
     "engine.editor.menu.placeCameraPlayer": "Umieść kamerę w miejscu gracza",
     "engine.editor.menu.cameraTranslation": "Zmiana kamery",
     "engine.editor.menu.speed": "Szybkość",
-    "engine.editor.menu.manageBookmarks": "Zarządzaj zakładkami..."
+    "engine.editor.menu.manageBookmarks": "Zarządzaj Zakładkami...",
+    "engine.editor.menu.jumpBookmark": "Przejdź do Zakładek",
+    "engine.editor.menu.editors": "Edytory",
+    "engine.editor.menu.atOrigin": "u Źródła",
+    "engine.editor.menu.screenCenter": "Środek Ekranu",
+    "engine.editor.menu.belowSelection": "Pod Wybranym",
+    "engine.editor.menu.posXAxis": "Oś +X",
+    "engine.editor.menu.posYAxis": "Oś +Y",
+    "engine.editor.menu.negXAxis": "Oś -X",
+    "engine.editor.menu.negYAxis": "Oś -Y",
+    "engine.editor.menu.negZAxis": "Oś -Z"
 }
