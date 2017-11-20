@@ -1398,5 +1398,7 @@
     "ui.mainmenu.onlineFeatures.featureDescription": "Możesz wybrać czy chcesz włączyć lub wyłączyć wszystkie funkcje sieciowe dla BeamNG.drive. Będzie to miało wpływ na:[br][list][*]Wbudowane repozytorium modów[*]Subskrypcję modów[*]Osiągnięcia[*]Tabelę wyników[*]Funkcję czatu[*]Funkcję udostępniania treści[/list]. Poprzez włączenie funkcji sieciowych zgadzasz się z naszą [url=http://wiki.beamng.com/Privacy_Policy]Polityką prywatności[/url] oraz [url=http://wiki.beamng.com/TOS]Warunkami świadczenia usług[/url].[br][br]W każdej chwili możesz zmienić te ustawienia w menu Opcje > Rozgrywka.",
     "ui.dashboard.replay": "Powtórki",
     "ui.dashboard.appedit": "Dostosuj Aplikacje UI",
-    "ui.levelselect.x86Disabled": "Korzystaj z 64-bitowej wersji gry aby grać na tej mapie."
+    "ui.levelselect.x86Disabled": "Proszę korzystać z 64-bitowej wersji gry, aby grać na tej mapie.",
+    "ui.repository.subscribe": "Subskrybuj",
+    "ui.repository.subscribed": "Zasubskrybowano: Aktualizacje będą pobierać się automatycznie"
 }
