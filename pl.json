@@ -1384,5 +1384,6 @@
     "ui.unit.gal": "Galony",
     "ui.unit.bar": "Bar",
     "ui.unit.kPa": "Kilopascal",
-    "ui.mainmenu.addmods": "DODAJ MODY"
+    "ui.mainmenu.addmods": "DODAJ MODY",
+    "ui.mainmenu.warningdetails": "Kliknij tutaj po szczegóły, oraz aby zatwierdzić."
 }
