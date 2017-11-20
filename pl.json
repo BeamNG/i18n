@@ -1393,5 +1393,6 @@
     "ui.modWizard.skinWizard.howTo": "Jak zrobić skórkę",
     "ui.modWizard.skinWizard.filesGenerated": "Pliki skórki zostały wygenerowane",
     "ui.modWizard.skinWizard.openFolder": "Kliknij tutaj aby otworzyć folder",
-    "ui.modWizard.skinWizard.editFile": "Aby edytować skórkę otwórz plik .dds w kompatybilnym edytorze, takim jak Paint.net."
+    "ui.modWizard.skinWizard.editFile": "Aby edytować skórkę otwórz plik .dds w kompatybilnym edytorze, takim jak Paint.net.",
+    "ui.modWizard.skinWizard.editSkin": "Gdy już otworzyłeś/aś folder możesz rozpocząć tworzenie tekstury. Zwyczajnie pomaluj gdzie tylko chcesz po białych elementach, a następnie zapisz swoją teksturę. Po kliknięciu \"dalej\" twoja tekstura zostanie załadowana do gry i będziesz mógł/mogła edytować ją w czasie rzeczywistym."
 }
