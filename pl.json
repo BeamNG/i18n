@@ -1355,5 +1355,6 @@
     "extensions.scenario.drift.passGoal": "Dobra robota! Twój wynik to {{driftPoints}} punktów.",
     "extensions.campaign.exploration.mapHint": "Wciśnij [action=pause] żeby wyświetlić mapę z dostępnymi misjami",
     "ui.fonts.primary": "Graj",
-    "ui.fonts.secondary": "Nowości"
+    "ui.fonts.secondary": "Nowości",
+    "ui.common.property.goals": "Cele"
 }
