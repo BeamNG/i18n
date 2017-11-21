@@ -1506,5 +1506,6 @@
     "ui.apps.vehicle_damage_app.name": "Wskaźnik Uszkodzenia Pojazdu",
     "ui.apps.engineinfo.name": "Informacje o silniku",
     "ui.apps.engine_dynamometer.name": "Wykres Mocy Silnika",
-    "ui.apps.esc_desired_yaw_rate_graph.name": "Wykres pożądanej odchyłki ESP"
+    "ui.apps.esc_desired_yaw_rate_graph.name": "Wykres pożądanej odchyłki ESP",
+    "ui.apps.escstiffness.name": "Sztywność ESP"
 }
