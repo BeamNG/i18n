@@ -1548,5 +1548,6 @@
     "ui.options.detectedLanguage": "Wykryte języki",
     "ui.options.communityTranslationsAckText": "Tłumaczenia są wykonane przez członków społeczności. BeamNG w żaden sposób nie odpowiada za jakość tłumaczenia (tj. nieodpowiednie lub błędne). Korzystaj na własną odpowiedzialność.",
     "ui.options.assistants": "Asysty prowadzenia",
-    "ui.options.aids": "Wspomagacze prowadzenia"
+    "ui.options.aids": "Wspomagacze prowadzenia",
+    "ui.options.gameplay.absBehavior": "ABS"
 }
