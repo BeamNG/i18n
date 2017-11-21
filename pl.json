@@ -1540,5 +1540,6 @@
     "ui.apps.thumbnail_generator.name": "Generator Miniaturek",
     "ui.playmodes.quickrace": "Próba czasowa",
     "ui.options.other": "Inne",
-    "ui.options.licenses": "Licencje"
+    "ui.options.licenses": "Licencje",
+    "ui.options.controls": "Sterowanie"
 }
