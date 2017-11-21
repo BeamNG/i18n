@@ -1464,5 +1464,8 @@
     "ui.quickrace.play": "Graj",
     "ui.quickrace.quickraceLevels": "Wybór mapy do próby czasowej",
     "ui.quickrace.quickraceTracks": "Wybór konfiguracji do próby czasowej",
-    "ui.quickrace.tracks.reversible": "Odwracalny"
+    "ui.quickrace.tracks.reversible": "Odwracalny",
+    "ui.quickrace.tracks.allowRollingStart": "Możliwy start lotny",
+    "ui.quickrace.tracks.laps": "Okrążenia",
+    "ui.quickrace.tracks.lap": "Okrążenie"
 }
