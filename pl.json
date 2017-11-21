@@ -1555,5 +1555,6 @@
     "ui.options.gameplay.escBehavior.tooltip": "Reguluje zachowanie systemu ESP. Zmiany aktywują się po ponownym załadowaniu samochodu.",
     "ui.options.gameplay.defaultGearboxBehavior.tooltip": "Reguluje domyślny tryb skrzyni biegów. Zmiany aktywują się po ponownym załadowaniu samochodu.",
     "ui.options.gameplay.autoClutch": "Asystent sprzęgła (manualna skrzynia biegów)",
-    "ui.options.gameplay.autoThrottle": "Asystent przepustnicy (manualna skrzynia biegów)"
+    "ui.options.gameplay.autoThrottle": "Asystent pedału przyspieszenia (manualna skrzynia biegów)",
+    "ui.options.gameplay.autoThrottle.tooltip": "Gdy jest włączony to przy jeździe z manualną skrzynią biegów automatycznie będzie sterować przepustnicą i odcinać gaz podczas zmiany na wyższy bieg oraz dobierać odpowiednie obroty silnika gdy będzie to wymagane."
 }
