@@ -1426,5 +1426,8 @@
     "ui.repository.category": "Kategoria",
     "ui.repository.categories": "Kategorie",
     "ui.repository.cat_all": "Wszystkie",
-    "ui.repository.cat_veh": "Pojazdy"
+    "ui.repository.cat_veh": "Pojazdy",
+    "ui.repository.cat_veh_land": "Lądowe",
+    "ui.repository.cat_veh_air": "Powietrzne",
+    "ui.repository.cat_veh_props": "Obiekty"
 }
