@@ -1063,10 +1063,10 @@
     "ui.options.communityTranslationsAgree": "Zgadzam się - aktywuj",
     "ui.options.currentLanguage": "Obecny język",
     "ui.options.gameplay": "Rozgrywka",
-    "ui.options.gameplay.autoClutch.tooltip": "Jeśli jest włączona, sprzęgło jest automatycznie sterowane w trybie realistycznym. Daje dobre przyśpieszenie samochodom, zapobiega stallingowi i nie przerywa biegów podczas ich zmiany.",
+    "ui.options.gameplay.autoClutch.tooltip": "Gdy jest włączony, sprzęgło w trybie realistycznym jest sterowane automatycznie. Ułatwia płynne ruszanie samochodem, zapobiega zgaśnięciu silnika i pilnuje by nie uszkodzić biegów podczas ich zmiany.",
     "ui.options.gameplay.competitiveScenarios": "Konkurencyjne warunki scenariuszy",
     "ui.options.gameplay.controlOnBlur": "Zezwalaj na sterowanie kontrolerem i działanie force feedback, gdy stracono skupienie okna gry",
-    "ui.options.gameplay.defaultGearboxBehavior": "Domyślne zachowanie skrzyni biegów",
+    "ui.options.gameplay.defaultGearboxBehavior": "Domyślny tryb skrzyni biegów",
     "ui.options.gameplay.defaultToCurrentVehicle": "Ustaw obecny pojazd jako domyślny",
     "ui.options.gameplay.enginesPreheated": "Rozpocznij z rozgrzanym silnikiem",
     "ui.options.gameplay.gameplay": "Rozgrywka",
@@ -1549,5 +1549,10 @@
     "ui.options.communityTranslationsAckText": "Tłumaczenia są wykonane przez członków społeczności. BeamNG w żaden sposób nie odpowiada za jakość tłumaczenia (tj. nieodpowiednie lub błędne). Korzystaj na własną odpowiedzialność.",
     "ui.options.assistants": "Asysty prowadzenia",
     "ui.options.aids": "Wspomagacze prowadzenia",
-    "ui.options.gameplay.absBehavior": "ABS"
+    "ui.options.gameplay.absBehavior": "ABS",
+    "ui.options.gameplay.absBehavior.tooltip": "Reguluje zachowanie systemu ABS. Zmiany aktywują się po ponownym załadowaniu samochodu.",
+    "ui.options.gameplay.escBehavior": "ESP",
+    "ui.options.gameplay.escBehavior.tooltip": "Reguluje zachowanie systemu ESP. Zmiany aktywują się po ponownym załadowaniu samochodu.",
+    "ui.options.gameplay.defaultGearboxBehavior.tooltip": "Reguluje domyślny tryb skrzyni biegów. Zmiany aktywują się po ponownym załadowaniu samochodu.",
+    "ui.options.gameplay.autoClutch": "Asystent sprzęgła (manualna przekładnia)"
 }
