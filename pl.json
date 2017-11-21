@@ -1485,5 +1485,7 @@
     "ui.quickrace.highscoresTotal": "Najlepsze Czasy - Czas Sumaryczny",
     "ui.modmanager.deactivateAll": "Wyłącz wszystkie mody",
     "ui.modmanager.id": "Specjalny Identyfikator",
-    "ui.modmanager.author": "Autor"
+    "ui.modmanager.author": "Autor",
+    "ui.modmanager.openInRepo": "Otwórz w repozytorium",
+    "ui.modmanager.openModFolderInExplorer": "Otwórz folder modów"
 }
