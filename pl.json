@@ -1446,5 +1446,6 @@
     "ui.repository.scheduled_date": "Aktualizacja zaplanowana na",
     "ui.repository.scheduled_reason": "Powód",
     "ui.repository.scheduled_status": "Status",
-    "ui.repository.scheduled_chking": "Sprawdzanie: {{checkingMod}}"
+    "ui.repository.scheduled_chking": "Sprawdzanie: {{checkingMod}}",
+    "ui.repository.scheduled_nothing": "Brak zaplanowanych aktualizacji"
 }
