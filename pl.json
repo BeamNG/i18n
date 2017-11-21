@@ -1490,5 +1490,6 @@
     "ui.modmanager.openModFolderInExplorer": "Otwórz folder modów",
     "ui.modmanager.local": "Lokalne",
     "ui.modmanager.show": "Pokaż",
-    "ui.modmanager.install_on": "Zainstalowano na"
+    "ui.modmanager.install_on": "Zainstalowano na",
+    "ui.credits.gameDesigners": "Projektanci gry"
 }
