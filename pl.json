@@ -1472,5 +1472,12 @@
     "ui.quickrace.tracks.proceduralInfo": "To samo ziarno w tej samej konfiguracji oznacza tą samą trasę.",
     "ui.quickrace.select": "Wybierz",
     "ui.quickrace.reverse": "Odwrócony",
-    "ui.quickrace.rollingStart": "Start lotny"
+    "ui.quickrace.rollingStart": "Start lotny",
+    "ui.quickrace.tod.noon": "Południe",
+    "ui.quickrace.tod.earlyNoon": "Wczesne popołudnie",
+    "ui.quickrace.tod.afternoon": "Popołudnie",
+    "ui.quickrace.tod.evening": "Wieczór",
+    "ui.quickrace.tod.sunset": "Zachód słońca",
+    "ui.quickrace.laps": "Okrążenia",
+    "ui.quickrace.country": "Kraj"
 }
