@@ -1433,5 +1433,11 @@
     "ui.repository.cat_veh_boats": "Łodzie",
     "ui.repository.cat_veh_config": "Konfiguracje",
     "ui.repository.cat_scenarios": "Scenariusze",
-    "ui.repository.cat_terrain": "Tereny, poziomy, mapy"
+    "ui.repository.cat_terrain": "Tereny, poziomy, mapy",
+    "ui.repository.cat_ui": "Aplikacje Interfejsu",
+    "ui.repository.cat_sound": "Dzwięki",
+    "ui.repository.cat_idplate": "Tablice Rejestracyjne",
+    "ui.repository.cat_yo-dawg-mod": "Mody modów",
+    "ui.repository.cat_skin": "Skórki",
+    "ui.repository.tagid": "Identyfikator Modu"
 }
