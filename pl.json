@@ -734,14 +734,14 @@
     "ui.appselect.categories.utility": " ",
     "ui.appselect.categories.vehicle_control": "Kontrola Pojazdu",
     "ui.appselect.categories.vehicle_info": "Informacje Pojazdu",
-    "ui.appselect.deselectAll": "Odznacz Wszystko",
+    "ui.appselect.deselectAll": "Odznacz wszystko",
     "ui.appselect.done": "Gotowe",
     "ui.appselect.downloadMore": "Pobierz więcej!",
     "ui.appselect.filters": "Filtry",
     "ui.appselect.official": "Oficjalny",
     "ui.appselect.reset": "Zresetuj Układ Interfejsu",
     "ui.appselect.search": "Szukaj",
-    "ui.appselect.selectAll": "Wybierz Wszystko",
+    "ui.appselect.selectAll": "Wybierz wszystko",
     "ui.campaigns.end.missions": "Misje",
     "ui.color.chrominess": "Metalizacja",
     "ui.color.colorPalette": "Paleta kolorów {{id}}",
@@ -1500,5 +1500,5 @@
     "ui.replay.stop": "Zatrzymaj",
     "ui.replay.rename": "Zmień nazwę",
     "ui.replay.remove": "Usuń",
-    "ui.replay.openReplayFolderInExplorer": "Otwórz folder powtórek"
+    "ui.replay.openReplayFolderInExplorer": "Otwórz folder z powtórkami"
 }
