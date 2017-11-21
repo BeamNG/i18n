@@ -1405,5 +1405,10 @@
     "ui.repository.no_mods_found": "Nie znaleziono wyników",
     "ui.repository.unsubscribe": "Odsubskrybuj",
     "ui.repository.rating": "Ocena",
-    "ui.repository.last_updated": "Ostatnio zaktualizowano"
+    "ui.repository.last_updated": "Ostatnio zaktualizowano",
+    "ui.repository.author": "Autor",
+    "ui.repository.filesize": "Rozmiar pliku",
+    "ui.repository.filters": "Filtry",
+    "ui.repository.search": "Szukaj",
+    "ui.repository.order_by": "Uporządkuj według"
 }
