@@ -1495,5 +1495,6 @@
     "ui.color.factory": "Fabryczne",
     "ui.color.hue": "Odcień",
     "ui.color.saturation": "Nasycenie",
-    "ui.color.brightness": "Jasność"
+    "ui.color.brightness": "Jasność",
+    "ui.replay.play": "Odtwarzaj"
 }
