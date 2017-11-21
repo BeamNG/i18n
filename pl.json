@@ -743,7 +743,7 @@
     "ui.appselect.search": "Szukaj",
     "ui.appselect.selectAll": "Wybierz Wszystko",
     "ui.campaigns.end.missions": "Misje",
-    "ui.color.chrominess": "Chromowanie",
+    "ui.color.chrominess": "Metalizacja",
     "ui.color.colorPalette": "Paleta kolorów {{id}}",
     "ui.color.colors": "Kolory",
     "ui.color.user": "Użytkownika",
@@ -1232,7 +1232,7 @@
     "ui.unit.mpg": "Mil na galon",
     "ui.unit.psi": "PSI",
     "ui.vehicleconfig.color": "Kolor",
-    "ui.vehicleconfig.filename": "Nazwa Pliku",
+    "ui.vehicleconfig.filename": "Nazwa pliku",
     "ui.vehicleconfig.licensePlate": "Tablica Rejestracyjna",
     "ui.vehicleconfig.load": "Załaduj",
     "ui.vehicleconfig.mouseOverUi": "Proszę trzymać kursor nad interfejsem podczas pisania, aby upewnić się, że działanie klawiatury jest skierowana do niego",
@@ -1240,7 +1240,7 @@
     "ui.vehicleconfig.parts": "Części",
     "ui.vehicleconfig.save": "Zapisz",
     "ui.vehicleconfig.simpleTree": "Proste drzewo",
-    "ui.vehicleconfig.subparts": "Podzespół",
+    "ui.vehicleconfig.subparts": "Podzespoły",
     "ui.vehicleconfig.tuning": "Tuning",
     "ui.vehicleconfig.vehicleconfig": "Dostosowanie pojazdu",
     "vehicle.bdebug.beamVisMode": "Zmieniono wizualizację belek: {{beamVisMode | translate}}",
@@ -1491,5 +1491,9 @@
     "ui.modmanager.local": "Lokalne",
     "ui.modmanager.show": "Pokaż",
     "ui.modmanager.install_on": "Zainstalowano na",
-    "ui.credits.gameDesigners": "Projektanci gry"
+    "ui.credits.gameDesigners": "Projektanci gry",
+    "ui.color.factory": "Fabryczne",
+    "ui.color.hue": "Odcień",
+    "ui.color.saturation": "Nasycenie",
+    "ui.color.brightness": "Jasność"
 }
