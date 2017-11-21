@@ -1538,5 +1538,7 @@
     "ui.apps.simple_brake_thermals.name": "Uproszczony wykaz termiki hamulców",
     "ui.apps.simple_powertrain_control.name": "Uproszczony kontroler przeniesienia napędu",
     "ui.apps.thumbnail_generator.name": "Generator Miniaturek",
-    "ui.playmodes.quickrace": "Próba czasowa"
+    "ui.playmodes.quickrace": "Próba czasowa",
+    "ui.options.other": "Inne",
+    "ui.options.licenses": "Licencje"
 }
