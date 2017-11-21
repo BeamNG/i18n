@@ -1461,5 +1461,8 @@
     "ui.quickrace.changeConfig": "Zmień Konfigurację",
     "ui.quickrace.selectTrack": "Wybierz Konfigurację",
     "ui.quickrace.selectVehicle": "Wybierz Pojazd",
-    "ui.quickrace.play": "Graj"
+    "ui.quickrace.play": "Graj",
+    "ui.quickrace.quickraceLevels": "Wybór mapy do próby czasowej",
+    "ui.quickrace.quickraceTracks": "Wybór konfiguracji do próby czasowej",
+    "ui.quickrace.tracks.reversible": "Odwracalny"
 }
