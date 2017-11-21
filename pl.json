@@ -1481,5 +1481,6 @@
     "ui.quickrace.laps": "Okrążenia",
     "ui.quickrace.country": "Kraj",
     "ui.quickrace.brand": "Marka",
-    "ui.quickrace.derby": "Klasa pojazdu"
+    "ui.quickrace.derby": "Klasa pojazdu",
+    "ui.quickrace.highscoresTotal": "Najlepsze czasy - czas całkowity"
 }
