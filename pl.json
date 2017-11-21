@@ -1415,5 +1415,6 @@
     "ui.repository.option_reviews": "Recenzje",
     "ui.repository.option_title": "Tytuł",
     "ui.repository.option_update": "Aktualizuj",
-    "ui.repository.option_size": "Rozmiar"
+    "ui.repository.option_size": "Rozmiar",
+    "ui.repository.option_downloads": "Pobrania"
 }
