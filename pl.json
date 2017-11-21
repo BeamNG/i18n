@@ -1480,5 +1480,6 @@
     "ui.quickrace.tod.sunset": "Zachód słońca",
     "ui.quickrace.laps": "Okrążenia",
     "ui.quickrace.country": "Kraj",
-    "ui.quickrace.brand": "Marka"
+    "ui.quickrace.brand": "Marka",
+    "ui.quickrace.derby": "Klasa pojazdu"
 }
