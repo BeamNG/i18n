@@ -1496,5 +1496,8 @@
     "ui.color.hue": "Odcień",
     "ui.color.saturation": "Nasycenie",
     "ui.color.brightness": "Jasność",
-    "ui.replay.play": "Odtwarzaj"
+    "ui.replay.play": "Odtwórz",
+    "ui.replay.stop": "Zatrzymaj",
+    "ui.replay.rename": "Zmień nazwę",
+    "ui.replay.remove": "Usuń"
 }
