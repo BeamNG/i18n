@@ -1453,5 +1453,6 @@
     "ui.repository.scheduled_conflicts": "Konflikty",
     "ui.repository.scheduled_no_conflict": "Brak konfliktów",
     "ui.repository.subToMod": "Subskrybuj moda",
-    "ui.repository.unSubMod": "Odsubskrybuj moda"
+    "ui.repository.unSubMod": "Odsubskrybuj moda",
+    "ui.repository.updateMod": "Mod musi zostać zaktualizowany"
 }
