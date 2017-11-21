@@ -1410,5 +1410,8 @@
     "ui.repository.filesize": "Rozmiar pliku",
     "ui.repository.filters": "Filtry",
     "ui.repository.search": "Szukaj",
-    "ui.repository.order_by": "Uporządkuj według"
+    "ui.repository.order_by": "Uporządkuj według",
+    "ui.repository.option_rating": "Oceny",
+    "ui.repository.option_reviews": "Opinii",
+    "ui.repository.option_title": "Tytułu"
 }
