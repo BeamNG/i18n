@@ -1059,7 +1059,7 @@
     "ui.options.camera.positionOffset": "Przesunięcie Pozycji",
     "ui.options.camera.relaxation": "Złagodzenie",
     "ui.options.camera.transitionTime": "Czas Zmiany Kamery",
-    "ui.options.communityTranslations": "Tłumaczenie społeczności",
+    "ui.options.communityTranslations": "Tłumaczenia społeczności",
     "ui.options.communityTranslationsAgree": "Zgadzam się - aktywuj",
     "ui.options.currentLanguage": "Obecny język",
     "ui.options.gameplay": "Rozgrywka",
@@ -1541,5 +1541,7 @@
     "ui.playmodes.quickrace": "Próba czasowa",
     "ui.options.other": "Inne",
     "ui.options.licenses": "Licencje",
-    "ui.options.controls": "Sterowanie"
+    "ui.options.controls": "Sterowanie",
+    "ui.options.userInterface.editApps": "Dostosuj aplikacje interfejsu",
+    "ui.options.language": "Język"
 }
