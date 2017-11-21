@@ -1429,5 +1429,8 @@
     "ui.repository.cat_veh": "Pojazdy",
     "ui.repository.cat_veh_land": "Lądowe",
     "ui.repository.cat_veh_air": "Powietrzne",
-    "ui.repository.cat_veh_props": "Obiekty"
+    "ui.repository.cat_veh_props": "Obiekty",
+    "ui.repository.cat_veh_boats": "Łodzie",
+    "ui.repository.cat_veh_config": "Konfiguracje",
+    "ui.repository.cat_scenarios": "Scenariusze"
 }
