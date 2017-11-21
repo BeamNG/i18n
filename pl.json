@@ -1403,5 +1403,7 @@
     "ui.repository.subscribed": "Zasubskrybowano: Aktualizacje będą pobierać się automatycznie",
     "ui.repository.mods": "Mody",
     "ui.repository.no_mods_found": "Nie znaleziono wyników",
-    "ui.repository.unsubscribe": "Odsubskrybuj"
+    "ui.repository.unsubscribe": "Odsubskrybuj",
+    "ui.repository.rating": "Ocena",
+    "ui.repository.last_updated": "Ostatnio zaktualizowany"
 }
