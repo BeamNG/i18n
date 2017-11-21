@@ -1513,5 +1513,6 @@
     "ui.apps.ffb_graph.name": "Wykaz Sprzężenia Zwrotnego (FFB)",
     "ui.apps.clock_debug.name": "Debugger Zegara",
     "ui.apps.hotlapping.name": "Próba Czasowa",
-    "ui.apps.json_dump.name": "Zrzut do JSON"
+    "ui.apps.json_dump.name": "Zrzut do JSON",
+    "ui.apps.special_vehicle_keys.name": "Klawisze specjalne pojazdu"
 }
