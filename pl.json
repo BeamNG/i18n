@@ -1454,5 +1454,10 @@
     "ui.repository.scheduled_no_conflict": "Brak konfliktów",
     "ui.repository.subToMod": "Subskrybuj moda",
     "ui.repository.unSubMod": "Odsubskrybuj moda",
-    "ui.repository.updateMod": "Mod musi zostać zaktualizowany"
+    "ui.repository.updateMod": "Mod musi zostać zaktualizowany",
+    "ui.repository.modDownloading": "Pobieranie moda",
+    "ui.repository.modUnpacked": "Mod odpakowany",
+    "ui.quickrace.finished": "Zakończono",
+    "ui.quickrace.changeConfig": "Zmień Konfigurację",
+    "ui.quickrace.selectTrack": "Wybierz Konfigurację"
 }
