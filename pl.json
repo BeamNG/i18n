@@ -1235,7 +1235,7 @@
     "ui.vehicleconfig.filename": "Nazwa pliku",
     "ui.vehicleconfig.licensePlate": "Tablica Rejestracyjna",
     "ui.vehicleconfig.load": "Załaduj",
-    "ui.vehicleconfig.mouseOverUi": "Proszę trzymać kursor nad interfejsem podczas pisania, aby upewnić się, że działanie klawiawiatury zostanie zarejestrowane.",
+    "ui.vehicleconfig.mouseOverUi": "Proszę trzymać kursor nad interfejsem podczas pisania, aby upewnić się, że działanie klawiatury zostanie poprawnie zarejestrowane.",
     "ui.vehicleconfig.overwrite": "Nadpisz",
     "ui.vehicleconfig.parts": "Części",
     "ui.vehicleconfig.save": "Zapisz",
