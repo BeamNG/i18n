@@ -1543,5 +1543,8 @@
     "ui.options.licenses": "Licencje",
     "ui.options.controls": "Sterowanie",
     "ui.options.userInterface.editApps": "Dostosuj aplikacje interfejsu",
-    "ui.options.language": "Język"
+    "ui.options.language": "Język",
+    "ui.options.availableLanguages": "Dostępne języki",
+    "ui.options.detectedLanguage": "Wykryte języki",
+    "ui.options.communityTranslationsAckText": "Tłumaczenia są wykonane przez członków społeczności. BeamNG nie odpowiada za tłumaczenia w jakikolwiek sposób (tzn. nieodpowiednie lub błędne). Korzystaj na własną odpowiedzialność."
 }
