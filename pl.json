@@ -1132,7 +1132,7 @@
     "ui.options.userInterface.enableAdvanced": "Włącz zaawansowane funkcje",
     "ui.options.userInterface.garageAutoSave": "Automatyczny zapis pojazdu w garażu",
     "ui.options.userInterface.language": "Język",
-    "ui.options.userInterface.showCustomVehicles": "Pokaż konfiguracje użytkownika w selektorze pojazdów",
+    "ui.options.userInterface.showCustomVehicles": "Pokaż niestandardowe konfiguracje w selektorze pojazdów",
     "ui.options.userInterface.unitSystem": "Układ Jednostek",
     "ui.options.utilities": "Narzędzia",
     "ui.options.utilities.g27ShiftLed": "Logitech G27 diodowy wskaźnik zmiany biegów",
@@ -1546,5 +1546,7 @@
     "ui.options.language": "Język",
     "ui.options.availableLanguages": "Dostępne języki",
     "ui.options.detectedLanguage": "Wykryte języki",
-    "ui.options.communityTranslationsAckText": "Tłumaczenia są wykonane przez członków społeczności. BeamNG nie odpowiada za tłumaczenia w jakikolwiek sposób (tzn. nieodpowiednie lub błędne). Korzystaj na własną odpowiedzialność."
+    "ui.options.communityTranslationsAckText": "Tłumaczenia są wykonane przez członków społeczności. BeamNG w żaden sposób nie odpowiada za jakość tłumaczenia (tj. nieodpowiednie lub błędne). Korzystaj na własną odpowiedzialność.",
+    "ui.options.assistants": "Asysty prowadzenia",
+    "ui.options.aids": "Wspomagacze prowadzenia"
 }
