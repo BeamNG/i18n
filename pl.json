@@ -1432,5 +1432,6 @@
     "ui.repository.cat_veh_props": "Obiekty",
     "ui.repository.cat_veh_boats": "Łodzie",
     "ui.repository.cat_veh_config": "Konfiguracje",
-    "ui.repository.cat_scenarios": "Scenariusze"
+    "ui.repository.cat_scenarios": "Scenariusze",
+    "ui.repository.cat_terrain": "Tereny, poziomy, mapy"
 }
