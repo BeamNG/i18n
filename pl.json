@@ -1422,5 +1422,8 @@
     "ui.repository.filter_apply": "Zatwierdź ",
     "ui.repository.filter_top_downloaded": "Najczęściej Pobierane",
     "ui.repository.filter_top_rated": "Najwyżej Oceniane",
-    "ui.repository.filter_subscribed_only": "Tylko subskrybowane"
+    "ui.repository.filter_subscribed_only": "Tylko subskrybowane",
+    "ui.repository.category": "Kategoria",
+    "ui.repository.categories": "Kategorie",
+    "ui.repository.cat_all": "Wszystkie"
 }
