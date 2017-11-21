@@ -1500,5 +1500,6 @@
     "ui.replay.stop": "Zatrzymaj",
     "ui.replay.rename": "Zmień nazwę",
     "ui.replay.remove": "Usuń",
-    "ui.replay.openReplayFolderInExplorer": "Otwórz folder z powtórkami"
+    "ui.replay.openReplayFolderInExplorer": "Otwórz folder z powtórkami",
+    "ui.appselect.noCockpit": "Ukryj w widoku z kokpitu"
 }
