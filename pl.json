@@ -1488,5 +1488,6 @@
     "ui.modmanager.author": "Autor",
     "ui.modmanager.openInRepo": "Otwórz w repozytorium",
     "ui.modmanager.openModFolderInExplorer": "Otwórz folder modów",
-    "ui.modmanager.local": "Lokalne"
+    "ui.modmanager.local": "Lokalne",
+    "ui.modmanager.show": "Pokaż"
 }
