@@ -668,7 +668,7 @@
     "ui.actions.spawn": "Załaduj Samochód",
     "ui.apps.aicontrol.name": "Kontrola SI",
     "ui.apps.automatic_gears.name": "Automatyczne Biegi",
-    "ui.apps.brake_thermal_debug.name": "Debug Termiki Hamulców",
+    "ui.apps.brake_thermal_debug.name": "Debugger Termiki Hamulców",
     "ui.apps.brake_torque_graph.name": "Wykres Siły Hamowania",
     "ui.apps.categories.debug": "Debug",
     "ui.apps.categories.info": "Informacyjne",
@@ -689,7 +689,7 @@
     "ui.apps.engine_damage_app.name": "Wskaźnik Uszkodzeń Silnika",
     "ui.apps.engine_debug.name": "Debug Silnika",
     "ui.apps.engine_heat_debug_graph.name": "Wykres Temperatury Silnika",
-    "ui.apps.engine_thermal_debug.name": "Debug Termiki Silnika",
+    "ui.apps.engine_thermal_debug.name": "Debugger Termiki Silnika",
     "ui.apps.esc_activity_graph.name": "Wykaz Aktywności ESC",
     "ui.apps.forced_induction_debug.name": "Debug Doładowania",
     "ui.apps.g-forces.name": "Przeciążenia",
@@ -1501,5 +1501,10 @@
     "ui.replay.rename": "Zmień nazwę",
     "ui.replay.remove": "Usuń",
     "ui.replay.openReplayFolderInExplorer": "Otwórz folder z powtórkami",
-    "ui.appselect.noCockpit": "Ukryj w widoku z kokpitu"
+    "ui.appselect.noCockpit": "Ukryj w widoku z kokpitu",
+    "ui.apps.absdebug.name": "Debugger Systemu ABS",
+    "ui.apps.vehicle_damage_app.name": "Wskaźnik Uszkodzenia Pojazdu",
+    "ui.apps.engineinfo.name": "Informacje o silniku",
+    "ui.apps.engine_dynamometer.name": "Wykres Mocy Silnika",
+    "ui.apps.esc_desired_yaw_rate_graph.name": "Wykres pożądanej odchyłki ESP"
 }
