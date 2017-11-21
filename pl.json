@@ -1467,5 +1467,7 @@
     "ui.quickrace.tracks.reversible": "Odwracalny",
     "ui.quickrace.tracks.allowRollingStart": "Możliwy start lotny",
     "ui.quickrace.tracks.laps": "Okrążenia",
-    "ui.quickrace.tracks.lap": "Okrążenie"
+    "ui.quickrace.tracks.lap": "Okrążenie",
+    "ui.quickrace.tracks.procedural": "Tor generowany proceduralnie",
+    "ui.quickrace.tracks.proceduralInfo": "To samo ziarno w tej samej konfiguracji oznacza tą samą trasę."
 }
