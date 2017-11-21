@@ -691,11 +691,11 @@
     "ui.apps.engine_heat_debug_graph.name": "Wykres Temperatury Silnika",
     "ui.apps.engine_thermal_debug.name": "Debugger Termiki Silnika",
     "ui.apps.esc_activity_graph.name": "Wykaz Aktywności ESC",
-    "ui.apps.forced_induction_debug.name": "Debug Doładowania",
+    "ui.apps.forced_induction_debug.name": "Debugger Doładowania",
     "ui.apps.g-forces.name": "Przeciążenia",
-    "ui.apps.gearbox_debug.name": "Debug skrzyni biegów",
+    "ui.apps.gearbox_debug.name": "Debugger skrzyni biegów",
     "ui.apps.gears.name": "Biegi",
-    "ui.apps.indicated_airspeed.name": "Prędkość Powietrzna",
+    "ui.apps.indicated_airspeed.name": "Prędkość powietrzna z poprawką",
     "ui.apps.log_all_available_streams.name": "Zapisuj wszystkie dostępne strumienie",
     "ui.apps.messages.name": "Wiadomości",
     "ui.apps.navigation.name": "Nawigacja",
@@ -1507,5 +1507,11 @@
     "ui.apps.engineinfo.name": "Informacje o silniku",
     "ui.apps.engine_dynamometer.name": "Wykres Mocy Silnika",
     "ui.apps.esc_desired_yaw_rate_graph.name": "Wykres pożądanej odchyłki ESP",
-    "ui.apps.escstiffness.name": "Sztywność ESP"
+    "ui.apps.escstiffness.name": "Sztywność ESP",
+    "ui.apps.forcedinduction.name": "Doładowanie",
+    "ui.apps.ffb_visualizer.name": "Wizualizer Sprzężenia Zwrotnego (FFB)",
+    "ui.apps.ffb_graph.name": "Wykaz Sprzężenia Zwrotnego (FFB)",
+    "ui.apps.clock_debug.name": "Debugger Zegara",
+    "ui.apps.hotlapping.name": "Próba Czasowa",
+    "ui.apps.json_dump.name": "Zrzut do JSON"
 }
