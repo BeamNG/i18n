@@ -1425,5 +1425,6 @@
     "ui.repository.filter_subscribed_only": "Tylko subskrybowane",
     "ui.repository.category": "Kategoria",
     "ui.repository.categories": "Kategorie",
-    "ui.repository.cat_all": "Wszystkie"
+    "ui.repository.cat_all": "Wszystkie",
+    "ui.repository.cat_veh": "Pojazdy"
 }
