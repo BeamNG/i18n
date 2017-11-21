@@ -1416,5 +1416,11 @@
     "ui.repository.option_title": "Tytuł",
     "ui.repository.option_update": "Aktualizuj",
     "ui.repository.option_size": "Rozmiar",
-    "ui.repository.option_downloads": "Pobrania"
+    "ui.repository.option_downloads": "Pobrania",
+    "ui.repository.option_ascending": "Rosnąco",
+    "ui.repository.option_descending": "Malejąco",
+    "ui.repository.filter_apply": "Zatwierdź ",
+    "ui.repository.filter_top_downloaded": "Najczęściej Pobierane",
+    "ui.repository.filter_top_rated": "Najwyżej Oceniane",
+    "ui.repository.filter_subscribed_only": "Tylko subskrybowane"
 }
