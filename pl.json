@@ -1499,5 +1499,6 @@
     "ui.replay.play": "Odtwórz",
     "ui.replay.stop": "Zatrzymaj",
     "ui.replay.rename": "Zmień nazwę",
-    "ui.replay.remove": "Usuń"
+    "ui.replay.remove": "Usuń",
+    "ui.replay.openReplayFolderInExplorer": "Otwórz folder powtórek"
 }
