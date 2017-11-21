@@ -1487,5 +1487,6 @@
     "ui.modmanager.id": "Specjalny Identyfikator",
     "ui.modmanager.author": "Autor",
     "ui.modmanager.openInRepo": "Otwórz w repozytorium",
-    "ui.modmanager.openModFolderInExplorer": "Otwórz folder modów"
+    "ui.modmanager.openModFolderInExplorer": "Otwórz folder modów",
+    "ui.modmanager.local": "Lokalne"
 }
