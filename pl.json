@@ -1439,5 +1439,11 @@
     "ui.repository.cat_idplate": "Tablice Rejestracyjne",
     "ui.repository.cat_yo-dawg-mod": "Mody modów",
     "ui.repository.cat_skin": "Skórki",
-    "ui.repository.tagid": "Identyfikator Modu"
+    "ui.repository.tagid": "Identyfikator Modu",
+    "ui.repository.shortcuts": "Skróty",
+    "ui.repository.updates": "Aktualizacje",
+    "ui.repository.scheduled_chk": "Sprawdź aktualizacje",
+    "ui.repository.scheduled_date": "Aktualizacja zaplanowana na",
+    "ui.repository.scheduled_reason": "Powód",
+    "ui.repository.scheduled_status": "Status"
 }
