@@ -697,7 +697,7 @@
     "engine.editor.menu.redo": "Göra om",
     "engine.editor.menu.edit": "Redigera",
     "engine.editor.menu.select": "Välj...",
-    "engine.editor.menu.audioParams": "Ljud Parametrar...",
+    "engine.editor.menu.audioParams": "Ljudparametrar...",
     "engine.editor.menu.camera.right": "Höger",
     "engine.editor.menu.cameraspeed.slow": "Sakta",
     "engine.editor.menu.toggleCamera": "Växla Kamera",
@@ -790,7 +790,7 @@
     "engine.editor.menu.cut": "Klipp",
     "engine.editor.menu.paste": "Infoga",
     "engine.editor.menu.gameOptions": "Spelalternativ...",
-    "engine.editor.menu.postfxManager": "Eftereffekt-redigeraren",
+    "engine.editor.menu.postfxManager": "Eftereffekts-redigerare",
     "engine.editor.menu.standartCamera": "Standard",
     "engine.editor.menu.cameratype.firstPerson": "Första person",
     "engine.editor.menu.cameratype.thirdPerson": "Tredje person",
@@ -1037,7 +1037,7 @@
     "engine.editor.menu.smoothedRotateCamera": "Mjuk rotation",
     "ui.common.reset": "Återställ",
     "ui.unit.kw": "Kilowatt",
-    "engine.editor.menu.camera.top": "Toppen",
+    "engine.editor.menu.camera.top": "Fågel-perspektiv",
     "engine.editor.menu.camera.bottom": "Botten",
     "engine.editor.menu.camera.front": "Front",
     "engine.editor.menu.camera.back": "Bakre",
@@ -1137,5 +1137,7 @@
     "engine.editor.menu.visibilityLayers": "Synliga lager",
     "engine.editor.menu.smoothedCamera": "Mjuk",
     "vehicle.recovery.recovering": "Fordonet återställs...",
-    "engine.nodegrab.fixedwarning": "CTRL + Mittersta musknappen för att lossa knutpunkter"
+    "engine.nodegrab.fixedwarning": "CTRL + Mellersta musknappen för att lossa knutpunkter",
+    "engine.nodegrab.uncoupling": "Lossar alla fästa knutpunkter",
+    "engine.editor.menu.orbitCamera": "Cirkulerande kamera"
 }
