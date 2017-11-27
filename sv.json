@@ -36,7 +36,7 @@
     "engine.resourceMissing": "Kunde inte skapa resurs (är filen borta?): ",
     "engine.welcome": "Välkommen till BeamNG.drive på Svenska :)",
     "engine.windowedModeReq.msgEditor": "Vänligen lämna Uppdragsskaparen för att byta till fullskärm.",
-    "engine.windowedModeReq.msgGUI": "Vänligen gå ur GUI Ändraren för att byta till fullskärm.",
+    "engine.windowedModeReq.msgGUI": "Vänligen gå ur GUI-redigeraren för att byta till fullskärm.",
     "engine.windowedModeReq.title": "Fönsterläge krävs",
     "extensions.scenario.damageGoal.checkDamage.fail.msg": "Försiktigt! Din bil är {{damage}}% skadad",
     "extensions.scenario.damageGoal.fail.msg": "Du skadade din bil",
