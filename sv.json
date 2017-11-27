@@ -1176,5 +1176,6 @@
     "ui.actions.enter": "Öppna panel",
     "ui.actions.switchLeft": "Byt vänster",
     "ui.actions.menuLeft": "Meny vänster",
-    "ui.actions.menuRight": "Meny höger"
+    "ui.actions.menuRight": "Meny höger",
+    "ui.unit.mi": "Engelsk mil"
 }
