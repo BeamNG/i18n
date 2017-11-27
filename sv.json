@@ -1141,5 +1141,12 @@
     "engine.nodegrab.uncoupling": "Lossar alla fästa knutpunkter",
     "engine.editor.menu.orbitCamera": "Cirkulerande kamera",
     "engine.editor.menu.deselect": "Avmarkera",
-    "engine.nodegrab.coupling": "Kopplar de två knutpunkterna"
+    "engine.nodegrab.coupling": "Kopplar de två knutpunkterna",
+    "engine.editor.menu.editorSettings": "Editor-inställningar...",
+    "engine.editor.menu.snapOptions": "",
+    "engine.editor.menu.gridOrtho": "Visa rutnät i Ortho-vy",
+    "engine.editor.menu.gameCamera": "Spelkamera",
+    "engine.editor.menu.placeCameraSelection": "Placera kameran på valt objekt",
+    "engine.editor.menu.cameraTranslation": "",
+    "engine.editor.menu.fitViewSelection": "Anpassa vy till valt objekt"
 }
