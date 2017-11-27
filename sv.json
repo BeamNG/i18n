@@ -1148,5 +1148,6 @@
     "engine.editor.menu.gameCamera": "Spelkamera",
     "engine.editor.menu.placeCameraSelection": "Placera kameran på valt objekt",
     "engine.editor.menu.cameraTranslation": "",
-    "engine.editor.menu.fitViewSelection": "Anpassa vy till valt objekt"
+    "engine.editor.menu.fitViewSelection": "Anpassa vy till valt objekt",
+    "engine.editor.menu.editors": "Redigerare"
 }
