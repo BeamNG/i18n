@@ -617,7 +617,7 @@
     "ui.options.units.weight": "Vikt",
     "ui.options.userInterface": "Användargränssnitt",
     "ui.options.userInterface.enableAdvanced": "Aktivera avancerade funktioner",
-    "ui.options.userInterface.garageAutoSave": "Autospara fordon i garaget",
+    "ui.options.userInterface.garageAutoSave": "Spara fordon i garaget automatiskt",
     "ui.options.userInterface.language": "Språk",
     "ui.options.utilities": "Verktyg",
     "ui.options.utilities.g27ShiftLed": "Logitech G27 Växlingsindikator LEDs",
@@ -1177,5 +1177,10 @@
     "ui.actions.switchLeft": "Byt vänster",
     "ui.actions.menuLeft": "Meny vänster",
     "ui.actions.menuRight": "Meny höger",
-    "ui.unit.mi": "Engelsk mil"
+    "ui.unit.mi": "Engelsk mil",
+    "ui.unit.lb": "Pounds",
+    "ui.scenarios.difficulty.hard": "Svår",
+    "levels.smallgrid_soundtest.info.description": "Ett tomt rutnät så långt ögat når",
+    "levels.smallgrid_soundtest.info.roads": "",
+    "ui.controls.ffbHardwareMissing": "Ingen force feedback-hårdvara hittad"
 }
