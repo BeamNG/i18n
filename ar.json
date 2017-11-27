@@ -1554,5 +1554,6 @@
     "engine.editor.menu.resetTransforms": "تراجع عن الغييرات",
     "engine.editor.menu.resetSelRot": "اعادة ضبط دوران المحدد",
     "engine.editor.menu.transformSel": "تحويل المختارات",
-    "ui.common.test": "تجربة"
+    "ui.common.test": "تجربة",
+    "ui.quickrace.highscoresSingle": "أفضل الأوقات - اللفة واحدة"
 }
