@@ -511,7 +511,7 @@
     "ui.hints.smokingWheels": "Om rök kommer från hjulen så är det troligt att bromsarna har överhettats.",
     "ui.hints.snapOversteer": "Bilar med mer vikt på bakhjulen har en tendens att först understyra när du gasar, och sedan överstyra plötsligt.",
     "ui.hints.spatialNavigation": "Du kan navigera genom menyn med en kontroller [action=menu_item_left] [action=menu_item_up] [action=menu_item_right] [action=menu_item_down] [action=menu_item_select].",
-    "ui.hints.stabilityControlPresent": "ESC finns bara i moderna bilar. Äldre bilar är svårare att kontrollera i höga hastigheter.",
+    "ui.hints.stabilityControlPresent": "Elektronisk stabilitetskontroll (ESC) finns bara i moderna bilar. Äldre bilar är svårare att kontrollera i höga hastigheter.",
     "ui.hints.startSlow": "Det är lätt att köra brett i kurvor när man framför ett fordon för första gången, börja långsamt och öka hastigheten allt eftersom för att lära dig ett fordons köregenskaper.",
     "ui.hints.thermalDebugApp": "Lär dig mer om motorsimulering, lägg till \"Termisk Motor Debug\" appen på skärmen.",
     "ui.hints.tiresBurstOnBumps": "Alla däck är inte gjorda för höga hastigheter och belastningar. Vissa kommer att gå sönder när de träffar gupp för snabbt.",
