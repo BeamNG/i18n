@@ -28,7 +28,7 @@
     "engine.editor.menu.xAxis": "X-axel",
     "engine.editor.menu.zAxis": "Z-axel",
     "engine.engineFail": "Misslyckades att starta spelet, stänger av.",
-    "engine.invalidUserpath.msg": "BeamNG.drive kan inte komma åt den UserPath som definierats i startup.ini filen (spelmappen). Byt till en giltig sökväg: ",
+    "engine.invalidUserpath.msg": "BeamNG.drive kan inte komma åt den UserPath som definierats i \"startup.ini\"-filen (spelmappen). Byt till en giltig sökväg: ",
     "engine.invalidUserpath.title": "Ogiltig användarväg",
     "engine.levelModified.msg": "Banan har modifierats i skaparen. Vill du spara?",
     "engine.levelModified.title": "Bana Modifierad",
