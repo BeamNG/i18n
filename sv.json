@@ -1139,5 +1139,6 @@
     "vehicle.recovery.recovering": "Fordonet återställs...",
     "engine.nodegrab.fixedwarning": "CTRL + Mellersta musknappen för att lossa knutpunkter",
     "engine.nodegrab.uncoupling": "Lossar alla fästa knutpunkter",
-    "engine.editor.menu.orbitCamera": "Cirkulerande kamera"
+    "engine.editor.menu.orbitCamera": "Cirkulerande kamera",
+    "engine.editor.menu.deselect": "Avmarkera"
 }
