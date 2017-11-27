@@ -1526,5 +1526,6 @@
     "engine.editor.menu.delete": "حذف",
     "engine.editor.menu.select": "اختيار...",
     "engine.editor.menu.audioParams": "المؤشرات الصوتية ...",
-    "engine.editor.menu.editorSettings": "إعدادات المحرر ..."
+    "engine.editor.menu.editorSettings": "إعدادات المحرر ...",
+    "engine.editor.menu.camera.isometric": "متساوي القياس"
 }
