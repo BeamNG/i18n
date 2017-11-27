@@ -1171,5 +1171,10 @@
     "ui.fonts.fallback": "Roboto",
     "ui.common.retry": "Försök igen",
     "ui.common.cancel": "Avbryt",
-    "ui.common.finish": "Mål"
+    "ui.common.finish": "Mål",
+    "ui.common.off": "Av",
+    "ui.actions.enter": "Öppna panel",
+    "ui.actions.switchLeft": "Byt vänster",
+    "ui.actions.menuLeft": "Meny vänster",
+    "ui.actions.menuRight": "Meny höger"
 }
