@@ -1947,5 +1947,6 @@
     "levels.east_coast_usa.info.biome": "Mierny, Prímorský, Les",
     "levels.industrial.info.biome": "Mierny, Trávnatá plocha, Prímorský",
     "levels.menu.info.biome": "mierny, les, prímorský",
-    "levels.port.info.biome": "Mierny, Trávnatá plocha, Prímorský"
+    "levels.port.info.biome": "Mierny, Trávnatá plocha, Prímorský",
+    "scenarios.small_island.intro_reach_hill.title": "Púť naprieč ostrovom"
 }
