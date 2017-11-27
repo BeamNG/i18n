@@ -751,7 +751,7 @@
     "ui.apps.hotlapping.name": "مدير دورات السباق",
     "ui.apps.indicated_airspeed.name": "السرعة الجوية",
     "ui.apps.json_dump.name": "مكب JSON",
-    "ui.apps.log_all_available_streams.name": "Log all available streams",
+    "ui.apps.log_all_available_streams.name": "تسجيل كافة تيارات المتاحة",
     "ui.apps.messages.name": "الرسائل",
     "ui.apps.navigation.name": "ملاحة",
     "ui.apps.node_beam_info.name": "معلومات النقطة/الشعاع",
