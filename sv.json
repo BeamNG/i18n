@@ -3,7 +3,7 @@
     "campaigns.utah.chapter_1.bridge.title": "Bro",
     "campaigns.utah.chapter_1.title": "Sanslös Förstörelse",
     "campaigns.utah.chapter_2.summaryMessage": "Bra jobbat! Nu är du redo att gå vidare till nästa kapitel.",
-    "engine.cef.subprocessdied.msg": "Användargränssnittets Process svarade inte i tid.\nDetta kan hända om ett antivirus blockerar BeamNG.drive.ui.exe processen.\n\nDu kan så småningom få mer hjälp här:\n\nhttp://wiki.beamng.com/Errors/Unresponsive_UI_Process\n\nVill du öppna den här adressen i din webbläsare nu?",
+    "engine.cef.subprocessdied.msg": "Användargränssnittets process svarade inte i tid.\nDetta kan hända om ett antivirus blockerar BeamNG.drive.ui.exe processen.\n\nDu kan eventuellt få mer hjälp här:\n\nhttp://wiki.beamng.com/Errors/Unresponsive_UI_Process\n\nVill du öppna den här adressen i din webbläsare nu?",
     "engine.cef.subprocessdied.title": "Användargränssnittet svarar ej",
     "engine.cef.subprocessdied.url": "http://wiki.beamng.com/Errors/Unresponsive_UI_Process",
     "engine.editor.menu.camera": "Kamera",
@@ -1149,5 +1149,6 @@
     "engine.editor.menu.placeCameraSelection": "Placera kameran på valt objekt",
     "engine.editor.menu.cameraTranslation": "",
     "engine.editor.menu.fitViewSelection": "Anpassa vy till valt objekt",
-    "engine.editor.menu.editors": "Redigerare"
+    "engine.editor.menu.editors": "Redigerare",
+    "vehicle.bdebug.enabled": "Debug-ritning aktiverat"
 }
