@@ -1528,5 +1528,7 @@
     "engine.editor.menu.audioParams": "المؤشرات الصوتية ...",
     "engine.editor.menu.editorSettings": "إعدادات المحرر ...",
     "engine.editor.menu.camera.isometric": "متساوي القياس",
-    "engine.editor.menu.cameraspeed.faster": "أسرع"
+    "engine.editor.menu.cameraspeed.faster": "أسرع",
+    "engine.editor.menu.worldCamera": "الكاميرا الخارجية ",
+    "engine.editor.menu.toggleCamera": "تبديل الكاميرا"
 }
