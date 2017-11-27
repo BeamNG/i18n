@@ -1170,5 +1170,6 @@
     "ui.fonts.secondary": "Nyhetscykel",
     "ui.fonts.fallback": "Roboto",
     "ui.common.retry": "Försök igen",
-    "ui.common.cancel": "Avbryt"
+    "ui.common.cancel": "Avbryt",
+    "ui.common.finish": "Mål"
 }
