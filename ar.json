@@ -930,7 +930,7 @@
     "ui.debug.renderer.disableShadows": "الغاء الظلال",
     "ui.debug.renderer.toggleFps": "تغعيل عداد FPS",
     "ui.debug.renderer.visualization": "الهيئة",
-    "ui.debug.renderer.wireframeMode": "WireframeMode",
+    "ui.debug.renderer.wireframeMode": "الوضع السلكي",
     "ui.debug.terrain": "التضاريس",
     "ui.debug.terrain.groundmodel": "تصحيح النموذج الارضي",
     "ui.debug.terrain.staticCollision": "التصادم الثابت",
