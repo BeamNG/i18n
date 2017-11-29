@@ -1592,5 +1592,6 @@
     "engine.editor.menu.editors": "المحررات",
     "engine.editor.menu.atOrigin": "على الأصل",
     "engine.editor.menu.atCamera": "على الكاميرا",
-    "engine.editor.menu.atCamaraWoRot": "على الكاميرا مع الدوران"
+    "engine.editor.menu.atCamaraWoRot": "على الكاميرا مع الدوران",
+    "engine.editor.menu.screenCenter": "مركز الشاشة"
 }
