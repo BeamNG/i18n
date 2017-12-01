@@ -566,5 +566,6 @@
     "engine.engineFail": "ゲームのイニシャライズに失敗しました、シャットダウン中。",
     "engine.invalidUserpath.title": "ユーザーパスが無効",
     "engine.editor.loading": "ワールドエディターを読み込み中...",
-    "engine.editor.menu.file": "ファイル"
+    "engine.editor.menu.file": "ファイル",
+    "ui.mainmenu.repo": "リポジトリ"
 }
