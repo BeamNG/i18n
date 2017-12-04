@@ -1163,7 +1163,7 @@
     "engine.editor.menu.alignCenter": "Justera center",
     "engine.editor.menu.resetTransforms": "Återställ omvandlingar",
     "engine.editor.menu.resetSelRot": "Återställ vald rotation",
-    "engine.editor.menu.transformSel": "Förflytta valt objekt",
+    "engine.editor.menu.transformSel": "Förflytta valt objekt...",
     "engine.editor.menu.dropSel": "Släpp valt objekt",
     "engine.editor.menu.dropLocation": "Släpp valt objekt",
     "engine.editor.menu.makeSelPrefab": "Gör valt objekt till Prefab",
