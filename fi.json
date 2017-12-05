@@ -2005,7 +2005,7 @@
     "ui.modWizard.skinWizard.howTo": "Kuinka tehdä maalipintoja",
     "ui.modWizard.skinWizard.filesGenerated": "Maalipinnan tiedostot luotiin.",
     "ui.modWizard.skinWizard.openFolder": "Paina tästä avataksesi kansion",
-    "ui.modWizard.skinWizard.editFile": "Voit muokata maalipintaa avaamalla .dds tiedoston yhteensopivalla .dds-editorilla, kuten Paint.Netillä.",
+    "ui.modWizard.skinWizard.editFile": "Voit muokata maalipintaa avaamalla <skin_name>.dds tiedoston yhteensopivalla .dds-editorilla, kuten Paint.Netillä.",
     "ui.modWizard.skinWizard.editSkin": "Kun kansio on auki, voit aloittaa maalipinnan luomisen. Voit piirtää mitä haluat valkoisten alueiden päälle ja tallentaa maalipinnan. Kun painat seuraavaa, luomasi maalipinta latautuu pelin sisälle ja voit muokata sitä reaaliajassa.",
     "ui.levelselect.x86Disabled": "Käytä pelin 64-bittistä versiota pelataksesi tässä kentässä.",
     "ui.repository.mods": "Modit",
@@ -2106,5 +2106,7 @@
     "quickrace.west_coast_usa.highway_race.title": "Moottoritiekisa",
     "quickrace.west_coast_usa.highway_race.description": "Saavuta huippunopeus tällä mailin mittaisella moottoritiellä!",
     "campaigns.training.training.training_easycircuit.title": "Harjoitus 6: Helppo rata",
-    "vehicle.drivetrain.engineCatastrophicOverTorqueDamage": "Liiallinen vääntö: moottorilohko repesi"
+    "vehicle.drivetrain.engineCatastrophicOverTorqueDamage": "Liiallinen vääntö: moottorilohko repesi",
+    "engine.editor.menu.resaveLevel": "Tallenna kaikki uudelleen",
+    "ui.modWizard.skinWizard.viewSkin": "Katsele maalipintaa"
 }
