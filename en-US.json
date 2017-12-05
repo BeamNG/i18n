@@ -25,6 +25,7 @@
     "engine.editor.menu.openLevel": "Open Level...",
     "engine.editor.menu.saveLevel": "Save Level",
     "engine.editor.menu.saveLevelAs": "Save Level As...",
+    "engine.editor.menu.resaveLevel": "Resave everything",
     "engine.editor.menu.createBlankTerrain": "Create Blank Terrain",
     "engine.editor.menu.importTerrainHeightmap": "Import Terrain Heightmap",
     "engine.editor.menu.exportTerrainHeightmap": "Export Terrain Heightmap",
@@ -259,8 +260,11 @@
     "ui.modWizard.skinWizard.howTo": "How to Make Skins",
     "ui.modWizard.skinWizard.filesGenerated": "Skin files have been generated.",
     "ui.modWizard.skinWizard.openFolder": "Click here to open folder",
-    "ui.modWizard.skinWizard.editFile": "To edit the skin simple open the .dds file in a compatible .dds editor such as Paint.Net.",
-    "ui.modWizard.skinWizard.editSkin": "Once you have opened the folder you can begin creating your skin. Simply paint whatever you wish over the white sections and then save your skin. After clicking next your created skin will be loaded into the game and you will be able to edit it in realtime.",
+    "ui.modWizard.skinWizard.viewSkin": "View Skin",
+    "ui.modWizard.skinWizard.editFile": "To edit the skin simple open the <skin_name>.dds file in a compatible .dds editor such as Paint.Net.",
+    "ui.modWizard.skinWizard.desc": "For demonstration purposes we will be using SkinExample as our skin name. The two files that can be edited have been combined in the image to the right. Once you have opened the skin files, you can click next to load the skin ingame or finish to quit the wizard.",
+    "ui.modWizard.skinWizard.left": "The left side of the image is the \"SkinExample.dds\". This where the main part of your skin will be done. Simply paint over the white sections with the design of your choice.",
+    "ui.modWizard.skinWizard.right": "The right side of the image is the \"SkinExample_palette_uv1.dds\". This image is used to define which parts of your skin can be coloured by the ingame colour selector. Red is the first colour, Green is second colour and blue is the third colour. If it is transparent it will not be coloured.",
 
     "ui.mainmenu.onlineFeatures.featureTitle": "Enable Online features?",
     "ui.mainmenu.onlineFeatures.featureDescription": "You can choose to enable or disable all online functions in BeamNG.drive. This will affect:[br][list][*]In-game repository[*]Mod subscriptions[*]Achievements[*]Leaderboards[*]Chat features[*]Content sharing features[/list]By enabling the online features you agree to our [url=http://wiki.beamng.com/Privacy_Policy]Privacy Policy[/url] and our [url=http://wiki.beamng.com/TOS]Terms of Service[/url].[br][br]You can change this setting anytime in Options > Gameplay.",
@@ -357,16 +361,20 @@
     "ui.repository.scheduled_status" : "Status",
     "ui.repository.scheduled_chking" : "Checking mod: {{checkingMod}}",
     "ui.repository.scheduled_nothing" : "Currently there are no updates scheduled.",
-    "ui.repository.scheduled_network_limit" : "Your netword is restricted or metered. Mod update have been disabled.",
+    "ui.repository.repo_network_limit" : "Your network is restricted or metered. Please take this into consideration when downloading mods.",
     "ui.repository.scheduled_upd" : "Update mods",
     "ui.repository.scheduled_conflicts" : "Conflicts",
     "ui.repository.scheduled_no_conflict" : "No conflict",
+    "ui.modmanager.openForumDiscussion" : "Open Discussion thread",
+
 
     "ui.repository.subToMod" : "Subscribe to mod",
     "ui.repository.unSubMod" : "Unsubscribe from mod",
     "ui.repository.updateMod" : "Mod needs to be updated",
     "ui.repository.modDownloading" : "Mod downloading",
+    "ui.repository.modQueued" : "Queued",
     "ui.repository.modUnpacked" : "Unpacked mod",
+    "ui.repository.modDownloaded" : "Mod downloaded",
 
 
     "ui.quickrace.finished": "Finished",
@@ -431,7 +439,14 @@
     "ui.modmanager.local" : "Local",
     "ui.modmanager.show" : "Show",
     "ui.modmanager.install_on" : "Installed on",
-
+    "ui.modmanager.deleteAll": "Delete all Mods",
+    "ui.modmanager.deleteAllDesc": "Are you sure you want to unsubscribe and delete all mods?",
+    "ui.modmanager.updateAll": "Update all Mods",
+    "ui.modmanager.removeAndUnsub": "Remove and Unsubscribe from mod",
+    "ui.modmanager.downloading": "Downloading",
+    "ui.modmanager.downloaded": "Downloaded",
+    "ui.modmanager.installed": "Installed",
+    "ui.modmanager.unordered": "Unordered",
 
     "ui.environment.environment": "Environment",
     "ui.environment.timeOfDay": "Time Of Day",
@@ -685,6 +700,7 @@
     "ui.options.gameplay.gearboxSafety.tooltip": "If enabled, gearboxes will deny shifts that might cause damage as well as prevent certain mode changes for a more immersive racing experience. (For example shifting out of M mode is disallowed until you are below a certain speed)",
 
     "ui.options.gameplay.multiseat": "Use multiseat for this session",
+    "ui.options.gameplay.multiseatTags": "Display multiseat player tags",
     "ui.options.gameplay.traffic": "Enable traffic (experimental - extreme performance loss)",
     "ui.options.gameplay.traffic.tooltip": "Requires manually spawning the desired vehicles",
     "ui.options.gameplay.controlOnBlur": "Allow controller input and force feedback when window focus is lost",
@@ -750,6 +766,7 @@
     "ui.options.units.dateFormat": "Date Format",
 
     "ui.options.onlineFeatures": "Online Features",
+    "ui.options.modAutoUpdates": "Automatic mod updates",
 
     "ui.options.graphics": "Graphics",
     "ui.options.graphics.display": "Display",
@@ -2151,7 +2168,7 @@
     "vehicle.drivetrain.engineDamaged":"Engine damaged",
     "vehicle.drivetrain.engineMildOverrevDamage":"Overrev damage: Valvetrain damaged",
     "vehicle.drivetrain.engineCatastrophicOverrevDamage":"Overrev damage: Engine locked up",
-    "vehicle.drivetrain.engineCatastrophicOverTorqueDamage":"Overtorque damage: Engine block ruptured",
+    "vehicle.drivetrain.engineCatastrophicOverTorqueDamage":"Overtorque damage: Engine permanently damaged",
 
     "vehicle.beamstate.tireDeflated":"{{wheelName | translate}} tire deflated",
     "vehicle.beamstate.beamBroke": "Beam {{id}} just broke: {{id1name}} [{{id1}}]  ->  {{id2name}} [{{id2}}]",
@@ -2211,5 +2228,5 @@
     "vehicle.bdebug.enabled": "Debug drawing enabled",
     "vehicle.fire.fuelTankRuptured": "Fuel tank ruptured",
     "vehicle.turbocharger.overheating": "Turbo is overheating",
-    "vehicle.main.instability": "Instability detected for vehicle {{vehicle}}: resetting the vehicle and disabling the physics"
+    "vehicle.main.instability": "Instability detected in '{{vehicle}}'. Simulation paused preemptively"
 }
