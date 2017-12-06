@@ -325,5 +325,9 @@
     "engine.editor.menu.placeCameraSelection": "Τοποθέτησε την κάμερα στην επιλογή",
     "engine.editor.menu.placeCameraPlayer": "Τοποθέτησε την κάμερα στον παίχτη",
     "engine.editor.menu.placePlayerCamera": "Τοποθέτησε τον παίχτη στην κάμερα",
-    "engine.editor.menu.cameraTranslation": "Μετατροπή κάμερας"
+    "engine.editor.menu.cameraTranslation": "Μετατροπή κάμερας",
+    "engine.editor.menu.speed": "Ταχύτητα",
+    "engine.editor.menu.viewType": "Προβολή",
+    "engine.editor.menu.addBookmark": "Προθήκη Σελιδοδείκτη",
+    "engine.editor.menu.manageBookmarks": "Διαχείριση Σελιδοδήκτων  "
 }
