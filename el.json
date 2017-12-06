@@ -311,5 +311,6 @@
     "engine.editor.menu.camera.right": "Δεξιά",
     "engine.editor.menu.camera.perspective": "Οπτική",
     "engine.editor.menu.camera.isometric": "Ισομετρική",
-    "engine.editor.menu.cameraspeed": "Ταχύτητα Κάμερας"
+    "engine.editor.menu.cameraspeed": "Ταχύτητα Κάμερας",
+    "engine.editor.menu.cameraspeed.slowest": "Βραδύτερη"
 }
