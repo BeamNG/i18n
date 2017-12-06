@@ -332,5 +332,10 @@
     "engine.editor.menu.manageBookmarks": "Διαχείριση Σελιδοδεικτών  ",
     "engine.editor.menu.editors": "Editors",
     "engine.editor.menu.atCamera": "Στην Κάμερα",
-    "engine.editor.menu.atCamaraWoRot": "Στην Κάμερα με/Περιστροφή"
+    "engine.editor.menu.atCamaraWoRot": "Στην Κάμερα με/Περιστροφή",
+    "engine.editor.menu.belowCamera": "Κάτω από την κάμερα",
+    "engine.editor.menu.screenCenter": "Κέντρο της οθόνης",
+    "engine.editor.menu.atCenteroid": "στο Centroid",
+    "engine.editor.menu.toTerrain": "Στο έδαφος",
+    "engine.editor.menu.belowSelection": "Παρακάτω επιλογή"
 }
