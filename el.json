@@ -275,5 +275,6 @@
     "engine.nodegrab.fixedwarning": "CTRL + Μεσαίο Κλικ στο ποντικι για το unfix nodes",
     "engine.editor.menu.openLevel": "Άνοιγμα του επιπέδου ",
     "engine.editor.menu.saveLevel": "Αποθήκευση επιπέδου ",
-    "engine.editor.menu.resaveLevel": "Ξανα-αποθήκευσε τα πάντα"
+    "engine.editor.menu.resaveLevel": "Ξανα-αποθήκευσε τα πάντα",
+    "engine.editor.menu.createBlankTerrain": "Δημιουργία Κενού Χάρτη"
 }
