@@ -324,5 +324,6 @@
     "engine.editor.menu.toggleCamera": "Αλλαγή θέσης κάμερας",
     "engine.editor.menu.placeCameraSelection": "Τοποθέτησε την κάμερα στην επιλογή",
     "engine.editor.menu.placeCameraPlayer": "Τοποθέτησε την κάμερα στον παίχτη",
-    "engine.editor.menu.placePlayerCamera": "Τοποθέτησε τον παίχτη στην κάμερα"
+    "engine.editor.menu.placePlayerCamera": "Τοποθέτησε τον παίχτη στην κάμερα",
+    "engine.editor.menu.cameraTranslation": "Μετατροπή κάμερας"
 }
