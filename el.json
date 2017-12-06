@@ -267,5 +267,7 @@
     "engine.resourceMissing": "Αποτυχία δημιουργίας πηγής (μήπως λείπει το αρχείο?)",
     "engine.engineFail": "Αποτυχία εκκίνησης παιχνιδιού, διακοπή λειτουργίας.",
     "engine.invalidUserpath.title": "Λάθος μονοπάτι χρήστη",
-    "engine.invalidUserpath.msg": "Το BeamNG.drive δεν έχει πρόσβαση στο UserPath όπου μπορεί να βρεί το startup.ini (Φάκελος Παιχνιδιού). Άλλαξε για μία έγκυρη τοποθεσία"
+    "engine.invalidUserpath.msg": "Το BeamNG.drive δεν έχει πρόσβαση στο UserPath όπου μπορεί να βρεί το startup.ini (Φάκελος Παιχνιδιού). Άλλαξε για μία έγκυρη τοποθεσία",
+    "engine.windowedModeReq.title": "Απαιτείται Windowed Mode",
+    "engine.windowedModeReq.msgEditor": "Παρακαλώ βγείται από τον Editor των αποστολών για να αλλάξεις σε full screen"
 }
