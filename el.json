@@ -17,7 +17,7 @@
     "engine.editor.menu.saveLevelAs": "Αποθήκευση Επιπέδου Ως...",
     "engine.editor.menu.unlockSelection": "Ξεκλείδωμα  επιλογής",
     "engine.editor.menu.xAxis": "Χ άξονας ",
-    "engine.levelModified.title": "Το επίπεδο τροποποιήθηκε",
+    "engine.levelModified.title": "επίπεδο Τροποποιημένο",
     "engine.msgboxErrorTitle": "Σφάλμα",
     "engine.welcome": "Καλωσόρισες στο BeamNG.drive σε US Αγγλικά :)",
     "extensions.scenario.damageGoal.checkDamage.fail.msg": "Πρόσεχε! Το αυτοκίνητο σου έχει {{damage}}% ζημιά ",
@@ -269,5 +269,6 @@
     "engine.invalidUserpath.title": "Λάθος μονοπάτι χρήστη",
     "engine.invalidUserpath.msg": "Το BeamNG.drive δεν έχει πρόσβαση στο UserPath όπου μπορεί να βρεί το startup.ini (Φάκελος Παιχνιδιού). Άλλαξε για μία έγκυρη τοποθεσία",
     "engine.windowedModeReq.title": "Απαιτείται Windowed Mode",
-    "engine.windowedModeReq.msgEditor": "Παρακαλώ βγείται από τον Editor των αποστολών για να αλλάξεις σε full screen"
+    "engine.windowedModeReq.msgEditor": "Παρακαλώ βγες από το Mission Editor για να αλλάξεις σε full screen",
+    "engine.windowedModeReq.msgGUI": "Παρακαλώ βγες από το GUI Editor για να αλλάξεις σε πλήρη οθόνη."
 }
