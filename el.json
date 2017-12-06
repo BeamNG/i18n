@@ -270,5 +270,7 @@
     "engine.invalidUserpath.msg": "Το BeamNG.drive δεν έχει πρόσβαση στο UserPath όπου μπορεί να βρεί το startup.ini (Φάκελος Παιχνιδιού). Άλλαξε για μία έγκυρη τοποθεσία",
     "engine.windowedModeReq.title": "Απαιτείται Windowed Mode",
     "engine.windowedModeReq.msgEditor": "Παρακαλώ βγες από το Mission Editor για να αλλάξεις σε full screen",
-    "engine.windowedModeReq.msgGUI": "Παρακαλώ βγες από το GUI Editor για να αλλάξεις σε πλήρη οθόνη."
+    "engine.windowedModeReq.msgGUI": "Παρακαλώ βγες από το GUI Editor για να αλλάξεις σε πλήρη οθόνη.",
+    "engine.levelModified.msg": "Το επίπεδο έχει τροποποιηθεί στον Editor. Αποθήκευση?",
+    "engine.nodegrab.fixedwarning": "CTRL + Μεσαίο Κλικ για "
 }
