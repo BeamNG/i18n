@@ -346,5 +346,7 @@
     "engine.editor.menu.negZAxis": "-Ζ Άξονας",
     "engine.editor.menu.yAxis": "Υ Άξονας",
     "engine.editor.menu.zAxis": "Ζ Άξονας",
-    "engine.editor.menu.lockSelection": "Κλείδωμα επιλογής"
+    "engine.editor.menu.lockSelection": "Κλείδωμα επιλογής",
+    "engine.editor.menu.hideSelection": "Κρύψιμο Επιλογής",
+    "engine.editor.menu.showSelection": "Προβολή Επιλογής"
 }
