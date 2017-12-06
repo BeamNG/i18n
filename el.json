@@ -315,5 +315,8 @@
     "engine.editor.menu.cameraspeed.slowest": "Βραδύτερη",
     "engine.editor.menu.cameraspeed.slow": "Αργά",
     "engine.editor.menu.cameraspeed.slower": "Πιο Αργά",
-    "engine.editor.menu.cameraspeed.normal": "Κανονική "
+    "engine.editor.menu.cameraspeed.normal": "Κανονική ",
+    "engine.editor.menu.cameraspeed.faster": "Γρηγορότερα",
+    "engine.editor.menu.cameraspeed.fast": "Γρήγορα",
+    "engine.editor.menu.cameraspeed.fastest": "Ο Πιο Γρήγοροτερος"
 }
