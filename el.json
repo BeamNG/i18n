@@ -348,5 +348,8 @@
     "engine.editor.menu.zAxis": "Ζ Άξονας",
     "engine.editor.menu.lockSelection": "Κλείδωμα επιλογής",
     "engine.editor.menu.hideSelection": "Κρύψιμο Επιλογής",
-    "engine.editor.menu.showSelection": "Προβολή Επιλογής"
+    "engine.editor.menu.showSelection": "Προβολή Επιλογής",
+    "engine.editor.menu.alignCenter": "Ευθυγράμιση του κέντρου",
+    "engine.editor.menu.resetTransforms": "Επαναφορά μετατροπών",
+    "engine.editor.menu.resetSelRot": "Επαναφορά επιλεγμένης περιστροφής"
 }
