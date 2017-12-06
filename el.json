@@ -291,5 +291,6 @@
     "engine.editor.menu.delete": "Διαγραφή",
     "engine.editor.menu.select": "Επιλέγω...",
     "engine.editor.menu.audioParams": "Παράμετροι Ήχου...",
-    "engine.editor.menu.editorSettings": "Ρυθμίσεις Editor"
+    "engine.editor.menu.editorSettings": "Ρυθμίσεις Editor",
+    "engine.editor.menu.snapOptions": "Επιλογές Snap..."
 }
