@@ -288,5 +288,6 @@
     "engine.editor.menu.cut": "Κόψε",
     "engine.editor.menu.copy": "Αντιγραφή",
     "engine.editor.menu.paste": "Επικόλλησε",
-    "engine.editor.menu.delete": "Διαγραφή"
+    "engine.editor.menu.delete": "Διαγραφή",
+    "engine.editor.menu.select": "Επιλέγω..."
 }
