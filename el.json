@@ -329,5 +329,8 @@
     "engine.editor.menu.speed": "Ταχύτητα",
     "engine.editor.menu.viewType": "Προβολή",
     "engine.editor.menu.addBookmark": "Προθήκη Σελιδοδείκτη",
-    "engine.editor.menu.manageBookmarks": "Διαχείριση Σελιδοδεικτών  "
+    "engine.editor.menu.manageBookmarks": "Διαχείριση Σελιδοδεικτών  ",
+    "engine.editor.menu.editors": "Editors",
+    "engine.editor.menu.atCamera": "Στην Κάμερα",
+    "engine.editor.menu.atCamaraWoRot": "Στην Κάμερα με/Περιστροφή"
 }
