@@ -286,5 +286,6 @@
     "engine.editor.menu.undo": "Αναίρεση",
     "engine.editor.menu.redo": "Επανάληψη",
     "engine.editor.menu.cut": "Κόψε",
-    "engine.editor.menu.copy": "Αντιγραφή"
+    "engine.editor.menu.copy": "Αντιγραφή",
+    "engine.editor.menu.paste": "Επικόλλησε"
 }
