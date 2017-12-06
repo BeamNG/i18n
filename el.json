@@ -309,5 +309,7 @@
     "engine.editor.menu.camera.back": "Πίσω",
     "engine.editor.menu.camera.left": "Αριστερά",
     "engine.editor.menu.camera.right": "Δεξιά",
-    "engine.editor.menu.camera.perspective": "Οπτική"
+    "engine.editor.menu.camera.perspective": "Οπτική",
+    "engine.editor.menu.camera.isometric": "Ισομετρική",
+    "engine.editor.menu.cameraspeed": "Ταχύτητα Κάμερας"
 }
