@@ -299,5 +299,6 @@
     "engine.editor.menu.gridOrtho": "Δείξε το Εδαφος σε Ortho Views",
     "engine.editor.menu.camera": "Καμερα",
     "engine.editor.menu.standartCamera": "Standard",
-    "engine.editor.menu.orbitCamera": "Κάμερα Τροχιάς"
+    "engine.editor.menu.orbitCamera": "Κάμερα Τροχιάς",
+    "engine.editor.menu.gameCamera": "Κάμερα παιχνιδιού"
 }
