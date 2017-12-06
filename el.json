@@ -17,7 +17,7 @@
     "engine.editor.menu.saveLevelAs": "Αποθήκευση Επιπέδου Ως...",
     "engine.editor.menu.unlockSelection": "Ξεκλείδωμα  επιλογής",
     "engine.editor.menu.xAxis": "Χ άξονας ",
-    "engine.levelModified.title": "επίπεδο Τροποποιημένο",
+    "engine.levelModified.title": "Τροποποιημένο επίπεδο",
     "engine.msgboxErrorTitle": "Σφάλμα",
     "engine.welcome": "Καλωσόρισες στο BeamNG.drive σε US Αγγλικά :)",
     "extensions.scenario.damageGoal.checkDamage.fail.msg": "Πρόσεχε! Το αυτοκίνητο σου έχει {{damage}}% ζημιά ",
@@ -262,7 +262,7 @@
     "vehicle.engine.rodBearingsDamaged": "Οι διωστήρες χάλασαν",
     "vehicle.main.instability": "Αστάθεια εντοπίστηκε για το όχημα {{vehicle}}: Κάνε επαναφορά του οχήματος και απενεργοποίησε τα physics",
     "vehicle.recovery.recovered": "το όχημα ανακτήθηκε",
-    "engine.cef.subprocessdied.msg": "Η διαδικασία UI απέτυχε να ανταποκριθεί σε συγκεκριμένο χρόνο.\nΑυτό μπορεί να συμβεί αν το Antivirus εμποδίζει την εφαρμογη BeamNG.drive.ui.exe\nΜπορείς τελικά να βρεις περισσότερη βοήθεια εκεί\nhttp://wiki.beamng.com/Errors/Unresponsive_UI_Process\nΘες να ανοίξεις την διεύθυνση αυτή στον περιηγητή σου τώρα?\n",
+    "engine.cef.subprocessdied.msg": "Η διαδικασία UI απέτυχε να ανταποκριθεί σε συγκεκριμένο χρόνο.\nΑυτό μπορεί να συμβεί αν το Antivirus εμποδίζει την εφαρμογη BeamNG.drive.ui.exe\nΜπορείς όμως να βρεις περισσότερη βοήθεια εδώ\nhttp://wiki.beamng.com/Errors/Unresponsive_UI_Process\nΘες να ανοίξεις την διεύθυνση αυτή στον περιηγητή σου τώρα?\n",
     "engine.cef.subprocessdied.url": "http://wiki.beamng.com/Errors/Unresponsive_UI_Process",
     "engine.resourceMissing": "Αποτυχία δημιουργίας πηγής (μήπως λείπει το αρχείο?)",
     "engine.engineFail": "Αποτυχία εκκίνησης παιχνιδιού, διακοπή λειτουργίας.",
@@ -276,5 +276,8 @@
     "engine.editor.menu.openLevel": "Άνοιγμα του επιπέδου ",
     "engine.editor.menu.saveLevel": "Αποθήκευση επιπέδου ",
     "engine.editor.menu.resaveLevel": "Ξανα-αποθήκευσε τα πάντα",
-    "engine.editor.menu.createBlankTerrain": "Δημιουργία Κενού Χάρτη"
+    "engine.editor.menu.createBlankTerrain": "Δημιουργία Κενού εδάφους",
+    "engine.editor.loading": "Φορτώνοντας τον World Editor...",
+    "engine.editor.menu.importTerrainHeightmap": "Εισαγωγή υψομετρικού χάρτη εδάφους ",
+    "engine.editor.menu.exportToCollada": "Εξαγωγή στο COLLADA "
 }
