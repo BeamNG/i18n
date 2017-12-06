@@ -294,5 +294,8 @@
     "engine.editor.menu.editorSettings": "Ρυθμίσεις Editor",
     "engine.editor.menu.snapOptions": "Επιλογές Snap...",
     "engine.editor.menu.gameOptions": "Ρυθμίσεις Παιχνιδιού",
-    "engine.editor.menu.view": "Προβολή"
+    "engine.editor.menu.view": "Προβολή",
+    "engine.editor.menu.visibilityLayers": "Visibility Layers",
+    "engine.editor.menu.gridOrtho": "Δείξε το Εδαφος σε Ortho Views",
+    "engine.editor.menu.camera": "Καμερα"
 }
