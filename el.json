@@ -300,5 +300,14 @@
     "engine.editor.menu.camera": "Καμερα",
     "engine.editor.menu.standartCamera": "Standard",
     "engine.editor.menu.orbitCamera": "Κάμερα Τροχιάς",
-    "engine.editor.menu.gameCamera": "Κάμερα παιχνιδιού"
+    "engine.editor.menu.gameCamera": "Κάμερα παιχνιδιού",
+    "engine.editor.menu.smoothedCamera": "Απαλύνεται",
+    "engine.editor.menu.smoothedRotateCamera": "Απαλή Κίνηση",
+    "engine.editor.menu.camera.top": "Πάνω",
+    "engine.editor.menu.camera.bottom": "Κάτω",
+    "engine.editor.menu.camera.front": "Μπροστά",
+    "engine.editor.menu.camera.back": "Πίσω",
+    "engine.editor.menu.camera.left": "Αριστερά",
+    "engine.editor.menu.camera.right": "Δεξιά",
+    "engine.editor.menu.camera.perspective": "Προοπτική "
 }
