@@ -281,5 +281,6 @@
     "engine.editor.menu.importTerrainHeightmap": "Εισαγωγή υψομετρικού χάρτη εδάφους ",
     "engine.editor.menu.exportToCollada": "Εξαγωγή στο COLLADA ",
     "engine.editor.menu.playLevel": "Παίξε το Επίπεδο",
-    "engine.editor.menu.exitLevel": "Έξοδος του Επιπέδου"
+    "engine.editor.menu.exitLevel": "Έξοδος του Επιπέδου",
+    "engine.editor.menu.edit": "Τροποποιήσει "
 }
