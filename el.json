@@ -266,5 +266,6 @@
     "engine.cef.subprocessdied.url": "http://wiki.beamng.com/Errors/Unresponsive_UI_Process",
     "engine.resourceMissing": "Αποτυχία δημιουργίας πηγής (μήπως λείπει το αρχείο?)",
     "engine.engineFail": "Αποτυχία εκκίνησης παιχνιδιού, διακοπή λειτουργίας.",
-    "engine.invalidUserpath.title": "Λάθος μονοπάτι χρήστη"
+    "engine.invalidUserpath.title": "Λάθος μονοπάτι χρήστη",
+    "engine.invalidUserpath.msg": "Το BeamNG.drive δεν έχει πρόσβαση UserPath που μπορεί να βρεί το startup.ini (Φάκελος Παιχνιδιού). Άλλαξε για μία έγκυρη τοποθεσία"
 }
