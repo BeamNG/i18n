@@ -283,5 +283,6 @@
     "engine.editor.menu.playLevel": "Παίξε το Επίπεδο",
     "engine.editor.menu.exitLevel": "Έξοδος του Επιπέδου",
     "engine.editor.menu.edit": "Επεξέργασε",
-    "engine.editor.menu.undo": "Αναίρεση"
+    "engine.editor.menu.undo": "Αναίρεση",
+    "engine.editor.menu.redo": "Επανάληψη"
 }
