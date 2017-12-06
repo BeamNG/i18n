@@ -318,5 +318,9 @@
     "engine.editor.menu.cameraspeed.normal": "Κανονική ",
     "engine.editor.menu.cameraspeed.faster": "Γρηγορότερα",
     "engine.editor.menu.cameraspeed.fast": "Γρήγορα",
-    "engine.editor.menu.cameraspeed.fastest": "Ο Πιο Γρήγοροτερος"
+    "engine.editor.menu.cameraspeed.fastest": "Ο Πιο Γρήγορος",
+    "engine.editor.menu.toggleCamModes": "Αλλαγή κατάστασης κάμερας",
+    "engine.editor.menu.worldCamera": "Κάμερα του κόσμου",
+    "engine.editor.menu.toggleCamera": "Αλλαγή θέσης κάμερας",
+    "engine.editor.menu.placeCameraSelection": "Τοποθέτησε την κάμερα στην επιλογή"
 }
