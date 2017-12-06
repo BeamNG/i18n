@@ -279,5 +279,7 @@
     "engine.editor.menu.createBlankTerrain": "Δημιουργία Κενού εδάφους",
     "engine.editor.loading": "Φορτώνοντας τον World Editor...",
     "engine.editor.menu.importTerrainHeightmap": "Εισαγωγή υψομετρικού χάρτη εδάφους ",
-    "engine.editor.menu.exportToCollada": "Εξαγωγή στο COLLADA "
+    "engine.editor.menu.exportToCollada": "Εξαγωγή στο COLLADA ",
+    "engine.editor.menu.playLevel": "Παίξε το Επίπεδο",
+    "engine.editor.menu.exitLevel": "Έξοδος Επιπέδου"
 }
