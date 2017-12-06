@@ -284,5 +284,7 @@
     "engine.editor.menu.exitLevel": "Έξοδος του Επιπέδου",
     "engine.editor.menu.edit": "Επεξέργασε",
     "engine.editor.menu.undo": "Αναίρεση",
-    "engine.editor.menu.redo": "Επανάληψη"
+    "engine.editor.menu.redo": "Επανάληψη",
+    "engine.editor.menu.cut": "Κόψε",
+    "engine.editor.menu.copy": "Αντιγραφή"
 }
