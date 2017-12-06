@@ -272,5 +272,8 @@
     "engine.windowedModeReq.msgEditor": "Παρακαλώ βγες από το Mission Editor για να αλλάξεις σε full screen",
     "engine.windowedModeReq.msgGUI": "Παρακαλώ βγες από το GUI Editor για να αλλάξεις σε πλήρη οθόνη.",
     "engine.levelModified.msg": "Το επίπεδο έχει τροποποιηθεί στον Editor. Αποθήκευση?",
-    "engine.nodegrab.fixedwarning": "CTRL + Μεσαίο Κλικ για "
+    "engine.nodegrab.fixedwarning": "CTRL + Μεσαίο Κλικ στο ποντικι για το unfix nodes",
+    "engine.editor.menu.openLevel": "Άνοιγμα του επιπέδου ",
+    "engine.editor.menu.saveLevel": "Αποθήκευση επιπέδου ",
+    "engine.editor.menu.resaveLevel": "Ξανα-αποθήκευσε τα πάντα"
 }
