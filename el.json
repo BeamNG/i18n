@@ -297,5 +297,7 @@
     "engine.editor.menu.view": "Προβολή",
     "engine.editor.menu.visibilityLayers": "Visibility Layers",
     "engine.editor.menu.gridOrtho": "Δείξε το Εδαφος σε Ortho Views",
-    "engine.editor.menu.camera": "Καμερα"
+    "engine.editor.menu.camera": "Καμερα",
+    "engine.editor.menu.standartCamera": "Standard",
+    "engine.editor.menu.orbitCamera": "Κάμερα Τροχιάς"
 }
