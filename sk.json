@@ -1094,10 +1094,10 @@
     "ui.performance.improvements.ssao": "Vypnúť SSAO v",
     "ui.performance.improvements.textures": "Znížiť kvalitu textúr v",
     "ui.performance.laptopGPU": "Používanie dedikovanej grafickej karty na notebookoch",
-    "ui.performance.laptopGPU.controlPanel": "Choď do NVIDIA kontrolného panela",
-    "ui.performance.laptopGPU.customize": "Uprav BeamNG.drive, aby využíval 'Vysokorýchlostný NVIDIA procesor'",
-    "ui.performance.laptopGPU.manageSettings": "Choď do 'Manažment 3D nastavení'",
-    "ui.performance.laptopGPU.more": "Pre viac informácii prosím pozri [url=http://wiki.beamng.com/Dedicated_Graphics]Wiki Guide[/url] alebo skontaktuje našu Podporu",
+    "ui.performance.laptopGPU.controlPanel": "Choďte do NVIDIA kontrolného panela",
+    "ui.performance.laptopGPU.customize": "Upravte BeamNG.drive, aby využíval 'Vysokorýchlostný NVIDIA procesor'",
+    "ui.performance.laptopGPU.manageSettings": "Choďte do 'Manažment 3D nastavení'",
+    "ui.performance.laptopGPU.more": "Pre viac informácii prosím pozrite [url=http://wiki.beamng.com/Dedicated_Graphics]Wiki Guide[/url] alebo skontaktuje našu podporu",
     "ui.performance.link.graphicsOptions": "nastavenia grafiky",
     "ui.performance.maxRealtimeVehicles": "Maximálny počet súčasných vozidiel",
     "ui.performance.minRequired": "Minimum",
@@ -1987,5 +1987,8 @@
     "quickrace.small_island.intro_round_circuit.title": "Ostrovná slučka",
     "quickrace.small_island.intro_round_circuitB.title": "Ostrovná alternatívna slučka",
     "quickrace.industrial.track_ri_sprint.description": "Krátke, točité rozloženie v priemyselnej oblasti.",
-    "ui.modWizard.skinWizard.desc": "Pre demonštračné účely budeme používať ako meno nášho skinu SkinExample. Dva súbory, ktoré môžu byť upravované boli skombinované do obrázku napravo. Keď otvoríš súbory skinu, môžeš kliknúť ďalej, aby si načítal skin do hry alebo dokončiť pre skončenie sprievodcu."
+    "ui.modWizard.skinWizard.desc": "Pre demonštračné účely budeme používať ako meno nášho skinu SkinExample. Dva súbory, ktoré môžu byť upravované boli skombinované do obrázku napravo. Keď otvoríš súbory skinu, môžeš kliknúť ďalej, aby si načítal skin do hry alebo dokončiť pre skončenie sprievodcu.",
+    "ui.common.off": "Vypnuté",
+    "ui.modWizard.skinWizard.right": "Pravá časť obrázku je \"SkinExample_palette_uv1.dds\". Tento obrázok sa používa pre určenie ktoré časti tvojho skinu môžu byť zafarbené pomocou selektoru farieb v hre. Červená je prvá farba, zelená je druhá a modrá je tretia. Ak je to priehľadné, nebude to zafarbené.",
+    "ui.modmanager.local": "Lokálne"
 }
