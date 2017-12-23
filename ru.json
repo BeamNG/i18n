@@ -138,7 +138,7 @@
     "engine.editor.menu.xAxis": "Ось X",
     "engine.editor.menu.yAxis": "Ось Y",
     "engine.editor.menu.zAxis": "Ось Z",
-    "engine.engineFail": "Вынужденное закрытие игры из-за ошибки инициализировать игру.",
+    "engine.engineFail": "Ошибка инициализации, игра будет закрыта.",
     "engine.invalidUserpath.msg": "BeamNG.drive не может получить доступ к UserPath, заданному в startup.ini (директория игры). Укажите правильный путь: ",
     "engine.invalidUserpath.title": "Неверный путь (UserPath)",
     "engine.levelModified.msg": "Уровень был изменен в редакторе. Сохранить изменения?",
