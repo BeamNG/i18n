@@ -1365,7 +1365,7 @@
     "engine.editor.menu.placePlayerCamera": "Spieler bei Kamera platzieren",
     "engine.editor.menu.cameraTranslation": "Kamera-Transformation",
     "engine.editor.menu.fitViewSelection": "Ansicht zur Auswahl anpassen",
-    "engine.editor.menu.fitViewSelectionOrbit": "Ansicht zur Auswahl und Horizont anpassen",
+    "engine.editor.menu.fitViewSelectionOrbit": "Ansicht zur Auswahl anpassen und zur Orbit Kamera wechseln",
     "engine.editor.menu.speed": "Geschwindigkeit",
     "engine.editor.menu.viewType": "Ansicht",
     "engine.editor.menu.addBookmark": "Lesezeichen setzen...",
@@ -1591,5 +1591,7 @@
     "ui.controls.searchMatches": "{{number}} Übereinstimmungen",
     "ui.controls.expandCollapse": "Klicke zum erweitern/zusammenklappen",
     "ui.controls.editBinding": "Belegung bearbeiten",
-    "ui.controls.createBinding": "Neue Belegung erstellen"
+    "ui.controls.createBinding": "Neue Belegung erstellen",
+    "engine.editor.menu.resaveLevel": "Alles neu abspeichern",
+    "engine.editor.menu.gameCamera": "Spiel Kamera"
 }
