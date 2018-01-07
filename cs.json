@@ -966,5 +966,6 @@
     "ui.fonts.secondary": "Cyklus zpráv",
     "ui.fonts.fallback": "Roboto",
     "ui.common.cancel": "Zrušit",
-    "ui.common.off": "Vypnout"
+    "ui.common.off": "Vypnout",
+    "ui.actions.spawn": "Vytvořit vozidlo"
 }
