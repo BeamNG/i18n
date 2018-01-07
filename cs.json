@@ -1000,5 +1000,9 @@
     "ui.apps.categories.utility": "Užitkový",
     "ui.apps.categories.racing": "Závodní",
     "ui.apps.absdebug.name": "Ladění ABS",
-    "ui.apps.ffb_graph.name": "Graf FFB"
+    "ui.apps.ffb_graph.name": "Graf FFB",
+    "ui.apps.checkpoint_time_comparison.name": "Porovnání časů z Checkpointů",
+    "ui.apps.racing_position.name": "Závodní pozice",
+    "ui.controls.iosQRCode": "Naskenujte QR kód níže nebo klikněte na tlačítko pro iOS aplikaci.",
+    "ui.faq.updateGame.a": "Steam automaticky instaluje aktualizace když jste připojeni k internetu. [br] Pro více informací, navštivte naši wiki stránku [url=http://wiki.beamng.com/Updating_the_game]"
 }
