@@ -985,5 +985,7 @@
     "ui.repository.cat_ui": "Aplikace uživatelského rozhraní",
     "ui.repository.cat_idplate": "Poznávací značky",
     "ui.repository.cat_yo-dawg-mod": "Mody modů",
-    "ui.quickrace.tracks.procedural": "Procedurálně generovaná trať"
+    "ui.quickrace.tracks.procedural": "Procedurálně generovaná trať",
+    "ui.modmanager.id": "Unikátní ID",
+    "ui.modmanager.author": "Tvůrce"
 }
