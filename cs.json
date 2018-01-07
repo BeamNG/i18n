@@ -988,5 +988,6 @@
     "ui.quickrace.tracks.procedural": "Procedurálně generovaná trať",
     "ui.modmanager.id": "Unikátní ID",
     "ui.modmanager.author": "Tvůrce",
-    "ui.modmanager.openModFolderInExplorer": "Otevřít Mód složku"
+    "ui.modmanager.openModFolderInExplorer": "Otevřít Mód složku",
+    "ui.credits.gameDesigners": "Designéři hry"
 }
