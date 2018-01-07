@@ -975,5 +975,8 @@
     "ui.modWizard.skinWizard.skinName": "Pojmenuj svůj skin",
     "ui.modWizard.skinWizard.howTo": "Jak vytvářet skiny",
     "ui.modWizard.skinWizard.filesGenerated": "Soubory skinu byly vytvořeny.",
-    "ui.modWizard.skinWizard.openFolder": "Klikněte zde pro otevření složky"
+    "ui.modWizard.skinWizard.openFolder": "Klikněte zde pro otevření složky",
+    "ui.dashboard.replay": "Záznamy",
+    "ui.repository.cat_veh_air": "Vzduch",
+    "ui.repository.cat_veh_boats": "Lodě"
 }
