@@ -979,5 +979,10 @@
     "ui.dashboard.replay": "Záznamy",
     "ui.repository.cat_veh_air": "Vzduch",
     "ui.repository.cat_veh_boats": "Lodě",
-    "ui.repository.cat_veh_config": "Konfigurace"
+    "ui.repository.cat_veh_config": "Konfigurace",
+    "ui.repository.cat_scenarios": "Scénáře",
+    "ui.repository.cat_terrain": "Terény, úrovně, mapy",
+    "ui.repository.cat_ui": "Aplikace uživatelského rozhraní",
+    "ui.repository.cat_idplate": "Poznávací značky",
+    "ui.repository.cat_yo-dawg-mod": "Mody modů"
 }
