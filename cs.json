@@ -40,7 +40,7 @@
     "engine.levelModified.msg": "Úroveň byla změněna Editorem. Uložit?",
     "engine.levelModified.title": "Úroveň upravena",
     "engine.msgboxErrorTitle": "Chyba",
-    "engine.resourceMissing": "Nepodařilo se vytvořit zdroj (nechybí soubor?): ",
+    "engine.resourceMissing": "Nepodařilo se vytvořit zdroj (chybí soubor?): ",
     "engine.welcome": "Vítejte v BeamNG.drive v českém jazyce",
     "engine.windowedModeReq.msgEditor": "Pro přepnutí do celoobrazovkového režimu prosím ukončete Editor misí.",
     "engine.windowedModeReq.msgGUI": "Pro přepnutí do celoobrazovkového režimu prosím ukončete GUI Editor.",
