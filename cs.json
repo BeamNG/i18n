@@ -994,5 +994,7 @@
     "ui.replay.rename": "Přejmenovat",
     "ui.replay.remove": "Odstranit",
     "ui.replay.appHint": "Poznámka: pro plné ovládání přehrávání a nahrávání použijte aplikaci Replay (klikněte zde pro přizpůsobení aplikací)",
-    "ui.apps.categories.unknown": "Neznámý"
+    "ui.apps.categories.unknown": "Neznámý",
+    "ui.apps.categories.info": "Informace",
+    "ui.apps.categories.vehicle_control": "Ovládání vozidla"
 }
