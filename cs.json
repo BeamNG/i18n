@@ -989,5 +989,6 @@
     "ui.modmanager.id": "Unikátní ID",
     "ui.modmanager.author": "Tvůrce",
     "ui.modmanager.openModFolderInExplorer": "Otevřít Mód složku",
-    "ui.credits.gameDesigners": "Designéři hry"
+    "ui.credits.gameDesigners": "Designéři hry",
+    "ui.replay.play": "Přehrát"
 }
