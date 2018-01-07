@@ -968,5 +968,6 @@
     "ui.common.cancel": "Zrušit",
     "ui.common.off": "Vypnout",
     "ui.actions.spawn": "Vytvořit vozidlo",
-    "ui.actions.menuLeft": "Nabídka Vlevo"
+    "ui.actions.menuLeft": "Nabídka Vlevo",
+    "ui.actions.menuRight": "Nabídka vpravo"
 }
