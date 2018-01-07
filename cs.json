@@ -955,5 +955,8 @@
     "ui.apps.engine_heat_debug_graph.name": "Graf ladění teplot motoru",
     "ui.apps.esc_activity_graph.name": "Graf aktivity ESC",
     "ui.apps.forcedinduction.name": "Přeplňování",
-    "engine.lua.reloaded": "Hlavní instance LUA byla znovu načtena"
+    "engine.lua.reloaded": "Hlavní instance LUA byla znovu načtena",
+    "engine.nodegrab.uncoupling": "Odpojení připojených uzlů",
+    "engine.nodegrab.coupling": "Spojte dva uzly",
+    "engine.editor.menu.resaveLevel": "Znovu uložte vše"
 }
