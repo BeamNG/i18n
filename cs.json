@@ -969,5 +969,11 @@
     "ui.common.off": "Vypnout",
     "ui.actions.spawn": "Vytvořit vozidlo",
     "ui.actions.menuLeft": "Nabídka Vlevo",
-    "ui.actions.menuRight": "Nabídka vpravo"
+    "ui.actions.menuRight": "Nabídka Vpravo",
+    "ui.modWizard.skinWizard.intro": "Vítejte v průvodci tvorby skinů. V následujících krocích si ukážeme, jak vytvořit skin pro jakékoliv oficiální vozidlo BeamNG.Drive. ",
+    "ui.modWizard.skinWizard.selectVehicle": "Vyber Vozidlo",
+    "ui.modWizard.skinWizard.skinName": "Pojmenuj svůj skin",
+    "ui.modWizard.skinWizard.howTo": "Jak vytvářet skiny",
+    "ui.modWizard.skinWizard.filesGenerated": "Soubory skinu byly vytvořeny.",
+    "ui.modWizard.skinWizard.openFolder": "Klikněte zde pro otevření složky"
 }
