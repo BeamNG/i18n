@@ -987,5 +987,6 @@
     "ui.repository.cat_yo-dawg-mod": "Mody modů",
     "ui.quickrace.tracks.procedural": "Procedurálně generovaná trať",
     "ui.modmanager.id": "Unikátní ID",
-    "ui.modmanager.author": "Tvůrce"
+    "ui.modmanager.author": "Tvůrce",
+    "ui.modmanager.openModFolderInExplorer": "Otevřít Mód složku"
 }
