@@ -998,5 +998,7 @@
     "ui.apps.categories.info": "Informace",
     "ui.apps.categories.vehicle_control": "Ovládání vozidla",
     "ui.apps.categories.utility": "Užitkový",
-    "ui.apps.categories.racing": "Závodní"
+    "ui.apps.categories.racing": "Závodní",
+    "ui.apps.absdebug.name": "Ladění ABS",
+    "ui.apps.ffb_graph.name": "Graf FFB"
 }
