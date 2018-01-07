@@ -781,8 +781,8 @@
     "engine.editor.menu.atCamera": "u Kamery",
     "engine.editor.menu.atCamaraWoRot": "na Kameru s rotací",
     "engine.editor.menu.screenCenter": "Střed obrazovky",
-    "engine.editor.menu.atCenteroid": "",
-    "engine.editor.menu.toTerrain": "na Terén",
+    "engine.editor.menu.atCenteroid": "v Centroidu",
+    "engine.editor.menu.toTerrain": "k Terénu",
     "engine.editor.menu.belowSelection": "Pod výběr",
     "engine.editor.menu.posXAxis": "Osa +X",
     "engine.editor.menu.posYAxis": "Osa +Y",
@@ -961,5 +961,10 @@
     "engine.editor.menu.resaveLevel": "Znovu ulož vše",
     "engine.editor.menu.gameCamera": "Herní Kamera",
     "engine.editor.menu.cameraTranslation": "Přeměna kamery",
-    "engine.editor.menu.belowCamera": "Pod Kamerou"
+    "engine.editor.menu.belowCamera": "Pod Kamerou",
+    "ui.fonts.primary": "Hraj",
+    "ui.fonts.secondary": "Cyklus zpráv",
+    "ui.fonts.fallback": "Roboto",
+    "ui.common.cancel": "Zrušit",
+    "ui.common.off": "Vypnout"
 }
