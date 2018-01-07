@@ -778,7 +778,7 @@
     "engine.editor.menu.jumpBookmark": "Přejít na záložku",
     "engine.editor.menu.editors": "Editory",
     "engine.editor.menu.atOrigin": "v počátku",
-    "engine.editor.menu.atCamera": "na Kameru",
+    "engine.editor.menu.atCamera": "u Kamery",
     "engine.editor.menu.atCamaraWoRot": "na Kameru s rotací",
     "engine.editor.menu.screenCenter": "Střed obrazovky",
     "engine.editor.menu.atCenteroid": "",
@@ -961,5 +961,5 @@
     "engine.editor.menu.resaveLevel": "Znovu ulož vše",
     "engine.editor.menu.gameCamera": "Herní Kamera",
     "engine.editor.menu.cameraTranslation": "Přeměna kamery",
-    "engine.editor.menu.belowCamera": "Pod Kamrou"
+    "engine.editor.menu.belowCamera": "Pod Kamerou"
 }
