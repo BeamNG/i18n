@@ -79,7 +79,7 @@
     "engine.editor.menu.showSelection": "Zobraziť výber",
     "engine.editor.menu.speed": "Rýchlosť",
     "engine.editor.menu.toTerrain": "do terénu",
-    "engine.editor.menu.toggleCamera": "Prepnúť kameru",
+    "engine.editor.menu.toggleCamera": "Prepnúť lietajúcu kameru",
     "engine.editor.menu.transformSel": "Transformovať výber...",
     "engine.editor.menu.undo": "Späť",
     "engine.editor.menu.unlockSelection": "Odomknúť výber",
