@@ -603,5 +603,6 @@
     "vehicle.recovery.loadHome": "Voertuig teruggeplaatst op beginpositie",
     "vehicle.recovery.recovered": "Voertuig hersteld",
     "vehicle.recovery.saveHome": "Positie van voertuig geüpdate (gebruik [action=loadHome] om ongedaan te maken)",
-    "engine.lua.reloaded": "Hoofd LUA instantie is herladen"
+    "engine.lua.reloaded": "Hoofd LUA instantie is herladen",
+    "engine.nodegrab.fixedwarning": "CTRL + Middelste muisknop om nodes los te maken"
 }
