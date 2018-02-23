@@ -490,7 +490,7 @@
     "ui.options.graphics.GraphicDynReflection.warning": "Let op - Deze optie is grafisch erg intensief. Indien u problemen ondervindt zou u deze, voor betere prestaties, kunnen verlagen",
     "ui.options.graphics.GraphicDynReflectionDetail": "Detail",
     "ui.options.graphics.GraphicDynReflectionDistance": "Afstand",
-    "ui.options.graphics.GraphicDynReflectionFacesPerupdate": "Vlakken per update",
+    "ui.options.graphics.GraphicDynReflectionFacesPerupdate": "Reflectieve delen per update",
     "ui.options.graphics.GraphicDynReflectionTexsize": "Grootte textuur",
     "ui.options.graphics.GraphicLightingQuality": "Kwaliteit belichting",
     "ui.options.graphics.GraphicPostfxQuality": "Kwaliteit naverwerking",
