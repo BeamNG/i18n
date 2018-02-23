@@ -767,5 +767,6 @@
     "ui.options.gameplay.defaultGearboxBehavior": "Standaard versnellingsbakgedrag",
     "ui.options.graphics.uimaxresNotAvailable": "Maximum resolutie UI is niet beschikbaar in het hoofdmenu",
     "ui.controls.createBinding": "Maak een nieuwe verbinding",
-    "ui.controls.ffbHardwareMissing": "Geen force feedback hardware gevonden"
+    "ui.controls.ffbHardwareMissing": "Geen force feedback hardware gevonden",
+    "ui.controls.driverWarning": "Waarschuwing: als je problemen ervaart met de force feedback van je {{productName}}, dan moet je misschien je Logitech drivers updaten naar de meest recente versie."
 }
