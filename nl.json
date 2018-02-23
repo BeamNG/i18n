@@ -662,5 +662,6 @@
     "engine.editor.menu.screenCenter": "Middelpunt van het scherm",
     "engine.editor.menu.atCenteroid": "bij Zwaartepunt",
     "engine.editor.menu.toTerrain": "naar Terrein",
-    "engine.editor.menu.belowSelection": "Onder Selectie"
+    "engine.editor.menu.belowSelection": "Onder Selectie",
+    "engine.editor.menu.xAxis": "X-as"
 }
