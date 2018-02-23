@@ -782,5 +782,6 @@
     "ui.performance.benchmark.isRunningNote": "Een moment geduld: De benchmark is aan het uitvoeren.[br]Dit duurt een minuut.",
     "ui.perforamnce.improvements": "Basisprestatieverbeteringen",
     "ui.performance.improvements.ssao": "Zet SSAO uit in",
-    "ui.performance.improvements.resolution": "Verlaag resolutie in"
+    "ui.performance.improvements.resolution": "Verlaag resolutie in",
+    "ui.performance.warnings.thirdpartysoftware": "64 Bit versie niet gedetecteerd: Lavasoft software gevonden. Meer informatie & oplossing hier: [url=http://wiki.beamng.com/Lavasoft]wiki.beamng/lavasoft[/url]"
 }
