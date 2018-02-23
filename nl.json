@@ -785,5 +785,6 @@
     "ui.performance.improvements.resolution": "Verlaag resolutie in",
     "ui.performance.warnings.thirdpartysoftware": "64-Bit versie niet gedetecteerd: Lavasoft software gevonden. Meer informatie & oplossing hier: [url=http://wiki.beamng.com/Lavasoft]wiki.beamng/lavasoft[/url]",
     "ui.performance.warnings.xinput": "XInput (gebruikt voor gamepads) is niet beschikbaar, installeer DirectX 9 opnieuw alstublieft: [url=http://wiki.beamng.com/DirectXInstallation]wiki.beamng.com/DirectXInstallation[/url]",
-    "ui.performance.warnings.memused": "Meer dan 80% van uw systeemgeheugen is in gebruik. Overweeg applicaties af te sluiten of start de computer opnieuw op."
+    "ui.performance.warnings.memused": "Meer dan 80% van uw systeemgeheugen is in gebruik. Overweeg applicaties af te sluiten of start de computer opnieuw op.",
+    "ui.performance.warnings.amdradeon": "Er is tenminste een AMD Radeon R8 vereist"
 }
