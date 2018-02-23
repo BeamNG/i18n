@@ -356,7 +356,7 @@
     "ui.faq": "Help / FAQ",
     "ui.faq.changeCamera.a": "Druk op [action=switch_camera] om van camera te wisselen, of [action=toggleCamera] om de vrije camera te gebruiken.",
     "ui.faq.changeCamera.q": "Hoe verander ik de camera?",
-    "ui.faq.changeVehicle.a": "Je kunt de voertuig kiezer gebruiken vanaf het dashboard door  [action=toggleMenues] te gebruiken of door op [action=vehicle_selector] te duwen",
+    "ui.faq.changeVehicle.a": "Je kunt de voertuig kiezer gebruiken vanaf het dashboard door [action=toggleMenues] te gebruiken of door op [action=vehicle_selector] te drukken.",
     "ui.faq.changeVehicle.q": "Hoe verander ik van voertuig?",
     "ui.faq.getSupport.q": "Hoe kan ik hulp krijgen?",
     "ui.faq.spawnVehicle.q": "Hoe spawn ik meer voertuigen?",
@@ -770,5 +770,6 @@
     "ui.controls.ffbHardwareMissing": "Geen force feedback hardware gevonden",
     "ui.controls.driverWarning": "Waarschuwing: als je problemen ervaart met de force feedback van je {{productName}}, moet je misschien je Logitech drivers updaten naar de meest recente versie.",
     "ui.controls.usePhoneOrTablet": "Gebruik je telefoon of tablet om te rijden!",
-    "ui.controls.iosQRCode": "Scan de onderstaande QR-code, of klik op de knop voor de iOS-app."
+    "ui.controls.iosQRCode": "Scan de onderstaande QR-code, of klik op de knop voor de iOS-app.",
+    "ui.faq.useMods.a": "Na het installeren van een mod kan je deze terug vinden in de voertuig of level selectie menu."
 }
