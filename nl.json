@@ -746,5 +746,6 @@
     "ui.color.colors": "Kleuren",
     "ui.color.colorPalette": "Kleurenpalet {{id}}",
     "ui.color.chrominess": "Chrome",
-    "ui.vehicleconfig.licensePlate": "Nummerplaat"
+    "ui.vehicleconfig.licensePlate": "Nummerplaat",
+    "ui.apps.brake_torque_graph.name": "Remkrachtgrafiek "
 }
