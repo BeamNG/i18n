@@ -668,5 +668,6 @@
     "engine.editor.menu.lockSelection": "Selectie vergrendelen",
     "engine.editor.menu.hideSelection": "Selectie verbergen",
     "engine.editor.menu.showSelection": "Selectie laten zien",
-    "engine.editor.menu.alignBounds": "Grenzen uitlijnen"
+    "engine.editor.menu.alignBounds": "Grenzen uitlijnen",
+    "engine.editor.menu.resetSelRot": "geselcteerde rotatie herstellen"
 }
