@@ -784,5 +784,6 @@
     "ui.performance.improvements.ssao": "Zet SSAO uit in",
     "ui.performance.improvements.resolution": "Verlaag resolutie in",
     "ui.performance.warnings.thirdpartysoftware": "64-Bit versie niet gedetecteerd: Lavasoft software gevonden. Meer informatie & oplossing hier: [url=http://wiki.beamng.com/Lavasoft]wiki.beamng/lavasoft[/url]",
-    "ui.performance.warnings.xinput": "XInput (gebruikt voor gamepads) is niet beschikbaar, installeer DirectX 9 opnieuw alstublieft: [url=http://wiki.beamng.com/DirectXInstallation]wiki.beamng.com/DirectXInstallation[/url]"
+    "ui.performance.warnings.xinput": "XInput (gebruikt voor gamepads) is niet beschikbaar, installeer DirectX 9 opnieuw alstublieft: [url=http://wiki.beamng.com/DirectXInstallation]wiki.beamng.com/DirectXInstallation[/url]",
+    "ui.performance.warnings.memused": "Meer dan 80% van uw systeem is gebruikt. Overweeg om applicaties te sluiten of start computer opnieuw op."
 }
