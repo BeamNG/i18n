@@ -602,5 +602,6 @@
     "vehicle.drivetrain.usingHshifter": "H-shifter is gebruikt. Nu in gebruik: '{{shifterModeName | translate}}'",
     "vehicle.recovery.loadHome": "Voertuig teruggeplaatst op beginpositie",
     "vehicle.recovery.recovered": "Voertuig hersteld",
-    "vehicle.recovery.saveHome": "Positie van voertuig geüpdate (gebruik [action=loadHome] om ongedaan te maken)"
+    "vehicle.recovery.saveHome": "Positie van voertuig geüpdate (gebruik [action=loadHome] om ongedaan te maken)",
+    "engine.lua.reloaded": "Hoofd LUA instantie is herladen"
 }
