@@ -458,10 +458,10 @@
     "ui.options.audio": "Geluid",
     "ui.options.audio.audioDevice": "Audioapparaat",
     "ui.options.audio.audioProvider": "Geluidsbron",
-    "ui.options.audio.effectsVol": "Vol. Effecten",
+    "ui.options.audio.effectsVol": "Effecten Volume",
     "ui.options.audio.hardware": "Hardware",
-    "ui.options.audio.masterVol": "Master Vol.",
-    "ui.options.audio.musicVol": "Vol. muziek",
+    "ui.options.audio.masterVol": "Hoofdvolume",
+    "ui.options.audio.musicVol": "Muziek volume",
     "ui.options.audio.mute": "Mute",
     "ui.options.audio.test": "Test",
     "ui.options.audio.unmute": "Aan",
@@ -765,5 +765,6 @@
     "ui.options.communityTranslations": "Community vertalingen",
     "ui.options.communityTranslationsAgree": "Accepteren & Activeren",
     "ui.options.gameplay.defaultGearboxBehavior": "Standaard versnellingsbakgedrag",
-    "ui.options.graphics.uimaxresNotAvailable": "Maximum resolutie UI is niet beschikbaar in het hoofdmenu"
+    "ui.options.graphics.uimaxresNotAvailable": "Maximum resolutie UI is niet beschikbaar in het hoofdmenu",
+    "ui.controls.createBinding": "Maak een nieuwe verbinding"
 }
