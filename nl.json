@@ -663,5 +663,10 @@
     "engine.editor.menu.atCenteroid": "bij Zwaartepunt",
     "engine.editor.menu.toTerrain": "naar Terrein",
     "engine.editor.menu.belowSelection": "Onder Selectie",
-    "engine.editor.menu.xAxis": "X-as"
+    "engine.editor.menu.xAxis": "X-as",
+    "engine.editor.menu.object": "Object",
+    "engine.editor.menu.lockSelection": "Selectie vergrendelen",
+    "engine.editor.menu.hideSelection": "Selectie verbergen",
+    "engine.editor.menu.showSelection": "Selectie laten zien",
+    "engine.editor.menu.alignBounds": "Grenzen uitlijnen"
 }
