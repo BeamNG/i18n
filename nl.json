@@ -291,7 +291,7 @@
     "ui.dashboard.play": "Spelen",
     "ui.dashboard.quit": "Spel stoppen",
     "ui.dashboard.scenarios": "Scenario's",
-    "ui.dashboard.tutorial": "Tutorial",
+    "ui.dashboard.tutorial": "Inleiding",
     "ui.dashboard.vehicleconfig": "Configuratie voertuigen",
     "ui.dashboard.vehicles": "Voertuigen",
     "ui.debug": "Debuggen",
@@ -436,7 +436,7 @@
     "ui.levelselect.roads": "Wegen",
     "ui.levelselect.size": "Grootte",
     "ui.levelselect.spawn": "Spawn",
-    "ui.levelselect.spawnpoints": "Spawnpunten",
+    "ui.levelselect.spawnpoints": "Spawn punten",
     "ui.levelselect.suitablefor": "Geschikt voor",
     "ui.levelselect.title": "Vrij rijden",
     "ui.mainmenu.addmods": "MODS TOEVOEGEN",
@@ -736,5 +736,7 @@
     "ui.mainmenu.warningdetails": "Klik hier voor details en om meer te weten",
     "ui.mainmenu.modwizard": "MOD WIZARD",
     "ui.mainmenu.onlineFeatures.featureTitle": "Online functies activeren?",
-    "ui.mainmenu.onlineFeatures.featureDescription": "Je kunt ervoor kiezen om alle online functies in BeamNG.drive aan of uit te zetten. Dit zal invloed hebben op:[br][list][*]In-game repository[*]Mod subscriptions[*]Behaalde Prestaties[*]Topscorebord[*]Chat functies[*]Functies voor het delen van inhoud[/list]Door de online functies in te schakelen ga je akkoord met ons [url=http://wiki.beamng.com/Privacy_Policy]Privacy Beleid[/url] en onze [url=http://wiki.beamng.com/TOS]Algemene voorwaarden[/url].[br][br]Je kunt deze instelling te allen tijden wijzigen in Opties > Gameplay."
+    "ui.mainmenu.onlineFeatures.featureDescription": "Je kunt ervoor kiezen om alle online functies in BeamNG.drive aan of uit te zetten. Dit zal invloed hebben op:[br][list][*]In-game repository[*]Mod abonnementen[*]Behaalde Prestaties[*]Scorebord[*]Chat functies[*]Mogelijkheden content delen[/list]Door de online functies in te schakelen ga je akkoord met ons [url=http://wiki.beamng.com/Privacy_Policy]Privacy Beleid[/url] en onze [url=http://wiki.beamng.com/TOS]Algemene voorwaarden[/url].[br][br]Je kunt deze instelling te allen tijden wijzigen in Opties > Gameplay.",
+    "ui.quickrace.tod.night": "Nacht",
+    "ui.quickrace.tod.morning": "Ochtend"
 }
