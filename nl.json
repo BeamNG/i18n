@@ -555,7 +555,7 @@
     "ui.performance.score": "Score",
     "ui.performance.showDetails": "Laat Details Zien",
     "ui.performance.warnings.amdhd": "Het beste advies is dat je op z'n minst een AMD Radeon HD XXX nodig hebt",
-    "ui.performance.warnings.cpuonecore": "Dit spel werkt niet goed op slechts één physical core",
+    "ui.performance.warnings.cpuonecore": "Dit spel werkt niet goed op slechts één fysieke kern.",
     "ui.performance.warnings.dinput": "Direct Input (voor stuurwielen) is niet beschikbaar, installeer DirectX 9 opnieuw: [url=http://wiki.beamng.com/DirectXInstallation]wiki.beamng.com/DirectXInstallation[/url]",
     "ui.performance.warnings.missing64binary": "Dit is geen 64-bitversie: geen 64-bitversie aanwezig: Opnieuw installeren alstublieft",
     "ui.performance.warnings.oswin8": "Windows 8 aangeraden: het programma wordt nu uitgevoerd in x86 compatibiliteitsmodus",
