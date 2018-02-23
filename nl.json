@@ -766,5 +766,6 @@
     "ui.options.communityTranslationsAgree": "Accepteren & Activeren",
     "ui.options.gameplay.defaultGearboxBehavior": "Standaard versnellingsbakgedrag",
     "ui.options.graphics.uimaxresNotAvailable": "Maximum resolutie UI is niet beschikbaar in het hoofdmenu",
-    "ui.controls.createBinding": "Maak een nieuwe verbinding"
+    "ui.controls.createBinding": "Maak een nieuwe verbinding",
+    "ui.controls.ffbHardwareMissing": "Geen force feedback hardware gevonden"
 }
