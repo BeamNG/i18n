@@ -7,7 +7,7 @@
     "campaigns.utah.chapter_1.walljump.title": "Hoofdstuk 1 muur sprong",
     "campaigns.utah.chapter_2.canyon.title": "Hoofdstuk 2 kloof",
     "campaigns.utah.chapter_2.mixed.title": "Hoofdstuk 2 gemixt",
-    "engine.cef.subprocessdied.msg": "Het UI-Proces reageert ongewoon traag.\nDit kan gebeuren als een antivirusprogramma de BeamNG.drive.ui.exe-applicatie blokkeert.\n\nJe kunt hier meer informatie vinden:\n\nhttp://wiki.beamng.com/Errors/Unresponsive_UI_Process\n\nWil je dit webadres nu in je browser openen?",
+    "engine.cef.subprocessdied.msg": "Het User Interface-Proces antwoorde niet op tijd.\nDe oorzaak kan een Antivirusprogramma zijn die de BeamNG.drive.ui.exe applicatie blokkeert.\n\nJe kan hier meer informatie vinden:\n\nhttp://wiki.beamng.com/Errors/Unresponsive_UI_Process\n\nWilt je het webadres openen in je browser?",
     "engine.cef.subprocessdied.title": "UI-Proces reageert niet",
     "engine.cef.subprocessdied.url": "http://wiki.beamng.com/Errors/Unresponsive_UI_Process",
     "engine.editor.menu.createBlankTerrain": "Creëer leeg terrein",
