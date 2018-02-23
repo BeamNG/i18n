@@ -476,7 +476,7 @@
     "ui.options.camera.transitionTime": "Overgangstijd",
     "ui.options.gameplay": "Gameplay",
     "ui.options.gameplay.competitiveScenarios": "Voorwaarden wedstrijdscenario",
-    "ui.options.gameplay.controlOnBlur": "Sta controller input en force feedback toe als het venster niet op de voorgrond is",
+    "ui.options.gameplay.controlOnBlur": "Machtig controller om de aansturing en force feedback te gebruiken als het venster niet op de voorgrond staat",
     "ui.options.gameplay.defaultToCurrentVehicle": "Huidig voertuig als standaard instellen",
     "ui.options.gameplay.enginesPreheated": "Voertuigmotoren voorverwarmd starten",
     "ui.options.gameplay.gameplay": "Gameplay",
