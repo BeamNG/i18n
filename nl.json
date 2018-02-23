@@ -487,7 +487,7 @@
     "ui.options.graphics.GraphicAnisotropic": "Anisotropisch filteren",
     "ui.options.graphics.GraphicAntialiasType": "Anti-aliasing",
     "ui.options.graphics.GraphicDynReflection": "Dynamische weerspiegelingen",
-    "ui.options.graphics.GraphicDynReflection.warning": "Let op - Deze optie is grafisch erg intensief. indien u problemen ondervindt zou u deze, voor betere prestaties, kunnen verlagen.",
+    "ui.options.graphics.GraphicDynReflection.warning": "Let op - Deze optie is grafisch erg intensief. Indien u problemen ondervindt zou u deze, voor betere prestaties, kunnen verlagen",
     "ui.options.graphics.GraphicDynReflectionDetail": "Detail",
     "ui.options.graphics.GraphicDynReflectionDistance": "Afstand",
     "ui.options.graphics.GraphicDynReflectionFacesPerupdate": "Vlakken per update",
