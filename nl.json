@@ -741,5 +741,6 @@
     "ui.quickrace.tod.morning": "Ochtend",
     "ui.quickrace.tod.lateNoon": "Laat in de middag",
     "ui.modmanager.activate": "Activeer",
-    "ui.modmanager.modData": "Mod data"
+    "ui.modmanager.modData": "Mod data",
+    "ui.modmanager.filesize": "Bestandsgrootte"
 }
