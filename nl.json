@@ -445,7 +445,7 @@
     "ui.mainmenu.exit": "Afsluiten",
     "ui.mainmenu.garage": "GARAGE",
     "ui.mainmenu.help": "HELP",
-    "ui.mainmenu.mods": "MODERATOREN",
+    "ui.mainmenu.mods": "MODS",
     "ui.mainmenu.news": "NIEUWS",
     "ui.mainmenu.options": "OPTIES",
     "ui.mainmenu.play": "SPELEN",
@@ -732,5 +732,8 @@
     "ui.unit.l": "Liters",
     "ui.unit.gal": "Gallons",
     "ui.unit.bar": "Balk",
-    "ui.unit.kPa": "Kilopascal"
+    "ui.unit.kPa": "Kilopascal",
+    "ui.mainmenu.warningdetails": "Klik hier voor details en om meer te weten",
+    "ui.mainmenu.modwizard": "MOD WIZARD",
+    "ui.mainmenu.onlineFeatures.featureTitle": "Online functies activeren?"
 }
