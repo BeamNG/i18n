@@ -556,7 +556,7 @@
     "ui.performance.showDetails": "Laat Details Zien",
     "ui.performance.warnings.amdhd": "Het beste advies is dat je op z'n minst een AMD Radeon HD XXX nodig hebt",
     "ui.performance.warnings.cpuonecore": "Dit spel werkt niet goed op slechts één physical core",
-    "ui.performance.warnings.dinput": "Directe input (voor stuurwielen) is niet beschikbaar, installeer DirectX 9 opnieuw: [url=http://wiki.beamng.com/DirectXInstallation]wiki.beamng.com/DirectXInstallation[/url]",
+    "ui.performance.warnings.dinput": "Direct Input (voor stuurwielen) is niet beschikbaar, installeer DirectX 9 opnieuw: [url=http://wiki.beamng.com/DirectXInstallation]wiki.beamng.com/DirectXInstallation[/url]",
     "ui.performance.warnings.missing64binary": "Dit is geen 64-bitversie: geen 64-bitversie aanwezig: Opnieuw installeren alstublieft",
     "ui.performance.warnings.oswin8": "Windows 8 aangeraden: het programma wordt nu uitgevoerd in x86 compatibiliteitsmodus",
     "ui.performance.warnings.remotedesktop": "Je gebruikt Remote Desktop",
@@ -784,5 +784,5 @@
     "ui.performance.improvements.ssao": "Zet SSAO uit in",
     "ui.performance.improvements.resolution": "Verlaag resolutie in",
     "ui.performance.warnings.thirdpartysoftware": "64-Bit versie niet gedetecteerd: Lavasoft software gevonden. Meer informatie & oplossing hier: [url=http://wiki.beamng.com/Lavasoft]wiki.beamng/lavasoft[/url]",
-    "ui.performance.warnings.xinput": "XInput (gebruikt voor gamepads) is niet beschikbaar, herinstalleer DirectX 9: [url=http://wiki.beamng.com/DirectXInstallation]wiki.beamng.com/DirectXInstallation[/url]"
+    "ui.performance.warnings.xinput": "XInput (gebruikt voor gamepads) is niet beschikbaar, installeer DirectX 9 opnieuw alstublieft: [url=http://wiki.beamng.com/DirectXInstallation]wiki.beamng.com/DirectXInstallation[/url]"
 }
