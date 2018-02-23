@@ -401,7 +401,7 @@
     "ui.hints.playMultiseat": "Sluit meerdere controllers aan om thuis met je vrienden te spelen, door één van de multiseatscenario's te openen.",
     "ui.hints.publishScreenshots": "Als je het leuk vind om foto's van je auto te maken, kun je [action=hide_ui] gebruiken om de gebruikersinterface uit te zetten en vervolgens [action=publishScreenShot] gebruiken om de foto te uploaden.",
     "ui.hints.quickCameraMovement": "Houd [action=movefast] ingedrukt om sneller met de camera te bewegen (niet ondersteund door alle camera's).",
-    "ui.hints.quickSteerResponse": "Voor snellere stuurreacties probeer je verschillende filters voor de [action=steer_left] en [action=steer_right].",
+    "ui.hints.quickSteerResponse": "Voor snellere stuurreacties probeer verschillende filters voor de [action=steer_left] en [action=steer_right] knoppen.",
     "ui.hints.raceBrakesEffectiveness": "Raceremmen zijn minder effectief als ze te koud zijn.",
     "ui.hints.recoverVehicle": "Als je voertuig vast zit, druk je [action=recover_vehicle] om het te herstellen.",
     "ui.hints.removeRearSeats": "Maak je voertuig sneller door onnodig gewicht zoals de achterbank te verwijderen met behulp van de onderdelenselector [action=parts_selector].",
@@ -787,5 +787,7 @@
     "ui.performance.warnings.xinput": "XInput (gebruikt voor gamepads) is niet beschikbaar, installeer DirectX 9 opnieuw alstublieft: [url=http://wiki.beamng.com/DirectXInstallation]wiki.beamng.com/DirectXInstallation[/url]",
     "ui.performance.warnings.memused": "Meer dan 80% van uw systeemgeheugen is in gebruik. Overweeg applicaties af te sluiten of start de computer opnieuw op.",
     "ui.performance.warnings.amdradeon": "Er is tenminste een AMD Radeon R8 vereist",
-    "ui.performance.warnings.gpulowmem": "Je videokaart heeft minder dan 512MB geheugen."
+    "ui.performance.warnings.gpulowmem": "Je videokaart heeft minder dan 512MB geheugen",
+    "ui.performance.warnings.gpurecmem": "Minstens 2048MB geheugen is aangeraden",
+    "ui.performance.warnings.app32": "64-Bit versie van het spel is aangeraden: voert nu uit in x86 comptabiliteitsmodus"
 }
