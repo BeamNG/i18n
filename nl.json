@@ -356,7 +356,7 @@
     "ui.faq": "Help / FAQ",
     "ui.faq.changeCamera.a": "Druk op [action=switch_camera] om van camera te wisselen, of [action=toggleCamera] om de vrije camera te gebruiken.",
     "ui.faq.changeCamera.q": "Hoe verander ik de camera?",
-    "ui.faq.changeVehicle.a": "Je kunt de voertuigkiezer vanaf het dashboard gebruiken door [action=toggleMenues] te gebruiken of door op [action=vehicle_selector] te drukken.",
+    "ui.faq.changeVehicle.a": "Je kunt de voertuig kiezer gebruiken vanaf het dashboard door  [action=toggleMenues] te gebruiken of door op [action=vehicle_selector] te duwen",
     "ui.faq.changeVehicle.q": "Hoe verander ik van voertuig?",
     "ui.faq.getSupport.q": "Hoe kan ik hulp krijgen?",
     "ui.faq.spawnVehicle.q": "Hoe spawn ik meer voertuigen?",
