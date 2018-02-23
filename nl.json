@@ -768,5 +768,6 @@
     "ui.options.graphics.uimaxresNotAvailable": "Maximum resolutie UI is niet beschikbaar in het hoofdmenu",
     "ui.controls.createBinding": "Maak een nieuwe verbinding",
     "ui.controls.ffbHardwareMissing": "Geen force feedback hardware gevonden",
-    "ui.controls.driverWarning": "Waarschuwing: als je problemen ervaart met de force feedback van je {{productName}}, moet je misschien je Logitech drivers updaten naar de meest recente versie."
+    "ui.controls.driverWarning": "Waarschuwing: als je problemen ervaart met de force feedback van je {{productName}}, moet je misschien je Logitech drivers updaten naar de meest recente versie.",
+    "ui.controls.usePhoneOrTablet": "Gebruik je telefoon of tablet om te rijden!"
 }
