@@ -657,5 +657,6 @@
     "ui.apps.vehicleDebug.explodeVehicle": "車両を爆破",
     "ui.apps.vehicleDebug.igniteVehicle": "車両に点火",
     "ui.apps.vehicleDebug.deflateTires": "タイヤをパンク",
-    "ui.apps.vehicleDebug.breakAll": "全てのパーツを破壊"
+    "ui.apps.vehicleDebug.breakAll": "全てのパーツを破壊",
+    "ui.mainmenu.warningdetails": "ここをクリックして承認し詳細を見る。"
 }
