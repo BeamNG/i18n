@@ -573,7 +573,7 @@
     "ui.repository.download_count": "ダウンロード回数",
     "ui.repository.rating": "評価",
     "ui.repository.author": "著者",
-    "ui.repository.filesize": "容量",
+    "ui.repository.filesize": "ファイルサイズ",
     "ui.repository.search": "検索",
     "ui.repository.order_by": "並び替え",
     "ui.repository.option_rating": "評価",
