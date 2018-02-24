@@ -607,5 +607,6 @@
     "ui.levelselect.x86Disabled": "このマップで遊ぶためには64bit版のゲームを使ってください。",
     "ui.repository.scheduled_status": "状態",
     "ui.repository.scheduled_upd": "Modをアップデートする",
-    "ui.repository.modDownloading": "Modダウンロード中"
+    "ui.repository.modDownloading": "Modダウンロード中",
+    "ui.repository.modDownloaded": "Modダウンロード完了"
 }
