@@ -608,5 +608,21 @@
     "ui.repository.scheduled_status": "状態",
     "ui.repository.scheduled_upd": "Modをアップデートする",
     "ui.repository.modDownloading": "Modダウンロード中",
-    "ui.repository.modDownloaded": "Modダウンロード完了"
+    "ui.repository.modDownloaded": "Modダウンロード完了",
+    "ui.quickrace.selectLevel": "マップ選択",
+    "ui.modmanager.author": "著者",
+    "ui.modmanager.deleteAll": "全てのModを削除",
+    "ui.modmanager.updateAll": "全てのModをアップデート",
+    "ui.modmanager.downloading": "ダウンロード中",
+    "ui.modmanager.downloaded": "ダウンロード完了",
+    "ui.environment.day": "昼",
+    "ui.color.brightness": "輝度",
+    "ui.vehicleconfig.mouseOverUi": "確実にキーボード入力がUIに認識されるために入力の最中はマウスをUIの上に置いて下さい。",
+    "ui.replay.play": "再生",
+    "ui.replay.stop": "停止",
+    "ui.replay.rename": "名前の変更",
+    "ui.apps.chat_application.name": "チャットアプリ",
+    "ui.options.userInterface.editApps": "UIアプリをカスタマイズする",
+    "ui.debug.vehicle.centerOfGravity": "重心",
+    "ui.debug.renderer.disableShadows": "影を無効にする"
 }
