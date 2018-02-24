@@ -579,7 +579,7 @@
     "ui.repository.option_rating": "評価",
     "ui.repository.filter_latest": "最新",
     "ui.repository.cat_all": "全て",
-    "ui.repository.cat_veh": "乗り物",
+    "ui.repository.cat_veh": "車両",
     "ui.repository.cat_veh_land": "地上",
     "ui.repository.tagid": "Mod ID",
     "ui.repository.updates": "アップデート",
@@ -604,5 +604,8 @@
     "ui.dashboard.feedback": "フィードバック",
     "ui.dashboard.appedit": "UIアプリをカスタマイズする",
     "ui.levelselect.description": "説明",
-    "ui.levelselect.x86Disabled": "このマップで遊ぶためには64bit版のゲームを使ってください。"
+    "ui.levelselect.x86Disabled": "このマップで遊ぶためには64bit版のゲームを使ってください。",
+    "ui.repository.scheduled_status": "状態",
+    "ui.repository.scheduled_upd": "Modをアップデートする",
+    "ui.repository.modDownloading": "Modダウンロード中"
 }
