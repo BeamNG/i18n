@@ -2113,5 +2113,7 @@
     "ui.repository.loading": "Загрузка...",
     "ui.repository.loadingTimedOut": "Загрузка продолжается дольше обычного. Если проблема остаётся, свяжитесь со службой поддержки.",
     "ui.options.graphics.DisplayShadows": "Отображать тени",
-    "scenarios.utah.chapter_1.chapter_1_suspension.wall.fail.msg": "Вы не врезались в стену"
+    "scenarios.utah.chapter_1.chapter_1_suspension.wall.fail.msg": "Вы не врезались в стену",
+    "ui.fonts.primary": "Play",
+    "ui.fonts.secondary": "News Cycle"
 }
