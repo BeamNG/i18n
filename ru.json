@@ -2115,5 +2115,6 @@
     "ui.options.graphics.DisplayShadows": "Отображать тени",
     "scenarios.utah.chapter_1.chapter_1_suspension.wall.fail.msg": "Вы не врезались в стену",
     "ui.fonts.primary": "Play",
-    "ui.fonts.secondary": "News Cycle"
+    "ui.fonts.secondary": "News Cycle",
+    "ui.fonts.fallback": "Roboto"
 }
