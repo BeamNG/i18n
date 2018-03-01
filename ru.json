@@ -127,7 +127,7 @@
     "engine.editor.menu.standartCamera": "Стандартная",
     "engine.editor.menu.toTerrain": "на ландшафт",
     "engine.editor.menu.toggleCamModes": "Переключить режимы камеры",
-    "engine.editor.menu.toggleCamera": "Переключить камеру",
+    "engine.editor.menu.toggleCamera": "Переключить на свободную камеру",
     "engine.editor.menu.transformSel": "Трансформировать выделение...",
     "engine.editor.menu.undo": "Отменить",
     "engine.editor.menu.unlockSelection": "Разблокировать выделение",
