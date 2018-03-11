@@ -109,7 +109,7 @@
     "engine.editor.menu.posXAxis": "Ось +X",
     "engine.editor.menu.posYAxis": "Ось +Y",
     "engine.editor.menu.posZAxis": "Ось +Z",
-    "engine.editor.menu.postfxManager": "Управление постообработкой",
+    "engine.editor.menu.postfxManager": "Управление постобработкой",
     "engine.editor.menu.quit": "Выйти",
     "engine.editor.menu.redo": "Вернуть",
     "engine.editor.menu.resetSelRot": "Сбросить вращение выделения",
