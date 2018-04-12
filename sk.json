@@ -2007,5 +2007,5 @@
     "vehicle.bdebug.beamVisMode.deformgroups": "Deformačné skupiny",
     "ui.repository.support": "podporu",
     "ui.options.camera.fineAdjustHint": "Kliknite a použite šípky na klávesnici pre jemné úpravy",
-    "ui.options.camera.fovHint": "Povoľuje Vám zmeniť orné pole. Pridá sa do nastavení vozidla"
+    "ui.options.camera.fovHint": "Povoľuje Vám zmeniť zorné pole. Pridá sa do nastavení vozidla"
 }
