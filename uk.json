@@ -122,7 +122,7 @@
     "engine.editor.menu.speed": "Швидкість",
     "engine.editor.menu.standartCamera": "Типова",
     "engine.editor.menu.toTerrain": "на місцевість",
-    "engine.editor.menu.toggleCamera": "Перемикання камери",
+    "engine.editor.menu.toggleCamera": "Перемкнути на вільну камеру",
     "engine.editor.menu.transformSel": "Трансформувати виділення...",
     "engine.editor.menu.undo": "Відмінити",
     "engine.editor.menu.unlockSelection": "Розблокувати виділення",
