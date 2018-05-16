@@ -308,5 +308,6 @@
     "engine.editor.menu.exitLevel": "離開地圖",
     "engine.editor.menu.edit": "編輯",
     "engine.editor.menu.undo": "上一步",
-    "engine.editor.menu.redo": "重做"
+    "engine.editor.menu.redo": "重做",
+    "engine.editor.menu.cut": "剪下"
 }
