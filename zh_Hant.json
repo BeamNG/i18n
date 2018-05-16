@@ -1566,5 +1566,6 @@
     "vehicle.bdebug.nodeTextMode.off": "關",
     "vehicle.bdebug.nodeTextMode.names": "名稱",
     "vehicle.bdebug.nodeTextMode.numbers": "編號",
-    "vehicle.bdebug.nodeTextMode.names+numbers": "名稱與編號"
+    "vehicle.bdebug.nodeTextMode.names+numbers": "名稱與編號",
+    "vehicle.bdebug.nodeTextMode.weights": "重量"
 }
