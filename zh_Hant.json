@@ -335,5 +335,7 @@
     "engine.editor.menu.camera.right": "右視圖",
     "engine.editor.menu.camera.perspective": "透視圖",
     "engine.editor.menu.camera.isometric": "平視圖",
-    "engine.editor.menu.cameraspeed": "攝影機速度"
+    "engine.editor.menu.cameraspeed": "攝影機速度",
+    "engine.editor.menu.cameraspeed.slowest": "最慢",
+    "engine.editor.menu.cameraspeed.slow": "慢"
 }
