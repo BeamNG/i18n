@@ -304,5 +304,7 @@
     "engine.editor.menu.importTerrainHeightmap": "匯入地形高度圖",
     "engine.editor.menu.exportTerrainHeightmap": "匯出地形高度圖",
     "engine.editor.menu.exportToCollada": "以COLLADA格式匯出...",
-    "engine.editor.menu.playLevel": "遊玩地圖"
+    "engine.editor.menu.playLevel": "遊玩地圖",
+    "engine.editor.menu.exitLevel": "離開地圖",
+    "engine.editor.menu.edit": "編輯"
 }
