@@ -1560,5 +1560,6 @@
     "vehicle.bdebug.meshVisibility": "模型可見度: {{visibilityPercent}}%",
     "vehicle.bdebug.nodeVisMode.simple": "簡單",
     "vehicle.bdebug.nodeVisMode.weights": "重量",
-    "vehicle.bdebug.nodeVisMode.forces": "受力"
+    "vehicle.bdebug.nodeVisMode.forces": "受力",
+    "vehicle.bdebug.nodeVisMode.density": "密度"
 }
