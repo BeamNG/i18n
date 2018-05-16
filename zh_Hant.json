@@ -1525,5 +1525,6 @@
     "vehicle.drivetrain.deviceBroken": "{{deviceName}}受損",
     "vehicle.drivetrain.stalledStarting": "引擎熄火，正在重新發動...",
     "vehicle.drivetrain.stalledAutoClutch": "引擎熄火，按[action=activateStarterMotor]發動",
-    "vehicle.drivetrain.fuelLeaking": "燃料洩漏"
+    "vehicle.drivetrain.fuelLeaking": "燃料洩漏",
+    "vehicle.drivetrain.driveshaftBroken": "傳動軸損壞"
 }
