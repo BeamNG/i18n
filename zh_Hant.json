@@ -383,5 +383,6 @@
     "engine.editor.menu.dropSel": "放置所選",
     "engine.editor.menu.dropLocation": "放置所選至",
     "engine.editor.menu.makeSelPrefab": "設定所選為Prefab",
-    "engine.editor.menu.explodeSelPrefab": "解散所選Prefab"
+    "engine.editor.menu.explodeSelPrefab": "解散所選Prefab",
+    "extensions.scenario.onRaceEnd.default.win": "做得好！你的時間：{{timeStr}}"
 }
