@@ -277,5 +277,6 @@
     "vehicle.engine.radiatorDamaged": "散熱器已損毀",
     "vehicle.engine.rodBearingsDamaged": "連桿軸承已損毀",
     "vehicle.main.instability": "",
-    "vehicle.recovery.recovered": "載具已修復"
+    "vehicle.recovery.recovered": "載具已修復",
+    "engine.lua.reloaded": "主要LUA已經加載完畢"
 }
