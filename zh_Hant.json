@@ -326,5 +326,14 @@
     "engine.editor.menu.orbitCamera": "環繞攝影機",
     "engine.editor.menu.gameCamera": "遊戲攝影機",
     "engine.editor.menu.smoothedCamera": "平滑",
-    "engine.editor.menu.smoothedRotateCamera": "平滑旋轉"
+    "engine.editor.menu.smoothedRotateCamera": "平滑旋轉",
+    "engine.editor.menu.camera.top": "頂視圖",
+    "engine.editor.menu.camera.bottom": "底視圖",
+    "engine.editor.menu.camera.front": "前視圖",
+    "engine.editor.menu.camera.back": "後視圖",
+    "engine.editor.menu.camera.left": "左視圖",
+    "engine.editor.menu.camera.right": "右視圖",
+    "engine.editor.menu.camera.perspective": "透視圖",
+    "engine.editor.menu.camera.isometric": "平視圖",
+    "engine.editor.menu.cameraspeed": "攝影機速度"
 }
