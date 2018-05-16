@@ -352,5 +352,6 @@
     "engine.editor.menu.fitViewSelection": "視野符合至所選",
     "engine.editor.menu.fitViewSelectionOrbit": "視野符合至所選並環繞",
     "engine.editor.menu.speed": "速度",
-    "engine.editor.menu.viewType": "視角"
+    "engine.editor.menu.viewType": "視角",
+    "engine.editor.menu.addBookmark": "添加書籤..."
 }
