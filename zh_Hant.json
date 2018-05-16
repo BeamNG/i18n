@@ -1526,5 +1526,9 @@
     "vehicle.drivetrain.stalledStarting": "引擎熄火，正在重新發動...",
     "vehicle.drivetrain.stalledAutoClutch": "引擎熄火，按[action=activateStarterMotor]發動",
     "vehicle.drivetrain.fuelLeaking": "燃料洩漏",
-    "vehicle.drivetrain.driveshaftBroken": "傳動軸損壞"
+    "vehicle.drivetrain.driveshaftBroken": "傳動軸損壞",
+    "vehicle.drivetrain.engineDrying": "引擎排水({{percent}}%)",
+    "vehicle.drivetrain.engineDried": "引擎排水完畢",
+    "vehicle.drivetrain.engineFlooding": "引擎進水({{percent}}%)",
+    "vehicle.drivetrain.engineHydrolocked": "引擎因進水鎖死"
 }
