@@ -299,5 +299,6 @@
     "engine.editor.menu.newLevel": "新地圖",
     "engine.editor.menu.openLevel": "打開地圖...",
     "engine.editor.menu.saveLevel": "保存地圖",
-    "engine.editor.menu.saveLevelAs": "將檔案另存為..."
+    "engine.editor.menu.saveLevelAs": "將檔案另存為...",
+    "engine.editor.menu.resaveLevel": "重新儲存所有內容"
 }
