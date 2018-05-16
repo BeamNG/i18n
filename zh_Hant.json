@@ -1563,5 +1563,6 @@
     "vehicle.bdebug.nodeVisMode.forces": "受力",
     "vehicle.bdebug.nodeVisMode.density": "密度",
     "vehicle.bdebug.nodeVisMode": "節點視覺化模式: {{nodeVisMode | translate}}",
-    "vehicle.bdebug.nodeTextMode.off": "關"
+    "vehicle.bdebug.nodeTextMode.off": "關",
+    "vehicle.bdebug.nodeTextMode.names": "名稱"
 }
