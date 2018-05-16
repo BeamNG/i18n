@@ -364,5 +364,6 @@
     "engine.editor.menu.screenCenter": "視窗中心",
     "engine.editor.menu.atCenteroid": "中心點",
     "engine.editor.menu.belowSelection": "所選下方",
-    "engine.editor.menu.posXAxis": "+X 軸"
+    "engine.editor.menu.posXAxis": "+X 軸",
+    "engine.editor.menu.posYAxis": "+ Y軸"
 }
