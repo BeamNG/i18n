@@ -16,7 +16,7 @@
     "engine.editor.menu.object": "物件",
     "engine.editor.menu.postfxManager": "PostEffect管理器",
     "engine.editor.menu.quit": "退出",
-    "engine.editor.menu.resetSelScale": "重設已選尺寸",
+    "engine.editor.menu.resetSelScale": "重設所選縮放",
     "engine.editor.menu.toTerrain": "地形",
     "engine.editor.menu.unlockSelection": "解鎖所選",
     "engine.editor.menu.xAxis": "X 軸",
@@ -377,6 +377,11 @@
     "engine.editor.menu.showSelection": "顯示所選",
     "engine.editor.menu.alignBounds": "對齊邊界",
     "engine.editor.menu.alignCenter": "對齊中央",
-    "engine.editor.menu.resetTransforms": "重置位移",
-    "engine.editor.menu.resetSelRot": "重置所選旋轉"
+    "engine.editor.menu.resetTransforms": "重設位移",
+    "engine.editor.menu.resetSelRot": "重設所選旋轉",
+    "engine.editor.menu.transformSel": "移動所選...",
+    "engine.editor.menu.dropSel": "放置所選",
+    "engine.editor.menu.dropLocation": "放置所選至",
+    "engine.editor.menu.makeSelPrefab": "設定所選為Prefab",
+    "engine.editor.menu.explodeSelPrefab": "解散所選Prefab"
 }
