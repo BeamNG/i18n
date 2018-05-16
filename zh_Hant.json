@@ -295,5 +295,6 @@
     "engine.nodegrab.uncoupling": "斷開所有已連接的節點",
     "engine.nodegrab.coupling": "正在連接兩個節點",
     "engine.editor.loading": "正在載入世界編輯器...",
-    "engine.editor.menu.file": "檔案"
+    "engine.editor.menu.file": "檔案",
+    "engine.editor.menu.newLevel": "新地圖"
 }
