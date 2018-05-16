@@ -368,5 +368,6 @@
     "engine.editor.menu.posYAxis": "+Y 軸",
     "engine.editor.menu.posZAxis": "+Z 軸",
     "engine.editor.menu.negXAxis": "-X 軸",
-    "engine.editor.menu.negYAxis": "-Y 軸"
+    "engine.editor.menu.negYAxis": "-Y 軸",
+    "engine.editor.menu.negZAxis": "-Z軸"
 }
