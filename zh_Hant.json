@@ -374,5 +374,6 @@
     "engine.editor.menu.zAxis": "Z 軸",
     "engine.editor.menu.lockSelection": "鎖定所選",
     "engine.editor.menu.hideSelection": "隱藏所選",
-    "engine.editor.menu.showSelection": "顯示所選"
+    "engine.editor.menu.showSelection": "顯示所選",
+    "engine.editor.menu.alignBounds": "對齊邊界"
 }
