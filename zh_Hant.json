@@ -292,5 +292,6 @@
     "engine.levelModified.title": "地圖已修改",
     "engine.levelModified.msg": "地圖已於編輯器中修改，是否保存?",
     "engine.nodegrab.fixedwarning": "CTRL + 滑鼠中鍵以鬆開節點",
-    "engine.nodegrab.uncoupling": "斷開所有已連接的節點"
+    "engine.nodegrab.uncoupling": "斷開所有已連接的節點",
+    "engine.nodegrab.coupling": "連接兩個節點"
 }
