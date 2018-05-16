@@ -14,7 +14,7 @@
     "engine.editor.menu.deselect": "取消選取",
     "engine.editor.menu.lighting": "光",
     "engine.editor.menu.object": "物體",
-    "engine.editor.menu.postfxManager": "",
+    "engine.editor.menu.postfxManager": "PostEffect管理器",
     "engine.editor.menu.quit": "退出",
     "engine.editor.menu.resetSelScale": "重設已選尺寸",
     "engine.editor.menu.toTerrain": "",
@@ -316,5 +316,6 @@
     "engine.editor.menu.select": "選擇...",
     "engine.editor.menu.audioParams": "音效參數...",
     "engine.editor.menu.editorSettings": "編輯器設定...",
-    "engine.editor.menu.snapOptions": "吸附選項..."
+    "engine.editor.menu.snapOptions": "吸附選項...",
+    "engine.editor.menu.gameOptions": "遊戲選項..."
 }
