@@ -1530,5 +1530,6 @@
     "vehicle.drivetrain.engineDrying": "引擎排水({{percent}}%)",
     "vehicle.drivetrain.engineDried": "引擎排水完畢",
     "vehicle.drivetrain.engineFlooding": "引擎進水({{percent}}%)",
-    "vehicle.drivetrain.engineHydrolocked": "引擎因進水鎖死"
+    "vehicle.drivetrain.engineHydrolocked": "引擎因進水鎖死",
+    "vehicle.drivetrain.engineDamaged": "引擎損壞"
 }
