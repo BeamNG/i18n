@@ -315,5 +315,6 @@
     "engine.editor.menu.delete": "刪除",
     "engine.editor.menu.select": "選擇...",
     "engine.editor.menu.audioParams": "音效參數...",
-    "engine.editor.menu.editorSettings": "編輯器設定"
+    "engine.editor.menu.editorSettings": "編輯器設定...",
+    "engine.editor.menu.snapOptions": "吸附選項..."
 }
