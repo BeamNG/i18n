@@ -284,5 +284,13 @@
     "engine.resourceMissing": "建立資源失敗(檔案是否已經遺失?)",
     "engine.engineFail": "無法啟動遊戲，正在關閉",
     "engine.msgboxErrorTitle": "錯誤",
-    "engine.invalidUserpath.title": "無效的使用者路徑"
+    "engine.invalidUserpath.title": "無效的使用者路徑",
+    "engine.invalidUserpath.msg": "BeamNG.drive無法開啟遊戲資料夾內 startup.ini 中所設定之使用者路徑，更改為有效的路徑:",
+    "engine.windowedModeReq.title": "必須使用視窗模式",
+    "engine.windowedModeReq.msgEditor": "請離開任務編輯器以切換至全螢幕模式",
+    "engine.windowedModeReq.msgGUI": "請離開GUI編輯器以切換至全瑩幕模式",
+    "engine.levelModified.title": "地圖已修改",
+    "engine.levelModified.msg": "地圖已於編輯器中修改，是否保存?",
+    "engine.nodegrab.fixedwarning": "CTRL + 滑鼠中鍵以鬆開節點",
+    "engine.nodegrab.uncoupling": "斷開所有已連接的節點"
 }
