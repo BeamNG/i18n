@@ -306,5 +306,6 @@
     "engine.editor.menu.exportToCollada": "以COLLADA格式匯出...",
     "engine.editor.menu.playLevel": "遊玩地圖",
     "engine.editor.menu.exitLevel": "離開地圖",
-    "engine.editor.menu.edit": "編輯"
+    "engine.editor.menu.edit": "編輯",
+    "engine.editor.menu.undo": "上一步"
 }
