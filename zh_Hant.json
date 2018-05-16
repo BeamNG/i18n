@@ -13,12 +13,12 @@
     "engine.editor.menu.createBlankTerrain": "建立空白地形",
     "engine.editor.menu.deselect": "取消選取",
     "engine.editor.menu.lighting": "燈光",
-    "engine.editor.menu.object": "物體",
+    "engine.editor.menu.object": "物件",
     "engine.editor.menu.postfxManager": "PostEffect管理器",
     "engine.editor.menu.quit": "退出",
     "engine.editor.menu.resetSelScale": "重設已選尺寸",
     "engine.editor.menu.toTerrain": "地形",
-    "engine.editor.menu.unlockSelection": "解鎖模塊",
+    "engine.editor.menu.unlockSelection": "解鎖所選",
     "engine.editor.menu.xAxis": "X 軸",
     "engine.welcome": "歡迎來到繁體中文版的BeamNG.Drive! ᕕ ( ᐛ ) ᕗ",
     "extensions.scenario.damageGoal.checkDamage.fail.msg": "請注意! 您的載具已經損壞 {{damage}}%",
@@ -371,5 +371,8 @@
     "engine.editor.menu.negYAxis": "-Y 軸",
     "engine.editor.menu.negZAxis": "-Z 軸",
     "engine.editor.menu.yAxis": "Y 軸",
-    "engine.editor.menu.zAxis": "Z軸"
+    "engine.editor.menu.zAxis": "Z 軸",
+    "engine.editor.menu.lockSelection": "鎖定所選",
+    "engine.editor.menu.hideSelection": "隱藏所選",
+    "engine.editor.menu.showSelection": "顯示所選"
 }
