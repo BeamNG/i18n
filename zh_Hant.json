@@ -267,8 +267,8 @@
     "ui.unit.psi": "磅力每平方英寸(PSI)",
     "ui.vehicleconfig.vehicleconfig": "自訂載具",
     "vehicle.bdebug.beamVisMode.simple": "",
-    "vehicle.bdebug.cogMode.off": "關閉",
-    "vehicle.bdebug.nodeVisMode.off": "關閉",
+    "vehicle.bdebug.cogMode.off": "關",
+    "vehicle.bdebug.nodeVisMode.off": "關",
     "vehicle.bdebug.nodeVisMode.velocities": "",
     "vehicle.bullettime.change": "放慢 {{slowmoTimes}} 倍速",
     "vehicle.drivetrain.shifterModeNameRealistic": "寫實",
@@ -1547,5 +1547,15 @@
     "vehicle.recovery.saveHome": "載具出生點已更新 (使用[action=loadHome]回復至出生點)",
     "vehicle.recovery.quick": "載具已復原 (長按進行進一步復原)",
     "vehicle.recovery.end": "載具已復原 (無法更進一步進行復原)",
-    "vehicle.recovery.recovering": "正在復原載具…"
+    "vehicle.recovery.recovering": "正在復原載具…",
+    "vehicle.bullettime.changeSlow": "{{slowmoTimes}}倍速減慢",
+    "vehicle.bullettime.changeFast": "{{speed}}倍速加快",
+    "vehicle.bullettime.slowmotion": "慢動作啟動",
+    "vehicle.bullettime.realtime": "實際速度",
+    "vehicle.bdebug.cogMode.on": "開",
+    "vehicle.bdebug.cogMode.nowheels": "排除車輪",
+    "vehicle.bdebug.cogMode": "重心模式: {{cogMode | translate}}",
+    "vehicle.bdebug.trisOff": "停用顯示碰撞三角形",
+    "vehicle.bdebug.trisOn": "啟用顯示碰撞三角形",
+    "vehicle.bdebug.meshVisibility": "模型可見度: {{visibilityPercent}}%"
 }
