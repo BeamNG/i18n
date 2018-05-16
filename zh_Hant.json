@@ -274,8 +274,8 @@
     "vehicle.drivetrain.shifterModeNameRealistic": "寫實",
     "vehicle.drivetrain.shifterModeNameUnknown": "未知的變速箱模式",
     "vehicle.drivetrain.stalled": "引擎熄火，按住[action=clutch]並以[action=activateStarterMotor]發動",
-    "vehicle.engine.radiatorDamaged": "散熱器已損毀",
-    "vehicle.engine.rodBearingsDamaged": "連桿軸承已損毀",
+    "vehicle.engine.radiatorDamaged": "散熱器受損",
+    "vehicle.engine.rodBearingsDamaged": "活塞連桿軸承受損",
     "vehicle.main.instability": "",
     "vehicle.recovery.recovered": "載具已修復",
     "engine.lua.reloaded": "主要LUA重新載入完畢",
@@ -1538,5 +1538,9 @@
     "vehicle.beamstate.tireDeflated": "{{wheelName | translate }}爆胎",
     "vehicle.engine.starvedOfOil": "引擎缺乏機油",
     "vehicle.engine.cylinderWallsMelted": "汽缸壁融化",
-    "vehicle.engine.pistonRingsDamaged": "活塞環損毀"
+    "vehicle.engine.pistonRingsDamaged": "活塞環受損",
+    "vehicle.engine.oilOverheating": "機油過熱",
+    "vehicle.engine.blockMelted": "汽缸體融化",
+    "vehicle.engine.headGasketDamaged": "汽缸蓋墊片受損",
+    "vehicle.engine.coolantOverheating": "冷卻劑過熱"
 }
