@@ -8,7 +8,7 @@
     "campaigns.utah.chapter_1.title": "毀天滅地",
     "campaigns.utah.chapter_2.summaryMessage": "做得好! 現在您已經準備好進入下一章了.",
     "campaigns.utah.chapter_2.title": "初來乍到",
-    "engine.cef.subprocessdied.title": "用戶界面未能響應",
+    "engine.cef.subprocessdied.title": "沒有回應的UI程序",
     "engine.editor.menu.cameraspeed.fastest": "最快速",
     "engine.editor.menu.createBlankTerrain": "創建空白地形",
     "engine.editor.menu.deselect": "撤銷選擇",
@@ -278,5 +278,6 @@
     "vehicle.engine.rodBearingsDamaged": "連桿軸承已損毀",
     "vehicle.main.instability": "",
     "vehicle.recovery.recovered": "載具已修復",
-    "engine.lua.reloaded": "主要LUA已經加載完畢"
+    "engine.lua.reloaded": "主要LUA重新載入完畢",
+    "engine.cef.subprocessdied.msg": "UI程序無法及時回應\n若防毒軟體阻擋了BeamNG.drive.ui.exe遭到則可能造成\n\n你可以在此得到更多幫助:\n\nhttp://wiki.beamng.com/Errors/Unresponsive_UI_Process\n\n你要立即以瀏覽器打開此連結嗎?"
 }
