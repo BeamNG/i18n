@@ -388,5 +388,6 @@
     "extensions.scenario.damageGoal.fail.msg": "你的車撞壞了",
     "extensions.scenario.damageGoal.checkDamage.win.msg": "{{damage}}% 損毀",
     "extensions.scenario.timeLimit.failedGoal": "超過指定時間{{maxTime}}",
-    "extensions.scenario.speedGoal.fail.msg": "你沒有達到指定速度"
+    "extensions.scenario.speedGoal.fail.msg": "你沒有達到指定速度",
+    "extensions.scenario.speedGoal.win.msg": "做得好！你的時間：{{time}}"
 }
