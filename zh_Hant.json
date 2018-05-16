@@ -1531,5 +1531,11 @@
     "vehicle.drivetrain.engineDried": "引擎排水完畢",
     "vehicle.drivetrain.engineFlooding": "引擎進水({{percent}}%)",
     "vehicle.drivetrain.engineHydrolocked": "引擎因進水鎖死",
-    "vehicle.drivetrain.engineDamaged": "引擎損壞"
+    "vehicle.drivetrain.engineDamaged": "引擎損壞",
+    "vehicle.drivetrain.engineMildOverrevDamage": "轉速過高: 氣門機構受損",
+    "vehicle.drivetrain.engineCatastrophicOverrevDamage": "轉速過高: 引擎鎖死",
+    "vehicle.drivetrain.engineCatastrophicOverTorqueDamage": "轉速過高: 對引擎造成永久損害",
+    "vehicle.beamstate.tireDeflated": "{{wheelName | translate }}爆胎",
+    "vehicle.engine.starvedOfOil": "引擎缺乏機油",
+    "vehicle.engine.cylinderWallsMelted": "汽缸壁融化"
 }
