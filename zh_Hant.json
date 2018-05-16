@@ -1542,5 +1542,6 @@
     "vehicle.engine.oilOverheating": "機油過熱",
     "vehicle.engine.blockMelted": "汽缸體融化",
     "vehicle.engine.headGasketDamaged": "汽缸蓋墊片受損",
-    "vehicle.engine.coolantOverheating": "冷卻劑過熱"
+    "vehicle.engine.coolantOverheating": "冷卻劑過熱",
+    "vehicle.recovery.loadHome": "載具已回到生成點"
 }
