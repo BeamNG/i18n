@@ -10,7 +10,7 @@
     "campaigns.utah.chapter_2.title": "初來乍到",
     "engine.cef.subprocessdied.title": "沒有回應的UI程序",
     "engine.editor.menu.cameraspeed.fastest": "最快速",
-    "engine.editor.menu.createBlankTerrain": "創建空白地形",
+    "engine.editor.menu.createBlankTerrain": "建立空白地形",
     "engine.editor.menu.deselect": "撤銷選擇",
     "engine.editor.menu.lighting": "光",
     "engine.editor.menu.object": "物體",
@@ -298,7 +298,11 @@
     "engine.editor.menu.file": "檔案",
     "engine.editor.menu.newLevel": "新地圖",
     "engine.editor.menu.openLevel": "打開地圖...",
-    "engine.editor.menu.saveLevel": "保存地圖",
+    "engine.editor.menu.saveLevel": "儲存地圖",
     "engine.editor.menu.saveLevelAs": "將檔案另存為...",
-    "engine.editor.menu.resaveLevel": "重新儲存所有內容"
+    "engine.editor.menu.resaveLevel": "重新儲存所有內容",
+    "engine.editor.menu.importTerrainHeightmap": "匯入地形高度圖",
+    "engine.editor.menu.exportTerrainHeightmap": "匯出地形高度圖",
+    "engine.editor.menu.exportToCollada": "以COLLADA格式匯出...",
+    "engine.editor.menu.playLevel": "遊玩地圖"
 }
