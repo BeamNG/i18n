@@ -317,5 +317,12 @@
     "engine.editor.menu.audioParams": "音效參數...",
     "engine.editor.menu.editorSettings": "編輯器設定...",
     "engine.editor.menu.snapOptions": "吸附選項...",
-    "engine.editor.menu.gameOptions": "遊戲選項..."
+    "engine.editor.menu.gameOptions": "遊戲選項...",
+    "engine.editor.menu.view": "檢視",
+    "engine.editor.menu.visibilityLayers": "可見圖層",
+    "engine.editor.menu.gridOrtho": "在平視視角中顯示方格",
+    "engine.editor.menu.camera": "攝影機",
+    "engine.editor.menu.standartCamera": "標準",
+    "engine.editor.menu.orbitCamera": "環繞攝影機",
+    "engine.editor.menu.gameCamera": "遊戲攝影機"
 }
