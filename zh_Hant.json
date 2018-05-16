@@ -1522,5 +1522,6 @@
     "vehicle.drivetrain.cannotShiftAuto": "無法以此變速箱選擇'{{mode}}'模式",
     "vehicle.drivetrain.cannotShiftSequential": "目前為: 「{{shifterModeName | translate }}」變速箱模式 (以[action=toggleShifterMode]切換)",
     "vehicle.drivetrain.axleBroken": "{{axleName}}輪軸受損",
-    "vehicle.drivetrain.deviceBroken": "{{deviceName}}受損"
+    "vehicle.drivetrain.deviceBroken": "{{deviceName}}受損",
+    "vehicle.drivetrain.stalledStarting": "引擎已經熄火, 正在重新發動..."
 }
