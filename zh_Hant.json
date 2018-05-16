@@ -342,5 +342,13 @@
     "engine.editor.menu.cameraspeed.normal": "普通",
     "engine.editor.menu.cameraspeed.faster": "更快",
     "engine.editor.menu.cameraspeed.fast": "快",
-    "engine.editor.menu.toggleCamModes": "切換相機模式"
+    "engine.editor.menu.toggleCamModes": "切換攝影機模式",
+    "engine.editor.menu.worldCamera": "世界攝影機",
+    "engine.editor.menu.toggleCamera": "切換自由攝影機",
+    "engine.editor.menu.placeCameraSelection": "放置攝影機於所選",
+    "engine.editor.menu.placeCameraPlayer": "將攝影機置於玩家",
+    "engine.editor.menu.placePlayerCamera": "將玩家置於攝影機",
+    "engine.editor.menu.cameraTranslation": "攝影機位移",
+    "engine.editor.menu.fitViewSelection": "視野符合至所選",
+    "engine.editor.menu.fitViewSelectionOrbit": "視野符合至所選並環繞"
 }
