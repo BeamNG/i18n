@@ -273,7 +273,7 @@
     "vehicle.bullettime.change": "放慢 {{slowmoTimes}} 倍速",
     "vehicle.drivetrain.shifterModeNameRealistic": "寫實",
     "vehicle.drivetrain.shifterModeNameUnknown": "未知的變速箱模式",
-    "vehicle.drivetrain.stalled": "引擎死火。按住[action=clutch]及[action=activateStarterMotor]以重新點火",
+    "vehicle.drivetrain.stalled": "引擎熄火，按住[action=clutch]並以[action=activateStarterMotor]發動",
     "vehicle.engine.radiatorDamaged": "散熱器已損毀",
     "vehicle.engine.rodBearingsDamaged": "連桿軸承已損毀",
     "vehicle.main.instability": "",
@@ -1523,5 +1523,7 @@
     "vehicle.drivetrain.cannotShiftSequential": "目前為: 「{{shifterModeName | translate }}」變速箱模式 (以[action=toggleShifterMode]切換)",
     "vehicle.drivetrain.axleBroken": "{{axleName}}輪軸受損",
     "vehicle.drivetrain.deviceBroken": "{{deviceName}}受損",
-    "vehicle.drivetrain.stalledStarting": "引擎已經熄火, 正在重新發動..."
+    "vehicle.drivetrain.stalledStarting": "引擎熄火，正在重新發動...",
+    "vehicle.drivetrain.stalledAutoClutch": "引擎熄火，按[action=activateStarterMotor]發動",
+    "vehicle.drivetrain.fuelLeaking": "燃料洩漏"
 }
