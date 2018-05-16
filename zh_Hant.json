@@ -1537,5 +1537,6 @@
     "vehicle.drivetrain.engineCatastrophicOverTorqueDamage": "轉速過高: 對引擎造成永久損害",
     "vehicle.beamstate.tireDeflated": "{{wheelName | translate }}爆胎",
     "vehicle.engine.starvedOfOil": "引擎缺乏機油",
-    "vehicle.engine.cylinderWallsMelted": "汽缸壁融化"
+    "vehicle.engine.cylinderWallsMelted": "汽缸壁融化",
+    "vehicle.engine.pistonRingsDamaged": "活塞環損毀"
 }
