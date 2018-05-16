@@ -341,5 +341,6 @@
     "engine.editor.menu.cameraspeed.slower": "更慢",
     "engine.editor.menu.cameraspeed.normal": "普通",
     "engine.editor.menu.cameraspeed.faster": "更快",
-    "engine.editor.menu.cameraspeed.fast": "快"
+    "engine.editor.menu.cameraspeed.fast": "快",
+    "engine.editor.menu.toggleCamModes": "切換相機模式"
 }
