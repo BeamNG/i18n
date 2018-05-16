@@ -282,5 +282,6 @@
     "engine.cef.subprocessdied.msg": "UI程序無法及時回應\n若防毒軟體阻擋了BeamNG.drive.ui.exe遭到則可能造成\n\n你可以在此得到更多幫助:\n\nhttp://wiki.beamng.com/Errors/Unresponsive_UI_Process\n\n你要立即以瀏覽器打開此連結嗎?",
     "engine.cef.subprocessdied.url": "http://wiki.beamng.com/Errors/Unresponsive_UI_Process",
     "engine.resourceMissing": "建立資源失敗(檔案是否已經遺失?)",
-    "engine.engineFail": "無法啟動遊戲，正在關閉"
+    "engine.engineFail": "無法啟動遊戲，正在關閉",
+    "engine.msgboxErrorTitle": "錯誤"
 }
