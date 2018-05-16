@@ -1546,5 +1546,6 @@
     "vehicle.recovery.loadHome": "載具回復至出生點",
     "vehicle.recovery.saveHome": "載具出生點已更新 (使用[action=loadHome]回復至出生點)",
     "vehicle.recovery.quick": "載具已復原 (長按進行進一步復原)",
-    "vehicle.recovery.end": "載具已復原 (無法更進一步進行復原)"
+    "vehicle.recovery.end": "載具已復原 (無法更進一步進行復原)",
+    "vehicle.recovery.recovering": "正在復原載具…"
 }
