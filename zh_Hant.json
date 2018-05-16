@@ -11,7 +11,7 @@
     "engine.cef.subprocessdied.title": "沒有回應的UI程序",
     "engine.editor.menu.cameraspeed.fastest": "最快速",
     "engine.editor.menu.createBlankTerrain": "建立空白地形",
-    "engine.editor.menu.deselect": "撤銷選擇",
+    "engine.editor.menu.deselect": "取消選取",
     "engine.editor.menu.lighting": "光",
     "engine.editor.menu.object": "物體",
     "engine.editor.menu.postfxManager": "",
@@ -312,5 +312,7 @@
     "engine.editor.menu.cut": "剪下",
     "engine.editor.menu.copy": "複製",
     "engine.editor.menu.paste": "貼上",
-    "engine.editor.menu.delete": "刪除"
+    "engine.editor.menu.delete": "刪除",
+    "engine.editor.menu.select": "選擇...",
+    "engine.editor.menu.audioParams": "音效參數..."
 }
