@@ -269,7 +269,7 @@
     "vehicle.bdebug.beamVisMode.simple": "",
     "vehicle.bdebug.cogMode.off": "關",
     "vehicle.bdebug.nodeVisMode.off": "關",
-    "vehicle.bdebug.nodeVisMode.velocities": "",
+    "vehicle.bdebug.nodeVisMode.velocities": "速度",
     "vehicle.bullettime.change": "放慢 {{slowmoTimes}} 倍速",
     "vehicle.drivetrain.shifterModeNameRealistic": "寫實",
     "vehicle.drivetrain.shifterModeNameUnknown": "未知的變速箱模式",
@@ -1557,5 +1557,8 @@
     "vehicle.bdebug.cogMode": "重心模式: {{cogMode | translate}}",
     "vehicle.bdebug.trisOff": "停用顯示碰撞三角形",
     "vehicle.bdebug.trisOn": "啟用顯示碰撞三角形",
-    "vehicle.bdebug.meshVisibility": "模型可見度: {{visibilityPercent}}%"
+    "vehicle.bdebug.meshVisibility": "模型可見度: {{visibilityPercent}}%",
+    "vehicle.bdebug.nodeVisMode.simple": "簡單",
+    "vehicle.bdebug.nodeVisMode.weights": "重量",
+    "vehicle.bdebug.nodeVisMode.forces": "力"
 }
