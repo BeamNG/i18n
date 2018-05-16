@@ -21,8 +21,8 @@
     "engine.editor.menu.unlockSelection": "解鎖所選",
     "engine.editor.menu.xAxis": "X 軸",
     "engine.welcome": "歡迎來到繁體中文版的BeamNG.Drive! ᕕ ( ᐛ ) ᕗ",
-    "extensions.scenario.damageGoal.checkDamage.fail.msg": "請注意! 您的載具已經損壞 {{damage}}%",
-    "extensions.scenario.damageGoal.win.msg": "做得好！您用時: {{timeStr}}",
+    "extensions.scenario.damageGoal.checkDamage.fail.msg": "小心! 你的載具{{damage}}%損毀",
+    "extensions.scenario.damageGoal.win.msg": "做得好! 你的時間: {{time}}",
     "levels.Cliff.info.features": "巨崖島",
     "levels.Cliff.info.suitablefor": "",
     "levels.Gridmap.info.roads": "一些土路",
@@ -384,5 +384,9 @@
     "engine.editor.menu.dropLocation": "放置所選至",
     "engine.editor.menu.makeSelPrefab": "設定所選為Prefab",
     "engine.editor.menu.explodeSelPrefab": "解散所選Prefab",
-    "extensions.scenario.onRaceEnd.default.win": "做得好！你的時間：{{timeStr}}"
+    "extensions.scenario.onRaceEnd.default.win": "做得好! 你的時間: {{timeStr}}",
+    "extensions.scenario.damageGoal.fail.msg": "你的車撞壞了",
+    "extensions.scenario.damageGoal.checkDamage.win.msg": "{{damage}}% 損毀",
+    "extensions.scenario.timeLimit.failedGoal": "超過指定時間{{maxTime}}",
+    "extensions.scenario.speedGoal.fail.msg": "你沒有達到指定速度"
 }
