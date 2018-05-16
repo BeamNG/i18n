@@ -337,5 +337,7 @@
     "engine.editor.menu.camera.isometric": "平視圖",
     "engine.editor.menu.cameraspeed": "攝影機速度",
     "engine.editor.menu.cameraspeed.slowest": "最慢",
-    "engine.editor.menu.cameraspeed.slow": "慢"
+    "engine.editor.menu.cameraspeed.slow": "慢",
+    "engine.editor.menu.cameraspeed.slower": "更慢",
+    "engine.editor.menu.cameraspeed.normal": "普通"
 }
