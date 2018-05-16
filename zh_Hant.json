@@ -309,5 +309,8 @@
     "engine.editor.menu.edit": "編輯",
     "engine.editor.menu.undo": "上一步",
     "engine.editor.menu.redo": "重做",
-    "engine.editor.menu.cut": "剪下"
+    "engine.editor.menu.cut": "剪下",
+    "engine.editor.menu.copy": "複製",
+    "engine.editor.menu.paste": "貼上",
+    "engine.editor.menu.delete": "刪除"
 }
