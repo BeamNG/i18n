@@ -350,5 +350,7 @@
     "engine.editor.menu.placePlayerCamera": "將玩家置於攝影機",
     "engine.editor.menu.cameraTranslation": "攝影機位移",
     "engine.editor.menu.fitViewSelection": "視野符合至所選",
-    "engine.editor.menu.fitViewSelectionOrbit": "視野符合至所選並環繞"
+    "engine.editor.menu.fitViewSelectionOrbit": "視野符合至所選並環繞",
+    "engine.editor.menu.speed": "速度",
+    "engine.editor.menu.viewType": "視圖"
 }
