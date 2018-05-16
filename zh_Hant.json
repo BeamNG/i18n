@@ -324,5 +324,7 @@
     "engine.editor.menu.camera": "攝影機",
     "engine.editor.menu.standartCamera": "標準",
     "engine.editor.menu.orbitCamera": "環繞攝影機",
-    "engine.editor.menu.gameCamera": "遊戲攝影機"
+    "engine.editor.menu.gameCamera": "遊戲攝影機",
+    "engine.editor.menu.smoothedCamera": "平滑",
+    "engine.editor.menu.smoothedRotateCamera": "平滑旋轉"
 }
