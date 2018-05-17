@@ -1586,5 +1586,6 @@
     "levels.smallgrid_soundtest.info.biome": "VR",
     "levels.smallgrid_tiretest.info.biome": "VR",
     "ui.common.action.play": "PLAY",
-    "ui.mainmenu.news": "NEWS"
+    "ui.mainmenu.news": "NEWS",
+    "extensions.scenario.timeLimit.checkTime.countdown": "{{倒數}}..."
 }
