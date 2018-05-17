@@ -282,7 +282,7 @@
     "engine.cef.subprocessdied.msg": "UI程序無法及時回應\n若防毒軟體阻擋了BeamNG.drive.ui.exe遭到則可能造成\n\n你可以在此得到更多幫助:\n\nhttp://wiki.beamng.com/Errors/Unresponsive_UI_Process\n\n你要立即以瀏覽器打開此連結嗎?",
     "engine.cef.subprocessdied.url": "http://wiki.beamng.com/Errors/Unresponsive_UI_Process",
     "engine.resourceMissing": "無法建立資(檔案是否遺失?):  ",
-    "engine.engineFail": "初始化遊戲失敗,關閉中",
+    "engine.engineFail": "無法初始化遊戲，關閉。",
     "engine.msgboxErrorTitle": "錯誤",
     "engine.invalidUserpath.title": "無效的使用者路徑",
     "engine.invalidUserpath.msg": "BeamNG.drive無法開啟遊戲資料夾內 startup.ini 中所設定之使用者路徑，更改為有效的路徑:",
