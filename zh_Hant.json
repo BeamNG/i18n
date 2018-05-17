@@ -1577,7 +1577,7 @@
     "vehicle.bdebug.beamVisMode.stress": "壓力",
     "vehicle.bdebug.beamVisMode.deformation": "受到變形",
     "vehicle.bdebug.beamVisMode": "切換beam視覺化模式: {{beamVisMode | translate}}",
-    "vehicle.fire.fuelTankRuptured": "燃料箱破損",
+    "vehicle.fire.fuelTankRuptured": "油箱破裂",
     "vehicle.turbocharger.overheating": "渦輪過熱",
     "levels.Gridmap.info.biome": "VR",
     "levels.groundmodeltest.info.biome": "VR",
