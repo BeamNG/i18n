@@ -1744,7 +1744,7 @@
     "ui.options.gameplay.translationProjectPage": "Страница перевода сообщества",
     "quickrace.gridmap.bigo.title": "Скоростное кольцо",
     "scenarios.utah.canyon_jump.description": "Совершите несколько длинных прыжков через уникальные геологические образования Юты. Вы будете за рулём бездорожной версии Gavril H15.",
-    "quickrace.gridmap.suspension.description": "Этот небольшой этап идёт взад и вперёд по четырём различным трекам на для тестирования подвески. Отличный способ погнуть раму!",
+    "quickrace.gridmap.suspension.description": "Этот небольшой этап идёт взад и вперёд по четырём различным трекам для тестирования подвески. Отличный способ погнуть раму.",
     "ui.debug.vehicle.loadDefault": "Загрузить по умолчанию",
     "engine.editor.menu.orbitCamera": "Прикреплённая камера",
     "scenarios.utah.guineapig.description": "Отбуксируйте развалюху на вершину скалы для подготовки к трюку. Возьмите Ibishu Hopper, ему хватит мощности.",
