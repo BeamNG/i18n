@@ -531,5 +531,6 @@
     "engine.editor.menu.cameraspeed": "摄像机速度",
     "engine.editor.menu.cameraspeed.slowest": "最慢",
     "engine.editor.menu.snapOptions": "捕捉设置...",
-    "engine.editor.menu.gridOrtho": "在邻视图中显示网格"
+    "engine.editor.menu.gridOrtho": "在邻视图中显示网格",
+    "engine.editor.menu.orbitCamera": "环绕摄像机"
 }
