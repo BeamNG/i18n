@@ -534,5 +534,7 @@
     "engine.editor.menu.gridOrtho": "在邻视图中显示网格",
     "engine.editor.menu.orbitCamera": "环绕摄像机",
     "engine.editor.menu.gameCamera": "游戏摄像机",
-    "engine.editor.menu.smoothedRotateCamera": "‎平滑旋转‎"
+    "engine.editor.menu.smoothedRotateCamera": "‎平滑旋转‎",
+    "engine.editor.menu.camera.top": "顶部视角",
+    "engine.editor.menu.camera.bottom": "底部视角"
 }
