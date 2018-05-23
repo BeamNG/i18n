@@ -32,7 +32,7 @@
     "engine.welcome": "欢迎来到简体中文版的BeamNG.drive :)",
     "engine.windowedModeReq.msgEditor": "请退出任务编辑器以切换至全屏。",
     "engine.windowedModeReq.msgGUI": "请退出GUI编辑器以切换至全屏。",
-    "engine.windowedModeReq.title": "需要在窗口模式下运行",
+    "engine.windowedModeReq.title": "必须在窗口模式下运行",
     "extensions.scenario.damageGoal.checkDamage.fail.msg": "当心！你的车已经损坏了百分之{{damage}}",
     "extensions.scenario.damageGoal.win.msg": "干得好！ 你的时间：{{timeStr}}",
     "extensions.scenario.drift.passGoal": "干得漂亮！你的成绩是{{driftPoints}}分。",
