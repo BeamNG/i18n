@@ -548,5 +548,6 @@
     "engine.editor.menu.cameraspeed.normal": "正常",
     "engine.editor.menu.cameraspeed.faster": "更快",
     "engine.editor.menu.cameraspeed.fast": "快",
-    "engine.editor.menu.cameraspeed.fastest": "最快"
+    "engine.editor.menu.cameraspeed.fastest": "最快",
+    "engine.editor.menu.placePlayerCamera": "将玩家放置到摄影机"
 }
