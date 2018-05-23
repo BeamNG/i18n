@@ -541,5 +541,6 @@
     "engine.editor.menu.camera.back": "后部视角",
     "engine.editor.menu.camera.left": "左侧视角",
     "engine.editor.menu.camera.right": "右侧视角",
-    "engine.editor.menu.camera.perspective": "透视视角"
+    "engine.editor.menu.camera.perspective": "透视视角",
+    "engine.editor.menu.camera.isometric": "等角投影"
 }
