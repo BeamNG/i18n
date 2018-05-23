@@ -536,5 +536,6 @@
     "engine.editor.menu.gameCamera": "游戏摄像机",
     "engine.editor.menu.smoothedRotateCamera": "‎平滑旋转‎",
     "engine.editor.menu.camera.top": "顶部视角",
-    "engine.editor.menu.camera.bottom": "底部视角"
+    "engine.editor.menu.camera.bottom": "底部视角",
+    "engine.editor.menu.camera.front": "正面视角"
 }
