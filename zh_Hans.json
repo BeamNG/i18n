@@ -529,5 +529,6 @@
     "engine.editor.menu.standartCamera": "标准",
     "engine.editor.menu.smoothedCamera": "平滑",
     "engine.editor.menu.cameraspeed": "摄像机速度",
-    "engine.editor.menu.cameraspeed.slowest": "最慢"
+    "engine.editor.menu.cameraspeed.slowest": "最慢",
+    "engine.editor.menu.snapOptions": "捕捉设置"
 }
