@@ -537,5 +537,9 @@
     "engine.editor.menu.smoothedRotateCamera": "‎平滑旋转‎",
     "engine.editor.menu.camera.top": "顶部视角",
     "engine.editor.menu.camera.bottom": "底部视角",
-    "engine.editor.menu.camera.front": "正面视角"
+    "engine.editor.menu.camera.front": "正面视角",
+    "engine.editor.menu.camera.back": "后部视角",
+    "engine.editor.menu.camera.left": "左侧视角",
+    "engine.editor.menu.camera.right": "右侧视角",
+    "engine.editor.menu.camera.perspective": "透视视角"
 }
