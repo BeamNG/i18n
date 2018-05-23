@@ -544,5 +544,6 @@
     "engine.editor.menu.camera.perspective": "透视视角",
     "engine.editor.menu.camera.isometric": "等角投影",
     "engine.editor.menu.cameraspeed.slow": "慢",
-    "engine.editor.menu.cameraspeed.slower": "更慢\n"
+    "engine.editor.menu.cameraspeed.slower": "更慢\n",
+    "engine.editor.menu.cameraspeed.normal": "正常"
 }
