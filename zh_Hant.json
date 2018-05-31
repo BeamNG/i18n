@@ -1643,5 +1643,11 @@
     "ui.repository.scheduled_status": "狀態",
     "ui.apps.race_check_points.name": "賽事檢查點",
     "ui.apps.racecountdown.name": "比賽倒數",
-    "scenarios.east_coast_usa.tanker_delivery.wayPointAction.wp1.msg": "連接拖車"
+    "scenarios.east_coast_usa.tanker_delivery.wayPointAction.wp1.msg": "連接拖車",
+    "ui.apps.racelaps.name": "賽事圈數",
+    "ui.apps.racing_position.name": "賽事名次",
+    "ui.apps.race_time.name": "賽事時間",
+    "ui.apps.race_time_comparison.name": "賽事時間比較",
+    "ui.options.gameplay.absBehavior": "ABS",
+    "ui.options.gameplay.escBehavior": "ESC"
 }
