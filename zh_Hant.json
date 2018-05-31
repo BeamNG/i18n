@@ -1654,5 +1654,6 @@
     "ui.goals.speed": "速度",
     "ui.mapview.labels.stunt": "特技",
     "ui.mapview.labels.delivery": "運送",
-    "ui.mapview.labels.timeTrial": "計時賽"
+    "ui.mapview.labels.timeTrial": "計時賽",
+    "scenarios.east_coast_usa.tanker_delivery.damage.msg": "你損壞了拖車"
 }
