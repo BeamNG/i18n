@@ -1638,5 +1638,10 @@
     "scenarios.utah.chapter_1.chapter_1_cliffjump.pass.msg": "深度達到",
     "scenarios.utah.chapter_1.chapter_1_crawl.title": "攀爬",
     "scenarios.utah.chapter_1.chapter_1_crawl.description": "越過一系列困難的障礙爬到山坡頂端",
-    "ui.unit.bar": "Bar"
+    "ui.unit.bar": "Bar",
+    "ui.repository.loading": "載入中 ...",
+    "ui.repository.scheduled_status": "狀態",
+    "ui.apps.race_check_points.name": "賽事檢查點",
+    "ui.apps.racecountdown.name": "比賽倒數",
+    "scenarios.east_coast_usa.tanker_delivery.wayPointAction.wp1.msg": "連接拖車"
 }
