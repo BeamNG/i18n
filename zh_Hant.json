@@ -1649,5 +1649,8 @@
     "ui.apps.race_time.name": "賽事時間",
     "ui.apps.race_time_comparison.name": "賽事時間比較",
     "ui.options.gameplay.absBehavior": "ABS",
-    "ui.options.gameplay.escBehavior": "ESC"
+    "ui.options.gameplay.escBehavior": "ESC",
+    "ui.goals.timeLimit": "時間限制",
+    "ui.goals.speed": "速度",
+    "ui.mapview.labels.stunt": "特技"
 }
