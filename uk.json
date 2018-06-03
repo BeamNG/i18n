@@ -1937,5 +1937,6 @@
     "ui.radialmenu2.electrics.lightbar": "Ліхтар",
     "ui.radialmenu2.electrics.lightbar.desc": "Ввімкнути/вимкнути ліхтар.",
     "ui.radialmenu2.powertrain": "Силовий агрегат",
-    "ui.radialmenu2.powertrain.desc": "Контроль всіх опцій силового агрегату."
+    "ui.radialmenu2.powertrain.desc": "Контроль всіх опцій силового агрегату.",
+    "ui.repository.loading": "Завантаження ..."
 }
