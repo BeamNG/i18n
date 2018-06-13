@@ -582,5 +582,8 @@
     "ui.common.stock": "原厂",
     "ui.common.off": "关闭",
     "ui.actions.decrease": "减少",
-    "ui.actions.increase": "增加"
+    "ui.actions.increase": "增加",
+    "ui.actions.switchRight": "向右切换",
+    "ui.actions.switchLeft": "向左切换",
+    "ui.actions.confirm": "确定"
 }
