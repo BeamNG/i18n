@@ -565,5 +565,6 @@
     "ui.common.action.play": "开始",
     "ui.common.yes": "是",
     "ui.common.no": "否",
-    "ui.common.never": "永不"
+    "ui.common.never": "永不",
+    "ui.common.critical": "警告"
 }
