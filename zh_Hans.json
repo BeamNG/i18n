@@ -655,5 +655,7 @@
     "ui.repository.subToMod": "订阅模组",
     "ui.repository.unSubMod": "取消订阅模组",
     "ui.repository.updateMod": "模组需要更新",
-    "ui.repository.modDownloading": "模组下载中"
+    "ui.repository.modDownloading": "模组下载中",
+    "ui.repository.modQueued": "排队中",
+    "ui.repository.modUnpacked": "已解压缩的模组"
 }
