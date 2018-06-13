@@ -585,5 +585,8 @@
     "ui.actions.increase": "增加",
     "ui.actions.switchRight": "向右切换",
     "ui.actions.switchLeft": "向左切换",
-    "ui.actions.confirm": "确定"
+    "ui.actions.confirm": "确定",
+    "ui.actions.menuLeft": "菜单左",
+    "ui.actions.menuRight": "菜单右",
+    "ui.unit.kg": "公斤"
 }
