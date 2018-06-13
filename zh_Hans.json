@@ -669,5 +669,6 @@
     "ui.quickrace.tracks.laps": "圈数",
     "ui.quickrace.tracks.lap": "圈",
     "ui.quickrace.tracks.lapsChangeable": "圈数可变",
-    "ui.quickrace.tracks.procedural": "随机生成赛道"
+    "ui.quickrace.tracks.procedural": "随机生成赛道",
+    "ui.quickrace.tracks.proceduralInfo": "相同布局上的同一种子意味着相同的路径"
 }
