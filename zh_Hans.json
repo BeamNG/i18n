@@ -643,5 +643,6 @@
     "ui.repository.cat_terrain": "地形，等级，地图",
     "ui.repository.cat_ui": "用户界面应Apps",
     "ui.repository.cat_sound": "音效",
-    "ui.repository.cat_idplate": "车牌"
+    "ui.repository.cat_idplate": "车牌",
+    "ui.repository.cat_yo-dawg-mod": "其他模组"
 }
