@@ -704,5 +704,8 @@
     "ui.modmanager.deleteAll": "删除所有模组",
     "ui.modmanager.deleteAllDesc": "您确定要取消订阅并删除所有模组？",
     "ui.modmanager.updateAll": "更新所有模组",
-    "ui.modmanager.removeAndUnsub": "移除并取消订阅模组"
+    "ui.modmanager.removeAndUnsub": "移除并取消订阅模组",
+    "ui.modmanager.downloading": "下载中",
+    "ui.modmanager.downloaded": "下载完成",
+    "ui.modmanager.installed": "安装"
 }
