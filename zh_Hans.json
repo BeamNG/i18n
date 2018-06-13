@@ -657,5 +657,11 @@
     "ui.repository.updateMod": "模组需要更新",
     "ui.repository.modDownloading": "模组下载中",
     "ui.repository.modQueued": "排队中",
-    "ui.repository.modUnpacked": "已解压缩的模组"
+    "ui.repository.modUnpacked": "已解压缩的模组",
+    "ui.repository.modDownloaded": "模组下载完成",
+    "ui.quickrace.finished": "完成",
+    "ui.quickrace.changeConfig": "修改配置",
+    "ui.quickrace.selectTrack": "选择布局",
+    "ui.quickrace.quickraceLevels": "计时赛地图选择",
+    "ui.quickrace.quickraceTracks": "计时赛布局选择"
 }
