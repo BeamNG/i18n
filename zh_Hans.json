@@ -621,5 +621,17 @@
     "ui.repository.option_title": "标题",
     "ui.repository.option_update": "更新",
     "ui.repository.option_size": "大小",
-    "ui.repository.option_downloads": "下载数"
+    "ui.repository.option_downloads": "下载数",
+    "ui.repository.option_ascending": "升序",
+    "ui.repository.option_descending": "降序",
+    "ui.repository.order_ascendant_short": "升序",
+    "ui.repository.order_descendant_short": "降序",
+    "ui.repository.filter_apply": "应用",
+    "ui.repository.filter_top_downloaded": "下载排行",
+    "ui.repository.filter_top_rated": "最高评分",
+    "ui.repository.filter_latest": "最新",
+    "ui.repository.filter_subscribed_only": "仅订阅",
+    "ui.repository.categories": "分类",
+    "ui.repository.cat_all": "全部",
+    "ui.repository.cat_veh": "车辆"
 }
