@@ -674,5 +674,7 @@
     "ui.quickrace.select": "选择",
     "ui.quickrace.reverse": "反转",
     "ui.quickrace.tod.sunrise": "黎明",
-    "ui.quickrace.tod.earlyNoon": "早中午"
+    "ui.quickrace.tod.earlyNoon": "早中午",
+    "ui.quickrace.tod.noon": "正午",
+    "ui.quickrace.tod.afternoon": "下午"
 }
