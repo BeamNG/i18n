@@ -684,5 +684,6 @@
     "ui.quickrace.brand": "厂牌",
     "ui.quickrace.highscoresSingle": "最佳时间 - 单圈",
     "ui.quickrace.highscoresTotal": "最佳时间 - 总时间",
-    "ui.modmanager.numActive": "活动的模组数量{{active}} of {{all}}"
+    "ui.modmanager.numActive": "启用的模组数量{{active}} of {{all}}",
+    "ui.modmanager.active": "启用"
 }
