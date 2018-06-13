@@ -607,5 +607,5 @@
     "ui.repository.mods": "模组",
     "ui.repository.no_mods_found": "无搜索结果",
     "ui.repository.unsubscribe": "取消订阅",
-    "ui.repository.info": "消息"
+    "ui.repository.info": "信息"
 }
