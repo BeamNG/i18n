@@ -633,5 +633,11 @@
     "ui.repository.filter_subscribed_only": "仅订阅",
     "ui.repository.categories": "分类",
     "ui.repository.cat_all": "全部",
-    "ui.repository.cat_veh": "车辆"
+    "ui.repository.cat_veh": "载具",
+    "ui.repository.cat_veh_land": "陆上",
+    "ui.repository.cat_veh_air": "空中",
+    "ui.repository.cat_veh_props": "物件",
+    "ui.repository.cat_veh_boats": "船只",
+    "ui.repository.cat_veh_config": "载具设置",
+    "ui.repository.cat_scenarios": "情境"
 }
