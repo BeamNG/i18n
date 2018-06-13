@@ -560,5 +560,9 @@
     "engine.editor.menu.placeCameraPlayer": "将摄像机放置到玩家",
     "vehicle.fire.fuelTankRuptured": "燃料箱破损",
     "ui.common.property.createdAt": "创建于",
-    "ui.common.property.map": "地图"
+    "ui.common.property.map": "地图",
+    "ui.common.property.goals": "目标",
+    "ui.common.action.play": "开始",
+    "ui.common.yes": "是",
+    "ui.common.no": "否"
 }
