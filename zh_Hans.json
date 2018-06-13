@@ -602,5 +602,6 @@
     "ui.dashboard.replay": "回放",
     "ui.dashboard.appedit": "自定义UI Apps",
     "ui.levelselect.x86Disabled": "请用64位版本的动游进入该地图",
-    "ui.repository.subscribe": "订阅"
+    "ui.repository.subscribe": "订阅",
+    "ui.repository.subscribed": "订阅：你的订阅会自动更新"
 }
