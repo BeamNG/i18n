@@ -710,5 +710,7 @@
     "ui.modmanager.installed": "已安装",
     "ui.credits.gameDesigners": "游戏设计师",
     "ui.color.factory": "原厂",
-    "ui.color.hue": "色相"
+    "ui.color.hue": "色相",
+    "ui.color.saturation": "饱和度",
+    "ui.color.brightness": "亮度"
 }
