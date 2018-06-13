@@ -707,5 +707,5 @@
     "ui.modmanager.removeAndUnsub": "移除并取消订阅模组",
     "ui.modmanager.downloading": "下载中",
     "ui.modmanager.downloaded": "下载完成",
-    "ui.modmanager.installed": "安装"
+    "ui.modmanager.installed": "已安装"
 }
