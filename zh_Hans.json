@@ -595,5 +595,6 @@
     "ui.unit.bhp": "制动马力",
     "ui.unit.kw": "千瓦",
     "ui.unit.inHg": "英寸汞柱(in.Hg)",
-    "ui.unit.bar": "Bar"
+    "ui.unit.bar": "Bar",
+    "ui.unit.kPa": "千帕"
 }
