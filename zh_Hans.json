@@ -646,5 +646,14 @@
     "ui.repository.cat_idplate": "车牌",
     "ui.repository.cat_yo-dawg-mod": "其他模组",
     "ui.repository.cat_skin": "皮肤",
-    "ui.repository.shortcuts": "快捷"
+    "ui.repository.shortcuts": "快捷",
+    "ui.repository.updates": "更新",
+    "ui.repository.scheduled_chk": "检查更新",
+    "ui.repository.scheduled_status": "状态",
+    "ui.modmanager.openForumDiscussion": "开放讨论串",
+    "ui.repository.loading": "加载中…",
+    "ui.repository.subToMod": "订阅模组",
+    "ui.repository.unSubMod": "取消订阅模组",
+    "ui.repository.updateMod": "模组需要更新",
+    "ui.repository.modDownloading": "模组下载中"
 }
