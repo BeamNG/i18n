@@ -553,5 +553,7 @@
     "extensions.campaign.exploration.mapHint": "按[action=pause]查看地图与可用的任务",
     "vehicle.main.instability": "在 '{{vehicle}}' 中检测到不稳定性，模拟被暂停",
     "vehicle.turbocharger.overheating": "涡轮过热",
-    "engine.editor.menu.visibilityLayers": "可见图层"
+    "engine.editor.menu.visibilityLayers": "可见图层",
+    "engine.editor.menu.worldCamera": "世界摄像机",
+    "engine.editor.menu.toggleCamera": "切换自由相机"
 }
