@@ -665,5 +665,6 @@
     "ui.quickrace.quickraceLevels": "计时赛地图选择",
     "ui.quickrace.quickraceTracks": "计时赛布局选择",
     "ui.quickrace.tracks.reversible": "可反转",
-    "ui.quickrace.tracks.allowRollingStart": "允许Rolling Start"
+    "ui.quickrace.tracks.allowRollingStart": "允许Rolling Start",
+    "ui.quickrace.tracks.laps": "圈"
 }
