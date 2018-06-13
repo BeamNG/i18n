@@ -670,5 +670,8 @@
     "ui.quickrace.tracks.lap": "圈",
     "ui.quickrace.tracks.lapsChangeable": "圈数可变",
     "ui.quickrace.tracks.procedural": "随机生成赛道",
-    "ui.quickrace.tracks.proceduralInfo": "相同布局上的同一种子将生成相同的赛道"
+    "ui.quickrace.tracks.proceduralInfo": "相同布局上的同一种子将生成相同的赛道",
+    "ui.quickrace.select": "选择",
+    "ui.quickrace.reverse": "反转",
+    "ui.quickrace.tod.sunrise": "黎明"
 }
