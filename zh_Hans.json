@@ -617,5 +617,9 @@
     "ui.repository.search": "搜索",
     "ui.repository.order_by": "排序",
     "ui.repository.option_rating": "评分",
-    "ui.repository.option_reviews": "评论"
+    "ui.repository.option_reviews": "评论",
+    "ui.repository.option_title": "标题",
+    "ui.repository.option_update": "更新",
+    "ui.repository.option_size": "大小",
+    "ui.repository.option_downloads": "下载"
 }
