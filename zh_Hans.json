@@ -557,5 +557,8 @@
     "engine.editor.menu.worldCamera": "世界摄像机",
     "engine.editor.menu.toggleCamera": "切换自由相机",
     "engine.editor.menu.placeCameraSelection": "‎将相机置于选定位置‎",
-    "engine.editor.menu.placeCameraPlayer": "将摄像机放置到玩家"
+    "engine.editor.menu.placeCameraPlayer": "将摄像机放置到玩家",
+    "vehicle.fire.fuelTankRuptured": "燃料箱破损",
+    "ui.common.property.createdAt": "创建于",
+    "ui.common.property.map": "地图"
 }
