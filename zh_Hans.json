@@ -668,5 +668,6 @@
     "ui.quickrace.tracks.allowRollingStart": "允许Rolling Start",
     "ui.quickrace.tracks.laps": "圈数",
     "ui.quickrace.tracks.lap": "圈",
-    "ui.quickrace.tracks.lapsChangeable": "可变圈"
+    "ui.quickrace.tracks.lapsChangeable": "圈数可变",
+    "ui.quickrace.tracks.procedural": "随机生成赛道"
 }
