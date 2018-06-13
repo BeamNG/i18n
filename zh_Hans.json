@@ -621,5 +621,5 @@
     "ui.repository.option_title": "标题",
     "ui.repository.option_update": "更新",
     "ui.repository.option_size": "大小",
-    "ui.repository.option_downloads": "下载"
+    "ui.repository.option_downloads": "下载数"
 }
