@@ -687,5 +687,5 @@
     "ui.modmanager.numActive": "启用的模组数量{{active}} of {{all}}",
     "ui.modmanager.active": "启用",
     "ui.modmanager.activateAll": "启用所有模组",
-    "ui.modmanager.deactivateAll": "关闭所有模组"
+    "ui.modmanager.deactivateAll": "停用所有模组"
 }
