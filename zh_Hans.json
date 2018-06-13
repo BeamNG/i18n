@@ -570,5 +570,6 @@
     "ui.common.fooOrBar": "{{ foo }} 或 {{ bar }}",
     "ui.common.showDetails": "显示详细信息",
     "ui.common.info": "信息",
-    "ui.common.disable": "停用"
+    "ui.common.disable": "停用",
+    "ui.common.skip": "跳过"
 }
