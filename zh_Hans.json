@@ -549,5 +549,6 @@
     "engine.editor.menu.cameraspeed.faster": "更快",
     "engine.editor.menu.cameraspeed.fast": "快",
     "engine.editor.menu.cameraspeed.fastest": "最快",
-    "engine.editor.menu.placePlayerCamera": "将玩家放置到摄影机"
+    "engine.editor.menu.placePlayerCamera": "将玩家放置到摄影机",
+    "extensions.campaign.exploration.mapHint": "按[动作= toggle_minimap]查看地图与可用的任务"
 }
