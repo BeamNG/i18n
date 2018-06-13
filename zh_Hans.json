@@ -608,5 +608,6 @@
     "ui.repository.no_mods_found": "无搜索结果",
     "ui.repository.unsubscribe": "取消订阅",
     "ui.repository.info": "信息",
-    "ui.repository.download_count": "下载"
+    "ui.repository.download_count": "下载数",
+    "ui.repository.rating": "评分"
 }
