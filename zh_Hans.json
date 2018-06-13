@@ -522,7 +522,7 @@
     "engine.nodegrab.fixedwarning": "CTRL + 鼠标中键以取消节点固定",
     "engine.nodegrab.coupling": "连接两个节点",
     "engine.editor.menu.editorSettings": "编辑器设置…",
-    "engine.editor.menu.view": "浏览",
+    "engine.editor.menu.view": "显示",
     "engine.nodegrab.uncoupling": "断开所有已连接节点",
     "engine.editor.menu.resaveLevel": "重新保存全部内容",
     "engine.editor.menu.camera": "摄像机",
