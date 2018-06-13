@@ -693,5 +693,11 @@
     "ui.modmanager.deleteMod": "删除模组",
     "ui.modmanager.activate": "启用",
     "ui.modmanager.deactivate": "停用",
-    "ui.modmanager.pack": "打包"
+    "ui.modmanager.pack": "打包",
+    "ui.modmanager.path": "路径",
+    "ui.modmanager.modData": "模组数据",
+    "ui.modmanager.creationDate": "创建日期",
+    "ui.modmanager.filesize": "文件大小",
+    "ui.modmanager.author": "作者",
+    "ui.modmanager.openModFolderInExplorer": "打开模组文件夹"
 }
