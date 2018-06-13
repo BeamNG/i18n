@@ -580,5 +580,7 @@
     "ui.common.exit": "退出",
     "ui.common.test": "测试",
     "ui.common.stock": "原厂",
-    "ui.common.off": "关闭"
+    "ui.common.off": "关闭",
+    "ui.actions.decrease": "减少",
+    "ui.actions.increase": "增加"
 }
