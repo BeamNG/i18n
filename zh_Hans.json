@@ -588,5 +588,8 @@
     "ui.actions.confirm": "确定",
     "ui.actions.menuLeft": "菜单左",
     "ui.actions.menuRight": "菜单右",
-    "ui.unit.kg": "公斤"
+    "ui.unit.kg": "公斤",
+    "ui.unit.nm": "牛顿米",
+    "ui.unit.ftlb": "呎-磅",
+    "ui.unit.hp": "马力"
 }
