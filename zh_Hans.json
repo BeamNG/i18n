@@ -228,15 +228,15 @@
     "ui.dashboard.help": "帮助",
     "ui.dashboard.levels": "地图",
     "ui.dashboard.mainmenu": "主菜单",
-    "ui.dashboard.mods": "Mods",
+    "ui.dashboard.mods": "模组",
     "ui.dashboard.options": "设置",
-    "ui.dashboard.performance": "表现",
+    "ui.dashboard.performance": "效能",
     "ui.dashboard.photomode": "截图模式",
     "ui.dashboard.play": "继续",
     "ui.dashboard.quit": "退出游戏",
     "ui.dashboard.scenarios": "挑战赛",
     "ui.dashboard.tutorial": "教程",
-    "ui.dashboard.vehicleconfig": "车辆配置",
+    "ui.dashboard.vehicleconfig": "载具配置",
     "ui.dashboard.vehicles": "载具",
     "ui.debug.effects": "特效",
     "ui.debug.effects.fov": "视野",
@@ -599,5 +599,6 @@
     "ui.unit.kPa": "千帕",
     "ui.mainmenu.warningdetails": "点击这里了解详情并确认",
     "ui.modWizard.skinWizard.selectVehicle": "请选择一辆载具",
-    "ui.dashboard.replay": "回放"
+    "ui.dashboard.replay": "回放",
+    "ui.dashboard.appedit": "自定义UI Apps"
 }
