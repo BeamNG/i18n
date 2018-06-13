@@ -702,5 +702,7 @@
     "ui.modmanager.openModFolderInExplorer": "打开模组文件夹",
     "ui.modmanager.install_on": "安装于",
     "ui.modmanager.deleteAll": "删除所有模组",
-    "ui.modmanager.deleteAllDesc": "您确定要取消订阅并删除所有模组？"
+    "ui.modmanager.deleteAllDesc": "您确定要取消订阅并删除所有模组？",
+    "ui.modmanager.updateAll": "更新所有模组",
+    "ui.modmanager.removeAndUnsub": "从模组订阅中移除并退订"
 }
