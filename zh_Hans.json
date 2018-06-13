@@ -566,5 +566,7 @@
     "ui.common.yes": "是",
     "ui.common.no": "否",
     "ui.common.never": "永不",
-    "ui.common.critical": "警告"
+    "ui.common.critical": "警告",
+    "ui.common.fooOrBar": "{{ foo }} 或 {{ bar }}",
+    "ui.common.showDetails": "显示详细信息"
 }
