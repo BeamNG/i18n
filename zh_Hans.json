@@ -601,5 +601,6 @@
     "ui.modWizard.skinWizard.selectVehicle": "请选择一辆载具",
     "ui.dashboard.replay": "回放",
     "ui.dashboard.appedit": "自定义UI Apps",
-    "ui.levelselect.x86Disabled": "请用64位版本进入该地图"
+    "ui.levelselect.x86Disabled": "请用64位版本的动游进入该地图",
+    "ui.repository.subscribe": "订阅"
 }
