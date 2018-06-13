@@ -556,5 +556,6 @@
     "engine.editor.menu.visibilityLayers": "可见图层",
     "engine.editor.menu.worldCamera": "世界摄像机",
     "engine.editor.menu.toggleCamera": "切换自由相机",
-    "engine.editor.menu.placeCameraSelection": "‎将相机置于选定位置‎"
+    "engine.editor.menu.placeCameraSelection": "‎将相机置于选定位置‎",
+    "engine.editor.menu.placeCameraPlayer": "将摄像机放置到玩家"
 }
