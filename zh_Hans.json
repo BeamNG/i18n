@@ -699,5 +699,6 @@
     "ui.modmanager.creationDate": "创建日期",
     "ui.modmanager.filesize": "文件大小",
     "ui.modmanager.author": "作者",
-    "ui.modmanager.openModFolderInExplorer": "打开模组文件夹"
+    "ui.modmanager.openModFolderInExplorer": "打开模组文件夹",
+    "ui.modmanager.install_on": "安装于"
 }
