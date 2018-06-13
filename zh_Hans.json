@@ -597,5 +597,6 @@
     "ui.unit.inHg": "英寸汞柱(in.Hg)",
     "ui.unit.bar": "Bar",
     "ui.unit.kPa": "千帕",
-    "ui.mainmenu.warningdetails": "点击这里了解详情并确认"
+    "ui.mainmenu.warningdetails": "点击这里了解详情并确认",
+    "ui.modWizard.skinWizard.selectVehicle": "请选择一辆载具"
 }
