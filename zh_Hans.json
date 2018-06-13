@@ -715,5 +715,6 @@
     "ui.color.brightness": "亮度",
     "ui.color.chrominess": "反光度",
     "ui.vehicleconfig.licensePlate": "车牌",
-    "ui.replay.play": "播放"
+    "ui.replay.play": "播放",
+    "ui.replay.stop": "停止"
 }
