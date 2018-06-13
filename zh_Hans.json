@@ -717,5 +717,9 @@
     "ui.vehicleconfig.licensePlate": "车牌",
     "ui.replay.play": "播放",
     "ui.replay.stop": "停止",
-    "ui.replay.rename": "重新命名"
+    "ui.replay.rename": "重新命名",
+    "ui.replay.remove": "删除",
+    "ui.replay.appHint": "注意：对于完整播放和录制控制，请使用Replay应用程序（点击此处自定义应用程序）",
+    "ui.replay.openReplayFolderInExplorer": "打开回放文件夹",
+    "ui.appselect.noCockpit": "驾驶舱内隐藏"
 }
