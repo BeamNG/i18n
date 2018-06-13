@@ -564,5 +564,6 @@
     "ui.common.property.goals": "目标",
     "ui.common.action.play": "开始",
     "ui.common.yes": "是",
-    "ui.common.no": "否"
+    "ui.common.no": "否",
+    "ui.common.never": "永不"
 }
