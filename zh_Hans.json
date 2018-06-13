@@ -613,5 +613,7 @@
     "ui.repository.last_updated": "最近更新",
     "ui.repository.author": "作者",
     "ui.repository.filesize": "文件大小",
-    "ui.repository.filters": "过滤"
+    "ui.repository.filters": "过滤",
+    "ui.repository.search": "搜索",
+    "ui.repository.order_by": "排序"
 }
