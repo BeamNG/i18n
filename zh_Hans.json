@@ -552,5 +552,6 @@
     "engine.editor.menu.placePlayerCamera": "将玩家放置到摄影机",
     "extensions.campaign.exploration.mapHint": "按[action=pause]查看地图与可用的任务",
     "vehicle.main.instability": "在 '{{vehicle}}' 中检测到不稳定性，模拟被暂停",
-    "vehicle.turbocharger.overheating": "涡轮过热"
+    "vehicle.turbocharger.overheating": "涡轮过热",
+    "engine.editor.menu.visibilityLayers": "可见图层"
 }
