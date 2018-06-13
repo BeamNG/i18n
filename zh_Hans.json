@@ -615,5 +615,7 @@
     "ui.repository.filesize": "文件大小",
     "ui.repository.filters": "过滤",
     "ui.repository.search": "搜索",
-    "ui.repository.order_by": "排序"
+    "ui.repository.order_by": "排序",
+    "ui.repository.option_rating": "评分",
+    "ui.repository.option_reviews": "评论"
 }
