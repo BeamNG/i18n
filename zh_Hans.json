@@ -712,5 +712,8 @@
     "ui.color.factory": "原厂",
     "ui.color.hue": "色相",
     "ui.color.saturation": "饱和度",
-    "ui.color.brightness": "亮度"
+    "ui.color.brightness": "亮度",
+    "ui.color.chrominess": "反光度",
+    "ui.vehicleconfig.licensePlate": "车牌",
+    "ui.replay.play": "播放"
 }
