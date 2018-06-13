@@ -603,5 +603,8 @@
     "ui.dashboard.appedit": "自定义UI Apps",
     "ui.levelselect.x86Disabled": "请用64位版本的动游进入该地图",
     "ui.repository.subscribe": "订阅",
-    "ui.repository.subscribed": "订阅：你的订阅会自动更新"
+    "ui.repository.subscribed": "已订阅: 将自动更新",
+    "ui.repository.mods": "模组",
+    "ui.repository.no_mods_found": "无搜索结果",
+    "ui.repository.unsubscribe": "取消订阅"
 }
