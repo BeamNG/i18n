@@ -678,7 +678,8 @@
     "ui.quickrace.tod.noon": "正午",
     "ui.quickrace.tod.afternoon": "下午",
     "ui.quickrace.tod.evening": "傍晚",
-    "ui.quickrace.tod.sunset": "黄昏",
+    "ui.quickrace.tod.sunset": "日落",
     "ui.quickrace.laps": "圈数",
-    "ui.quickrace.country": "国家"
+    "ui.quickrace.country": "国家",
+    "ui.quickrace.brand": "厂牌"
 }
