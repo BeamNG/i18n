@@ -480,7 +480,7 @@
     "engine.editor.loading": "正在加载地图编辑器…",
     "engine.editor.menu.edit": "编辑",
     "engine.editor.menu.undo": "撤销",
-    "engine.editor.menu.cut": "剪贴",
+    "engine.editor.menu.cut": "剪切",
     "engine.editor.menu.copy": "复制",
     "engine.editor.menu.paste": "粘贴",
     "engine.editor.menu.delete": "删除",
