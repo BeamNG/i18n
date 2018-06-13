@@ -571,5 +571,14 @@
     "ui.common.showDetails": "显示详细信息",
     "ui.common.info": "信息",
     "ui.common.disable": "停用",
-    "ui.common.skip": "跳过"
+    "ui.common.skip": "跳过",
+    "ui.common.cancel": "取消",
+    "ui.common.save": "保存",
+    "ui.common.load": "加载",
+    "ui.common.filename": "文件名称",
+    "ui.common.unknown": "未知",
+    "ui.common.exit": "退出",
+    "ui.common.test": "测试",
+    "ui.common.stock": "原厂",
+    "ui.common.off": "关闭"
 }
