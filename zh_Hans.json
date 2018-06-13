@@ -708,5 +708,7 @@
     "ui.modmanager.downloading": "下载中",
     "ui.modmanager.downloaded": "下载完成",
     "ui.modmanager.installed": "已安装",
-    "ui.credits.gameDesigners": "游戏设计师"
+    "ui.credits.gameDesigners": "游戏设计师",
+    "ui.color.factory": "原厂",
+    "ui.color.hue": "色相"
 }
