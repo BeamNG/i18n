@@ -1004,5 +1004,10 @@
     "ui.performance.benchmark.testVehicle": "测试载具",
     "ui.performance.benchmark.run": "运行物理Benchmark",
     "ui.performance.benchmark.vehicles": "载具",
-    "ui.perforamnce.benchmark.realtime": "实时"
+    "ui.perforamnce.benchmark.realtime": "实时",
+    "ui.performance.benchmark.isRunningNote": "请等待：Benchmark正在运行。[br]这需要一分钟。",
+    "ui.performance.benchmark.notavailable": "Benchmark只能从主菜单运行。",
+    "ui.performance.score": "分数",
+    "ui.performance.acknowledge": "确认",
+    "ui.performance.acknowledged": "已确认"
 }
