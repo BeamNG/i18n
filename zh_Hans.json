@@ -772,5 +772,10 @@
     "ui.fonts.primary": "Play",
     "ui.fonts.secondary": "News Cycle",
     "ui.fonts.fallback": "Roboto",
-    "ui.common.search": "搜索"
+    "ui.common.search": "搜索",
+    "ui.common.apply": "应用",
+    "ui.common.reset": "重置",
+    "ui.common.order.difficulty": "难度",
+    "ui.common.order.players": "玩家数",
+    "ui.common.filters": "过滤"
 }
