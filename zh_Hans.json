@@ -894,5 +894,5 @@
     "ui.options.camera.rollHint": "0 =最小滚动，100 =跟随车辆滚动",
     "ui.options.camera.fovTune": "FOV调整",
     "ui.options.camera.positionOffset": "位置偏移",
-    "ui.options.camera.fineAdjustHint": "点击并使用鼠标键进行微调"
+    "ui.options.camera.fineAdjustHint": "点击并使用方向键进行微调"
 }
