@@ -919,5 +919,6 @@
     "ui.options.graphics.GraphicPostfxQuality": "后制效果质量",
     "ui.options.graphics.GraphicAnisotropic": "各向异性过滤",
     "ui.options.graphics.GraphicGrassDensity": "草密度",
-    "ui.options.graphics.DisplayShadows": "显示阴影"
+    "ui.options.graphics.DisplayShadows": "显示阴影",
+    "ui.options.audio.hardware": "硬件"
 }
