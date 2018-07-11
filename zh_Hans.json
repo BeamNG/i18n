@@ -390,7 +390,7 @@
     "ui.options.graphics.gamma": "伽马值",
     "ui.options.graphics.grassdensity": "草地密度",
     "ui.options.graphics.overallquality": "整体画面质量",
-    "ui.options.graphics.postfx": "邮箱通知",
+    "ui.options.graphics.postfx": "PostFX",
     "ui.options.graphics.resolution": "分辨率",
     "ui.options.graphics.uimaxres": "UI最大分辨率",
     "ui.options.graphics.vsync": "垂直同步",
