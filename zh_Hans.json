@@ -820,5 +820,6 @@
     "ui.apps.dashboard_indicators.name": "仪表板指标",
     "ui.apps.digital_tachometer.name": "数字转速表",
     "ui.apps.engine_debug.name": "引擎Debug",
-    "ui.apps.pedals_and_axis.name": "踏板下压量"
+    "ui.apps.pedals_and_axis.name": "踏板下压量",
+    "ui.apps.pitch.name": "倾斜度"
 }
