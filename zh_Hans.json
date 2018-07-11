@@ -760,5 +760,6 @@
     "engine.editor.menu.dropLocation": "放置位置",
     "engine.editor.menu.makeSelPrefab": "设定为预设",
     "engine.editor.menu.explodeSelPrefab": "删除所选预设",
-    "extensions.scenario.onRaceEnd.default.win": "做得好!你的时间: {{timeStr}}"
+    "extensions.scenario.onRaceEnd.default.win": "做得好!你的时间: {{timeStr}}",
+    "extensions.scenario.damageGoal.fail.msg": "你把汽车撞坏了。"
 }
