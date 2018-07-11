@@ -756,5 +756,6 @@
     "engine.editor.menu.resetTransforms": "重置位移",
     "engine.editor.menu.resetSelRot": "重置选定的旋转",
     "engine.editor.menu.transformSel": "移动选择...",
-    "engine.editor.menu.dropSel": "放置所选"
+    "engine.editor.menu.dropSel": "放置所选",
+    "engine.editor.menu.dropLocation": "放置位置"
 }
