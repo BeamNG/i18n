@@ -748,5 +748,7 @@
     "engine.editor.menu.posYAxis": "+Y轴",
     "engine.editor.menu.posZAxis": "+Z轴",
     "engine.editor.menu.negXAxis": "-X轴",
-    "engine.editor.menu.negYAxis": "-Y轴"
+    "engine.editor.menu.negYAxis": "-Y轴",
+    "engine.editor.menu.hideSelection": "隐藏选择",
+    "engine.editor.menu.showSelection": "显示选择"
 }
