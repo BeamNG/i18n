@@ -735,5 +735,8 @@
     "engine.editor.menu.manageBookmarks": "‎管理书签..",
     "engine.editor.menu.jumpBookmark": "‎跳转到书签‎",
     "engine.editor.menu.editors": "编辑器",
-    "engine.editor.menu.lighting": "‎照明‎"
+    "engine.editor.menu.lighting": "‎照明‎",
+    "engine.editor.menu.atOrigin": "起点",
+    "engine.editor.menu.atCamera": "摄像机",
+    "engine.editor.menu.atCamaraWoRot": "镜头带旋转"
 }
