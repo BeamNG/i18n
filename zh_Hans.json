@@ -915,5 +915,6 @@
     "ui.options.graphics.uimaxresNotAvailable": "UI最大分辨率在主菜单中不可用",
     "ui.options.graphics.PostFXHDRGeneralEnabled": "HDR",
     "ui.options.graphics.PostFXDOFGeneralEnabled": "景深(DoF)",
-    "ui.options.graphics.GraphicTextureQuality": "纹理质量"
+    "ui.options.graphics.GraphicTextureQuality": "纹理质量",
+    "ui.options.graphics.GraphicPostfxQuality": "后制效果质量"
 }
