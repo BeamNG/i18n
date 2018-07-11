@@ -790,5 +790,5 @@
     "ui.apps.precision_compass.name": "精密指南针",
     "ui.apps.cruise_control.name": "巡航控制",
     "ui.apps.engine_damage_app.name": "引擎受损App",
-    "ui.apps.detailed_vehicle_damage_app.name": "车辆损坏详细情况程序"
+    "ui.apps.detailed_vehicle_damage_app.name": "车辆损坏详细情况App"
 }
