@@ -861,5 +861,12 @@
     "ui.options.gameplay.absBehavior.tooltip": "设置汽车ABS系统的工作方式。 应用于新产生的车辆。",
     "ui.options.gameplay.escBehavior.tooltip": "设置汽车的ESC系统如何工作。 应用于新产生的车辆。",
     "ui.options.gameplay.defaultGearboxBehavior": "默认变速箱行为",
-    "ui.options.gameplay.defaultGearboxBehavior.tooltip": "设置默认的变速箱参数。 应用于新产生的车辆。"
+    "ui.options.gameplay.defaultGearboxBehavior.tooltip": "设置默认的变速箱参数。 应用于新产生的车辆。",
+    "ui.options.gameplay.autoClutch": "自动离合器（手动挡）",
+    "ui.options.gameplay.autoClutch.tooltip": "如果启用，离合器将在实际模式下自动控制。 完美启动汽车，防止失速并确保在换挡时不会断齿。",
+    "ui.options.gameplay.autoThrottle": "自动油门（手动挡）",
+    "ui.options.gameplay.autoThrottle.tooltip": "如果启用，手动变速器在上换档时切断节气门，并在需要时使用转速匹配。",
+    "ui.options.gameplay.gearboxSafety": "变速箱安全助手",
+    "ui.options.gameplay.gearboxSafety.tooltip": "如果启用，变速箱将防止可能造成损坏的移位，以及防止某些模式的改变，以便更深入地赛车体验。（例如，在低于某一速度前不允许退出M模式）",
+    "ui.options.gameplay.multiseatTags": "显示multiseat播放器标签"
 }
