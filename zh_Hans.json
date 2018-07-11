@@ -413,7 +413,7 @@
     "ui.options.userInterface.garageAutoSave": "自动保存车库内的车辆",
     "ui.options.utilities": "工具",
     "ui.performance.laptopGPU.customize": "让BeamNG.drive使用“高性能英伟达显卡”",
-    "ui.performance.os": "操作系统（OS）",
+    "ui.performance.os": "操作系统 (OS)",
     "ui.performance.recommended": "推荐配置",
     "ui.performance.showDetails": "显示详细信息",
     "ui.performance.warnings.cpuonecore": "如果您使用单核处理器的话，本游戏肯定不会流畅运行",
@@ -999,5 +999,6 @@
     "ui.performance.ram": "系统内存（RAM）",
     "ui.performance.ram.physical": "物理",
     "ui.performance.ram.virtual": "虚拟",
-    "ui.performance.ram.wipNote": "内存可能有误，这是WIP"
+    "ui.performance.ram.wipNote": "内存可能有误，这是WIP",
+    "ui.performance.benchmark": "物理Benchmark"
 }
