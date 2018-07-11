@@ -727,5 +727,6 @@
     "engine.editor.menu.lockSelection": "锁定选择",
     "engine.editor.menu.toggleCamModes": "‎‎切换摄像机模式‎‎",
     "engine.editor.menu.cameraTranslation": "摄像机位移",
-    "engine.editor.menu.fitViewSelection": "将视角匹配到选择处"
+    "engine.editor.menu.fitViewSelection": "将视角匹配到选择处",
+    "engine.editor.menu.fitViewSelectionOrbit": "视野适合到所选并环绕"
 }
