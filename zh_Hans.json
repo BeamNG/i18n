@@ -244,14 +244,14 @@
     "ui.debug.renderer": "渲染器",
     "ui.debug.renderer.disableShadows": "禁用阴影",
     "ui.debug.renderer.visualization": "形象",
-    "ui.debug.terrain": "编辑地图",
+    "ui.debug.terrain": "地形",
     "ui.debug.terrain.groundmodel": "地面调试",
     "ui.debug.userInterface.enable": "",
     "ui.debug.vehicle.beamTransparency": "Beam可见性",
     "ui.debug.vehicle.beamVis": "光线可视度",
     "ui.debug.vehicle.centerOfGravity": "重心",
     "ui.debug.vehicle.keepOnlyCurrent": "只留下当前载具",
-    "ui.debug.vehicle.meshVisibility": "网格能见度",
+    "ui.debug.vehicle.meshVisibility": "模型能见度",
     "ui.debug.vehicle.nodeText": "节点文字",
     "ui.debug.vehicle.reloadAll": "重新加载全部载具",
     "ui.debug.vehicle.removeAll": "删除所有载具",
@@ -967,5 +967,5 @@
     "ui.debug.vehicle.flexmeshdebug": "模型Debug",
     "ui.debug.vehicle.aerodynamics": "空气动力Debug",
     "ui.debug.vehicle.aerodynamicsScale": "空气动力量表",
-    "ui.debug.vehicle.tireContactPoint": "轮胎接触点调试"
+    "ui.debug.vehicle.tireContactPoint": "轮胎接触点Debug"
 }
