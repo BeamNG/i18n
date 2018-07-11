@@ -401,7 +401,7 @@
     "ui.options.theme": "主题",
     "ui.options.theme.accent": "强调",
     "ui.options.theme.primary": "主色",
-    "ui.options.theme.warn": "警告",
+    "ui.options.theme.warn": "警告色",
     "ui.options.units.dateFormat": "日期格式",
     "ui.options.units.energy": "能量",
     "ui.options.units.temperature": "温度",
