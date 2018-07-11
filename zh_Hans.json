@@ -857,5 +857,6 @@
     "ui.options.userInterface.showCustomVehicles": "在车辆选择器中显示定制车辆",
     "ui.options.assistants": "行车助理",
     "ui.options.aids": "驾驶辅助",
-    "ui.options.gameplay.absBehavior": "ABS"
+    "ui.options.gameplay.absBehavior": "ABS",
+    "ui.options.gameplay.absBehavior.tooltip": "设置汽车ABS系统的工作方式。 适用于产生新车后。"
 }
