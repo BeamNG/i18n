@@ -734,5 +734,6 @@
     "engine.editor.menu.addBookmark": "添加书签‎...",
     "engine.editor.menu.manageBookmarks": "‎管理书签..",
     "engine.editor.menu.jumpBookmark": "‎跳转到书签‎",
-    "engine.editor.menu.editors": "编辑器"
+    "engine.editor.menu.editors": "编辑器",
+    "engine.editor.menu.lighting": "‎照明‎"
 }
