@@ -1009,5 +1009,6 @@
     "ui.performance.benchmark.notavailable": "Benchmark只能从主菜单运行。",
     "ui.performance.score": "分数",
     "ui.performance.acknowledge": "确认",
-    "ui.performance.acknowledged": "已确认"
+    "ui.performance.acknowledged": "已确认",
+    "ui.performance.maxRealtimeVehicles": "最大实时车辆"
 }
