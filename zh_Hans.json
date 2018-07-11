@@ -818,5 +818,6 @@
     "ui.apps.rpm_debug.name": "转速Debug",
     "ui.apps.chat_application.name": "聊天程序",
     "ui.apps.dashboard_indicators.name": "仪表板指标",
-    "ui.apps.digital_tachometer.name": "转速表"
+    "ui.apps.digital_tachometer.name": "数字转速表",
+    "ui.apps.engine_debug.name": "引擎Debug"
 }
