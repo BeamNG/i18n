@@ -767,5 +767,6 @@
     "extensions.scenario.timeLimit.checkTime.countdown": "{{countdown}}...",
     "extensions.scenario.speedGoal.fail.msg": "你没有达到要求的速度",
     "extensions.scenario.speedGoal.win.msg": "做得好! 你的时间：{{time}}",
-    "extensions.scenario.speedGoal.countdown": "{{countdown}}..."
+    "extensions.scenario.speedGoal.countdown": "{{countdown}}...",
+    "extensions.scenario.drift.failedGoal": "你需要至少{{minDrift}}分"
 }
