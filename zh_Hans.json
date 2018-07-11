@@ -972,5 +972,8 @@
     "ui.debug.renderer.boundingBoxes": "边界框",
     "ui.debug.renderer.wireframeMode": "线框模式",
     "ui.debug.renderer.toggleFps": "切换显示FPS",
-    "ui.debug.effects.msg.fovOnlyInFreeMode": "此视野(FOV)控制只在自由视角下作用"
+    "ui.debug.effects.msg.fovOnlyInFreeMode": "此视野(FOV)控制只在自由视角下作用",
+    "ui.debug.userInterface": "用户界面",
+    "ui.faq.getSupport.q": "如何获得支持？",
+    "ui.faq.getSupport.a": "您可以在我们的论坛获得帮助：[url=http://www.beamng.com/forums/]beamng.com/forums[/url]。或者您可以直接联系我们：[url=http://support.beamng.com/]support.beamng.com[/url]。或通过电子邮件：[h1]support@beamng.com[/h1][br]我们将在两个工作日后尽快回复您。"
 }
