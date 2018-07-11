@@ -938,5 +938,5 @@
     "ui.controls.filter": "过滤",
     "ui.controls.filters": "过滤",
     "ui.controls.filters.-1": "自动",
-    "ui.controls.filters.limitEnabled": "限制转向速度"
+    "ui.controls.filters.limitEnabled": "高速下限制转向"
 }
