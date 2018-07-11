@@ -243,7 +243,7 @@
     "ui.debug.effects.toggleFreeCamera": "切换自由视角",
     "ui.debug.renderer": "渲染器",
     "ui.debug.renderer.disableShadows": "禁用阴影",
-    "ui.debug.renderer.visualization": "形象",
+    "ui.debug.renderer.visualization": "可视化",
     "ui.debug.terrain": "地形",
     "ui.debug.terrain.groundmodel": "地面Debug",
     "ui.debug.userInterface.enable": "",
@@ -968,5 +968,8 @@
     "ui.debug.vehicle.aerodynamics": "空气动力Debug",
     "ui.debug.vehicle.aerodynamicsScale": "空气动力量表",
     "ui.debug.vehicle.tireContactPoint": "轮胎接触点Debug",
-    "ui.debug.terrain.staticCollision": "静态碰撞"
+    "ui.debug.terrain.staticCollision": "静态碰撞",
+    "ui.debug.renderer.boundingBoxes": "边界框",
+    "ui.debug.renderer.wireframeMode": "线框模式",
+    "ui.debug.renderer.toggleFps": "切换显示FPS"
 }
