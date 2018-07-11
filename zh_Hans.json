@@ -950,5 +950,5 @@
     "ui.controls.hardware": "硬件",
     "ui.controls.hint1": "提示:在Windows控制面板中，总是安装最新的驱动程序和禁用“组合踏板”(如果有的话)",
     "ui.controls.hint2": "提示：还可以在“绑定”菜单中将鼠标分配给“转向”（或任何其他动作）",
-    "ui.controls.remotControlApp": "远程控制程序"
+    "ui.controls.remotControlApp": "遥控App"
 }
