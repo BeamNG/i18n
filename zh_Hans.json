@@ -956,5 +956,5 @@
     "ui.controls.iosQRCode": "扫描下面的二维码或点击iOS应用程序的按钮。",
     "ui.controls.androidQRCode": "扫描下面的二维码或点击安卓应用的按钮。",
     "ui.debug.activatePhysics": "激活物理引擎",
-    "ui.debug.vehicle": "车辆调试"
+    "ui.debug.vehicle": "载具Debug"
 }
