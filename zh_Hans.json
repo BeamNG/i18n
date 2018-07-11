@@ -910,5 +910,6 @@
     "ui.options.onlineFeatures": "在线功能",
     "ui.options.modAutoUpdates": "自动模组更新",
     "ui.options.graphics.MainMenuBackgroundMode": "菜单背景",
-    "ui.options.graphics.restartRequired": "需要重新启动游戏才能生效。"
+    "ui.options.graphics.restartRequired": "需要重新启动游戏才能生效。",
+    "ui.options.graphics.uimaxresExplanation": "指定用户界面的最大分辨率。 适用于4k屏幕。"
 }
