@@ -962,5 +962,5 @@
     "ui.debug.vehicle.cloneCurrent": "复制当前载具",
     "ui.debug.vehicle.removeOthers": "删除其他载具",
     "ui.debug.vehicle.loadDefault": "加载默认载具",
-    "ui.debug.vehicle.nodeVis": "节点可视化"
+    "ui.debug.vehicle.nodeVis": "可视化节点"
 }
