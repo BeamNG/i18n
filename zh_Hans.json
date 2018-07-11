@@ -1012,5 +1012,6 @@
     "ui.performance.acknowledged": "已确认",
     "ui.performance.maxRealtimeVehicles": "最大实时车辆",
     "ui.perforamnce.improvements": "简易效能提升",
-    "ui.performance.improvements.ssao": "关闭环境光遮罩(SSAO)"
+    "ui.performance.improvements.ssao": "关闭环境光遮罩(SSAO)",
+    "ui.performance.improvements.lighting": "减少光照"
 }
