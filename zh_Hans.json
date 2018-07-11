@@ -729,5 +729,6 @@
     "engine.editor.menu.cameraTranslation": "摄像机位移",
     "engine.editor.menu.fitViewSelection": "将视角匹配到选择处",
     "engine.editor.menu.fitViewSelectionOrbit": "视野适合到所选并环绕",
-    "engine.editor.menu.speed": "速度"
+    "engine.editor.menu.speed": "速度",
+    "engine.editor.menu.viewType": "视角"
 }
