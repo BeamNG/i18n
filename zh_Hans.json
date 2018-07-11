@@ -980,5 +980,9 @@
     "ui.faq.changeVehicle.q": "我要怎么更换载具？",
     "ui.faq.changeVehicle.a": "您可以使用仪表板中的载具选择器。按下[action=toggleMenues]或者[action=vehicle_selector]",
     "ui.faq.spawnVehicle.q": "我如何生成更多的载具？",
-    "ui.faq.spawnVehicle.a": "您可以使用仪表板中的载具选择器按下[action=toggleMenues]或者[action=vehicle_selector]"
+    "ui.faq.spawnVehicle.a": "您可以使用仪表板中的载具选择器按下[action=toggleMenues]或者[action=vehicle_selector]",
+    "ui.faq.mapEditor.q": "如何打开地图编辑器？",
+    "ui.faq.mapEditor.a": "在窗口模式下运行时，可以按[action=toggleEditor]访问地图编辑器。",
+    "ui.faq.useMods.q": "我该如何使用模组？",
+    "ui.faq.useMods.a": "安装一个模组后，你可以在车辆或水平选择菜单中找到该模组。"
 }
