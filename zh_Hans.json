@@ -902,5 +902,6 @@
     "ui.options.utilities.g27ShiftLed": "罗技G27換檔指示LED灯",
     "ui.options.theme.dark": "黑暗主题",
     "ui.options.theme.reset": "重置主题",
-    "ui.options.units.length": "长度"
+    "ui.options.units.length": "长度",
+    "ui.options.units.distance": "距离"
 }
