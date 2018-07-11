@@ -755,5 +755,5 @@
     "engine.editor.menu.alignCenter": "居中对齐",
     "engine.editor.menu.resetTransforms": "重置位移",
     "engine.editor.menu.resetSelRot": "重置选定的旋转",
-    "engine.editor.menu.transformSel": "改变选择"
+    "engine.editor.menu.transformSel": "移动选择..."
 }
