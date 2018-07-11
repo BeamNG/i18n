@@ -757,5 +757,7 @@
     "engine.editor.menu.resetSelRot": "重置选定的旋转",
     "engine.editor.menu.transformSel": "移动选择...",
     "engine.editor.menu.dropSel": "放置所选",
-    "engine.editor.menu.dropLocation": "放置位置"
+    "engine.editor.menu.dropLocation": "放置位置",
+    "engine.editor.menu.makeSelPrefab": "设定为预设",
+    "engine.editor.menu.explodeSelPrefab": "删除所选预设"
 }
