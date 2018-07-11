@@ -795,5 +795,6 @@
     "ui.apps.dialog.name": "对话框",
     "ui.apps.engineinfo.name": "引擎信息",
     "ui.apps.engine_dynamometer.name": "引擎测功器",
-    "ui.apps.engine_heat_debug_graph.name": "引擎热Debug图"
+    "ui.apps.engine_heat_debug_graph.name": "引擎热Debug图",
+    "ui.apps.engine_thermal_debug.name": "引擎热调试"
 }
