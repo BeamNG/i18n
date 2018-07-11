@@ -916,5 +916,7 @@
     "ui.options.graphics.PostFXHDRGeneralEnabled": "HDR",
     "ui.options.graphics.PostFXDOFGeneralEnabled": "景深(DoF)",
     "ui.options.graphics.GraphicTextureQuality": "纹理质量",
-    "ui.options.graphics.GraphicPostfxQuality": "后制效果质量"
+    "ui.options.graphics.GraphicPostfxQuality": "后制效果质量",
+    "ui.options.graphics.GraphicAnisotropic": "各向异性过滤",
+    "ui.options.graphics.GraphicGrassDensity": "草密度"
 }
