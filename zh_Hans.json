@@ -777,5 +777,7 @@
     "ui.common.reset": "重置",
     "ui.common.order.difficulty": "难度",
     "ui.common.order.players": "玩家数",
-    "ui.common.filters": "过滤"
+    "ui.common.filters": "过滤",
+    "ui.common.sortBy": "排序",
+    "ui.common.downloadMore": "下载更多！！！"
 }
