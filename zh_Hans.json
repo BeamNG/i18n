@@ -821,5 +821,8 @@
     "ui.apps.digital_tachometer.name": "数字转速表",
     "ui.apps.engine_debug.name": "引擎Debug",
     "ui.apps.pedals_and_axis.name": "踏板下压量",
-    "ui.apps.pitch.name": "倾斜度"
+    "ui.apps.pitch.name": "倾斜度",
+    "ui.apps.steering_position.name": "转向位置",
+    "ui.apps.tachometer.name": "转速表",
+    "ui.apps.trip_computer.name": "行程计算机"
 }
