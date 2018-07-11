@@ -897,5 +897,7 @@
     "ui.options.camera.fineAdjustHint": "点击并使用方向键进行微调",
     "ui.options.camera.cameraFanVsTV": "外部模式",
     "ui.options.camera.cameraTVSpeed": "外部模式平移速度",
-    "ui.options.camera.cameraTVSpeedTooltip": "不强制一个固定速度，而是动态选择速度的修改器"
+    "ui.options.camera.cameraTVSpeedTooltip": "不强制一个固定速度，而是动态选择速度的修改器",
+    "ui.options.utilities.outgaugeSupport": "OutGauge支持",
+    "ui.options.utilities.g27ShiftLed": "罗技G27移动指示灯LED"
 }
