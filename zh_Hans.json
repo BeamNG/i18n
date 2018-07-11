@@ -381,7 +381,7 @@
     "ui.options.graphics.GraphicLightingQuality": "光线质量",
     "ui.options.graphics.GraphicShaderQuality": "阴影质量",
     "ui.options.graphics.PostFXLightRaysEnabled": "光线",
-    "ui.options.graphics.PostFXSSAOGeneralEnabled": "SSAO",
+    "ui.options.graphics.PostFXSSAOGeneralEnabled": "环境光遮蔽(SSAO)",
     "ui.options.graphics.antialiasing": "抗锯齿",
     "ui.options.graphics.borderless": "无边框窗口",
     "ui.options.graphics.display": "显示设置",
