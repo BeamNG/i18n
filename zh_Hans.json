@@ -914,5 +914,6 @@
     "ui.options.graphics.uimaxresExplanation": "指定用户界面的最大分辨率。 适用于4k屏幕。",
     "ui.options.graphics.uimaxresNotAvailable": "UI最大分辨率在主菜单中不可用",
     "ui.options.graphics.PostFXHDRGeneralEnabled": "HDR",
-    "ui.options.graphics.PostFXDOFGeneralEnabled": "景深(DoF)"
+    "ui.options.graphics.PostFXDOFGeneralEnabled": "景深(DoF)",
+    "ui.options.graphics.GraphicTextureQuality": "纹理质量"
 }
