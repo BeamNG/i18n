@@ -771,5 +771,6 @@
     "extensions.scenario.drift.failedGoal": "你需要至少{{minDrift}}分",
     "ui.fonts.primary": "Play",
     "ui.fonts.secondary": "News Cycle",
-    "ui.fonts.fallback": "Roboto"
+    "ui.fonts.fallback": "Roboto",
+    "ui.common.search": "搜索"
 }
