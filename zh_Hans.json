@@ -239,7 +239,7 @@
     "ui.dashboard.vehicleconfig": "载具配置",
     "ui.dashboard.vehicles": "载具",
     "ui.debug.effects": "特效",
-    "ui.debug.effects.fov": "视野",
+    "ui.debug.effects.fov": "视野(FOV)",
     "ui.debug.effects.toggleFreeCamera": "切换自由视角",
     "ui.debug.renderer": "渲染器",
     "ui.debug.renderer.disableShadows": "禁用阴影",
