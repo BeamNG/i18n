@@ -1019,5 +1019,6 @@
     "ui.performance.link.graphicsOptions": "图形选项",
     "ui.performance.laptopGPU": "在笔记本电脑上使用专用图形",
     "ui.performance.laptopGPU.controlPanel": "到NVIDIA控制面板",
-    "ui.performance.laptopGPU.manageSettings": "去“管理3D设置”"
+    "ui.performance.laptopGPU.manageSettings": "去“管理3D设置”",
+    "ui.performance.laptopGPU.more": "有关更多详细信息，请查看我们的[url=http://wiki.beamng.com/Dedicated_Graphics]指南[/url]或者请联系我们的支持"
 }
