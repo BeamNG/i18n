@@ -780,5 +780,6 @@
     "ui.common.filters": "过滤",
     "ui.common.sortBy": "排序",
     "ui.common.downloadMore": "下载更多！！！",
-    "ui.common.property.authors": "作者（们）"
+    "ui.common.property.authors": "作者（们）",
+    "ui.modmanager.show": "显示"
 }
