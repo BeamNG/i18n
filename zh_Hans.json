@@ -885,5 +885,5 @@
     "ui.options.camera.order": "切换顺序",
     "ui.options.camera.switchHint": "点击切换",
     "ui.options.camera.current": "当前视角",
-    "ui.options.camera.resetConfiguration": "重置订单"
+    "ui.options.camera.resetConfiguration": "重置顺序"
 }
