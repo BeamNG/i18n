@@ -254,7 +254,7 @@
     "ui.debug.vehicle.meshVisibility": "网格能见度",
     "ui.debug.vehicle.nodeText": "节点文字",
     "ui.debug.vehicle.reloadAll": "重新加载全部车辆",
-    "ui.debug.vehicle.removeAll": "去除所有",
+    "ui.debug.vehicle.removeAll": "删除所有",
     "ui.debug.vehicle.resetAll": "重置所有",
     "ui.environment.cloudCover": "云层",
     "ui.environment.day": "白天",
