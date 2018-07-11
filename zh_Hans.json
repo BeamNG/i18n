@@ -972,5 +972,5 @@
     "ui.debug.renderer.boundingBoxes": "边界框",
     "ui.debug.renderer.wireframeMode": "线框模式",
     "ui.debug.renderer.toggleFps": "切换显示FPS",
-    "ui.debug.effects.msg.fovOnlyInFreeMode": "FOV只能在自由拍摄模式工作"
+    "ui.debug.effects.msg.fovOnlyInFreeMode": "此视野(FOV)控制只在自由视角下作用"
 }
