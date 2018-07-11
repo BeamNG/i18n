@@ -751,5 +751,7 @@
     "engine.editor.menu.negYAxis": "-Y轴",
     "engine.editor.menu.hideSelection": "隐藏选择",
     "engine.editor.menu.showSelection": "显示选择",
-    "engine.editor.menu.alignBounds": "对齐边界"
+    "engine.editor.menu.alignBounds": "对齐边界",
+    "engine.editor.menu.alignCenter": "居中对齐",
+    "engine.editor.menu.resetTransforms": "重置改变"
 }
