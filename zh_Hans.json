@@ -791,5 +791,9 @@
     "ui.apps.cruise_control.name": "巡航控制",
     "ui.apps.engine_damage_app.name": "引擎受损App",
     "ui.apps.detailed_vehicle_damage_app.name": "车辆损坏详细情况App",
-    "ui.apps.vehicle_damage_app.name": "载具受损App"
+    "ui.apps.vehicle_damage_app.name": "载具受损App",
+    "ui.apps.dialog.name": "对话框",
+    "ui.apps.engineinfo.name": "引擎信息",
+    "ui.apps.engine_dynamometer.name": "引擎测功器",
+    "ui.apps.engine_heat_debug_graph.name": "引擎热调试图"
 }
