@@ -834,5 +834,10 @@
     "ui.apps.wheelsdebug.name": "车轮Debug",
     "ui.apps.wind.name": "风！",
     "ui.apps.powertrain_debug.name": "动力系统可视化",
-    "ui.apps.time.name": "时间"
+    "ui.apps.time.name": "时间",
+    "ui.apps.advanced_wheels_debug.name": "进阶车轮Debug",
+    "ui.apps.shift_decision_debug.name": "档位选择Debug",
+    "ui.apps.shift_point_debug.name": "换档时机Debug",
+    "ui.apps.simple_brake_thermals.name": "简易煞车温度",
+    "ui.apps.simple_powertrain_control.name": "简易传动控制"
 }
