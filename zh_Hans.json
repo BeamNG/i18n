@@ -815,5 +815,8 @@
     "ui.apps.odometer.name": "里程表",
     "ui.apps.race_time_comparison.name": "比赛时间比较",
     "ui.apps.radial_menu.name": "圆形菜单",
-    "ui.apps.rpm_debug.name": "转速Debug"
+    "ui.apps.rpm_debug.name": "转速Debug",
+    "ui.apps.chat_application.name": "聊天程序",
+    "ui.apps.dashboard_indicators.name": "仪表板指标",
+    "ui.apps.digital_tachometer.name": "转速表"
 }
