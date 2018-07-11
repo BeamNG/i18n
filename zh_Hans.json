@@ -963,5 +963,7 @@
     "ui.debug.vehicle.removeOthers": "删除其他载具",
     "ui.debug.vehicle.loadDefault": "加载默认载具",
     "ui.debug.vehicle.nodeVis": "可视化节点",
-    "ui.debug.vehicle.collisionTriangle": "碰撞三角调试"
+    "ui.debug.vehicle.collisionTriangle": "碰撞三角Debug",
+    "ui.debug.vehicle.flexmeshdebug": "模型Debug",
+    "ui.debug.vehicle.aerodynamics": "空气动力Debug"
 }
