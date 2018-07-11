@@ -802,5 +802,6 @@
     "ui.apps.forcedinduction.name": "强制进气",
     "ui.apps.forced_induction_debug.name": "强制进气Debug",
     "ui.apps.ffb_visualizer.name": "力回馈可视化器",
-    "ui.apps.ffb_graph.name": "FFB 视图"
+    "ui.apps.ffb_graph.name": "力回馈视图",
+    "ui.apps.g-forces.name": "G力"
 }
