@@ -359,7 +359,7 @@
     "ui.options.audio.mute": "静音",
     "ui.options.audio.unmute": "取消静音",
     "ui.options.camera": "视角设置",
-    "ui.options.camera.chaseRollRelaxation": "追击视角下视角切换时间",
+    "ui.options.camera.chaseRollRelaxation": "滚动放松",
     "ui.options.camera.enableCustom": "使用新的或自定义模式",
     "ui.options.camera.relaxation": "视角切换时间",
     "ui.options.communityTranslationsAgree": "同意并启用",
@@ -892,5 +892,5 @@
     "ui.options.camera.cameraOrbitMaxDynamicFov": "动态FOV角度",
     "ui.options.camera.transitionTime": "过渡时间",
     "ui.options.camera.rollHint": "0 =最小滚动，100 =跟随车辆滚动",
-    "ui.options.camera.fovTune": "视角调整"
+    "ui.options.camera.fovTune": "FOV调整"
 }
