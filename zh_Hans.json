@@ -896,5 +896,5 @@
     "ui.options.camera.positionOffset": "位置偏移",
     "ui.options.camera.fineAdjustHint": "点击并使用方向键进行微调",
     "ui.options.camera.cameraFanVsTV": "外部模式",
-    "ui.options.camera.cameraTVSpeed": "TV 平移速度"
+    "ui.options.camera.cameraTVSpeed": "外部模式平移速度"
 }
