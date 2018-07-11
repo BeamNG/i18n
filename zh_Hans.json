@@ -1015,5 +1015,8 @@
     "ui.performance.improvements.ssao": "关闭环境光遮罩(SSAO)",
     "ui.performance.improvements.lighting": "减少光照",
     "ui.performance.improvements.textures": "降低纹理质量",
-    "ui.performance.improvements.resolution": "降低分辨率"
+    "ui.performance.improvements.resolution": "降低分辨率",
+    "ui.performance.link.graphicsOptions": "图形选项",
+    "ui.performance.laptopGPU": "在笔记本电脑上使用专用图形",
+    "ui.performance.laptopGPU.controlPanel": "转到NVIDIA控制面板"
 }
