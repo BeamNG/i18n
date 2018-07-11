@@ -831,5 +831,6 @@
     "ui.apps.turbo_activity_graph.name": "涡轮活动图",
     "ui.apps.vehicledebug.name": "载具Debug",
     "ui.apps.weight_distribution.name": "重量分布",
-    "ui.apps.wheelsdebug.name": "车轮Debug"
+    "ui.apps.wheelsdebug.name": "车轮Debug",
+    "ui.apps.wind.name": "风！"
 }
