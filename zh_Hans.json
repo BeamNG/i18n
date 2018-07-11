@@ -993,5 +993,6 @@
     "ui.performance.tempHide": "隐藏UI 10秒",
     "ui.performance.minRequired": "最低需求",
     "ui.performance.orBetter": "或更好",
-    "ui.performance.orEquivalent": "或同等"
+    "ui.performance.orEquivalent": "或同等",
+    "ui.performance.cpu": "处理器（CPU）"
 }
