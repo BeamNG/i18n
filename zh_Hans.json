@@ -730,5 +730,8 @@
     "engine.editor.menu.fitViewSelection": "将视角匹配到选择处",
     "engine.editor.menu.fitViewSelectionOrbit": "视野适合到所选并环绕",
     "engine.editor.menu.speed": "速度",
-    "engine.editor.menu.viewType": "视角"
+    "engine.editor.menu.viewType": "视角",
+    "engine.editor.menu.addBookmark": "添加书签‎...",
+    "engine.editor.menu.manageBookmarks": "‎管理书签..",
+    "engine.editor.menu.jumpBookmark": "‎跳转到书签‎"
 }
