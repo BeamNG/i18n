@@ -763,5 +763,6 @@
     "extensions.scenario.onRaceEnd.default.win": "做得好!你的时间: {{timeStr}}",
     "extensions.scenario.damageGoal.fail.msg": "你把汽车弄坏了",
     "extensions.scenario.damageGoal.checkDamage.win.msg": "{{damage}}% 损伤",
-    "extensions.scenario.timeLimit.failedGoal": "超出时限 {{maxTime}}"
+    "extensions.scenario.timeLimit.failedGoal": "超出时限 {{maxTime}}",
+    "extensions.scenario.timeLimit.checkTime.countdown": "{{countdown}}..."
 }
