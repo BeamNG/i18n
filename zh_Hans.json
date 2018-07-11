@@ -882,5 +882,5 @@
     "ui.options.camera.emptyListHint": "（列表仅在游戏中可用）",
     "ui.options.camera.transitionHint": "切换摄像机上动画所需时间（毫秒）",
     "ui.options.camera.fovHint": "允许您更改视野。 添加到车辆的设置",
-    "ui.options.camera.order": "切换指令"
+    "ui.options.camera.order": "切换顺序"
 }
