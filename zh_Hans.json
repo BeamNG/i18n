@@ -959,5 +959,6 @@
     "ui.debug.vehicle": "载具Debug",
     "ui.debug.vehicle.spawnNew": "生成新载具",
     "ui.debug.vehicle.removeCurrent": "删除当前载具",
-    "ui.debug.vehicle.cloneCurrent": "复制当前载具"
+    "ui.debug.vehicle.cloneCurrent": "复制当前载具",
+    "ui.debug.vehicle.removeOthers": "删除其他"
 }
