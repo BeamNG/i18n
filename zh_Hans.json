@@ -765,5 +765,6 @@
     "extensions.scenario.damageGoal.checkDamage.win.msg": "{{damage}}% 损伤",
     "extensions.scenario.timeLimit.failedGoal": "超出时限 {{maxTime}}",
     "extensions.scenario.timeLimit.checkTime.countdown": "{{countdown}}...",
-    "extensions.scenario.speedGoal.fail.msg": "你没有达到要求的速度"
+    "extensions.scenario.speedGoal.fail.msg": "你没有达到要求的速度",
+    "extensions.scenario.speedGoal.win.msg": "做得好!您的时间：{{time}}"
 }
