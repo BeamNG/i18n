@@ -991,5 +991,7 @@
     "ui.faq.findMods.a": "您可以从存储库下载模组: [url=http://www.beamng.com/resources/]如果您登录了，只需点击模组页面上的绿色安装模组按钮即可。",
     "ui.performance": "系统效能",
     "ui.performance.tempHide": "隐藏UI 10秒",
-    "ui.performance.minRequired": "最低需求"
+    "ui.performance.minRequired": "最低需求",
+    "ui.performance.orBetter": "或更好",
+    "ui.performance.orEquivalent": "或同等"
 }
