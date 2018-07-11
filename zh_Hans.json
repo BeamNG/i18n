@@ -839,5 +839,10 @@
     "ui.apps.shift_decision_debug.name": "档位选择Debug",
     "ui.apps.shift_point_debug.name": "换档时机Debug",
     "ui.apps.simple_brake_thermals.name": "简易煞车温度",
-    "ui.apps.simple_powertrain_control.name": "简易传动控制"
+    "ui.apps.simple_powertrain_control.name": "简易传动控制",
+    "ui.apps.thumbnail_generator.name": "缩略图生成器",
+    "ui.playmodes.quickrace": "计时赛",
+    "ui.options.other": "其他",
+    "ui.options.controls": "控制",
+    "ui.options.userInterface.editApps": "定制用户界面应用程序"
 }
