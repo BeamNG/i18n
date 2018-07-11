@@ -740,5 +740,6 @@
     "engine.editor.menu.atCamera": "摄像机",
     "engine.editor.menu.atCamaraWoRot": "镜头带旋转",
     "engine.editor.menu.belowCamera": "摄像机下方",
-    "engine.editor.menu.screenCenter": "屏幕中心"
+    "engine.editor.menu.screenCenter": "屏幕中心",
+    "engine.editor.menu.atCenteroid": "在几何中心"
 }
