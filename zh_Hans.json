@@ -1014,5 +1014,6 @@
     "ui.perforamnce.improvements": "简易效能提升",
     "ui.performance.improvements.ssao": "关闭环境光遮罩(SSAO)",
     "ui.performance.improvements.lighting": "减少光照",
-    "ui.performance.improvements.textures": "降低纹理质量"
+    "ui.performance.improvements.textures": "降低纹理质量",
+    "ui.performance.improvements.resolution": "降低分辨率"
 }
