@@ -850,5 +850,11 @@
     "ui.options.userInterface.creatorMode": "创造模式",
     "ui.options.userInterface.externalUi": "启用浏览器UI",
     "ui.options.language": "语言",
-    "ui.options.communityTranslations": "社区翻译"
+    "ui.options.communityTranslations": "社区翻译",
+    "ui.options.availableLanguages": "可用语言",
+    "ui.options.detectedLanguage": "检测到的语言",
+    "ui.options.communityTranslationsAckText": "翻译是由社区用户创建的。 BeamNG不以任何方式对翻译负责（即不恰当或不正确）。 使用风险自负。",
+    "ui.options.userInterface.showCustomVehicles": "在车辆选择器中显示定制车辆",
+    "ui.options.assistants": "行车助理",
+    "ui.options.aids": "驾驶辅助"
 }
