@@ -810,5 +810,9 @@
     "ui.apps.race_check_points.name": "比赛检查点",
     "ui.apps.racecountdown.name": "比赛倒数",
     "ui.apps.racelaps.name": "比赛圈数",
-    "ui.apps.racing_position.name": "比赛名次"
+    "ui.apps.racing_position.name": "比赛名次",
+    "ui.apps.race_time.name": "比赛时间",
+    "ui.apps.odometer.name": "里程表",
+    "ui.apps.race_time_comparison.name": "比赛时间比较",
+    "ui.apps.radial_menu.name": "圆形菜单"
 }
