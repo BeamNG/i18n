@@ -804,5 +804,6 @@
     "ui.apps.ffb_visualizer.name": "力回馈可视化器",
     "ui.apps.ffb_graph.name": "力回馈视图",
     "ui.apps.g-forces.name": "G力",
-    "ui.apps.gearbox_debug.name": "变速箱调试"
+    "ui.apps.gearbox_debug.name": "变速箱Debug",
+    "ui.apps.special_vehicle_keys.name": "特殊载具控制"
 }
