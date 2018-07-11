@@ -877,5 +877,6 @@
     "ui.options.gameplay.updateTranslations": "更新翻译",
     "ui.options.gameplay.helpTranslating": "协助翻译",
     "ui.options.gameplay.translationProjectPage": "翻译项目页面",
-    "ui.options.general": "普通"
+    "ui.options.general": "普通",
+    "ui.options.advanced": "进阶"
 }
