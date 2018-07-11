@@ -1010,5 +1010,6 @@
     "ui.performance.score": "分数",
     "ui.performance.acknowledge": "确认",
     "ui.performance.acknowledged": "已确认",
-    "ui.performance.maxRealtimeVehicles": "最大实时车辆"
+    "ui.performance.maxRealtimeVehicles": "最大实时车辆",
+    "ui.perforamnce.improvements": "简易效能提升"
 }
