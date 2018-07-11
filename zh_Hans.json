@@ -979,5 +979,5 @@
     "ui.faq.changeCamera.a": "按下[action=switch_camera_next]使用车辆视角或者[action=toggleCamera]使用自由视角",
     "ui.faq.changeVehicle.q": "我要怎么更换载具？",
     "ui.faq.changeVehicle.a": "您可以使用仪表板中的车辆选择器。按下[action=toggleMenues]或者[action=vehicle_selector]",
-    "ui.faq.spawnVehicle.q": "我如何生产更多的车辆？"
+    "ui.faq.spawnVehicle.q": "我如何生成更多的载具？"
 }
