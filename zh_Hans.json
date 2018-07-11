@@ -807,5 +807,8 @@
     "ui.apps.gearbox_debug.name": "变速箱Debug",
     "ui.apps.special_vehicle_keys.name": "特殊载具控制",
     "ui.apps.messages.name": "消息",
-    "ui.apps.race_check_points.name": "比赛检查点"
+    "ui.apps.race_check_points.name": "比赛检查点",
+    "ui.apps.racecountdown.name": "比赛倒数",
+    "ui.apps.racelaps.name": "比赛圈数",
+    "ui.apps.racing_position.name": "比赛名次"
 }
