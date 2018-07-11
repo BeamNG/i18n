@@ -936,5 +936,7 @@
     "ui.controls.rmAllUserModification": "删除所有用户自定义的修改（保留工厂绑定，仅提供给最常用的外设）",
     "ui.controls.nDevicesDetected": "检测到{{nDevices}}设备",
     "ui.controls.filter": "过滤",
-    "ui.controls.filters": "过滤"
+    "ui.controls.filters": "过滤",
+    "ui.controls.filters.-1": "自动",
+    "ui.controls.filters.limitEnabled": "限制转向速度"
 }
