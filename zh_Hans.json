@@ -824,5 +824,8 @@
     "ui.apps.pitch.name": "倾斜度",
     "ui.apps.steering_position.name": "转向位置",
     "ui.apps.tachometer.name": "转速表",
-    "ui.apps.trip_computer.name": "行程计算机"
+    "ui.apps.trip_computer.name": "行程计算机",
+    "ui.apps.tacho2.name": "转速表2",
+    "ui.apps.tcs_activity_graph.name": "TCS活动图",
+    "ui.apps.tcs_debug_graph.name": "TCS Debug图"
 }
