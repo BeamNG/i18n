@@ -989,5 +989,6 @@
     "ui.faq.updateGame.a": "当您连接到互联网时，Steam会自动安装更新。[br]如需更多信息，请访问我们的wiki页面[url=http://wiki.beamng.com/Updating_the_game]http://wiki.beamng.com/Updating_the_game[/url]",
     "ui.faq.findMods.q": "我在哪里能找到这些模組呢？",
     "ui.faq.findMods.a": "您可以从存储库下载模组: [url=http://www.beamng.com/resources/]如果您登录了，只需点击模组页面上的绿色安装模组按钮即可。",
-    "ui.performance": "系统效能"
+    "ui.performance": "系统效能",
+    "ui.performance.tempHide": "隐藏UI 10秒"
 }
