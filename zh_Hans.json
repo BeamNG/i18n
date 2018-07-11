@@ -832,5 +832,6 @@
     "ui.apps.vehicledebug.name": "载具Debug",
     "ui.apps.weight_distribution.name": "重量分布",
     "ui.apps.wheelsdebug.name": "车轮Debug",
-    "ui.apps.wind.name": "风！"
+    "ui.apps.wind.name": "风！",
+    "ui.apps.powertrain_debug.name": "可视化的动力系统"
 }
