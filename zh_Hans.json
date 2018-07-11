@@ -723,5 +723,6 @@
     "ui.replay.openReplayFolderInExplorer": "打开回放文件夹",
     "ui.appselect.noCockpit": "驾驶舱内隐藏",
     "engine.editor.menu.zAxis": "Z轴",
-    "engine.editor.menu.object": "物体"
+    "engine.editor.menu.object": "物体",
+    "engine.editor.menu.lockSelection": "锁定选择"
 }
