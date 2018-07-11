@@ -799,5 +799,6 @@
     "ui.apps.engine_thermal_debug.name": "引擎热Debug",
     "ui.apps.esc_activity_graph.name": "ESC活动图",
     "ui.apps.escstiffness.name": "ESC 钢度",
-    "ui.apps.forcedinduction.name": "强制进气"
+    "ui.apps.forcedinduction.name": "强制进气",
+    "ui.apps.forced_induction_debug.name": "强制感应调试"
 }
