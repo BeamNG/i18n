@@ -905,5 +905,8 @@
     "ui.options.units.length": "长度",
     "ui.options.units.distance": "距离",
     "ui.options.units.fuelConsumption": "燃料消耗",
-    "ui.options.units.power": "动力"
+    "ui.options.units.power": "动力",
+    "ui.options.units.pressure": "压力",
+    "ui.options.onlineFeatures": "在线功能",
+    "ui.options.modAutoUpdates": "自动模组更新"
 }
