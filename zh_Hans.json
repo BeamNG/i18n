@@ -405,7 +405,7 @@
     "ui.options.units.dateFormat": "日期格式",
     "ui.options.units.energy": "能量",
     "ui.options.units.temperature": "温度",
-    "ui.options.units.torque": "破坏",
+    "ui.options.units.torque": "扭力",
     "ui.options.units.volume": "体积",
     "ui.options.units.weight": "重量",
     "ui.options.userInterface": "用户界面",
@@ -904,5 +904,6 @@
     "ui.options.theme.reset": "重置主题",
     "ui.options.units.length": "长度",
     "ui.options.units.distance": "距离",
-    "ui.options.units.fuelConsumption": "燃料消耗"
+    "ui.options.units.fuelConsumption": "燃料消耗",
+    "ui.options.units.power": "动力"
 }
