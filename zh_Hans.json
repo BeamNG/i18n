@@ -833,5 +833,6 @@
     "ui.apps.weight_distribution.name": "重量分布",
     "ui.apps.wheelsdebug.name": "车轮Debug",
     "ui.apps.wind.name": "风！",
-    "ui.apps.powertrain_debug.name": "动力系统可视化"
+    "ui.apps.powertrain_debug.name": "动力系统可视化",
+    "ui.apps.time.name": "时间"
 }
