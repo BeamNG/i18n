@@ -849,5 +849,6 @@
     "ui.options.userInterface.unitSystem": "单位制",
     "ui.options.userInterface.creatorMode": "创造模式",
     "ui.options.userInterface.externalUi": "启用浏览器UI",
-    "ui.options.language": "语言"
+    "ui.options.language": "语言",
+    "ui.options.communityTranslations": "社区翻译"
 }
