@@ -868,5 +868,14 @@
     "ui.options.gameplay.autoThrottle.tooltip": "如果启用，手动变速器在上换档时切断节气门，并在需要时使用转速匹配。",
     "ui.options.gameplay.gearboxSafety": "变速箱安全助手",
     "ui.options.gameplay.gearboxSafety.tooltip": "如果启用，变速箱将防止可能造成损坏的移位，以及防止某些模式的改变，以便更深入地赛车体验。（例如，在低于某一速度前不允许退出M模式）",
-    "ui.options.gameplay.multiseatTags": "显示Multiseat玩家标签"
+    "ui.options.gameplay.multiseatTags": "显示Multiseat玩家标签",
+    "ui.options.gameplay.traffic": "启用车流（实验 - 极端的性能损失）",
+    "ui.options.gameplay.traffic.tooltip": "需要手动生成所需的车辆。",
+    "ui.options.gameplay.controlOnBlur": "当窗口焦点丢失时允许控制器输入和力反馈",
+    "ui.options.gameplay.enginesPreheated": "启动引擎预热",
+    "ui.options.gameplay.noSteer": "隐藏方向盘",
+    "ui.options.gameplay.updateTranslations": "更新翻译",
+    "ui.options.gameplay.helpTranslating": "协助翻译",
+    "ui.options.gameplay.translationProjectPage": "翻译项目页面",
+    "ui.options.general": "普通"
 }
