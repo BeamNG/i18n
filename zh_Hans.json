@@ -946,5 +946,5 @@
     "ui.controls.configuration": "配置",
     "ui.controls.ffbConfigMissing": "没有找到力反馈配置",
     "ui.controls.availableHardware": "可用硬件",
-    "ui.controls.ffbHardwareMissing": "没有找到强制力反馈硬件。"
+    "ui.controls.ffbHardwareMissing": "没有找到力反馈硬件。"
 }
