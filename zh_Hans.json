@@ -397,7 +397,7 @@
     "ui.options.graphicsGraphicMeshQuality": "材质质量",
     "ui.options.options": "设置",
     "ui.options.physics": "物理系统",
-    "ui.options.physics.noCollisions": "简化车辆碰撞",
+    "ui.options.physics.noCollisions": "简化碰撞物理效果",
     "ui.options.theme": "主题",
     "ui.options.theme.accent": "强调",
     "ui.options.theme.primary": "主色",
