@@ -766,5 +766,6 @@
     "extensions.scenario.timeLimit.failedGoal": "超出时限 {{maxTime}}",
     "extensions.scenario.timeLimit.checkTime.countdown": "{{countdown}}...",
     "extensions.scenario.speedGoal.fail.msg": "你没有达到要求的速度",
-    "extensions.scenario.speedGoal.win.msg": "做得好!您的时间：{{time}}"
+    "extensions.scenario.speedGoal.win.msg": "做得好! 你的时间：{{time}}",
+    "extensions.scenario.speedGoal.countdown": "{{countdown}}..."
 }
