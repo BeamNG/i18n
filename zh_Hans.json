@@ -844,5 +844,9 @@
     "ui.playmodes.quickrace": "计时赛",
     "ui.options.other": "其他",
     "ui.options.controls": "控制",
-    "ui.options.userInterface.editApps": "自订义UI App"
+    "ui.options.userInterface.editApps": "自订义UI App",
+    "ui.options.userInterface.language": "语言",
+    "ui.options.userInterface.unitSystem": "单位制",
+    "ui.options.userInterface.creatorMode": "创造模式",
+    "ui.options.userInterface.externalUi": "启用浏览器用户界面"
 }
