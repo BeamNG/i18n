@@ -249,7 +249,7 @@
     "ui.debug.userInterface.enable": "",
     "ui.debug.vehicle.beamTransparency": "Beam可见性",
     "ui.debug.vehicle.beamVis": "光线可视度",
-    "ui.debug.vehicle.centerOfGravity": "重力",
+    "ui.debug.vehicle.centerOfGravity": "重心",
     "ui.debug.vehicle.keepOnlyCurrent": "只留下当前载具",
     "ui.debug.vehicle.meshVisibility": "网格能见度",
     "ui.debug.vehicle.nodeText": "节点文字",
