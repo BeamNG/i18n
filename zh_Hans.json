@@ -744,5 +744,9 @@
     "engine.editor.menu.atCenteroid": "几何中心",
     "engine.editor.menu.toTerrain": "地形",
     "engine.editor.menu.belowSelection": "在选择物下方",
-    "engine.editor.menu.posXAxis": "+ X轴"
+    "engine.editor.menu.posXAxis": "+X轴",
+    "engine.editor.menu.posYAxis": "+Y轴",
+    "engine.editor.menu.posZAxis": "+Z轴",
+    "engine.editor.menu.negXAxis": "-X轴",
+    "engine.editor.menu.negYAxis": "-Y轴"
 }
