@@ -891,5 +891,6 @@
     "ui.options.camera.relaxationHint": "较低的值 = 更紧贴的相机行为",
     "ui.options.camera.cameraOrbitMaxDynamicFov": "动态FOV角度",
     "ui.options.camera.transitionTime": "过渡时间",
-    "ui.options.camera.rollHint": "0 =最小滚动，100 =跟随车辆滚动"
+    "ui.options.camera.rollHint": "0 =最小滚动，100 =跟随车辆滚动",
+    "ui.options.camera.fovTune": "视角调整"
 }
