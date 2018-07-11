@@ -953,5 +953,5 @@
     "ui.controls.remotControlApp": "遥控App",
     "ui.controls.usePhoneOrTablet": "使用你的手机或平板驾驶!",
     "ui.controls.firewallError": "游戏似乎被Windows防火墙屏蔽了。",
-    "ui.controls.iosQRCode": "扫描下面的二维码或点击IOS应用程序的按钮。"
+    "ui.controls.iosQRCode": "扫描下面的二维码或点击iOS应用程序的按钮。"
 }
