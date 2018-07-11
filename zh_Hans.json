@@ -245,7 +245,7 @@
     "ui.debug.renderer.disableShadows": "禁用阴影",
     "ui.debug.renderer.visualization": "形象",
     "ui.debug.terrain": "地形",
-    "ui.debug.terrain.groundmodel": "地面调试",
+    "ui.debug.terrain.groundmodel": "地面Debug",
     "ui.debug.userInterface.enable": "",
     "ui.debug.vehicle.beamTransparency": "Beam可见性",
     "ui.debug.vehicle.beamVis": "光线可视度",
