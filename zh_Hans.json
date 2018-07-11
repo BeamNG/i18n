@@ -967,5 +967,6 @@
     "ui.debug.vehicle.flexmeshdebug": "模型Debug",
     "ui.debug.vehicle.aerodynamics": "空气动力Debug",
     "ui.debug.vehicle.aerodynamicsScale": "空气动力量表",
-    "ui.debug.vehicle.tireContactPoint": "轮胎接触点Debug"
+    "ui.debug.vehicle.tireContactPoint": "轮胎接触点Debug",
+    "ui.debug.terrain.staticCollision": "静态碰撞"
 }
