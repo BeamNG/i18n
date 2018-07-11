@@ -984,5 +984,5 @@
     "ui.faq.mapEditor.q": "如何打开地图编辑器？",
     "ui.faq.mapEditor.a": "在窗口模式下运行时，可以按[action=toggleEditor]访问地图编辑器。",
     "ui.faq.useMods.q": "我该如何使用模组？",
-    "ui.faq.useMods.a": "安装一个模组后，你可以在车辆或水平选择菜单中找到该模组。"
+    "ui.faq.useMods.a": "安装一个模组后，你可以在载具或地图选择菜单中找到该模组。"
 }
