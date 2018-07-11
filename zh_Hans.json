@@ -971,5 +971,6 @@
     "ui.debug.terrain.staticCollision": "静态碰撞",
     "ui.debug.renderer.boundingBoxes": "边界框",
     "ui.debug.renderer.wireframeMode": "线框模式",
-    "ui.debug.renderer.toggleFps": "切换显示FPS"
+    "ui.debug.renderer.toggleFps": "切换显示FPS",
+    "ui.debug.effects.msg.fovOnlyInFreeMode": "FOV只能在自由拍摄模式工作"
 }
