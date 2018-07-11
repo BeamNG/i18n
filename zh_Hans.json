@@ -977,5 +977,5 @@
     "ui.faq.getSupport.q": "如何获得支持？",
     "ui.faq.getSupport.a": "您可以在我们的论坛获得帮助：[url=http://www.beamng.com/forums/]beamng.com/forums[/url]。或者您可以直接联系我们：[url=http://support.beamng.com/]support.beamng.com[/url]。或通过电子邮件：[h1]support@beamng.com[/h1][br]我们将在两个工作日后尽快回复您。",
     "ui.faq.changeCamera.a": "按下[action=switch_camera_next]使用车辆视角或者[action=toggleCamera]使用自由视角",
-    "ui.faq.changeVehicle.q": "我要怎么更换车辆？"
+    "ui.faq.changeVehicle.q": "我要怎么更换载具？"
 }
