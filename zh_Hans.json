@@ -886,5 +886,5 @@
     "ui.options.camera.switchHint": "点击切换",
     "ui.options.camera.current": "当前视角",
     "ui.options.camera.resetConfiguration": "重置顺序",
-    "ui.options.camera.defaultMode": "默认模组"
+    "ui.options.camera.defaultMode": "默认模式"
 }
