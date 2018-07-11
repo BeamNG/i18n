@@ -858,5 +858,6 @@
     "ui.options.assistants": "行车助理",
     "ui.options.aids": "驾驶辅助",
     "ui.options.gameplay.absBehavior": "ABS",
-    "ui.options.gameplay.absBehavior.tooltip": "设置汽车ABS系统的工作方式。 适应用于新产生的车辆。"
+    "ui.options.gameplay.absBehavior.tooltip": "设置汽车ABS系统的工作方式。 适应用于新产生的车辆。",
+    "ui.options.gameplay.escBehavior.tooltip": "设置汽车的ESC系统如何工作。 适用于产生新车后。"
 }
