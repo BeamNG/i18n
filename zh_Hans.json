@@ -724,5 +724,6 @@
     "ui.appselect.noCockpit": "驾驶舱内隐藏",
     "engine.editor.menu.zAxis": "Z轴",
     "engine.editor.menu.object": "物体",
-    "engine.editor.menu.lockSelection": "锁定选择"
+    "engine.editor.menu.lockSelection": "锁定选择",
+    "engine.editor.menu.toggleCamModes": "‎‎切换相机模式‎‎"
 }
