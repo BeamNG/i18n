@@ -976,9 +976,9 @@
     "ui.debug.userInterface": "用户界面",
     "ui.faq.getSupport.q": "如何获得支持？",
     "ui.faq.getSupport.a": "您可以在我们的论坛获得帮助：[url=http://www.beamng.com/forums/]beamng.com/forums[/url]。或者您可以直接联系我们：[url=http://support.beamng.com/]support.beamng.com[/url]。或通过电子邮件：[h1]support@beamng.com[/h1][br]我们将在两个工作日后尽快回复您。",
-    "ui.faq.changeCamera.a": "按下[action=switch_camera_next]使用车辆视角或者[action=toggleCamera]使用自由视角",
+    "ui.faq.changeCamera.a": "按下[action=switch_camera_next]使用载具视角或者[action=toggleCamera]使用自由视角",
     "ui.faq.changeVehicle.q": "我要怎么更换载具？",
-    "ui.faq.changeVehicle.a": "您可以使用仪表板中的车辆选择器。按下[action=toggleMenues]或者[action=vehicle_selector]",
+    "ui.faq.changeVehicle.a": "您可以使用仪表板中的载具选择器。按下[action=toggleMenues]或者[action=vehicle_selector]",
     "ui.faq.spawnVehicle.q": "我如何生成更多的载具？",
-    "ui.faq.spawnVehicle.a": "您可以使用仪表板中的车辆选择器按下[action=toggleMenues]或者[action=vehicle_selector]"
+    "ui.faq.spawnVehicle.a": "您可以使用仪表板中的载具选择器按下[action=toggleMenues]或者[action=vehicle_selector]"
 }
