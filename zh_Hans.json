@@ -725,5 +725,5 @@
     "engine.editor.menu.zAxis": "Z轴",
     "engine.editor.menu.object": "物体",
     "engine.editor.menu.lockSelection": "锁定选择",
-    "engine.editor.menu.toggleCamModes": "‎‎切换相机模式‎‎"
+    "engine.editor.menu.toggleCamModes": "‎‎切换摄像机模式‎‎"
 }
