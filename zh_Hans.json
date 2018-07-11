@@ -247,15 +247,15 @@
     "ui.debug.terrain": "编辑地图",
     "ui.debug.terrain.groundmodel": "地面调试",
     "ui.debug.userInterface.enable": "",
-    "ui.debug.vehicle.beamTransparency": "车架可见性",
+    "ui.debug.vehicle.beamTransparency": "Beam可见性",
     "ui.debug.vehicle.beamVis": "光线可视度",
     "ui.debug.vehicle.centerOfGravity": "重力",
     "ui.debug.vehicle.keepOnlyCurrent": "只留下当前载具",
     "ui.debug.vehicle.meshVisibility": "网格能见度",
     "ui.debug.vehicle.nodeText": "节点文字",
-    "ui.debug.vehicle.reloadAll": "重新加载全部车辆",
+    "ui.debug.vehicle.reloadAll": "重新加载全部载具",
     "ui.debug.vehicle.removeAll": "删除所有载具",
-    "ui.debug.vehicle.resetAll": "重置所有",
+    "ui.debug.vehicle.resetAll": "重置所有载具",
     "ui.environment.cloudCover": "云层",
     "ui.environment.day": "白天",
     "ui.environment.earth": "地球",
@@ -961,5 +961,5 @@
     "ui.debug.vehicle.removeCurrent": "删除当前载具",
     "ui.debug.vehicle.cloneCurrent": "复制当前载具",
     "ui.debug.vehicle.removeOthers": "删除其他载具",
-    "ui.debug.vehicle.loadDefault": "加载默认值"
+    "ui.debug.vehicle.loadDefault": "加载默认载具"
 }
