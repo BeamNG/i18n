@@ -1282,7 +1282,7 @@
     "ui.hints.keepTheEngineUpright": "Moottorin käyttäminen ylösalaisin pakottaa öljyn pois öljypohjasta. Pakoputkesta tulee sinistä savua öljyn päästessä palotilaan, ja moottorin laakerointi voi pettää.",
     "ui.hints.liftOffOversteer": "Yhtäkkinen kaasun nosto nopeassa mutkassa keventää ajoneuvon perää, mikä voi johtaa hallinnan menettämiseen. Tätä kutsutaan nostoyliohjautumiseksi.",
     "ui.hints.moonGravity": "\"Ympäristö\" -valikosta voi simuloida kuun painovoimaa.",
-    "ui.hints.notAllCarsCanRace": "Monet ajoneuvot eivät sovi kiihkeään ajoon tai kilpailuun vakiona. Viritysosia on saatavilla osavalikossa [action=parts_selector].",
+    "ui.hints.notAllCarsCanRace": "Monet ajoneuvot eivät sovi kaahaamiseen tai kilpa-ajoon vakiona. Viritysosia on saatavilla osavalikossa [action=parts_selector].",
     "ui.hints.oldCarsBurn": "Jotkut vanhat autot ovat taipuvaisia tulipaloon kolarin jälkeen, mutta nykyaikaiset autot ovat huomattavasti turvallisempia.",
     "ui.hints.parkingbrakeForTurning": "Käytä käsijarrua [action=parkingbrake] nopeana ja vaarallisena tapana kääntymiseen.",
     "ui.hints.photoModeMenu": "Kuvaustilan valikko tarjoaa edistynyttä ohjausta kameraan ja mahdollisuden lähettää kuvat suoraan BeamNG:n palvelimiin.",
