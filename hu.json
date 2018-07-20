@@ -2197,7 +2197,7 @@
     "scenarios.jungle_rock_island.bus_safari.description": "Üdvözöljük Önöket a Jungle Rock Island-i szafaritúránkon! [br] A nevem Claire, és én leszek az idegenvezetőjük! Mindenkit megkérek, hogy foglaljon helyet - hamarosan indulunk! [br][br] Szia! Le tudnád vezetni ezt a kört? Engem épp eléggé leköt majd a táj és az állatok bemutatása. Nyugi, könnyű dolgod lesz. Csak vezess, és kövesd az útvonalpontokat! [br] És persze ne hajts szakadékba.",
     "scenarios.jungle_rock_island.bus_safari.success": "Szép munka! Azt hiszem, az embereknek bejött a túra, a kartonpapírból kivágott állatokat mindenki mókásnak találta. Szeretnéd ezt csinálni a nyáron idénymunkában?",
     "scenarios.jungle_rock_island.bus_safari.failed": "Aucs! Mégis hogyan csodáljam az állatokat, ha egyszer így vezetsz?",
-    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_crush.title": "Adrenalindús üldözés",
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_crush.title": "Akciódús üldözés",
     "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_crush.description": "Gyorsíts fel a megfelelő tempóra ahhoz, hogy a célponton érj földet, és összezúzd. Ha sikerül pontosan a hajtű után elintézed a járgányt, bónuszpontokat kapsz!",
     "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_crush.winSmall": "Nem rossz! Egy kis CGI-vel feldúsítva remek felvételt kapunk...",
     "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_crush.winBig": "Kilapítottad! Pontosan ilyen kaszkadőrmunkára van szükségünk!",
