@@ -1473,5 +1473,8 @@
     "engine.editor.menu.viewType": "Погледај",
     "engine.editor.menu.manageBookmarks": "Управљај показивачима...",
     "engine.editor.menu.jumpBookmark": "Скочи на показивач",
-    "engine.editor.menu.editors": "Уређивачи"
+    "engine.editor.menu.editors": "Уређивачи",
+    "engine.lua.reloaded": "Главни ЛУА случај поново учитан",
+    "engine.nodegrab.fixedwarning": "CTRL + Средње дугме миша да откачиш ноудове",
+    "engine.nodegrab.uncoupling": ""
 }
