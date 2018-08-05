@@ -1698,5 +1698,7 @@
     "quickrace.east_coast_usa.town_b.title": "街道環道 1",
     "quickrace.east_coast_usa.town_b.description": "一個在鎮上繞來繞去的街道路線。別撞到交通路障啦!",
     "quickrace.east_coast_usa.rallycross.title": "小路環道 1",
-    "quickrace.east_coast_usa.rallycross.description": "一個柏油與泥土路段交錯的長賽道，建議選擇能夠適應這兩種表面的車輛"
+    "quickrace.east_coast_usa.rallycross.description": "一個柏油與泥土路段交錯的長賽道，建議選擇能夠適應這兩種表面的車輛",
+    "levels.utah_offroad_park.info.biome": "沙漠",
+    "levels.utah_offroad_park.info.suitablefor": "越野"
 }
