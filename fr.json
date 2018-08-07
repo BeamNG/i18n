@@ -2147,7 +2147,7 @@
     "ui.performance.mods.stat": "Mods compressés: {{zip}}  Mods décompresses: {{unpacked}}",
     "ui.performance.mods.lt": "&lt; 1 {{zip}} mods compressés, &lt; 2 {{unpacked}} mods décompressés",
     "ui.performance.warnings.toomanymods": "Vous avez peut-être trop de mods qui peuvent avoir un impact sur les performances. Essayez de désactiver quelques mods.",
-    "ui.radialmenu2.bus.kneel.desc": "Subalterne",
+    "ui.radialmenu2.bus.kneel.desc": "S'agenouiller\n",
     "ui.radialmenu2.bus.kneel": "Baisser le bus",
     "ui.radialmenu2.bus.doors.desc": "Ouvrir les portes",
     "ui.radialmenu2.bus.doors": "Portes",
