@@ -1966,7 +1966,7 @@
     "quickrace.driver_training.procTrack.smallBasic.title": "Petit stage basique",
     "quickrace.driver_training.procTrack.smallBasic.description": "Créé un circuit généré de façon aléatoire de petite taille contenant tous les éléments d'un circuit.",
     "quickrace.driver_training.procTrack.squareCircuit.title": "Circuit carré",
-    "quickrace.driver_training.procTrack.squareCircuit.description": "Créé un circuit généré par une procédure, presque carré.",
+    "quickrace.driver_training.procTrack.squareCircuit.description": "Crée un circuit généré procéduralement, presque carré.",
     "quickrace.driver_training.procTrack.wideGateCircuit.title": "Circuit en tête d'épingle",
     "quickrace.driver_training.procTrack.wideGateCircuit.description": "Créé un circuit généré de façon aléatoire avec de longues routes droites passant par des portes.",
     "quickrace.driver_training.procTrack.windingSnake.title": "Parcours sinueux",
