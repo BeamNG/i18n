@@ -2135,7 +2135,7 @@
     "ui.apps.clutch_thermal_debug.name": "Débogage de la température de l'embrayage",
     "ui.apps.bus_route_stats.name": "Statistiques de la route de bus",
     "ui.apps.characterRealtimeDisplay.name": "Affichage du personnage en temps réel",
-    "ui.playmodes.bus": "Chemins de bus",
+    "ui.playmodes.bus": "Routes de bus",
     "ui.options.utilities.highPerformancePlan": "Forcer le mode hautes performances",
     "ui.options.motionSim": "MotionSim",
     "ui.options.motionSim.enabled": "MotionSim activé",
