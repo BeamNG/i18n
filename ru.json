@@ -2247,5 +2247,6 @@
     "ui.options.utilities.highPerformancePlan": "Переключиться на схему управления питанием с максимальной производительностью",
     "ui.options.motionSim": "MotionSim",
     "ui.options.motionSim.enabled": "Использовать MotionSim",
-    "quickrace.automation_test_track.hillclimb2.description": "Извилистый подъем по гравийным дорогам."
+    "quickrace.automation_test_track.hillclimb2.description": "Извилистый подъем по гравийным дорогам.",
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_minspeed.description": "Безопасно перевезти пассажиров вниз по горе"
 }
