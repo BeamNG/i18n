@@ -2246,5 +2246,6 @@
     "campaigns.west_coast_usa.bus_minichapter.busdriver_stunt_speed.title": "Вступление: Обычный рабочий день",
     "ui.options.utilities.highPerformancePlan": "Переключиться на схему управления питанием с максимальной производительностью",
     "ui.options.motionSim": "MotionSim",
-    "ui.options.motionSim.enabled": "Использовать MotionSim"
+    "ui.options.motionSim.enabled": "Использовать MotionSim",
+    "quickrace.automation_test_track.hillclimb2.description": "Извилистый подъем по гравийным дорогам"
 }
