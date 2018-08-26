@@ -2249,5 +2249,5 @@
     "ui.options.motionSim.enabled": "Использовать MotionSim",
     "quickrace.automation_test_track.hillclimb2.description": "Извилистый подъем по гравийным дорогам.",
     "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_minspeed.description": "Перевезите пассажиров вниз по горе без происшествий",
-    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_minspeed.success.msg": "Значит, ты герой из заголовков? Я мог бы использовать опытного водителя, как вы, для некоторых трюков в моем предстоящем фильме. Дайте мне знать, если вы заинтересованы."
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_minspeed.success.msg": "Это ты — герой из заголовков? Мне нужен опытный водитель для нескольких трюков в моем новом фильме. Дай мне знать, если тебе это интересно."
 }
