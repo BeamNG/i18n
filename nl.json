@@ -648,7 +648,7 @@
     "engine.editor.menu.placeCameraPlayer": "Plaats Camera bij Speler",
     "engine.editor.menu.placePlayerCamera": "Plaats Speler bij Camera",
     "engine.editor.menu.cameraTranslation": "Camera transformatie",
-    "engine.editor.menu.fitViewSelection": "Pas view bij aan selectie",
+    "engine.editor.menu.fitViewSelection": "Aanzicht in selectie passen",
     "engine.editor.menu.speed": "Snelheid",
     "engine.editor.menu.viewType": "Beeld",
     "engine.editor.menu.addBookmark": "Bladwijzer toevoegen...",
