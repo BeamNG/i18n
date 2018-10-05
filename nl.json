@@ -604,7 +604,7 @@
     "vehicle.recovery.recovered": "Voertuig hersteld",
     "vehicle.recovery.saveHome": "Positie van voertuig geüpdate (gebruik [action=loadHome] om ongedaan te maken)",
     "engine.lua.reloaded": "Hoofd LUA instantie is herladen",
-    "engine.nodegrab.fixedwarning": "CTRL + Middelste muisknop om nodes los te maken",
+    "engine.nodegrab.fixedwarning": "CTRL + Midden Muis Knop om de knooppunten los te maken",
     "engine.nodegrab.uncoupling": "Ontkoppel alle gekoppelde nodes",
     "engine.nodegrab.coupling": "De twee nodes koppelen",
     "engine.editor.loading": "Wereld Editor aan het laden...",
