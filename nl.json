@@ -1014,5 +1014,8 @@
     "ui.options.camera.fovHint": "Geeft je de mogelijkheid om het gezichtsveld aan te passen. Word toegevoegd aan de voertuig's instellingen.",
     "engine.editor.menu.cut": "Knippen",
     "engine.editor.menu.alignCenter": "Midden centreren",
-    "engine.editor.menu.resetTransforms": "Transformaties Herstellen"
+    "engine.editor.menu.resetTransforms": "Transformaties herstellen",
+    "ui.common.ABSoff": "Altijd uit",
+    "ui.common.ABSarcade": "Altijd arcade ABS",
+    "ui.common.ABSrealistic": "Alleen realistische ABS"
 }
