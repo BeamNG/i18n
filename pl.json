@@ -1576,5 +1576,7 @@
     "ui.modWizard.skinWizard.right": "Prawa strona obrazu to \"SkinExample_palette_uv1.dds\". Ten obraz służy do określenia, które części skóry można zabarwić za pomocą selektora kolorów w grze. Czerwony to pierwszy kolor, zielony to drugi kolor, a niebieski to trzeci kolor. Jeśli jest przezroczysty, nie będzie barwiony.",
     "ui.dashboard.trackBuilder": "Edytor torów",
     "ui.repository.order_ascendant_short": "asc",
-    "ui.repository.order_descendant_short": "desc"
+    "ui.repository.order_descendant_short": "desc",
+    "ui.repository.repo_network_limit": "Twoje połączenie internetowe jest ograniczone lub limitowane. Weź to pod uwagę pobierając modyfikacje.",
+    "ui.modmanager.openForumDiscussion": "Otwórz wątek"
 }
