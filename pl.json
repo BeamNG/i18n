@@ -1562,5 +1562,7 @@
     "engine.editor.menu.fitViewSelectionOrbit": "Dopasuj widok do zaznaczenia i na orbicie",
     "engine.editor.menu.makeSelPrefab": "Zamień wybrane elementy w prefab",
     "engine.editor.menu.explodeSelPrefab": "Rozbij wybrany prefab",
-    "ui.fonts.fallback": "Roboto"
+    "ui.fonts.fallback": "Roboto",
+    "ui.common.ABSoff": "Zawsze wyłączony",
+    "ui.common.ABSarcade": "Zawsze Zręcznościowy ABS"
 }
