@@ -1449,7 +1449,7 @@
     "ui.repository.scheduled_chking": "Sprawdzanie: {{checkingMod}}",
     "ui.repository.scheduled_nothing": "Aktualnie brak zaplanowanych aktualizacji.",
     "ui.repository.scheduled_network_limit": "Twoje połączenie sieciowe jest ograniczone. Aktualizacja modów została wyłączona.",
-    "ui.repository.scheduled_upd": "Aktualizacja modów",
+    "ui.repository.scheduled_upd": "Aktualizuj mody",
     "ui.repository.scheduled_conflicts": "Konflikty",
     "ui.repository.scheduled_no_conflict": "Brak konfliktów",
     "ui.repository.subToMod": "Subskrybuj moda",
