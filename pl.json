@@ -1560,5 +1560,6 @@
     "engine.editor.menu.resaveLevel": "Zapisz ponownie wszystko",
     "engine.editor.menu.snapOptions": "Opcje trybu fotografii...",
     "engine.editor.menu.fitViewSelectionOrbit": "Dopasuj widok do zaznaczenia i na orbicie",
-    "engine.editor.menu.atCamera": "w Kamerze"
+    "engine.editor.menu.atCamera": "w Kamerze",
+    "engine.editor.menu.atCamaraWoRot": "Kamera z rotacją"
 }
