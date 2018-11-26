@@ -1569,5 +1569,7 @@
     "ui.actions.switchRight": "Przełącz w prawo",
     "ui.actions.switchLeft": "Przełącz w lewo",
     "ui.actions.menuLeft": "Lewe menu",
-    "ui.actions.menuRight": "Prawe menu"
+    "ui.actions.menuRight": "Prawe menu",
+    "ui.modWizard.skinWizard.viewSkin": "Pokaż skórkę",
+    "ui.modWizard.skinWizard.desc": "W celach demonstracyjnych będziemy używać \"SkinExample\" jako nazwy naszej skórki. Dwa pliki które mogą być edytowane są połączone w obrazie po prawej. Kiedy otworzyłeś pliki skórki, możesz kliknąć kontynuuj, by załadować skin w grze i ukończyć wprowadzenie."
 }
