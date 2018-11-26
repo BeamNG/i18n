@@ -1571,5 +1571,7 @@
     "ui.actions.menuLeft": "Lewe menu",
     "ui.actions.menuRight": "Prawe menu",
     "ui.modWizard.skinWizard.viewSkin": "Pokaż skórkę",
-    "ui.modWizard.skinWizard.desc": "W celach demonstracyjnych będziemy używać \"SkinExample\" jako nazwy naszej skórki. Dwa pliki które mogą być edytowane są połączone w obrazie po prawej. Kiedy otworzyłeś pliki skórki, możesz kliknąć kontynuuj, by załadować skin w grze i ukończyć wprowadzenie."
+    "ui.modWizard.skinWizard.desc": "W celach demonstracyjnych będziemy używać \"SkinExample\" jako nazwy naszej skórki. Dwa pliki które mogą być edytowane są połączone w obrazie po prawej. Kiedy otworzyłeś pliki skórki, możesz kliknąć kontynuuj, by załadować skin w grze i ukończyć wprowadzenie.",
+    "ui.modWizard.skinWizard.left": "Lewa strona obrazu to \"SkinExample.dds\". To gdzie zostanie wykonana główna część twojej skóry. Po prostu pomaluj białe sekcje za pomocą wybranego wzoru.",
+    "ui.modWizard.skinWizard.right": "Prawa strona obrazu to \"SkinExample_palette_uv1.dds\". Ten obraz służy do określenia, które części skóry można zabarwić za pomocą selektora kolorów w grze. Czerwony to pierwszy kolor, zielony to drugi kolor, a niebieski to trzeci kolor. Jeśli jest przezroczysty, nie będzie barwiony."
 }
