@@ -1565,5 +1565,7 @@
     "ui.fonts.fallback": "Roboto",
     "ui.common.ABSoff": "Zawsze wyłączony",
     "ui.common.ABSarcade": "Zawsze Zręcznościowy ABS",
-    "ui.common.ABSrealistic": "Zawsze realistyczny ABS"
+    "ui.common.ABSrealistic": "Zawsze realistyczny ABS",
+    "ui.actions.switchRight": "Przełącz w prawo",
+    "ui.actions.switchLeft": "Przełącz w lewo"
 }
