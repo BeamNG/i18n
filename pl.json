@@ -1561,5 +1561,6 @@
     "engine.editor.menu.snapOptions": "Opcje trybu fotografii...",
     "engine.editor.menu.fitViewSelectionOrbit": "Dopasuj widok do zaznaczenia i na orbicie",
     "engine.editor.menu.makeSelPrefab": "Zamień wybrane elementy w prefab",
-    "engine.editor.menu.explodeSelPrefab": "Rozbij wybrany prefab"
+    "engine.editor.menu.explodeSelPrefab": "Rozbij wybrany prefab",
+    "ui.fonts.fallback": "Roboto"
 }
