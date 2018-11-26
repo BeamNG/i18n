@@ -1564,5 +1564,6 @@
     "engine.editor.menu.explodeSelPrefab": "Rozbij wybrany prefab",
     "ui.fonts.fallback": "Roboto",
     "ui.common.ABSoff": "Zawsze wyłączony",
-    "ui.common.ABSarcade": "Zawsze Zręcznościowy ABS"
+    "ui.common.ABSarcade": "Zawsze Zręcznościowy ABS",
+    "ui.common.ABSrealistic": "Zawsze realistyczny ABS"
 }
