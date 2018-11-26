@@ -1563,5 +1563,6 @@
     "engine.editor.menu.atCamera": "w Kamerze",
     "engine.editor.menu.atCamaraWoRot": "Kamera z rotacją",
     "engine.editor.menu.toTerrain": "w teren",
-    "engine.editor.menu.resetTransforms": "Reset przekształceń"
+    "engine.editor.menu.resetTransforms": "Reset przekształceń",
+    "engine.editor.menu.resetSelRot": "Resetuj wybrany obrót"
 }
