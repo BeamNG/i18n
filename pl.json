@@ -1578,5 +1578,6 @@
     "ui.repository.order_ascendant_short": "asc",
     "ui.repository.order_descendant_short": "desc",
     "ui.repository.repo_network_limit": "Twoje połączenie internetowe jest ograniczone lub limitowane. Weź to pod uwagę pobierając modyfikacje.",
-    "ui.modmanager.openForumDiscussion": "Otwórz wątek"
+    "ui.modmanager.openForumDiscussion": "Otwórz wątek",
+    "ui.repository.loading": "Ładowanie ..."
 }
