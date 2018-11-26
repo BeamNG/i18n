@@ -1562,5 +1562,6 @@
     "engine.editor.menu.fitViewSelectionOrbit": "Dopasuj widok do zaznaczenia i na orbicie",
     "engine.editor.menu.atCamera": "w Kamerze",
     "engine.editor.menu.atCamaraWoRot": "Kamera z rotacją",
-    "engine.editor.menu.toTerrain": "w teren"
+    "engine.editor.menu.toTerrain": "w teren",
+    "engine.editor.menu.resetTransforms": "Reset przekształceń"
 }
