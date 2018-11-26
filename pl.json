@@ -1111,7 +1111,7 @@
     "ui.options.physics": "Fizyka",
     "ui.options.physics.noCollisions": "Uproszczona fizyka kolizji",
     "ui.options.theme": "Motyw",
-    "ui.options.theme.accent": "Akcent",
+    "ui.options.theme.accent": "Kolor akcentujący",
     "ui.options.theme.background": "Tło",
     "ui.options.theme.dark": "Ciemny Motyw",
     "ui.options.theme.primary": "Kolor podstawowy",
