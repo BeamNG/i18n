@@ -1580,5 +1580,10 @@
     "ui.repository.repo_network_limit": "Twoje połączenie internetowe jest ograniczone lub limitowane. Weź to pod uwagę pobierając modyfikacje.",
     "ui.modmanager.openForumDiscussion": "Otwórz wątek",
     "ui.repository.loading": "Ładowanie ...",
-    "ui.repository.loadingTimedOut": "Trwa to dłużej niż zwykle. Jeśli problem będzie się powtarzał, skontaktuj się z nami "
+    "ui.repository.loadingTimedOut": "Trwa to dłużej niż zwykle. Jeśli problem będzie się powtarzał, skontaktuj się z nami ",
+    "ui.repository.support": "wsparcie",
+    "ui.repository.modQueued": "W kolejce",
+    "ui.repository.modDownloaded": "Modyfikacja pobrana",
+    "ui.quickrace.tracks.length": "Długość",
+    "ui.busRoute.levelSelect": "Wybierz poziom"
 }
