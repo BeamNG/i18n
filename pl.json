@@ -1598,5 +1598,7 @@
     "ui.modmanager.downloading": "Pobieranie",
     "ui.modmanager.downloaded": "Pobrano",
     "ui.modmanager.installed": "Zainstalowano",
-    "ui.modmanager.unordered": "Nieuporządkowany"
+    "ui.modmanager.unordered": "Nieuporządkowany",
+    "ui.modmanager.activateTip": "Aktywuj ten mod",
+    "ui.modmanager.deactivateTip": "Dezaktywuj ten mod"
 }
