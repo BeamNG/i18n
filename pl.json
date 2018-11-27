@@ -1587,5 +1587,15 @@
     "ui.quickrace.tracks.length": "Długość",
     "ui.busRoute.levelSelect": "Wybierz poziom",
     "ui.busRoute.routeSelect": "Wybierz Trasę",
-    "ui.busRoute.vehicle": "Pojazd"
+    "ui.busRoute.vehicle": "Pojazd",
+    "ui.busRoute.strictMode": "Wymaga zatrzymywania się autobusem oraz pochylania i otwierania drzwi.",
+    "ui.busRoute.simulatePassengers": "Symuluje wagę pasażerów za pomocą obciążników.",
+    "ui.busRoute.stopCount": "Ilość Przystanków",
+    "ui.modmanager.deleteAll": "Usuń wszystkie modyfikacje",
+    "ui.modmanager.deleteAllDesc": "Czy na pewno chcesz zrezygnować z subskrypcji i usunąć wszystkie mody?",
+    "ui.modmanager.updateAll": "Zaktualizuj wszystkie mody",
+    "ui.modmanager.removeAndUnsub": "Usuń i zrezygnuj z subskrypcji moda",
+    "ui.modmanager.downloading": "Pobieranie",
+    "ui.modmanager.downloaded": "Pobrano",
+    "ui.modmanager.installed": "Zainstalowano"
 }
