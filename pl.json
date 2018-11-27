@@ -1585,5 +1585,7 @@
     "ui.repository.modQueued": "W kolejce",
     "ui.repository.modDownloaded": "Modyfikacja pobrana",
     "ui.quickrace.tracks.length": "Długość",
-    "ui.busRoute.levelSelect": "Wybierz poziom"
+    "ui.busRoute.levelSelect": "Wybierz poziom",
+    "ui.busRoute.routeSelect": "Wybierz Trasę",
+    "ui.busRoute.vehicle": "Pojazd"
 }
