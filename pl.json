@@ -1597,5 +1597,6 @@
     "ui.modmanager.removeAndUnsub": "Usuń i zrezygnuj z subskrypcji moda",
     "ui.modmanager.downloading": "Pobieranie",
     "ui.modmanager.downloaded": "Pobrano",
-    "ui.modmanager.installed": "Zainstalowano"
+    "ui.modmanager.installed": "Zainstalowano",
+    "ui.modmanager.unordered": "Nieuporządkowany"
 }
