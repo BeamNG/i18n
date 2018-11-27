@@ -1600,5 +1600,6 @@
     "ui.modmanager.installed": "Zainstalowano",
     "ui.modmanager.unordered": "Nieuporządkowany",
     "ui.modmanager.activateTip": "Aktywuj ten mod",
-    "ui.modmanager.deactivateTip": "Dezaktywuj ten mod"
+    "ui.modmanager.deactivateTip": "Dezaktywuj ten mod",
+    "ui.apps.bus_route_stats.name": "Statystyki trasy autobusu"
 }
