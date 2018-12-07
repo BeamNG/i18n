@@ -1159,7 +1159,7 @@
     "engine.editor.menu.atCamaraWoRot": "vid Kamera med Rotation",
     "engine.editor.menu.screenCenter": "Centrera skärm",
     "engine.editor.menu.atCenteroid": "vid Tyngdpunkten",
-    "engine.editor.menu.alignBounds": "Justera gränserna",
+    "engine.editor.menu.alignBounds": "Räta Gränser",
     "engine.editor.menu.alignCenter": "Justera center",
     "engine.editor.menu.resetTransforms": "Återställ omvandlingar",
     "engine.editor.menu.resetSelRot": "Återställ vald rotation",
