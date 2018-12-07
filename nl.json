@@ -626,7 +626,7 @@
     "engine.editor.menu.visibilityLayers": "Laag Zichtbaarheid",
     "engine.editor.menu.gridOrtho": "Laat raster zien in Ortho Views",
     "engine.editor.menu.standartCamera": "Standaard Camera",
-    "engine.editor.menu.orbitCamera": "",
+    "engine.editor.menu.orbitCamera": "Vrij Roterende Camera",
     "engine.editor.menu.camera.top": "Boven",
     "engine.editor.menu.camera.bottom": "Onder",
     "engine.editor.menu.camera.front": "Voor",
@@ -1017,5 +1017,10 @@
     "engine.editor.menu.resetTransforms": "Transformaties herstellen",
     "ui.common.ABSoff": "Altijd uit",
     "ui.common.ABSarcade": "Altijd arcade ABS",
-    "ui.common.ABSrealistic": "Alleen realistische ABS"
+    "ui.common.ABSrealistic": "Alleen realistische ABS",
+    "engine.editor.menu.smoothedCamera": "Versoepelde",
+    "engine.editor.menu.smoothedRotateCamera": "Versoepelde Rotatie",
+    "engine.editor.menu.fitViewSelectionOrbit": "Schaal Beeld Naar Selectie en Wissel Naar Vrije Rotatie",
+    "engine.editor.menu.atOrigin": "aan Begin",
+    "engine.editor.menu.dropLocation": "Verwijder Locatie"
 }
