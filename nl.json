@@ -1025,5 +1025,6 @@
     "engine.editor.menu.dropLocation": "Verwijder Locatie",
     "engine.editor.menu.explodeSelPrefab": "Geselecteerde Prefab Uitvouwen",
     "ui.actions.enter": "Paneel openen",
-    "ui.modWizard.skinWizard.intro": "Welkom in de kleurstelling ontwerp-omgeving. De volgende stappen zullen je laten zien hoe je een kleurstelling of skin maakt voor ieder officieel BeamNG.Drive voertuig."
+    "ui.modWizard.skinWizard.intro": "Welkom in de kleurstelling ontwerp-omgeving. De volgende stappen zullen je laten zien hoe je een kleurstelling of skin maakt voor ieder officieel BeamNG.Drive voertuig.",
+    "ui.modWizard.skinWizard.desc": "Ter demonstratie zullen we SkinExample gebruiken als de naam voor het omhulsel. De twee bestanden die je kan bewerken zijn tot een afbeelding gecombineerd aan de rechterzijde. Zodra je een omhulsel hebt geopend kan je op Volgende drukken om het omhulsel in het spel te laden of om de omgeving te sluiten."
 }
