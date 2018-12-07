@@ -1023,5 +1023,6 @@
     "engine.editor.menu.fitViewSelectionOrbit": "Schaal Beeld Naar Selectie en Wissel Naar Vrije Rotatie",
     "engine.editor.menu.atOrigin": "aan Begin",
     "engine.editor.menu.dropLocation": "Verwijder Locatie",
-    "engine.editor.menu.explodeSelPrefab": "Geselecteerde Prefab Uitvouwen"
+    "engine.editor.menu.explodeSelPrefab": "Geselecteerde Prefab Uitvouwen",
+    "ui.actions.enter": "Paneel openen"
 }
