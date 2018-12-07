@@ -2343,5 +2343,6 @@
     "ui.trackBuilder.matEditor.texture": "Texture",
     "ui.trackBuilder.matEditor.center": "Centre",
     "ui.trackBuilder.matEditor.border": "Bord",
-    "ui.trackBuilder.matEditor.paint": "Peindre"
+    "ui.trackBuilder.matEditor.paint": "Peindre",
+    "levels.glow_city.info.features": "Ville"
 }
