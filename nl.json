@@ -1022,5 +1022,6 @@
     "engine.editor.menu.smoothedRotateCamera": "Versoepelde Rotatie",
     "engine.editor.menu.fitViewSelectionOrbit": "Schaal Beeld Naar Selectie en Wissel Naar Vrije Rotatie",
     "engine.editor.menu.atOrigin": "aan Begin",
-    "engine.editor.menu.dropLocation": "Verwijder Locatie"
+    "engine.editor.menu.dropLocation": "Verwijder Locatie",
+    "engine.editor.menu.explodeSelPrefab": "Geselecteerde Prefab Uitvouwen"
 }
