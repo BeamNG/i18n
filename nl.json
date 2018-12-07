@@ -681,7 +681,7 @@
     "extensions.scenario.speedGoal.fail.msg": "Je snelheid is niet de benodigde snelheid",
     "extensions.scenario.speedGoal.countdown": "{{aftellen}}...",
     "extensions.scenario.drift.failedGoal": "Je moet in ieder geval {{minDrift}} points.",
-    "extensions.campaign.exploration.mapHint": "Druk op [action=pause] 1 om de kaart met beschikbare missies te zien",
+    "extensions.campaign.exploration.mapHint": "Druk op [action=toggle_minimap] 1 om de kaart met beschikbare missies te zien",
     "ui.fonts.primary": "Spelen",
     "ui.fonts.secondary": "Nieuws Cirkel",
     "ui.fonts.fallback": "Roboto",
