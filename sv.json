@@ -1155,7 +1155,7 @@
     "ui.garage.tabs.save": "Spara bil",
     "scenarios.driver_training.driver_training.training_slalom.description": "En slalombana är svår att bemästra. Få en uppfattning om bilens vikt när du kör mellan konerna",
     "engine.editor.menu.fitViewSelectionOrbit": "Anpassa Vy Till Valt Objekt och Cirkulering",
-    "engine.editor.menu.atOrigin": "vid ursprung",
+    "engine.editor.menu.atOrigin": "vid Utgångspunkt",
     "engine.editor.menu.atCamaraWoRot": "vid kamera med rotation",
     "engine.editor.menu.screenCenter": "Centrera skärm",
     "engine.editor.menu.atCenteroid": "vid center",
