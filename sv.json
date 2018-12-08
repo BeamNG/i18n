@@ -1350,5 +1350,5 @@
     "ui.quickrace.highscoresTotal": "Bästa Tider - Total Tid",
     "ui.apps.esc_desired_yaw_rate_graph.name": "ESC Önskad Girhastighets-Graf",
     "ui.apps.g-forces.name": "g-Krafter",
-    "ui.apps.gearbox_debug.name": "Växellåda-felsök"
+    "ui.apps.gearbox_debug.name": "Växellåds-Felsökning"
 }
