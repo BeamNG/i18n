@@ -513,7 +513,7 @@
     "ui.hints.spatialNavigation": "Du kan navigera genom menyn med en kontroller [action=menu_item_left] [action=menu_item_up] [action=menu_item_right] [action=menu_item_down] [action=menu_item_select].",
     "ui.hints.stabilityControlPresent": "Elektronisk stabilitetskontroll (ESC) finns bara i moderna bilar. Äldre bilar är svårare att kontrollera i höga hastigheter.",
     "ui.hints.startSlow": "Det är lätt att köra brett i kurvor när man framför ett fordon för första gången, börja långsamt och öka hastigheten allt eftersom för att lära dig ett fordons köregenskaper.",
-    "ui.hints.thermalDebugApp": "Lär dig mer om motorsimulering, lägg till \"Termisk Motor Felsökning\" appen på skärmen.",
+    "ui.hints.thermalDebugApp": "Om du vill lära dig mer om motorsimulering, lägg till \"Termisk Motor-Felsökning\" appen till gränssnittet.",
     "ui.hints.tiresBurstOnBumps": "Alla däck är inte gjorda för höga hastigheter och belastningar. Vissa kommer att gå sönder när de träffar gupp för snabbt.",
     "ui.hints.toggleFogLights": "Om ditt fordon är utrustat ned dimljus så kan du växla dem med hjälp av [action=toggle_foglights].",
     "ui.hints.towTrailer": "För att dra en släpvagn med din pickup: Ta fram båda med [action=vehicle_selector], närma dig släpvagnen och tryck på [action=couplersToggle]",
