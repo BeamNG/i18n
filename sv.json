@@ -505,7 +505,7 @@
     "ui.hints.raceBrakesEffectiveness": "Racingbromsar förlorar effektivitet när de är för kalla.",
     "ui.hints.recoverVehicle": "Om ditt fordon fastnar, tryck på [action=recover_vehicle] för att återställa den.",
     "ui.hints.removeRearSeats": "Gör din bil snabbare genom att ta bort onödig vikt så som baksäten genom att använda Delväljaren [action=parts_selector].",
-    "ui.hints.rollPitchApps": "Om du gillar att köra över stora stenar kan \"lutning\" och \"anfallsvinkel\" vara användbara grönssnittsappar.",
+    "ui.hints.rollPitchApps": "Om du gillar att köra över stora stenar kan \"lutning\" och \"anfallsvinkel\" vara användbara gränssnitts-appar.",
     "ui.hints.saveRestoreVehicleHome": "Du kan spara fordonsstartpunkten med [action=saveHome] och senare återställa det med [action=loadHome]",
     "ui.hints.showCustomVehicles": "För att visa dina egna bilkonfigurationer i bilväljaren, aktivera inställningar > Gameplay > Visa Anpassade Fordon.",
     "ui.hints.smokingWheels": "Om rök kommer från hjulen så är det troligt att bromsarna har överhettats.",
