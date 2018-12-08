@@ -1344,5 +1344,6 @@
     "ui.repository.modQueued": "Köad",
     "ui.repository.modUnpacked": "Uppackat mod",
     "ui.repository.modDownloaded": "Mod nedladdat",
-    "ui.quickrace.finished": "Slutfört"
+    "ui.quickrace.finished": "Slutfört",
+    "ui.quickrace.tod.lateNoon": "Sen eftermiddag"
 }
