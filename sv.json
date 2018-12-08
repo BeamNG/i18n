@@ -243,7 +243,7 @@
     "scenarios.jungle_rock_island.jri_shortcut.title": "Genväg",
     "scenarios.port.port_escape.description": "En tidsprövning genom hamnen",
     "scenarios.port.port_escape.title": "Hamnflykt",
-    "scenarios.small_island.cop_chase.damage.msg": "Du kraschade med din bil",
+    "scenarios.small_island.cop_chase.damage.msg": "Du kraschade din bil",
     "scenarios.small_island.cop_chase.description": "Neutralisera Pessiman med din Sunburst polisbil.",
     "scenarios.small_island.cop_chase.speed.msg": "Bra jobbat! Din tid: {{time}}",
     "scenarios.small_island.cop_chase.title": "Jakt på liten ö",
