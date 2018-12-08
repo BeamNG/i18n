@@ -1359,5 +1359,7 @@
     "levels.autotest.info.description": "tom",
     "levels.cardealer.info.suitablefor": "bilval",
     "levels.derby.info.title": "Derbyarenor",
-    "levels.smallgrid_lightstest.info.title": "Rutnät, Litet, Ljustest"
+    "levels.smallgrid_lightstest.info.title": "Rutnät, Litet, Ljustest",
+    "levels.utah.spawnpoints.westHighway": "Västra Motorvägen",
+    "vehicle.bullettime.slowmotion": "Slow motion aktiverat"
 }
