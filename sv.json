@@ -1352,5 +1352,6 @@
     "ui.apps.g-forces.name": "g-Krafter",
     "ui.apps.gearbox_debug.name": "Växellåds-Felsökning",
     "ui.apps.engine_debug.name": "Motor-Felsökning",
-    "ui.apps.wheelsdebug.name": "Hjul-Felsökning"
+    "ui.apps.wheelsdebug.name": "Hjul-Felsökning",
+    "ui.garage.load.loadCar": "Ladda fordon"
 }
