@@ -205,7 +205,7 @@
     "scenarios.hirochi_raceway.training_cornering.nomove.msg": "Du krockade med något",
     "scenarios.hirochi_raceway.training_cornering.position.msg": "Du är inte i bromsområdet...",
     "scenarios.hirochi_raceway.training_cornering.title": "Övning: Kurvtagning",
-    "scenarios.hirochi_raceway.training_drifting.description": "Detta scenario låter dig utveckla dina driftingkunskaper.",
+    "scenarios.hirochi_raceway.training_drifting.description": "Detta scenario låter dig utveckla dina kunskaper i drifting.",
     "scenarios.hirochi_raceway.training_drifting.drift.msg": "Bra jobbat! Du målade halkbanan med gummi! Din poäng: ",
     "scenarios.hirochi_raceway.training_drifting.title": "Övning 10: Drifting",
     "scenarios.hirochi_raceway.training_hairpins.description": "Lär dig ta en tight kurva i hög hastighet",
