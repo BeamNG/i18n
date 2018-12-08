@@ -307,7 +307,7 @@
     "ui.apps.speedometer.name": "Hastighetsmätare",
     "ui.apps.vehicleDebug.breakAll": "Ta sönder alla breakgroups",
     "ui.apps.vehicleDebug.breakHinges": "Förstör alla gångjärn",
-    "ui.apps.vehicleDebug.deflateTires": "Töm ut Luften ur Däcken",
+    "ui.apps.vehicleDebug.deflateTires": "Punktera Hjulen",
     "ui.apps.vehicleDebug.explodeVehicle": "Spräng Fordon",
     "ui.apps.vehicleDebug.extinguishVehicle": "Släck Fordon",
     "ui.apps.vehicleDebug.igniteNode": "Antänd Nod",
