@@ -293,7 +293,7 @@
     "scenarios.utha.chapter_2.chapter_2_6_canyon.description": "kapitel_2_6_canyon - slutgiltigt lopp, simpelt väglopp, spelare kan fortsätta även om dem besegras men de får då en annan avslutningsfilm",
     "scenarios.utha.chapter_2.chapter_2_6_canyon.title": "kapitel_2_6_kanjon",
     "ui.actions.confirm": "Bekräfta",
-    "ui.apps.categories.debug": "Felsök",
+    "ui.apps.categories.debug": "Felsökning",
     "ui.apps.categories.utility": "Verktyg",
     "ui.apps.categories.vehicle_control": "Fordonskontroll",
     "ui.apps.categories.vehicle_info": "Fordonsinfo",
