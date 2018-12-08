@@ -628,7 +628,7 @@
     "ui.performance.benchmark.run": "Kör Fysik-Prestandatest",
     "ui.performance.cpu": "Processor (CPU)",
     "ui.performance.gpu": "Grafikkort (GPU)",
-    "ui.performance.laptopGPU": "Använder dedikerad grafik på laptops",
+    "ui.performance.laptopGPU": "Använd dedikerad grafik på laptops",
     "ui.performance.laptopGPU.controlPanel": "Gå till NVIDIA:s kontrollpanel",
     "ui.performance.laptopGPU.manageSettings": "Gå till 'ändra 3D inställningar'",
     "ui.performance.maxRealtimeVehicles": "",
