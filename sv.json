@@ -444,7 +444,7 @@
     "ui.environment.simulationSpeed": "Simulationshastighet",
     "ui.environment.sun": "Solen",
     "ui.environment.time": "Tid",
-    "ui.environment.timeOfDay": "Tid",
+    "ui.environment.timeOfDay": "Tidpunkt på dygnet",
     "ui.environment.uranus": "Uranus",
     "ui.environment.venus": "Venus",
     "ui.environment.weather": "Väder",
