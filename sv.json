@@ -1351,5 +1351,5 @@
     "ui.apps.esc_desired_yaw_rate_graph.name": "ESC Önskad Girhastighets-Graf",
     "ui.apps.g-forces.name": "g-Krafter",
     "ui.apps.gearbox_debug.name": "Växellåds-Felsökning",
-    "ui.apps.engine_debug.name": "Motordebug"
+    "ui.apps.engine_debug.name": "Motor-Felsökning"
 }
