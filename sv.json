@@ -565,7 +565,7 @@
     "ui.options.camera.relaxation": "Avslappning",
     "ui.options.camera.transitionTime": "Övergångstid",
     "ui.options.communityTranslationsAgree": "Godkänn & aktivera",
-    "ui.options.gameplay": "Gameplay",
+    "ui.options.gameplay": "Spelupplägg",
     "ui.options.gameplay.competitiveScenarios": "Tävlingsinriktade scenarieförhållanden",
     "ui.options.gameplay.controlOnBlur": "Tillåt kontrollerinput och force feedback även när spelfönstret inte är markerat",
     "ui.options.gameplay.defaultToCurrentVehicle": "Använd detta som standardfordon",
