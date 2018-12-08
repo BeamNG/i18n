@@ -1114,7 +1114,7 @@
     "ui.apps.ffb_graph.name": "FFB-graf",
     "ui.apps.gears.name": "Växlar",
     "ui.apps.time.name": "Tid",
-    "ui.apps.thumbnail_generator.name": "Miniatyr-generator",
+    "ui.apps.thumbnail_generator.name": "Miniatyr-Generator",
     "ui.options.other": "Annat",
     "ui.options.licenses": "Licenser",
     "ui.options.controls": "Kontroller",
@@ -1352,5 +1352,5 @@
     "ui.apps.g-forces.name": "g-Krafter",
     "ui.apps.gearbox_debug.name": "Växellåds-Felsökning",
     "ui.apps.engine_debug.name": "Motor-Felsökning",
-    "ui.apps.wheelsdebug.name": "Hjul-felsökning"
+    "ui.apps.wheelsdebug.name": "Hjul-Felsökning"
 }
