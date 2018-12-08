@@ -1355,5 +1355,6 @@
     "ui.apps.wheelsdebug.name": "Hjul-Felsökning",
     "ui.garage.load.loadCar": "Ladda Fordon",
     "campaigns.utah.chapter_2.title": "En Stenig Start",
-    "scenarios.utah.cinematic_chase.title": "Actionfyllda Jagandet"
+    "scenarios.utah.cinematic_chase.title": "Actionfyllda Jagandet",
+    "levels.autotest.info.description": "tom"
 }
