@@ -1356,5 +1356,7 @@
     "ui.garage.load.loadCar": "Ladda Fordon",
     "campaigns.utah.chapter_2.title": "En Stenig Start",
     "scenarios.utah.cinematic_chase.title": "Actionfyllda Jagandet",
-    "levels.autotest.info.description": "tom"
+    "levels.autotest.info.description": "tom",
+    "levels.cardealer.info.suitablefor": "bilval",
+    "levels.derby.info.title": "Derbyarenor"
 }
