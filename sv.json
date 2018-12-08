@@ -249,9 +249,9 @@
     "scenarios.small_island.cop_chase.title": "Jakt på liten ö",
     "scenarios.small_island.cop_chase.wayPointAction.wayPointMsg": "Stoppa Pessiman!",
     "scenarios.small_island.intro_rally_stage1.description": "En introduktion till rally",
-    "scenarios.small_island.intro_rally_stage1.title": "Örally - Etapp 1",
-    "scenarios.small_island.intro_rally_stage2.description": "En punkt-till-punkt-rallyetapp.",
-    "scenarios.small_island.intro_rally_stage2.title": "Småösrally - Ertapp 2",
+    "scenarios.small_island.intro_rally_stage1.title": "Rally på Lilla Ön - Nivå 1",
+    "scenarios.small_island.intro_rally_stage2.description": "En punkt-till-punkt rallynivå.",
+    "scenarios.small_island.intro_rally_stage2.title": "Rally på Lilla Ön - Nivå 2",
     "scenarios.small_island.intro_rally_stage3.description": "En punkt-till-punkt-rallyetapp.",
     "scenarios.small_island.intro_reach_hill.description": "Kör till andra sidan ön fram till en övergiven byggnad, ta dig sedan upp på kullen",
     "scenarios.small_island.intro_round_circuit.description": "Ett varv runt ön",
@@ -280,7 +280,7 @@
     "scenarios.utah.chapter_1.chapter_1_walljump.title": "Vägghopp",
     "scenarios.utah.cinematic_chase.distance.msg": "Skurken kom undan",
     "scenarios.utah.downhill_rally.description": "Ett långt rallylopp genom Utah",
-    "scenarios.utah.downhill_rally.title": "Nerförrally",
+    "scenarios.utah.downhill_rally.title": "Nerförsbackes-Rally",
     "scenarios.utha.chapter_2.chapter_2_0_comics_test.description": "kapitel_2_0_comictest - comic test",
     "scenarios.utha.chapter_2.chapter_2_0_comics_test.title": "chapter_2_0_comictest",
     "scenarios.utha.chapter_2.chapter_2_1_ram.description": "kapitel_2_1_ramma - klaras om dem knuffar av den andra bilen utan att själva falla ner",
@@ -1353,5 +1353,7 @@
     "ui.apps.gearbox_debug.name": "Växellåds-Felsökning",
     "ui.apps.engine_debug.name": "Motor-Felsökning",
     "ui.apps.wheelsdebug.name": "Hjul-Felsökning",
-    "ui.garage.load.loadCar": "Ladda Fordon"
+    "ui.garage.load.loadCar": "Ladda Fordon",
+    "campaigns.utah.chapter_2.title": "En Stenig Start",
+    "scenarios.utah.cinematic_chase.title": "Actionfyllda Jagandet"
 }
