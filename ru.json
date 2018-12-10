@@ -2260,5 +2260,5 @@
     "ui.trackBuilder.menus.obstacles": "Препятствия",
     "ui.trackBuilder.menus.materialEditor": "Редактор материалов",
     "ui.trackBuilder.menus.trackSettings": "Настройки трека",
-    "ui.trackBuilder.selection.previous": "Выбрать предыдущую пьесу"
+    "ui.trackBuilder.selection.previous": "Выбрать предыдущий сегмент"
 }
