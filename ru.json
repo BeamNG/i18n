@@ -2256,5 +2256,9 @@
     "levels.glow_city.info.biome": "Город",
     "campaigns.west_coast_usa.bus_minichapter.busdriver_stunt_jump.title": "Трюк 2: Героический прыжок",
     "ui.trackBuilder.menus.advancedPieces": "Дополнительные сегменты",
-    "ui.trackBuilder.menus.trackShape": "Форма трека"
+    "ui.trackBuilder.menus.trackShape": "Форма трека",
+    "ui.trackBuilder.menus.obstacles": "Препятствия",
+    "ui.trackBuilder.menus.materialEditor": "Редактор материалов",
+    "ui.trackBuilder.menus.trackSettings": "Настройки трека",
+    "ui.trackBuilder.selection.previous": "Выбрать предыдущую пьесу"
 }
