@@ -2263,5 +2263,5 @@
     "ui.trackBuilder.selection.previous": "Выбрать предыдущий сегмент",
     "ui.trackBuilder.selection.next": "Выбрать следующий сегмент",
     "ui.trackBuilder.selection.first": "Выбрать первый сегмент",
-    "ui.trackBuilder.selection.last": "Выберите последнию часть"
+    "ui.trackBuilder.selection.last": "Выбрать последний сегмент"
 }
