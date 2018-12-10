@@ -2262,5 +2262,5 @@
     "ui.trackBuilder.menus.trackSettings": "Настройки трека",
     "ui.trackBuilder.selection.previous": "Выбрать предыдущий сегмент",
     "ui.trackBuilder.selection.next": "Выбрать следующий сегмент",
-    "ui.trackBuilder.selection.first": "Выберите первую часть"
+    "ui.trackBuilder.selection.first": "Выбрать первый сегмент"
 }
