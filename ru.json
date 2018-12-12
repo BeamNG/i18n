@@ -1365,7 +1365,7 @@
     "ui.options.communityTranslationsAckText": "Переводы созданы при помощи пользователей сообщества. BeamNG не несет ответственности за переводы (неприемлемые или неверные). Используйте на свой страх и риск.",
     "ui.options.communityTranslationsAgree": "Принять и включить",
     "ui.options.currentLanguage": "Текущий язык",
-    "ui.options.gameplay": "Геймплей",
+    "ui.options.gameplay": "Игровой процесс",
     "ui.options.gameplay.autoClutch": "Помощь в сцеплении (ручная КПП)",
     "ui.options.gameplay.autoClutch.tooltip": "Если включено, сцепление будет срабатывать автоматически. Помогает при движении с места, предотвращает остановку двигателя, предохраняет КПП от поломки.",
     "ui.options.gameplay.autoShiftPrevention": "Помощь в переключении передач",
