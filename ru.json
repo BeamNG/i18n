@@ -1276,7 +1276,7 @@
     "ui.hints.toggleMods": "Вы можете легко включить или отключить все моды, нажав на \"Вкл. все\" или \"Откл. все\" в списке модификаций.",
     "ui.hints.towTrailer": "Чтобы прицепить прицеп к вашему грузовику: создайте грузовик и прицеп с помощью [action=vehicle_selector], подъедьте к прицепу, и нажмите [action=couplersToggle]",
     "ui.hints.tuning": "Вы можете настроить давление в шинах, выравнивание и другие параметры в меню \"Настройки\" [action=parts_selector].",
-    "ui.hints.tweakFOV": "Поле зрения можно настроить в Опции > Игровой процесс > Настройка FOV.",
+    "ui.hints.tweakFOV": "Поле зрения можно настроить в Опции > Игровой процесс > Настройка поля зрения.",
     "ui.hints.unlockExtraFunctionality": "Разблокируйте дополнительный функционал, используя Опции > Игровой процесс > Дополнительные функции.",
     "ui.hints.useTurnSignals": "Знаете ли вы,что у большинства транспортных средств работают поворотники? Используйте [action=toggle_left_signal] и [action=toggle_right_signal], чтобы включить их.",
     "ui.hints.vehicleSkins": "Некоторые транспортные средства имеют разнообразные раскраски. Вы можете найти их в Parts Selector [действие = parts_selector], в графе Дизайна.",
@@ -1974,7 +1974,7 @@
     "ui.apps.shift_point_debug.name": "Отладка точек переключения передач",
     "ui.apps.thumbnail_generator.name": "Генератор миниатюр",
     "ui.options.licenses": "Лицензии",
-    "ui.options.camera.cameraOrbitMaxDynamicFov": "Градусы динамического FOV",
+    "ui.options.camera.cameraOrbitMaxDynamicFov": "Поле зрения на скорости",
     "ui.options.camera.cameraTVSpeedTooltip": "Не задаёт фиксированную скорость, а используется как модификатор к динамически выбранной скорости",
     "ui.debug.vehicle.aerodynamics": "Отладка аэродинамики",
     "ui.debug.vehicle.tireContactPoint": "Отладка точек соприкосновения шин",
@@ -2312,5 +2312,7 @@
     "campaigns.west_coast_usa.bus_minichapter.title": "Шум и суета",
     "ui.credits.soundtrack": "Музыка",
     "ui.playmodes.lightRunner": "Бегущий по свету",
-    "ui.options.gameplay.noSteer.tooltip": "Эта опция полезна для игроков с рулём, отключает отображение рулевого колеса. Требует сброса автомобиля."
+    "ui.options.gameplay.noSteer.tooltip": "Эта опция полезна для игроков с рулём, отключает отображение рулевого колеса. Требует сброса автомобиля.",
+    "ui.options.camera.cameraDriverStableHorizon": "Привязка к горизонту",
+    "ui.options.camera.cameraDriverStableHorizonHint": "Связывает вращение камеры не только с машиной, но и с горизонтом. Может уменьшить дискомфорт при использовании больших экранов"
 }
