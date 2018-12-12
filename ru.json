@@ -2101,8 +2101,8 @@
     "ui.modmanager.openForumDiscussion": "Открыть тему с обсуждением",
     "ui.repository.modQueued": "В очереди",
     "ui.repository.modDownloaded": "Мод загружен",
-    "ui.modmanager.deleteAll": "Удалить все моды",
-    "ui.modmanager.deleteAllDesc": "Вы уверены, что хотите отписаться и удалить все моды?",
+    "ui.modmanager.deleteAll": "Удалить все моды из репозитория",
+    "ui.modmanager.deleteAllDesc": "Вы уверены, что хотите отписаться и удалить все моды из репозитория?",
     "ui.modmanager.updateAll": "Обновить все моды",
     "ui.modmanager.removeAndUnsub": "Отписаться и удалить мод",
     "ui.modmanager.downloading": "Загружается",
@@ -2309,5 +2309,8 @@
     "levels.glow_city.info.description": "Светящийся огнями футуристический город.",
     "levels.automation_test_track.info.biome": "кочкарник",
     "campaigns.west_coast_usa.bus_minichapter.busdriver_stunt_course.title": "Трюк 1: Путь Разрушителя",
-    "campaigns.west_coast_usa.bus_minichapter.title": "Шум и суета\n"
+    "campaigns.west_coast_usa.bus_minichapter.title": "Шум и суета",
+    "ui.credits.soundtrack": "Музыка",
+    "ui.playmodes.lightRunner": "Бегущий по свету",
+    "ui.options.gameplay.noSteer.tooltip": "Эта опция полезна для игроков с рулём, отключает отображение рулевого колеса. Требует сброса автомобиля."
 }
