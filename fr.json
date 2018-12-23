@@ -2389,7 +2389,7 @@
     "ui.trackBuilder.saveLoad.overwritePreview": "Écraser la miniature",
     "ui.trackBuilder.saveLoad.filename": "Nom du fichier",
     "ui.trackBuilder.saveLoad.save": "Sauvegarder",
-    "ui.trackBuilder.saveLoad.modSaved": "Compression du circuit et de la miniature vers mod réussie ",
+    "ui.trackBuilder.saveLoad.modSaved": "Compression du circuit et de la miniature vers le mod réussie ",
     "ui.trackBuilder.saveLoad.packToMod": "Compresser en mod",
     "ui.trackBuilder.saveLoad.trackLoaded": "Circuit chargé ",
     "ui.trackBuilder.saveLoad.previewCreated": "Création de la miniature réussie ",
