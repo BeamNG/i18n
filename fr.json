@@ -864,7 +864,7 @@
     "ui.apps.node_beam_info.name": "Info Node/Beam",
     "ui.apps.odometer.name": "Odomètre",
     "ui.apps.pedals_and_axis.name": "Pédales et Axes",
-    "ui.apps.performance_timers.name": "Performance Timers",
+    "ui.apps.performance_timers.name": "Performance timers",
     "ui.apps.pitch.name": "Inclinaison",
     "ui.apps.powertrain_debug.name": "Visualisation transmission",
     "ui.apps.precision_compass.name": "Précision du compas",
