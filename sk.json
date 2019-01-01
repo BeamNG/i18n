@@ -2035,5 +2035,5 @@
     "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_minspeed.fail1.msg": "Bomba explodovala",
     "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_minspeed.fail2.msg": "Nedokázal si priviezť autobus na bezpečné miesto",
     "ui.controls.filters.2": "Priamy",
-    "scenarios.gridmap.gm_racetest.title": "Gridmap Rýchly závod Test"
+    "scenarios.gridmap.gm_racetest.title": "Gridmap Rýchly testovací závod"
 }
