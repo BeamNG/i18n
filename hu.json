@@ -2141,7 +2141,7 @@
     "ui.trackBuilder.clear": "Törlés",
     "ui.trackBuilder.addMarker": "Jelölő létrehozása a jelenlegi értékkel",
     "ui.trackBuilder.stackToCursor": "Minden elem kiválasztott elemre helyezése a veremben.",
-    "ui.trackBuilder.stackOne": "Az utolsó elem verembe helyezése.",
+    "ui.trackBuilder.stackOne": "Az utolsó elem halomra helyezése.",
     "ui.trackBuilder.stackApplyOne": "A legutolsó elem verembe helyezése",
     "ui.trackBuilder.stackApplyAll": "Az összes elem alkalmazása a veremre",
     "ui.trackBuilder.stackApplyAllAndKeep": "Az elemek alkalmazása a veremre, de ne törölje a vermet.",
