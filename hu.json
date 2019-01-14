@@ -983,7 +983,7 @@
     "scenarios.driver_training.driver_training.training_hairpins3.5.nomove.msg": "Nem volt tiszta a fordulat - láttam, hogy nekikoccantál egy akadálynak.",
     "scenarios.driver_training.driver_training.training_hairpins3.5.damage.msg": "Ööö... Térjünk vissza az első leckéhez?",
     "scenarios.driver_training.driver_training.training_slalom.title": "8. biztonsági lecke: Szlalom",
-    "scenarios.driver_training.driver_training.training_slalom.description": "Egy szlalompálya nem egyszerű kihívás. Próbálj meg ráérezni a kocsi súlyára, és közöld meg a bójákat",
+    "scenarios.driver_training.driver_training.training_slalom.description": "Egy szlalompálya nem egyszerű kihívás. Próbálj meg ráérezni a kocsi súlyára, és közöld meg a bójákat.",
     "scenarios.driver_training.driver_training.training_slalom.defaultWin": "Remek munka! Úgy kerülgetted azokat a bójákat, mint egy profi.",
     "scenarios.driver_training.driver_training.training_slalom.timeLimit.msg": "Túl lassú vagy! Egy szlalompálya csak nagy sebesség mellett kihívás.",
     "scenarios.driver_training.driver_training.training_slalom.nomove.msg": "Nekimentél egy bójának. Próbáld meg ismét.",
