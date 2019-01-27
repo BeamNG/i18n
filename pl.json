@@ -1773,5 +1773,6 @@
     "ui.options.onlineFeatures": "Funkcje Online",
     "ui.options.modAutoUpdates": "Automatyczne aktualizowanie modyfikacji",
     "ui.options.modNumParallelDownload": "Liczba pobrań w tym samym czasie",
-    "ui.options.graphics.sleepinbackground": "Uśpij w tle"
+    "ui.options.graphics.sleepinbackground": "Uśpij w tle",
+    "ui.options.graphics.MainMenuBackgroundMode": "Tło Menu"
 }
