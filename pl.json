@@ -1776,5 +1776,7 @@
     "ui.options.graphics.sleepinbackground": "Uśpij w tle",
     "ui.options.graphics.MainMenuBackgroundMode": "Tło Menu",
     "ui.options.graphics.restartRequired": "Gra wymaga ponownego uruchomienia w celu wdrożenia zmian",
-    "ui.options.graphics.GraphicMeshQuality": "Jakość geometrii"
+    "ui.options.graphics.GraphicMeshQuality": "Jakość geometrii",
+    "ui.options.graphics.GraphicGrassDensity": "Gęstość trawy",
+    "ui.options.graphics.DisplayShadows": "Pokaż cienie"
 }
