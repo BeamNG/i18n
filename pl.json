@@ -1794,5 +1794,11 @@
     "ui.controls.filters.0": "Przycisk (przyczepność)",
     "ui.controls.filters.1": "Pad",
     "ui.controls.filters.2": "Bezpośredni",
-    "ui.controls.filters.3": "Przycisk (drift)"
+    "ui.controls.filters.3": "Przycisk (drift)",
+    "ui.controls.filters.limitEnabled": "Ogranicz sterowanie przy prędkości",
+    "ui.controls.filters.limitStartSpeed": "Zacznij od",
+    "ui.controls.filters.limitEndSpeed": "Zatrzymaj się przy",
+    "ui.controls.filters.limitMultiplier": "Ogranicz do",
+    "ui.controls.ffb": "Sprzężenie Zwrotne",
+    "ui.controls.ffbConfigMissing": "Nie znaleziono konfiguracji sprzężenia zwrotnego (force feedback)"
 }
