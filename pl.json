@@ -1768,5 +1768,7 @@
     "ui.options.motionSim.accelerationSmoothing": "Wygładzanie przyspieszenia:",
     "ui.options.motionSim.accelerationSmoothingX": "X",
     "ui.options.motionSim.accelerationSmoothingY": "Y",
-    "ui.options.motionSim.accelerationSmoothingZ": "Z"
+    "ui.options.motionSim.accelerationSmoothingZ": "Z",
+    "ui.options.units.length": "Długość",
+    "ui.options.onlineFeatures": "Funkcje Online"
 }
