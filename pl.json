@@ -1726,5 +1726,7 @@
     "ui.options.general": "Ogólne",
     "ui.options.camera.emptyListHint": "Lista dostępna tylko podczas gry",
     "ui.options.camera.transitionHint": "Jak długo będzie trwała animacja przełączania kamery w milisekundach",
-    "ui.options.camera.order": "Kolejność przełączania"
+    "ui.options.camera.order": "Kolejność przełączania",
+    "ui.options.camera.switchHint": "Kliknij by zmienić",
+    "ui.options.camera.current": "Aktualna kamera"
 }
