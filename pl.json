@@ -1724,5 +1724,6 @@
     "ui.options.gameplay.helpTranslating": "Pomóż w tłumaczeniu",
     "ui.options.gameplay.translationProjectPage": "Strona projektu tłumaczenia",
     "ui.options.general": "Ogólne",
-    "ui.options.camera.emptyListHint": "Lista dostępna tylko podczas gry"
+    "ui.options.camera.emptyListHint": "Lista dostępna tylko podczas gry",
+    "ui.options.camera.transitionHint": "Jak długo będzie trwała animacja przełączania kamery w milisekundach"
 }
