@@ -1783,5 +1783,6 @@
     "ui.options.audio.sources": "Źródło dźwięku",
     "ui.controls.bindings": "Klawiszologia",
     "ui.controls.searchAllBindings": "Szukaj przycisków",
-    "ui.controls.searchMatches": "{{liczba}} wyników"
+    "ui.controls.searchMatches": "{{liczba}} wyników",
+    "ui.controls.expandCollapse": "Kliknij, aby rozwinąć / zwinąć"
 }
