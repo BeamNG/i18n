@@ -1832,5 +1832,9 @@
     "ui.performance.warnings.lowmem": "8GB RAM jest zalecane",
     "ui.performance.warnings.minmem": "Mniej niż 4GB pamięci: Nie wystarczająca ilość pamięci do wczytania niektórych map",
     "ui.performance.warnings.freememlow": "Jest dostępne mniej niż 2 GB fizycznej pamięci. Rozważ zamknięcie aplikacji lub uruchomienie ponowne komputera.",
-    "ui.performance.warnings.cpuonecore": "Gra nie będzie działać płynnie na tylko jednym rdzeniu fizycznym."
+    "ui.performance.warnings.cpuonecore": "Gra nie będzie działać płynnie na tylko jednym fizycznym rdzeniu.",
+    "ui.performance.warnings.cpuquadcore": "Optymalna wydajność na procesorach cztero rdzeniowych",
+    "ui.performance.warnings.cpulowclock": "Taktowanie twojego procesora jest poniżej 2GHz",
+    "ui.performance.warnings.cpu64bits": "Zalecamy użycie 64 bitowego procesora",
+    "ui.performance.warnings.remotedesktop": "Używasz zdalnego pulpitu"
 }
