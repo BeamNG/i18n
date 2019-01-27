@@ -1824,5 +1824,6 @@
     "ui.performance.benchmark.notavailable": "Ten test wydajności może być uruchomiony tylko z menu głównego.",
     "ui.performance.acknowledge": "Zapoznanie",
     "ui.performance.acknowledged": "Zapoznano",
-    "ui.performance.link.graphicsOptions": "Ustawienia Graficzne"
+    "ui.performance.link.graphicsOptions": "Ustawienia Graficzne",
+    "ui.performance.warnings.oldwin7": "Nie uruchomiono 64 bitowej wersji: system jest starszy niż Windows 7 Service Pack 1: proszę zaktualizować system"
 }
