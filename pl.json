@@ -1714,5 +1714,6 @@
     "ui.apps.characterRealtimeDisplay.name": "Wyświetlanie postaci w czasie rzeczywistym",
     "ui.playmodes.lightRunner": "Neonowy wyścig",
     "ui.playmodes.trackBuilder": "Kreator torów",
-    "ui.options.userInterface.externalUi": "Włącz interfejs w przeglądarce"
+    "ui.options.userInterface.externalUi": "Włącz interfejs w przeglądarce",
+    "ui.options.gameplay.gearboxSafety": "Asystent skrzyni biegów"
 }
