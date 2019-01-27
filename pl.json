@@ -1786,5 +1786,13 @@
     "ui.controls.searchMatches": "{{liczba}} wyników",
     "ui.controls.expandCollapse": "Kliknij, aby rozwinąć / zwinąć",
     "ui.controls.editBinding": "Edytuj to przypisanie",
-    "ui.controls.rmAllUserModification": "Usuń wszystkie modyfikacje wykonane przez użytkownika (zostawiając fabryczne przypisania przycisków tylko dla zwykłych urządzeń peryferyjnych)"
+    "ui.controls.rmAllUserModification": "Usuń wszystkie modyfikacje wykonane przez użytkownika (zostawiając fabryczne przypisania przycisków tylko dla zwykłych urządzeń peryferyjnych)",
+    "ui.controls.nDevicesDetected": "{{nDevices}} znalezionych urządzeń",
+    "ui.controls.filter": "Filtr",
+    "ui.controls.filters": "Filtry",
+    "ui.controls.filters.-1": "Automatyczny",
+    "ui.controls.filters.0": "Przycisk (uchwyt)",
+    "ui.controls.filters.1": "Pad",
+    "ui.controls.filters.2": "Bezpośredni",
+    "ui.controls.filters.3": "Przycisk (drift)"
 }
