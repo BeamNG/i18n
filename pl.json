@@ -1719,5 +1719,6 @@
     "ui.options.gameplay.gearboxSafety.tooltip": "Jeśli włączony, skrzynie biegów odmawiają zmian, które mogą spowodować uszkodzenie, a także zapobiegają niektórym zmianom trybów, aby uzyskać bardziej wciągające wrażenia z wyścigów. (Na przykład przełączenie z trybu M jest niedozwolone, dopóki nie osiągniesz określonej prędkości)",
     "ui.options.gameplay.multiseatTags": "Włącz tagi graczy wielostanowiskowych",
     "ui.options.gameplay.traffic": "Włącz ruch drogowy (opcja eksperymentalna - ogromny spadek wydajności",
-    "ui.options.gameplay.traffic.tooltip": "Wymaga manualnego spawnowania pożądanych pojazdów"
+    "ui.options.gameplay.traffic.tooltip": "Wymaga manualnego spawnowania pożądanych pojazdów",
+    "ui.options.gameplay.noSteer.tooltip": "Ta opcja jest przydatna dla użytkowników kierownic, aby uniknąć podwójnej kierownicy. Wymaga przeładowania pojazdu."
 }
