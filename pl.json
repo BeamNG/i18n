@@ -1771,5 +1771,6 @@
     "ui.options.motionSim.accelerationSmoothingZ": "Z",
     "ui.options.units.length": "Długość",
     "ui.options.onlineFeatures": "Funkcje Online",
-    "ui.options.modAutoUpdates": "Automatyczne aktualizowanie modyfikacji"
+    "ui.options.modAutoUpdates": "Automatyczne aktualizowanie modyfikacji",
+    "ui.options.modNumParallelDownload": "Liczba pobrań w tym samym czasie"
 }
