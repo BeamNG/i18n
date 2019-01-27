@@ -1782,5 +1782,6 @@
     "ui.options.audio.ambienceVol": "Głośność Tła",
     "ui.options.audio.sources": "Źródło dźwięku",
     "ui.controls.bindings": "Klawiszologia",
-    "ui.controls.searchAllBindings": "Szukaj przycisków"
+    "ui.controls.searchAllBindings": "Szukaj przycisków",
+    "ui.controls.searchMatches": "{{liczba}} wyników"
 }
