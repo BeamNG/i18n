@@ -1836,5 +1836,6 @@
     "ui.performance.warnings.cpuquadcore": "Optymalna wydajność na procesorach cztero rdzeniowych",
     "ui.performance.warnings.cpulowclock": "Taktowanie twojego procesora jest poniżej 2GHz",
     "ui.performance.warnings.cpu64bits": "Zalecamy użycie 64 bitowego procesora",
-    "ui.performance.warnings.remotedesktop": "Używasz zdalnego pulpitu"
+    "ui.performance.warnings.remotedesktop": "Używasz zdalnego pulpitu",
+    "ui.performance.warnings.intelgpu": "Używasz GPU Intela. Upewnij się, że twój dedykowany GPU jest używany zamiast niej."
 }
