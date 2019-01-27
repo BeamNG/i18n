@@ -1774,5 +1774,6 @@
     "ui.options.modAutoUpdates": "Automatyczne aktualizowanie modyfikacji",
     "ui.options.modNumParallelDownload": "Liczba pobrań w tym samym czasie",
     "ui.options.graphics.sleepinbackground": "Uśpij w tle",
-    "ui.options.graphics.MainMenuBackgroundMode": "Tło Menu"
+    "ui.options.graphics.MainMenuBackgroundMode": "Tło Menu",
+    "ui.options.graphics.restartRequired": "Gra wymaga ponownego uruchomienia w celu wdrożenia zmian"
 }
