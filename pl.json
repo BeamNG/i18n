@@ -1609,5 +1609,6 @@
     "ui.trackBuilder.menus.advancedPieces": "Zaawansowane części",
     "scenarios.jungle_rock_island.bus_safari.description": "Dzień dobry i witamy na naszej trasie safari dookoła dżunglowej wyspy [br] Jestem Klara, i będę waszym przewodnikiem podczas tej wycieczki. Proszę zająć miejsca - zaraz ruszamy. [br][br] Cześć! Mógłbyś poprowadzić? Będę zajęta objaśnianiem i pokazywaniem zwierząt. Nie martw się, to bardzo proste. Nie spiesz się i po prostu kieruj się za znacznikami. [br] Aha, i proszę nie spadnij z klifu.",
     "vehicle.bdebug.enabled": "Włączono rysowanie Debug'u",
-    "vehicle.bdebug.disabled": "Debugowanie rysowania wyłączone"
+    "vehicle.bdebug.disabled": "Debugowanie rysowania wyłączone",
+    "vehicle.bdebug.beamVisMode.deformgroups": "Grupy zniekształceń"
 }
