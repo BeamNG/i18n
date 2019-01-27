@@ -1818,5 +1818,6 @@
     "ui.debug.vehicle.tireContactPoint": "Debugowanie punktu styku opon",
     "ui.performance.tempHide": "Ukryj interfejs na 10 sekund",
     "ui.performance.optimal": "Optymalna",
-    "ui.performance.orBetter": "lub lepiej"
+    "ui.performance.orBetter": "lub lepsza",
+    "ui.performance.ram.physical": "Fizyczny"
 }
