@@ -1755,5 +1755,8 @@
     "ui.options.camera.cameraDriverSeatControls": "Podnieś/obniż siedzenie:[br][br]Przesuń siedzenie w tył/przód:[br][br]Przechyl siedzenie:",
     "ui.options.camera.cameraDriverSeatControls2": "[action=moveup]/[action=movedown][br][br][action=movebackward]/[action=moveforward][br][br][action=moveleft]/[action=moveright]",
     "ui.options.camera.cameraDriverResetSeat": "Resetuj pozycje siedzenia w aktualnej serii pojazdów",
-    "ui.options.camera.cameraDriverResetSeatAll": "Resetuj pozycję siedzenia wszystkich pojazdów"
+    "ui.options.camera.cameraDriverResetSeatAll": "Resetuj pozycję siedzenia wszystkich pojazdów",
+    "ui.options.camera.cameraFanVsTV": "Tryb zewnętrzny",
+    "ui.options.camera.cameraTVSpeed": "Prędkość przesuwania trybu TV",
+    "ui.options.camera.cameraTVSpeedTooltip": "Nie wymusza jednej stałej prędkości, a raczej działa jako modyfikator względem dynamicznie wybranej prędkości"
 }
