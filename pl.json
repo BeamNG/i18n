@@ -1820,5 +1820,8 @@
     "ui.performance.optimal": "Optymalna",
     "ui.performance.orBetter": "lub lepsza",
     "ui.performance.ram.physical": "Fizyczny",
-    "ui.performance.ram.virtual": "Wirtualny"
+    "ui.performance.ram.virtual": "Wirtualny",
+    "ui.performance.benchmark.notavailable": "Ten test wydajności może być uruchomiony tylko z menu głównego.",
+    "ui.performance.acknowledge": "Zapoznanie",
+    "ui.performance.acknowledged": "Zapoznano"
 }
