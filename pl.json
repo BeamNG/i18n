@@ -1800,5 +1800,6 @@
     "ui.controls.filters.limitEndSpeed": "Zatrzymaj się przy",
     "ui.controls.filters.limitMultiplier": "Ogranicz do",
     "ui.controls.ffb": "Sprzężenie Zwrotne",
-    "ui.controls.ffbConfigMissing": "Nie znaleziono konfiguracji sprzężenia zwrotnego (force feedback)"
+    "ui.controls.ffbConfigMissing": "Nie znaleziono konfiguracji sprzężenia zwrotnego",
+    "ui.controls.availableHardware": "Dostępny sprzęt"
 }
