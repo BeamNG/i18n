@@ -1831,5 +1831,6 @@
     "ui.performance.warnings.dinput": "Direct Input (używany w kierownicach) nie jest dostępny, proszę zainstalować DirectX 9: [url=http://wiki.beamng.com/DirectXInstallation]wiki.beamng.com/DirectXInstallation[/url]",
     "ui.performance.warnings.lowmem": "8GB RAM jest zalecane",
     "ui.performance.warnings.minmem": "Mniej niż 4GB pamięci: Nie wystarczająca ilość pamięci do wczytania niektórych map",
-    "ui.performance.warnings.freememlow": "Jest dostępne mniej niż 2 GB fizycznej pamięci. Rozważ zamknięcie aplikacji lub uruchomienie ponowne komputera."
+    "ui.performance.warnings.freememlow": "Jest dostępne mniej niż 2 GB fizycznej pamięci. Rozważ zamknięcie aplikacji lub uruchomienie ponowne komputera.",
+    "ui.performance.warnings.cpuonecore": "Gra nie będzie działać płynnie na tylko jednym rdzeniu fizycznym."
 }
