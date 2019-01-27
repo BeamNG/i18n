@@ -1780,5 +1780,7 @@
     "ui.options.graphics.GraphicGrassDensity": "Gęstość trawy",
     "ui.options.graphics.DisplayShadows": "Pokaż cienie",
     "ui.options.audio.ambienceVol": "Głośność Tła",
-    "ui.options.audio.sources": "Źródło dźwięku"
+    "ui.options.audio.sources": "Źródło dźwięku",
+    "ui.controls.bindings": "Klawiszologia",
+    "ui.controls.searchAllBindings": "Szukaj przycisków"
 }
