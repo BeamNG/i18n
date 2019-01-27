@@ -1839,5 +1839,6 @@
     "ui.performance.warnings.remotedesktop": "Używasz zdalnego pulpitu",
     "ui.performance.warnings.intelgpu": "Używasz GPU Intela. Upewnij się, że twój dedykowany GPU jest używany zamiast niej.",
     "ui.performance.warnings.geforcemin": "Wymagany jest co najmniej GeForce 550",
-    "ui.performance.warnings.amdradeon": "Przynajmniej AMD Radeon R8 jest wymagany"
+    "ui.performance.warnings.amdradeon": "Przynajmniej AMD Radeon R8 jest wymagany",
+    "ui.performance.warnings.oswin8": "Zalecany Windows 8: aktualnie uruchomiono w x86 trybie zgodności"
 }
