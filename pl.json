@@ -1817,5 +1817,6 @@
     "ui.debug.vehicle.aerodynamicsScale": "Skala oporów powietrza",
     "ui.debug.vehicle.tireContactPoint": "Debugowanie punktu styku opon",
     "ui.performance.tempHide": "Ukryj interfejs na 10 sekund",
-    "ui.performance.optimal": "Optymalna"
+    "ui.performance.optimal": "Optymalna",
+    "ui.performance.orBetter": "lub lepiej"
 }
