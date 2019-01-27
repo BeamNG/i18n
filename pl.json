@@ -1723,5 +1723,6 @@
     "ui.options.gameplay.noSteer.tooltip": "Ta opcja jest przydatna dla użytkowników kierownic, aby uniknąć podwójnej kierownicy. Wymaga przeładowania pojazdu.",
     "ui.options.gameplay.helpTranslating": "Pomóż w tłumaczeniu",
     "ui.options.gameplay.translationProjectPage": "Strona projektu tłumaczenia",
-    "ui.options.general": "Ogólne"
+    "ui.options.general": "Ogólne",
+    "ui.options.camera.emptyListHint": "Lista dostępna tylko podczas gry"
 }
