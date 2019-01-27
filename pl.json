@@ -1720,5 +1720,8 @@
     "ui.options.gameplay.multiseatTags": "Włącz tagi graczy wielostanowiskowych",
     "ui.options.gameplay.traffic": "Włącz ruch drogowy (opcja eksperymentalna - ogromny spadek wydajności",
     "ui.options.gameplay.traffic.tooltip": "Wymaga manualnego spawnowania pożądanych pojazdów",
-    "ui.options.gameplay.noSteer.tooltip": "Ta opcja jest przydatna dla użytkowników kierownic, aby uniknąć podwójnej kierownicy. Wymaga przeładowania pojazdu."
+    "ui.options.gameplay.noSteer.tooltip": "Ta opcja jest przydatna dla użytkowników kierownic, aby uniknąć podwójnej kierownicy. Wymaga przeładowania pojazdu.",
+    "ui.options.gameplay.helpTranslating": "Pomóż w tłumaczeniu",
+    "ui.options.gameplay.translationProjectPage": "Strona projektu tłumaczenia",
+    "ui.options.general": "Ogólne"
 }
