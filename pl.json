@@ -1826,5 +1826,9 @@
     "ui.performance.acknowledged": "Zapoznano",
     "ui.performance.link.graphicsOptions": "Ustawienia Graficzne",
     "ui.performance.warnings.oldwin7": "Nie uruchomiono 64 bitowej wersji: system jest starszy niż Windows 7 Service Pack 1: proszę zaktualizować system",
-    "ui.performance.warnings.missing64binary": "Wersja 64 Bitowa nie jest uruchomiona: Nie znaleziono 64 Bitowej wersji: Proszę przeinstalować"
+    "ui.performance.warnings.missing64binary": "Nie uruchomiono 64 bitowej wersji: Nie znaleziono 64 Bitowej wersji: Proszę przeinstalować",
+    "ui.performance.warnings.toolessmemoryfor64bit": "Nie uruchomiono 64 bitowej wersji: system ma 4GB pamięci lub mniej",
+    "ui.performance.warnings.dinput": "Direct Input (używany w kierownicach) nie jest dostępny, proszę zainstalować DirectX 9: [url=http://wiki.beamng.com/DirectXInstallation]wiki.beamng.com/DirectXInstallation[/url]",
+    "ui.performance.warnings.lowmem": "8GB RAM jest zalecane",
+    "ui.performance.warnings.minmem": "Mniej niż 4GB pamięci: Nie wystarczająca ilość pamięci do wczytania niektórych map"
 }
