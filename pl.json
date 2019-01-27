@@ -1802,5 +1802,20 @@
     "ui.controls.ffb": "Sprzężenie Zwrotne",
     "ui.controls.ffbConfigMissing": "Nie znaleziono konfiguracji sprzężenia zwrotnego",
     "ui.controls.availableHardware": "Dostępny sprzęt",
-    "ui.controls.hardware": "Sprzęt"
+    "ui.controls.hardware": "Sprzęt",
+    "ui.controls.hint1": "Wskazówka: zawsze instaluj najnowsze sterowniki i wyłącz \"połączone pedały\" w panelu sterowania systemu Windows (jeśli to możliwe)",
+    "ui.controls.hint2": "Wskazówka: możesz także przypisać mysz do 'sterowania' (lub każdej innej czynności) w menu 'Przyciski'",
+    "ui.controls.remotControlApp": "Aplikacja zdalnego sterowania",
+    "ui.controls.firewallError": "Wygląda na to, że gra jest blokowana przez Zaporę systemu Windows.",
+    "ui.controls.androidQRCode": "Zeskanuj kod QR albo wciśnij przycisk na aplikacji Androidowej.",
+    "ui.debug.vehicle.cloneCurrent": "Klonuj aktualny",
+    "ui.debug.vehicle.removeOthers": "Usuń inne",
+    "ui.debug.vehicle.loadDefault": "Wczytaj domyślny",
+    "ui.debug.vehicle.debugVisible": "Debuguj widoczny",
+    "ui.debug.vehicle.flexmeshdebug": "Debugowanie giętkiej geometrii",
+    "ui.debug.vehicle.aerodynamics": "Debugowanie oporów powietrza",
+    "ui.debug.vehicle.aerodynamicsScale": "Skala oporów powietrza",
+    "ui.debug.vehicle.tireContactPoint": "Debugowanie punktu styku opon",
+    "ui.performance.tempHide": "Ukryj interfejs na 10 sekund",
+    "ui.performance.optimal": "Optymalna"
 }
