@@ -1761,5 +1761,7 @@
     "ui.options.camera.cameraTVSpeedTooltip": "Nie wymusza jednej stałej prędkości, a raczej działa jako modyfikator względem dynamicznie wybranej prędkości",
     "ui.options.camera.cameraExternalControls": "Zmień kąt TV: [br][br]Przybliżaj/oddalaj: ",
     "ui.options.camera.cameraExternalControls2": "[action=center_camera][br][br][action=increase_zoom]/[action=decrease_zoom]",
-    "ui.options.utilities.highPerformancePlan": "Wymuś plan wysokiej wydajności"
+    "ui.options.utilities.highPerformancePlan": "Wymuś plan wysokiej wydajności",
+    "ui.options.motionSim": "MotionSim",
+    "ui.options.motionSim.enabled": "MotionSim Włączony"
 }
