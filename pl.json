@@ -2002,5 +2002,12 @@
     "ui.garage.photo.uploadToBeamng": "Wyślij do serwera plików",
     "ui.garage.save.back": "Garaż",
     "ui.garage.save.continue": "Wyjście",
-    "ui.garage.parts.subparts": "Podczęści"
+    "ui.garage.parts.subparts": "Podczęści",
+    "ui.loading.spawn.player": "Spawnowanie gracza",
+    "ui.loading.spawn.terrain": "Kopanie w ziemi",
+    "ui.loading.spawn.sky": "Kłębienie chmur",
+    "ui.loading.spawn.sound": "Hałasowanie",
+    "ui.loading.spawn.groundcover": "Sadzenie trawy",
+    "ui.loading.spawn.collada": "Importowanie trójwymiarowych rzeczy",
+    "ui.loading.spawn.postfx": "Rozświetlanie świata"
 }
