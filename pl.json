@@ -2116,5 +2116,6 @@
     "scenarios.driver_training.driver_training.training_slalom.nomove.msg": "Trafiłeś w pachołek, spróbuj jeszcze raz.",
     "scenarios.driver_training.driver_training.training_rwd.damage.msg": "Ten samochód z pewnością wymaga trochę pracy, by mógł ponownie jeździć.",
     "scenarios.driver_training.driver_training.training_advanced.defaultWin": "Jestem zaskoczony, że to zrobiłeś! Teraz zakończmy ten kurs szkoleniowy czymś zabawnym.",
-    "scenarios.driver_training.driver_training.training_advanced.damage.msg": "Paskudne uderzenie, wszystko w porządku? Samochód juz raczej nie pojedzie."
+    "scenarios.driver_training.driver_training.training_advanced.damage.msg": "Paskudne uderzenie, wszystko w porządku? Samochód juz raczej nie pojedzie.",
+    "scenarios.driver_training.driver_training.training_driftB.defaultWin": "Dobra robota! Pomazałeś tą płytę poślizgową gumą!"
 }
