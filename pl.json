@@ -1991,5 +1991,6 @@
     "ui.garage.paint.setVal": "Zachowaj wartość",
     "ui.garage.paint.decals": "Paleta detali {{id}}",
     "ui.garage.save.overwrite": "Nazwa używana przez inny samochód. Nadpisać?",
-    "ui.garage.save.enterName": "Proszę wpisać nazwę"
+    "ui.garage.save.enterName": "Proszę wpisać nazwę",
+    "ui.garage.save.setDef": "ustaw jako pojazd domyślny"
 }
