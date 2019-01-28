@@ -2027,5 +2027,7 @@
     "ui.mapview.labels.delivery": "Dostawa",
     "ui.mapview.labels.timeTrial": "Próba czasowa",
     "ui.mapview.labels.transitionPoint": "Opuść Mapę",
-    "ui.mapview.labels.airport": "Lotnisko"
+    "ui.mapview.labels.airport": "Lotnisko",
+    "ui.mapview.labels.harbor": "Port",
+    "ui.mapview.labels.playerHQ": "Siedziba"
 }
