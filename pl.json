@@ -2154,5 +2154,6 @@
     "scenarios.utah.chapter_1.chapter_1_suspension.fail.msg": "Nie udało Ci się skończyć trasy",
     "scenarios.utah.chapter_1.chapter_1_suspension.wall.fail.msg": "Nie trafiłeś w ścianę",
     "scenarios.utah.chapter_1.chapter_1_suspension.pass.msg": "Wyzwanie ukończone",
-    "scenarios.utah.chapter_1.chapter_1_suspension.followpath.fail.msg": "Nie udało ci się ukończyć wyzwania"
+    "scenarios.utah.chapter_1.chapter_1_suspension.followpath.fail.msg": "Nie udało ci się ukończyć wyzwania",
+    "scenarios.utah.chapter_2.chapter_2_1_ram.playerfall.fail.msg": "Whoa! Wszystko dobrze? Nie powinieneś spadać, uważaj na siebie!"
 }
