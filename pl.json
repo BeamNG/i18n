@@ -2111,5 +2111,6 @@
     "scenarios.driver_training.driver_training.training_hairpins3.5.defaultWin": "Muszę przyznać, fajnie to wyglądało.",
     "scenarios.driver_training.driver_training.training_hairpins3.5.damage.msg": "Ekhm, czy musimy wrócić do pierwszej lekcji?",
     "scenarios.driver_training.driver_training.training_slalom.title": "Trening Bezpieczeństwa 8: Slalom",
-    "scenarios.driver_training.driver_training.training_slalom.description": "Slalom to trudna rzecz do opanowania. Wyczuj masę pojazdu podczas wymijania pomiędzy pachołkami"
+    "scenarios.driver_training.driver_training.training_slalom.description": "Slalom to trudna rzecz do opanowania. Wyczuj masę pojazdu podczas wymijania pomiędzy pachołkami",
+    "scenarios.driver_training.driver_training.training_slalom.timeLimit.msg": "Za wolno! Kurs slalomu jest tylko wymagający przy dużej prędkości."
 }
