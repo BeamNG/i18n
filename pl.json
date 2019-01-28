@@ -1985,5 +1985,6 @@
     "ui.garage.tabs.vehicles": "Pojazdy",
     "ui.garage.tabs.tune": "Stuninguj",
     "ui.garage.tune.tuning": "Tuning",
-    "ui.garage.tune.live": "Aktualizacje na żywo"
+    "ui.garage.tune.live": "Aktualizacje na żywo",
+    "ui.garage.tune.advWheel": "Zaawansowane informacje o kołach"
 }
