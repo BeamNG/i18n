@@ -1979,5 +1979,6 @@
     "ui.scenarios.difficulty.veryHard": "Bardzo trudny",
     "ui.goals.nomove": "Unikaj kolizji",
     "ui.goals.wayPointAction": "Akcja punktu kontrolnego",
-    "ui.goals.speed": "Prędkość"
+    "ui.goals.speed": "Prędkość",
+    "ui.goals.damage": "Zniszczenia"
 }
