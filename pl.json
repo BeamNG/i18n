@@ -2022,5 +2022,10 @@
     "ui.mapview.labels.gold": "Złoto",
     "ui.mapview.labels.race": "Wyścig",
     "ui.mapview.labels.crawl": "Wspinaczka",
-    "ui.mapview.labels.chase": "Pościg"
+    "ui.mapview.labels.chase": "Pościg",
+    "ui.mapview.labels.stunt": "Sztuczka",
+    "ui.mapview.labels.delivery": "Dostawa",
+    "ui.mapview.labels.timeTrial": "Próba czasowa",
+    "ui.mapview.labels.transitionPoint": "Opuść Mapę",
+    "ui.mapview.labels.airport": "Lotnisko"
 }
