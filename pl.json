@@ -2099,5 +2099,6 @@
     "scenarios.busRoutes.skip": "Pominąłeś jeden przystanek",
     "scenarios.busRoutes.skipRequiredWpDefault": "Pominąłeś jeden wymagany punkt kontrolny (domyślna wiadomość, ustaw `.failmsg`",
     "scenarios.busRoutes.alreadyStop": "Już się tutaj zatrzymałeś",
-    "scenarios.driver_training.driver_training.training_cornering2.5.defaultWin": "Niezły skręt. Teraz czas wyjechać na normalną drogę."
+    "scenarios.driver_training.driver_training.training_cornering2.5.defaultWin": "Niezły skręt. Teraz czas wyjechać na normalną drogę.",
+    "scenarios.driver_training.driver_training.training_cornering2.5.damage.msg": "Zjechanie z trawy to dobry początek."
 }
