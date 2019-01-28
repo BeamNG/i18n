@@ -2149,5 +2149,10 @@
     "scenarios.utah.chapter_1.chapter_1_crawl.pass.msg": "Dobra robota",
     "scenarios.utah.chapter_1.chapter_1_highway.pass.msg": "Blokada drogowa pokonana",
     "scenarios.utah.chapter_1.chapter_1_jump.pass.msg": "Dobry skok",
-    "scenarios.utah.chapter_1.chapter_1_ramcliff.fail.msg": "Nie udało ci się zepchnąć obu pojazdów z urwiska"
+    "scenarios.utah.chapter_1.chapter_1_ramcliff.fail.msg": "Nie udało ci się zepchnąć obu pojazdów z urwiska",
+    "scenarios.utah.chapter_1.chapter_1_ramcliff.pass.msg": "Oba auta spadły",
+    "scenarios.utah.chapter_1.chapter_1_suspension.fail.msg": "Nie udało Ci się skończyć trasy",
+    "scenarios.utah.chapter_1.chapter_1_suspension.wall.fail.msg": "Nie trafiłeś w ścianę",
+    "scenarios.utah.chapter_1.chapter_1_suspension.pass.msg": "Wyzwanie ukończone",
+    "scenarios.utah.chapter_1.chapter_1_suspension.followpath.fail.msg": "Nie udało ci się ukończyć wyzwania"
 }
