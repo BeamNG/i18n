@@ -2009,5 +2009,16 @@
     "ui.loading.spawn.sound": "Hałasowanie",
     "ui.loading.spawn.groundcover": "Sadzenie trawy",
     "ui.loading.spawn.collada": "Importowanie trójwymiarowych rzeczy",
-    "ui.loading.spawn.postfx": "Rozświetlanie świata"
+    "ui.loading.spawn.postfx": "Rozświetlanie świata",
+    "ui.mapview.labels.yourPosition": "Twoja pozycja",
+    "ui.mapview.labels.state": "Stan misji",
+    "ui.mapview.labels.type": "Typ misji",
+    "ui.mapview.labels.subtype": "Punkty zainteresowania",
+    "ui.mapview.labels.ready": "Gotowy",
+    "ui.mapview.labels.failed": "Porażka",
+    "ui.mapview.labels.skipped": "Pominięto",
+    "ui.mapview.labels.bronze": "Brąz",
+    "ui.mapview.labels.silver": "Srebro",
+    "ui.mapview.labels.gold": "Złoto",
+    "ui.mapview.labels.race": "Wyścig"
 }
