@@ -1982,5 +1982,6 @@
     "ui.goals.speed": "Prędkość",
     "ui.goals.damage": "Zniszczenia",
     "ui.goals.finishRace": "Ukończ wyścig",
-    "ui.garage.tabs.vehicles": "Pojazdy"
+    "ui.garage.tabs.vehicles": "Pojazdy",
+    "ui.garage.tabs.tune": "Stuninguj"
 }
