@@ -1988,5 +1988,6 @@
     "ui.garage.tune.live": "Aktualizacje na żywo",
     "ui.garage.tune.advWheel": "Zaawansowane informacje o kołach",
     "ui.garage.paint.licensePlate": "Dostosuj tablicę rejestracyjną",
-    "ui.garage.paint.setVal": "Zachowaj wartość"
+    "ui.garage.paint.setVal": "Zachowaj wartość",
+    "ui.garage.paint.decals": "Paleta detali {{id}}"
 }
