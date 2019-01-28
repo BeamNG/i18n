@@ -2039,5 +2039,7 @@
     "ui.garage.tune.toe": "Kąt skrętu",
     "ui.garage.tune.caster": "Kąt zawieszenia",
     "ui.garage.tune.sai": "SAI",
-    "ui.camera.speed": "Ustaw prędkość kamery do {{speed | number: 1}}"
+    "ui.camera.speed": "Ustaw prędkość kamery do {{speed | number: 1}}",
+    "ui.camera.freecam": "Wolna kamera: [action=movefast] by zwiększyć prędkość, [action=changeCameraSpeed] by zmienić prędkość",
+    "ui.camera.switched": "Kamera pojazdu: {{name}}"
 }
