@@ -2033,5 +2033,11 @@
     "ui.mapview.labels.open": "Otwórz",
     "ui.mapview.labels.closed": "Zamknięte",
     "ui.trackBuilder.title": "Edytor torów",
-    "ui.vehicleconfig.stickySelection": "Przyczepne wybieranie"
+    "ui.vehicleconfig.stickySelection": "Przyczepne wybieranie",
+    "ui.radialmenu2.back.desc": "Wróć o jeden poziom.",
+    "ui.garage.tune.camber": "Kąt pochylenia",
+    "ui.garage.tune.toe": "Kąt skrętu",
+    "ui.garage.tune.caster": "Kąt zawieszenia",
+    "ui.garage.tune.sai": "SAI",
+    "ui.camera.speed": "Ustaw prędkość kamery do {{speed | number: 1}}"
 }
