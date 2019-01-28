@@ -2020,5 +2020,7 @@
     "ui.mapview.labels.bronze": "Brąz",
     "ui.mapview.labels.silver": "Srebro",
     "ui.mapview.labels.gold": "Złoto",
-    "ui.mapview.labels.race": "Wyścig"
+    "ui.mapview.labels.race": "Wyścig",
+    "ui.mapview.labels.crawl": "Wspinaczka",
+    "ui.mapview.labels.chase": "Pościg"
 }
