@@ -1970,5 +1970,7 @@
     "ui.radialmenu2.bus.kneel.desc": "Przyklęk",
     "ui.radialmenu2.bus.kneel": "Obniża autobus",
     "ui.radialmenu2.bus.doors.desc": "Otwórz drzwi",
-    "ui.radialmenu2.bus.doors": "Drzwi"
+    "ui.radialmenu2.bus.doors": "Drzwi",
+    "ui.scenarios.start.start": "Rozpocznij",
+    "ui.scenarios.end.freeroam": "Jazda dowolna"
 }
