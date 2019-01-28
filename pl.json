@@ -1966,5 +1966,7 @@
     "ui.radialmenu2.Save": "Zapisz",
     "ui.radialmenu2.Save.desc": "Zapisz pojazd w jego aktualnej formie.",
     "ui.radialmenu2.Load": "Wczytaj",
-    "ui.radialmenu2.Load.desc": "Wczytaj poprzednio zapisany pojazd."
+    "ui.radialmenu2.Load.desc": "Wczytaj poprzednio zapisany pojazd.",
+    "ui.radialmenu2.bus.kneel.desc": "Przyklęk",
+    "ui.radialmenu2.bus.kneel": "Obniża autobus"
 }
