@@ -1999,5 +1999,6 @@
     "ui.garage.photo.special": "Dodatki specjalne",
     "ui.garage.photo.screenshot": "Zrób zrzut ekranu",
     "ui.garage.photo.uploadToSteam": "Wyślij na Steam",
-    "ui.garage.photo.uploadToBeamng": "Wyślij do serwera plików"
+    "ui.garage.photo.uploadToBeamng": "Wyślij do serwera plików",
+    "ui.garage.save.back": "Garaż"
 }
