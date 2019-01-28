@@ -2031,5 +2031,6 @@
     "ui.mapview.labels.harbor": "Port",
     "ui.mapview.labels.playerHQ": "Siedziba",
     "ui.mapview.labels.open": "Otwórz",
-    "ui.mapview.labels.closed": "Zamknięte"
+    "ui.mapview.labels.closed": "Zamknięte",
+    "ui.trackBuilder.title": "Edytor torów"
 }
