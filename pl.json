@@ -2106,5 +2106,7 @@
     "scenarios.driver_training.driver_training.training_tightroad.timeLimit.msg": "Jeśli masz zamiar jeździć tak wolno, to nie wydaje mi się, że to auto jest w ogóle potrzebne.",
     "scenarios.driver_training.driver_training.training_cornerspeedB.defaultWin": "Dobra robota! Widzę, że załapałeś podstawy zarządzania prędkością na zakrętach.",
     "scenarios.driver_training.driver_training.training_cornerspeedB.damage.msg": "Auta raczej gorzej wchodzą w zakręty jeśli wcześniej uderzyły w ścianę.",
-    "scenarios.driver_training.driver_training.training_easycircuit.defaultWin": "Doskonale! Zdałeś podstawy tego kursu. Teraz możemy spróbować czegoś bardziej zaawansowanego."
+    "scenarios.driver_training.driver_training.training_easycircuit.defaultWin": "Doskonale! Zdałeś podstawy tego kursu. Teraz możemy spróbować czegoś bardziej zaawansowanego.",
+    "scenarios.driver_training.driver_training.training_easycircuit.timeLimit.msg": "Ciut za wolno - nie bój się przycisnąć gazu mocniej!",
+    "scenarios.driver_training.driver_training.training_hairpins3.5.defaultWin": "Muszę przyznać, fajnie to wyglądało."
 }
