@@ -1994,5 +1994,8 @@
     "ui.garage.save.enterName": "Proszę wpisać nazwę",
     "ui.garage.save.setDef": "ustaw jako pojazd domyślny",
     "ui.garage.load.loadCar": "Wczytaj Samochód",
-    "ui.garage.load.emptyHint": "Skonfiguruj i zapisz własne samochody aby pojawiły się na tej liście"
+    "ui.garage.load.emptyHint": "Skonfiguruj i zapisz własne samochody aby pojawiły się na tej liście",
+    "ui.garage.photo.camera": "Kamera",
+    "ui.garage.photo.special": "Dodatki specjalne",
+    "ui.garage.photo.screenshot": "Zrób zrzut ekranu"
 }
