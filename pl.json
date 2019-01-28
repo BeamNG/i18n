@@ -1980,5 +1980,7 @@
     "ui.goals.nomove": "Unikaj kolizji",
     "ui.goals.wayPointAction": "Akcja punktu kontrolnego",
     "ui.goals.speed": "Prędkość",
-    "ui.goals.damage": "Zniszczenia"
+    "ui.goals.damage": "Zniszczenia",
+    "ui.goals.finishRace": "Ukończ wyścig",
+    "ui.garage.tabs.vehicles": "Pojazdy"
 }
