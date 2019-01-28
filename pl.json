@@ -1938,5 +1938,9 @@
     "ui.radialmenu2.powertrain.4wd.connected": "4WD podłączone",
     "ui.radialmenu2.powertrain.4wd.connected.desc": "Włącza tryb 4WD.",
     "ui.radialmenu2.powertrain.4wd.disconnected": "4WD odłączone",
-    "ui.radialmenu2.powertrain.4wd.disconnected.desc": "Wyłącza tryb 4WD."
+    "ui.radialmenu2.powertrain.4wd.disconnected.desc": "Wyłącza tryb 4WD.",
+    "ui.radialmenu2.powertrain.engine": "Silnik",
+    "ui.radialmenu2.powertrain.engine.desc": "Włącz zapłon silnika.",
+    "ui.radialmenu2.powertrain.gearbox_mode": "Tryb Skrzyni Biegów",
+    "ui.radialmenu2.powertrain.gearbox_mode.desc": "Zmień tryby skrzyni biegów."
 }
