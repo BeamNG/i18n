@@ -1972,5 +1972,9 @@
     "ui.radialmenu2.bus.doors.desc": "Otwórz drzwi",
     "ui.radialmenu2.bus.doors": "Drzwi",
     "ui.scenarios.start.start": "Rozpocznij",
-    "ui.scenarios.end.freeroam": "Jazda dowolna"
+    "ui.scenarios.end.freeroam": "Jazda dowolna",
+    "ui.scenarios.difficulty.easy": "Łatwy",
+    "ui.scenarios.difficulty.medium": "Średni",
+    "ui.scenarios.difficulty.hard": "Trudny",
+    "ui.scenarios.difficulty.veryHard": "Bardzo trudny"
 }
