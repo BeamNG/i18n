@@ -2029,5 +2029,7 @@
     "ui.mapview.labels.transitionPoint": "Opuść Mapę",
     "ui.mapview.labels.airport": "Lotnisko",
     "ui.mapview.labels.harbor": "Port",
-    "ui.mapview.labels.playerHQ": "Siedziba"
+    "ui.mapview.labels.playerHQ": "Siedziba",
+    "ui.mapview.labels.open": "Otwórz",
+    "ui.mapview.labels.closed": "Zamknięte"
 }
