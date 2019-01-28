@@ -2148,5 +2148,6 @@
     "scenarios.utah.chapter_1.chapter_1_cannon.pass.msg": "Świetne tafienie!",
     "scenarios.utah.chapter_1.chapter_1_crawl.pass.msg": "Dobra robota",
     "scenarios.utah.chapter_1.chapter_1_highway.pass.msg": "Blokada drogowa pokonana",
-    "scenarios.utah.chapter_1.chapter_1_jump.pass.msg": "Dobry skok"
+    "scenarios.utah.chapter_1.chapter_1_jump.pass.msg": "Dobry skok",
+    "scenarios.utah.chapter_1.chapter_1_ramcliff.fail.msg": "Nie udało ci się zepchnąć obu pojazdów z urwiska"
 }
