@@ -1962,5 +1962,9 @@
     "ui.radialmenu2.Manage.Home": "Dom",
     "ui.radialmenu2.Manage.Home.desc": "Teleportuje do punktu spawnu.",
     "ui.radialmenu2.Manage.Set_home": "Ustaw dom",
-    "ui.radialmenu2.Manage.Set_home.desc": "Ustawia nowy punkt spawnu."
+    "ui.radialmenu2.Manage.Set_home.desc": "Ustawia nowy punkt spawnu.",
+    "ui.radialmenu2.Save": "Zapisz",
+    "ui.radialmenu2.Save.desc": "Zapisz pojazd w jego aktualnej formie.",
+    "ui.radialmenu2.Load": "Wczytaj",
+    "ui.radialmenu2.Load.desc": "Wczytaj poprzednio zapisany pojazd."
 }
