@@ -1989,5 +1989,7 @@
     "ui.garage.tune.advWheel": "Zaawansowane informacje o kołach",
     "ui.garage.paint.licensePlate": "Dostosuj tablicę rejestracyjną",
     "ui.garage.paint.setVal": "Zachowaj wartość",
-    "ui.garage.paint.decals": "Paleta detali {{id}}"
+    "ui.garage.paint.decals": "Paleta detali {{id}}",
+    "ui.garage.save.overwrite": "Nazwa używana przez inny samochód. Nadpisać?",
+    "ui.garage.save.enterName": "Proszę wpisać nazwę"
 }
