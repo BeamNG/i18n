@@ -2100,5 +2100,11 @@
     "scenarios.busRoutes.skipRequiredWpDefault": "Pominąłeś jeden wymagany punkt kontrolny (domyślna wiadomość, ustaw `.failmsg`",
     "scenarios.busRoutes.alreadyStop": "Już się tutaj zatrzymałeś",
     "scenarios.driver_training.driver_training.training_cornering2.5.defaultWin": "Niezły skręt. Teraz czas wyjechać na normalną drogę.",
-    "scenarios.driver_training.driver_training.training_cornering2.5.damage.msg": "Zjechanie z trawy to dobry początek."
+    "scenarios.driver_training.driver_training.training_cornering2.5.damage.msg": "Zjechanie z trawy to dobry początek.",
+    "scenarios.driver_training.driver_training.training_tightroad.description": "Więc wyćwiczyłeś sztukę skrętu w lewo, ale czy potrafić jechać prosto? Spróbuj osiągnąć odpowiednią prędkość dla tych wąskich zakrętów.",
+    "scenarios.driver_training.driver_training.training_tightroad.defaultWin": "Dobra robota! Myślę, że pora pojeździć prawdziwym samochodem.",
+    "scenarios.driver_training.driver_training.training_tightroad.timeLimit.msg": "Jeśli masz zamiar jeździć tak wolno, to nie wydaje mi się, że to auto jest w ogóle potrzebne.",
+    "scenarios.driver_training.driver_training.training_cornerspeedB.defaultWin": "Dobra robota! Widzę, że załapałeś podstawy zarządzania prędkością na zakrętach.",
+    "scenarios.driver_training.driver_training.training_cornerspeedB.damage.msg": "Auta raczej gorzej wchodzą w zakręty jeśli wcześniej uderzyły w ścianę.",
+    "scenarios.driver_training.driver_training.training_easycircuit.defaultWin": "Doskonale! Zdałeś podstawy tego kursu. Teraz możemy spróbować czegoś bardziej zaawansowanego."
 }
