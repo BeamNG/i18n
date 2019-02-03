@@ -2216,5 +2216,6 @@
     "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_follow.fail.msg": "Dlaczego zawracałem sobie głowę wynajmowaniem kierowcy kaskaderskiego, skoro nie możesz nawet nadążyć za ekipą filmową?",
     "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_follow.win.msg": "W samą porę - musimy rozpakować ten zestaw i rozpocząć filmowanie.",
     "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_follow.damage.msg": "Zaczynam myśleć, że po prostu masz pecha...",
-    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_course.title": "Tor rozwałki"
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_course.title": "Tor rozwałki",
+    "vehicle.bullettime.changeSlow": "{{slowmoTimes}} razy wolniej niż w rzeczywistości"
 }
