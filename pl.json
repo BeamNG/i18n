@@ -2221,5 +2221,6 @@
     "vehicle.recovery.recovering": "Przywracanie pojazdu w toku...",
     "vehicle.recovery.end": "Pojazd przywrócony (nie można cofnąć dalej)",
     "vehicle.recovery.quick": "Pojazd przywrócony (przytrzymaj by cofnąć dalej)",
-    "vehicle.recovery.saveHome": "Pozycja pojazdu zaktualizowana (użyj [action=loadHome] 1 by przywrócić) "
+    "vehicle.recovery.saveHome": "Pozycja pojazdu zaktualizowana (użyj [action=loadHome] by przywrócić)",
+    "vehicle.engine.coolantOverheating": "Płyn chłodniczy przegrzewa się"
 }
