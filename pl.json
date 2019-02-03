@@ -2223,5 +2223,9 @@
     "vehicle.recovery.quick": "Pojazd przywrócony (przytrzymaj by cofnąć dalej)",
     "vehicle.recovery.saveHome": "Pozycja pojazdu zaktualizowana (użyj [action=loadHome] by przywrócić)",
     "vehicle.engine.coolantOverheating": "Płyn chłodniczy przegrzewa się",
-    "vehicle.engine.pistonRingsDamaged": "Pierścienie tłokowe uszkodzone"
+    "vehicle.engine.pistonRingsDamaged": "Pierścienie tłokowe uszkodzone",
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_course.description": "Ukończ wyzwanie przed czasem. Musisz być kreatywny: dział rekwizytów zostawił kilka...ekhem, ciekawych rzeczy leżących wokół.",
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_course.fail.msg": "Szybciej! To film akcji, nie komedia romantyczna!",
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_course.win.msg": "To jest to czego oczekiwałem, profesjonalny przejazd i piękna rozwałka!",
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_jump.title": "Wyczyn 2: Skok"
 }
