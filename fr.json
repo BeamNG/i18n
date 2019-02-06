@@ -2484,5 +2484,9 @@
     "levels.glow_city.info.description": "Une grande et sombre ville de science fiction.",
     "levels.glow_city.info.biome": "Ville",
     "levels.glow_city.info.roads": "Aucune",
-    "levels.glow_city.info.suitablefor": "Constructeur de circuit"
+    "levels.glow_city.info.suitablefor": "Constructeur de circuit",
+    "scenarios.west_coast_usa.wcaAutobelloShowcase.tip_reverse": "Conduisez en marche arrière",
+    "scenarios.italy.pizzaDelivery1.title": "Livraison de pizza",
+    "scenarios.italy.pizzaDelivery1.description": "Livrez les pizza sur la route de l'autre côté de la ville.",
+    "scenarios.italy.pizzaDelivery1.fail_time": "Vous avez mit trop de temps..."
 }
