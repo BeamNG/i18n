@@ -5,7 +5,7 @@
     "campaigns.utah.chapter_1.title": "横冲直撞",
     "campaigns.utah.chapter_1.walljump.title": "跳穿墙",
     "engine.cef.subprocessdied.msg": "界面进程无响应。\n这可能是您的杀毒软件阻止了BeamNG.drive.ui.exe应用所导致。\n\n如需更多帮助请前往：\n\nhttp://wiki.beamng.com/Errors/Unresponsive_UI_Process\n\n你想现在用浏览器打开这个网址吗？",
-    "engine.cef.subprocessdied.title": "UI进程未响应",
+    "engine.cef.subprocessdied.title": "UI界面未响应",
     "engine.cef.subprocessdied.url": "http://wiki.beamng.com/Errors/Unresponsive_UI_Process",
     "engine.editor.menu.createBlankTerrain": "新建空白地图",
     "engine.editor.menu.exitLevel": "离开地图",
