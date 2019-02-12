@@ -22,7 +22,7 @@
     "engine.editor.menu.unlockSelection": "解锁选项",
     "engine.editor.menu.xAxis": "X轴",
     "engine.editor.menu.yAxis": "Y轴",
-    "engine.engineFail": "初始化游戏失败, 正在退出。",
+    "engine.engineFail": "游戏初始化失败，正在退出。",
     "engine.invalidUserpath.msg": "BeamNG.drive无法读取位于游戏根目录下的startup.ini中定义的用户路径. 请将其更改为有效的用户路径: ",
     "engine.invalidUserpath.title": "无效的用户路径",
     "engine.levelModified.msg": "是否保存对地图的更改?",
