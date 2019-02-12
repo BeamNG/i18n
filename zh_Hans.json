@@ -28,7 +28,7 @@
     "engine.levelModified.msg": "是否保存对地图的更改?",
     "engine.levelModified.title": "地图已修改",
     "engine.msgboxErrorTitle": "错误",
-    "engine.resourceMissing": "创建资源失败 (文件是否已丢失?): ",
+    "engine.resourceMissing": "无法创建资源（缺少该文件？): ",
     "engine.welcome": "欢迎来到简体中文版的BeamNG.drive :)",
     "engine.windowedModeReq.msgEditor": "请退出任务编辑器以切换至全屏。",
     "engine.windowedModeReq.msgGUI": "请退出GUI编辑器以切换至全屏。",
