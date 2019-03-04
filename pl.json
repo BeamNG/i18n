@@ -2237,5 +2237,9 @@
     "ui.trackBuilder.positionBeforeCamera": "Pozycja kamery",
     "ui.trackBuilder.rotateToCamera": "Rotacja kamery",
     "ui.trackBuilder.PositionAboveVehicle": "Pozycja pojazdu",
-    "ui.trackBuilder.rotateTrackToTrackVehicle": "Obrót pojazdu"
+    "ui.trackBuilder.rotateTrackToTrackVehicle": "Obrót pojazdu",
+    "ui.trackBuilder.positionBeforeCameraToolTip": "Umieść trasę za Kamerą",
+    "ui.trackBuilder.PositionAboveVehicleToolTip": "Umieść trasę powyżej Pojazdu",
+    "ui.trackBuilder.defaultLapsTooltip": "Domyślna liczba okrążeń w Próbach Czasowych",
+    "ui.trackBuilder.defaultLaps": "Domyślne Okrążenia"
 }
