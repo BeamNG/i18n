@@ -2235,5 +2235,7 @@
     "ui.trackBuilder.drive": "Jedź!",
     "ui.trackBuilder.set": "Ustaw",
     "ui.trackBuilder.positionBeforeCamera": "Pozycja kamery",
-    "ui.trackBuilder.rotateToCamera": "Rotacja kamery"
+    "ui.trackBuilder.rotateToCamera": "Rotacja kamery",
+    "ui.trackBuilder.PositionAboveVehicle": "Pozycja pojazdu",
+    "ui.trackBuilder.rotateTrackToTrackVehicle": "Obrót pojazdu"
 }
