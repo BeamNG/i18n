@@ -1204,7 +1204,7 @@
     "ui.hints.removeRearSeats": "Pour rendre votre véhicule plus rapide, vous pouvez l'alléger en retirant des pièces inutilisés comme les sièges arrières en se rendant dans le Sélectionneur de pièces [action=parts_selector].",
     "ui.hints.rollPitchApps": "Si vous aimez le crawling, les apps \"Roll\" (Rotation) et \"Pitch\" (Tanguage) vous seront très utiles.",
     "ui.hints.saveRestoreVehicleHome": "Vous pouvez sauvegarder l'emplacement actuel du véhicule avec [action=saveHome] et y revenir avec [action=loadHome]",
-    "ui.hints.showCustomVehicles": "Pour afficher vos propres configurations de voitures personnalisées dans le sélecteur de véhicules, activez Options > Options de jeu > Afficher les véhicules personnalisés.",
+    "ui.hints.showCustomVehicles": "Pour afficher vos propres configurations de voitures personnalisées dans le sélecteur de véhicules, activez Options > Interface Utilisateur > Afficher les véhicules personnalisés.",
     "ui.hints.slideBackWithParkingBrake": "Vous pouvez faire glisser l'arrière des véhicules qui on un avant lourd facilement avec le frein à main, en particulier sur les surfaces glissantes.",
     "ui.hints.slowMotionPhysics": "Admirez la physique au ralenti à l'aide de [action=slow_motion] et [action=faster_motion].",
     "ui.hints.smokingWheels": "Si de la fumée sort des roues, cela veut sans doute dire que les freins ont surchauffé.",
@@ -2488,5 +2488,6 @@
     "scenarios.west_coast_usa.wcaAutobelloShowcase.tip_reverse": "Conduisez en marche arrière",
     "scenarios.italy.pizzaDelivery1.title": "Livraison de pizza",
     "scenarios.italy.pizzaDelivery1.description": "Livrez les pizza sur la route de l'autre côté de la ville.",
-    "scenarios.italy.pizzaDelivery1.fail_time": "Vous avez mit trop de temps..."
+    "scenarios.italy.pizzaDelivery1.fail_time": "Vous avez mit trop de temps...",
+    "scenarios.west_coast_usa.wcaAutobelloShowcase.title": "Présentation de l'Autobello Piccolina"
 }
