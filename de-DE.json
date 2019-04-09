@@ -1593,5 +1593,8 @@
     "ui.controls.editBinding": "Belegung bearbeiten",
     "ui.controls.createBinding": "Neue Belegung erstellen",
     "engine.editor.menu.resaveLevel": "Alles neu abspeichern",
-    "engine.editor.menu.gameCamera": "Spiel Kamera"
+    "engine.editor.menu.gameCamera": "Spiel Kamera",
+    "quickrace.east_coast_usa.roadrace1.title": "Asphalt Etappe 1",
+    "quickrace.east_coast_usa.roadrace1.description": "Eine asphaltierte Etappe im Landesinneren auf der Ostküste der Vereinigten Staaten. Angemessen für eine Vielfalt von Fahrzeugen.",
+    "quickrace.east_coast_usa.roadrace2.title": "Asphalt Etappe 2"
 }
