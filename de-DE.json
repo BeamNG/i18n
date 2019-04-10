@@ -1669,5 +1669,9 @@
     "ui.trackBuilder.camera.focus": "Auf ausgewähltes Teil fokussieren",
     "ui.trackBuilder.base.delete": "Aktuelles Segment löschen",
     "ui.trackBuilder.base.closeTrack": "Strecke schließen",
-    "ui.trackBuilder.base.testDrive": "Startet von dem ausgewählten Teil"
+    "ui.trackBuilder.base.testDrive": "Startet von dem ausgewählten Teil",
+    "ui.trackBuilder.base.length": "Länge",
+    "ui.trackBuilder.base.radius": "Radius",
+    "ui.trackBuilder.base.width": "Breite",
+    "ui.trackBuilder.base.height": "Höhe"
 }
