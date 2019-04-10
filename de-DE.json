@@ -1853,5 +1853,5 @@
     "ui.repository.notOnline": "Verbindung zum Server konnte nicht aufgebaut werden. Wenn das Problem bestehen bleibt gehe zu ",
     "ui.performance.mods.title": "Anzahl der Mods",
     "ui.performance.mods.stat": "Gepackte Mods: {{zip}}  Entpackte Mods: {{unpacked}}",
-    "ui.performance.mods.lt": "&lt; {{zip}} Gepackte Erweiterungen, &lt; {{unpacked}} Entpackte Erweiterungen"
+    "ui.performance.mods.lt": "&lt; {{zip}} Gepackte Mods, &lt; {{unpacked}} Entpackte Mods"
 }
