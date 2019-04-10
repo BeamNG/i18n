@@ -1004,7 +1004,7 @@
     "ui.modmanager.deactivate": "Deaktivieren",
     "ui.modmanager.deactivateAll": "Alle Mods deaktivieren",
     "ui.modmanager.deactiveAll": "Alle Mods deaktivieren",
-    "ui.modmanager.deleteMod": "Mod löschen",
+    "ui.modmanager.deleteMod": "Modifikation löschen",
     "ui.modmanager.filename": "Dateiname",
     "ui.modmanager.filesize": "Dateigröße",
     "ui.modmanager.modData": "Moddaten",
