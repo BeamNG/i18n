@@ -300,7 +300,7 @@
     "scenarios.driver_training.driver_training.training_lanechange.title": "Lektion 4: Spurwechsel",
     "scenarios.driver_training.driver_training.training_rwd.damage.msg": "Das Auto braucht auf jeden Fall einige Reparaturarbeiten, bevor es wieder fahren kann.",
     "scenarios.driver_training.driver_training.training_rwd.defaultWin": "Gut gemacht! So langsam hast du den Dreh raus.",
-    "scenarios.driver_training.driver_training.training_rwd.description": "Dieser Kurs wird deine Fähigkeiten im Umgang mit einem heckgetriebenen Fahrzeug testen",
+    "scenarios.driver_training.driver_training.training_rwd.description": "Der Bruckell Moonhawk fährt sich wie ein Schiff, wenn du also beim ersten Versuch diesen Rundkurs schaffst, bist du besser als die meisten meiner Schüler.",
     "scenarios.driver_training.driver_training.training_rwd.nomove.msg": "Du hast ein Hütchen erwischt! Versuche innerhalb der Rüttelstreifen zu bleiben.",
     "scenarios.driver_training.driver_training.training_rwd.timeLimit.msg": "Dieses Auto hat einen V8 Motor mit sehr viel Kraft... benutze sie!",
     "scenarios.driver_training.driver_training.training_rwd.title": "Lektion 9: Fahren mit Heckantrieb",
