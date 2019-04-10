@@ -259,7 +259,7 @@
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.title": "Lektion 1: Beschleunigung und Bremsen",
     "scenarios.driver_training.driver_training.training_advanced.damage.msg": "Böser Unfall, bist du in Ordnung? Das Auto fährt wohl nirgends mehr hin.",
     "scenarios.driver_training.driver_training.training_advanced.defaultWin": "Faszinierend! Lass uns jetzt das Training mit etwas Spaßigem beenden...",
-    "scenarios.driver_training.driver_training.training_advanced.description": "Dieser Kurs wird dir die Techniken und Rennlinien beibringen, die du für fortgeschrittenere schwierige Kurven brauchst",
+    "scenarios.driver_training.driver_training.training_advanced.description": "Du hast den letzten Kurs so einfach gemeistert, also habe ich Dir eine Strecke aufgesetzt mit 4 der schwierigsten Kurven, die ich mir nur denken kann. Viel Glück - Du wirst es brauchen!",
     "scenarios.driver_training.driver_training.training_advanced.nomove.msg": "Du hast ein Hütchen erwischt! Versuche innerhalb der Rüttelstreifen zu bleiben.",
     "scenarios.driver_training.driver_training.training_advanced.timeLimit.msg": "Du hast mehr als {{timeLimit}} Sekunden gebraucht, versuche es erneut mit etwas mehr Geschwindigkeit",
     "scenarios.driver_training.driver_training.training_advanced.title": "Lektion 10: Fortgeschrittenes Kurvenfahren",
