@@ -1766,5 +1766,6 @@
     "ui.busRoute.stopCount": "Anzahl der Haltestellen",
     "ui.modmanager.local": "Lokal",
     "ui.modmanager.show": "Anzeigen",
-    "ui.modmanager.install_on": "Installiert auf"
+    "ui.modmanager.install_on": "Installiert auf",
+    "ui.modmanager.deleteAll": "Lösche alle Repo Erweiterungen"
 }
