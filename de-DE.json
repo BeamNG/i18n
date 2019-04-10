@@ -1664,5 +1664,6 @@
     "ui.trackBuilder.selection.next": "Wähle nächstes Teil",
     "ui.trackBuilder.selection.first": "Wähle erstes Teil",
     "ui.trackBuilder.selection.last": "Wähle letztes Teil",
-    "ui.trackBuilder.toolbar.select": "Wähle Segment"
+    "ui.trackBuilder.toolbar.select": "Wähle Segment",
+    "ui.trackBuilder.toolbar.changeShape": "Streckenform ändern"
 }
