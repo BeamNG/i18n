@@ -1666,5 +1666,5 @@
     "ui.trackBuilder.selection.last": "Wähle letztes Teil",
     "ui.trackBuilder.toolbar.select": "Wähle Segment",
     "ui.trackBuilder.toolbar.changeShape": "Streckenform ändern",
-    "ui.trackBuilder.camera.focus": "Fokussiere auf ausgewähltes Teil"
+    "ui.trackBuilder.camera.focus": "Auf ausgewähltes Teil fokussieren"
 }
