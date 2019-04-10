@@ -267,7 +267,7 @@
     "scenarios.driver_training.driver_training.training_cornering2.5.defaultWin": "Schöne Kurve. Es wird Zeit, dich auf eine richtige Straße zu bringen.",
     "scenarios.driver_training.driver_training.training_cornering2.5.description": "In dem unwahrscheinlichen Fall, dass die Straße nicht geradeaus verläuft, solltest du mit dem Beschleunigen aufhören und das Lenkrad deines Fahrzeugs benutzen. [br][br]Versuche es hier im Kreisel, aber passe auf den rutschigen Bereich auf.",
     "scenarios.driver_training.driver_training.training_cornering2.5.nomove.msg": "du hast etwas getroffen",
-    "scenarios.driver_training.driver_training.training_cornering2.5.timeLimit.msg": "Ich will dich schneller fahren sehen, Du kannst das!",
+    "scenarios.driver_training.driver_training.training_cornering2.5.timeLimit.msg": "Ich will dich schneller fahren sehen.",
     "scenarios.driver_training.driver_training.training_cornering2.5.title": "Lektion 2: Kurven fahren",
     "scenarios.driver_training.driver_training.training_cornerspeedB.damage.msg": "Autos neigen zu schlechterem Kurvenverhalten, nachdem sie gegen Wände gefahren wurden.",
     "scenarios.driver_training.driver_training.training_cornerspeedB.defaultWin": "Gute Arbeit! Wie ich sehe hast du das Konzept der Anpassung deiner Geschwindigkeit in Kurven verstanden.",
