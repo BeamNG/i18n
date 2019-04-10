@@ -1803,5 +1803,6 @@
     "ui.options.camera.cameraDriverFov": "Sichtfeld",
     "ui.options.camera.cameraDriverFovHint": "Sichtfeld für 'Fahrer' Kamera",
     "ui.options.camera.cameraDriverControls": "Sichtfeld erhöhen/verringern:[br][br]Zurück schauen:",
-    "ui.options.camera.cameraDriverControls2": "[action=increase_zoom]/[action=decrease_zoom][br][br][action=rotate_camera_left]+[action=rotate_camera_right]"
+    "ui.options.camera.cameraDriverControls2": "[action=increase_zoom]/[action=decrease_zoom][br][br][action=rotate_camera_left]+[action=rotate_camera_right]",
+    "ui.options.camera.cameraDriverSeatControls": "Bewege Sitz rauf/runter:[br][br]Bewege Sitz zurück/vor:[br][br]Kippe Sitz rauf/runter:"
 }
