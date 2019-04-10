@@ -1772,5 +1772,6 @@
     "ui.modmanager.updateAll": "Alle Mods aktualisieren",
     "ui.modmanager.removeAndUnsub": "Lösche und deabonniere Mod",
     "ui.modmanager.downloading": "Wird Heruntergeladen",
-    "ui.modmanager.downloaded": "Heruntergeladen"
+    "ui.modmanager.downloaded": "Heruntergeladen",
+    "ui.modmanager.installed": "Installiert"
 }
