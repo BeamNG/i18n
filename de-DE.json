@@ -1799,5 +1799,8 @@
     "ui.options.camera.cameraChaseRollSmoothingHint": "0 = Statisch, 100 = Folge Neigung",
     "ui.options.camera.cameraDriverPhysics": "Trägheitsstärke",
     "ui.options.camera.cameraDriverPhysicsHint": "Erlaubt der Kamera sich leicht zu bewegen, in Abhängigkeit der Trägheit",
-    "ui.options.camera.cameraDriverStableHorizon": "Zum Horizont ausrichten"
+    "ui.options.camera.cameraDriverStableHorizon": "Zum Horizont ausrichten",
+    "ui.options.camera.cameraDriverFov": "Sichtfeld",
+    "ui.options.camera.cameraDriverFovHint": "Sichtfeld für 'Fahrer' Kamera",
+    "ui.options.camera.cameraDriverControls": "Sichtfeld erhöhen/verringern:[br][br]Zurück schauen:"
 }
