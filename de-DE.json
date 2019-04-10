@@ -1831,5 +1831,6 @@
     "ui.controls.configuration": "Konfiguration",
     "ui.controls.ffbConfigMissing": "Keine Force Feedback Konfiguration gefunden",
     "ui.controls.availableHardware": "Verfügbare Hardware",
-    "ui.controls.ffbHardwareMissing": "Keine Force-Feedback Hardware gefunden"
+    "ui.controls.ffbHardwareMissing": "Keine Force-Feedback Hardware gefunden",
+    "ui.controls.hardware": "Hardware"
 }
