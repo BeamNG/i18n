@@ -1730,5 +1730,7 @@
     "ui.trackBuilder.settings.cameraFollowDistance": "Kameradistanz",
     "ui.dashboard.trackBuilder": "Strecken Editor",
     "ui.repository.mods": "Modifikationen",
-    "ui.repository.order_by": "Sortieren nach"
+    "ui.repository.order_by": "Sortieren nach",
+    "ui.repository.order_ascendant_short": "aufst",
+    "ui.repository.order_descendant_short": "abst"
 }
