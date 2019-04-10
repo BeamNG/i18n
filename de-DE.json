@@ -339,7 +339,7 @@
     "scenarios.east_coast_usa.car_delivery_2.distance.msg": "Du hast das Auto verloren!",
     "scenarios.east_coast_usa.car_delivery_2.title": "Fahrzeuglieferung 2",
     "scenarios.east_coast_usa.deliverytruck_takedown.damage.msg": "Du hast dein Auto beschädigt",
-    "scenarios.east_coast_usa.deliverytruck_takedown.description": "Halte den gefährlichen Lieferwagen auf!",
+    "scenarios.east_coast_usa.deliverytruck_takedown.description": "Stoppe den flüchtenden Lieferwagen in deinem Gavril Grand Marshal Polizeiauto!",
     "scenarios.east_coast_usa.deliverytruck_takedown.distance.msg": "Du hast dich zu weit vom Verdächtigen entfernt",
     "scenarios.east_coast_usa.deliverytruck_takedown.speed.msg": "Gut gemacht {{time}}",
     "scenarios.east_coast_usa.deliverytruck_takedown.title": "Lieferwagen zerstören",
