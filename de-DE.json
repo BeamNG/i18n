@@ -1783,5 +1783,6 @@
     "ui.playmodes.trackBuilder": "Strecken Editor",
     "ui.options.aids": "Fahrhilfen",
     "ui.options.gameplay.absBehavior": "ABS Modus",
-    "ui.options.gameplay.escBehavior": "ESC"
+    "ui.options.gameplay.escBehavior": "ESC",
+    "ui.options.gameplay.traffic": "Verkehr aktivieren (experimentell - extremer Leistungsverlust)"
 }
