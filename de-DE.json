@@ -1717,5 +1717,9 @@
     "ui.trackBuilder.saveLoad.overwritePreview": "Vorschau überschreiben",
     "ui.trackBuilder.saveLoad.filename": "Dateiname",
     "ui.trackBuilder.saveLoad.save": "Speichern",
-    "ui.trackBuilder.saveLoad.modSaved": "Erfolgreich Strecke und Vorschau in mod Datei gepackt."
+    "ui.trackBuilder.saveLoad.modSaved": "Erfolgreich Strecke und Vorschau in Mod-Datei gepackt.",
+    "ui.trackBuilder.saveLoad.packToMod": "Zu Mod verpacken",
+    "ui.trackBuilder.saveLoad.previewCreated": "Vorschau erfolgreich erstellt ",
+    "ui.trackBuilder.saveLoad.trackWrittenTo": "Strecke erfolgreich gespeichert in ",
+    "ui.trackBuilder.saveLoad.overwrite": "Strecke überschreiben"
 }
