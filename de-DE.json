@@ -1851,5 +1851,6 @@
     "ui.levelselect.x86Disabled": "Bitte verwende die 64-Bit Version, um in dieser Welt spielen zu können.",
     "ui.repository.repo_network_limit": "Ihr Netzwerk ist eingeschränkt oder gedrosselt. Bitte beachten Sie dies beim Herunterladen von Mods.",
     "ui.repository.notOnline": "Verbindung zum Server konnte nicht aufgebaut werden. Wenn das Problem bestehen bleibt gehe zu ",
-    "ui.performance.mods.title": "Anzahl der Mods"
+    "ui.performance.mods.title": "Anzahl der Mods",
+    "ui.performance.mods.stat": "Gepackte Erweiterungen: {{zip}}  Entpackte Erweiterungen: {{unpacked}}"
 }
