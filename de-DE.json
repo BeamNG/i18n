@@ -1761,5 +1761,7 @@
     "ui.busRoute.levelSelect": "Wähle Level",
     "ui.busRoute.routeSelect": "Wähle Route",
     "ui.busRoute.vehicle": "Fahrzeug",
-    "ui.busRoute.strictMode": "Erfordert das stoppen und senken des Busses und das öffnen der Türen."
+    "ui.busRoute.strictMode": "Erfordert das stoppen und senken des Busses und das öffnen der Türen.",
+    "ui.busRoute.simulatePassengers": "Simuliert das Gewicht von Passagieren mit Ballast.",
+    "ui.busRoute.stopCount": "Anzahl der Haltestellen"
 }
