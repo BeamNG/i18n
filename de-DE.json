@@ -1754,5 +1754,6 @@
     "ui.repository.subToMod": "Mod abonnieren",
     "ui.repository.unSubMod": "Mod deabonnieren",
     "ui.repository.updateMod": "Die Modifikation muss aktualisiert werden",
-    "ui.repository.modDownloading": "Mod lädt herunter"
+    "ui.repository.modDownloading": "Mod lädt herunter",
+    "ui.repository.modQueued": "In Warteschlange"
 }
