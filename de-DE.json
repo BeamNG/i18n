@@ -1646,5 +1646,6 @@
     "ui.common.ABSoff": "Immer deaktiviert",
     "ui.common.ABSarcade": "Immer Arcade-ABS",
     "ui.common.ABSrealistic": "Nur realistisches ABS",
-    "ui.modWizard.skinWizard.selectVehicle": "Bitte wähle ein Fahrzeug aus."
+    "ui.modWizard.skinWizard.selectVehicle": "Bitte wähle ein Fahrzeug aus.",
+    "ui.modWizard.skinWizard.skinName": "Bitte wähle für deinen Skin einen Namen."
 }
