@@ -255,7 +255,7 @@
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.description": "Willkommen im ETK Fahrsicherheitszentrum. Mein Name ist Mike, und ich werde dein Instrukteur für diesen Kurs sein. [br] [br] Lass uns schön einfach anfangen - alles was du tun musst ist beschleunigen, und dann anhalten bevor du in die Barriere fährst. Pass auf, dass du bremst, sobald du die Stoppschilder erreichst.",
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.nomove.msg": "Das beult sich wieder aus. Versuch es noch einmal und sei bitte vorsichtiger!",
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.position.msg": "Du hast die Bremszone verpasst",
-    "scenarios.driver_training.driver_training.training_acceleration_braking1.5.timeLimit.msg": "Zu langsam! Das Zeitlimit ist {{timeLimit}} Sekunden",
+    "scenarios.driver_training.driver_training.training_acceleration_braking1.5.timeLimit.msg": "Zu langsam! Du musst für diesen Test tatsächlich das Gaspedal betätigen.",
     "scenarios.driver_training.driver_training.training_acceleration_braking1.5.title": "Lektion 1: Beschleunigung und Bremsen",
     "scenarios.driver_training.driver_training.training_advanced.damage.msg": "Böser Unfall, bist du in Ordnung? Das Auto fährt wohl nirgends mehr hin.",
     "scenarios.driver_training.driver_training.training_advanced.defaultWin": "Faszinierend! Lass uns jetzt das Training mit etwas Spaßigem beenden...",
