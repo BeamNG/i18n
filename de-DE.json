@@ -1841,5 +1841,8 @@
     "ui.trackBuilder.menus.advancedModifiers": "Erweiterte Attribute",
     "ui.trackBuilder.menus.advancedPieces": "Erweiterte Teile",
     "ui.trackBuilder.tooltip.shiftBack": "Bewege Attribut zurück",
-    "ui.trackBuilder.tooltip.shiftForward": "Bewege Attribut nach vorne"
+    "ui.trackBuilder.tooltip.shiftForward": "Bewege Attribut nach vorne",
+    "ui.trackBuilder.advanced.splitPiece": "Teil spalten",
+    "ui.trackBuilder.trackSettings.reversible": "Umkehrbar",
+    "ui.trackBuilder.trackSettings.defaultLaps": "Standard Rundenzahl"
 }
