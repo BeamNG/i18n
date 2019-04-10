@@ -1787,5 +1787,16 @@
     "ui.options.gameplay.traffic": "Verkehr aktivieren (experimentell - extremer Leistungsverlust)",
     "ui.options.camera.emptyListHint": "(Liste nur während des Spiels verfügbar)",
     "ui.options.camera.switchHint": "Zum Wechseln klicken",
-    "ui.options.camera.current": "Aktuelle Kamera"
+    "ui.options.camera.current": "Aktuelle Kamera",
+    "ui.options.camera.cameraCollision": "Kollision",
+    "ui.options.camera.cameraCollisionTooltip": "Schaltet Kollisionen der Kamera mit dem Boden und anderen Objekten an und aus.",
+    "ui.options.camera.cameraOrbitRelaxation": "Folge der Fahrzeugsrichtung",
+    "ui.options.camera.cameraOrbitRelaxationHint": "Niedrigere Werte = Festere Kamera",
+    "ui.options.camera.cameraOrbitFovModifier": "Sichtbereich Modifikator",
+    "ui.options.camera.cameraOrbitFovModifierHint": "Zusätzlicher Sichtbereich unter allen Umständen",
+    "ui.options.camera.cameraOrbitMaxDynamicFovHint": "Das Sichtfeld weitet sich bei erhöhter Geschwindigkeit",
+    "ui.options.camera.cameraChaseRollSmoothing": "Folge seitlicher Fahrzeugneigung",
+    "ui.options.camera.cameraChaseRollSmoothingHint": "0 = Statisch, 100 = Folge Neigung",
+    "ui.options.camera.cameraDriverPhysics": "Trägheitsstärke",
+    "ui.options.camera.cameraDriverPhysicsHint": "Erlaubt der Kamera, in Abhängigkeit der Trägheit, leicht zu schwingen."
 }
