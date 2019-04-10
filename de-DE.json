@@ -1825,5 +1825,6 @@
     "ui.controls.filters.-1": "Automatisch",
     "ui.controls.filters.limitStartSpeed": "Starte bei",
     "ui.controls.filters.limitEndSpeed": "Stoppe bei",
-    "ui.controls.filters.limitMultiplier": "Limitiere auf"
+    "ui.controls.filters.limitMultiplier": "Limitiere auf",
+    "ui.controls.ffb": "Force-Feedback"
 }
