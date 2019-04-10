@@ -1866,5 +1866,6 @@
     "quickrace.italy.mixedHillclimb1.title": "Gemischtes Bergrennen",
     "levels.automation_test_track.info.features": "Teststrecke, Bergrennen, Rally Etappe, Handling-Kurs",
     "levels.west_coast_usa.info.suitablefor": "Rennen, Verfolgungen, Freie Fahrt, Erkundung, Lieferung",
-    "ui.camera.fov": "Sichtfeld: {{degrees | number: 1}} Grad"
+    "ui.camera.fov": "Sichtfeld: {{degrees | number: 1}} Grad",
+    "ui.camera.fovDriver": "Sichtfeld auf {{degrees | number: 1}} deg gestellt für alle Fahrzeuge"
 }
