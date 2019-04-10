@@ -341,7 +341,7 @@
     "scenarios.east_coast_usa.deliverytruck_takedown.damage.msg": "Du hast dein Auto beschädigt",
     "scenarios.east_coast_usa.deliverytruck_takedown.description": "Stoppe den flüchtenden Lieferwagen in deinem Gavril Grand Marshal Polizeiauto!",
     "scenarios.east_coast_usa.deliverytruck_takedown.distance.msg": "Du hast dich zu weit vom Verdächtigen entfernt",
-    "scenarios.east_coast_usa.deliverytruck_takedown.speed.msg": "Gut gemacht {{time}}",
+    "scenarios.east_coast_usa.deliverytruck_takedown.speed.msg": "Gut gemacht! Deine Zeit: {{time}}",
     "scenarios.east_coast_usa.deliverytruck_takedown.title": "Lieferwagen zerstören",
     "scenarios.east_coast_usa.deliverytruck_takedown.wayPointAction.msg": "Stoppe den LKW",
     "scenarios.east_coast_usa.destroy_the_car.damage.msg": "Du hast den Moonhawk in {{timeStr}} zerstört",
