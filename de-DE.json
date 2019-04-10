@@ -1736,5 +1736,7 @@
     "ui.repository.categories": "Kategorien",
     "ui.repository.cat_all": "Alle",
     "ui.repository.shortcuts": "Verknüpfungen",
-    "ui.repository.updates": "Aktualisierungen"
+    "ui.repository.updates": "Aktualisierungen",
+    "ui.repository.scheduled_chk": "Nach Aktualisierungen prüfen",
+    "ui.repository.scheduled_date": "Aktualisierung ist geplant zum"
 }
