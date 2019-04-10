@@ -1854,5 +1854,6 @@
     "ui.performance.mods.title": "Anzahl der Mods",
     "ui.performance.mods.stat": "Gepackte Mods: {{zip}}  Entpackte Mods: {{unpacked}}",
     "ui.performance.mods.lt": "&lt; {{zip}} Gepackte Mods, &lt; {{unpacked}} Entpackte Mods",
-    "ui.performance.warnings.toomanymods": "Es sind möglicherweise zu viele Mods installiert. Deaktiviere einige Mods, falls es zu Leistungsproblemen kommt."
+    "ui.performance.warnings.toomanymods": "Es sind möglicherweise zu viele Mods installiert. Deaktiviere einige Mods, falls es zu Leistungsproblemen kommt.",
+    "ui.performance.warnings.onedrive": "Der Benutzerordner wird mit einem Cloud-Service synchronisiert (z.B.: OneDrive). [url=https://wiki.beamng.com/BeamNG_FAQ#How_do_I_change_the_.27mods.27_folder_location.3F]Bitte ändere den Ort des Benutzerordners[/url] um unerwartetes Verhalten zu vermeiden."
 }
