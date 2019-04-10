@@ -1644,5 +1644,6 @@
     "ui.common.cancel": "Abbrechen",
     "ui.common.off": "Aus",
     "ui.common.ABSoff": "Immer deaktiviert",
-    "ui.common.ABSarcade": "Immer Arcade-ABS"
+    "ui.common.ABSarcade": "Immer Arcade-ABS",
+    "ui.common.ABSrealistic": "Nur realistisches ABS"
 }
