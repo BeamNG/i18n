@@ -273,7 +273,7 @@
     "scenarios.driver_training.driver_training.training_cornerspeedB.defaultWin": "Gute Arbeit! Wie ich sehe hast du das Konzept der Anpassung deiner Geschwindigkeit in Kurven verstanden.",
     "scenarios.driver_training.driver_training.training_cornerspeedB.description": "Du kannst nicht jede Kurve mit jeder Geschwindigkeit nehmen: Halte dich an die Geschwindigkeitsbegrenzungen auf den Schildern, um deinen Erfolg zu garantieren.",
     "scenarios.driver_training.driver_training.training_cornerspeedB.nomove.msg": "Du hast ein Hütchen erwischt. Versuche innerhalb der Rüttelstreifen zu bleiben.",
-    "scenarios.driver_training.driver_training.training_cornerspeedB.timeLimit.msg": "Du hast mehr als {{timeLimit}} Sekunden benötigt, versuche es erneut mit etwas mehr Geschwindigkeit",
+    "scenarios.driver_training.driver_training.training_cornerspeedB.timeLimit.msg": "Es sieht so aus, als ob Du sehr viel langsamer fährst, obwohl der Wagen zu viel mehr imstande wäre.",
     "scenarios.driver_training.driver_training.training_cornerspeedB.title": "Lektion 5: Kurvengeschwindigkeiten",
     "scenarios.driver_training.driver_training.training_driftB.defaultWin": "Gute Arbeit! Du hast das Skidpad mit Gummi bemalt!",
     "scenarios.driver_training.driver_training.training_driftB.description": "Wir machen weiter mit einer kurzen Driftübung. Hierfür wirst du die manuelle Schaltung benutzen. Für die besten Ergebnisse bleibe im 2. Gang. [br][br]Lass den Wagen seitwärts rutschen, um so viele Punkte wie möglich innerhalb der 60 Sekunden Zeitvorgabe zu erreichen.[br][br] Benutze [action=shiftUp] und [action=shiftDown], um die Gänge zu wechseln.",
