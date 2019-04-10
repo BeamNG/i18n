@@ -1642,5 +1642,6 @@
     "quickrace.industrial.track_rt_long.title": "Lange Rennstrecke",
     "quickrace.industrial.track_rt_long.description": "Die längste Konfiguration, beinhaltet den inneren Kurs.",
     "ui.common.cancel": "Abbrechen",
-    "ui.common.off": "Aus"
+    "ui.common.off": "Aus",
+    "ui.common.ABSoff": "Immer deaktiviert"
 }
