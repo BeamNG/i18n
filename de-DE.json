@@ -1818,5 +1818,9 @@
     "ui.options.motionSim.accelerationSmoothingY": "Y",
     "ui.options.motionSim.accelerationSmoothingZ": "Z",
     "ui.options.modAutoUpdates": "Mods automatisch aktualisieren",
-    "ui.options.graphics.DisplayShadows": "Schatten anzeigen"
+    "ui.options.graphics.DisplayShadows": "Schatten anzeigen",
+    "ui.controls.nDevicesDetected": "{{nDevices}} Geräte erkannt",
+    "ui.controls.filter": "Filter",
+    "ui.controls.filters": "Filter",
+    "ui.controls.filters.-1": "Automatisch"
 }
