@@ -1773,5 +1773,6 @@
     "ui.modmanager.removeAndUnsub": "Lösche und deabonniere Mod",
     "ui.modmanager.downloading": "Wird Heruntergeladen",
     "ui.modmanager.downloaded": "Heruntergeladen",
-    "ui.modmanager.installed": "Installiert"
+    "ui.modmanager.installed": "Installiert",
+    "ui.modmanager.unordered": "Unsortiert"
 }
