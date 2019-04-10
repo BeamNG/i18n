@@ -1115,7 +1115,7 @@
     "ui.performance.acknowledged": "Bestätigt",
     "ui.performance.benchmark": "Physik Benchmark",
     "ui.performance.benchmark.isRunningNote": "Bitte warten: Der Benchmark läuft gerade.[br]Dies benötigt eine Minute.",
-    "ui.performance.benchmark.notavailable": "Der Benchmark kann nur zum Spielstart, ohne geladene Level oder Fahrzeuge, ausgeführt werden.",
+    "ui.performance.benchmark.notavailable": "Der Benchmark kann nur vom Hauptmenü gestartet werden.",
     "ui.performance.benchmark.run": "Physik Benchmark ausführen",
     "ui.performance.benchmark.testVehicle": "Test Fahrzeug",
     "ui.performance.benchmark.vehicles": "Fahrzeuge",
