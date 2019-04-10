@@ -1658,5 +1658,11 @@
     "ui.trackBuilder.menus.obstacles": "Hindernisse",
     "ui.trackBuilder.menus.materialEditor": "Material Editor",
     "ui.trackBuilder.menus.checkpoints": "Kontrollpunkte",
-    "ui.trackBuilder.menus.trackSettings": "Strecken-Einstellungen"
+    "ui.trackBuilder.menus.trackSettings": "Strecken-Einstellungen",
+    "ui.trackBuilder.menus.saveLoad": "Speichern und Laden",
+    "ui.trackBuilder.selection.previous": "Wähle voriges Teil",
+    "ui.trackBuilder.selection.next": "Wähle nächstes Teil",
+    "ui.trackBuilder.selection.first": "Wähle erstes Teil",
+    "ui.trackBuilder.selection.last": "Wähle letztes Teil",
+    "ui.trackBuilder.toolbar.select": "Wähle Segment"
 }
