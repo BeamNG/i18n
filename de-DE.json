@@ -1673,5 +1673,6 @@
     "ui.trackBuilder.base.length": "Länge",
     "ui.trackBuilder.base.radius": "Radius",
     "ui.trackBuilder.base.width": "Breite",
-    "ui.trackBuilder.base.height": "Höhe"
+    "ui.trackBuilder.base.height": "Höhe",
+    "ui.trackBuilder.base.banking": "Neigung"
 }
