@@ -1643,5 +1643,6 @@
     "quickrace.industrial.track_rt_long.description": "Die längste Konfiguration, beinhaltet den inneren Kurs.",
     "ui.common.cancel": "Abbrechen",
     "ui.common.off": "Aus",
-    "ui.common.ABSoff": "Immer deaktiviert"
+    "ui.common.ABSoff": "Immer deaktiviert",
+    "ui.common.ABSarcade": "Immer Arcade-ABS"
 }
