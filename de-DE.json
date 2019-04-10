@@ -352,7 +352,7 @@
     "scenarios.east_coast_usa.east_coast_chase_1.damage.msg": "Du hast dein Auto beschädigt",
     "scenarios.east_coast_usa.east_coast_chase_1.description": "Krimineller in der Nähe der Sägemühle berichtet. Fang ihn!",
     "scenarios.east_coast_usa.east_coast_chase_1.distance.msg": "Der Verdächtige ist geflohen",
-    "scenarios.east_coast_usa.east_coast_chase_1.speed.msg": "Gut gemacht {{time}}",
+    "scenarios.east_coast_usa.east_coast_chase_1.speed.msg": "Gut gemacht! Deine Zeit: {{time}}",
     "scenarios.east_coast_usa.east_coast_chase_1.title": "Ostküste Verfolgung 1",
     "scenarios.east_coast_usa.east_coast_chase_1.wayPointAction.msg": "Stoppe den Verdächtigen!",
     "scenarios.east_coast_usa.east_coast_chase_2.damage.msg": "Du hast dein Auto beschädigt",
