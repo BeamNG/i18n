@@ -1756,5 +1756,6 @@
     "ui.repository.updateMod": "Die Modifikation muss aktualisiert werden",
     "ui.repository.modDownloading": "Mod lädt herunter",
     "ui.repository.modQueued": "In Warteschlange",
-    "ui.repository.modDownloaded": "Mod heruntergeladen"
+    "ui.repository.modDownloaded": "Mod heruntergeladen",
+    "ui.quickrace.tracks.length": "Länge"
 }
