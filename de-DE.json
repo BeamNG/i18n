@@ -1086,7 +1086,7 @@
     "ui.options.theme.accent": "Akzent",
     "ui.options.theme.background": "Hintergrund",
     "ui.options.theme.dark": "Dunkles Thema/Design",
-    "ui.options.theme.primary": "Primär",
+    "ui.options.theme.primary": "Primärfarbe",
     "ui.options.theme.reset": "Thema/Design zurücksetzen",
     "ui.options.theme.warn": "Warnen",
     "ui.options.units.dateFormat": "Datumsformat",
