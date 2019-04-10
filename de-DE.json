@@ -1651,5 +1651,6 @@
     "ui.modWizard.skinWizard.howTo": "So werden Skins erstellt",
     "ui.modWizard.skinWizard.filesGenerated": "Skin-Dateien wurden erstellt.",
     "ui.modWizard.skinWizard.openFolder": "Klicke hier um Ordner zu öffnen",
-    "ui.modWizard.skinWizard.viewSkin": "Skin anzeigen"
+    "ui.modWizard.skinWizard.viewSkin": "Skin anzeigen",
+    "ui.modWizard.skinWizard.editFile": "Um deinen Skin zu bearbeiten, öffne einfach die Datei <skin_name>.dds in einem kompatiblen Editor, z.B. Paint.Net."
 }
