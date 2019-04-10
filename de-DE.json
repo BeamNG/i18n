@@ -1735,5 +1735,6 @@
     "ui.repository.order_descendant_short": "abst",
     "ui.repository.categories": "Kategorien",
     "ui.repository.cat_all": "Alle",
-    "ui.repository.shortcuts": "Verknüpfungen"
+    "ui.repository.shortcuts": "Verknüpfungen",
+    "ui.repository.updates": "Aktualisierungen"
 }
