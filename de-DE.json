@@ -592,7 +592,7 @@
     "scenarios.utah.chapter_1.chapter_1_rubberband.description": "Kapitel 1: Gummiband - Statistiken: erhaltener Schaden, benötigte Zeit, wie weit du es über den Fluss geschafft hast, Punktzahl: wie weit du es über den Fluss geschafft hast, Fehlschlag: Gummiband nicht aktiviert, ersten Wegpunkt nicht erreicht, Anmerkungen: brauchen einen Knopf, der einen Gummibandeffekt aktiviert, das dein Auto mit der Seite der Straße verbindet, solange du den Knopf hältst, beim Aktivieren wird es dich über den Fluss schleudern",
     "scenarios.utah.chapter_1.chapter_1_rubberband.timeLimit.msg": "Du hast mehr als {{timeLimit}} Sekunden gebraucht",
     "scenarios.utah.chapter_1.chapter_1_rubberband.title": "Gummiband",
-    "scenarios.utah.chapter_1.chapter_1_suspension.description": "Kapitel 1: Aufhängung - Statistiken: benötigte Zeit, erhaltener Schaden, Punktzahl = (benötigte Zeit + erhaltener Schaden), Fehlschlag: hat nicht alle Checkpoints abgeschlossen",
+    "scenarios.utah.chapter_1.chapter_1_suspension.description": "Fahre über schwieriges Gelände und setze die Federung auf den Prüfstand.",
     "scenarios.utah.chapter_1.chapter_1_suspension.fail.msg": "Du hast den Kurs nicht beendet",
     "scenarios.utah.chapter_1.chapter_1_suspension.followpath.fail.msg": "Du hast den Kurs nicht beendet.",
     "scenarios.utah.chapter_1.chapter_1_suspension.pass.msg": "Kurs beendet",
