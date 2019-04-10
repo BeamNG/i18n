@@ -1746,5 +1746,6 @@
     "ui.repository.scheduled_upd": "Aktualisiere Mods",
     "ui.repository.scheduled_conflicts": "Konflikte",
     "ui.repository.scheduled_no_conflict": "Kein Konflikt",
-    "ui.modmanager.openForumDiscussion": "Öffne Diskussions-Thread"
+    "ui.modmanager.openForumDiscussion": "Öffne Diskussions-Thread",
+    "ui.repository.loading": "Lädt ..."
 }
