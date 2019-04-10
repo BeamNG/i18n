@@ -1679,5 +1679,6 @@
     "ui.trackBuilder.tooltip.remove": "Entfernen",
     "ui.trackBuilder.tooltip.reset": "Zurücksetzen",
     "ui.trackBuilder.tooltip.addObstacle": "Hindernis hinzufügen",
-    "ui.trackBuilder.tooltip.morning": "Morgen"
+    "ui.trackBuilder.tooltip.morning": "Morgen",
+    "ui.trackBuilder.tooltip.noon": "Mittag"
 }
