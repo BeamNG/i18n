@@ -1822,5 +1822,6 @@
     "ui.controls.nDevicesDetected": "{{nDevices}} Geräte erkannt",
     "ui.controls.filter": "Filter",
     "ui.controls.filters": "Filter",
-    "ui.controls.filters.-1": "Automatisch"
+    "ui.controls.filters.-1": "Automatisch",
+    "ui.controls.filters.limitStartSpeed": "Starte bei"
 }
