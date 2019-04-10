@@ -1865,5 +1865,6 @@
     "quickrace.italy.gravelHillclimb2.title": "Schotter Bergrennen 2",
     "quickrace.italy.mixedHillclimb1.title": "Gemischtes Bergrennen",
     "levels.automation_test_track.info.features": "Teststrecke, Bergrennen, Rally Etappe, Handling-Kurs",
-    "levels.west_coast_usa.info.suitablefor": "Rennen, Verfolgungen, Freie Fahrt, Erkundung, Lieferung"
+    "levels.west_coast_usa.info.suitablefor": "Rennen, Verfolgungen, Freie Fahrt, Erkundung, Lieferung",
+    "ui.camera.fov": "Sichtfeld: {{degrees | number: 1}} deg"
 }
