@@ -277,7 +277,7 @@
     "scenarios.driver_training.driver_training.training_cornerspeedB.title": "Lektion 5: Kurvengeschwindigkeiten",
     "scenarios.driver_training.driver_training.training_driftB.defaultWin": "Gute Arbeit! Du hast das Skidpad mit Gummi bemalt!",
     "scenarios.driver_training.driver_training.training_driftB.description": "Wir machen weiter mit einer kurzen Driftübung. Hierfür wirst du die manuelle Schaltung benutzen. Für die besten Ergebnisse bleibe im 2. Gang. [br][br]Lass den Wagen seitwärts rutschen, um so viele Punkte wie möglich innerhalb der 60 Sekunden Zeitvorgabe zu erreichen.[br][br] Benutze [action=shiftUp] und [action=shiftDown], um die Gänge zu wechseln.",
-    "scenarios.driver_training.driver_training.training_driftB.drift.fail.msg": "Das nennst du Driften? Fahre schneller und seitlicher! Deine Punktzahl:",
+    "scenarios.driver_training.driver_training.training_driftB.drift.fail.msg": "Das nennst du Driften? Fahre schneller und seitlicher! Deine Punktzahl: {{score}}}",
     "scenarios.driver_training.driver_training.training_driftB.drift.msg": "Sehr gut, du hast das Skidpad mit Gummi bemalt! Deine Punktzahl:",
     "scenarios.driver_training.driver_training.training_driftB.title": "Lektion 11: Driften",
     "scenarios.driver_training.driver_training.training_easycircuit.damage.msg": "Dieses Auto wird einige ernsthafte Reparaturarbeiten benötigen.",
