@@ -526,7 +526,7 @@
     "scenarios.small_island.cop_chase.damage.msg": "Du hast deinen Wagen zerstört",
     "scenarios.small_island.cop_chase.description": "Schalte den Pessima mit deinem Sunburst Polizeiauto aus.",
     "scenarios.small_island.cop_chase.distance.msg": "Der Verdächtige ist entkommen",
-    "scenarios.small_island.cop_chase.speed.msg": "Gut gemacht {{time}}",
+    "scenarios.small_island.cop_chase.speed.msg": "Gut gemacht! Du hast {{time}} gebraucht.",
     "scenarios.small_island.cop_chase.title": "Small Island Verfolgung",
     "scenarios.small_island.cop_chase.wayPointAction.wayPointMsg": "Halte den Pessima auf!",
     "scenarios.small_island.intro_rally_stage1.description": "Eine einführende Rally Strecke",
