@@ -1750,5 +1750,9 @@
     "ui.repository.loading": "Lädt ...",
     "ui.repository.loadingTimedOut": "Dies dauert länger als gewöhnlich. Sollte das Problem weiterhin bestehen, bitte kontaktiere unser ",
     "ui.repository.support": "Support",
-    "ui.repository.notOnline_here": "Hier"
+    "ui.repository.notOnline_here": "Hier",
+    "ui.repository.subToMod": "Mod abonnieren",
+    "ui.repository.unSubMod": "Mod deabonnieren",
+    "ui.repository.updateMod": "Die Modifikation muss aktualisiert werden",
+    "ui.repository.modDownloading": "Mod lädt herunter"
 }
