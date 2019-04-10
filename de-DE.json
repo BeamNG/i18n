@@ -1749,5 +1749,6 @@
     "ui.modmanager.openForumDiscussion": "Öffne Diskussions-Thread",
     "ui.repository.loading": "Lädt ...",
     "ui.repository.loadingTimedOut": "Dies dauert länger als gewöhnlich. Sollte das Problem weiterhin bestehen, bitte kontaktiere unser ",
-    "ui.repository.support": "Support"
+    "ui.repository.support": "Support",
+    "ui.repository.notOnline_here": "Hier"
 }
