@@ -301,7 +301,7 @@
     "scenarios.driver_training.driver_training.training_rwd.damage.msg": "Das Auto braucht auf jeden Fall einige Reparaturarbeiten, bevor es wieder fahren kann.",
     "scenarios.driver_training.driver_training.training_rwd.defaultWin": "Gut gemacht! So langsam hast du den Dreh raus.",
     "scenarios.driver_training.driver_training.training_rwd.description": "Der Bruckell Moonhawk fährt sich wie ein Schiff, wenn du also beim ersten Versuch diesen Rundkurs schaffst, bist du besser als die meisten meiner Schüler.",
-    "scenarios.driver_training.driver_training.training_rwd.nomove.msg": "Du hast ein Hütchen erwischt! Versuche innerhalb der Rüttelstreifen zu bleiben.",
+    "scenarios.driver_training.driver_training.training_rwd.nomove.msg": "Pass auf die Hütchen auf! Vergiss nicht, dass dieses Auto sich nicht ganz so gut steuern lässt als manche der anderen, die du gefahren bist.",
     "scenarios.driver_training.driver_training.training_rwd.timeLimit.msg": "Dieses Auto hat einen V8 Motor mit sehr viel Kraft... benutze sie!",
     "scenarios.driver_training.driver_training.training_rwd.title": "Lektion 9: Fahren mit Heckantrieb",
     "scenarios.driver_training.driver_training.training_slalom.damage.msg": "Schätze, ich hätte die Barriere weiter weg aufbauen sollen!",
