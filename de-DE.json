@@ -1853,5 +1853,6 @@
     "ui.repository.notOnline": "Verbindung zum Server konnte nicht aufgebaut werden. Wenn das Problem bestehen bleibt gehe zu ",
     "ui.performance.mods.title": "Anzahl der Mods",
     "ui.performance.mods.stat": "Gepackte Mods: {{zip}}  Entpackte Mods: {{unpacked}}",
-    "ui.performance.mods.lt": "&lt; {{zip}} Gepackte Mods, &lt; {{unpacked}} Entpackte Mods"
+    "ui.performance.mods.lt": "&lt; {{zip}} Gepackte Mods, &lt; {{unpacked}} Entpackte Mods",
+    "ui.performance.warnings.toomanymods": "Es sind möglicherweise zu viele Erweiterungen installiert. Deaktiviere unbenutzte Erweiterungen, falls es zu Performance Problemen kommt."
 }
