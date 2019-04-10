@@ -1645,5 +1645,6 @@
     "ui.common.off": "Aus",
     "ui.common.ABSoff": "Immer deaktiviert",
     "ui.common.ABSarcade": "Immer Arcade-ABS",
-    "ui.common.ABSrealistic": "Nur realistisches ABS"
+    "ui.common.ABSrealistic": "Nur realistisches ABS",
+    "ui.modWizard.skinWizard.selectVehicle": "Bitte wähle ein Fahrzeug aus."
 }
