@@ -1837,5 +1837,9 @@
     "ui.modWizard.skinWizard.intro": "Willkommen im Tool zur Skin-Erstellung. In den folgenden Schritten bekommst du einen Überblick, wie du einen Skin für jedes offizielle BeamNG.Drive Fahrzeug erstellen kannst.",
     "ui.modWizard.skinWizard.desc": "Zur Demonstration verwenden wir SkinExample als Namen für den Skin. Die beiden zu bearbeitenden Dateien wurden auf dem rechten Bild zusammengeführt. Wenn du die Skin-Dateien öffnest, kannst du auf \"weiter\" klicken, um diesen Skin im Spiel zu laden, oder um das Skin-Erstellungs-Tool zu beenden.",
     "ui.modWizard.skinWizard.left": "Auf der linken Seite des Bildes siehst du die Datei \"SkinExample.dds\". Dort wird der Hauptteil deines Skins erstellt. Male einfach über die weißen Bereiche, wie es dir gefällt.",
-    "ui.modWizard.skinWizard.right": "Auf der rechten Seite siehst du die Datei \"SkinExample_palette_uv1.dds\". Dieses Bild definiert, welche Teile von deinem Skin in der Farbauswahl im Spiel eingefärbt werden sollen. Rot ist die erste Farbe, Grün die zweite und Blau ist die dritte Farbe. Sollte es transparent sein, so wird nichts eingefärbt."
+    "ui.modWizard.skinWizard.right": "Auf der rechten Seite siehst du die Datei \"SkinExample_palette_uv1.dds\". Dieses Bild definiert, welche Teile von deinem Skin in der Farbauswahl im Spiel eingefärbt werden sollen. Rot ist die erste Farbe, Grün die zweite und Blau ist die dritte Farbe. Sollte es transparent sein, so wird nichts eingefärbt.",
+    "ui.trackBuilder.menus.advancedModifiers": "Erweiterte Attribute",
+    "ui.trackBuilder.menus.advancedPieces": "Erweiterte Teile",
+    "ui.trackBuilder.tooltip.shiftBack": "Bewege Attribut zurück",
+    "ui.trackBuilder.tooltip.shiftForward": "Bewege Attribut nach vorne"
 }
