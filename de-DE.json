@@ -1844,5 +1844,8 @@
     "ui.trackBuilder.tooltip.shiftForward": "Bewege Attribut nach vorne",
     "ui.trackBuilder.advanced.splitPiece": "Teil spalten",
     "ui.trackBuilder.trackSettings.reversible": "Umkehrbar",
-    "ui.trackBuilder.trackSettings.defaultLaps": "Standard Rundenzahl"
+    "ui.trackBuilder.trackSettings.defaultLaps": "Standard Rundenzahl",
+    "ui.trackBuilder.trackSettings.trackTransform": "Strecke transformieren",
+    "ui.trackBuilder.saveLoad.trackLoaded": "Strecke geladen",
+    "ui.trackBuilder.settings.cameraFollow": "Automatische Kamera: Folgen"
 }
