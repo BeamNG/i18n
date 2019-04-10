@@ -1038,7 +1038,7 @@
     "ui.options.gameplay": "Gameplay",
     "ui.options.gameplay.competitiveScenarios": "Wettbewerbsbedingungen",
     "ui.options.gameplay.controlOnBlur": "Controllereingabe und Force Feedback erlauben, wenn das Fenster nicht aktiv ist",
-    "ui.options.gameplay.defaultToCurrentVehicle": "Aktuelles Fahrzeug als Standard verwenden",
+    "ui.options.gameplay.defaultToCurrentVehicle": "Standardfahrzeug ersetzen.",
     "ui.options.gameplay.enginesPreheated": "Fahrzeugmotoren vorgewärmt starten",
     "ui.options.gameplay.gameplay": "Gameplay",
     "ui.options.gameplay.multiseat": "Mehrspieler in dieser Sitzung nutzen",
