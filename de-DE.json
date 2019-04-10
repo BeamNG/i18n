@@ -1744,5 +1744,6 @@
     "ui.repository.scheduled_chking": "Überprüfe Modifikation: {[{checkingMod}}",
     "ui.repository.scheduled_nothing": "Derzeit sind keine Aktualisierungen geplant.",
     "ui.repository.scheduled_upd": "Aktualisiere Mods",
-    "ui.repository.scheduled_conflicts": "Konflikte"
+    "ui.repository.scheduled_conflicts": "Konflikte",
+    "ui.repository.scheduled_no_conflict": "Kein Konflikt"
 }
