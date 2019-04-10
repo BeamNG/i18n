@@ -1707,5 +1707,15 @@
     "ui.trackBuilder.trackSettings.fog": "Nebel",
     "ui.trackBuilder.trackSettings.raceSettings": "Renneinstellungen",
     "ui.trackBuilder.trackSettings.position": "Position",
-    "ui.trackBuilder.trackSettings.rotation": "Rotation"
+    "ui.trackBuilder.trackSettings.rotation": "Rotation",
+    "ui.trackBuilder.trackSettings.alignTrackToCam": "Kamera auf die Strecke ausrichten",
+    "ui.trackBuilder.trackSettings.positionTrackBeforeCam": "Positioniere Strecke vor der Kamera",
+    "ui.trackBuilder.trackSettings.alignTrackToVehicle": "Richte Strecke nach Fahrzeug aus",
+    "ui.trackBuilder.trackSettings.positionTrackAboveVehicle": "Setze Strecke über Fahrzeug",
+    "ui.trackBuilder.saveLoad.saveTrack": "Strecke speichern",
+    "ui.trackBuilder.saveLoad.createPreview": "Vorschau erstellen",
+    "ui.trackBuilder.saveLoad.overwritePreview": "Vorschau überschreiben",
+    "ui.trackBuilder.saveLoad.filename": "Dateiname",
+    "ui.trackBuilder.saveLoad.save": "Speichern",
+    "ui.trackBuilder.saveLoad.modSaved": "Erfolgreich Strecke und Vorschau in mod Datei gepackt."
 }
