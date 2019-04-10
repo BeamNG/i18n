@@ -1774,5 +1774,7 @@
     "ui.modmanager.downloading": "Wird Heruntergeladen",
     "ui.modmanager.downloaded": "Heruntergeladen",
     "ui.modmanager.installed": "Installiert",
-    "ui.modmanager.unordered": "Unsortiert"
+    "ui.modmanager.unordered": "Unsortiert",
+    "ui.modmanager.activateTip": "Diesen Mod aktivieren",
+    "ui.modmanager.deactivateTip": "Diesen Mod deaktivieren"
 }
