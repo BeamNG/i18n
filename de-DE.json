@@ -1739,5 +1739,6 @@
     "ui.repository.updates": "Aktualisierungen",
     "ui.repository.scheduled_chk": "Nach Aktualisierungen prüfen",
     "ui.repository.scheduled_date": "Aktualisierung ist geplant zum",
-    "ui.repository.scheduled_reason": "Grund"
+    "ui.repository.scheduled_reason": "Grund",
+    "ui.repository.scheduled_status": "Status"
 }
