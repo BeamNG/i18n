@@ -1729,5 +1729,6 @@
     "ui.trackBuilder.saveLoad.difficulty": "Schwierigkeit",
     "ui.trackBuilder.settings.cameraFollowDistance": "Kameradistanz",
     "ui.dashboard.trackBuilder": "Strecken Editor",
-    "ui.repository.mods": "Modifikationen"
+    "ui.repository.mods": "Modifikationen",
+    "ui.repository.order_by": "Sortieren nach"
 }
