@@ -1649,5 +1649,6 @@
     "ui.modWizard.skinWizard.selectVehicle": "Bitte wähle ein Fahrzeug aus.",
     "ui.modWizard.skinWizard.skinName": "Bitte wähle für deinen Skin einen Namen.",
     "ui.modWizard.skinWizard.howTo": "So werden Skins erstellt",
-    "ui.modWizard.skinWizard.filesGenerated": "Skin-Dateien wurden erstellt."
+    "ui.modWizard.skinWizard.filesGenerated": "Skin-Dateien wurden erstellt.",
+    "ui.modWizard.skinWizard.openFolder": "Klicke hier um Ordner zu öffnen"
 }
