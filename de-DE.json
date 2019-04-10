@@ -1767,5 +1767,7 @@
     "ui.modmanager.local": "Lokal",
     "ui.modmanager.show": "Anzeigen",
     "ui.modmanager.install_on": "Installiert auf",
-    "ui.modmanager.deleteAll": "Lösche alle Repo Erweiterungen"
+    "ui.modmanager.deleteAll": "Lösche alle Repo Mods",
+    "ui.modmanager.deleteAllDesc": "Bist du sicher, dass du alle Repository Mods deabonnieren und löschen willst?",
+    "ui.modmanager.updateAll": "Alle Mods aktualisieren"
 }
