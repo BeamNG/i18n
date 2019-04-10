@@ -1704,5 +1704,8 @@
     "ui.trackBuilder.trackSettings.environmentSettings": "Umgebungseinstellungen",
     "ui.trackBuilder.trackSettings.time": "Zeit",
     "ui.trackBuilder.trackSettings.azimuth": "Azimut",
-    "ui.trackBuilder.trackSettings.fog": "Nebel"
+    "ui.trackBuilder.trackSettings.fog": "Nebel",
+    "ui.trackBuilder.trackSettings.raceSettings": "Renneinstellungen",
+    "ui.trackBuilder.trackSettings.position": "Position",
+    "ui.trackBuilder.trackSettings.rotation": "Rotation"
 }
