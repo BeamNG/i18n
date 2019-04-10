@@ -1757,5 +1757,7 @@
     "ui.repository.modDownloading": "Mod lädt herunter",
     "ui.repository.modQueued": "In Warteschlange",
     "ui.repository.modDownloaded": "Mod heruntergeladen",
-    "ui.quickrace.tracks.length": "Länge"
+    "ui.quickrace.tracks.length": "Länge",
+    "ui.busRoute.levelSelect": "Wähle Level",
+    "ui.busRoute.routeSelect": "Wähle Route"
 }
