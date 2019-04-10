@@ -1805,5 +1805,8 @@
     "ui.options.camera.cameraDriverControls": "Sichtfeld erhöhen/verringern:[br][br]Zurück schauen:",
     "ui.options.camera.cameraDriverControls2": "[action=increase_zoom]/[action=decrease_zoom][br][br][action=rotate_camera_left]+[action=rotate_camera_right]",
     "ui.options.camera.cameraDriverSeatControls": "Bewege Sitz rauf/runter:[br][br]Bewege Sitz zurück/vor:[br][br]Kippe Sitz rauf/runter:",
-    "ui.options.camera.cameraDriverSeatControls2": "[action=moveup]/[action=movedown][br][br][action=movebackward]/[action=moveforward][br][br][action=moveleft]/[action=moveright]"
+    "ui.options.camera.cameraDriverSeatControls2": "[action=moveup]/[action=movedown][br][br][action=movebackward]/[action=moveforward][br][br][action=moveleft]/[action=moveright]",
+    "ui.options.camera.cameraDriverResetSeat": "Setze Sitzposition für Fahrzeugserie zurück",
+    "ui.options.camera.cameraDriverResetSeatAll": "Setze Sitzposition für alle Fahrzeuge zurück",
+    "ui.options.camera.cameraExternalControls": "Ändere TV Winkel: [br][br]Zoom rein/raus:"
 }
