@@ -1781,5 +1781,6 @@
     "ui.apps.bus_route_stats.name": "Bus Routen Statistik",
     "ui.playmodes.bus": "Bus Routen",
     "ui.playmodes.trackBuilder": "Strecken Editor",
-    "ui.options.aids": "Fahrhilfen"
+    "ui.options.aids": "Fahrhilfen",
+    "ui.options.gameplay.absBehavior": "ABS Modus"
 }
