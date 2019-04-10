@@ -1667,6 +1667,7 @@
     "ui.trackBuilder.toolbar.select": "Wähle Segment",
     "ui.trackBuilder.toolbar.changeShape": "Streckenform ändern",
     "ui.trackBuilder.camera.focus": "Auf ausgewähltes Teil fokussieren",
-    "ui.trackBuilder.base.delete": "Lösche aktuelles Segment",
-    "ui.trackBuilder.base.closeTrack": "Schließe Strecke"
+    "ui.trackBuilder.base.delete": "Aktuelles Segment löschen",
+    "ui.trackBuilder.base.closeTrack": "Strecke schließen",
+    "ui.trackBuilder.base.testDrive": "Startet von dem ausgewählten Teil"
 }
