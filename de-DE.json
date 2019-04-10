@@ -1748,5 +1748,6 @@
     "ui.repository.scheduled_no_conflict": "Kein Konflikt",
     "ui.modmanager.openForumDiscussion": "Öffne Diskussions-Thread",
     "ui.repository.loading": "Lädt ...",
-    "ui.repository.loadingTimedOut": "Dies dauert länger als gewöhnlich. Sollte dieses Problem weiterhin bestehen, dann kontaktiere uns."
+    "ui.repository.loadingTimedOut": "Dies dauert länger als gewöhnlich. Sollte das Problem weiterhin bestehen, bitte kontaktiere unser ",
+    "ui.repository.support": "Support"
 }
