@@ -1776,5 +1776,10 @@
     "ui.modmanager.installed": "Installiert",
     "ui.modmanager.unordered": "Unsortiert",
     "ui.modmanager.activateTip": "Diesen Mod aktivieren",
-    "ui.modmanager.deactivateTip": "Diesen Mod deaktivieren"
+    "ui.modmanager.deactivateTip": "Diesen Mod deaktivieren",
+    "ui.credits.soundtrack": "Soundtrack",
+    "ui.apps.bus_route_stats.name": "Bus Routen Statistik",
+    "ui.playmodes.bus": "Bus Routen",
+    "ui.playmodes.trackBuilder": "Strecken Editor",
+    "ui.options.aids": "Fahrhilfe"
 }
