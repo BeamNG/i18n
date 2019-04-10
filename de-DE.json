@@ -295,7 +295,7 @@
     "scenarios.driver_training.driver_training.training_lanechange.damage.msg": "Unsere Versicherung wird das nicht freuen...",
     "scenarios.driver_training.driver_training.training_lanechange.defaultWin": "Gut gemacht! Der Civetta Bolide kann für Anfänger fordernd sein.",
     "scenarios.driver_training.driver_training.training_lanechange.description": "Spurwechsel bei hohen Geschwindigkeiten benötigen eine ruhige Hand am Lenkrad. Hast du, was es braucht, um ein 80er Supercar zu kontrollieren?",
-    "scenarios.driver_training.driver_training.training_lanechange.nomove.msg": "Du hast ein Hütchen erwischt! Versuche innerhalb der Rüttelstreifen zu bleiben.",
+    "scenarios.driver_training.driver_training.training_lanechange.nomove.msg": "Ich sehe, dass du ein Hütchen getroffen hast... dies bedeutet, dass du die Strecke verlassen hast!",
     "scenarios.driver_training.driver_training.training_lanechange.timeLimit.msg": "Du solltest doch so schnell wie auf einem Highway fahren, oder?",
     "scenarios.driver_training.driver_training.training_lanechange.title": "Lektion 4: Spurwechsel",
     "scenarios.driver_training.driver_training.training_rwd.damage.msg": "Das Auto braucht auf jeden Fall einige Reparaturarbeiten, bevor es wieder fahren kann.",
