@@ -1653,5 +1653,8 @@
     "ui.modWizard.skinWizard.openFolder": "Klicke hier um Ordner zu öffnen",
     "ui.modWizard.skinWizard.viewSkin": "Skin anzeigen",
     "ui.modWizard.skinWizard.editFile": "Um deinen Skin zu bearbeiten, öffne einfach die Datei <skin_name>.dds in einem kompatiblen .dds Editor, z.B. Paint.Net.",
-    "ui.trackBuilder.menus.trackShape": "Streckenform"
+    "ui.trackBuilder.menus.trackShape": "Streckenform",
+    "ui.trackBuilder.menus.wallsCeiling": "Wände und Decken",
+    "ui.trackBuilder.menus.obstacles": "Hindernisse",
+    "ui.trackBuilder.menus.materialEditor": "Material Editor"
 }
