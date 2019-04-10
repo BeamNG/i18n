@@ -1809,5 +1809,12 @@
     "ui.options.camera.cameraDriverResetSeat": "Setze Sitzposition für Fahrzeugserie zurück",
     "ui.options.camera.cameraDriverResetSeatAll": "Setze Sitzposition für alle Fahrzeuge zurück",
     "ui.options.camera.cameraExternalControls": "Ändere TV Winkel: [br][br]Zoom rein/raus:",
-    "ui.options.camera.cameraExternalControls2": "[action=center_camera][br][br][action=increase_zoom]/[action=decrease_zoom]"
+    "ui.options.camera.cameraExternalControls2": "[action=center_camera][br][br][action=increase_zoom]/[action=decrease_zoom]",
+    "ui.options.utilities.highPerformancePlan": "Erzwinge High-Performance Modus",
+    "ui.options.motionSim": "MotionSim",
+    "ui.options.motionSim.enabled": "MotionSim an",
+    "ui.options.motionSim.updateRate": "Update Rate",
+    "ui.options.motionSim.accelerationSmoothingX": "X",
+    "ui.options.motionSim.accelerationSmoothingY": "Y",
+    "ui.options.motionSim.accelerationSmoothingZ": "Z"
 }
