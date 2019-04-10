@@ -1763,5 +1763,8 @@
     "ui.busRoute.vehicle": "Fahrzeug",
     "ui.busRoute.strictMode": "Erfordert das stoppen und senken des Busses und das öffnen der Türen.",
     "ui.busRoute.simulatePassengers": "Simuliert das Gewicht von Passagieren mit Ballast.",
-    "ui.busRoute.stopCount": "Anzahl der Haltestellen"
+    "ui.busRoute.stopCount": "Anzahl der Haltestellen",
+    "ui.modmanager.local": "Lokal",
+    "ui.modmanager.show": "Anzeigen",
+    "ui.modmanager.install_on": "Installiert auf"
 }
