@@ -1826,5 +1826,8 @@
     "ui.controls.filters.limitStartSpeed": "Starte bei",
     "ui.controls.filters.limitEndSpeed": "Stoppe bei",
     "ui.controls.filters.limitMultiplier": "Limitiere auf",
-    "ui.controls.ffb": "Force-Feedback"
+    "ui.controls.ffb": "Force-Feedback",
+    "ui.controls.filters.limitEnabled": "Lenkung bei höherer Geschwindigkeit einschränken",
+    "ui.controls.configuration": "Konfiguration",
+    "ui.controls.ffbConfigMissing": "Keine Force Feedback Konfiguration gefunden"
 }
