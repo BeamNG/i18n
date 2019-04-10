@@ -1721,5 +1721,12 @@
     "ui.trackBuilder.saveLoad.packToMod": "Zu Mod verpacken",
     "ui.trackBuilder.saveLoad.previewCreated": "Vorschau erfolgreich erstellt ",
     "ui.trackBuilder.saveLoad.trackWrittenTo": "Strecke erfolgreich gespeichert in ",
-    "ui.trackBuilder.saveLoad.overwrite": "Strecke überschreiben"
+    "ui.trackBuilder.saveLoad.overwrite": "Strecke überschreiben",
+    "ui.trackBuilder.saveLoad.saveTimeSettings": "Speichere Zeiteinstellungen",
+    "ui.trackBuilder.saveLoad.loadTrack": "Strecke laden",
+    "ui.trackBuilder.saveLoad.search": "Suche",
+    "ui.trackBuilder.saveLoad.description": "Beschreibung",
+    "ui.trackBuilder.saveLoad.difficulty": "Schwierigkeit",
+    "ui.trackBuilder.settings.cameraFollowDistance": "Kameradistanz",
+    "ui.dashboard.trackBuilder": "Strecken Editor"
 }
