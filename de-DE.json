@@ -1798,5 +1798,6 @@
     "ui.options.camera.cameraChaseRollSmoothing": "Folge seitlicher Fahrzeugneigung",
     "ui.options.camera.cameraChaseRollSmoothingHint": "0 = Statisch, 100 = Folge Neigung",
     "ui.options.camera.cameraDriverPhysics": "Trägheitsstärke",
-    "ui.options.camera.cameraDriverPhysicsHint": "Erlaubt der Kamera, in Abhängigkeit der Trägheit, leicht zu schwingen."
+    "ui.options.camera.cameraDriverPhysicsHint": "Erlaubt der Kamera sich leicht zu bewegen, in Abhängigkeit der Trägheit",
+    "ui.options.camera.cameraDriverStableHorizon": "Zum Horizont ausrichten"
 }
