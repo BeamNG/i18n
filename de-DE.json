@@ -1677,5 +1677,6 @@
     "ui.trackBuilder.base.banking": "Neigung",
     "ui.trackBuilder.tooltip.modify": "Modifizieren",
     "ui.trackBuilder.tooltip.remove": "Entfernen",
-    "ui.trackBuilder.tooltip.reset": "Zurücksetzen"
+    "ui.trackBuilder.tooltip.reset": "Zurücksetzen",
+    "ui.trackBuilder.tooltip.addObstacle": "Hindernis hinzufügen"
 }
