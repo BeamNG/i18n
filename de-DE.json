@@ -1656,5 +1656,6 @@
     "ui.trackBuilder.menus.trackShape": "Streckenform",
     "ui.trackBuilder.menus.wallsCeiling": "Wände und Decken",
     "ui.trackBuilder.menus.obstacles": "Hindernisse",
-    "ui.trackBuilder.menus.materialEditor": "Material Editor"
+    "ui.trackBuilder.menus.materialEditor": "Material Editor",
+    "ui.trackBuilder.menus.checkpoints": "Kontrollpunkte"
 }
