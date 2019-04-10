@@ -1674,5 +1674,8 @@
     "ui.trackBuilder.base.radius": "Radius",
     "ui.trackBuilder.base.width": "Breite",
     "ui.trackBuilder.base.height": "Höhe",
-    "ui.trackBuilder.base.banking": "Neigung"
+    "ui.trackBuilder.base.banking": "Neigung",
+    "ui.trackBuilder.tooltip.modify": "Modifizieren",
+    "ui.trackBuilder.tooltip.remove": "Entfernen",
+    "ui.trackBuilder.tooltip.reset": "Zurücksetzen"
 }
