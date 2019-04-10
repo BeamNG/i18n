@@ -1849,5 +1849,6 @@
     "ui.trackBuilder.saveLoad.trackLoaded": "Strecke geladen",
     "ui.trackBuilder.settings.cameraFollow": "Automatische Kamera: Folgen",
     "ui.levelselect.x86Disabled": "Bitte verwende die 64-Bit Version, um in dieser Welt spielen zu können.",
-    "ui.repository.repo_network_limit": "Ihr Netzwerk ist eingeschränkt oder gedrosselt. Bitte beachten Sie dies beim Herunterladen von Mods."
+    "ui.repository.repo_network_limit": "Ihr Netzwerk ist eingeschränkt oder gedrosselt. Bitte beachten Sie dies beim Herunterladen von Mods.",
+    "ui.repository.notOnline": "Verbindung zum Server konnte nicht aufgebaut werden. Wenn das Problem besteht gehe zu "
 }
