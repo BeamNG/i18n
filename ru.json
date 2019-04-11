@@ -2314,5 +2314,6 @@
     "ui.playmodes.lightRunner": "Бегущий по свету",
     "ui.options.gameplay.noSteer.tooltip": "Эта опция полезна для игроков с рулём, отключает отображение рулевого колеса. Требует сброса автомобиля.",
     "ui.options.camera.cameraDriverStableHorizon": "Привязка к горизонту",
-    "ui.options.camera.cameraDriverStableHorizonHint": "Связывает вращение камеры не только с машиной, но и с горизонтом. Может уменьшить дискомфорт при использовании больших экранов"
+    "ui.options.camera.cameraDriverStableHorizonHint": "Связывает вращение камеры не только с машиной, но и с горизонтом. Может уменьшить дискомфорт при использовании больших экранов",
+    "ui.common.stock": "Стандартный"
 }
