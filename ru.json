@@ -2318,5 +2318,5 @@
     "ui.common.stock": "Стандарт",
     "ui.trackBuilder.menus.advancedModifiers": "Расширенные модификаторы",
     "ui.trackBuilder.menus.checkpoints": "Контрольные точки",
-    "ui.trackBuilder.tooltip.reset": "сбросить"
+    "ui.trackBuilder.tooltip.reset": "Сбросить"
 }
