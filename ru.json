@@ -2321,5 +2321,7 @@
     "ui.trackBuilder.tooltip.reset": "Сбросить",
     "ui.trackBuilder.tooltip.remove": "Удалить",
     "ui.trackBuilder.menus.saveLoad": "Сохранение и загрузка",
-    "ui.trackBuilder.tooltip.modify": "Изменить"
+    "ui.trackBuilder.tooltip.modify": "Изменить",
+    "ui.trackBuilder.matEditor.base": "Базовая",
+    "ui.trackBuilder.matEditor.center": "Центр"
 }
