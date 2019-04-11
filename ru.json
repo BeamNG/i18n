@@ -2323,5 +2323,6 @@
     "ui.trackBuilder.menus.saveLoad": "Сохранение и загрузка",
     "ui.trackBuilder.tooltip.modify": "Изменить",
     "ui.trackBuilder.matEditor.base": "Базовая",
-    "ui.trackBuilder.matEditor.center": "Центр"
+    "ui.trackBuilder.matEditor.center": "Центр",
+    "ui.trackBuilder.matEditor.border": "Края"
 }
