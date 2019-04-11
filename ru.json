@@ -2317,5 +2317,6 @@
     "ui.options.camera.cameraDriverStableHorizonHint": "Связывает вращение камеры не только с машиной, но и с горизонтом. Может уменьшить дискомфорт при использовании больших экранов",
     "ui.common.stock": "Стандарт",
     "ui.trackBuilder.menus.advancedModifiers": "Расширенные модификаторы",
-    "ui.trackBuilder.menus.checkpoints": "Контрольные точки"
+    "ui.trackBuilder.menus.checkpoints": "Контрольные точки",
+    "ui.trackBuilder.tooltip.reset": "сбросить"
 }
