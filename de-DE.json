@@ -1902,5 +1902,6 @@
     "ui.radialmenu2.funstuff.Boom": "Boom",
     "ui.radialmenu2.funstuff.Boom.desc": "Lass das Fahrzeug explodieren.",
     "ui.radialmenu2.powertrain": "Antriebsstrang",
-    "ui.radialmenu2.powertrain.desc": "Steuerung für alle Antriebsstrang-Einstellungen."
+    "ui.radialmenu2.powertrain.desc": "Steuerung für alle Antriebsstrang-Einstellungen.",
+    "ui.radialmenu2.powertrain.4WD_Mode": "4WD Modus"
 }
