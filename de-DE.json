@@ -1882,5 +1882,8 @@
     "ui.options.camera.cameraDriverAutocenter": "Automatisch Sicht zentrieren beim loslassen",
     "ui.options.camera.cameraDriverAutocenterHint": "Automatisch zentrieren, wenn Knopf/Achse/Maus losgelassen wird",
     "ui.options.camera.cameraDriverAllowSeatAdjustments": "Erlaubt das Verändern von Sitzeinstellungen",
-    "ui.options.camera.cameraDriverAllowSeatAdjustmentsHint": "Erlaubt die Feineinstellungen der Sitzpositionen mit Tasten"
+    "ui.options.camera.cameraDriverAllowSeatAdjustmentsHint": "Erlaubt die Feineinstellungen der Sitzpositionen mit Tasten",
+    "ui.options.motionSim.accelerationSmoothing": "Glättung der Beschleunigung:",
+    "ui.options.graphics.sleepinbackground": "Ruhezustand im Hintergrund",
+    "ui.options.graphics.GraphicMeshQuality": "Mesh Qualität"
 }
