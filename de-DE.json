@@ -1894,5 +1894,9 @@
     "ui.controls.hint1": "Hinweis: Installiere immer die neuesten Treiber und deaktiviere \"kombinierte Pedale\" in der Windows Systemsteuerung (falls verfügbar)",
     "ui.controls.rmAllUserModification": "Alle nutzererstellten Modifikationen entfernen (behält die Standard-Tastenbelegungen, allerdings nur für die üblichsten Peripheriegeräte)",
     "ui.controls.hint2": "Hinweis: Du kannst auch die Maus zum Lenken (oder jede andere Aktion) im Menüpunkt 'Tastenbelegungen' festlegen",
-    "vehicle.bullettime.changeFast": "{{speed}} mal schneller als Echtzeit"
+    "vehicle.bullettime.changeFast": "{{speed}} mal schneller als Echtzeit",
+    "ui.radialmenu2.funstuff.Fire": "Feuer",
+    "ui.radialmenu2.funstuff.Fire.desc": "Setze das Fahrzeug in Brand.",
+    "ui.radialmenu2.funstuff.Extinguish": "Löschen",
+    "ui.radialmenu2.funstuff.Extinguish.desc": "Lösche jedes Feuer im Fahrzeug."
 }
