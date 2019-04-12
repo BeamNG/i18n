@@ -1913,5 +1913,6 @@
     "ui.radialmenu2.powertrain.engine.desc": "Betätige Zündung.",
     "ui.radialmenu2.powertrain.gearbox_mode": "Getriebemodus",
     "ui.radialmenu2.powertrain.gearbox_mode.desc": "Schalte Getriebemodus um.",
-    "ui.radialmenu2.powertrain.rangebox_mode.low": "Niedrige Drehzahlen"
+    "ui.radialmenu2.powertrain.rangebox_mode.low": "Niedrige Drehzahlen",
+    "ui.radialmenu2.powertrain.rangebox_mode.low.desc": "Schalte Modus für niedrige Drehzahlen an."
 }
