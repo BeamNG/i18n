@@ -1898,5 +1898,6 @@
     "ui.radialmenu2.funstuff.Fire": "Feuer",
     "ui.radialmenu2.funstuff.Fire.desc": "Setze das Fahrzeug in Brand.",
     "ui.radialmenu2.funstuff.Extinguish": "Löschen",
-    "ui.radialmenu2.funstuff.Extinguish.desc": "Lösche jedes Feuer am Fahrzeug."
+    "ui.radialmenu2.funstuff.Extinguish.desc": "Lösche jedes Feuer am Fahrzeug.",
+    "ui.radialmenu2.funstuff.Boom": "Boom"
 }
