@@ -1885,5 +1885,9 @@
     "ui.options.camera.cameraDriverAllowSeatAdjustmentsHint": "Erlaubt die Feineinstellungen der Sitzpositionen mit Tasten",
     "ui.options.motionSim.accelerationSmoothing": "Glättung der Beschleunigung:",
     "ui.options.graphics.sleepinbackground": "Ruhezustand im Hintergrund",
-    "ui.options.graphics.GraphicMeshQuality": "Mesh Qualität"
+    "ui.options.graphics.GraphicMeshQuality": "Mesh Qualität",
+    "ui.controls.filters.1": "Pad",
+    "ui.controls.filters.2": "Direkt",
+    "ui.controls.filters.3": "Taste (Drift)",
+    "ui.controls.filters.0": "Taste (Grip)"
 }
