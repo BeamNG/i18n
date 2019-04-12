@@ -1880,5 +1880,5 @@
     "ui.options.camera.transitionHint": "Wie lange die Animation des Kamerawechsels dauert (in millisekunden)",
     "ui.options.camera.cameraDriverStableHorizonHint": "Setze Rotation der Kamera auf Welthorizont. Kann Unbequemlichkeiten mit weiten Bildschirmen reduzieren.",
     "ui.options.camera.cameraDriverAutocenter": "Automatisch Sicht zentrieren beim loslassen",
-    "ui.options.camera.cameraDriverAutocenterHint": "Automatisch zentrieren, wenn button/axis/mouse losgelassen wird"
+    "ui.options.camera.cameraDriverAutocenterHint": "Automatisch zentrieren, wenn Knopf/Achse/Maus losgelassen wird"
 }
