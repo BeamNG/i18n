@@ -1868,5 +1868,6 @@
     "levels.west_coast_usa.info.suitablefor": "Rennen, Verfolgungen, Freie Fahrt, Erkundung, Lieferung",
     "ui.camera.fov": "Sichtfeld: {{degrees | number: 1}} Grad",
     "ui.camera.fovDriver": "Sichtfeld eingestellt auf {{degrees | number: 1}} Grad für alle Fahrzeuge",
-    "ui.trackBuilder.toolbar.paint": ""
+    "ui.trackBuilder.toolbar.paint": "",
+    "ui.repository.modUnpacked": "Entpackte Mod"
 }
