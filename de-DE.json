@@ -1916,5 +1916,6 @@
     "ui.radialmenu2.powertrain.rangebox_mode.low": "Niedrige Drehzahlen",
     "ui.radialmenu2.powertrain.rangebox_mode.low.desc": "Schalte Modus für niedrige Drehzahlen an.",
     "ui.radialmenu2.powertrain.rangebox_mode.high": "Hohe Drehzahlen",
-    "ui.radialmenu2.powertrain.rangebox_mode.high.desc": "Schalte Modus für hohe Drehzahlen an."
+    "ui.radialmenu2.powertrain.rangebox_mode.high.desc": "Schalte Modus für hohe Drehzahlen an.",
+    "ui.radialmenu2.Manage": "Verwalten"
 }
