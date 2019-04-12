@@ -1893,5 +1893,6 @@
     "ui.controls.driverWarning": "Warnung: Wenn du Probleme mit dem Force-Feedback deines {{productName}} hast, musst du vielleicht die neusten Logitech Treiber installieren.",
     "ui.controls.hint1": "Hinweis: Installiere immer die neuesten Treiber und deaktiviere \"kombinierte Pedale\" in der Windows Systemsteuerung (falls verfügbar)",
     "ui.controls.rmAllUserModification": "Alle nutzererstellten Modifikationen entfernen (behält die Standard-Tastenbelegungen, allerdings nur für die üblichsten Peripheriegeräte)",
-    "ui.controls.hint2": "Hinweis: Du kannst auch die Maus zum Lenken (oder jede andere Aktion) im Menüpunkt 'Tastenbelegungen' festlegen"
+    "ui.controls.hint2": "Hinweis: Du kannst auch die Maus zum Lenken (oder jede andere Aktion) im Menüpunkt 'Tastenbelegungen' festlegen",
+    "vehicle.bullettime.changeFast": "{{speed}} mal schneller als Echtzeit"
 }
