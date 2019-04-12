@@ -1874,5 +1874,5 @@
     "ui.apps.characterRealtimeDisplay.name": "Echtzeitanzeige",
     "ui.options.gameplay.absBehavior.tooltip": "Das realistische ABS simuliert die realistische ABS Technologie und ihre Nachteile. Das Arcade ABS umgeht diese realistischen Probleme. Erfordert das Zurücksetzen des Fahrzeugs.",
     "ui.options.gameplay.escBehavior.tooltip": "Stellt ein, wie das ESC System des Fahrzeugs funktioniert. Wird nach dem Laden eines neuen Fahrzeugs angewendet.",
-    "ui.options.gameplay.multiseatTags": "Spielernamen im Mehrspielermodus anzeigen"
+    "ui.options.gameplay.multiseatTags": "Zeigt Multi-Seat Spieler Tags an"
 }
