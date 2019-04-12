@@ -1872,5 +1872,6 @@
     "ui.repository.modUnpacked": "Entpackte Mod",
     "ui.apps.clutch_thermal_debug.name": "Kupplungshitze Debug",
     "ui.apps.characterRealtimeDisplay.name": "Echtzeitanzeige",
-    "ui.options.gameplay.absBehavior.tooltip": "Das realistische ABS simuliert die realistische ABS Technologie und ihre Nachteile. Das Arcade ABS umgeht diese realistischen Probleme. Erfordert das Zurücksetzen des Fahrzeugs."
+    "ui.options.gameplay.absBehavior.tooltip": "Das realistische ABS simuliert die realistische ABS Technologie und ihre Nachteile. Das Arcade ABS umgeht diese realistischen Probleme. Erfordert das Zurücksetzen des Fahrzeugs.",
+    "ui.options.gameplay.escBehavior.tooltip": "Stellt ein, wie das ESC System des Fahrzeugs funktioniert. Wird nach dem spawnen eines neuen Fahrzeugs angewendet."
 }
