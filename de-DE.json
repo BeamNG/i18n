@@ -1911,5 +1911,7 @@
     "ui.radialmenu2.powertrain.4wd.disconnected.desc": "Schalte Allrad-Modus aus.",
     "ui.radialmenu2.powertrain.engine": "Motor",
     "ui.radialmenu2.powertrain.engine.desc": "Betätige Zündung.",
-    "ui.radialmenu2.powertrain.gearbox_mode": "Getriebemodus"
+    "ui.radialmenu2.powertrain.gearbox_mode": "Getriebemodus",
+    "ui.radialmenu2.powertrain.gearbox_mode.desc": "Schalte Getriebemodus um.",
+    "ui.radialmenu2.powertrain.rangebox_mode.low": "Niedrige Drehzahlen"
 }
