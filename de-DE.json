@@ -1587,7 +1587,7 @@
     "ui.options.audio.quality": "Qualität",
     "ui.options.audio.sources": "Tonquellen",
     "ui.controls.bindings": "Tastenbelegungen",
-    "ui.controls.searchAllBindings": "Belegungen suchen",
+    "ui.controls.searchAllBindings": "Tastenbelegungen suchen",
     "ui.controls.searchMatches": "{{number}} Übereinstimmungen",
     "ui.controls.expandCollapse": "Klicke zum erweitern/zusammenklappen",
     "ui.controls.editBinding": "Belegung bearbeiten",
