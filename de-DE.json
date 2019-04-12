@@ -1877,5 +1877,8 @@
     "ui.options.gameplay.multiseatTags": "Zeigt Multi-Seat Spieler Tags an",
     "ui.options.gameplay.traffic.tooltip": "Erfordert das manuelle Laden der gewünschten Fahrzeuge",
     "ui.options.gameplay.noSteer.tooltip": "Diese Option ist sinnvoll für Lenkrad Benutzer, um ein doppeltes Lenkrad zu vermeiden. Fahrzeug muss neu geladen werden.",
-    "ui.options.camera.transitionHint": "Wie lange die Animation des Kamerawechsels dauert (in millisekunden)"
+    "ui.options.camera.transitionHint": "Wie lange die Animation des Kamerawechsels dauert (in millisekunden)",
+    "ui.options.camera.cameraDriverStableHorizonHint": "Setze Rotation der Kamera auf Welthorizont. Kann Unbequemlichkeiten mit weiten Bildschirmen reduzieren.",
+    "ui.options.camera.cameraDriverAutocenter": "Automatisch Sicht zentrieren beim loslassen",
+    "ui.options.camera.cameraDriverAutocenterHint": "Automatisch zentrieren, wenn button/axis/mouse losgelassen wird"
 }
