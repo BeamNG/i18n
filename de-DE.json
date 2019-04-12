@@ -1876,5 +1876,6 @@
     "ui.options.gameplay.escBehavior.tooltip": "Stellt ein, wie das ESC System des Fahrzeugs funktioniert. Wird nach dem Laden eines neuen Fahrzeugs angewendet.",
     "ui.options.gameplay.multiseatTags": "Zeigt Multi-Seat Spieler Tags an",
     "ui.options.gameplay.traffic.tooltip": "Erfordert das manuelle Laden der gewünschten Fahrzeuge",
-    "ui.options.gameplay.noSteer.tooltip": "Diese Option ist sinnvoll für Lenkrad Benutzer, um ein doppeltes Lenkrad zu vermeiden. Fahrzeug muss neu geladen werden."
+    "ui.options.gameplay.noSteer.tooltip": "Diese Option ist sinnvoll für Lenkrad Benutzer, um ein doppeltes Lenkrad zu vermeiden. Fahrzeug muss neu geladen werden.",
+    "ui.options.camera.transitionHint": "Wie lange die Animation des Kamerawechsels dauert (in millisekunden)"
 }
