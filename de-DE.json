@@ -1891,5 +1891,6 @@
     "ui.controls.filters.3": "Taste (Drift)",
     "ui.controls.filters.0": "Taste (Grip)",
     "ui.controls.driverWarning": "Warnung: Wenn du Probleme mit dem Force-Feedback deines {{productName}} hast, musst du vielleicht die neusten Logitech Treiber installieren.",
-    "ui.controls.hint1": "Hinweis: Installiere immer die neuesten Treiber und deaktiviere \"kombinierte Pedale\" in der Windows Systemsteuerung (falls verfügbar)"
+    "ui.controls.hint1": "Hinweis: Installiere immer die neuesten Treiber und deaktiviere \"kombinierte Pedale\" in der Windows Systemsteuerung (falls verfügbar)",
+    "ui.controls.rmAllUserModification": "Alle nutzer-erstellten Modifikationen entfernen (die originalgetreuen Teile bleiben bestehen)"
 }
