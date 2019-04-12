@@ -1869,5 +1869,7 @@
     "ui.camera.fov": "Sichtfeld: {{degrees | number: 1}} Grad",
     "ui.camera.fovDriver": "Sichtfeld eingestellt auf {{degrees | number: 1}} Grad für alle Fahrzeuge",
     "ui.trackBuilder.toolbar.paint": "",
-    "ui.repository.modUnpacked": "Entpackte Mod"
+    "ui.repository.modUnpacked": "Entpackte Mod",
+    "ui.apps.clutch_thermal_debug.name": "Kupplungshitze Debug",
+    "ui.apps.characterRealtimeDisplay.name": "Echtzeitanzeige"
 }
