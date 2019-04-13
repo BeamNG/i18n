@@ -2324,5 +2324,6 @@
     "ui.trackBuilder.tooltip.modify": "Изменить",
     "ui.trackBuilder.matEditor.base": "Базовая",
     "ui.trackBuilder.matEditor.center": "Центр",
-    "ui.trackBuilder.matEditor.border": "Края"
+    "ui.trackBuilder.matEditor.border": "Края",
+    "ui.trackBuilder.base.banking": "Крен"
 }
