@@ -2325,5 +2325,13 @@
     "ui.trackBuilder.matEditor.base": "Базовая",
     "ui.trackBuilder.matEditor.center": "Центр",
     "ui.trackBuilder.matEditor.border": "Края",
-    "ui.trackBuilder.base.banking": "Крен"
+    "ui.trackBuilder.base.banking": "Крен",
+    "ui.trackBuilder.tooltip.shiftBack": "Сдвинуть модификатор назад",
+    "ui.trackBuilder.tooltip.shiftForward": "Сдвинуть модификатор вперёд",
+    "ui.trackBuilder.borders.leftBorderShape": "Форма левого края",
+    "ui.trackBuilder.borders.rightBorderShape": "Форма правого края",
+    "ui.trackBuilder.matEditor.drawLeftBorder": "Покрасить левый край",
+    "ui.trackBuilder.matEditor.drawCenter": "Покрасить центр",
+    "ui.trackBuilder.matEditor.drawRightBorder": "Покрасить правый край",
+    "ui.trackBuilder.base.closeTrack": "Завершить трек"
 }
