@@ -2313,5 +2313,6 @@
     "levels.Gridmap.spawnpoints.spawn_oval": "Tor wysokich prędkości",
     "levels.east_coast_usa.spawnpoints.townIndustrial": "Miejski obszar przemysłowy",
     "levels.automation_test_track.info.suitablefor": "testowania prototypów, rajdów",
-    "levels.automation_test_track.info.features": "tor testowy, górskie drogi, odcinek rajdu, tor testowania prowadzenia się pojazdów"
+    "levels.automation_test_track.info.features": "tor testowy, górskie drogi, odcinek rajdu, tor testowania prowadzenia się pojazdów",
+    "levels.automation_test_track.info.roads": "80% asfalt, 20% szuter"
 }
