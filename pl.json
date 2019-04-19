@@ -2301,5 +2301,7 @@
     "levels.italy.spawnpoints.city": "Norte",
     "levels.italy.spawnpoints.village_mountain": "Città Vecchia",
     "levels.italy.spawnpoints.castle_town": "Castelletto",
-    "levels.industrial.spawnpoints.spawn_rallycross": "Tor Rally-Crossowy"
+    "levels.industrial.spawnpoints.spawn_rallycross": "Tor Rally-Crossowy",
+    "levels.industrial.spawnpoints.spawn_industrial2": "Otwarta strefa przemysłowa",
+    "levels.industrial.spawnpoints.spawn_industrial1": "Zachodnia strefa przemysłowa"
 }
