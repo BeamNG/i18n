@@ -2272,5 +2272,6 @@
     "engine.editor.menu.resetTransforms": "Resetuj zmiany",
     "engine.editor.menu.resetSelRot": "Resetuj ustawioną rotację",
     "vehicle.engine.starvedOfOil": "Silnik jest zalany olejem",
-    "vehicle.beamstate.beamDeformed": "Belka {{id}} uszkodziła: {{id1name}} [{{id1}}] -> {{id2name}} [{{id2}}]"
+    "vehicle.beamstate.beamDeformed": "Belka {{id}} uszkodziła: {{id1name}} [{{id1}}] -> {{id2name}} [{{id2}}]",
+    "vehicle.beamstate.beamBroke": "Belka {{id}} właśnie się zepsuła: {{id1name}} [{{id1}}] -> {{id2name}} [{{id2}}]"
 }
