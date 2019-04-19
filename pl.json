@@ -2265,5 +2265,12 @@
     "scenarios.italy.pizzaDelivery1.portraitText": "Ei, ragazzo! Szef chce żebyś porozwoził trochę pizzy. Masz mniej niż trzy minuty, i musisz dojechać do klienta w tym czasie! Aha, jeszcze jest trochę protestów na mieście, więc musisz improwizować. Wierzę, że pamiętasz wszystkie stare skróty...",
     "scenarios.italy.pizzaDelivery1.fail_time": "Jechałeś zbyt długo...",
     "scenarios.italy.pizzaDelivery1.fail_stop": "Nie zatrzymałeś się przy kliencie!",
-    "scenarios.italy.pizzaDelivery1.success_fast": "Hej, zaoferuj protestującym trochę pizzy. Może w końcu się zamkną!"
+    "scenarios.italy.pizzaDelivery1.success_fast": "Hej, zaoferuj protestującym trochę pizzy. Może w końcu się zamkną!",
+    "engine.editor.menu.atCamera": "przy kamerze",
+    "engine.editor.menu.atCamaraWoRot": "przy kamerze bez obrotu",
+    "engine.editor.menu.toTerrain": "do terenu",
+    "engine.editor.menu.resetTransforms": "Resetuj zmiany",
+    "engine.editor.menu.resetSelRot": "Resetuj ustawioną rotację",
+    "vehicle.engine.starvedOfOil": "Silnik jest zalany olejem",
+    "vehicle.beamstate.beamDeformed": "Belka {{id}} uszkodziła: {{id1name}} [{{id1}}] -> {{id2name}} [{{id2}}]"
 }
