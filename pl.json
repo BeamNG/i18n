@@ -2300,5 +2300,6 @@
     "levels.italy.spawnpoints.crossroads": "Skrzyżowanie",
     "levels.italy.spawnpoints.city": "Norte",
     "levels.italy.spawnpoints.village_mountain": "Città Vecchia",
-    "levels.italy.spawnpoints.castle_town": "Castelletto"
+    "levels.italy.spawnpoints.castle_town": "Castelletto",
+    "levels.industrial.spawnpoints.spawn_rallycross": "Tor Rally-Crossowy"
 }
