@@ -2279,5 +2279,6 @@
     "vehicle.drivetrain.engineMildOverrevDamage": "Nadmierna prędkość obr. sinika: Uszkodzony układu rozrządu",
     "vehicle.drivetrain.engineDamaged": "Silnik uszkodzony",
     "vehicle.drivetrain.engineHydrolocked": "Silnik zalany",
-    "vehicle.drivetrain.engineFlooding": "Silnik zalano wodą w ({{percent}}%)"
+    "vehicle.drivetrain.engineFlooding": "Silnik zalano wodą w ({{percent}}%)",
+    "vehicle.drivetrain.driveshaftBroken": "Wał napędowy zerwany"
 }
