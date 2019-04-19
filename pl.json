@@ -2274,5 +2274,7 @@
     "vehicle.engine.starvedOfOil": "Silnik jest zalany olejem",
     "vehicle.beamstate.beamDeformed": "Belka {{id}} uszkodziła: {{id1name}} [{{id1}}] -> {{id2name}} [{{id2}}]",
     "vehicle.beamstate.beamBroke": "Belka {{id}} właśnie się zepsuła: {{id1name}} [{{id1}}] -> {{id2name}} [{{id2}}]",
-    "vehicle.drivetrain.engineCatastrophicOverTorqueDamage": "Uszkodzenie z powodu zbyt dużego momentu obrotowego: Silnik został uszkodzony permanentnie"
+    "vehicle.drivetrain.engineCatastrophicOverTorqueDamage": "Uszkodzenie z powodu zbyt dużego momentu obrotowego: Silnik został uszkodzony permanentnie",
+    "vehicle.drivetrain.engineCatastrophicOverrevDamage": "Nadmierna prędkość obr. silnika: Silnik zatarty",
+    "vehicle.drivetrain.engineMildOverrevDamage": "Nadmierna prędkość obr. sinika: Uszkodzony układu rozrządu"
 }
