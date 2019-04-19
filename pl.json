@@ -2304,5 +2304,8 @@
     "levels.industrial.spawnpoints.spawn_rallycross": "Tor Rally-Crossowy",
     "levels.industrial.spawnpoints.spawn_industrial2": "Otwarta strefa przemysłowa",
     "levels.industrial.spawnpoints.spawn_industrial1": "Zachodnia strefa przemysłowa",
-    "levels.hirochi_raceway.spawnpoints.spawn_startline": "Linia startowa"
+    "levels.hirochi_raceway.spawnpoints.spawn_startline": "Linia startowa",
+    "levels.hirochi_raceway.spawnpoints.spawn_parking": "Parking",
+    "levels.hirochi_raceway.spawnpoints.spawn_chicane": "Szykana",
+    "levels.Gridmap.spawnpoints.spawn_outside": "Na zewnątrz"
 }
