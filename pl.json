@@ -2289,5 +2289,6 @@
     "levels.glow_city.info.features": "Miasto",
     "levels.glow_city.info.suitablefor": "Edytor torów",
     "levels.glow_city.info.roads": "Brak",
-    "levels.glow_city.info.biome": "Miasto"
+    "levels.glow_city.info.biome": "Miasto",
+    "levels.glow_city.info.description": "Duże, ciemne miasto science-fiction"
 }
