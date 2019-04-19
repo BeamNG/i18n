@@ -2293,5 +2293,6 @@
     "levels.glow_city.info.description": "Duże, ciemne miasto science-fiction.",
     "levels.glow_city.info.title": "Neonowe Miasto",
     "levels.small_island.spawnpoints.spawn_south": "Droga Południowa",
-    "levels.jungle_rock_island.spawnpoints.spawnsIndustrial": "Strefa przemysłowa"
+    "levels.jungle_rock_island.spawnpoints.spawnsIndustrial": "Strefa przemysłowa",
+    "levels.italy.spawnpoints.town_east": "Fastello"
 }
