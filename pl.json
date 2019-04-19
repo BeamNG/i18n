@@ -2317,5 +2317,7 @@
     "levels.automation_test_track.info.roads": "80% asfalt, 20% szuter",
     "levels.automation_test_track.info.biome": "Tussock niski",
     "levels.automation_test_track.info.description": "Ośrodek testowy dla pojazdów Automation",
-    "levels.automation_test_track.info.title": "Tor testowy Automation"
+    "levels.automation_test_track.info.title": "Tor testowy Automation",
+    "levels.driver_training.spawnpoints.spawn_west": "Zachód",
+    "levels.driver_training.spawnpoints.spawn_north": "Północ"
 }
