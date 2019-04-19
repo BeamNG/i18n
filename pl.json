@@ -2315,5 +2315,7 @@
     "levels.automation_test_track.info.suitablefor": "testowania prototypów, rajdów",
     "levels.automation_test_track.info.features": "tor testowy, górskie drogi, odcinek rajdu, tor testowania prowadzenia się pojazdów",
     "levels.automation_test_track.info.roads": "80% asfalt, 20% szuter",
-    "levels.automation_test_track.info.biome": "Tussock niski"
+    "levels.automation_test_track.info.biome": "Tussock niski",
+    "levels.automation_test_track.info.description": "Ośrodek testowy dla pojazdów Automation",
+    "levels.automation_test_track.info.title": "Tor testowy Automation"
 }
