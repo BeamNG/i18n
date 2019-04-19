@@ -2291,5 +2291,7 @@
     "levels.glow_city.info.roads": "Brak",
     "levels.glow_city.info.biome": "Miasto",
     "levels.glow_city.info.description": "Duże, ciemne miasto science-fiction.",
-    "levels.glow_city.info.title": "Neonowe Miasto"
+    "levels.glow_city.info.title": "Neonowe Miasto",
+    "levels.small_island.spawnpoints.spawn_south": "Droga Południowa",
+    "levels.jungle_rock_island.spawnpoints.spawnsIndustrial": "Strefa przemysłowa"
 }
