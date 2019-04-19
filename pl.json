@@ -2307,5 +2307,7 @@
     "levels.hirochi_raceway.spawnpoints.spawn_startline": "Linia startowa",
     "levels.hirochi_raceway.spawnpoints.spawn_parking": "Parking",
     "levels.hirochi_raceway.spawnpoints.spawn_chicane": "Szykana",
-    "levels.Gridmap.spawnpoints.spawn_outside": "Na zewnątrz"
+    "levels.Gridmap.spawnpoints.spawn_outside": "Na zewnątrz",
+    "levels.Gridmap.spawnpoints.spawn_corner": "Róg",
+    "levels.Gridmap.spawnpoints.spawn_dirtpath": "Droga żwirowa"
 }
