@@ -2280,5 +2280,7 @@
     "vehicle.drivetrain.engineDamaged": "Silnik uszkodzony",
     "vehicle.drivetrain.engineHydrolocked": "Silnik zalany",
     "vehicle.drivetrain.engineFlooding": "Silnik zalano wodą w ({{percent}}%)",
-    "vehicle.drivetrain.driveshaftBroken": "Wał napędowy zerwany"
+    "vehicle.drivetrain.driveshaftBroken": "Wał napędowy zerwany",
+    "vehicle.drivetrain.stalledStarting": "Silnik zgasł, uruchamianie...",
+    "vehicle.drivetrain.deviceBroken": "{{deviceName}} uszkodzony(a,e)"
 }
