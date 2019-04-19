@@ -2515,5 +2515,8 @@
     "campaigns.utah.chapter_2.description": "Początek na pustyni Utah.",
     "scenarios.utah.cinematic_chase.speed.msg": "Gratulacje! Twój czas: {{time}}",
     "campaigns.west_coast_usa.bus_minichapter.title": "Pośpiech i Bieganina",
-    "campaigns.west_coast_usa.bus_minichapter.description": "Pokaż swoje możliwości prowadzenia autobusu przed Lens Flare Studios"
+    "campaigns.west_coast_usa.bus_minichapter.description": "Pokaż swoje możliwości prowadzenia autobusu przed Lens Flare Studios",
+    "campaigns.west_coast_usa.bus_minichapter.busdriver_stunt_speed.title": "Wstęp: Zwykły dzień w pracy",
+    "campaigns.west_coast_usa.bus_minichapter.busdriver_stunt_follow.title": "Podróż do miejsca filmowania",
+    "campaigns.west_coast_usa.bus_minichapter.busdriver_stunt_course.title": "Wyczyn 1: Kurs Kolizyjny"
 }
