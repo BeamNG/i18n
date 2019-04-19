@@ -2298,5 +2298,7 @@
     "levels.italy.spawnpoints.runway": "Pas startowy",
     "levels.italy.spawnpoints.airport": "Port lotniczy",
     "levels.italy.spawnpoints.crossroads": "Skrzyżowanie",
-    "levels.italy.spawnpoints.city": "Norte"
+    "levels.italy.spawnpoints.city": "Norte",
+    "levels.italy.spawnpoints.village_mountain": "Città Vecchia",
+    "levels.italy.spawnpoints.castle_town": "Castelletto"
 }
