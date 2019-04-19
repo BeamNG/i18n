@@ -2411,5 +2411,6 @@
     "quickrace.industrial.track_rt_curves.title": "Kręty tor wyścigowy",
     "quickrace.industrial.track_rt_curves.description": "Jak okrężny, ale zawiera szykanę.",
     "quickrace.industrial.track_ri_highspeed.description": "Najszybszy układ w strefie przemysłowej.",
-    "quickrace.industrial.track_ri_sprint.description": "Krótki układ w strefie przemysłowej."
+    "quickrace.industrial.track_ri_sprint.description": "Krótki układ w strefie przemysłowej.",
+    "quickrace.industrial.track_ri_eight.description": "Ósemka w starej strefie przemysłowej"
 }
