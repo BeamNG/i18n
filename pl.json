@@ -2286,5 +2286,8 @@
     "vehicle.drivetrain.axleBroken": "Oś {{axleName}} jest złamana",
     "vehicle.drivetrain.cannotShiftSequential": "Aktualnie jest używany: '{{shifterModeName | translate }}' tryb skrzyni biegów (użyj [action=toggleShifterMode] by zmienić)",
     "vehicle.drivetrain.shifterModeChanged": "Używanie \"{{shifterModeName | translate}} tryb skrzyni biegów",
-    "levels.glow_city.info.features": "Miasto"
+    "levels.glow_city.info.features": "Miasto",
+    "levels.glow_city.info.suitablefor": "Edytor torów",
+    "levels.glow_city.info.roads": "Brak",
+    "levels.glow_city.info.biome": "Miasto"
 }
