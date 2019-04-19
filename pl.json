@@ -2296,5 +2296,6 @@
     "levels.jungle_rock_island.spawnpoints.spawnsIndustrial": "Strefa przemysłowa",
     "levels.italy.spawnpoints.town_east": "Fastello",
     "levels.italy.spawnpoints.runway": "Pas startowy",
-    "levels.italy.spawnpoints.airport": "Port lotniczy"
+    "levels.italy.spawnpoints.airport": "Port lotniczy",
+    "levels.italy.spawnpoints.crossroads": "Skrzyżowanie"
 }
