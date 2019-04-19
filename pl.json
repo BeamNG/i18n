@@ -2284,5 +2284,6 @@
     "vehicle.drivetrain.stalledStarting": "Silnik zgasł, uruchamianie...",
     "vehicle.drivetrain.deviceBroken": "{{deviceName}} uszkodzony(a,e)",
     "vehicle.drivetrain.axleBroken": "Oś {{axleName}} jest złamana",
-    "vehicle.drivetrain.cannotShiftSequential": "Aktualnie jest używany: '{{shifterModeName | translate }}' tryb skrzyni biegów (użyj [action=toggleShifterMode] by zmienić)"
+    "vehicle.drivetrain.cannotShiftSequential": "Aktualnie jest używany: '{{shifterModeName | translate }}' tryb skrzyni biegów (użyj [action=toggleShifterMode] by zmienić)",
+    "vehicle.drivetrain.shifterModeChanged": "Używanie \"{{shifterModeName | translate}} zachowanie skrzyni biegów"
 }
