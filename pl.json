@@ -2320,5 +2320,6 @@
     "levels.automation_test_track.info.title": "Tor testowy Automation",
     "levels.driver_training.spawnpoints.spawn_west": "Zachód",
     "levels.driver_training.spawnpoints.spawn_north": "Północ",
-    "campaigns.training.training.training_easycircuit.title": "Trening 6: Łatwy tor"
+    "campaigns.training.training.training_easycircuit.title": "Trening 6: Łatwy tor",
+    "engine.editor.menu.dropLocation": "Położenie początkowe"
 }
