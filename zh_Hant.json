@@ -1960,7 +1960,7 @@
     "replay.stopRecordingAutoplay": "重播已儲存",
     "replay.cancelRecording": "重播已取消",
     "replay.jump": "跳過 {{seconds}} 秒",
-    "replay.playError": "檔案「{{filename.replace("replays/", "")}}」重播錯誤（請參閱記錄檔以取得詳細資料）",
+    "replay.playError": "檔案「{{filename.replace('replays/', '')}}」重播錯誤（請參閱記錄檔以取得詳細資料）",
     "scenarios.cliff.get_down.title": "下崖",
     "scenarios.cliff.get_down.description": "試著控制你那輛 Gavril D15 的下坡力道來前往沙灘上的檢查點，或是直接衝下懸崖，祈禱有好事發生。",
     "scenarios.derby.concrete_derby.title": "撞車賽 - 水泥競技場",
