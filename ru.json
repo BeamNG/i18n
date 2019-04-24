@@ -1095,7 +1095,7 @@
     "ui.debug": "Отладка",
     "ui.debug.activatePhysics": "Включить физику",
     "ui.debug.effects": "Эффекты",
-    "ui.debug.effects.fov": "Угол обзора",
+    "ui.debug.effects.fov": "Поле зрения",
     "ui.debug.effects.msg.fovOnlyInFreeMode": "Поле зрения применимо только к режиму свободной камеры",
     "ui.debug.effects.toggleFreeCamera": "Включить свободную камеру",
     "ui.debug.renderer": "Обработка",
@@ -1521,7 +1521,7 @@
     "ui.photomode.farBlurMax": "Максимальное расстояние размытия",
     "ui.photomode.focusRangeMax": "Максимальная дальность фокусировки",
     "ui.photomode.focusRangeMin": "Дальность фокусировки (Мин.)",
-    "ui.photomode.fov": "Угол обзора",
+    "ui.photomode.fov": "Поле зрения",
     "ui.photomode.postfx": "Постобработка",
     "ui.photomode.quitPhotoMode": "Покинуть фоторежим",
     "ui.photomode.roll": "Поворот",
@@ -2339,5 +2339,6 @@
     "ui.trackBuilder.saveLoad.saveTimeSettings": "Сохранить настройки времени",
     "ui.repository.support": "поддержка",
     "ui.repository.notOnline": "Невозможно установить соединение с сервером. Если проблема сохраняется, пожалуйста, посмотрите ",
-    "ui.repository.notOnline_here": "здесь"
+    "ui.repository.notOnline_here": "здесь",
+    "ui.options.camera.cameraDriverFov": "Поле зрения"
 }
