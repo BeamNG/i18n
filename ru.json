@@ -2343,5 +2343,6 @@
     "ui.options.camera.cameraDriverFov": "Поле зрения",
     "ui.performance.userpath": "Папка пользователя",
     "ui.performance.rootpath": "Папка игры",
-    "ui.performance.disk.used": "Использованное место"
+    "ui.performance.disk.used": "Использованное место",
+    "ui.performance.disk.free": "Свободное место"
 }
