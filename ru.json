@@ -2340,5 +2340,6 @@
     "ui.repository.support": "поддержка",
     "ui.repository.notOnline": "Невозможно установить соединение с сервером. Если проблема сохраняется, пожалуйста, посмотрите ",
     "ui.repository.notOnline_here": "здесь",
-    "ui.options.camera.cameraDriverFov": "Поле зрения"
+    "ui.options.camera.cameraDriverFov": "Поле зрения",
+    "ui.performance.userpath": "Папка Пользователя"
 }
