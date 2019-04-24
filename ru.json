@@ -2334,5 +2334,5 @@
     "ui.trackBuilder.matEditor.drawCenter": "Покрасить центр",
     "ui.trackBuilder.matEditor.drawRightBorder": "Покрасить правый край",
     "ui.trackBuilder.base.closeTrack": "Завершить трек",
-    "ui.trackBuilder.checkpoints.info": "Если вы не добавите ни одной контрольной точки, то они будут созданы автоматически во время заезда."
+    "ui.trackBuilder.checkpoints.info": "Если вы не добавите контрольные точки, то для заездов на время они будут созданы автоматически."
 }
