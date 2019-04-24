@@ -2342,5 +2342,6 @@
     "ui.repository.notOnline_here": "здесь",
     "ui.options.camera.cameraDriverFov": "Поле зрения",
     "ui.performance.userpath": "Папка пользователя",
-    "ui.performance.rootpath": "Папка игры"
+    "ui.performance.rootpath": "Папка игры",
+    "ui.performance.disk.used": "Использованное место"
 }
