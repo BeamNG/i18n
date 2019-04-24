@@ -2338,5 +2338,6 @@
     "ui.trackBuilder.saveLoad.trackWrittenTo": "Трек успешно сохранён в ",
     "ui.trackBuilder.saveLoad.saveTimeSettings": "Сохранить настройки времени",
     "ui.repository.support": "поддержка",
-    "ui.repository.notOnline": "Невозможно установить соединение с сервером. Если проблема сохраняется, пожалуйста, посмотрите "
+    "ui.repository.notOnline": "Невозможно установить соединение с сервером. Если проблема сохраняется, пожалуйста, посмотрите ",
+    "ui.repository.notOnline_here": "здесь"
 }
