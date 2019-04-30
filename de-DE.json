@@ -1379,7 +1379,7 @@
     "engine.editor.menu.belowCamera": "unter der Kamera",
     "engine.editor.menu.screenCenter": "Mittig des Bildschirms",
     "engine.editor.menu.atCenteroid": "beim Schwerpunkt",
-    "engine.editor.menu.toTerrain": "zu Boden",
+    "engine.editor.menu.toTerrain": "zum Terrain",
     "engine.editor.menu.belowSelection": "Unterhalb der Auswahl",
     "engine.editor.menu.posXAxis": "+X Achse",
     "engine.editor.menu.posYAxis": "+Y Achse",
@@ -1917,5 +1917,6 @@
     "ui.radialmenu2.powertrain.rangebox_mode.low.desc": "Schalte Modus für niedrige Drehzahlen an.",
     "ui.radialmenu2.powertrain.rangebox_mode.high": "Hohe Drehzahlen",
     "ui.radialmenu2.powertrain.rangebox_mode.high.desc": "Schalte Modus für hohe Drehzahlen an.",
-    "ui.radialmenu2.Manage": "Verwalten"
+    "ui.radialmenu2.Manage": "Verwalten",
+    "ui.fonts.mono": "Roboto Mono"
 }
