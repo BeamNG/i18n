@@ -1520,7 +1520,6 @@
     "ui.trackBuilder.reversible": "Reversible",
     "ui.trackBuilder.reversibleToolTip": "Allows the track to be reversed in Time Trials",
     "ui.trackBuilder.notClosedTooltip": "Open tracks cannot have multiple laps",
-    "ui.trackBuilder.defaultLapsTooltip": "Default number of laps in Time Trials",
 
     "replay.startRecording": "Recording new replay (press [action=toggleReplayRecording] to stop)",
     "replay.stopRecording": "Replay saved (use replay UI app to view)",
@@ -2101,8 +2100,6 @@
     "scenarios.italy.tastiColaDelivery1.description":"Deliver a trailer of Tasti-Cola to the Citta Vecchia shops.",
     "scenarios.italy.tastiColaDelivery1.tip_increaseHeight1":"Increase your ride height using [action=semi__increase_rideHeight]",
     "scenarios.italy.tastiColaDelivery1.tip_increaseHeight2":"Decrease it with [action=semi__decrease_rideHeight]",
-    "scenarios.italy.crestRoadAutobello.title":"Field run",
-    "scenarios.italy.crestRoadAutobello.description":"A wild drive to get to Norte.",
     "scenarios.italy.electricHypermilling.title":"Electric Hypermiling",
     "scenarios.italy.electricHypermilling.description":"Your E-SBR batteries are low. Can you make it to the nearest charge point, in  Castelletto ?",
 
@@ -2428,7 +2425,6 @@
     "levels.west_coast_usa.spawnpoints.redwood_forest":"Redwood forest",
     "levels.west_coast_usa.spawnpoints.highway":"Highway",
     "levels.west_coast_usa.spawnpoints.racetrack":"Race Track",
-    "levels.west_coast_usa.spawnpoints.racetrack":"Race Track",
     "levels.west_coast_usa.spawnpoints.dragstrip":"Drag Strip",
 
     "levels.Gridmap.info.title":"Gridmap",
@@ -2615,6 +2611,7 @@
     "vehicle.drivetrain.engineMildOverrevDamage":"Overrev damage: Valvetrain damaged",
     "vehicle.drivetrain.engineCatastrophicOverrevDamage":"Overrev damage: Engine locked up",
     "vehicle.drivetrain.engineCatastrophicOverTorqueDamage":"Overtorque damage: Engine permanently damaged",
+    "vehicle.drivetrain.exhaustDamaged":"Exhaust damaged",
 
     "vehicle.beamstate.tireDeflated":"{{wheelName | translate}} tire deflated",
     "vehicle.beamstate.beamBroke": "Beam {{id}} just broke: {{id1name}} [{{id1}}]  ->  {{id2name}} [{{id2}}]",
