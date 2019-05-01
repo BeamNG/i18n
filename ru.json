@@ -2344,5 +2344,6 @@
     "ui.performance.userpath": "Папка пользователя",
     "ui.performance.rootpath": "Папка игры",
     "ui.performance.disk.used": "Использованное место",
-    "ui.performance.disk.free": "Свободное место"
+    "ui.performance.disk.free": "Свободное место",
+    "ui.fonts.mono": "Roboto Mono"
 }
