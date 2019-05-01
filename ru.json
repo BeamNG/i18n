@@ -2374,5 +2374,6 @@
     "quickrace.italy.gravelHillclimb2.title": "Гравийный скоростной подъём 2",
     "quickrace.italy.gravelHillclimb2.description": "Подъём на вершину горы протяжённостью 6.2 км со множеством шпилек и опасных склонов. Покрытие: 90% гравий, 10% асфальт.",
     "quickrace.italy.mixedHillclimb1.title": "Смешанный скоростной подъём",
-    "levels.automation_test_track.info.features": "испытательный трек, скоростной подъём, раллийный этап, тесты на управляемость"
+    "levels.automation_test_track.info.features": "испытательный трек, скоростной подъём, раллийный этап, тесты на управляемость",
+    "quickrace.automation_test_track.outerloop.title": "Внешняя петля"
 }
