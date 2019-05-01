@@ -2345,5 +2345,6 @@
     "ui.performance.rootpath": "Папка игры",
     "ui.performance.disk.used": "Использованное место",
     "ui.performance.disk.free": "Свободное место",
-    "ui.fonts.mono": "Roboto Mono"
+    "ui.fonts.mono": "Roboto Mono",
+    "ui.trackBuilder.menus.wallsCeiling": "стены и потолок"
 }
