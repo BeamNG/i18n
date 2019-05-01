@@ -2348,5 +2348,6 @@
     "ui.fonts.mono": "Roboto Mono",
     "ui.trackBuilder.menus.wallsCeiling": "Стены и потолок",
     "ui.trackBuilder.wallsCeiling.leftWall": "Левая стена",
-    "ui.trackBuilder.wallsCeiling.rightWall": "Правая стена"
+    "ui.trackBuilder.wallsCeiling.rightWall": "Правая стена",
+    "ui.trackBuilder.wallsCeiling.ceiling": "Потолок"
 }
