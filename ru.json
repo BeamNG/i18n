@@ -2349,5 +2349,6 @@
     "ui.trackBuilder.menus.wallsCeiling": "Стены и потолок",
     "ui.trackBuilder.wallsCeiling.leftWall": "Левая стена",
     "ui.trackBuilder.wallsCeiling.rightWall": "Правая стена",
-    "ui.trackBuilder.wallsCeiling.ceiling": "Потолок"
+    "ui.trackBuilder.wallsCeiling.ceiling": "Потолок",
+    "ui.trackBuilder.notClosedTooltip": "Открытые треки не могут иметь несколько кругов"
 }
