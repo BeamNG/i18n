@@ -452,7 +452,7 @@
     "scenarios.driver_training.driver_training.training_advanced.damage.msg": "Вот так авария, вы в порядке? Похоже, что машина не подлежит восстановлению.",
     "scenarios.driver_training.driver_training.training_advanced.defaultWin": "Вы меня радуете! А теперь позвольте мне напоследок придумать что-нибудь весёлое.",
     "scenarios.driver_training.driver_training.training_advanced.description": "Мне показалось, что предыдущий урок было слишком простым, поэтому я спланировал трассу с 4 наиболее сложными поворотами из известных мне. Удачи, она вам понадобится!",
-    "scenarios.driver_training.driver_training.training_advanced.nomove.msg": "Вы задели конус - если слетаете с трассы, попробуйте уменьшить скорость на входе в поворот.",
+    "scenarios.driver_training.driver_training.training_advanced.nomove.msg": "Вы задели конус — если слетаете с трассы, попробуйте уменьшить скорость при входе в поворот.",
     "scenarios.driver_training.driver_training.training_advanced.timeLimit.msg": "Недостаточно быстро. Я знаю, вы можете лучше.",
     "scenarios.driver_training.driver_training.training_advanced.title": "Урок 10: Профессиональное прохождение поворотов",
     "scenarios.driver_training.driver_training.training_cornering2.5.damage.msg": "Дружеский совет: ехать нужно не по траве.",
@@ -490,7 +490,7 @@
     "scenarios.driver_training.driver_training.training_lanechange.nomove.msg": "Я вижу сбитый конус... значит вы выезжали за границы трассы!",
     "scenarios.driver_training.driver_training.training_lanechange.timeLimit.msg": "Предполагалось, что вы будете ехать с подходящей для шоссе скоростью, не правда ли?",
     "scenarios.driver_training.driver_training.training_lanechange.title": "Урок 4: Перестроение",
-    "scenarios.driver_training.driver_training.training_rwd.damage.msg": "Этот автомобиль, определённо, ещё долго простоит в ремонтной мастерской.",
+    "scenarios.driver_training.driver_training.training_rwd.damage.msg": "Этот автомобиль определённо ещё долго простоит в ремонтной мастерской.",
     "scenarios.driver_training.driver_training.training_rwd.defaultWin": "Хорошая работа! Вы начинаете улавливать суть.",
     "scenarios.driver_training.driver_training.training_rwd.description": "Вождение Bruckell Moonhawk больше похоже на управление лодкой, так что, если вы пройдёте эту трассу с первой попытки, можете считать себя одним из лучших моих учеников.",
     "scenarios.driver_training.driver_training.training_rwd.nomove.msg": "Осторожнее с конусами! Помните - этот автомобиль не так лёгок в управлении, как те, что были до этого.",
@@ -2375,5 +2375,14 @@
     "quickrace.italy.gravelHillclimb2.description": "Подъём на вершину горы протяжённостью 6.2 км со множеством шпилек и опасных склонов. Покрытие: 90% гравий, 10% асфальт.",
     "quickrace.italy.mixedHillclimb1.title": "Смешанный скоростной подъём",
     "levels.automation_test_track.info.features": "испытательный трек, скоростной подъём, раллийный этап, тесты на управляемость",
-    "quickrace.automation_test_track.outerloop.title": "Внешняя петля"
+    "quickrace.automation_test_track.outerloop.title": "Внешняя петля",
+    "levels.hirochi_raceway_v2.info.biome": "Умеренный, леса",
+    "levels.hirochi_raceway_v2.info.roads": "70% асфальт, 30% старый асфальт",
+    "levels.hirochi_raceway_v2.info.suitablefor": "Гонок, дрифта, заездов на время, обучения вождению",
+    "levels.hirochi_raceway_v2.info.features": "Гоночный комплекс с несколькими трассами и заброшенной секцией",
+    "levels.italy.spawnpoints.castle_town": "Кастеллетто",
+    "levels.italy.spawnpoints.port": "Порт",
+    "levels.italy.spawnpoints.runway": "Взлётная полоса",
+    "levels.italy.spawnpoints.town_east": "Фастелло",
+    "levels.italy.spawnpoints.small_village": "Портино"
 }
