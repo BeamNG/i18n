@@ -2384,5 +2384,6 @@
     "levels.italy.spawnpoints.port": "Порт",
     "levels.italy.spawnpoints.runway": "Взлётная полоса",
     "levels.italy.spawnpoints.town_east": "Фастелло",
-    "levels.italy.spawnpoints.small_village": "Портино"
+    "levels.italy.spawnpoints.small_village": "Портино",
+    "levels.glow_city.info.suitablefor": "Строительство треков"
 }
