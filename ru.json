@@ -1744,7 +1744,7 @@
     "ui.options.gameplay.translationProjectPage": "Страница перевода сообщества",
     "quickrace.gridmap.bigo.title": "Скоростное кольцо",
     "scenarios.utah.canyon_jump.description": "Совершите несколько длинных прыжков через уникальные геологические образования Юты. Вы будете за рулём бездорожной версии Gavril H15.",
-    "quickrace.gridmap.suspension.description": "Этот небольшой этап идёт взад и вперёд по четырём различным трекам для тестирования подвески. Отличный способ погнуть раму!",
+    "quickrace.gridmap.suspension.description": "Этот небольшой этап идёт взад и вперёд по 4 различным трекам для тестирования подвески. Отличный способ погнуть раму!",
     "ui.debug.vehicle.loadDefault": "Загрузить по умолчанию",
     "engine.editor.menu.orbitCamera": "Прикреплённая камера",
     "scenarios.utah.guineapig.description": "Отбуксируйте развалюху на вершину скалы для подготовки к трюку. Возьмите Ibishu Hopper, ему хватит мощности.",
@@ -2364,7 +2364,7 @@
     "quickrace.automation_test_track.trackcircuit3.title": "Старая круговая гоночная трасса",
     "quickrace.automation_test_track.trackcircuit3.description": "Трасса проходит по старому треку, который включает в себя поворот с креном.",
     "quickrace.italy.asphaltHillclimb1.title": "Асфальтовый скоростной подъём 1",
-    "quickrace.italy.asphaltHillclimb1.description": "Узкий подъём к деревне у замка по серпантину с десятью шпильками.",
+    "quickrace.italy.asphaltHillclimb1.description": "Узкий подъём к деревне у замка по серпантину с 10 шпильками.",
     "quickrace.italy.asphaltHillclimb2.title": "Асфальтовый скоростной подъём 2",
     "quickrace.italy.asphaltHillclimb2.description": "Извилистый подъём через горную деревню.",
     "quickrace.italy.cliffRoad1.title": "Дорога через скалы",
@@ -2385,5 +2385,10 @@
     "levels.italy.spawnpoints.runway": "Взлётная полоса",
     "levels.italy.spawnpoints.town_east": "Фастелло",
     "levels.italy.spawnpoints.small_village": "Портино",
-    "levels.glow_city.info.suitablefor": "Строительство треков"
+    "levels.glow_city.info.suitablefor": "Строительства треков",
+    "quickrace.automation_test_track.handlingcircuit1.title": "Тест на управляемость",
+    "quickrace.italy.highway1.title": "Шоссе",
+    "quickrace.italy.highway1.description": "Скоростная 4-полосная дорога. Идеально подходит для быстрых машин.",
+    "quickrace.italy.islandTour1.title": "Тур по острову",
+    "vehicle.drivetrain.exhaustDamaged": "Выхлопная система повреждена"
 }
