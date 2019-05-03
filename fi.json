@@ -1919,7 +1919,7 @@
     "ui.radialmenu2.powertrain.engine.desc": "Kytke sytytysvirta.",
     "ui.radialmenu2.powertrain.gearbox_mode": "Vaihdetila",
     "ui.radialmenu2.powertrain.gearbox_mode.desc": "Muuta vaihdelaatikon tiloja.",
-    "ui.radialmenu2.powertrain.rangebox_mode": "Aluevaihde",
+    "ui.radialmenu2.powertrain.rangebox_mode": "Aluevaihteiston tila",
     "ui.radialmenu2.powertrain.rangebox_mode.desc": "Muuta vaihdelaatikon aluetta.",
     "ui.radialmenu2.powertrain.rangebox_mode.low": "Hidas alue",
     "ui.radialmenu2.powertrain.rangebox_mode.low.desc": "Kytke hidas alue päälle.",
