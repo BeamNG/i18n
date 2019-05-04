@@ -2040,5 +2040,19 @@
     "ui.trackBuilder.menus.trackSettings": "Nastavenia trate",
     "ui.trackBuilder.menus.obstacles": "Prekážky",
     "ui.common.stock": "Základný",
-    "ui.trackBuilder.menus.wallsCeiling": "Steny a strechy"
+    "ui.trackBuilder.menus.wallsCeiling": "Steny a strechy",
+    "ui.fonts.mono": "Roboto Mono",
+    "ui.trackBuilder.menus.advancedModifiers": "Rozšírené modifikátory",
+    "ui.trackBuilder.menus.advancedPieces": "Rozšírené časti",
+    "ui.trackBuilder.menus.trackShape": "Tvar trate",
+    "ui.trackBuilder.selection.previous": "Vybrať predchádzajúcu časť",
+    "ui.trackBuilder.selection.next": "Vybrať nasledujúcu časť",
+    "ui.trackBuilder.selection.first": "Vybrať prvú časť",
+    "ui.trackBuilder.selection.last": "Vybrať poslednú časť",
+    "ui.trackBuilder.toolbar.changeShape": "Zmeniť tvar trate",
+    "ui.trackBuilder.base.length": "Veľkosť",
+    "ui.trackBuilder.base.radius": "Polomer",
+    "ui.trackBuilder.base.width": "Dĺžka",
+    "ui.trackBuilder.base.height": "Výška",
+    "ui.trackBuilder.tooltip.addObstacle": "Pridať prekážku"
 }
