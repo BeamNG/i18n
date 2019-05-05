@@ -2390,5 +2390,6 @@
     "quickrace.italy.highway1.title": "Шоссе",
     "quickrace.italy.highway1.description": "Скоростная 4-полосная дорога. Идеально подходит для быстрых машин.",
     "quickrace.italy.islandTour1.title": "Тур по острову",
-    "vehicle.drivetrain.exhaustDamaged": "Выхлопная система повреждена"
+    "vehicle.drivetrain.exhaustDamaged": "Выхлопная система повреждена",
+    "ui.performance.highsea.txt": "Спасибо, что попробовали нашу игру! :) [br][br] Похоже, что вы используете неофициальную копию. Она может быть менее стабильная, чем официальная версия, а также содержать вирусы (советуем проверить компьютер). [br][br] Если вам понравилась игра, и вы хотите поддержать процесс разработки, всегда получать последние обновления и поддержку в случае неполадок — пожалуйста, подумайте над покупкой BeamNG.drive в [url=https://store.steampowered.com/app/284160/BeamNGdrive]Steam[/url] или [url=https://www.humblebundle.com/store/beamngdrive]Humble Bundle[/url]. [br][br] Спасибо ещё раз от всей команды!"
 }
