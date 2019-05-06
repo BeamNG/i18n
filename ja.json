@@ -702,5 +702,6 @@
     "ui.options.audio.ambienceVol": "環境音。",
     "ui.options.audio.quality": "品質",
     "ui.options.audio.sources": "音質",
-    "engine.nodegrab.fixedwarning": "CTRL + マウス中ボタンでノードの固定解除"
+    "engine.nodegrab.fixedwarning": "CTRL + マウス中ボタンでノードの固定解除",
+    "engine.nodegrab.uncoupling": "接続されているノードの結合解除"
 }
