@@ -2396,5 +2396,9 @@
     "ui.options.camera.cameraDriverResetSeatAll": "Сбросить положение сиденья для всех машин",
     "ui.camera.fovDriver": "Поле зрения установлено на {{degrees | number: 1}}° для всех машин",
     "ui.camera.driverTiltAdjusted": "Сиденье наклонено на {{angle|number:1}}° для всех вариантов {{vehicleName}}",
-    "ui.camera.driverPositionAdjusted": "Положение сиденья установлено на {{y*100|number:1}} см, {{z*100|number:1}} см для всех вариантов {{vehicleName}}"
+    "ui.camera.driverPositionAdjusted": "Положение сиденья установлено на {{y*100|number:1}} см, {{z*100|number:1}} см для всех вариантов {{vehicleName}}",
+    "ui.options.motionSim.accelerationSmoothingX": "X",
+    "ui.options.motionSim.accelerationSmoothingY": "Y",
+    "ui.options.motionSim.accelerationSmoothingZ": "Z",
+    "ui.options.modNumParallelDownload": "Максимум параллельных загрузок из репозитория"
 }
