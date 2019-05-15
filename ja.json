@@ -292,7 +292,7 @@
     "ui.options.audio.audioProvider": "オーディオプロバイダー",
     "ui.options.audio.hardware": "ハードウェア",
     "ui.options.audio.masterVol": "マスターボリューム",
-    "ui.options.audio.musicVol": "ミュージックボリューム。",
+    "ui.options.audio.musicVol": "ミュージックボリューム",
     "ui.options.audio.mute": "ミュート",
     "ui.options.audio.test": "テスト",
     "ui.options.audio.unmute": "ミュート解除",
@@ -699,7 +699,7 @@
     "ui.options.advanced": "拡張",
     "ui.options.modAutoUpdates": "modを自動で更新",
     "ui.options.audio": "サウンド",
-    "ui.options.audio.ambienceVol": "環境音。",
+    "ui.options.audio.ambienceVol": "環境音",
     "ui.options.audio.quality": "品質",
     "ui.options.audio.sources": "音質",
     "engine.nodegrab.fixedwarning": "CTRL + マウス中ボタンでノードの固定解除",
@@ -907,5 +907,6 @@
     "ui.options.modNumParallelDownload": "同時にダウンロードするModの数",
     "ui.options.graphics.sleepinbackground": "バックグラウンドではスリープ状態にする",
     "ui.options.graphics.GraphicMeshQuality": "メッシュの品質",
-    "ui.options.graphics.DisplayShadows": "影の表示"
+    "ui.options.graphics.DisplayShadows": "影の表示",
+    "ui.controls.filters.1": "コントローラー"
 }
