@@ -888,5 +888,8 @@
     "ui.apps.clutch_thermal_debug.name": "クラッチ温度デバッグ",
     "ui.apps.hotlapping.name": "ホットラップ",
     "ui.options.userInterface.garageAutoSave": "ガレージでの車両の自動保存",
-    "ui.options.assistants": "ドライブアシスト"
+    "ui.options.assistants": "ドライブアシスト",
+    "ui.options.camera.order": "切り替えの順番",
+    "ui.options.camera.resetConfiguration": "順番のリセット",
+    "ui.options.camera.cameraOrbitFovModifier": "視野角の設定"
 }
