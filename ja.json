@@ -140,7 +140,7 @@
     "ui.common.warn": "警告",
     "ui.controls.availableHardware": "有効なハードウェア",
     "ui.controls.bindings": "割り当て",
-    "ui.controls.configuration": "構成\n",
+    "ui.controls.configuration": "構成",
     "ui.controls.createBinding": "新しい割り当てを追加",
     "ui.controls.driverWarning": "注意: もし {{productName}}のフォースフィードバックに問題がある場合、ロジクールドライバーを最新版にアップデートする必要があるかもしれません。",
     "ui.controls.editBinding": "割り当てを編集",
