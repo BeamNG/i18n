@@ -303,11 +303,11 @@
     "ui.options.currentLanguage": "使用中の言語",
     "ui.options.gameplay": "ゲームプレイ",
     "ui.options.gameplay.autoClutch": "クラッチアシスト（マニュアルトランスミッション）",
-    "ui.options.gameplay.autoThrottle": "スロットルアシスト (manual transmission)",
+    "ui.options.gameplay.autoThrottle": "スロットルアシスト（マニュアルトランスミッション）",
     "ui.options.gameplay.defaultGearboxBehavior": "デフォルトのトランスミッションモード",
     "ui.options.gameplay.enginesPreheated": "エンジン予熱",
     "ui.options.gameplay.gameplay": "ゲーム",
-    "ui.options.gameplay.noSteer": "ステアリングホイールを隠す",
+    "ui.options.gameplay.noSteer": "ハンドルを非表示",
     "ui.options.gameplay.raceBrakesPreheated": "レース開始時にブレーキを予熱",
     "ui.options.gameplay.updateTranslations": "翻訳ファイルをアップデート",
     "ui.options.graphics": "グラフィック",
@@ -885,5 +885,8 @@
     "ui.replay.appHint": "注：完全な記録と再生にはリプレイアプリを使用してください（ここをクリックしてアプリを設定）",
     "ui.replay.openReplayFolderInExplorer": "リプレイフォルダを開く",
     "ui.apps.precision_compass.name": "精密なコンパス",
-    "ui.apps.clutch_thermal_debug.name": "クラッチ温度デバッグ"
+    "ui.apps.clutch_thermal_debug.name": "クラッチ温度デバッグ",
+    "ui.apps.hotlapping.name": "ホットラップ",
+    "ui.options.userInterface.garageAutoSave": "ガレージでの車両の自動保存",
+    "ui.options.assistants": "ドライブアシスト"
 }
