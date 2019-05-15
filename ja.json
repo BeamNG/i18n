@@ -617,7 +617,7 @@
     "ui.modmanager.downloaded": "ダウンロード完了",
     "ui.environment.day": "昼",
     "ui.color.brightness": "輝度",
-    "ui.vehicleconfig.mouseOverUi": "確実にキーボード入力がUIに認識されるために入力の最中はマウスをUIの上に置いて下さい。",
+    "ui.vehicleconfig.mouseOverUi": "確実にキーボード入力がUIに反映されるよう 入力中はマウスカーソルをUIの上に置いて下さい",
     "ui.replay.play": "再生",
     "ui.replay.stop": "停止",
     "ui.replay.rename": "名前の変更",
@@ -877,5 +877,13 @@
     "scenarios.busRoutes.skip": "一つのバス停をスキップした",
     "scenarios.busRoutes.skipRequiredWpDefault": "必要なウェイポイントをスキップした (default message, define `.failmsg`",
     "scenarios.busRoutes.alreadyStop": "すでにここには停車済み",
-    "ui.options.gameplay.traffic": "トラフィックを有効にする（実験段階につき極端なパフォーマンス低下があります）"
+    "ui.options.gameplay.traffic": "トラフィックを有効にする（実験段階につき極端なパフォーマンス低下があります）",
+    "engine.editor.menu.edit": "編集",
+    "ui.vehicleconfig.filename": "ファイル名",
+    "ui.photomode.fov": "FOV 視野角",
+    "ui.replay.remove": "削除",
+    "ui.replay.appHint": "注：完全な記録と再生にはリプレイアプリを使用してください（ここをクリックしてアプリを設定）",
+    "ui.replay.openReplayFolderInExplorer": "リプレイフォルダを開く",
+    "ui.apps.precision_compass.name": "精密なコンパス",
+    "ui.apps.clutch_thermal_debug.name": "クラッチ温度"
 }
