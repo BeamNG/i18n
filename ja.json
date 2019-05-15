@@ -291,7 +291,7 @@
     "ui.options.audio.audioDevice": "オーディオデバイス",
     "ui.options.audio.audioProvider": "オーディオプロバイダー",
     "ui.options.audio.hardware": "ハードウェア",
-    "ui.options.audio.masterVol": "マスターボリューム。",
+    "ui.options.audio.masterVol": "マスターボリューム",
     "ui.options.audio.musicVol": "ミュージックボリューム。",
     "ui.options.audio.mute": "ミュート",
     "ui.options.audio.test": "テスト",
@@ -528,7 +528,7 @@
     "ui.options.graphics.GraphicDynReflectionDetail": "解像度",
     "ui.options.graphics.GraphicDynReflectionFacesPerupdate": "更新頻度",
     "ui.options.graphics.MainMenuBackgroundMode": "メニューの背景",
-    "ui.options.graphics.GraphicGrassDensity": "草密度",
+    "ui.options.graphics.GraphicGrassDensity": "草の密度",
     "ui.options.graphics.GraphicDynReflection.warning": "注意 -更新頻度の変更はグラフィックに負担をかけます。パフォーマンスに問題が起こる場合、この数値を下げてください",
     "ui.options.graphics.PostFXDOFGeneralEnabled": "被写界深度",
     "ui.options.gameplay.defaultToCurrentVehicle": "現在の車両をデフォルトとして設定する",
@@ -904,5 +904,8 @@
     "ui.options.camera.cameraDriverAutocenterHint": "視点操作を終えるとカメラが中央に戻る",
     "ui.options.camera.cameraDriverAllowSeatAdjustments": "シート調整を許可",
     "ui.options.camera.cameraDriverAllowSeatAdjustmentsHint": "操作設定を使ってシート位置の微調整を行います",
-    "ui.options.modNumParallelDownload": "同時にダウンロードするModの数"
+    "ui.options.modNumParallelDownload": "同時にダウンロードするModの数",
+    "ui.options.graphics.sleepinbackground": "バックグラウンドではスリープ状態にする",
+    "ui.options.graphics.GraphicMeshQuality": "メッシュの品質",
+    "ui.options.graphics.DisplayShadows": "影の表示"
 }
