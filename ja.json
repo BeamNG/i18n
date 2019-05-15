@@ -703,7 +703,7 @@
     "ui.options.audio.quality": "品質",
     "ui.options.audio.sources": "音質",
     "engine.nodegrab.fixedwarning": "CTRL + マウス中ボタンでノードの固定解除",
-    "engine.nodegrab.uncoupling": "接続されているノードの結合解除",
+    "engine.nodegrab.uncoupling": "接続されているノードのデカップリング",
     "engine.nodegrab.coupling": "2つのノードを結合",
     "ui.repository.filters": "フィルター",
     "ui.repository.option_reviews": "評価",
