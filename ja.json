@@ -563,7 +563,7 @@
     "engine.cef.subprocessdied.msg": "UIプロセスが時間内に応答しませんでした。\nこの問題はウィルス対策ソフトが　BeamNG.drive.ui.exe　をブロックしている場合に発生します。\n\nさらなるヘルプを得るにはこちら:\n\nhttp://wiki.beamng.com/Errors/Unresponsive_UI_Process\n\nブラウザでこのURLを開きますか？",
     "engine.cef.subprocessdied.url": "http://wiki.beamng.com/Errors/Unresponsive_UI_Process",
     "engine.resourceMissing": "リソースの作成に失敗しました　（ファイルが間違っていませんか？）:",
-    "engine.engineFail": "ゲームのイニシャライズに失敗しました、シャットダウン中。",
+    "engine.engineFail": "ゲームの初期化に失敗しました。シャットダウンします。",
     "engine.invalidUserpath.title": "ユーザーパスが無効",
     "engine.editor.loading": "ワールドエディターを読み込み中...",
     "engine.editor.menu.file": "ファイル",
@@ -876,5 +876,6 @@
     "scenarios.busRoutes.success": "最後のバス停に到着",
     "scenarios.busRoutes.skip": "一つのバス停をスキップした",
     "scenarios.busRoutes.skipRequiredWpDefault": "必要なウェイポイントをスキップした (default message, define `.failmsg`",
-    "scenarios.busRoutes.alreadyStop": "すでにここには停車済み"
+    "scenarios.busRoutes.alreadyStop": "すでにここには停車済み",
+    "ui.options.gameplay.traffic": "トラフィックを有効にする（実験段階につき極端なパフォーマンス低下があります）"
 }
