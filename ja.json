@@ -559,7 +559,7 @@
     "ui.faq.findMods.a": "こちらでModを見つけることができます:[url=http://www.beamng.com/resources/]\nBeamNG.drive repository[/url] ログインした場合Modページの緑のボタンから簡単にインストールできます。",
     "ui.perforamnce.improvements": "簡単にパフォーマンスを向上させるには",
     "ui.performance.link.graphicsOptions": "グラフィックオプション",
-    "ui.options.audio.effectsVol": "エフェクトボリューム。",
+    "ui.options.audio.effectsVol": "エフェクトボリューム",
     "engine.cef.subprocessdied.msg": "UIプロセスが時間内に応答しませんでした。\nこの問題はウィルス対策ソフトが　BeamNG.drive.ui.exe　をブロックしている場合に発生します。\n\nさらなるヘルプを得るにはこちら:\n\nhttp://wiki.beamng.com/Errors/Unresponsive_UI_Process\n\nブラウザでこのURLを開きますか？",
     "engine.cef.subprocessdied.url": "http://wiki.beamng.com/Errors/Unresponsive_UI_Process",
     "engine.resourceMissing": "リソースの作成に失敗しました　（ファイルが間違っていませんか？）:",
@@ -904,5 +904,5 @@
     "ui.options.camera.cameraDriverAutocenterHint": "視点操作を終えるとカメラが中央に戻る",
     "ui.options.camera.cameraDriverAllowSeatAdjustments": "シート調整を許可",
     "ui.options.camera.cameraDriverAllowSeatAdjustmentsHint": "操作設定を使ってシート位置の微調整を行います",
-    "ui.options.modNumParallelDownload": "同時にダウンロードするリポジトリの数"
+    "ui.options.modNumParallelDownload": "同時にダウンロードするModの数"
 }
