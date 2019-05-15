@@ -885,5 +885,5 @@
     "ui.replay.appHint": "注：完全な記録と再生にはリプレイアプリを使用してください（ここをクリックしてアプリを設定）",
     "ui.replay.openReplayFolderInExplorer": "リプレイフォルダを開く",
     "ui.apps.precision_compass.name": "精密なコンパス",
-    "ui.apps.clutch_thermal_debug.name": "クラッチ温度"
+    "ui.apps.clutch_thermal_debug.name": "クラッチ温度デバッグ"
 }
