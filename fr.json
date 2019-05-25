@@ -2490,5 +2490,10 @@
     "scenarios.italy.pizzaDelivery1.description": "Livrez les pizza sur la route de l'autre côté de la ville.",
     "scenarios.italy.pizzaDelivery1.fail_time": "Vous avez mit trop de temps...",
     "scenarios.west_coast_usa.wcaAutobelloShowcase.title": "Présentation de l'Autobello Piccolina",
-    "ui.options.userInterface.disableRichPresence": "Désactiver l'overlay Discord"
+    "ui.options.userInterface.disableRichPresence": "Désactiver l'overlay Discord",
+    "ui.fonts.mono": "Roboto Mono",
+    "ui.repository.modmgrnotready": "Le gestionnaire de mods n'est pas encore prêt. Toutes les actions sont mises en attente jusqu'à ce qu'elles puissent être exécutées. Si cela prend trop de temps merci de contacter le support",
+    "ui.options.camera.couplerCameraModifier": "Activer la caméra de couplage",
+    "ui.options.camera.couplerCameraModifierHint": "Modifie l'orbite de la caméra pour une meilleure visibilité lorsque les coupleurs sont utilisés, utile pour les remorques",
+    "scenarios.west_coast_usa.wcaAutobelloShowcase.description": "Un contre la montre technique autour de Belasco City présentant l'Autobello Piccolina"
 }
