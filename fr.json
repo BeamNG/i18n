@@ -2494,7 +2494,7 @@
     "ui.fonts.mono": "Roboto Mono",
     "ui.repository.modmgrnotready": "Le gestionnaire de mods n'est pas encore prêt. Toutes les actions sont mises en attente jusqu'à ce qu'elles puissent être exécutées. Si cela prend trop de temps merci de contacter l'assistance.",
     "ui.options.camera.couplerCameraModifier": "Activer la caméra de couplage",
-    "ui.options.camera.couplerCameraModifierHint": "Modifie l'orbite de la caméra pour une meilleure visibilité lorsque les coupleurs sont utilisés, utile pour les remorques.",
+    "ui.options.camera.couplerCameraModifierHint": "Modifie l'orbite de la caméra pour une meilleure visibilité lorsque les coupleurs sont utilisés, utile pour les remorques",
     "scenarios.west_coast_usa.wcaAutobelloShowcase.description": "Un contre la montre complexe autour de Belasco City pour présenter l'Autobello Piccolina",
     "scenarios.italy.pizzaDelivery1.customer1": "Merci, jeune homme !",
     "scenarios.italy.pizzaDelivery1.tip_stop": "Arrêtez-vous au prochain point de passage",
