@@ -2279,8 +2279,8 @@
     "levels.automation_test_track.info.description": "Une piste de test pour les véhicules d'Automation",
     "levels.automation_test_track.info.roads": "80% asphalte, 20% routes de terre",
     "levels.italy.spawnpoints.village_north": "Village Nord",
-    "levels.italy.spawnpoints.village_mountain": "Vieille ville (Città Vecchia)",
-    "levels.italy.spawnpoints.city": "Nord (Norte)",
+    "levels.italy.spawnpoints.village_mountain": "Città Vecchia",
+    "levels.italy.spawnpoints.city": "Norte",
     "levels.italy.spawnpoints.airport": "Aéroport",
     "levels.italy.spawnpoints.town_west": "Ville de l'Ouest",
     "quickrace.automation_test_track.hillclimb1.title": "Course de côte 1",
@@ -2301,7 +2301,7 @@
     "campaigns.west_coast_usa.bus_minichapter.title": "Tumulte et agitation",
     "campaigns.west_coast_usa.bus_minichapter.description": "Prouvez vos talents de conducteur de bus aux studios Lens Flare",
     "levels.automation_test_track.info.biome": "touffes de prairie",
-    "levels.automation_test_track.info.features": "piste de test, course de côte, course de rallye, test de maniabilité",
+    "levels.automation_test_track.info.features": "piste d'essai, course de côte, course de rallye, test de maniabilité",
     "levels.automation_test_track.info.suitablefor": "test de prototypes, rallye",
     "levels.west_coast_usa.spawnpoints.dragstrip": "Piste de dragster",
     "levels.italy.spawnpoints.crossroads": "Carrefours",
@@ -2513,5 +2513,7 @@
     "quickrace.italy.gravelHillclimb2.description": "Une montée de 6,2 km au sommet de la montagne. La route est composée de 90% de gravier et de 10% d'asphalte avec de nombreuses épingles à cheveux et des falaises mortelles.",
     "quickrace.italy.highway1.title": "Autoroute",
     "quickrace.italy.highway1.description": "Une route rapide à 4 voies sur l'autoroute locale. Idéal pour les véhicules rapides.",
-    "quickrace.italy.miniVillageLoop1.description": "Ce circuit court est situé dans l’un des petits villages étroits de l’île."
+    "quickrace.italy.miniVillageLoop1.description": "Ce circuit court est situé dans l’un des petits villages exiguë de l’île.",
+    "levels.italy.spawnpoints.port": "Port",
+    "vehicle.drivetrain.exhaustDamaged": "Pot d'échappement endommagé"
 }
