@@ -2496,7 +2496,7 @@
     "ui.options.camera.couplerCameraModifier": "Activer la caméra de couplage",
     "ui.options.camera.couplerCameraModifierHint": "Modifie l'orbite de la caméra pour une meilleure visibilité lorsque les coupleurs sont utilisés, utile pour les remorques.",
     "scenarios.west_coast_usa.wcaAutobelloShowcase.description": "Un contre la montre complexe autour de Belasco City pour présenter l'Autobello Piccolina",
-    "scenarios.italy.pizzaDelivery1.customer1": "Merci jeune homme !",
+    "scenarios.italy.pizzaDelivery1.customer1": "Merci, jeune homme !",
     "scenarios.italy.pizzaDelivery1.tip_stop": "Arrêtez-vous au prochain point de passage",
     "scenarios.italy.tastiColaDelivery1.title": "Livraison de Tasti-Cola",
     "scenarios.italy.tastiColaDelivery1.tip_increaseHeight1": "Augmente la garde au sol du véhicule à l'aide de [action=semi__increase_rideHeight]",
@@ -2504,5 +2504,5 @@
     "scenarios.italy.electricHypermilling.description": "Les batteries de ta E-SBR sont faibles. Pourras-tu aller jusqu'à la prochaine borne de recharge à Castelletto ?",
     "scenarios.italy.pizzaDelivery1.portraitText": "Oh gamin ! Le chef veut que tu livres des pizzas. Tu as moins de trois minutes et veille à bien t'arrêter chez le client cette fois ! Oh, et des manifestations ont lieu en ville, tu devras donc improviser. Je te fais confiance, tu te souviens de tous les bons vieux raccourcis…",
     "scenarios.italy.pizzaDelivery1.fail_stop": "Tu ne t'es par arrêté pour le client !",
-    "scenarios.italy.pizzaDelivery1.success_fast": "Hé, va offrir de la pizza au protestant. Peut-être alors ils vont se taire!"
+    "scenarios.italy.pizzaDelivery1.success_fast": "Hé, va offrir de la pizza aux manifestants. Peut-être alors qu'ils vont se taire!"
 }
