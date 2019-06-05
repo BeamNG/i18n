@@ -2510,5 +2510,6 @@
     "quickrace.italy.cliffRoad1.description": "Une route dangereuse atour de la moitié sud de l’île avec des falaises abruptes et des bords tranchants.",
     "quickrace.italy.cliffRoad1.title": "Route de falaise",
     "quickrace.italy.gravelHillclimb1.description": "Une montée de 4 km des champs au flanc de la montagne, composée de 98% de gravier et de 2% d'asphalte.",
-    "quickrace.italy.gravelHillclimb2.description": "Une montée de 6,2 km au sommet de la montagne. La route est composée à 90% de gravier et à 10% d'asphalte, avec de nombreuses épingles à cheveux et des falaises mortelles."
+    "quickrace.italy.gravelHillclimb2.description": "Une montée de 6,2 km au sommet de la montagne. La route est composée de 90% de gravier et de 10% d'asphalte avec de nombreuses épingles à cheveux et des falaises mortelles.",
+    "quickrace.italy.highway1.title": "Autoroute"
 }
