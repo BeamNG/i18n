@@ -2511,5 +2511,7 @@
     "quickrace.italy.cliffRoad1.title": "Route de falaise",
     "quickrace.italy.gravelHillclimb1.description": "Une montée de 4 km des champs au flanc de la montagne, composée de 98% de gravier et de 2% d'asphalte.",
     "quickrace.italy.gravelHillclimb2.description": "Une montée de 6,2 km au sommet de la montagne. La route est composée de 90% de gravier et de 10% d'asphalte avec de nombreuses épingles à cheveux et des falaises mortelles.",
-    "quickrace.italy.highway1.title": "Autoroute"
+    "quickrace.italy.highway1.title": "Autoroute",
+    "quickrace.italy.highway1.description": "Une route rapide à 4 voies sur l'autoroute locale. Idéal pour les véhicules rapides.",
+    "quickrace.italy.miniVillageLoop1.description": "Ce circuit court est situé dans l’un des petits villages étroits de l’île."
 }
