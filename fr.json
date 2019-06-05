@@ -739,7 +739,7 @@
     "scenarios.utah.chapter_1.chapter_1_ramcliff.fail.msg": "Vous n'avez pas fait tomber les deux véhicules jusqu'en bas de la colline",
     "scenarios.utah.chapter_1.chapter_1_ramcliff.pass.msg": "Les deux voitures sont tombées",
     "scenarios.utah.chapter_1.chapter_1_ramcliff.title": "Chute depuis le haut de la falaise",
-    "scenarios.utah.chapter_1.chapter_1_rubberband.description": "NE PAS TRADUIRE !!",
+    "scenarios.utah.chapter_1.chapter_1_rubberband.description": "Élastique - stats : dommages reçus, temps mis, distance atteinte par dessus la rivière, score : distance atteinte par dessus la rivière, échec : ne pas activer l'élastique, ne pas atteindre le premier point de passage, Notes : besoin d'un bouton qui active un effet d'élastique qui lie votre voiture au côté de la route le temps que vous maintenez le bouton, activer ceci vous balancera par dessus la rivière",
     "scenarios.utah.chapter_1.chapter_1_rubberband.timeLimit.msg": "Vous avez mis plus de {{timeLimit}} secondes",
     "scenarios.utah.chapter_1.chapter_1_rubberband.title": "Élastique",
     "scenarios.utah.chapter_1.chapter_1_suspension.description": "Foncez sur un terrain difficile et mettez vos suspensions à l'épreuve.",
