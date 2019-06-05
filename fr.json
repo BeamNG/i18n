@@ -2500,5 +2500,6 @@
     "scenarios.italy.pizzaDelivery1.tip_stop": "Arrêtez-vous au prochain point de passage",
     "scenarios.italy.tastiColaDelivery1.title": "Livraison de Tasti-Cola",
     "scenarios.italy.tastiColaDelivery1.tip_increaseHeight1": "Augmente la garde au sol du véhicule à l'aide de [action=semi__increase_rideHeight]",
-    "scenarios.italy.tastiColaDelivery1.tip_increaseHeight2": "Diminuer la garde au sol du véhicule [action=semi__decrease_rideHeight]"
+    "scenarios.italy.tastiColaDelivery1.tip_increaseHeight2": "Diminuer la garde au sol du véhicule [action=semi__decrease_rideHeight]",
+    "scenarios.italy.electricHypermilling.description": "Les batteries de ta E-SBR sont faibles. Parviendras-tu à la prochaine borne de recharge à Castelletto ?"
 }
