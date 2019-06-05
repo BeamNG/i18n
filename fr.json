@@ -2442,8 +2442,8 @@
     "ui.options.motionSim.accelerationSmoothingZ": "Z",
     "ui.options.modNumParallelDownload": "Nombre de téléchargements du dépôt simultanés",
     "ui.performance.warnings.highseas": "Nom d'une pipe !",
-    "ui.performance.highsea.txt": "Merci d'avoir essayé notre jeu ! :) [br][br] Votre version du jeu a l'air d'être piratée. D'après notre expérience, celles-ci peuvent être moins fiables que les versions officielles et peuvent contenir des malwares, veuillez donc vérifier votre ordinateur. [br][br]Si vous appréciez notre produit et voulez nous supporter dans nos efforts de développement, toujours profiter des dernières versions et utiliser le support officiel, merci d'acheter une copie de BeamNG.driver sur [url=https://store.steampowered.com/app/284160/BeamNGdrive]Steam[/url] ou [url=https://www.humblebundle.com/store/beamngdrive]Humble Bundle[/url].[br][br] Merci de la part de toute l'équipe !",
-    "ui.performance.highsea.okay": "Ok ! À l'abordage !",
+    "ui.performance.highsea.txt": "Merci d'avoir essayé notre jeu ! :) [br][br] Votre version du jeu a l'air d'être piratée. D'après notre expérience, celles-ci peuvent être moins fiables que les versions officielles et peuvent contenir des malwares, veuillez donc vérifier votre ordinateur. [br][br]Si vous appréciez notre produit et voulez nous aider dans le développement, profiter des dernières versions et avoir l'assistance officielle, merci d'acheter une version officielle de BeamNG.driver sur [url=https://store.steampowered.com/app/284160/BeamNGdrive]Steam[/url] ou [url=https://www.humblebundle.com/store/beamngdrive]Humble Bundle[/url].[br][br] Merci de la part de toute l'équipe !",
+    "ui.performance.highsea.okay": "Ok ! C'est parti !",
     "ui.performance.disk": "Stockage (HDD/SSD)",
     "ui.performance.userpath": "Dossier utilisateur",
     "ui.performance.rootpath": "Dossier du jeu",
@@ -2495,5 +2495,6 @@
     "ui.repository.modmgrnotready": "Le gestionnaire de mods n'est pas encore prêt. Toutes les actions sont mises en attente jusqu'à ce qu'elles puissent être exécutées. Si cela prend trop de temps merci de contacter l'assistance.",
     "ui.options.camera.couplerCameraModifier": "Activer la caméra de couplage",
     "ui.options.camera.couplerCameraModifierHint": "Modifie l'orbite de la caméra pour une meilleure visibilité lorsque les coupleurs sont utilisés, utile pour les remorques.",
-    "scenarios.west_coast_usa.wcaAutobelloShowcase.description": "Un contre la montre technique autour de Belasco City présentant l'Autobello Piccolina"
+    "scenarios.west_coast_usa.wcaAutobelloShowcase.description": "Un contre la montre complexe autour de Belasco City pour présenter l'Autobello Piccolina",
+    "scenarios.italy.pizzaDelivery1.customer1": "Merci jeune homme !"
 }
