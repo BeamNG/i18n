@@ -2522,5 +2522,7 @@
     "quickrace.italy.mixedCircuit1.title": "Circuit Mixte",
     "quickrace.italy.throughTheCentre.title": "À travers le centre",
     "levels.italy.spawnpoints.castle_town": "Castelletto",
-    "levels.italy.spawnpoints.town_east": "Fastello"
+    "levels.italy.spawnpoints.town_east": "Fastello",
+    "quickrace.italy.islandTour1.title": "Tour de l'île",
+    "quickrace.italy.islandTour1.description": "Ce long circuit est un long tronçon d’autoroute et quelques routes de falaise avec une vue magnifique."
 }
