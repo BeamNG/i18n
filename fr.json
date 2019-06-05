@@ -2468,7 +2468,7 @@
     "scenarios.utah.prototype.arrival.pass.msg": "Pas mal pour un nouveau. Un peu d'aide ne serait pas de refus. Mais si tu souhaites en apprendre plus à propos du pilotage, rends visite à [color=#4169E1][b]mon frère[/b][/color] au [color=#008000][b]ETK Racing Experience Center[/b][/color].",
     "scenarios.utah.prototype.arrival.timeLimit.msg": "C'est vraiment si dur que ça ? Tu devrais peut être jouer à des jeux de course d'arcade à la place, non ?",
     "scenarios.utah.prototype.arrival.position.msg": "C'est vraiment si dur que ça ? Tu devrais peut être jouer à des jeux de course d'arcade à la place, non ?",
-    "quickrace.jungle_rock_island.jri_dirt_loop.title": "Boucle de terre de l'île",
+    "quickrace.jungle_rock_island.jri_dirt_loop.title": "Tour de l'île boueux",
     "quickrace.jungle_rock_island.jri_dirt_loop.description": "Une longue boucle à travers l'île, principalement composée de routes de terre.",
     "quickrace.hirochi_raceway.forgotten_raceway2.title": "Circuit oublié 2",
     "quickrace.hirochi_raceway.forgotten_raceway2.description": "Une autre course à travers l'ancienne partie du Circuit Hirochi laissée à l'abandon. Dans ces sections il n'y a pas de barrières ni fosses de sables, juste une forêt.",
@@ -2501,5 +2501,5 @@
     "scenarios.italy.tastiColaDelivery1.title": "Livraison de Tasti-Cola",
     "scenarios.italy.tastiColaDelivery1.tip_increaseHeight1": "Augmente la garde au sol du véhicule à l'aide de [action=semi__increase_rideHeight]",
     "scenarios.italy.tastiColaDelivery1.tip_increaseHeight2": "Diminuer la garde au sol du véhicule [action=semi__decrease_rideHeight]",
-    "scenarios.italy.electricHypermilling.description": "Les batteries de ta E-SBR sont faibles. Parviendras-tu à la prochaine borne de recharge à Castelletto ?"
+    "scenarios.italy.electricHypermilling.description": "Les batteries de ta E-SBR sont faibles. Pourras-tu aller jusqu'à la prochaine borne de recharge à Castelletto ?"
 }
