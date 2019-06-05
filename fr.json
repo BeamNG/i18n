@@ -2515,5 +2515,8 @@
     "quickrace.italy.highway1.description": "Une route rapide à 4 voies sur l'autoroute locale. Idéal pour les véhicules rapides.",
     "quickrace.italy.miniVillageLoop1.description": "Ce circuit court est situé dans l’un des petits villages exiguë de l’île.",
     "levels.italy.spawnpoints.port": "Port",
-    "vehicle.drivetrain.exhaustDamaged": "Pot d'échappement endommagé"
+    "vehicle.drivetrain.exhaustDamaged": "Pot d'échappement endommagé",
+    "scenarios.italy.tastiColaDelivery1.description": "Livre une remorque de Tasti-Cola aux boutiques de la Citta Vecchia.",
+    "quickrace.italy.port_autocross.title": "Port Gymkhana",
+    "levels.italy.spawnpoints.small_village": "Portino"
 }
