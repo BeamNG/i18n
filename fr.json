@@ -2505,5 +2505,7 @@
     "scenarios.italy.pizzaDelivery1.portraitText": "Oh gamin ! Le chef veut que tu livres des pizzas. Tu as moins de trois minutes et veille à bien t'arrêter chez le client cette fois ! Oh, et des manifestations ont lieu en ville, tu devras donc improviser. Je te fais confiance, tu te souviens de tous les bons vieux raccourcis…",
     "scenarios.italy.pizzaDelivery1.fail_stop": "Tu ne t'es par arrêté pour le client !",
     "scenarios.italy.pizzaDelivery1.success_fast": "Hé, va offrir de la pizza aux manifestants. Peut-être alors qu'ils vont se taire !",
-    "scenarios.italy.pizzaDelivery1.customer2": "Vous en avez mis du temps."
+    "scenarios.italy.pizzaDelivery1.customer2": "Vous en avez mis du temps.",
+    "quickrace.italy.asphaltHillclimb1.description": "Une montée étroite vers le village du château sur une route sinueuse avec 10 épingles à cheveux.",
+    "quickrace.italy.cliffRoad1.description": "Une route dangereuse autour de la moitié sud de l’île, avec des falaises abruptes et des coins pointus."
 }
