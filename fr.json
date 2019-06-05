@@ -2503,5 +2503,6 @@
     "scenarios.italy.tastiColaDelivery1.tip_increaseHeight2": "Diminuer la garde au sol du véhicule [action=semi__decrease_rideHeight]",
     "scenarios.italy.electricHypermilling.description": "Les batteries de ta E-SBR sont faibles. Pourras-tu aller jusqu'à la prochaine borne de recharge à Castelletto ?",
     "scenarios.italy.pizzaDelivery1.portraitText": "Oh gamin ! Le chef veut que tu livres des pizzas. Tu as moins de trois minutes et veille à bien t'arrêter chez le client cette fois ! Oh, et des manifestations ont lieu en ville, tu devras donc improviser. Je te fais confiance, tu te souviens de tous les bons vieux raccourcis…",
-    "scenarios.italy.pizzaDelivery1.fail_stop": "Tu ne t'es par arrêté pour le client !"
+    "scenarios.italy.pizzaDelivery1.fail_stop": "Tu ne t'es par arrêté pour le client !",
+    "scenarios.italy.pizzaDelivery1.success_fast": "Hé, va offrir de la pizza au protestant. Peut-être alors ils vont se taire!"
 }
