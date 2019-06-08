@@ -2527,5 +2527,6 @@
     "quickrace.italy.islandTour1.description": "Ce long circuit autour de toute l’île avec de l'autoroute et quelques routes de falaise avec une vue magnifique.",
     "levels.hirochi_raceway_v2.info.description": "La piste Hirochi, située sur la côte est des Etats-Unis, est historique mais a été revisitée.",
     "levels.hirochi_raceway_v2.info.biome": "Tempéré, forêt",
-    "levels.hirochi_raceway_v2.info.roads": "70% d’asphalte neuve, 30% d'asphalte délaissée"
+    "levels.hirochi_raceway_v2.info.roads": "70% d’asphalte neuve, 30% d'asphalte délaissée",
+    "quickrace.italy.mountainVillageCircuit1.title": "Circuit Village de montagne"
 }
