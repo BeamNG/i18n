@@ -2402,7 +2402,7 @@
     "ui.trackBuilder.saveLoad.description": "Description",
     "ui.trackBuilder.saveLoad.difficulty": "Difficulté",
     "ui.trackBuilder.settings.cameraFollow": "Suivi de la caméra automatique",
-    "ui.trackBuilder.settings.cameraFollowDistance": "Distance de suivi",
+    "ui.trackBuilder.settings.cameraFollowDistance": "Restez à distance",
     "ui.repository.notOnline": "La connexion au server n'a pas pu être établie. Si ce problème persiste, veuillez vérifier ",
     "ui.repository.notOnline_here": "ici",
     "ui.credits.soundtrack": "Musique",
