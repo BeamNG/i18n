@@ -837,7 +837,7 @@
     "ui.hints.notAllCarsCanRace": "Sok jármű van, amelyet nem érdemes meghajtani, vagy gyári formájában nem alkalmas versenyzésre. Az autókhoz elérhető utángyártott komponensek az Alkatrészek menüben ([action=parts_selector]) érhetőek el.",
     "ui.hints.changeBrakePads": "Ha úgy érzed, hogy elkopott a fék, az Alkatrészek ([action=parts_selector]) menüben jobb fékbetéteket szerelhetsz a kocsiba.",
     "ui.hints.useTurnSignals": "Tudtad, hogy a legtöbb autón van működő irányjelző? Nos, ez a BeamNG.drive-ban is így van! Aktiváld őket a következő gombokkal: bal irányjelző - [action=toggle_left_signal]; jobb irányjelző - [action=toggle_right_signal].",
-    "ui.hints.showCustomVehicles": "Ha szeretnéd, hogy a Járműválasztó listázza a saját egyedi járműkiépítéseidet, engedélyezd a funkciót a Beállítások > Kezelőfelület > Egyedi járművek listázása opcióval.",
+    "ui.hints.showCustomVehicles": "Ha szeretnéd, hogy a Járműválasztó listázza a saját egyedi járműkiépítéseidet, engedélyezd a 'Beállítások > Játékmenet > Egyedi járművek listázása' opcióval.",
     "ui.hints.tweakFOV": "A kamera látószögét a Beállítások > Játékmenet > Látószög (FOV) beállítása opcióval módosíthatod.",
     "ui.hints.driveWithMouse": "Ha szeretnéd, az egereddel is vezethetsz. Csak állítsd be az Irányítás menüben az ízlésednek megfelelően a kiosztásokat.",
     "ui.hints.liftOffOversteer": "Ha nagysebességű kanyarodás közben hirtelen leveszed a lábad a gázpedálról, az autó instabillá válhat, és elvesztheted felette az uralmadat. Ezt nevezik \"gázelvételi túlkormányzásnak\".",
