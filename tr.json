@@ -869,5 +869,6 @@
     "engine.editor.menu.showSelection": "Seçimi Göster",
     "engine.editor.menu.hideSelection": "Seçimi gizle",
     "engine.editor.menu.alignBounds": "Sınırları Hizala",
-    "engine.editor.menu.alignCenter": "Merkezi Hizala"
+    "engine.editor.menu.alignCenter": "Merkezi Hizala",
+    "engine.editor.menu.resetTransforms": "Dönüşümleri Sıfırla"
 }
