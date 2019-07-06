@@ -825,5 +825,9 @@
     "engine.editor.menu.cameraspeed": "Kamera Hızı",
     "engine.editor.menu.cameraspeed.slow": "Yavaş",
     "engine.editor.menu.cameraspeed.slowest": "En Yavaş",
-    "engine.editor.menu.cameraspeed.slower": "Daha Yavaş"
+    "engine.editor.menu.cameraspeed.slower": "Daha Yavaş",
+    "engine.editor.menu.cameraspeed.faster": "Daha Hızlı",
+    "engine.editor.menu.cameraspeed.normal": "Normal",
+    "engine.editor.menu.cameraspeed.fast": "Hızlı",
+    "engine.editor.menu.cameraspeed.fastest": "En Hızlı"
 }
