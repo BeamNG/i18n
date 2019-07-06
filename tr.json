@@ -824,5 +824,6 @@
     "engine.editor.menu.camera.back": "Geri",
     "engine.editor.menu.cameraspeed": "Kamera Hızı",
     "engine.editor.menu.cameraspeed.slow": "Yavaş",
-    "engine.editor.menu.cameraspeed.slowest": "En Yavaş"
+    "engine.editor.menu.cameraspeed.slowest": "En Yavaş",
+    "engine.editor.menu.cameraspeed.slower": "Daha Yavaş\n"
 }
