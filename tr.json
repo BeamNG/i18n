@@ -640,5 +640,8 @@
     "vehicle.drivetrain.usingHshifter": "H tipi vites kullanıldı. Şimdi kullanılan: '{{shifterModeName | translate}}'",
     "vehicle.recovery.loadHome": "Araç ev pozisyonunda yenilendi",
     "vehicle.recovery.saveHome": "Araç pozisyonu güncellendi (geriye almak için: [action=loadHome]",
-    "engine.lua.reloaded": "Ana LUA örneği yeniden yüklenildi."
+    "engine.lua.reloaded": "Ana LUA örneği yeniden yüklenildi.",
+    "engine.editor.menu.cut": "Kes",
+    "engine.editor.menu.copy": "Kopyala",
+    "engine.editor.menu.delete": "Sil"
 }
