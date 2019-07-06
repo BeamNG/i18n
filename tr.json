@@ -822,5 +822,7 @@
     "engine.editor.menu.camera.front": "Ön",
     "engine.editor.menu.camera.perspective": "Perspektif",
     "engine.editor.menu.camera.back": "Geri",
-    "engine.editor.menu.cameraspeed": "Kamera Hızı"
+    "engine.editor.menu.cameraspeed": "Kamera Hızı",
+    "engine.editor.menu.cameraspeed.slow": "Yavaş",
+    "engine.editor.menu.cameraspeed.slowest": "En Yavaş"
 }
