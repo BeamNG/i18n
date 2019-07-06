@@ -548,7 +548,7 @@
     "ui.options.graphics.GraphicDynReflectionTexsize": "Doku Paketi Boyutu",
     "ui.options.graphics.GraphicLightingQuality": "Işıklandırma Kalitesi",
     "ui.options.graphics.GraphicPostfxQuality": "Sonradan İşleme Kalitesi",
-    "ui.options.graphics.GraphicShaderQuality": "Shader Kalitesi",
+    "ui.options.graphics.GraphicShaderQuality": "Gölgeleme Kalitesi",
     "ui.options.graphics.GraphicTextureQuality": "",
     "ui.options.graphics.PostFXDOFGeneralEnabled": "Alan Derinliği",
     "ui.options.graphics.PostFXHDRGeneralEnabled": "HDR",
