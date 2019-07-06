@@ -840,5 +840,7 @@
     "engine.editor.menu.fitViewSelection": "Görünümü Seçime Sığdır",
     "engine.editor.menu.fitViewSelectionOrbit": "Görünümü Seçime ve Yörüngeye Sığdır",
     "engine.editor.menu.viewType": "Görüş",
-    "engine.editor.menu.speed": "Hız"
+    "engine.editor.menu.speed": "Hız",
+    "engine.editor.menu.addBookmark": "Yer imi ekle...",
+    "engine.editor.menu.manageBookmarks": "Yer imlerini yönet..."
 }
