@@ -833,5 +833,6 @@
     "engine.editor.menu.toggleCamModes": "Kamera Modları arasında geçiş yap",
     "engine.editor.menu.toggleCamera": "Uçan Kameraya geçiş yap",
     "engine.editor.menu.worldCamera": "Dünya Kamerası",
-    "engine.editor.menu.placeCameraSelection": "Kamerayı Seçime Yerleştir\n"
+    "engine.editor.menu.placeCameraSelection": "Kamerayı Seçime Yerleştir",
+    "engine.editor.menu.cameraTranslation": "Kamera dönüştürme"
 }
