@@ -850,5 +850,6 @@
     "engine.editor.menu.lighting": "Işıklandırma",
     "engine.editor.menu.atOrigin": "Kaynağında",
     "engine.editor.menu.atCamaraWoRot": "Yönlendirmeli Kamerada",
-    "engine.editor.menu.screenCenter": "Ekranın Ortasında"
+    "engine.editor.menu.screenCenter": "Ekranın Ortası",
+    "engine.editor.menu.toTerrain": "Araziye"
 }
