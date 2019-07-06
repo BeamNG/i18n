@@ -791,5 +791,8 @@
     "scenarios.busRoutes.skipRequiredWpDefault": "Gerekli geçiş noktasından birini atladın (default message, define `.failmsg`",
     "scenarios.busRoutes.alreadyStop": "Burada daha önce durmuştun",
     "ui.fonts.mono": "Roboto Mono",
-    "vehicle.main.instability": "'{{vehicle}}' Araçta kararsızlık tespit edildi. Simülasyon önlem olarak duraklatıldı"
+    "vehicle.main.instability": "'{{vehicle}}' Araçta kararsızlık tespit edildi. Simülasyon önlem olarak duraklatıldı",
+    "engine.nodegrab.fixedwarning": "Düğümleri bozmak için CTRL + Orta Mouse Tuşunu kullan",
+    "engine.nodegrab.uncoupling": "Bağlanmış tüm düğümler ayrılıyor",
+    "engine.nodegrab.coupling": "İki düğüm bağlanıyor"
 }
