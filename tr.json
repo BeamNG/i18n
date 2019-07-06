@@ -643,5 +643,6 @@
     "engine.lua.reloaded": "Ana LUA örneği yeniden yüklenildi.",
     "engine.editor.menu.cut": "Kes",
     "engine.editor.menu.copy": "Kopyala",
-    "engine.editor.menu.delete": "Sil"
+    "engine.editor.menu.delete": "Sil",
+    "engine.editor.menu.paste": "Yapıştır\n"
 }
