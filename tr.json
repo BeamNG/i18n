@@ -842,5 +842,6 @@
     "engine.editor.menu.viewType": "Görüş",
     "engine.editor.menu.speed": "Hız",
     "engine.editor.menu.addBookmark": "Yer imi ekle...",
-    "engine.editor.menu.manageBookmarks": "Yer imlerini yönet..."
+    "engine.editor.menu.manageBookmarks": "Yer imlerini yönet...",
+    "engine.editor.menu.jumpBookmark": "Yer İmine Zıpla"
 }
