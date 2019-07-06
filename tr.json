@@ -800,5 +800,6 @@
     "engine.editor.menu.audioParams": "Ses Parametreleri ...",
     "engine.editor.menu.resaveLevel": "Herşeyi Yeniden Kaydet",
     "engine.editor.menu.edit": "Düzenle",
-    "engine.editor.menu.undo": "Geri al"
+    "engine.editor.menu.undo": "Geri al",
+    "engine.editor.menu.editorSettings": "Editör Ayarları ..."
 }
