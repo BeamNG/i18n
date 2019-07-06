@@ -817,5 +817,8 @@
     "engine.editor.menu.camera.top": "Üst",
     "engine.editor.menu.camera.bottom": "Alt",
     "engine.editor.menu.camera.left": "Sol",
-    "engine.editor.menu.camera.right": "Sağ"
+    "engine.editor.menu.camera.right": "Sağ",
+    "engine.editor.menu.camera.isometric": "izometrik",
+    "engine.editor.menu.camera.front": "Ön",
+    "engine.editor.menu.camera.perspective": "Perspektif"
 }
