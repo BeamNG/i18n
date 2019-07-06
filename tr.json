@@ -849,5 +849,6 @@
     "engine.editor.menu.editors": "Düzenleyiciler",
     "engine.editor.menu.lighting": "Işıklandırma",
     "engine.editor.menu.atOrigin": "Kaynağında",
-    "engine.editor.menu.atCamaraWoRot": "Yönlendirmeli Kamerada"
+    "engine.editor.menu.atCamaraWoRot": "Yönlendirmeli Kamerada",
+    "engine.editor.menu.screenCenter": "Ekranın Ortasında"
 }
