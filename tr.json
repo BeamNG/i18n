@@ -846,5 +846,6 @@
     "engine.editor.menu.jumpBookmark": "Yer imine git",
     "engine.editor.menu.belowCamera": "Kameranın altı",
     "engine.editor.menu.atCamera": "Kamerada",
-    "engine.editor.menu.editors": "Düzenleyiciler"
+    "engine.editor.menu.editors": "Düzenleyiciler",
+    "engine.editor.menu.lighting": "Işıklandırma"
 }
