@@ -838,5 +838,6 @@
     "engine.editor.menu.placeCameraPlayer": "Oyuncuya Kamera Yerleştir",
     "engine.editor.menu.placePlayerCamera": "Kameraya Oyuncu Yerleştir",
     "engine.editor.menu.fitViewSelection": "Görünümü Seçime Sığdır",
-    "engine.editor.menu.fitViewSelectionOrbit": "Görünümü Seçime ve Yörüngeye Sığdır\n"
+    "engine.editor.menu.fitViewSelectionOrbit": "Görünümü Seçime ve Yörüngeye Sığdır",
+    "engine.editor.menu.viewType": "Görüş"
 }
