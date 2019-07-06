@@ -829,5 +829,6 @@
     "engine.editor.menu.cameraspeed.faster": "Daha Hızlı",
     "engine.editor.menu.cameraspeed.normal": "Normal",
     "engine.editor.menu.cameraspeed.fast": "Hızlı",
-    "engine.editor.menu.cameraspeed.fastest": "En Hızlı"
+    "engine.editor.menu.cameraspeed.fastest": "En Hızlı",
+    "engine.editor.menu.toggleCamModes": "Kamera Modları arasında geçiş yap\n"
 }
