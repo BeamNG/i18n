@@ -853,5 +853,10 @@
     "engine.editor.menu.screenCenter": "Ekranın Ortası",
     "engine.editor.menu.toTerrain": "Araziye",
     "engine.editor.menu.atCenteroid": "Geometrik Merkezde",
-    "engine.editor.menu.belowSelection": "Seçimin Altında\n"
+    "engine.editor.menu.belowSelection": "Seçimin Altında",
+    "engine.editor.menu.xAxis": "X Ekseni",
+    "engine.editor.menu.yAxis": "Y Ekseni",
+    "engine.editor.menu.zAxis": "Z Ekseni",
+    "engine.editor.menu.negZAxis": "-Z Ekseni",
+    "engine.editor.menu.posXAxis": "+X Ekseni"
 }
