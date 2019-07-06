@@ -796,5 +796,7 @@
     "engine.nodegrab.uncoupling": "Bağlanmış tüm düğümler ayrılıyor",
     "engine.nodegrab.coupling": "İki düğüm bağlanıyor",
     "engine.editor.loading": "Dünya Editörü yükleniyor...",
-    "engine.editor.menu.redo": "Yinele"
+    "engine.editor.menu.redo": "Yinele",
+    "engine.editor.menu.audioParams": "Ses Parametreleri ...\n",
+    "engine.editor.menu.resaveLevel": "Herşeyi Yeniden Kaydet"
 }
