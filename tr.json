@@ -645,5 +645,6 @@
     "engine.editor.menu.copy": "Kopyala",
     "engine.editor.menu.delete": "Sil",
     "engine.editor.menu.paste": "Yapıştır\n",
-    "engine.editor.menu.deselect": "Seçimi iptal et"
+    "engine.editor.menu.deselect": "Seçimi iptal et",
+    "engine.editor.menu.select": "Seç ..."
 }
