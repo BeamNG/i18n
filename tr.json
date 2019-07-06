@@ -804,5 +804,10 @@
     "engine.editor.menu.editorSettings": "Editör Ayarları ...",
     "engine.editor.menu.snapOptions": "Snap Seçenekleri...",
     "engine.editor.menu.postfxManager": "Sonradan Efekt Yöneticisi",
-    "engine.editor.menu.visibilityLayers": "Görünürlülük Katmanları"
+    "engine.editor.menu.visibilityLayers": "Görünürlülük Katmanları",
+    "engine.editor.menu.gridOrtho": "Orto Görünümlerde Izgarayı Göster",
+    "engine.editor.menu.view": "Görünüm",
+    "engine.editor.menu.gameOptions": "Oyun seçenekleri...",
+    "engine.editor.menu.camera": "Kamera",
+    "engine.editor.menu.standartCamera": "Standart"
 }
