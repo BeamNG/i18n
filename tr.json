@@ -864,5 +864,6 @@
     "engine.editor.menu.posYAxis": "+ Y Ekseni",
     "engine.editor.menu.posZAxis": "+ Z Ekseni",
     "engine.editor.menu.negXAxis": "-X Ekseni",
-    "engine.editor.menu.negYAxis": "-Y Ekseni"
+    "engine.editor.menu.negYAxis": "-Y Ekseni",
+    "engine.editor.menu.object": "Cisim"
 }
