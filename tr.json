@@ -795,5 +795,6 @@
     "engine.nodegrab.fixedwarning": "Düğümleri bozmak için CTRL + Orta Mouse Tuşunu kullan",
     "engine.nodegrab.uncoupling": "Bağlanmış tüm düğümler ayrılıyor",
     "engine.nodegrab.coupling": "İki düğüm bağlanıyor",
-    "engine.editor.loading": "Dünya editörü yükleniyor..."
+    "engine.editor.loading": "Dünya Editörü yükleniyor...",
+    "engine.editor.menu.redo": "Yinele"
 }
