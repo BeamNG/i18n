@@ -820,5 +820,6 @@
     "engine.editor.menu.camera.right": "Sağ",
     "engine.editor.menu.camera.isometric": "izometrik",
     "engine.editor.menu.camera.front": "Ön",
-    "engine.editor.menu.camera.perspective": "Perspektif"
+    "engine.editor.menu.camera.perspective": "Perspektif",
+    "engine.editor.menu.camera.back": "Geri"
 }
