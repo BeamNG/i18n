@@ -798,5 +798,7 @@
     "engine.editor.loading": "Dünya Editörü yükleniyor...",
     "engine.editor.menu.redo": "Yinele",
     "engine.editor.menu.audioParams": "Ses Parametreleri ...\n",
-    "engine.editor.menu.resaveLevel": "Herşeyi Yeniden Kaydet"
+    "engine.editor.menu.resaveLevel": "Herşeyi Yeniden Kaydet",
+    "engine.editor.menu.edit": "Düzenle",
+    "engine.editor.menu.undo": "Geri al"
 }
