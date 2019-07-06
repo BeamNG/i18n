@@ -815,5 +815,7 @@
     "engine.editor.menu.smoothedCamera": "Yumuşatılmış",
     "engine.editor.menu.smoothedRotateCamera": "Yumuşatılmış Döndürme",
     "engine.editor.menu.camera.top": "Üst",
-    "engine.editor.menu.camera.bottom": "Alt\n"
+    "engine.editor.menu.camera.bottom": "Alt",
+    "engine.editor.menu.camera.left": "Sol",
+    "engine.editor.menu.camera.right": "Sağ"
 }
