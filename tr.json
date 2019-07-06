@@ -818,8 +818,9 @@
     "engine.editor.menu.camera.bottom": "Alt",
     "engine.editor.menu.camera.left": "Sol",
     "engine.editor.menu.camera.right": "Sağ",
-    "engine.editor.menu.camera.isometric": "izometrik",
+    "engine.editor.menu.camera.isometric": "İzometrik",
     "engine.editor.menu.camera.front": "Ön",
     "engine.editor.menu.camera.perspective": "Perspektif",
-    "engine.editor.menu.camera.back": "Geri"
+    "engine.editor.menu.camera.back": "Geri",
+    "engine.editor.menu.cameraspeed": "Kamera Hızı"
 }
