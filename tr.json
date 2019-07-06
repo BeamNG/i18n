@@ -809,5 +809,6 @@
     "engine.editor.menu.view": "Görünüm",
     "engine.editor.menu.gameOptions": "Oyun seçenekleri...",
     "engine.editor.menu.camera": "Kamera",
-    "engine.editor.menu.standartCamera": "Standart"
+    "engine.editor.menu.standartCamera": "Standart",
+    "engine.editor.menu.orbitCamera": "Yörüngesel Kamera"
 }
