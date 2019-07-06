@@ -865,5 +865,7 @@
     "engine.editor.menu.posZAxis": "+ Z Ekseni",
     "engine.editor.menu.negXAxis": "-X Ekseni",
     "engine.editor.menu.negYAxis": "-Y Ekseni",
-    "engine.editor.menu.object": "Cisim"
+    "engine.editor.menu.object": "Cisim",
+    "engine.editor.menu.showSelection": "Seçimi Göster",
+    "engine.editor.menu.hideSelection": "Seçimi gizle"
 }
