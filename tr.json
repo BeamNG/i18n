@@ -862,5 +862,7 @@
     "engine.editor.menu.unlockSelection": "Seçimin Kilidini Aç",
     "engine.editor.menu.lockSelection": "Seçimi Kilitle",
     "engine.editor.menu.posYAxis": "+ Y Ekseni",
-    "engine.editor.menu.posZAxis": "+ Z Ekseni"
+    "engine.editor.menu.posZAxis": "+ Z Ekseni",
+    "engine.editor.menu.negXAxis": "-X Ekseni",
+    "engine.editor.menu.negYAxis": "-Y Ekseni"
 }
