@@ -813,5 +813,5 @@
     "engine.editor.menu.orbitCamera": "Yörüngesel Kamera",
     "engine.editor.menu.gameCamera": "Oyun Kamerası",
     "engine.editor.menu.smoothedCamera": "Yumuşatılmış",
-    "engine.editor.menu.smoothedRotateCamera": "Yumuşatılmış Dönüş"
+    "engine.editor.menu.smoothedRotateCamera": "Yumuşatılmış Döndürme"
 }
