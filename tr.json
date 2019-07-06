@@ -834,5 +834,7 @@
     "engine.editor.menu.toggleCamera": "Uçan Kameraya geçiş yap",
     "engine.editor.menu.worldCamera": "Dünya Kamerası",
     "engine.editor.menu.placeCameraSelection": "Kamerayı Seçime Yerleştir",
-    "engine.editor.menu.cameraTranslation": "Kamera dönüştürme"
+    "engine.editor.menu.cameraTranslation": "Kamera dönüştürme",
+    "engine.editor.menu.placeCameraPlayer": "Oyuncuya Kamera Yerleştir",
+    "engine.editor.menu.placePlayerCamera": "Kameraya Oyuncu Yerleştir"
 }
