@@ -878,5 +878,10 @@
     "extensions.scenario.timeLimit.checkTime.countdown": "{{countdown}}...",
     "extensions.scenario.onRaceEnd.default.win": "Aferin! Süren: {{timeStr}}",
     "engine.editor.menu.makeSelPrefab": "Seçime Prefabrik Yap",
-    "engine.editor.menu.explodeSelPrefab": "Seçili Prefabrik Yık"
+    "engine.editor.menu.explodeSelPrefab": "Seçili Prefabrik Yık",
+    "engine.editor.menu.resetSelScale": "Seçilmiş Ölçeği Sıfırla",
+    "engine.editor.menu.resetSelRot": "Seçilmiş Rotasyonu Sıfırla",
+    "engine.editor.menu.dropSel": "Seçileni Düşür",
+    "engine.editor.menu.dropLocation": "Yeri Düşür",
+    "engine.editor.menu.transformSel": "Seçileni Dönüştür..."
 }
