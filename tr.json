@@ -497,9 +497,9 @@
     "ui.levelselect.title": "Serbest sürüş",
     "ui.mainmenu.addmods": "MOD EKLE",
     "ui.mainmenu.background.back": "ANA MENÜ",
-    "ui.mainmenu.credits": "Jenerik",
+    "ui.mainmenu.credits": "JENERİK",
     "ui.mainmenu.exit": "ÇIKIŞ",
-    "ui.mainmenu.garage": "Garaj",
+    "ui.mainmenu.garage": "GARAJ",
     "ui.mainmenu.help": "YARDIM",
     "ui.mainmenu.mods": "MODLAR",
     "ui.mainmenu.news": "HABERLER",
@@ -921,5 +921,12 @@
     "ui.common.property.authors": "Yaratıcı(lar)",
     "ui.unit.mpg": "Galon başına Mil",
     "ui.common.realistic": "Gerçekçi",
-    "ui.unit.nm": "Newton-metresi"
+    "ui.unit.nm": "Newton metre",
+    "ui.unit.lbft": "Pound foot",
+    "ui.unit.ftlb": "Foot pound",
+    "ui.unit.inHg": "in.Hg",
+    "ui.unit.kw": "Kilowatt",
+    "ui.unit.bhp": "Krankta Beygir Gücü",
+    "ui.mainmenu.warningdetails": "Bilgi almak ve ayrıntılar için buraya tıklayın",
+    "ui.mainmenu.modwizard": "MOD SİHİRBAZI"
 }
