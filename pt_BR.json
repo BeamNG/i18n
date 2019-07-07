@@ -1603,5 +1603,11 @@
     "vehicle.recovery.saveHome": "Posição do veículo atualizada (utilize [action=loadHome] 1 para restaurar)",
     "vehicle.turbocharger.overheating": "O Turbo está superaquecendo",
     "engine.lua.reloaded": "Instância LUA Principal recarregada",
-    "engine.nodegrab.fixedwarning": "CTRL + Botão do meio do mouse para desafixar nodes"
+    "engine.nodegrab.fixedwarning": "CTRL + Botão do meio do mouse para desafixar nós",
+    "engine.editor.menu.smoothedCamera": "Suave",
+    "engine.editor.menu.camera.front": "Frente",
+    "engine.editor.menu.standartCamera": "Padrão",
+    "engine.nodegrab.uncoupling": "Desafixar quaisquer nós conectados",
+    "engine.nodegrab.coupling": "Afixar os dois nós",
+    "engine.editor.menu.resaveLevel": "Re-salvar tudo"
 }
