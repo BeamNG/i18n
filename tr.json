@@ -885,5 +885,21 @@
     "engine.editor.menu.dropLocation": "Yeri Düşür",
     "engine.editor.menu.transformSel": "Seçileni Dönüştür...",
     "extensions.scenario.drift.failedGoal": "En az {{minDrift}} puana ihtiyacın var.",
-    "extensions.campaign.exploration.mapHint": "Haritayı mevcut görevlerle görmek için [action=toggle_minimap] e basın"
+    "extensions.campaign.exploration.mapHint": "Haritayı mevcut görevlerle görmek için [action=toggle_minimap] basın",
+    "ui.common.sortBy": "Sırala",
+    "ui.common.order.players": "Oyuncular",
+    "ui.common.filters": "Filtreler",
+    "ui.common.delete": "Sil",
+    "ui.common.reset": "Sıfırla",
+    "ui.comic.skip": "Atla",
+    "ui.common.resetAll": "Hepsini sıfırla",
+    "ui.actions.switchLeft": "Sola Geç",
+    "ui.actions.menuRight": "Menüde Sağ",
+    "ui.actions.menuLeft": "Menüde Sol",
+    "ui.actions.switchRight": "Sağa Geç",
+    "ui.actions.increase": "Arttır",
+    "ui.actions.decrease": "Azalt",
+    "ui.common.ABSoff": "Hep kapalı",
+    "ui.common.ABSarcade": "Her zaman basit ABS",
+    "ui.common.ABSrealistic": "Yalnızca gerçekçi ABS"
 }
