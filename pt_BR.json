@@ -1670,5 +1670,9 @@
     "ui.trackBuilder.selection.previous": "Selecionar Peça Anterior",
     "ui.trackBuilder.selection.next": "Selecionar Peça Seguinte",
     "ui.trackBuilder.selection.first": "Selecionar a Primeira Peça",
-    "ui.trackBuilder.selection.last": "Selecionar a Última Peça"
+    "ui.trackBuilder.selection.last": "Selecionar a Última Peça",
+    "ui.trackBuilder.toolbar.select": "Selecionar segmento",
+    "ui.trackBuilder.toolbar.paint": "Pintar material",
+    "ui.trackBuilder.toolbar.changeShape": "Mudar forma da pista",
+    "ui.trackBuilder.camera.focus": "Focar câmera no pedaço selecionado"
 }
