@@ -870,5 +870,13 @@
     "engine.editor.menu.hideSelection": "Seçimi gizle",
     "engine.editor.menu.alignBounds": "Sınırları Hizala",
     "engine.editor.menu.alignCenter": "Merkezi Hizala",
-    "engine.editor.menu.resetTransforms": "Dönüşümleri Sıfırla"
+    "engine.editor.menu.resetTransforms": "Dönüşümleri Sıfırla",
+    "extensions.scenario.speedGoal.countdown": "{{countdown}}...",
+    "extensions.scenario.speedGoal.fail.msg": "Hızınız gereken hıza yeterli değil",
+    "extensions.scenario.speedGoal.win.msg": "Aferin! Süren: {{time}}",
+    "extensions.scenario.timeLimit.failedGoal": "{{maxTime}} süreden uzun sürdü",
+    "extensions.scenario.timeLimit.checkTime.countdown": "{{countdown}}...",
+    "extensions.scenario.onRaceEnd.default.win": "Aferin! Süren: {{timeStr}}",
+    "engine.editor.menu.makeSelPrefab": "Seçime Prefabrik Yap",
+    "engine.editor.menu.explodeSelPrefab": "Seçili Prefabrik Yık"
 }
