@@ -1691,5 +1691,7 @@
     "ui.trackBuilder.tooltip.noon": "Tarde",
     "ui.trackBuilder.tooltip.night": "Noite",
     "ui.trackBuilder.modifier.inverted": "Invertido",
-    "ui.trackBuilder.advanced.splitPiece": "Dividir Pedaço"
+    "ui.trackBuilder.advanced.splitPiece": "Dividir Peça",
+    "ui.trackBuilder.matEditor.paint": "Pintar",
+    "ui.trackBuilder.checkpoints.info": "Se você não adicionar checkpoints, eles vão ser automaticamente criados quando jogar esta pista no modo de jogo Contra o Relógio."
 }
