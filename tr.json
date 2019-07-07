@@ -935,5 +935,6 @@
     "ui.unit.gal": "Galon",
     "ui.unit.hp": "Beygir",
     "ui.unit.kPa": "Kilopaskal",
-    "ui.modWizard.skinWizard.intro": "Kaplama yaratma sihirbazına hoşgeldin. Aşağıdaki adımlarda size nasıl resmi BeamNG.Drive araçlarına kaplama yapılır onu öğreteceğiz."
+    "ui.modWizard.skinWizard.intro": "Kaplama yaratma sihirbazına hoşgeldin. Sıradaki adımlarda size nasıl resmi BeamNG.Drive araçlarına kaplama yapılıcağını öğreteceğiz.",
+    "ui.modWizard.skinWizard.howTo": "Kaplama Nasıl Yapılır"
 }
