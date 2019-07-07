@@ -942,5 +942,6 @@
     "ui.modWizard.skinWizard.filesGenerated": "Kaplama dosyaları oluşturuldu.",
     "ui.modWizard.skinWizard.openFolder": "Klasörü açmak için buraya tıklayın",
     "ui.modWizard.skinWizard.editFile": "Kaplamayı düzenlemek için <skin_name>.dds dosyasını Paint.Net gibi uyumlu bir .dds editöründe açın.",
-    "ui.modWizard.skinWizard.viewSkin": "Kaplamaya Göz At"
+    "ui.modWizard.skinWizard.viewSkin": "Kaplamaya Göz At",
+    "ui.modWizard.skinWizard.desc": "Tanıtım amaçlı olarak Cilt Örneğini cilt ismimiz olarak kullanacağız. Düzenlenebilir iki dosya, görüntüde sağa birleştirilmiştir. Cilt dosyalarını açtıktan sonra, kaplamayı yüklemek veya sihirbazdan çıkmak için son öğesini tıklatabilirsiniz."
 }
