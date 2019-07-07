@@ -1605,7 +1605,7 @@
     "engine.lua.reloaded": "Instância LUA Principal recarregada",
     "engine.nodegrab.fixedwarning": "CTRL + Botão do meio do mouse para desafixar nós",
     "engine.editor.menu.smoothedCamera": "Suave",
-    "engine.editor.menu.camera.front": "Frente",
+    "engine.editor.menu.camera.front": "Frontal",
     "engine.editor.menu.standartCamera": "Padrão",
     "engine.nodegrab.uncoupling": "Desafixar quaisquer nós conectados",
     "engine.nodegrab.coupling": "Afixar os dois nós",
