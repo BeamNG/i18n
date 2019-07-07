@@ -1732,5 +1732,14 @@
     "ui.trackBuilder.trackSettings.alignTrackToCam": "Alinhar Pista para Câmera",
     "ui.trackBuilder.trackSettings.positionTrackBeforeCam": "Posicionar Pista antes da Câmera",
     "ui.trackBuilder.trackSettings.alignTrackToVehicle": "Alinhar Pista com Veículo",
-    "ui.trackBuilder.trackSettings.positionTrackAboveVehicle": "Alinhar Pista acima do Veículo"
+    "ui.trackBuilder.trackSettings.positionTrackAboveVehicle": "Alinhar Pista acima do Veículo",
+    "ui.trackBuilder.saveLoad.saveTrack": "Salvar Pista",
+    "ui.trackBuilder.saveLoad.createPreview": "Criar Pré-visualização",
+    "ui.trackBuilder.saveLoad.overwritePreview": "Sobrescrever Pré-visualização",
+    "ui.trackBuilder.saveLoad.filename": "Nome do arquivo",
+    "ui.trackBuilder.saveLoad.save": "Salvar",
+    "ui.trackBuilder.saveLoad.modSaved": "Pista e pré-visualização salvas com sucesso para o arquivo mod.",
+    "ui.trackBuilder.saveLoad.packToMod": "Salvar para Mod",
+    "ui.trackBuilder.saveLoad.trackLoaded": "Pista carregada.",
+    "ui.trackBuilder.saveLoad.previewCreated": "Pré-visualização criada com Sucesso."
 }
