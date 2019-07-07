@@ -1669,5 +1669,6 @@
     "ui.trackBuilder.menus.saveLoad": "Salvar e Carregar",
     "ui.trackBuilder.selection.previous": "Selecionar Peça Anterior",
     "ui.trackBuilder.selection.next": "Selecionar Peça Seguinte",
-    "ui.trackBuilder.selection.first": "Selecionar a Primeira Peça"
+    "ui.trackBuilder.selection.first": "Selecionar a Primeira Peça",
+    "ui.trackBuilder.selection.last": "Selecionar o Último Pedaço"
 }
