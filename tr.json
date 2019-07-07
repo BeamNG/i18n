@@ -920,5 +920,6 @@
     "ui.common.off": "Kapalı",
     "ui.common.property.authors": "Yaratıcı(lar)",
     "ui.unit.mpg": "Galon başına Mil",
-    "ui.common.realistic": "Gerçekçi"
+    "ui.common.realistic": "Gerçekçi",
+    "ui.unit.nm": "Newton-metresi"
 }
