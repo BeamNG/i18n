@@ -1662,5 +1662,10 @@
     "ui.common.ABSarcade": "Sempre ABS Simulado",
     "ui.trackBuilder.menus.trackShape": "Formato da Pista",
     "ui.trackBuilder.menus.wallsCeiling": "Paredes e Teto",
-    "ui.trackBuilder.menus.checkpoints": "CheckPoints"
+    "ui.trackBuilder.menus.checkpoints": "CheckPoints",
+    "ui.trackBuilder.menus.obstacles": "Obstáculos",
+    "ui.trackBuilder.menus.materialEditor": "Editor de Material",
+    "ui.trackBuilder.menus.trackSettings": "Configurações da Pista",
+    "ui.trackBuilder.menus.saveLoad": "Salvar e Carregar",
+    "ui.trackBuilder.selection.previous": "Selecionar Pedaço Anterior"
 }
