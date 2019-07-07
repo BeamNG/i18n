@@ -952,5 +952,12 @@
     "ui.trackBuilder.menus.checkpoints": "Kontrol Noktaları",
     "ui.trackBuilder.menus.trackSettings": "Parkur Ayarları",
     "ui.trackBuilder.selection.next": "Sonraki Parçayı Seç",
-    "ui.trackBuilder.selection.last": "Son Parçayı Seç"
+    "ui.trackBuilder.selection.last": "Son Parçayı Seç",
+    "ui.trackBuilder.menus.advancedModifiers": "Gelişmiş Değiştiriciler",
+    "ui.trackBuilder.menus.advancedPieces": "Gelişmiş Parçalar",
+    "ui.trackBuilder.menus.wallsCeiling": "Duvarlar ve Tavan",
+    "ui.trackBuilder.menus.saveLoad": "Kaydet ve Yükle",
+    "ui.trackBuilder.selection.previous": "Önceki Parçayı Seç",
+    "ui.trackBuilder.selection.first": "İlk Parçayı Seç",
+    "ui.trackBuilder.toolbar.select": "Segmenti seç"
 }
