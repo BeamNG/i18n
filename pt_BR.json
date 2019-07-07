@@ -1677,5 +1677,16 @@
     "ui.trackBuilder.camera.focus": "Focar câmera na peça selecionada",
     "ui.trackBuilder.base.delete": "Apagar o Segmento Selecionado",
     "ui.trackBuilder.base.closeTrack": "Fechar Pista",
-    "ui.trackBuilder.base.testDrive": "Começar pela Peça selecionada"
+    "ui.trackBuilder.base.testDrive": "Começar pela Peça selecionada",
+    "ui.trackBuilder.base.length": "Comprimento",
+    "ui.trackBuilder.base.radius": "Raio",
+    "ui.trackBuilder.base.width": "Largura",
+    "ui.trackBuilder.base.height": "Altura",
+    "ui.trackBuilder.base.banking": "Inclinação",
+    "ui.trackBuilder.tooltip.modify": "Modificar",
+    "ui.trackBuilder.tooltip.remove": "Remover",
+    "ui.trackBuilder.tooltip.reset": "Redefinir",
+    "ui.trackBuilder.tooltip.addObstacle": "Adicionar obstáculo",
+    "ui.trackBuilder.tooltip.morning": "Manhã",
+    "ui.trackBuilder.tooltip.noon": "Meio-dia"
 }
