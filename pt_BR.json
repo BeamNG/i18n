@@ -1635,5 +1635,6 @@
     "ui.common.cancel": "Cancelar",
     "engine.editor.menu.cameraspeed": "Velocidade da Câmera",
     "engine.editor.menu.cameraspeed.normal": "Normal",
-    "engine.editor.menu.cameraspeed.fast": "Rápido"
+    "engine.editor.menu.cameraspeed.fast": "Rápido",
+    "engine.editor.menu.toggleCamModes": "Alternar Câmeras"
 }
