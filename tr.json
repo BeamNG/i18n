@@ -883,5 +883,7 @@
     "engine.editor.menu.resetSelRot": "Seçilmiş Rotasyonu Sıfırla",
     "engine.editor.menu.dropSel": "Seçileni Düşür",
     "engine.editor.menu.dropLocation": "Yeri Düşür",
-    "engine.editor.menu.transformSel": "Seçileni Dönüştür..."
+    "engine.editor.menu.transformSel": "Seçileni Dönüştür...",
+    "extensions.scenario.drift.failedGoal": "En az {{minDrift}} puana ihtiyacın var.",
+    "extensions.campaign.exploration.mapHint": "Haritayı mevcut görevlerle görmek için [action=toggle_minimap] e basın"
 }
