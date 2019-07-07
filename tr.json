@@ -936,5 +936,8 @@
     "ui.unit.hp": "Beygir",
     "ui.unit.kPa": "Kilopaskal",
     "ui.modWizard.skinWizard.intro": "Kaplama yaratma sihirbazına hoşgeldin. Sıradaki adımlarda size nasıl resmi BeamNG.Drive araçlarına kaplama yapılıcağını öğreteceğiz.",
-    "ui.modWizard.skinWizard.howTo": "Kaplama Nasıl Yapılır"
+    "ui.modWizard.skinWizard.howTo": "Kaplama Nasıl Yapılır",
+    "ui.modWizard.skinWizard.selectVehicle": "Lütfen Bir Araç Seçin",
+    "ui.modWizard.skinWizard.skinName": "Lütfen kaplamanız için bir isim seçin",
+    "ui.modWizard.skinWizard.filesGenerated": "Kaplama dosyaları oluşturuldu"
 }
