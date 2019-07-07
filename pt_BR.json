@@ -1660,5 +1660,6 @@
     "ui.modWizard.skinWizard.desc": "Apenas para demonstração, usaremos o nome da skin como \"SkinExample\". Os dois arquivos que podem ser editados foram combinados na imagem da direita. Assim que você abrir os arquivos da skin, você pode clicar em \"avançar\" para carregar a skin no jogo ou \"sair\" para sair do programa.",
     "ui.modWizard.skinWizard.left": "A parte esquerda da imagem é a \"SkinExample.dds\". Aqui é a parte em que a parte principal de sua skin estará pronta. Simplesmente pinte sobre as partes brancas do jeito que você quiser.",
     "ui.common.ABSarcade": "Sempre ABS Simulado",
-    "ui.trackBuilder.menus.trackShape": "Formato da Pista"
+    "ui.trackBuilder.menus.trackShape": "Formato da Pista",
+    "ui.trackBuilder.menus.wallsCeiling": "Paredes e teto"
 }
