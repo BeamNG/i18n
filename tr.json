@@ -918,5 +918,7 @@
     "ui.actions.enter": "Panele Gir",
     "ui.actions.load": "Yükle",
     "ui.common.off": "Kapalı",
-    "ui.common.property.authors": "Yaratıcı(lar)"
+    "ui.common.property.authors": "Yaratıcı(lar)",
+    "ui.unit.mpg": "Galon başına mil",
+    "ui.common.realistic": "Gerçekçi"
 }
