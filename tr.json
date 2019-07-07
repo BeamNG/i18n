@@ -944,5 +944,6 @@
     "ui.modWizard.skinWizard.editFile": "Kaplamayı düzenlemek için <skin_name>.dds dosyasını Paint.Net gibi uyumlu bir .dds editöründe açın.",
     "ui.modWizard.skinWizard.viewSkin": "Kaplamaya Göz At",
     "ui.modWizard.skinWizard.desc": "ÖrnekKaplama ismini tanıtım amaçlı olarak kaplama ismimiz olarak kullanacağız. Düzenlenebilir iki dosya, görüntüde sağa birleştirilmiştir. Kaplama dosyalarını açtıktan sonra, kaplamayı yüklemek için sonraki öğesine veya sihirbazdan çıkmak bitir öğesine tıklayabilirsiniz.",
-    "ui.modWizard.skinWizard.left": "Resmin sol tarafı \"ÖrnekKaplama.dds\". Kaplamanın ana kısmı burada yapılacaktır. Basitçe sadece beyaz bölümleri istediğiniz tasarımla boyayın."
+    "ui.modWizard.skinWizard.left": "Resmin sol tarafı \"ÖrnekKaplama.dds\". Kaplamanın ana kısmı burada yapılacaktır. Basitçe sadece beyaz bölümleri istediğiniz tasarımla boyayın.",
+    "ui.modWizard.skinWizard.right": "Resmin sağ tarafı \"SkinExample_palette_uv1.dds\" dir. Bu görüntü, cildinizin hangi bölümlerinin oyun renk seçici tarafından renklendirilebileceğini tanımlamak için kullanılır. Kırmızı ilk renk, Yeşil ikinci renk ve mavi ise üçüncü renktir. Şeffaf ise renkli olmayacaktır."
 }
