@@ -1602,5 +1602,6 @@
     "vehicle.recovery.recovering": "Recuperação do veículo em progresso...",
     "vehicle.recovery.saveHome": "Posição do veículo atualizada (utilize [action=loadHome] 1 para restaurar)",
     "vehicle.turbocharger.overheating": "O Turbo está superaquecendo",
-    "engine.lua.reloaded": "Instância LUA Principal recarregada"
+    "engine.lua.reloaded": "Instância LUA Principal recarregada",
+    "engine.nodegrab.fixedwarning": "CTRL + Botão do meio do mouse para desafixar nodes"
 }
