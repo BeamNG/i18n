@@ -42,7 +42,7 @@
     "extensions.scenario.damageGoal.checkDamage.win.msg": "{{damage}}% hasar",
     "extensions.scenario.damageGoal.fail.msg": "Aracınız hasar aldı",
     "extensions.scenario.damageGoal.win.msg": "Aferin! Süren: {{timeStr}}",
-    "extensions.scenario.drift.passGoal": "Aferin!, Skorun: {{driftPoints}}.",
+    "extensions.scenario.drift.passGoal": "Tebrikler, skorun: {{driftPoints}}.",
     "levels.Cliff.info.features": "büyük uçurum adası",
     "levels.Cliff.info.suitablefor": "birşeyleri yok etmek",
     "levels.Cliff.info.title": "Uçurum",
