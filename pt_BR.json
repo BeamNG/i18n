@@ -1674,5 +1674,5 @@
     "ui.trackBuilder.toolbar.select": "Selecionar segmento",
     "ui.trackBuilder.toolbar.paint": "Pintar material",
     "ui.trackBuilder.toolbar.changeShape": "Mudar forma da pista",
-    "ui.trackBuilder.camera.focus": "Focar câmera no pedaço selecionado"
+    "ui.trackBuilder.camera.focus": "Focar câmera na peça selecionada"
 }
