@@ -1223,7 +1223,7 @@
     "ui.loading.spawn.vehicles": "Preparando motores",
     "ui.loading.spawn.water": "Derramando água",
     "ui.mainmenu.addmods": "ADICIONAR MODS",
-    "ui.mainmenu.background.back": "Voltar",
+    "ui.mainmenu.background.back": "MENU PRINCIPAL",
     "ui.mainmenu.credits": "Créditos",
     "ui.mainmenu.exit": "Sair",
     "ui.mainmenu.garage": "Garagem",
@@ -1638,5 +1638,8 @@
     "engine.editor.menu.cameraspeed.fast": "Rápido",
     "engine.editor.menu.toggleCamModes": "Alternar Câmeras",
     "engine.editor.menu.cameraTranslation": "Transformar câmera",
-    "ui.common.stock": "Estoque"
+    "ui.common.stock": "Estoque",
+    "ui.mainmenu.modwizard": "GERENCIADOR DE MODS",
+    "ui.trackBuilder.menus.advancedModifiers": "Modificadores avançados",
+    "ui.trackBuilder.menus.advancedPieces": "Pedaços avançados"
 }
