@@ -1688,5 +1688,8 @@
     "ui.trackBuilder.tooltip.reset": "Redefinir",
     "ui.trackBuilder.tooltip.addObstacle": "Adicionar obstáculo",
     "ui.trackBuilder.tooltip.morning": "Manhã",
-    "ui.trackBuilder.tooltip.noon": "Tarde"
+    "ui.trackBuilder.tooltip.noon": "Tarde",
+    "ui.trackBuilder.tooltip.night": "Noite",
+    "ui.trackBuilder.modifier.inverted": "Invertido",
+    "ui.trackBuilder.advanced.splitPiece": "Dividir Pedaço"
 }
