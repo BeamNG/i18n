@@ -1677,5 +1677,5 @@
     "ui.trackBuilder.camera.focus": "Focar câmera na peça selecionada",
     "ui.trackBuilder.base.delete": "Apagar o Segmento Selecionado",
     "ui.trackBuilder.base.closeTrack": "Fechar Pista",
-    "ui.trackBuilder.base.testDrive": "Começar pelo Pedaço selecionado"
+    "ui.trackBuilder.base.testDrive": "Começar pela Peça selecionada"
 }
