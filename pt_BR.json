@@ -1632,5 +1632,6 @@
     "engine.editor.menu.cameraspeed.fastest": "Veloz",
     "ui.fonts.primary": "Jogar",
     "ui.fonts.secondary": "Ciclo de Notícias",
-    "ui.common.cancel": "Cancelar"
+    "ui.common.cancel": "Cancelar",
+    "engine.editor.menu.cameraspeed": "Velocidade da Câmera"
 }
