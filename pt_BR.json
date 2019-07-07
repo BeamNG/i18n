@@ -57,7 +57,7 @@
     "engine.editor.menu.cut": "Cortar",
     "engine.editor.menu.delete": "Deletar",
     "engine.editor.menu.deselect": "Desmarcar",
-    "engine.editor.menu.dropLocation": "",
+    "engine.editor.menu.dropLocation": "Localização da Queda",
     "engine.editor.menu.dropSel": "Cancelar Seleção",
     "engine.editor.menu.edit": "Editar",
     "engine.editor.menu.editorSettings": "Configurações de Editor...",
@@ -1636,5 +1636,6 @@
     "engine.editor.menu.cameraspeed": "Velocidade da Câmera",
     "engine.editor.menu.cameraspeed.normal": "Normal",
     "engine.editor.menu.cameraspeed.fast": "Rápido",
-    "engine.editor.menu.toggleCamModes": "Alternar Câmeras"
+    "engine.editor.menu.toggleCamModes": "Alternar Câmeras",
+    "engine.editor.menu.cameraTranslation": "Transformar câmera"
 }
