@@ -1610,5 +1610,6 @@
     "engine.nodegrab.uncoupling": "Desafixar quaisquer nós conectados",
     "engine.nodegrab.coupling": "Afixar os dois nós",
     "engine.editor.menu.resaveLevel": "Re-salvar tudo",
-    "engine.editor.loading": "Carregando o Editor de Mapa..."
+    "engine.editor.loading": "Carregando o Editor de Mapa...",
+    "engine.editor.menu.orbitCamera": "Câmera Orbital"
 }
