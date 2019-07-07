@@ -129,7 +129,7 @@
     "engine.windowedModeReq.msgEditor": "Por favor saia do Editor de Missão p/ mudar para Tela Cheia.",
     "engine.windowedModeReq.msgGUI": "Por favor saia do editor GUI p/ mudar para Tela Cheia.",
     "engine.windowedModeReq.title": "Modo Janela Requirido",
-    "extensions.campaign.exploration.mapHint": "Pressione [action=toggle_physics] para mostrar o mapa com as missões disponíveis",
+    "extensions.campaign.exploration.mapHint": "Pressione [action=toggle_minimap] para mostrar o mapa com as missões disponíveis",
     "extensions.scenario.damageGoal.checkDamage.fail.msg": "Cuidado! Seu carro está {{damage}}% danificado",
     "extensions.scenario.damageGoal.checkDamage.win.msg": "{{damage}}% dano",
     "extensions.scenario.damageGoal.fail.msg": "Você danificou seu carro",
@@ -1615,5 +1615,12 @@
     "engine.editor.menu.camera.bottom": "Parte Inferior",
     "engine.editor.menu.camera.top": "Topo",
     "engine.editor.menu.gameCamera": "Câmera do Jogo",
-    "engine.editor.menu.camera.back": "Traseira"
+    "engine.editor.menu.camera.back": "Traseira",
+    "engine.editor.menu.camera.left": "Esquerda",
+    "engine.editor.menu.camera.right": "Direita",
+    "ui.fonts.fallback": "Roboto",
+    "ui.common.off": "Desligado",
+    "ui.common.ABSoff": "Sempre desligado",
+    "ui.common.ABSrealistic": "Apenas ABS realista",
+    "ui.fonts.mono": "Roboto Mono"
 }
