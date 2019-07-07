@@ -1637,5 +1637,6 @@
     "engine.editor.menu.cameraspeed.normal": "Normal",
     "engine.editor.menu.cameraspeed.fast": "Rápido",
     "engine.editor.menu.toggleCamModes": "Alternar Câmeras",
-    "engine.editor.menu.cameraTranslation": "Transformar câmera"
+    "engine.editor.menu.cameraTranslation": "Transformar câmera",
+    "ui.common.stock": "Estoque"
 }
