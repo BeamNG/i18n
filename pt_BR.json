@@ -1601,5 +1601,6 @@
     "vehicle.recovery.recovered": "Veículo recuperado",
     "vehicle.recovery.recovering": "Recuperação do veículo em progresso...",
     "vehicle.recovery.saveHome": "Posição do veículo atualizada (utilize [action=loadHome] 1 para restaurar)",
-    "vehicle.turbocharger.overheating": "O Turbo está superaquecendo"
+    "vehicle.turbocharger.overheating": "O Turbo está superaquecendo",
+    "engine.lua.reloaded": "Instância LUA Principal recarregada"
 }
