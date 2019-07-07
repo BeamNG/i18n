@@ -928,5 +928,12 @@
     "ui.unit.kw": "Kilowatt",
     "ui.unit.bhp": "Krankta Beygir Gücü",
     "ui.mainmenu.warningdetails": "Bilgi almak ve ayrıntılar için buraya tıklayın",
-    "ui.mainmenu.modwizard": "MOD SİHİRBAZI"
+    "ui.mainmenu.modwizard": "MOD SİHİRBAZI",
+    "ui.unit.bar": "Bar",
+    "ui.unit.l": "Litre",
+    "ui.unit.j": "Jul",
+    "ui.unit.gal": "Galon",
+    "ui.unit.hp": "Beygir",
+    "ui.unit.kPa": "Kilopaskal",
+    "ui.modWizard.skinWizard.intro": "Kaplama yaratma sihirbazına hoşgeldin. Aşağıdaki adımlarda size nasıl resmi BeamNG.Drive araçlarına kaplama yapılır onu öğreteceğiz."
 }
