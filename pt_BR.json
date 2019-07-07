@@ -1614,5 +1614,6 @@
     "engine.editor.menu.orbitCamera": "Câmera Orbital",
     "engine.editor.menu.camera.bottom": "Parte Inferior",
     "engine.editor.menu.camera.top": "Topo",
-    "engine.editor.menu.gameCamera": "Câmera do Jogo"
+    "engine.editor.menu.gameCamera": "Câmera do Jogo",
+    "engine.editor.menu.camera.back": "Traseira"
 }
