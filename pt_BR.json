@@ -1280,7 +1280,7 @@
     "ui.options.communityTranslationsAgree": "Aceitar & ativar",
     "ui.options.currentLanguage": "Linguagem atual",
     "ui.options.gameplay": "Gameplay",
-    "ui.options.gameplay.autoClutch": "Assistência de Embreagem",
+    "ui.options.gameplay.autoClutch": "Assistente de Embreagem (Transmissão manual)",
     "ui.options.gameplay.autoThrottle": "Assistente do Acelerador (transmissão manual)",
     "ui.options.gameplay.competitiveScenarios": "Condições competitivas de cenários",
     "ui.options.gameplay.controlOnBlur": "Permitir entrada de comandos do controle e force feedback quando o foco da janela é perdido",
