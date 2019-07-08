@@ -1741,5 +1741,7 @@
     "ui.trackBuilder.saveLoad.modSaved": "Pista e pré-visualização salvas com sucesso para o arquivo mod.",
     "ui.trackBuilder.saveLoad.packToMod": "Salvar para Mod",
     "ui.trackBuilder.saveLoad.trackLoaded": "Pista carregada.",
-    "ui.trackBuilder.saveLoad.previewCreated": "Pré-visualização criada com Sucesso."
+    "ui.trackBuilder.saveLoad.previewCreated": "Pré-visualização criada com Sucesso.",
+    "ui.modWizard.skinWizard.right": "A parte direita da imagem é a \"SkinExample_palette_uv1.dds\". Essa imagem é usada pra definir quais partes da sua skin podem ser coloridas pela seleção de cores no próprio jogo. Vermelho é a primeira cor, Verde é a segunda e Azul é a terceira cor. Se for colocada transparente ela não poderá ser colorida.",
+    "ui.trackBuilder.saveLoad.trackWrittenTo": "Pista salva com sucesso para "
 }
