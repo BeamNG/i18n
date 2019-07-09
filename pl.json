@@ -54,7 +54,7 @@
     "engine.editor.menu.delete": "Usuń",
     "engine.editor.menu.deselect": "Odznacz",
     "engine.editor.menu.exitLevel": "Opuść Poziom",
-    "engine.editor.menu.exportTerrainHeightmap": "Eksportuj Terytorialną Mapę Wysokości",
+    "engine.editor.menu.exportTerrainHeightmap": "Eksportuj mapę wysokości terenu",
     "engine.editor.menu.exportToCollada": "Eksportuj Do COLLADA...",
     "engine.editor.menu.file": "Plik",
     "engine.editor.menu.fitViewSelection": "Dopasuj Widok do Wyboru",
