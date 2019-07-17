@@ -1302,7 +1302,7 @@
     "engine.editor.menu.audioParams": "Parametry Audio...",
     "engine.editor.menu.editorSettings": "Ustawienia Edytora...",
     "engine.editor.menu.view": "Pokaż",
-    "engine.lua.reloaded": "Ponownie załadowano główną instancję LUA",
+    "engine.lua.reloaded": "Główna instancja LUA została załadowana ponownie",
     "engine.nodegrab.fixedwarning": "CTRL + Środkowy Przycisk Myszki aby odłączyć węzły",
     "engine.nodegrab.uncoupling": "Odłączanie wszystkich połączonych węzłów",
     "engine.nodegrab.coupling": "Łączenie dwóch węzłów",
