@@ -1168,7 +1168,7 @@
     "ui.options.userInterface.externalUi": "Tarayıcı Arayüzünü Etkinleştir",
     "ui.repository.filters": "Filtreler",
     "ui.repository.last_updated": "Son Güncelleme",
-    "ui.repository.option_update": "Güncelle",
+    "ui.repository.option_update": "Güncel",
     "ui.repository.filter_top_downloaded": "En Çok İndirilen",
     "ui.repository.unsubscribe": "Abonelikten Çık",
     "ui.options.gameplay.defaultGearboxBehavior.tooltip": "Varsayılan şanzıman davranışını ayarlar. Her yeni araç yüklenmesinde geçerli olur.",
