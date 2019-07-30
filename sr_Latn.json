@@ -390,5 +390,22 @@
     "vehicle.bullettime.realtime": "Realno vreme",
     "vehicle.drivetrain.usingHshifter": "H-shifter je korišćen. Sada se koristi: '{{shifterModeName | translate}}'",
     "vehicle.recovery.loadHome": "Vozilo vraćeno na početnu poziciju",
-    "vehicle.recovery.saveHome": "Mesto vozila apdejtovano (koristi [action=loadHome] da vratiš)"
+    "vehicle.recovery.saveHome": "Mesto vozila apdejtovano (koristi [action=loadHome] da vratiš)",
+    "engine.editor.menu.deselect": "Deselektuj",
+    "engine.editor.menu.select": "Selektuj...",
+    "engine.editor.menu.cut": "Iseci",
+    "engine.editor.menu.editorSettings": "Podešavanja editora...",
+    "engine.editor.menu.audioParams": "Parametri zvuka...",
+    "engine.editor.menu.edit": "Uredi",
+    "engine.editor.menu.undo": "Nazad",
+    "engine.editor.menu.redo": "Napred",
+    "engine.editor.menu.copy": "Kopiraj",
+    "engine.editor.menu.paste": "Nalepi",
+    "engine.editor.menu.delete": "Obriši",
+    "engine.editor.loading": "Učitavanje editora za mape...",
+    "engine.lua.reloaded": "Glavni LUA slučaj ponovo učitan",
+    "engine.nodegrab.fixedwarning": "CTRL + Srednje dugme miša da otkačiš noudove",
+    "engine.nodegrab.uncoupling": "Otkačivanje bilo kog spojenog nouda",
+    "engine.nodegrab.coupling": "Spajanje 2 čvora (nouda)",
+    "engine.editor.menu.resaveLevel": "Ponovo usnimi sve"
 }
