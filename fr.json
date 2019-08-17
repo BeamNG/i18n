@@ -1701,7 +1701,7 @@
     "engine.editor.menu.cameraspeed.fast": "Rapide",
     "ui.quickrace.changeConfig": "Changer la configuration",
     "ui.repository.option_downloads": "Téléchargements",
-    "ui.repository.filesize": "Taille",
+    "ui.repository.filesize": "Taille du fichier",
     "engine.editor.menu.cameraspeed.fastest": "Le plus rapide",
     "ui.options.userInterface.externalUi": "Activer l'interface navigateur",
     "scenarios.east_coast_usa.east_coast_chase_4.description": "BeamCom n'a toujours pas réparé l'internet du commissariat de police. Plus possible d’être encore en attente, c'est le moment de les convaincre en personne. Arrêtez le van.",
