@@ -2529,5 +2529,10 @@
     "levels.hirochi_raceway_v2.info.biome": "Tempéré, forêt",
     "levels.hirochi_raceway_v2.info.roads": "70% d’asphalte neuve, 30% d'asphalte délaissée",
     "quickrace.italy.mountainVillageCircuit1.title": "Circuit village de montagne",
-    "levels.italy.spawnpoints.runway": "Piste d'atterrissage"
+    "levels.italy.spawnpoints.runway": "Piste d'atterrissage",
+    "scenarios.italy.pizzaDelivery1.success_slow": "Tu es vraiment limite sur ces livraisons !",
+    "scenarios.italy.pizzaDelivery1.tip_horn": "Appuie sur <span style='font-size: 1em'>[action=horn]</span> pour montrer ton engouement.",
+    "scenarios.automation_test_track.damclimb.title": "Montée du déversoir",
+    "scenarios.automation_test_track.damclimb.description": "Est-ce que ta voiture peut monter la pente de 45° du déversoir du barrage ?",
+    "scenarios.italy.electricHypermilling.title": "Éco-conduite électrique"
 }
