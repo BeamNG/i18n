@@ -2548,5 +2548,6 @@
     "levels.hirochi_raceway_v2.info.suitablefor": "Course, Dérapage, Contre-la-montre, Formation de conducteur",
     "levels.hirochi_raceway_v2.info.features": "Ensemble de routes à tracés multiples, tronçons de piste abandonnés",
     "quickrace.italy.asphaltHillclimb2.description": "Une ascension sinueuse à travers le village de montagne.",
-    "quickrace.italy.mixedHillclimb1.description": "La longueur de 7,2 km et ses nombreuses épingles à cheveux font de cette montée du niveau de la mer au sommet de la montagne une piste difficile. Les routes sont composées à 75 % d'asphalte et à 25 % de gravier."
+    "quickrace.italy.mixedHillclimb1.description": "La longueur de 7,2 km et ses nombreuses épingles à cheveux font de cette montée du niveau de la mer au sommet de la montagne une piste difficile. Les routes sont composées à 75 % d'asphalte et à 25 % de gravier.",
+    "quickrace.italy.mountainVillageCircuit1.description": "Explorez les routes pavées étroites du village de montagne dans ce circuit pittoresque."
 }
