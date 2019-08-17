@@ -2117,5 +2117,20 @@
     "ui.options.motionSim.accelerationSmoothingY": "Y",
     "ui.options.motionSim.accelerationSmoothingZ": "Z",
     "ui.options.modNumParallelDownload": "Počet súbežných sťahovaní z repozitára",
-    "ui.repository.modmgrnotready": "Manažér módov nie je zatiaľ pripravený. Všetky akcie budú akumulované, dokým nebudú môcť byť vykonané. Ak to trvá moc dlho, prosím, kontaktuj podporu."
+    "ui.repository.modmgrnotready": "Manažér módov nie je zatiaľ pripravený. Všetky akcie budú akumulované, dokým nebudú môcť byť vykonané. Ak to trvá moc dlho, prosím, kontaktuj podporu.",
+    "ui.trackBuilder.camera.focus": "Zamerať kameru na vybranú časť",
+    "ui.trackBuilder.base.closeTrack": "Uzatvoriť trať",
+    "ui.trackBuilder.base.testDrive": "Začína sa z vybranej časti",
+    "ui.trackBuilder.tooltip.modify": "Modifikovať",
+    "ui.trackBuilder.tooltip.remove": "Odstrániť",
+    "ui.trackBuilder.tooltip.reset": "Obnoviť",
+    "ui.trackBuilder.tooltip.morning": "Ráno",
+    "ui.trackBuilder.tooltip.noon": "Poludnie",
+    "ui.trackBuilder.tooltip.night": "Noc",
+    "ui.trackBuilder.advanced.splitPiece": "Rozdeliť časť",
+    "ui.trackBuilder.borders.leftBorderShape": "Tvar ľavého okraja",
+    "ui.trackBuilder.borders.rightBorderShape": "Tvar pravého okraja",
+    "ui.trackBuilder.matEditor.texture": "Textúra",
+    "ui.trackBuilder.matEditor.center": "Stred",
+    "ui.trackBuilder.matEditor.border": "Okraj"
 }
