@@ -1097,7 +1097,7 @@
     "ui.environment.windSpeed": "Vitesse du vent",
     "ui.environment.zeroGravity": "Gravité zero",
     "ui.faq": "Aide / FAQ",
-    "ui.faq.changeCamera.a": "Appuyez sur [action=switch_camera] pour changer de caméra ou sur [action=toggleCamera] pour utiliser la caméra libre.",
+    "ui.faq.changeCamera.a": "Appuyez sur [action=switch_camera_next] pour changer de caméra ou sur [action=toggleCamera] pour utiliser la caméra libre.",
     "ui.faq.changeCamera.q": "Comment je change de caméra ?",
     "ui.faq.changeVehicle.a": "Vous pouvez utiliser le sélecteur de véhicules depuis le menu en utilisant [action=toggleMenues] ou [action=vehicle_selector].",
     "ui.faq.changeVehicle.q": "Comment puis-je changer de véhicule ?",
