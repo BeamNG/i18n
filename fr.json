@@ -1182,7 +1182,7 @@
     "ui.hints.driveAtNight": "Vous pouvez mettre la nuit en changeant les paramètres dans le menu \"Environnement\".",
     "ui.hints.driveTheCanon": "Saviez-vous que vous pouvez conduire (et tirer !) avec un canon ? Dans le sélecteur de véhicule, vous pouvez filtrer les objets [action=vehicle_selector].",
     "ui.hints.driveWithMouse": "Vous pouvez conduire en utilisant votre souris. Il suffit d'aller dans le menu des Contrôles et d'affecter de nouvelles touches.",
-    "ui.hints.engineBrakeForDownhill": "Mieux vaut utiliser le frein moteur dans les descentes avec les camions chargés, autrement les freins pourraient lâcher.",
+    "ui.hints.engineBrakeForDownhill": "Mieux vaut utiliser le frein moteur dans les descentes avec les camions chargés, sans quoi les freins risquent de lâcher.",
     "ui.hints.funStabilityControl": "Les voitures avec un correcteur de stabilité peuvent faire des choses plus dangereuses (forcément plus amusantes) en utilisant [action=toggleESCMode].",
     "ui.hints.grabVehicleParts": "Vous pouvez attraper des parties du véhicule en maintenant [action=nodegrabberRender] puis en déplaçant votre souris.",
     "ui.hints.importveFramerate": "Pour améliorer vos images par secondes, consultez les conseils énumérés sous Aide > Performances > Amélioration des performances de base",
