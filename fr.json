@@ -920,7 +920,7 @@
     "ui.campaigns.end.missions": "Missions",
     "ui.color.brightness": "Luminosité",
     "ui.color.chrominess": "Réflexion",
-    "ui.color.colorPalette": "Palette de couleur {{id}}",
+    "ui.color.colorPalette": "Palette de couleurs {{id}}",
     "ui.color.colors": "Couleurs",
     "ui.color.factory": "Usine",
     "ui.color.hue": "Teinte",
