@@ -1902,7 +1902,7 @@
     "ui.options.gameplay.gearboxSafety.tooltip": "Si activé, les boîtes de vitesse refuseront les passages qui pourraient potentiellement les endommager et empêcheront certains changements de mode pour une meilleure expérience de conduite. (Par exemple, la sortie du mode manuel est impossible jusqu'à ce que vous soyez à une certaine vitesse)",
     "ui.controls.searchMatches": "{{number}} résultats",
     "ui.debug.vehicle.debugVisible": "Débogage visible",
-    "ui.debug.vehicle.aerodynamics": "Débogage aérodynamique",
+    "ui.debug.vehicle.aerodynamics": "Débug de l'aérodynamisme",
     "ui.debug.vehicle.aerodynamicsScale": "Échelle aérodynamique",
     "ui.debug.vehicle.tireContactPoint": "Débogage point de contact des pneus",
     "ui.radialmenu2.back.desc": "Niveau précédent.",
