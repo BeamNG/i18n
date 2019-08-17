@@ -139,7 +139,7 @@
     "extensions.scenario.damageGoal.fail.msg": "Vous avez endommagé votre voiture",
     "extensions.scenario.damageGoal.win.msg": "Bien joué ! Votre temps : {{timeStr}}",
     "extensions.scenario.drift.failedGoal": "Il vous faut au moins {{minDrift}} points.",
-    "extensions.scenario.drift.passGoal": "Bien joué ! Votre score s'élève à {{driftPoints}} points.",
+    "extensions.scenario.drift.passGoal": "Bien joué! Votre score est de {{driftPoints}} points.",
     "extensions.scenario.onRaceEnd.default.win": "Bien joué ! Ton temps : {{timeStr}}",
     "extensions.scenario.speedGoal.countdown": "{{countdown}}...",
     "extensions.scenario.speedGoal.fail.msg": "Vous n'avez pas atteint la vitesse demandée",
