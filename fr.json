@@ -1099,7 +1099,7 @@
     "ui.faq": "Aide / FAQ",
     "ui.faq.changeCamera.a": "Appuyez sur [action=switch_camera_next] pour changer de caméra ou sur [action=toggleCamera] pour utiliser la caméra libre.",
     "ui.faq.changeCamera.q": "Comment je change de caméra ?",
-    "ui.faq.changeVehicle.a": "Vous pouvez utiliser le sélecteur de véhicules depuis le menu en utilisant [action=toggleMenues] ou [action=vehicle_selector].",
+    "ui.faq.changeVehicle.a": "Vous pouvez utiliser le sélecteur de véhicule depuis le menu en utilisant [action=toggleMenues] ou [action=vehicle_selector]",
     "ui.faq.changeVehicle.q": "Comment puis-je changer de véhicule ?",
     "ui.faq.findMods.a": "Vous pouvez télécharger des mods à partir du dépot: [url=http://www.beamng.com/resources/]Mods BeamNG.drive[/url] Si vous êtes connecté cliquez simplement sur le bouton \"Install Mod\" sur la page du Mod.",
     "ui.faq.findMods.q": "Où trouver des Mods ?",
