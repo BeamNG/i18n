@@ -1510,7 +1510,7 @@
     "ui.repository.info": "Information",
     "ui.repository.version_id": "Version",
     "ui.scenarios.end.freeroam": "Conduite libre",
-    "ui.scenarios.end.passFailRatio": "Réussi / Raté",
+    "ui.scenarios.end.passFailRatio": "Réussi / Echoué",
     "ui.scenarios.end.points": "Points",
     "ui.scenarios.end.relativeToBest": "Relatif au meilleur",
     "ui.scenarios.end.requirements": "Objectifs",
