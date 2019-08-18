@@ -2503,7 +2503,7 @@
     "scenarios.italy.tastiColaDelivery1.tip_increaseHeight2": "Diminuer la garde au sol du véhicule [action=semi__decrease_rideHeight]",
     "scenarios.italy.electricHypermilling.description": "Les batteries de ta E-SBR sont faibles. Pourras-tu aller jusqu'à la prochaine borne de recharge à Castelletto ?",
     "scenarios.italy.pizzaDelivery1.portraitText": "Ei, ragazzo ! Le chef veut que vous livriez des pizzas. Vous avez de trois minutes et veillez à bien vous arrêter chez le client cette fois ! Oh, et des manifestations ont lieu en ville, vous devrez donc improviser. Je vous fais confiance pour vous rappeler de tous les bons vieux raccourcis…",
-    "scenarios.italy.pizzaDelivery1.fail_stop": "Tu ne t'es par arrêté pour le client !",
+    "scenarios.italy.pizzaDelivery1.fail_stop": "Tu ne t'es pas arrêté chez le client !",
     "scenarios.italy.pizzaDelivery1.success_fast": "Hé, va offrir de la pizza aux manifestants. Peut-être alors qu'ils vont se taire !",
     "scenarios.italy.pizzaDelivery1.customer2": "Vous en avez mis du temps.",
     "quickrace.italy.asphaltHillclimb1.description": "Une montée étroite vers le village du château sur une route sinueuse avec 10 épingles à cheveux.",
