@@ -1158,7 +1158,7 @@
     "ui.goals.damage": "Dégâts",
     "ui.goals.distance": "Suivre",
     "ui.goals.finishRace": "Terminez la course",
-    "ui.goals.nomove": "Évitez les collisions",
+    "ui.goals.nomove": "Eviter les collisions",
     "ui.goals.position": "Positionnement",
     "ui.goals.speed": "Vitesse",
     "ui.goals.timeLimit": "Limite de temps",
