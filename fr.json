@@ -1854,7 +1854,7 @@
     "ui.radialmenu2.electrics.signals.left.desc": "Active/Désactive le clignotant gauche.",
     "ui.radialmenu2.electrics.signals.right": "Droit",
     "ui.radialmenu2.electrics.signals.right.desc": "Active/Désactive le clignotant droit.",
-    "ui.radialmenu2.ESC": "ESC (CES)",
+    "ui.radialmenu2.ESC": "ESP",
     "ui.radialmenu2.ESC.desc": "Options des différents modes de contrôle de trajectoire (ESP)",
     "ui.radialmenu2.ESC.ESC_Off": "Off",
     "ui.radialmenu2.ESC.ESC_Off.desc": "Désactive complètement l'ESC.",
