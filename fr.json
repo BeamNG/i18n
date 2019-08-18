@@ -1764,7 +1764,7 @@
     "ui.fonts.primary": "Jouer",
     "ui.dashboard.replay": "Replays",
     "ui.dashboard.appedit": "Personnalisation de l'interface utilisateur",
-    "ui.repository.subscribed": "Abonné: Vous obtiendrez les mises à jour automatiquement",
+    "ui.repository.subscribed": "Abonné : Vous recevez les mises à jour automatiques",
     "ui.repository.no_mods_found": "Aucun résultat",
     "ui.repository.category": "Catégorie",
     "ui.repository.cat_veh": "Véhicules",
