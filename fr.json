@@ -2158,7 +2158,7 @@
     "ui.trackBuilder.easeRight": "Ajouter un virage léger à droite. Placez-les avant et après les virages pour créer une courbe fluide.",
     "ui.trackBuilder.rightTurn": "Ajouter un virage à droite",
     "ui.trackBuilder.offsetCurve": "Ajouter un décalage",
-    "ui.trackBuilder.loop": "Ajouter un looping",
+    "ui.trackBuilder.loop": "Ajouter une boucle",
     "ui.trackBuilder.emptyPiece": "Ajouter un espace vide",
     "ui.trackBuilder.build": "Ajouter les éléments à la fin du circuit",
     "ui.trackBuilder.delete": "Supprimer le segment",
