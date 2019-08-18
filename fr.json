@@ -2148,7 +2148,7 @@
     "ui.performance.mods.lt": "&lt; {{zip}} mods compressés, &lt; {{unpacked}} mods désarchivés",
     "ui.performance.warnings.toomanymods": "Vous avez peut-être trop de mods, ce qui peut avoir un impact sur les performances. Essayez de désactiver quelques mods.",
     "ui.radialmenu2.bus.kneel.desc": "Incliner",
-    "ui.radialmenu2.bus.kneel": "Baisser le bus",
+    "ui.radialmenu2.bus.kneel": "Abaisser le bus",
     "ui.radialmenu2.bus.doors.desc": "Ouvrir les portes",
     "ui.radialmenu2.bus.doors": "Portes",
     "ui.trackBuilder.title": "Créateur de circuits",
