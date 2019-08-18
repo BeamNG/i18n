@@ -615,7 +615,7 @@
     "scenarios.hirochi_raceway.training_cornering.timeLimit.msg": "Vous avez mis plus de {{timeLimit}} secondes",
     "scenarios.hirochi_raceway.training_cornering.title": "Entraînement 2: Prendre un virage",
     "scenarios.hirochi_raceway.training_drifting.description": "Ce scénario permet de développer vos compétences en dérapage.",
-    "scenarios.hirochi_raceway.training_drifting.drift.failMsg": "Vous appelez ça du drift ? Allez plus vite et prenez plus d'angle ! Votre score: ",
+    "scenarios.hirochi_raceway.training_drifting.drift.failMsg": "Vous appelez ça du drift ? Allez plus vite et prenez plus d'angle ! Votre score : ",
     "scenarios.hirochi_raceway.training_drifting.drift.msg": "Bon travail, vous avez repeint cette zone avec la gomme des pneus ! Votre score: ",
     "scenarios.hirochi_raceway.training_drifting.title": "Entraînement 10 : Drift",
     "scenarios.hirochi_raceway.training_hairpins.description": "Cet entraînement va vous apprendre à comment négocier rapidement un virage en tête d'épingle.",
