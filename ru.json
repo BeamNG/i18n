@@ -2436,5 +2436,7 @@
     "scenarios.automation_test_track.damJump.fail_escape.msg": "Вы должны прыгнуть, а не ехать по дороге",
     "scenarios.italy.pizzaDelivery1.title": "Доставка пиццы",
     "scenarios.italy.pizzaDelivery1.fail_time": "Ты слишком долгий…",
-    "scenarios.italy.pizzaDelivery1.fail_stop": "Ты не остановился у клиента!"
+    "scenarios.italy.pizzaDelivery1.fail_stop": "Ты не остановился у клиента!",
+    "scenarios.italy.tastiColaDelivery1.title": "Доставка Tasti-Cola",
+    "scenarios.italy.tastiColaDelivery1.description": "Доставь трейлер с Tasti-Cola в магазины Citta Vecchia."
 }
