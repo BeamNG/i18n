@@ -2435,5 +2435,5 @@
     "scenarios.west_coast_usa.wcaAutobelloShowcase.tip_reverse": "Двигайтесь задним ходом",
     "scenarios.automation_test_track.damJump.fail_escape.msg": "Вы должны прыгнуть, а не ехать по дороге",
     "scenarios.italy.pizzaDelivery1.title": "Доставка пиццы",
-    "scenarios.italy.pizzaDelivery1.fail_time": "Ты слишком долгий..."
+    "scenarios.italy.pizzaDelivery1.fail_time": "Ты слишком долгий…"
 }
