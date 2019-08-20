@@ -2419,5 +2419,5 @@
     "ui.options.camera.cameraChaseRollSmoothingHint": "0 = минимальный крен, 100 = крен транспортного средства",
     "ui.options.camera.cameraOrbitRelaxation": "Следовать за направлением машины",
     "ui.playmodes.trackBuilder": "Конструктор трасс",
-    "levels.hirochi_raceway_v2.info.description": "Hirochi Raceway - это старая, но обновленная трасса, расположенная на восточном побережье США."
+    "levels.hirochi_raceway_v2.info.description": "Hirochi Raceway — это трек с длинной историей, но современным оборудованием, расположенный на восточном побережье США."
 }
