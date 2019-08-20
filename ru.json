@@ -2425,5 +2425,7 @@
     "ui.options.camera.cameraDriverPhysicsHint": "Позволяет камере слегка перемещаться по инерции",
     "ui.options.camera.cameraDriverAutocenter": "Автоматически центрировать камеру",
     "ui.options.camera.cameraDriverAutocenterHint": "Автоматически центрирует камеру при отпускании кнопки / оси / мыши",
-    "ui.options.camera.cameraDriverAllowSeatAdjustments": "Разрешить изменение настроек сиденья"
+    "ui.options.camera.cameraDriverAllowSeatAdjustments": "Разрешить изменение настроек сиденья",
+    "ui.options.camera.cameraDriverAllowSeatAdjustmentsHint": "Позволяет изменять положение сиденья с помощью кнопок",
+    "ui.options.camera.cameraDriverControls": "Угол обзора увелечение/уменьшение:[br][br]Оглянуться назад через плечо:"
 }
