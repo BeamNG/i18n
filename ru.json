@@ -2413,5 +2413,7 @@
     "ui.performance.warnings.rootmodified": "Папка игры изменена или повреждена. Проверьте целостность файлов при запуске игры или используя Steam.",
     "ui.performance.warnings.lowfreespace": "На диске с игрой или папкой пользователя осталось меньше 1 Гб свободного места.",
     "ui.performance.highsea.okay": "Хорошо! Аррр!",
-    "ui.performance.disk": "Накопитель (HDD/SSD)"
+    "ui.performance.disk": "Накопитель (HDD/SSD)",
+    "ui.options.camera.cameraChaseRollSmoothing": "Следует крену автомобиля",
+    "ui.performance.warnings.highseas": "Эй ты!"
 }
