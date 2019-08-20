@@ -2405,5 +2405,7 @@
     "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_crush.description": "Наберите необходимую скорость для того, чтобы после прыжка приземлиться на автомобиль и разбить его. Бонусные очки за удар авто, расположенного сразу после шпильки!",
     "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_course.title": "Полоса разрушений",
     "quickrace.italy.port_autocross.title": "Джимхана в порту",
-    "quickrace.italy.port_autocross.description": "Заезд по загромождённой портовой зоне, требующий очень высокой точности управления"
+    "quickrace.italy.port_autocross.description": "Заезд по загромождённой портовой зоне, требующий очень высокой точности управления",
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_jump.description": "Теперь, когда ты разогрелся, мы бросаем тебя вниз. Нам нужен эпичный прыжок для второй части погони, и если ты хочешь, что бы твой позвоночник остался цел, я бы советовал целиться получше. А, кстати, я сказал команде настроить закись азота, поэтому убедись, что она включена (используйте  [action=toggleNitrousOxide]).",
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_jump.fail_damage.msg": "Если ты наносишь такой большой ущерб автобусу, то зачем мы ставим туда машины, чтобы смягчить посадку?"
 }
