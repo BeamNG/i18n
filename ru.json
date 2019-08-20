@@ -2221,7 +2221,7 @@
     "levels.italy.spawnpoints.town_west": "Городок на западе",
     "levels.west_coast_usa.spawnpoints.dragstrip": "Драг-трасса",
     "levels.italy.spawnpoints.village_north": "Деревня на севере",
-    "levels.italy.spawnpoints.village_mountain": "Деревня в горах",
+    "levels.italy.spawnpoints.village_mountain": "Читта Веккья",
     "levels.italy.spawnpoints.city": "Город",
     "levels.italy.spawnpoints.crossroads": "Перекрёсток",
     "levels.italy.spawnpoints.airport": "Аэропорт",
@@ -2436,5 +2436,5 @@
     "scenarios.automation_test_track.damJump.fail_escape.msg": "Вы должны прыгнуть, а не ехать по дороге",
     "scenarios.italy.pizzaDelivery1.title": "Доставка пиццы",
     "scenarios.italy.pizzaDelivery1.fail_time": "Ты слишком долгий…",
-    "scenarios.italy.pizzaDelivery1.fail_stop": "Ты не остановился для клиента!"
+    "scenarios.italy.pizzaDelivery1.fail_stop": "Ты не остановился у клиента!"
 }
