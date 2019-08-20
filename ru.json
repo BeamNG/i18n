@@ -1243,7 +1243,7 @@
     "ui.hints.funStabilityControl": "Машины, оборудованные ESC (система курсовой устойчивости) могут быть переведены в более опасные (зато весёлые) режимы при помощи [action=toggleESCMode].",
     "ui.hints.grabVehicleParts": "Вы можете захватить деталь автомобиля нажатием [action=nodegrabberRender], а затем перетащить с помощью мыши.",
     "ui.hints.importveFramerate": "Чтобы увеличить FPS, загляните в раздел Помощь > Производительность > Базовые улучшения производительности",
-    "ui.hints.increaseGroundClearance": "Увеличьте высоту подвески вашей машины, если у вас возникли проблемы с форсированием реки.",
+    "ui.hints.increaseGroundClearance": "Увеличьте клиренс вашей машины, если у вас возникли проблемы с форсированием реки.",
     "ui.hints.installRollCage": "Вы можете установить каркас безопасности на некоторые автомобили: это не только увеличит защищённость, но и повысит жёсткость рамы и управляемость (используйте [action=parts_selector]).",
     "ui.hints.keepTheEngineUpright": "Если двигатель работает в перевернутом состоянии, наступает масляное голодание. Синие выхлопные газы означают, что цилиндры залиты маслом, и подшипник коленвала может выйти из строя.",
     "ui.hints.liftOffOversteer": "Неожиданно отпустив педаль газа на повороте при высокой скорости, вы рискуете дестабилизировать автомобиль и потерять управление. Это называется \"лифт-офф\" заносом.",
@@ -2438,5 +2438,5 @@
     "scenarios.italy.pizzaDelivery1.fail_time": "Ты слишком долгий…",
     "scenarios.italy.pizzaDelivery1.fail_stop": "Ты не остановился у клиента!",
     "scenarios.italy.tastiColaDelivery1.title": "Доставка Tasti-Cola",
-    "scenarios.italy.tastiColaDelivery1.description": "Доставь трейлер с Tasti-Cola в магазины Citta Vecchia."
+    "scenarios.italy.tastiColaDelivery1.description": "Доставь трейлер с Tasti-Cola в магазины деревни Читта Веккья."
 }
