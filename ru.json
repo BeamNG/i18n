@@ -2421,5 +2421,6 @@
     "ui.playmodes.trackBuilder": "Конструктор трасс",
     "levels.hirochi_raceway_v2.info.description": "Hirochi Raceway — это трек с длинной историей, но современным оборудованием, расположенный на восточном побережье США.",
     "levels.hirochi_raceway_v2.info.title": "Гоночный комплекс Hirochi V2",
-    "ui.options.camera.cameraDriverPhysics": "Инерция"
+    "ui.options.camera.cameraDriverPhysics": "Инерция",
+    "ui.options.camera.cameraDriverPhysicsHint": "Позволяет камере слегка перемещаться вслед за инерцией автомобиля "
 }
