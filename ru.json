@@ -2430,5 +2430,7 @@
     "ui.options.camera.cameraDriverControls": "Поле зрения — увеличение/уменьшение:[br][br]Оглянуться через плечо:",
     "ui.options.camera.cameraDriverSeatControls": "Сиденье — поднять/опустить:[br][br]Сиденье — назад/вперед:[br][br]Наклон сиденья вверх/вниз:",
     "scenarios.west_coast_usa.wcaAutobelloShowcase.title": "Показательный заезд Autobello Piccolina",
-    "scenarios.west_coast_usa.wcaAutobelloShowcase.description": "Тест-драйв на время вокруг города Беласко, демонстрирующий модель Autobello Piccolina"
+    "scenarios.west_coast_usa.wcaAutobelloShowcase.description": "Тест-драйв на время вокруг города Беласко, демонстрирующий модель Autobello Piccolina",
+    "scenarios.automation_test_track.damJump.fail_water.msg": "Вам нужно ехать вперед,  а не назад",
+    "scenarios.west_coast_usa.wcaAutobelloShowcase.tip_reverse": "Двигайтесь задним ходом"
 }
