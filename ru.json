@@ -2423,5 +2423,5 @@
     "levels.hirochi_raceway_v2.info.title": "Гоночный комплекс Hirochi V2",
     "ui.options.camera.cameraDriverPhysics": "Инерция",
     "ui.options.camera.cameraDriverPhysicsHint": "Позволяет камере слегка перемещаться по инерции",
-    "ui.options.camera.cameraDriverAutocenter": "Автоматически центрировать камеру "
+    "ui.options.camera.cameraDriverAutocenter": "Автоматически центрировать камеру"
 }
