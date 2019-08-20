@@ -2428,5 +2428,6 @@
     "ui.options.camera.cameraDriverAllowSeatAdjustments": "Разрешить изменение настроек сиденья",
     "ui.options.camera.cameraDriverAllowSeatAdjustmentsHint": "Позволяет изменять положение сиденья с помощью кнопок",
     "ui.options.camera.cameraDriverControls": "Поле зрения — увеличение/уменьшение:[br][br]Оглянуться через плечо:",
-    "ui.options.camera.cameraDriverSeatControls": "Сиденье — поднять/опустить:[br][br]Сиденье — назад/вперед:[br][br]Наклон сиденья вверх/вниз:"
+    "ui.options.camera.cameraDriverSeatControls": "Сиденье — поднять/опустить:[br][br]Сиденье — назад/вперед:[br][br]Наклон сиденья вверх/вниз:",
+    "scenarios.west_coast_usa.wcaAutobelloShowcase.title": "Показательный заезд Autobello Piccolina "
 }
