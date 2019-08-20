@@ -2433,5 +2433,5 @@
     "scenarios.west_coast_usa.wcaAutobelloShowcase.description": "Тест-драйв на время вокруг города Беласко, демонстрирующий модель Autobello Piccolina",
     "scenarios.automation_test_track.damJump.fail_water.msg": "Вам нужно ехать вперед, а не назад",
     "scenarios.west_coast_usa.wcaAutobelloShowcase.tip_reverse": "Двигайтесь задним ходом",
-    "scenarios.automation_test_track.damJump.fail_escape.msg": "Вы должны прыгать, а не ехать по дороге "
+    "scenarios.automation_test_track.damJump.fail_escape.msg": "Вы должны прыгнуть, а не ехать по дороге"
 }
