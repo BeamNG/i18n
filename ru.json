@@ -2411,5 +2411,7 @@
     "ui.camera.fov": "Поле зрения: {{degrees | number: 1}}°",
     "ui.performance.warnings.toomanycache": "Были найдены кеш-файлы старых версий. Вы можете освободить место, удалив их при запуске игры",
     "ui.performance.warnings.rootmodified": "Папка игры изменена или повреждена. Проверьте целостность файлов при запуске игры или используя Steam.",
-    "ui.performance.warnings.lowfreespace": "На диске с игрой или папкой пользователя осталось меньше 1 Гб свободного места."
+    "ui.performance.warnings.lowfreespace": "На диске с игрой или папкой пользователя осталось меньше 1 Гб свободного места.",
+    "ui.performance.highsea.okay": "Хорошо! Аррр!",
+    "ui.performance.disk": "Накопитель (HDD/SSD)"
 }
