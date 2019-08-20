@@ -2408,5 +2408,6 @@
     "quickrace.italy.port_autocross.description": "Заезд по загромождённой портовой зоне, требующий очень высокой точности управления",
     "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_jump.description": "Теперь, когда ты разогрелся, мы бросаем тебя в самое пекло. Нам нужен эпичный прыжок для второй части погони, и, если ты хочешь, что бы твой позвоночник остался цел, я бы советовал целиться получше. И кстати, я сказал команде настроить закись азота, поэтому убедись, что она включена,  прежде чем стартовать (используйте  [action=toggleNitrousOxide]).",
     "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_jump.fail_damage.msg": "Если ты наносишь такой большой ущерб автобусу, то зачем мы ставим туда машины, чтобы смягчить посадку?",
-    "ui.camera.fov": "Поле зрения: {{degrees | number: 1}}°"
+    "ui.camera.fov": "Поле зрения: {{degrees | number: 1}}°",
+    "ui.performance.warnings.toomanycache": "Были найдены кеш-файлы старых версий. Вы можете освободить место удалив их с помощью Launcher"
 }
