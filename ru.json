@@ -2416,5 +2416,6 @@
     "ui.performance.disk": "Накопитель (HDD/SSD)",
     "ui.options.camera.cameraChaseRollSmoothing": "Следовать крену машины",
     "ui.performance.warnings.highseas": "Эй ты!",
-    "ui.options.camera.cameraChaseRollSmoothingHint": "0 = минимальный крен, 100 = крен транспортного средства"
+    "ui.options.camera.cameraChaseRollSmoothingHint": "0 = минимальный крен, 100 = крен транспортного средства",
+    "ui.options.camera.cameraOrbitRelaxation": "Следовать за направлением автомобиля "
 }
