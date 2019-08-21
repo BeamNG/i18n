@@ -2441,6 +2441,6 @@
     "scenarios.italy.tastiColaDelivery1.description": "Доставь трейлер с Tasti-Cola в магазины деревни Читта Веккья.",
     "ui.options.camera.cameraExternalControls": "Сменить ракурс TV-камеры: [br][br]Приблизить/отдалить: ",
     "ui.performance.warnings.onedrive": "Папка пользователя синхронизируется с облачными сервисом (например, OneDrive). Пожалуйста, [url=https://wiki.beamng.com/BeamNG_FAQ#How_do_I_change_the_.27mods.27_folder_location.3F]измените расположение пользовательской папки[/url], чтобы избежать некорректной работы.",
-    "ui.options.camera.cameraOrbitMaxDynamicFovHint": "Поле зрение увеличивается на скорости ",
+    "ui.options.camera.cameraOrbitMaxDynamicFovHint": "Увеличение поля зрения на скорости",
     "ui.options.camera.cameraDriverFovHint": "Поле зрения водительской камеры"
 }
