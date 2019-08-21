@@ -2446,5 +2446,6 @@
     "ui.options.camera.cameraOrbitFovModifierHint": "Опциональное увеличение поля зрения для этой камеры",
     "ui.trackBuilder.saveLoad.previewCreated": "Файл предварительного просмотра успешно создан ",
     "ui.trackBuilder.saveLoad.modSaved": "Трек и файл предпросмотра успешно упакованы в мод ",
-    "ui.trackBuilder.saveLoad.packToMod": "Упаковать в мод"
+    "ui.trackBuilder.saveLoad.packToMod": "Упаковать в мод",
+    "quickrace.italy.throughTheCentre.description": "Спортивная трасса через центр Norte. Рекомендуется брать спортивную машину или не слишком заниженную машину."
 }
