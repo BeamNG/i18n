@@ -2466,7 +2466,7 @@
     "scenarios.italy.pizzaDelivery1.customer1": "Grazie, fiatalember!",
     "scenarios.italy.pizzaDelivery1.customer2": "Hát, nem sietted el.",
     "scenarios.italy.pizzaDelivery1.tip_horn": "Hálád kifejezéséül nyomd le a következőt: <span style='font-size: 1em'>[action=horn]</span>.",
-    "scenarios.italy.pizzaDelivery1.tip_stop": "Állj meg a következő útvonalpontnál",
+    "scenarios.italy.pizzaDelivery1.tip_stop": "Álj meg a következő fordulópontnál",
     "quickrace.italy.asphaltHillclimb1.title": "Aszfaltos dombmászás 1",
     "quickrace.italy.asphaltHillclimb1.description": "Érd el a kis kastélyfalut a domb tetején! Készülj fel, mert a szűk, kacskaringós utat 10 hajtűkanyar is tarkítja.",
     "quickrace.italy.asphaltHillclimb2.title": "Aszfaltos dombmászás 2",
