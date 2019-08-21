@@ -2445,5 +2445,6 @@
     "ui.options.camera.cameraDriverFovHint": "Поле зрения водительской камеры",
     "ui.options.camera.cameraOrbitFovModifierHint": "Опциональное увеличение поля зрения для этой камеры",
     "ui.trackBuilder.saveLoad.previewCreated": "Файл предварительного просмотра успешно создан ",
-    "ui.trackBuilder.saveLoad.modSaved": "Трек и файл предпросмотра успешно упакованы в мод "
+    "ui.trackBuilder.saveLoad.modSaved": "Трек и файл предпросмотра успешно упакованы в мод ",
+    "ui.trackBuilder.saveLoad.packToMod": "Упаковать в мод"
 }
