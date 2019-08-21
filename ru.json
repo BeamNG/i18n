@@ -2447,5 +2447,6 @@
     "ui.trackBuilder.saveLoad.previewCreated": "Файл предварительного просмотра успешно создан ",
     "ui.trackBuilder.saveLoad.modSaved": "Трек и файл предпросмотра успешно упакованы в мод ",
     "ui.trackBuilder.saveLoad.packToMod": "Упаковать в мод",
-    "quickrace.italy.throughTheCentre.description": "Извилистая трасса через центр города Норте. Рекомендуется юркая и не слишком заниженная машина."
+    "quickrace.italy.throughTheCentre.description": "Извилистая трасса через центр города Норте. Рекомендуется юркая и не слишком заниженная машина.",
+    "quickrace.italy.mixedHillclimb1.description": "Заедьте с уровня моря на самый верх этой сложной трассы, длинною 7.2 км со шпильками. Из 75% трассы дорога сделана из асфальта и 25% из гравия."
 }
