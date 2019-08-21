@@ -2439,5 +2439,6 @@
     "scenarios.italy.pizzaDelivery1.fail_stop": "Ты не остановился у клиента!",
     "scenarios.italy.tastiColaDelivery1.title": "Доставка Tasti-Cola",
     "scenarios.italy.tastiColaDelivery1.description": "Доставь трейлер с Tasti-Cola в магазины деревни Читта Веккья.",
-    "ui.options.camera.cameraExternalControls": "Сменить ракурс TV-камеры: [br][br]Приблизить/отдалить: "
+    "ui.options.camera.cameraExternalControls": "Сменить ракурс TV-камеры: [br][br]Приблизить/отдалить: ",
+    "ui.performance.warnings.onedrive": "Пользовательская папка может синхронизироваться с облачными серверами (например, OneDrive). [url = https: //wiki.beamng.com/BeamNG_FAQ#How_do_I_change_the_.27mods.27_folder_location.3F] ​​Пожалуйста, измените местоположение пользовательской папки [/ url], чтобы избежать непредвиденных случаев."
 }
