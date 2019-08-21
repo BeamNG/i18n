@@ -2222,7 +2222,7 @@
     "levels.west_coast_usa.spawnpoints.dragstrip": "Драг-трасса",
     "levels.italy.spawnpoints.village_north": "Деревня на севере",
     "levels.italy.spawnpoints.village_mountain": "Читта Веккья",
-    "levels.italy.spawnpoints.city": "Город",
+    "levels.italy.spawnpoints.city": "Норте",
     "levels.italy.spawnpoints.crossroads": "Перекрёсток",
     "levels.italy.spawnpoints.airport": "Аэропорт",
     "campaigns.west_coast_usa.bus_minichapter.busdriver_stunt_canal.title": "Трюк 4: Летающий автобус",
@@ -2449,5 +2449,5 @@
     "ui.trackBuilder.saveLoad.packToMod": "Упаковать в мод",
     "quickrace.italy.throughTheCentre.description": "Извилистая трасса через центр города Норте. Рекомендуется юркая и не слишком заниженная машина.",
     "quickrace.italy.mixedHillclimb1.description": "Поднимитесь от уровня моря до вершины горы по этой сложной трассе длиной 7,2 км со множеством шпилек. Дороги на 75% асфальтовые и на 25% гравийные.",
-    "quickrace.italy.throughTheCentre.title": "Через центр"
+    "quickrace.italy.throughTheCentre.title": "Через Центр"
 }
