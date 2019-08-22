@@ -2452,5 +2452,6 @@
     "quickrace.italy.throughTheCentre.title": "Через Центр",
     "scenarios.italy.electricHypermilling.description": "Аккумуляторы вашего E-SBR почти разряжены. Сможете ли вы доехать до ближайшего пункта зарядки в Кастеллетто?",
     "scenarios.automation_test_track.damclimb.title": "Подъем на плотину",
-    "scenarios.automation_test_track.damclimb.description": "Может ли ваша машина подняться на плотину под углом 45 градусов?"
+    "scenarios.automation_test_track.damclimb.description": "Может ли ваша машина подняться на плотину под углом 45 градусов?",
+    "scenarios.automation_test_track.damJump.description": "Прыгайте с платины и цельтесь в мишень "
 }
