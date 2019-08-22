@@ -2449,5 +2449,6 @@
     "ui.trackBuilder.saveLoad.packToMod": "Упаковать в мод",
     "quickrace.italy.throughTheCentre.description": "Трасса через центр города Норте с узкими улочками, резкими поворотами и трамплинами. Рекомендуется юркая и не слишком заниженная машина.",
     "quickrace.italy.mixedHillclimb1.description": "Поднимитесь от уровня моря до вершины горы по этой сложной трассе длиной 7,2 км со множеством шпилек. Дороги на 75% асфальтовые и на 25% гравийные.",
-    "quickrace.italy.throughTheCentre.title": "Через Центр"
+    "quickrace.italy.throughTheCentre.title": "Через Центр",
+    "scenarios.italy.electricHypermilling.description": "Батареи вашего E-SBR разряжены. Можете ли вы доехать до ближайшего пункта зарядки в Кастеллетто?"
 }
