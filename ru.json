@@ -2455,5 +2455,6 @@
     "scenarios.automation_test_track.damclimb.description": "Может ли ваша машина подняться на плотину под углом 45 градусов?",
     "scenarios.automation_test_track.damJump.description": "Прыгайте с плотины и цельтесь в мишень",
     "ui.options.camera.couplerCameraModifierHint": "Смещает камеру для лучшего обзора при использовании транспортного средства с прицепом",
-    "scenarios.italy.pizzaDelivery1.success_fast": "Эй, иди предложи протестующим пиццу. Может тогда они заткнутся!"
+    "scenarios.italy.pizzaDelivery1.success_fast": "Эй, иди предложи протестующим пиццу. Может тогда они заткнутся!",
+    "scenarios.italy.pizzaDelivery1.success_slow": "Ты не слишком торопишься с доставкой, не правда ли?"
 }
