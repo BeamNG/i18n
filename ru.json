@@ -2459,5 +2459,6 @@
     "scenarios.italy.pizzaDelivery1.success_slow": "Ты не слишком торопишься с доставкой, не правда ли?",
     "scenarios.italy.pizzaDelivery1.customer1": "Спасибо, молодой человек!",
     "scenarios.italy.pizzaDelivery1.tip_horn": "Нажми <span style='font-size: 1em'>[action=horn]</span>, чтобы выразить признательность.",
-    "scenarios.italy.pizzaDelivery1.tip_stop": "Остановись в следующей точке"
+    "scenarios.italy.pizzaDelivery1.tip_stop": "Остановись в следующей точке",
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_minspeed.fail2.msg": "Вы не смогли доставить автобус в безопасное место"
 }
