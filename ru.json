@@ -2462,5 +2462,6 @@
     "scenarios.italy.pizzaDelivery1.tip_stop": "Остановись в следующей точке",
     "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_minspeed.fail2.msg": "Вы не смогли отогнать автобус в безопасное место",
     "scenarios.italy.pizzaDelivery1.customer2": "Мы думали, будет быстрее.",
-    "ui.options.camera.couplerCameraModifier": "Смещать камеру при сцепке"
+    "ui.options.camera.couplerCameraModifier": "Смещать камеру при сцепке",
+    "scenarios.italy.tastiColaDelivery1.tip_increaseHeight1": "Увеличь клиренс используя [action=semi__increase_rideHeight]"
 }
