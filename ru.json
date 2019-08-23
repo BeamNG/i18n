@@ -2458,6 +2458,6 @@
     "scenarios.italy.pizzaDelivery1.success_fast": "Эй, иди предложи протестующим пиццу. Может тогда они заткнутся!",
     "scenarios.italy.pizzaDelivery1.success_slow": "Ты не слишком торопишься с доставкой, не правда ли?",
     "scenarios.italy.pizzaDelivery1.customer1": "Спасибо, молодой человек!",
-    "scenarios.italy.pizzaDelivery1.tip_horn": "Нажми <span style='font-size: 1em'>[action=horn]</span> что бы узнать свою оценку.",
+    "scenarios.italy.pizzaDelivery1.tip_horn": "Нажми <span style='font-size: 1em'>[action=horn]</span>, чтобы выразить признательность.",
     "scenarios.italy.pizzaDelivery1.tip_stop": "Остановись в следующей точке"
 }
