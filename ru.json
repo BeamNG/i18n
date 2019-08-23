@@ -2467,5 +2467,6 @@
     "scenarios.italy.tastiColaDelivery1.tip_increaseHeight2": "Уменьши его с помощью [action=semi__decrease_rideHeight]",
     "quickrace.west_coast_usa.highway_intersection.title": "Развязка",
     "quickrace.west_coast_usa.highway_intersection.description": "Гонка через дорожную развязку, сочетающая скоростные прямые и крутые повороты.",
-    "scenarios.italy.pizzaDelivery1.description": "Доставьте пиццу по маршруту через город."
+    "scenarios.italy.pizzaDelivery1.description": "Доставь пиццу нескольким клиентам в городе.",
+    "scenarios.italy.pizzaDelivery1.portraitText": "Эй, мальчик! Босс хочет, чтобы ты развёз несколько пицц. На это у тебя меньше трёх минут, и не проезжай мимо клиентов, как в прошлый раз! Mamma mia! В городе идут какие-то протесты, поэтому тебе придётся импровизировать. Ты же не забыл старые лазейки?"
 }
