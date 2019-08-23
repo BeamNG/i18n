@@ -2465,5 +2465,6 @@
     "ui.options.camera.couplerCameraModifier": "Смещать камеру при сцепке",
     "scenarios.italy.tastiColaDelivery1.tip_increaseHeight1": "Увеличь клиренс, используя [action=semi__increase_rideHeight]",
     "scenarios.italy.tastiColaDelivery1.tip_increaseHeight2": "Уменьши его с помощью [action=semi__decrease_rideHeight]",
-    "quickrace.west_coast_usa.highway_intersection.title": "Развязка"
+    "quickrace.west_coast_usa.highway_intersection.title": "Развязка",
+    "quickrace.west_coast_usa.highway_intersection.description": "Гонка по пересечению шоссе, сочетающая быстрые прямые и крутые повороты."
 }
