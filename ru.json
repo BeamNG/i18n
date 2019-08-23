@@ -2456,5 +2456,8 @@
     "scenarios.automation_test_track.damJump.description": "Прыгайте с плотины и цельтесь в мишень",
     "ui.options.camera.couplerCameraModifierHint": "Смещает камеру для лучшего обзора при использовании транспортного средства с прицепом",
     "scenarios.italy.pizzaDelivery1.success_fast": "Эй, иди предложи протестующим пиццу. Может тогда они заткнутся!",
-    "scenarios.italy.pizzaDelivery1.success_slow": "Ты не слишком торопишься с доставкой, не правда ли?"
+    "scenarios.italy.pizzaDelivery1.success_slow": "Ты не слишком торопишься с доставкой, не правда ли?",
+    "scenarios.italy.pizzaDelivery1.customer1": "Спасибо, молодой человек!",
+    "scenarios.italy.pizzaDelivery1.tip_horn": "Нажми <span style='font-size: 1em'>[action=horn]</span> что бы узнать свою оценку.",
+    "scenarios.italy.pizzaDelivery1.tip_stop": "Остановись в следующей точке"
 }
