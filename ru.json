@@ -2466,5 +2466,6 @@
     "scenarios.italy.tastiColaDelivery1.tip_increaseHeight1": "Увеличь клиренс, используя [action=semi__increase_rideHeight]",
     "scenarios.italy.tastiColaDelivery1.tip_increaseHeight2": "Уменьши его с помощью [action=semi__decrease_rideHeight]",
     "quickrace.west_coast_usa.highway_intersection.title": "Развязка",
-    "quickrace.west_coast_usa.highway_intersection.description": "Гонка через дорожную развязку, сочетающая скоростные прямые и крутые повороты."
+    "quickrace.west_coast_usa.highway_intersection.description": "Гонка через дорожную развязку, сочетающая скоростные прямые и крутые повороты.",
+    "scenarios.italy.pizzaDelivery1.description": "Доставьте пиццу по маршруту через город."
 }
