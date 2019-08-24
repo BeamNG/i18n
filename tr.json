@@ -2049,6 +2049,6 @@
     "scenarios.italy.electricHypermilling.title": "Elektrik Hiper-milleme",
     "scenarios.italy.electricHypermilling.description": "E-SBR'nin bataryaları azaldı. Castelletto 'daki en yakın şarj noktasına ulaşabilecek misin?",
     "ui.faq.mapEditor.q": "Harita düzenleyicisi nasıl açılır?",
-    "ui.faq.useMods.q": "Modifikasyonları nasıl kullanabilirim?",
+    "ui.faq.useMods.q": "Mod'ları nasıl kullanabilirim?",
     "ui.faq.mapEditor.a": "Harita düzenleyicisine pencere modunda [action=toggleEditor] tuşuna basarak erişilebilir"
 }
