@@ -2096,5 +2096,6 @@
     "ui.performance.warnings.memused": "Sistem hafızasının %80'i doldu. Diğer uygulamaları kapatın ya da oyunu veya bilgisayarı yeniden başlatın.",
     "ui.performance.warnings.xinput": "Gamepadler için kullanılan XInput bulunmamaktadır, lütfen DirectX 9'u tekrar yükleyin:  [url=http://wiki.beamng.com/DirectXInstallation]wiki.beamng.com/DirectXInstallation[/url]",
     "ui.performance.tempHide": "10 saniye Arayüzü gizle",
-    "ui.performance.optimal": "Optimum"
+    "ui.performance.optimal": "Optimum",
+    "ui.faq.updateGame.q": "Oyunu nasıl güncelleyebilirim?"
 }
