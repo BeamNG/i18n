@@ -2048,5 +2048,5 @@
     "scenarios.italy.tastiColaDelivery1.tip_increaseHeight2": "İndirmek için [action=semi__decrease_rideHeight] kullan",
     "scenarios.italy.electricHypermilling.title": "Elektrik Hiper-milleme",
     "scenarios.italy.electricHypermilling.description": "E-SBR'nin bataryaları azaldı. Castelletto 'daki en yakın şarj noktasına ulaşabilecek misin?",
-    "ui.faq.mapEditor.q": "Harita düzenleyicisini nasıl açarım?"
+    "ui.faq.mapEditor.q": "Harita düzenleyicisi nasıl açılır?"
 }
