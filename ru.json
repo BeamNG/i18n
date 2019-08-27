@@ -2470,5 +2470,8 @@
     "scenarios.italy.pizzaDelivery1.description": "Доставь пиццу нескольким клиентам в городе.",
     "scenarios.italy.pizzaDelivery1.portraitText": "Эй, мальчик! Босс хочет, чтобы ты развёз несколько пицц. На это у тебя меньше трёх минут, и не проезжай мимо клиентов, как в прошлый раз! Mamma mia! В городе идут какие-то протесты, поэтому тебе придётся импровизировать. Ты же не забыл старые лазейки?",
     "ui.performance.disk.run": "Посчитать использованное место",
-    "quickrace.hirochi_raceway.forgotten_raceway2.description": "Ещё одна гонка через старую часть гоночного комплекса Hirochi. В заброшенных секциях нет защитных барьеров и песчаных ловушек, только наступающий лес…"
+    "quickrace.hirochi_raceway.forgotten_raceway2.description": "Ещё одна гонка через старую часть гоночного комплекса Hirochi. В заброшенных секциях нет защитных барьеров и песчаных ловушек, только наступающий лес…",
+    "ui.options.camera.cameraDriverControls2": "[action=increase_zoom]/[action=decrease_zoom][br][br][action=rotate_camera_left]+[action=rotate_camera_right]",
+    "ui.options.camera.cameraDriverSeatControls2": "[action=moveup]/[action=movedown][br][br][action=movebackward]/[action=moveforward][br][br][action=moveleft]/[action=moveright]",
+    "ui.options.camera.cameraExternalControls2": "[action=center_camera][br][br][action=increase_zoom]/[action=decrease_zoom]"
 }
