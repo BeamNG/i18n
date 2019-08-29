@@ -6,5 +6,6 @@
     "scenarios.utah.chapter_1.chapter_1_highway.description": "챕터 1:고속도로 - 상태:…점수…",
     "ui.faq": "도움말",
     "ui.options.gameplay.gameplay": "시작",
-    "ui.options.physics": "물리 판정"
+    "ui.options.physics": "물리 판정",
+    "ui.fonts.filename": "NotoSansKR-Regular.otf"
 }

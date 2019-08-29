@@ -998,5 +998,6 @@
     "campaigns.training.training.training_slalom.title": "トレーニング 8: スラローム",
     "campaigns.training.training.training_RWD_handling.title": "トレーニング 9: 後輪駆動車のハンドリング",
     "campaigns.training.training.training_advanced.title": "トレーニング 10: 応用的なコーナーリング",
-    "campaigns.training.training.training_drift.title": "トレーニング 11: ドリフト"
+    "campaigns.training.training.training_drift.title": "トレーニング 11: ドリフト",
+    "ui.fonts.filename": "NotoSansJP-Regular.otf"
 }

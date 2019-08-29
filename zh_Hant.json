@@ -2359,6 +2359,7 @@
     "ui.mainmenu.news": "最新消息",
     "extensions.scenario.timeLimit.checkTime.countdown": "{{countdown}}...",
     "extensions.scenario.speedGoal.countdown": "{{countdown}}...",
+    "ui.fonts.filename": "NotoSansTC-Regular.otf",
     "ui.fonts.primary": "Play",
     "ui.fonts.secondary": "News Cycle",
     "ui.fonts.fallback": "Roboto",

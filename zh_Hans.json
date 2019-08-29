@@ -2231,6 +2231,7 @@
     "extensions.scenario.speedGoal.win.msg": "干得好！用时：{{time}}",
     "extensions.scenario.speedGoal.countdown": "{{countdown}}…",
     "extensions.scenario.drift.failedGoal": "你需要至少{{minDrift}}分数。",
+    "ui.fonts.filename": "NotoSansSC-Regular.otf",
     "ui.fonts.primary": "Play",
     "ui.fonts.secondary": "News Cycle",
     "ui.fonts.fallback": "Roboto",

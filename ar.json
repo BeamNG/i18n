@@ -1596,6 +1596,7 @@
     "engine.editor.menu.screenCenter": "مركز الشاشة",
     "engine.editor.menu.dropSel": "إسقاط التحديد",
     "engine.editor.menu.dropLocation": "وضع الموقع",
+    "ui.fonts.filename": "Cairo-Regular.ttf",
     "ui.fonts.primary": "Play",
     "ui.fonts.secondary": "News Cycle",
     "ui.fonts.fallback": "Roboto",

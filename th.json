@@ -88,6 +88,7 @@
     "extensions.scenario.speedGoal.win.msg": "ดีมาก เวลาของคุณ ชื่อ",
     "extensions.scenario.speedGoal.countdown": "นับเวลาถอยหลัง",
     "extensions.scenario.drift.passGoal": "ดีมาก!!คะแนนของคุณคือ...... คะแนน",
+    "ui.fonts.filename": "Prompt-Regular.ttf",
     "ui.fonts.primary": "เล่น",
     "ui.fonts.secondary": "รอบใหม่",
     "ui.fonts.fallback": "หุ่นยนต์",
