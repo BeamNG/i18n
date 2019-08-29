@@ -140,6 +140,7 @@
     "extensions.scenario.drift.passGoal":"Well done! Your score was {{driftPoints}} points.",
     "extensions.campaign.exploration.mapHint": "Press [action=toggle_minimap] to show the map with available missions",
 
+    "ui.fonts.filename": "segoeui.ttf",
     "ui.fonts.primary": "Play",
     "ui.fonts.secondary": "News Cycle",
     "ui.fonts.mono": "Roboto Mono",
