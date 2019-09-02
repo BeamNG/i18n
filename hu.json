@@ -2517,5 +2517,6 @@
     "levels.hirochi_raceway_v2.info.features": "Zárt versenypálya több elrendezésben. Elhagyatott pályarészek",
     "levels.italy.spawnpoints.port": "Kikötő",
     "levels.italy.spawnpoints.small_village": "Portino",
-    "vehicle.drivetrain.exhaustDamaged": "Megsérült a kipufogó"
+    "vehicle.drivetrain.exhaustDamaged": "Megsérült a kipufogó",
+    "ui.fonts.filename": "segoeui.ttf"
 }
