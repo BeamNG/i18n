@@ -2471,5 +2471,17 @@
     "quickrace.east_coast_usa.rallycross.title": "小路賽道 1",
     "quickrace.east_coast_usa.rallycross.description": "一條由泥路與柏油路交錯而成的長途賽道，最好選擇足以充分適應這兩種路面的車輛。",
     "levels.utah_offroad_park.info.biome": "沙漠",
-    "levels.utah_offroad_park.info.suitablefor": "越野"
+    "levels.utah_offroad_park.info.suitablefor": "越野",
+    "ui.options.camera.couplerCameraModifier": "啟用連接器攝影機",
+    "ui.options.camera.couplerCameraModifierHint": "調整環繞攝影機在使用連結器時的視角，適用於拖車",
+    "scenarios.automation_test_track.damclimb.title": "爬上溢洪道",
+    "scenarios.automation_test_track.damclimb.description": "你的車爬得上水壩的45度溢洪道嗎?",
+    "scenarios.italy.tastiColaDelivery1.title": "運送Tasti-Cola",
+    "scenarios.italy.tastiColaDelivery1.description": "把一車Tasti-Cola送到在Citta Vecchia的店家去",
+    "scenarios.italy.tastiColaDelivery1.tip_increaseHeight1": "用 [action=semi__increase_rideHeight] 提升你的車高",
+    "scenarios.italy.tastiColaDelivery1.tip_increaseHeight2": "用 [action=semi__decrease_rideHeight] 降低",
+    "scenarios.italy.electricHypermilling.title": "電力Hypermiling",
+    "scenarios.italy.electricHypermilling.description": "你駕駛的E-SBR快沒電了，你有辦法撐到在Castelletto找到最近的充電站嗎?",
+    "quickrace.italy.port_autocross.title": "港口Gymkhana",
+    "quickrace.italy.port_autocross.description": "一個穿梭凌亂港口的緊湊賽道"
 }
