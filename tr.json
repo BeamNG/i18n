@@ -2111,5 +2111,11 @@
     "ui.performance.warnings.powerdisconnected": "Güç kaynağı bağlı değil",
     "ui.performance.warnings.batterylow": "Pil düzeyi düşük",
     "ui.performance.warnings.batterycritical": "Pil düzeyi kritik",
-    "ui.performance.warnings.win8rec": "Windows 8 önerilir"
+    "ui.performance.warnings.win8rec": "Windows 8 önerilir",
+    "ui.performance.mods.title": "Mod Sayısı",
+    "ui.performance.mods.stat": "Sıkıştırılmış modlar: {{zip}} Çıkartılmış modlar: {{unpacked}}",
+    "ui.performance.mods.lt": "&lt; {{zip}} Sıkıştırılmış modlar, &lt; {{unpacked}} Çıkartılmış modlar",
+    "ui.performance.warnings.toomanymods": "Oyun performansını etkileyebilecek kadar mod bulunuyor olabilir. Bazı modları devre dışı bırakmayı deneyin.",
+    "ui.performance.warnings.highseas": "Ahoi!",
+    "ui.performance.highsea.txt": "Oyunumuzu denediğiniz için teşekkürler! :) [br] [br]  Orjinal olmayan kopya kullanılıyor gibi görünüyor. Deneyimimiz resmi oyundan daha az güvenilir ve virüs içeriyor olabilir, bu yüzden cihazınızı kontrol edin. [br] [br] Eğer ürünümüzü beğendiyseniz ve geliştirme çalışmalarımıza destek vermek isterseniz, her zaman son sürümü kullanın ve resmi destek alın. BeamNG.drive' ın orjinal kopyasını [url=https://store.steampowered.com/app/284160/BeamNGdrive]Steam[/url] veya [url=https://www.humblebundle.com/store/beamngdrive]Humble Bundle[/url].[br] [br] üzerinden almayı göz önünde bulundurunuz. Tüm takımımızdan teşekkürlerle!"
 }
