@@ -2108,5 +2108,6 @@
     "ui.performance.warnings.amdradeon": "En az AMD Radeon R8 gerekmektedir",
     "ui.performance.warnings.oswin8": "Windows 8 önerilir: x86 uyumluluk modunda çalıştırılacak",
     "ui.performance.warnings.app32": "Oyunun 64 bit versiyonu tavsiye edilir. x86 uyumluluk modunda çalıştırılacak.",
-    "ui.performance.warnings.powerdisconnected": "Güç kaynağı bağlı değil"
+    "ui.performance.warnings.powerdisconnected": "Güç kaynağı bağlı değil",
+    "ui.performance.warnings.batterylow": "Pil düzeyi düşük."
 }
