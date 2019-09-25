@@ -2111,5 +2111,5 @@
     "ui.performance.warnings.powerdisconnected": "Güç kaynağı bağlı değil",
     "ui.performance.warnings.batterylow": "Pil düzeyi düşük",
     "ui.performance.warnings.batterycritical": "Pil düzeyi kritik",
-    "ui.performance.warnings.win8rec": "Windows 8 tavsiye ediliyor."
+    "ui.performance.warnings.win8rec": "Windows 8 önerilir"
 }
