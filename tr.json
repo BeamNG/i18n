@@ -2128,5 +2128,12 @@
     "ui.performance.warnings.rootmodified": "Oyun dosyası değiştirildi veya bozuldu. Başlatıcıyı veya Steam' i kullanarak oyun dosyalarının doğruluğunu kontrol edin.",
     "ui.performance.warnings.onedrive": "Kullanıcı klasörü bulut hizmeti ile senkronize edildi ( örneğin OneDrive).[url=https://wiki.beamng.com/BeamNG_FAQ#How_do_I_change_the_.27mods.27_folder_location.3F] Lütfen kullanıcı klasörü konumunu değiştirerek beklenmeyen çökmeleri önleyin.",
     "ui.performance.warnings.toomanycache": "Önceki sürümlerden önbellek dosyaları bulundu. Boş alan açmak için Başlatıcı'yı kullanmak isteyebilirsiniz",
-    "ui.fonts.filename": "segoeui.ttf"
+    "ui.fonts.filename": "segoeui.ttf",
+    "ui.options.audio.musicVol": "Müzik Sesi",
+    "ui.hints.carsBurnFuel": "Uzun sürüşlerden sonra yakıtınız tükenebilir! Yakıt göstergesine dikkat edin!",
+    "ui.apps.demo_help.name": "Demo Yardımı",
+    "ui.changelog": "Güncelleme Notları",
+    "replay.jump": "{{seconds}} saniye havada",
+    "ui.options.graphics.GraphicMeshQuality": "Bitki Kalitesi",
+    "ui.performance.disk.run": "Kullanılmış Yer Al"
 }
