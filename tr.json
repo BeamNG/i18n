@@ -2106,5 +2106,7 @@
     "ui.performance.warnings.os32bits": "64 Bit İşlemciye ancak 32 Bit İşletim Sistemine sahipsiniz",
     "ui.performance.warnings.gpurecmem": "En az 2048MB (2GB) hafıza önerilir",
     "ui.performance.warnings.amdradeon": "En az AMD Radeon R8 gerekmektedir",
-    "ui.performance.warnings.oswin8": "Windows 8 önerilir: x86 uyumluluk modunda çalıştırılacak"
+    "ui.performance.warnings.oswin8": "Windows 8 önerilir: x86 uyumluluk modunda çalıştırılacak",
+    "ui.performance.warnings.app32": "Oyunun 64 bit versiyonu tavsiye edilir. x86 uyumluluk modunda çalıştırılacak.",
+    "ui.performance.warnings.powerdisconnected": "Güç kaynağı bağlı değil."
 }
