@@ -371,7 +371,7 @@
     "ui.debug.renderer.visualization": "Görselleştirme",
     "ui.debug.renderer.wireframeMode": "Şema Modu",
     "ui.debug.terrain": "Arazi",
-    "ui.debug.terrain.groundmodel": "Zemin Modeli Hata-ayıklama",
+    "ui.debug.terrain.groundmodel": "Zemin Modeli Hata Ayıklama",
     "ui.debug.userInterface": "Kullanıcı Arayüzü",
     "ui.debug.userInterface.enable": "JS Hata-ayıklama Kayıtlarını Aktifleştir",
     "ui.debug.vehicle.beamTransparency": "Bağ Şeffaflığı",
@@ -2144,5 +2144,7 @@
     "ui.debug.vehicle.loadDefault": "Varsayılan Aracı Yükle",
     "ui.debug.vehicle.removeOthers": "Diğerlerini Kaldır",
     "ui.debug.vehicle.debugVisible": "Hata Ayıklamayı Göster",
-    "ui.debug.vehicle.aerodynamics": "Aerodinamik Hata Ayıklaması"
+    "ui.debug.vehicle.aerodynamics": "Aerodinamik Hata Ayıklama",
+    "ui.debug.terrain.staticCollision": "Statik Çarpışma",
+    "ui.debug.renderer.toggleFps": "FPS göstergesini aç/kapat"
 }
