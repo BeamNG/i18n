@@ -2139,5 +2139,10 @@
     "ui.debug.vehicle": "Araç Hata Ayıklama",
     "ui.debug.vehicle.cloneCurrent": "Mevcut Aracı Klonla",
     "ui.options.audio.ambienceVol": "Ambiyans Ses Düz.",
-    "ui.debug.vehicle.flexmeshdebug": "Flexmesh Hata Ayıklama"
+    "ui.debug.vehicle.flexmeshdebug": "Flexmesh Hata Ayıklama",
+    "ui.debug.activatePhysics": "Fizikleri Etkinleştir",
+    "ui.debug.vehicle.loadDefault": "Varsayılan Aracı Yükle",
+    "ui.debug.vehicle.removeOthers": "Diğerlerini Kaldır",
+    "ui.debug.vehicle.debugVisible": "Hata Ayıklamayı Göster",
+    "ui.debug.vehicle.aerodynamics": "Aerodinamik Hata Ayıklaması"
 }
