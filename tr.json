@@ -2109,5 +2109,7 @@
     "ui.performance.warnings.oswin8": "Windows 8 önerilir: x86 uyumluluk modunda çalıştırılacak",
     "ui.performance.warnings.app32": "Oyunun 64 bit versiyonu tavsiye edilir. x86 uyumluluk modunda çalıştırılacak.",
     "ui.performance.warnings.powerdisconnected": "Güç kaynağı bağlı değil",
-    "ui.performance.warnings.batterylow": "Pil düzeyi düşük"
+    "ui.performance.warnings.batterylow": "Pil düzeyi düşük",
+    "ui.performance.warnings.batterycritical": "Pil düzeyi kritik",
+    "ui.performance.warnings.win8rec": "Windows 8 tavsiye ediliyor."
 }
