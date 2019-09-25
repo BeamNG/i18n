@@ -2097,5 +2097,13 @@
     "ui.performance.warnings.xinput": "Gamepadler için kullanılan XInput bulunmamaktadır, lütfen DirectX 9'u tekrar yükleyin:  [url=http://wiki.beamng.com/DirectXInstallation]wiki.beamng.com/DirectXInstallation[/url]",
     "ui.performance.tempHide": "10 saniye Arayüzü gizle",
     "ui.performance.optimal": "Optimum",
-    "ui.faq.updateGame.q": "Oyunu nasıl güncelleyebilirim?"
+    "ui.faq.updateGame.q": "Oyunu nasıl güncelleyebilirim?",
+    "ui.performance.warnings.amdhd": "AMD Radeon HD XXX ve üzeri önerilir",
+    "ui.performance.warnings.remotedesktop": "Uzaktan Masaüstü kullanmaktasınız",
+    "ui.performance.warnings.intelgpu": "Bir Intel GPU kullanmaktasınız. Harici GPU'nuzun kullanıldığından emin olunuz.",
+    "ui.performance.warnings.gpulowmem": "Ekran kartınızda 512 MB video hafızasından daha az bulunmaktadır",
+    "ui.performance.warnings.geforcemin": "En az GeForce 550 gerekmektedir",
+    "ui.performance.warnings.os32bits": "64 Bit İşlemciye ancak 32 Bit İşletim Sistemine sahipsiniz",
+    "ui.performance.warnings.gpurecmem": "En az 2048MB (2GB) hafıza önerilir",
+    "ui.performance.warnings.amdradeon": "En az AMD Radeon R8 gerekmektedir"
 }
