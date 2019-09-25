@@ -444,7 +444,7 @@
     "ui.hints.driveAtNight": "Gece sürebilmek için ayarları \"Çevre\" menüsünden değiştirebilirsiniz.",
     "ui.hints.driveTheCanon": "Askeri top kullanabileceğini (ve ateş edebileceğini!) biliyor muydun? Araç Seçici [action=vehicle_selector] bölümünden \"Malzemeler\" tipine filtrele.",
     "ui.hints.driveWithMouse": "Farenizi kullanarak da sürebilirsiniz. Kontroller menüsüne gidin ve zevkinize göre kontrolleri değiştirin.",
-    "ui.hints.engineBrakeForDownhill": "Ağır yüklü kamyonları yokuş aşağı sürerken motor frenini kullanın. Aksi takdirde frenleri bozulabilir.",
+    "ui.hints.engineBrakeForDownhill": "Yüklü kamyonları yokuş aşağı sürerken motor frenlemesini kullanın. Aksi takdirde frenleri bozulabilir.",
     "ui.hints.funStabilityControl": "Stabilite kontrolü olan araçlar daha tehlikeli (ama eğlenceli) modlara  [action=toggleESCMode] kullanılarak getirilebilirler.",
     "ui.hints.grabVehicleParts": "Araç parçalarını [action=nodegrabberRender] basılı tutarak ve ardından farenizle sürükleyerek tutabilirsiniz.",
     "ui.hints.importveFramerate": "Oyunu hızlandırmak için Yardım > Performans > Basit Performans Geliştirmeleri kısmındaki ipuçlarına bakın",
@@ -2107,7 +2107,7 @@
     "ui.performance.warnings.gpurecmem": "En az 2048MB (2GB) hafıza önerilir",
     "ui.performance.warnings.amdradeon": "En az AMD Radeon R8 gerekmektedir",
     "ui.performance.warnings.oswin8": "Windows 8 önerilir: x86 uyumluluk modunda çalıştırılacak",
-    "ui.performance.warnings.app32": "Oyunun 64 bit versiyonu tavsiye edilir. x86 uyumluluk modunda çalıştırılacak.",
+    "ui.performance.warnings.app32": "Oyunun 64 bit versiyonu tavsiye edilir. x86 uyumluluk modunda çalıştırılacak",
     "ui.performance.warnings.powerdisconnected": "Güç kaynağı bağlı değil",
     "ui.performance.warnings.batterylow": "Pil düzeyi düşük",
     "ui.performance.warnings.batterycritical": "Pil düzeyi kritik",
@@ -2127,5 +2127,6 @@
     "ui.performance.warnings.lowfreespace": "Oyun ve kullanıcı klasörü için 1GB' tan daha az boş alan bulunuyor.",
     "ui.performance.warnings.rootmodified": "Oyun dosyası değiştirildi veya bozuldu. Başlatıcıyı veya Steam' i kullanarak oyun dosyalarının doğruluğunu kontrol edin.",
     "ui.performance.warnings.onedrive": "Kullanıcı klasörü bulut hizmeti ile senkronize edildi ( örneğin OneDrive).[url=https://wiki.beamng.com/BeamNG_FAQ#How_do_I_change_the_.27mods.27_folder_location.3F] Lütfen kullanıcı klasörü konumunu değiştirerek beklenmeyen çökmeleri önleyin.",
-    "ui.performance.warnings.toomanycache": "Önceki sürümlerden önbellek dosyaları bulundu. Boş alan açmak için Launcer' ı kullanmak isteyebilirsiniz."
+    "ui.performance.warnings.toomanycache": "Önceki sürümlerden önbellek dosyaları bulundu. Boş alan açmak için Başlatıcı'yı kullanmak isteyebilirsiniz",
+    "ui.fonts.filename": "segoeui.ttf"
 }
