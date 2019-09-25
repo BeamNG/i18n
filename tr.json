@@ -2117,5 +2117,15 @@
     "ui.performance.mods.lt": "&lt; {{zip}} Sıkıştırılmış modlar, &lt; {{unpacked}} Çıkartılmış modlar",
     "ui.performance.warnings.toomanymods": "Oyun performansını etkileyebilecek kadar mod bulunuyor olabilir. Bazı modları devre dışı bırakmayı deneyin.",
     "ui.performance.warnings.highseas": "Ahoi!",
-    "ui.performance.highsea.txt": "Oyunumuzu denediğiniz için teşekkürler! :) [br] [br]  Görünüşe göre resmi olmayan bir kopya kullanıyorsun. Bizim deneyimimize göre bu versiyonlar resmi oyuna göre daha az güvenilir ve virüs içeriyor olabilir, bu yüzden cihazınızı kontrol edin. [br] [br] Eğer ürünümüzü beğendiyseniz ve geliştirme çalışmalarımıza destek vermek isterseniz, her zaman son sürümü kullanın ve resmi destek alın. BeamNG.drive' ın orjinal kopyasını [url=https://store.steampowered.com/app/284160/BeamNGdrive]Steam[/url] veya [url=https://www.humblebundle.com/store/beamngdrive]Humble Bundle[/url].[br] [br] üzerinden almayı göz önünde bulundurunuz. Tüm takımımızdan teşekkürlerle!"
+    "ui.performance.highsea.txt": "Oyunumuzu denediğiniz için teşekkürler! :) [br] [br]  Görünüşe göre resmi olmayan bir kopya kullanıyorsun. Bizim deneyimimize göre bu versiyonlar resmi oyuna göre daha az güvenilir ve virüs içeriyor olabilir, bu yüzden cihazınızı kontrol edin. [br] [br] Eğer ürünümüzü beğendiyseniz ve geliştirme çalışmalarımıza destek vermek isterseniz, her zaman son sürümü kullanın ve resmi destek alın. BeamNG.drive' ın orjinal kopyasını [url=https://store.steampowered.com/app/284160/BeamNGdrive]Steam[/url] veya [url=https://www.humblebundle.com/store/beamngdrive]Humble Bundle[/url].[br] [br] üzerinden almayı göz önünde bulundurunuz. Tüm takımımızdan teşekkürlerle!",
+    "ui.performance.highsea.okay": "Tamam! Arrr!",
+    "ui.performance.disk": "Depolama (HDD/SSD)",
+    "ui.performance.userpath": "Kullanıcı Klasörü",
+    "ui.performance.rootpath": "Oyun Klasörü",
+    "ui.performance.disk.used": "Kullanılan Alan",
+    "ui.performance.disk.free": "Boş Alan",
+    "ui.performance.warnings.lowfreespace": "Oyun ve kullanıcı klasörü için 1GB' tan daha az boş alan bulunuyor.",
+    "ui.performance.warnings.rootmodified": "Oyun dosyası değiştirildi veya bozuldu. Başlatıcıyı veya Steam' i kullanarak oyun dosyalarının doğruluğunu kontrol edin.",
+    "ui.performance.warnings.onedrive": "Kullanıcı klasörü bulut hizmeti ile senkronize edildi ( örneğin OneDrive).[url=https://wiki.beamng.com/BeamNG_FAQ#How_do_I_change_the_.27mods.27_folder_location.3F] Lütfen kullanıcı klasörü konumunu değiştirerek beklenmeyen çökmeleri önleyin.",
+    "ui.performance.warnings.toomanycache": "Önceki sürümlerden önbellek dosyaları bulundu. Boş alan açmak için Launcer' ı kullanmak isteyebilirsiniz."
 }
