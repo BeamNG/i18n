@@ -2147,7 +2147,7 @@
     "ui.debug.vehicle.aerodynamics": "Aerodinamik Hata Ayıklama",
     "ui.debug.terrain.staticCollision": "Statik Çarpışma",
     "ui.debug.renderer.toggleFps": "FPS göstergesini aç/kapat",
-    "ui.debug.effects.msg.fovOnlyInFreeMode": "FOV sadece serbest kamera modunda çalışır.",
+    "ui.debug.effects.msg.fovOnlyInFreeMode": "FOV sadece serbest kamera modunda çalışır",
     "ui.debug.vehicle.aerodynamicsScale": "Aerodinamik Ölçeği",
     "ui.debug.vehicle.tireContactPoint": "Teker Temas Noktası Hata Ayıklama"
 }
