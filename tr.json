@@ -2150,5 +2150,8 @@
     "ui.debug.effects.msg.fovOnlyInFreeMode": "FOV sadece serbest kamera modunda çalışır",
     "ui.debug.vehicle.aerodynamicsScale": "Aerodinamik Ölçeği",
     "ui.debug.vehicle.tireContactPoint": "Teker Temas Noktası Hata Ayıklama",
-    "ui.performance.warnings.dinput": "Direct Input (direksiyonlar için) kullanılamıyor, lütfen DirectX 9'u yeniden yükleyin.  [url=http://wiki.beamng.com/DirectXInstallation]wiki.beamng.com/DirectXInstallation[/url]"
+    "ui.performance.warnings.dinput": "Direct Input (direksiyonlar için) kullanılamıyor, lütfen DirectX 9'u yeniden yükleyin.  [url=http://wiki.beamng.com/DirectXInstallation]wiki.beamng.com/DirectXInstallation[/url]",
+    "quickrace.hirochi_raceway.shortcircuit1.title": "Kısa Yarış Turu",
+    "quickrace.jungle_rock_island.jri_dirt_loop.title": "Ada Çamur Pisti",
+    "quickrace.jungle_rock_island.jri_dirt_loop.description": "Ada etrafında çoğu çamurlu yolardan oluşan uzun bir tur."
 }
