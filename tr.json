@@ -2158,5 +2158,6 @@
     "quickrace.hirochi_raceway.fullcircuit1.title": "Uzun Yarış Pisti",
     "quickrace.hirochi_raceway.fullcircuit1.description": "Hirochi Yarış Pisti'nin uzun versiyonu. Güçlü araçlar için daha uygundur.",
     "quickrace.hirochi_raceway.forgotten_raceway.title": "Unutulmuş Yarış Yolu",
-    "quickrace.hirochi_raceway.forgotten_raceway.description": "Hirochi Yarış Pisti'nin eskimiş, restore edilmemiş kısmından geçen bir yarış. Terk edilmiş bölümlerde sadece orman bulunur, bariyer veya kum tuzağı yoktur."
+    "quickrace.hirochi_raceway.forgotten_raceway.description": "Hirochi Yarış Pisti'nin eskimiş, restore edilmemiş kısmından geçen bir yarış. Terk edilmiş bölümlerde sadece orman bulunur, bariyer veya kum tuzağı yoktur.",
+    "quickrace.hirochi_raceway.forgotten_raceway2.title": "Kayıp Yarış Yolu 2"
 }
