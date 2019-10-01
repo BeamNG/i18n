@@ -2302,5 +2302,7 @@
     "levels.hirochi_raceway_v2.info.suitablefor": "Yarış, Drift, Zamana Karşı, Sürücü Eğitimi",
     "levels.hirochi_raceway_v2.info.features": "Farklı düzenlere ve unutulmuş pist bölümlerine sahip bir yol parkur kompleksi",
     "levels.italy.spawnpoints.port": "Liman",
-    "levels.italy.spawnpoints.small_village": "Portino"
+    "levels.italy.spawnpoints.small_village": "Portino",
+    "levels.driver_training.spawnpoints.spawn_north": "Kuzey",
+    "levels.driver_training.spawnpoints.spawn_west": "Batı"
 }
