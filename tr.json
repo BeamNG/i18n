@@ -2512,5 +2512,6 @@
     "levels.italy.spawnpoints.runway": "Uçak Pisti",
     "quickrace.italy.port_autocross.title": "Liman Gymkhana",
     "quickrace.italy.port_autocross.description": "Karışık liman alanında dar ve sıkı bir otokros",
-    "vehicle.drivetrain.exhaustDamaged": "Egzoz hasar gördü"
+    "vehicle.drivetrain.exhaustDamaged": "Egzoz hasar gördü",
+    "vehicle.bullettime.slowmotion": "Ağır çekim etkinleştirildi"
 }
