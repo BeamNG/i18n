@@ -2394,7 +2394,7 @@
     "vehicle.drivetrain.engineDried": "Motor kurudu",
     "levels.small_island.spawnpoints.spawn_industrial": "Endüstriyel Alan",
     "vehicle.drivetrain.driveshaftBroken": "Tahrik mili kırıldı",
-    "vehicle.drivetrain.shifterModeChanged": "'{{shifterModeName | translate}}' vites davranışı kullanılıyor",
+    "vehicle.drivetrain.shifterModeChanged": "Kullanılan vites davranışı: '{{shifterModeName | translate}}'",
     "vehicle.drivetrain.cannotShiftSequential": "Şu anda kullanılan: '{{shifterModeName | translate }}' şanzıman davranışı (değiştirmek için [action=toggleShifterMode] tuşuna basın)",
     "vehicle.drivetrain.cannotShiftAuto": "Bu şanzıman ile '{{mode}}' moduna alınamıyor",
     "vehicle.drivetrain.axleBroken": "{{axleName}} tekerlek aksı kırıldı",
