@@ -2480,5 +2480,8 @@
     "quickrace.jungle_rock_island.jri_dirt_loop.description": "Длинный круговой заезд, в основном по гравийным дорогам.",
     "quickrace.hirochi_raceway.forgotten_raceway2.title": "Заброшенная трасса 2",
     "scenarios.italy.electricHypermilling.title": "Экономия заряда",
-    "quickrace.italy.miniVillageLoop1.title": "Мини-заезд по деревне"
+    "quickrace.italy.miniVillageLoop1.title": "Мини-заезд по деревне",
+    "quickrace.italy.mixedCircuit1.title": "Трасса со смешанным покрытием",
+    "quickrace.italy.mountainVillageCircuit1.title": "Трасса у горной деревни",
+    "quickrace.italy.mountainVillageCircuit1.description": "Исследуете узкие каменистые дороги горной деревни на этой живописной трассе."
 }
