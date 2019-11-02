@@ -2483,5 +2483,7 @@
     "quickrace.italy.miniVillageLoop1.title": "Мини-заезд по деревне",
     "quickrace.italy.mixedCircuit1.title": "Трасса со смешанным покрытием",
     "quickrace.italy.mountainVillageCircuit1.title": "Трасса у горной деревни",
-    "quickrace.italy.mountainVillageCircuit1.description": "Исследуете узкие каменистые дороги горной деревни на этой живописной трассе."
+    "quickrace.italy.mountainVillageCircuit1.description": "Исследуете узкие каменистые дороги горной деревни на этой живописной трассе.",
+    "quickrace.italy.miniVillageLoop1.description": "Эта короткая трасса находится в одной из самых маленьких деревень острова с узкими улочками.",
+    "quickrace.italy.mixedCircuit1.description": "Эта трасса длиной 4,4 км, проходящая вокруг полей и реки, состоит на 50% из гравийных дорог и на 50% — из асфальтовых."
 }
