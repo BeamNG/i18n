@@ -404,7 +404,7 @@
     "ui.dashboard.audiodebug": "Audio Debug",
     "ui.dashboard.tutorial": "Tutorial",
     "ui.dashboard.quit": "Quit Game",
-    "ui.dashboard.mainmenu": "Main Menu",
+    "ui.dashboard.mainmenu": "Quit to Main Menu",
     "ui.dashboard.garagePartselect": "New Part Selector",
     "ui.dashboard.trackBuilder": "Track Builder",
 
@@ -2088,6 +2088,13 @@
     "scenarios.utah.guineapig.fail.msg": "You failed",
     "scenarios.utah.guineapig.nocargo.msg": "You didn't deliver the cargo to its destination",
     "scenarios.utah.guineapig.cargoFellOff.fail.msg": "The Covet fell off the trailer",
+
+    "scenarios.utah.crawl.easy.title": "Crawl - Dried-Up Riverbed",
+    "scenarios.utah.crawl.easy.description": "In this crawling track, you'll drive up a dried-up river bed, around the bend and back again!",
+    "scenarios.utah.crawl.medium.title": "Crawl - Around the Bend",
+    "scenarios.utah.crawl.medium.description": "This is the first of three crawling tracks. Up a steep rise, then around a cliff bend. Watch for loose rocks!",
+    "scenarios.utah.crawl.hard.title": "Crawl - Leap of Faith",
+    "scenarios.utah.crawl.hard.description": "A really challenging crawling track. Down and up the cliffs, finishing with a courageous leap onto a rock pillar!",
 
     "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_crush.title":"Action Chase",
     "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_crush.description":"Complete the course with enough speed to land a jump onto the target car and crush it. Bonus points if you can bump the car right after the hairpin!",
