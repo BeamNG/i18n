@@ -135,7 +135,7 @@
     "extensions.scenario.damageGoal.fail.msg": "Você danificou seu carro",
     "extensions.scenario.damageGoal.win.msg": "Bom trabalho! Seu tempo: {{timeStr}}",
     "extensions.scenario.drift.failedGoal": "Você necessita de pelo menos {{minDrift}} pontos.",
-    "extensions.scenario.drift.passGoal": "Bom trabalho! Sua pontuação foi de {{driftPoints}} ponto(s).",
+    "extensions.scenario.drift.passGoal": "Bom trabalho! Sua pontuação foi de {{driftPoints}} pontos.",
     "extensions.scenario.onRaceEnd.default.win": "Bom trabalho! Seu tempo: {{timeStr}}",
     "extensions.scenario.speedGoal.countdown": "{{countdown}}...",
     "extensions.scenario.speedGoal.fail.msg": "Sua velocidade não é a necessária",
@@ -1841,5 +1841,9 @@
     "ui.repository.scheduled_chking": "Checando mod: {{checkingMod}}",
     "ui.repository.scheduled_nothing": "Atualmente não há atualizações marcadas.",
     "ui.repository.scheduled_conflicts": "Conflitos",
-    "ui.repository.scheduled_no_conflict": "Sem conflitos"
+    "ui.repository.scheduled_no_conflict": "Sem conflitos",
+    "ui.modmanager.id": "ID Único",
+    "ui.modmanager.author": "Autor",
+    "ui.busRoute.stopCount": "Número de Paradas",
+    "ui.fonts.filename": "segoeui.ttf"
 }
