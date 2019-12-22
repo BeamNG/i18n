@@ -2575,5 +2575,6 @@
     "scenarios.west_coast_usa.derby_asphalt.fail.msg": "Kaybettin…",
     "scenarios.west_coast_usa.mountain_race.title": "Dağ Yarışı",
     "scenarios.italy.crestRoadAutobello.win.msg": "Aferin!",
-    "quickrace.utah.riverRally.title": "Nehir Rallisi"
+    "quickrace.utah.riverRally.title": "Nehir Rallisi",
+    "quickrace.derby.ovalTrack.title": "Toprak oval"
 }
