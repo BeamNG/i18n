@@ -2593,7 +2593,7 @@
     "ui.options.traffic.amount.tooltip": "asettaa suurimman ajoneuvomäärän joka tuodaan liikenteeseen (korkeammat määrät tarvitsevat enemmän CPU:n suoritustehoa)",
     "ui.options.traffic.trafficSetup": "Liikenteen ajoneuvovalinnat",
     "ui.options.traffic.trafficSetup.tooltip": "Määrää ajoneuvot, jotka tuodaan liikenteeseen (älykäs tila käyttää maakohtaisia ajoneuvoja useammin)",
-    "ui.options.traffic.showOnMap": "Näytä käyttöliittymän kartassa",
+    "ui.options.traffic.showOnMap": "Näytä käyttöliittymäkartassa",
     "ui.options.traffic.showOnMap.tooltip": "Näyttää liikenneajoneuvot käyttöliittymän karttasovelluksessa",
     "ui.options.graphics.screen": "Näytön asetukset",
     "ui.options.graphics.timing": "Renderöinnin ajoitus",
