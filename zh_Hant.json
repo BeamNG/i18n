@@ -2483,5 +2483,18 @@
     "scenarios.italy.electricHypermilling.title": "電力Hypermiling",
     "scenarios.italy.electricHypermilling.description": "你駕駛的E-SBR快沒電了，你有辦法撐到在Castelletto找到最近的充電站嗎?",
     "quickrace.italy.port_autocross.title": "港口Gymkhana",
-    "quickrace.italy.port_autocross.description": "一個穿梭凌亂港口的緊湊賽道"
+    "quickrace.italy.port_autocross.description": "一個穿梭凌亂港口的緊湊賽道",
+    "ui.busRoute.traffic": "啟動AI車流",
+    "ui.modmanager.missing": "訂閱遺失",
+    "ui.modmanager.missing_tooltip": "目前不在主機上的已訂閱的內容",
+    "ui.modmanager.updateAllMissing": "全部下載",
+    "ui.modmanager.addDownload": "加入下載清單",
+    "ui.environment.tireMarks": "胎痕",
+    "ui.environment.tireMarks.reset": "清除",
+    "ui.environment.tireMarks.save": "儲存",
+    "ui.environment.tireMarks.load": "讀取",
+    "ui.vehicleconfig.licensePlateGen": "重新生成車牌",
+    "ui.vehicleconfig.updateLicensePlate": "生成車牌",
+    "ui.options.vehicleBehavior": "載具行為",
+    "ui.options.gameplay.enginesPreheated.tooltip": "若停用，引擎溫度模擬將在起始時將等於環境溫度"
 }
