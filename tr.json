@@ -31,7 +31,7 @@
     "engine.invalidUserpath.msg": "BeamNG.drive startup.ini(oyun dosyası)'deki UserPath'e ulaşamıyor. Geçerli bir yol ile değiştirin ",
     "engine.invalidUserpath.title": "Geçersiz User-path",
     "engine.levelModified.msg": "Seviye editörde değiştirilmiştir, kaydedilsin mi?",
-    "engine.levelModified.title": "Level Modified",
+    "engine.levelModified.title": "Seviye Düzenlendi",
     "engine.msgboxErrorTitle": "Hata",
     "engine.resourceMissing": "Kaynak oluşturulamadı (Dosya mı eksik?): ",
     "engine.welcome": "Türkçe BeamNG.drive'a hoşgeldiniz :)",
