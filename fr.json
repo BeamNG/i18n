@@ -2580,5 +2580,6 @@
     "ui.options.gameplay.useSteamName": "Utiliser le nom Steam pour la plaque d'immatriculation",
     "ui.options.gameplay.useSteamName.tooltip": "Si activé, votre nom d'utilisateur Steam pourra être utilisé pour la plaque d'immatriculation de votre véhicule.",
     "ui.options.traffic": "Trafic",
-    "ui.options.traffic.amount": "Nombre de véhicules dans le trafic"
+    "ui.options.traffic.amount": "Nombre de véhicules dans le trafic",
+    "engine.fatalError.errMsg": "ERREUR CRITIQUE:"
 }
