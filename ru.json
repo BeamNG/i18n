@@ -2490,5 +2490,6 @@
     "scenarios.italy.crestRoadAutobello.far.msg": "Не отставайте от другой машины!",
     "quickrace.derby.theBigEight.title": "Большая восьмёрка",
     "levels.utah.spawnpoints.AutoRepairZone": "Автомастерская",
-    "levels.utah.spawnpoints.campsite": "Лагерь"
+    "levels.utah.spawnpoints.campsite": "Лагерь",
+    "ui.options.traffic.showOnMap": "Показывать на карте"
 }
