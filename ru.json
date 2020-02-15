@@ -2491,5 +2491,22 @@
     "quickrace.derby.theBigEight.title": "Большая восьмёрка",
     "levels.utah.spawnpoints.AutoRepairZone": "Автомастерская",
     "levels.utah.spawnpoints.campsite": "Лагерь",
-    "ui.options.traffic.showOnMap": "Показывать на карте"
+    "ui.options.traffic.showOnMap": "Показывать на карте",
+    "ui.fonts.filename": "segoeui.ttf",
+    "engine.fatalError.errMsg": "КРИТИЧЕСКАЯ ОШИБКА: ",
+    "engine.fatalError.experienced": "\n\n\nВ BeamNG.drive произошла критическая ошибка. Нажмите OK , чтобы закрыть BeamNG и создать отчёт об ошибке. Пожалуйста, отправьте отчёт, чтобы мы смогли решить эту проблему.",
+    "engine.fatalError.experienced2": "\n\n\nВ BeamNG.drive произошла критическая ошибка.",
+    "ui.common.action.resume": "Продолжить",
+    "ui.common.action.load": "Загрузить",
+    "ui.common.action.stop": "Остановить",
+    "ui.common.action.start": "Начать",
+    "ui.common.random": "Случайное",
+    "ui.common.randomConfigs": "Случайное (любые конфигурации)",
+    "ui.trackBuilder.toolbar.merge": "Объединить сегменты",
+    "ui.options.traffic.showOnMap.tooltip": "Показывать машины трафика на миникарте",
+    "ui.options.graphics.MainMenuBackgroundModeBrokenCefVersion": "Фон главного меню",
+    "ui.options.graphics.uiAcceleratedRender": "Разрешить аппаратное ускорение для пользовательского интерфейса",
+    "ui.options.graphics.GraphicMaxDecalCount": "Количество следов шин",
+    "ui.options.graphics.GraphicMaxDecalCount.warning": "Предупреждение: выбор высокого значения для следов шин влияет на частоту кадров. Рекомендуется не превышать 6000",
+    "ui.options.audio.maxVoicesChanged.warning": "Предупреждение: для применения этой настройки требуется перезапуск игры"
 }
