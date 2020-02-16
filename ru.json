@@ -2508,5 +2508,17 @@
     "ui.options.graphics.uiAcceleratedRender": "Разрешить аппаратное ускорение для пользовательского интерфейса",
     "ui.options.graphics.GraphicMaxDecalCount": "Количество следов шин",
     "ui.options.graphics.GraphicMaxDecalCount.warning": "Предупреждение: выбор высокого значения для следов шин влияет на частоту кадров. Рекомендуется не превышать 6000",
-    "ui.options.audio.maxVoicesChanged.warning": "Предупреждение: для применения этой настройки требуется перезапуск игры"
+    "ui.options.audio.maxVoicesChanged.warning": "Предупреждение: для применения этой настройки требуется перезапуск игры",
+    "ui.options.gameplay.raceBrakesPreheated.tooltip": "Если включено, гоночные тормоза будут прогреты до рабочей температуры.",
+    "scenarios.west_coast_usa.derby_asphalt.win.msg": "Отлично!",
+    "scenarios.west_coast_usa.derby_asphalt.fail.msg": "Вы проиграли…",
+    "scenarios.west_coast_usa.mountain_race.description": "Поборитесь за победу на извилистых горных дорогах Западного побережья США",
+    "scenarios.italy.crestRoadAutobello.title": "Заезд по полю",
+    "scenarios.italy.crestRoadAutobello.description": "Сможете ли вы ехать достаточно быстро по ухабистой местности, чтобы не отстать от другой Baja Piccolina?",
+    "scenarios.italy.crestRoadAutobello.fail.msg": "Вы были слишком далеко от другой машины…",
+    "scenarios.italy.crestRoadAutobello.damage.msg": "Машина получила слишком много повреждений…",
+    "scenarios.italy.crestRoadAutobello.win.msg": "Отлично!",
+    "scenarios.italy.crestRoadAutobello.win.overtake.msg": "Отлично! Вы были так быстры, что даже обогнали преследуемую машину.",
+    "quickrace.utah.deadManLoop.title": "Петля мертвеца",
+    "quickrace.utah.oldMillLoop.title": "Круг у старой мельницы"
 }
