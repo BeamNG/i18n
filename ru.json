@@ -2520,5 +2520,7 @@
     "scenarios.italy.crestRoadAutobello.win.msg": "Отлично!",
     "scenarios.italy.crestRoadAutobello.win.overtake.msg": "Отлично! Вы были так быстры, что даже обогнали преследуемую машину.",
     "quickrace.utah.deadManLoop.title": "Петля мертвеца",
-    "quickrace.utah.oldMillLoop.title": "Круг у старой мельницы"
+    "quickrace.utah.oldMillLoop.title": "Круг у старой мельницы",
+    "ui.options.gameplay.useSteamName": "Использовать имя из Steam в номерном знаке",
+    "ui.options.gameplay.useSteamName.tooltip": "Если включено, в качестве номера автомобиля будет использоваться ваше имя в Steam."
 }
