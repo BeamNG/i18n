@@ -2125,7 +2125,7 @@
     "ui.busRoute.levelSelect": "Выберите уровень",
     "ui.busRoute.routeSelect": "Выберите маршрут",
     "ui.busRoute.vehicle": "Транспортное средство",
-    "ui.busRoute.strictMode": "Требует остановки, наклона и открытия дверей.",
+    "ui.busRoute.strictMode": "Требовать остановки, наклона и открытия дверей.",
     "ui.busRoute.simulatePassengers": "Симулирует вес пассажиров с помощью балласта.",
     "ui.busRoute.stopCount": "Количество остановок",
     "ui.modmanager.activateTip": "Активировать мод",
@@ -2505,7 +2505,7 @@
     "ui.trackBuilder.toolbar.merge": "Объединить сегменты",
     "ui.options.traffic.showOnMap.tooltip": "Показывать машины трафика на миникарте",
     "ui.options.graphics.MainMenuBackgroundModeBrokenCefVersion": "Фон главного меню",
-    "ui.options.graphics.uiAcceleratedRender": "Разрешить аппаратное ускорение для пользовательского интерфейса",
+    "ui.options.graphics.uiAcceleratedRender": "Включить аппаратное ускорение для пользовательского интерфейса",
     "ui.options.graphics.GraphicMaxDecalCount": "Количество следов шин",
     "ui.options.graphics.GraphicMaxDecalCount.warning": "Предупреждение: выбор высокого значения для следов шин влияет на частоту кадров. Рекомендуется не превышать 6000",
     "ui.options.audio.maxVoicesChanged.warning": "Предупреждение: для применения этой настройки требуется перезапуск игры",
@@ -2522,5 +2522,6 @@
     "quickrace.utah.deadManLoop.title": "Петля мертвеца",
     "quickrace.utah.oldMillLoop.title": "Круг у старой мельницы",
     "ui.options.gameplay.useSteamName": "Использовать имя из Steam в номерном знаке",
-    "ui.options.gameplay.useSteamName.tooltip": "Если включено, в качестве номера автомобиля будет использоваться ваше имя в Steam."
+    "ui.options.gameplay.useSteamName.tooltip": "Если включено, в качестве номера автомобиля будет использоваться ваше имя в Steam.",
+    "ui.busRoute.traffic": "Включить ИИ-трафик."
 }
