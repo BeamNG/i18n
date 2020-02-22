@@ -2523,5 +2523,7 @@
     "quickrace.utah.oldMillLoop.title": "Круг у старой мельницы",
     "ui.options.gameplay.useSteamName": "Использовать имя из Steam в номерном знаке",
     "ui.options.gameplay.useSteamName.tooltip": "Если включено, в качестве номера автомобиля будет использоваться ваше имя в Steam.",
-    "ui.busRoute.traffic": "Включить ИИ-трафик."
+    "ui.busRoute.traffic": "Включить ИИ-трафик.",
+    "ui.options.gameplay.switchHint": "Используйте [action=switch_next_vehicle_multiseat] «Переключение на следующую машину (многопользовательский режим)», чтобы переключать машины",
+    "ui.options.gameplay.enginesPreheated.tooltip": "Если отключено, симуляция машины начнётся с непрогретым двигателем."
 }
