@@ -2547,5 +2547,11 @@
     "ui.radialmenu2.traffic.start": "Запустить трафик",
     "ui.radialmenu2.traffic.start.desc": "Запустить режим трафика для всех машин.",
     "ui.radialmenu2.traffic.stop": "Остановить трафик",
-    "ui.radialmenu2.traffic.stop.desc": "Остановить режим трафика."
+    "ui.radialmenu2.traffic.stop.desc": "Остановить режим трафика.",
+    "levels.common.country.usa": "Соединённые Штаты",
+    "levels.common.country.germany": "Германия",
+    "levels.common.country.italy": "Италия",
+    "levels.common.country.newzealand": "Новая Зеландия",
+    "levels.hirochi_raceway.spawnpoints.spawn_paddock": "Паддок",
+    "levels.hirochi_raceway.spawnpoints.spawn_pitlane": "Пит-лейн"
 }
