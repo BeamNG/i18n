@@ -2576,5 +2576,18 @@
     "ui.trackBuilder.saveLoad.trackLoaded": "Загружен трек ",
     "ui.trackBuilder.saveLoad.search": "Поиск",
     "ui.trackBuilder.settings.cameraFollow": "Автоматически смещать камеру",
-    "ui.trackBuilder.settings.cameraFollowDistance": "Расстояние следования"
+    "ui.trackBuilder.settings.cameraFollowDistance": "Расстояние следования",
+    "ui.options.motionSim.accelerationSmoothing": "Сглаживание ускорения:",
+    "ui.repository.modmgrnotready": "Менеджер модов ещё не готов. Все задачи помещены в очередь и будут выполнены, когда это станет возможным. Если подготовка занимает слишком много времени — пожалуйста, свяжитесь с поддержкой.",
+    "ui.environment.tireMarks": "Следы шин",
+    "ui.environment.tireMarks.reset": "Очистить",
+    "ui.environment.tireMarks.save": "Сохранить",
+    "ui.environment.tireMarks.load": "Загрузить",
+    "ui.options.vehicleBehavior": "Настройка машин",
+    "ui.options.graphics.screen": "Настройки отображения",
+    "ui.options.graphics.ui": "Настройки интерфейса",
+    "ui.options.graphics.overall": "Настройки качества изображения",
+    "ui.options.graphics.preset": "Предварительные установки качества",
+    "ui.options.audio.settings": "Настройки",
+    "ui.options.audio.maxVoices": "Максимум каналов"
 }
