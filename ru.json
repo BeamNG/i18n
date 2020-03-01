@@ -2589,5 +2589,17 @@
     "ui.options.graphics.overall": "Настройки качества изображения",
     "ui.options.graphics.preset": "Предварительные установки качества",
     "ui.options.audio.settings": "Настройки",
-    "ui.options.audio.maxVoices": "Максимум каналов"
+    "ui.options.audio.maxVoices": "Максимум каналов",
+    "ui.options.camera.cameraOrbitRelaxationHint": "Меньшее значение = более жёсткое поведение камеры",
+    "ui.options.userInterface.disableRichPresence": "Не отображать расширенный статус в Steam",
+    "ui.vehicleconfig.licensePlateGen": "Сгенерировать случайный",
+    "ui.vehicleconfig.updateLicensePlate": "Применить изменения",
+    "ui.options.graphics.timing": "Настройки рендера",
+    "ui.options.graphics.PostFXBloomGeneralEnabled": "Эффект засветки (bloom)",
+    "ui.controls.steering_wiki": "Для дополнительной информации по настройке руля, пожалуйста, посетите нашу wiki: [url=https://wiki.beamng.com/Steering_wheel_setup]https://wiki.beamng.com/Steering_wheel_setup[/url]",
+    "ui.traffic.spawnLoad": "Пожалуйста, подождите, машины загружаются…",
+    "ui.traffic.policeTicket": "Вы получили штраф!",
+    "ui.traffic.policeArrest": "Вы арестованы!",
+    "ui.traffic.policeEvade": "Вы успешно скрылись от полиции!",
+    "ui.traffic.driveAway": "Теперь можете ехать…"
 }
