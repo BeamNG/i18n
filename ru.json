@@ -2601,5 +2601,6 @@
     "ui.traffic.policeTicket": "Вы получили штраф!",
     "ui.traffic.policeArrest": "Вы арестованы!",
     "ui.traffic.policeEvade": "Вы успешно скрылись от полиции!",
-    "ui.traffic.driveAway": "Теперь можете ехать…"
+    "ui.traffic.driveAway": "Теперь можете ехать…",
+    "ui.traffic.playerArrestAI": "Подозреваемый арестован!"
 }
