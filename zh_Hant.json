@@ -1215,7 +1215,7 @@
     "ui.unit.ltr100": "公升/100公里",
     "ui.unit.nm": "牛頓米（Nm）",
     "ui.unit.j": "焦耳",
-    "ui.unit.ftlb": "呎-磅",
+    "ui.unit.ftlb": "呎-磅（ft⋅lbf）",
     "ui.unit.hp": "馬力",
     "ui.unit.bhp": "制動馬力",
     "ui.unit.kw": "千瓦",
