@@ -449,7 +449,7 @@
     "ui.hints.grabVehicleParts": "Araç parçalarını [action=nodegrabberRender] basılı tutarak ve ardından farenizle sürükleyerek tutabilirsiniz.",
     "ui.hints.importveFramerate": "Oyunu hızlandırmak için Yardım > Performans > Basit Performans Geliştirmeleri kısmındaki ipuçlarına bakın",
     "ui.hints.increaseGroundClearance": "Arazi aracınız sudan geçmekte zorluk yaşıyorsa yerden yüksekliğini arttırın.",
-    "ui.hints.installRollCage": "Bazı araçlara takla kafesi kurabilirsiniz: sadece daha güvenli yapmakla kalmaz aynı zamanda şasi sertliğini ve araç idaresini geliştirir ([action=parts_selector] kullanın).",
+    "ui.hints.installRollCage": "Bazı araçlara takla kafesi (Rollcage) kurabilirsiniz: sadece daha güvenli yapmakla kalmaz, aynı zamanda şasi sertliğini ve araç idaresini arttırır ([action=parts_selector] kullanın).",
     "ui.hints.keepTheEngineUpright": "Motoru baş aşağı çalıştırmak yetersiz yağ beslemesine sebep olabilir. Mavi egzoz dumanı yağın silindirleri batırmasından kaynaklanır ve motor yatağı arızalanabilir.",
     "ui.hints.liftOffOversteer": "Yüksek hızlı virajlarda gazı aniden bırakmak aracın dengesini bozup kontrol kaybına neden olabilir. Buna \"kaldırarak\" arkadan kopma denir.",
     "ui.hints.moonGravity": "Ay yerçekimini \"Çevre\" menüsünden deneyebilirsiniz.",
