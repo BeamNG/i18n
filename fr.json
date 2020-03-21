@@ -2636,5 +2636,6 @@
     "levels.hirochi_raceway.spawnpoints.spawn_pitlane": "Voie des stands",
     "levels.hirochi_raceway.spawnpoints.spawn_figure8": "Anneau de vitesse en 8",
     "levels.utah.spawnpoints.AutoRepairZone": "Auto Repair Zone",
-    "levels.utah.spawnpoints.campsite": "Site de camping"
+    "levels.utah.spawnpoints.campsite": "Site de camping",
+    "ui.options.graphics.overall": "Paramètres de qualité générale"
 }
