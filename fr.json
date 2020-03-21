@@ -2638,5 +2638,6 @@
     "levels.utah.spawnpoints.AutoRepairZone": "Auto Repair Zone",
     "levels.utah.spawnpoints.campsite": "Site de camping",
     "ui.options.graphics.overall": "Paramètres de qualité générale",
-    "ui.options.graphics.preset": "Paramètres de qualité prédéfinis"
+    "ui.options.graphics.preset": "Paramètres de qualité prédéfinis",
+    "scenarios.utah.crawl.easy.title": "Crawl - Lit de rivière asséché"
 }
