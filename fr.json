@@ -2639,5 +2639,8 @@
     "levels.utah.spawnpoints.campsite": "Site de camping",
     "ui.options.graphics.overall": "Paramètres de qualité générale",
     "ui.options.graphics.preset": "Paramètres de qualité prédéfinis",
-    "scenarios.utah.crawl.easy.title": "Crawl - Lit de rivière asséché"
+    "scenarios.utah.crawl.easy.title": "Crawl - Lit de rivière asséché",
+    "quickrace.utah.oldMillLoop.title": "Tour du vieux moulin",
+    "quickrace.utah.oldMillLoop.description": "Une course sur gravier autour des mesas et des canyons en partant du vieux moulin.",
+    "scenarios.italy.crestRoadAutobello.description": "Seras tu assez rapide pour suivre l'autre Piccolina Baja sur une route inégale ?"
 }
