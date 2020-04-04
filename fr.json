@@ -2644,5 +2644,6 @@
     "quickrace.utah.oldMillLoop.description": "Une course sur gravier autour des mesas et des canyons en partant du vieux moulin.",
     "scenarios.italy.crestRoadAutobello.description": "Seras tu assez rapide pour suivre l'autre Piccolina Baja sur une route inégale ?",
     "scenarios.utah.crawl.hard.title": "Franchissement - Acte de foi",
-    "scenarios.utah.crawl.medium.title": "Franchissement - Au tournant"
+    "scenarios.utah.crawl.medium.title": "Franchissement - Au tournant",
+    "scenarios.west_coast_usa.derby_asphalt.title": "Course de Derby sur l'asphalte"
 }
