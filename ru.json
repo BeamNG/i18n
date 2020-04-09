@@ -2602,5 +2602,6 @@
     "ui.traffic.policeArrest": "Вы арестованы!",
     "ui.traffic.policeEvade": "Вы успешно скрылись от полиции!",
     "ui.traffic.driveAway": "Теперь можете ехать…",
-    "ui.traffic.playerArrestAI": "Подозреваемый арестован!"
+    "ui.traffic.playerArrestAI": "Подозреваемый арестован!",
+    "quickrace.italy.islandTour1.description": "Длинный круг вдоль всего острова с протяженными участками шоссе и горными дорогами с шикарным видом."
 }
