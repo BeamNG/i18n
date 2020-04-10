@@ -2610,5 +2610,6 @@
     "scenarios.utah.crawl.easy.description": "На этой скалолазной трассе вы проедете вверх по высохшему руслу реки, затем вернётесь обратно к началу.",
     "scenarios.utah.crawl.medium.title": "Скалолаз — За поворотом",
     "scenarios.utah.crawl.medium.description": "Это первая из трёх скалолазных трасс. Крутой подъём вверх, затем поворот вокруг скалы. Следите за шаткими валунами!",
-    "scenarios.utah.crawl.hard.title": "Скалолаз — Прыжок веры"
+    "scenarios.utah.crawl.hard.title": "Скалолаз — Прыжок веры",
+    "scenarios.utah.crawl.hard.description": "Весьма сложная скалолазная трасса вниз и вверх по скалам, завершающаяся отважным прыжком на каменную колонну!"
 }
