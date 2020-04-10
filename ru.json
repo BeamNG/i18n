@@ -2605,5 +2605,6 @@
     "ui.traffic.playerArrestAI": "Подозреваемый арестован!",
     "quickrace.italy.islandTour1.description": "Длинный круг, охватывающий весь остров, с протяженными шоссейными участками и горными дорогами с шикарным видом.",
     "quickrace.derby.theBigEight.description": "Скоростная трасса с наклонными поворотами и двумя прыжками. Рекомендуемая скорость при прыжке — 100 км/ч. Советуем использовать мощные машины с мягкой подвеской.",
-    "levels.hirochi_raceway.spawnpoints.spawn_figure8": "Восьмёрка"
+    "levels.hirochi_raceway.spawnpoints.spawn_figure8": "Восьмёрка",
+    "scenarios.utah.crawl.easy.title": "Скалолаз - Высохшая река"
 }
