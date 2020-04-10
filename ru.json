@@ -2611,5 +2611,6 @@
     "scenarios.utah.crawl.medium.title": "Скалолаз — За поворотом",
     "scenarios.utah.crawl.medium.description": "Это первая из трёх скалолазных трасс. Крутой подъём вверх, затем поворот вокруг скалы. Следите за шаткими валунами!",
     "scenarios.utah.crawl.hard.title": "Скалолаз — Прыжок веры",
-    "scenarios.utah.crawl.hard.description": "Весьма сложная скалолазная трасса. Она идёт вниз и вверх по скалам, а в конце потребует отважного прыжка на каменный столп!"
+    "scenarios.utah.crawl.hard.description": "Весьма сложная скалолазная трасса. Она идёт вниз и вверх по скалам, а в конце потребует отважного прыжка на каменный столп!",
+    "levels.hirochi_raceway.spawnpoints.spawn_crawl": "Скалолазный маршрут"
 }
