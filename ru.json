@@ -2608,5 +2608,6 @@
     "levels.hirochi_raceway.spawnpoints.spawn_figure8": "Восьмёрка",
     "scenarios.utah.crawl.easy.title": "Скалолаз — Высохшая река",
     "scenarios.utah.crawl.easy.description": "На этой скалолазной трассе вы проедете вверх по высохшему руслу реки, затем вернётесь обратно к началу.",
-    "scenarios.utah.crawl.medium.title": "Скалолаз — За поворотом"
+    "scenarios.utah.crawl.medium.title": "Скалолаз — За поворотом",
+    "scenarios.utah.crawl.medium.description": "Это первая из трёх скалолазных трасс. Крутой подъём вверх, затем поворот вокруг скалы. Следите за насыпью!"
 }
