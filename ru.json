@@ -1263,7 +1263,7 @@
     "ui.hints.saveRestoreVehicleHome": "Вы можете сохранить автомобиль, нажав [action=saveHome], а затем восстановить его с помощью [action=loadHome]",
     "ui.hints.showCustomVehicles": "Чтобы видеть свои собственные конфигурации автомобилей в меню выбора, перейдите в Настройки > Интерфейс > Показывать свои конфигурации авто.",
     "ui.hints.slideBackWithParkingBrake": "Вы можете легко двигать заднюю часть автомобиля с тяжёлым передом с помощью ручного тормоза, особенно на рыхлых поверхностях.",
-    "ui.hints.slowMotionPhysics": "Наслаждайтесь физикой в замедленной съёмке, используя [action=slow_motion] и [action=faster_motion].",
+    "ui.hints.slowMotionPhysics": "Наслаждайтесь физикой в замедленной съёмке, используя [action=toggle_slow_motion] и [action=faster_motion].",
     "ui.hints.smokingWheels": "Если идет дым из-под колес, значит могли перегреться тормоза.",
     "ui.hints.snapOversteer": "Машины с уклоном веса на задние колёса склонны к недостаточной поворачиваемости при ускорении, потом поворачиваемость становится избыточной. Это называется «snap-поворачиваемость».",
     "ui.hints.spatialNavigation": "Вы можете перемещаться по меню, используя игровой контроллер: [action=menu_item_left] [action=menu_item_up] [action=menu_item_right] [action=menu_item_down] [action=menu_item_select].",
@@ -1405,7 +1405,7 @@
     "ui.options.graphics.PostFXSSAOGeneralEnabled": "SSAO",
     "ui.options.graphics.antialiasing": "Сглаживание",
     "ui.options.graphics.borderless": "Окно без рамки",
-    "ui.options.graphics.display": "Экран",
+    "ui.options.graphics.display": "Монитор",
     "ui.options.graphics.fpslimiter": "Ограничение FPS",
     "ui.options.graphics.fullscreen": "На весь экран",
     "ui.options.graphics.gamma": "Гамма",
@@ -1642,7 +1642,7 @@
     "ui.vehicleconfig.save": "Сохранить",
     "ui.vehicleconfig.simpleTree": "Простая иерархия",
     "ui.vehicleconfig.stickySelection": "Фиксация выбора",
-    "ui.vehicleconfig.subparts": "Компоненты",
+    "ui.vehicleconfig.subparts": "Выделить компоненты",
     "ui.vehicleconfig.tuning": "Настройка",
     "ui.vehicleconfig.vehicleconfig": "Настройка машины",
     "vehicle.bdebug.beamVisMode": "Режим отображения связей: {{beamVisMode | translate}}",
@@ -2611,5 +2611,5 @@
     "scenarios.utah.crawl.medium.title": "Скалолаз — За поворотом",
     "scenarios.utah.crawl.medium.description": "Это первая из трёх скалолазных трасс. Крутой подъём вверх, затем поворот вокруг скалы. Следите за шаткими валунами!",
     "scenarios.utah.crawl.hard.title": "Скалолаз — Прыжок веры",
-    "scenarios.utah.crawl.hard.description": "Весьма сложная скалолазная трасса вниз и вверх по скалам, завершающаяся отважным прыжком на каменную колонну!"
+    "scenarios.utah.crawl.hard.description": "Весьма сложная скалолазная трасса. Она идёт вниз и вверх по скалам, а в конце потребует отважного прыжка на каменный столп!"
 }
