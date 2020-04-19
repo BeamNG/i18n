@@ -2596,7 +2596,7 @@
     "ui.options.graphics.GraphicMaxDecalCount": "Quantité de traces de pneu",
     "ui.options.graphics.GraphicMaxDecalCount.warning": "Attention : Choisir un nombre important de traces de pneus aura un gros impact sur la fréquence d'images. Il est recommandé de rester en dessous de 6000",
     "ui.options.audio.settings": "Réglages",
-    "ui.options.audio.maxVoices": "Maximum de voix",
+    "ui.options.audio.maxVoices": "Nombre maximum de voix",
     "ui.options.audio.maxVoicesChanged.warning": "Attention : Il est nécessaire de redémarrer le jeu pour appliquer ce changement",
     "ui.controls.steering_wiki": "Pour plus d'informations sur la configuration d'un volant, veuillez visiter notre page wiki dédiée : [url=https://wiki.beamng.com/Steering_wheel_setup]\nhttps://wiki.beamng.com/Steering_wheel_setup[/url]",
     "ui.radialmenu2.traffic": "Trafic",
@@ -2650,10 +2650,10 @@
     "quickrace.utah.riverRally.title": "Rallye de la rivière",
     "levels.hirochi_raceway.spawnpoints.spawn_crawl": "Piste de franchissement de rocher",
     "quickrace.utah.riverRally.description": "Un rallye rapide le long de la rivière, avec de nombreuses traversées d'eau.",
-    "scenarios.utah.crawl.medium.description": "Ceci est la première des trois pistes de crawling. Gravis une montée abrupte puis longe la falaise. Fais attention aux roches instables.",
+    "scenarios.utah.crawl.medium.description": "Ceci est la première des trois pistes de crawling. Gravis une montée abrupte puis longe la falaise. Fais attention aux roches instables !",
     "scenarios.utah.crawl.hard.description": "Un hors-piste vraiment difficile. Descends et monte des falaises en finissant par un saut courageux sur un pilier rocheux !",
-    "quickrace.utah.asphaltHillclimb.title": "Ascension sur de l'asphalte.",
-    "scenarios.west_coast_usa.derby_asphalt.description": "Une course de 5 tours sur le parking des stands.",
+    "quickrace.utah.asphaltHillclimb.title": "Ascension sur l'asphalte",
+    "scenarios.west_coast_usa.derby_asphalt.description": "Une course de 5 tours sur le parking des stands",
     "scenarios.italy.crestRoadAutobello.title": "Terrain de course",
     "quickrace.utah.deadManLoop.description": "Une boucle principalement constituée de gravier le long de quelques falaises dangereuses."
 }
