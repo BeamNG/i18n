@@ -2655,5 +2655,6 @@
     "quickrace.utah.asphaltHillclimb.title": "Ascension sur l'asphalte",
     "scenarios.west_coast_usa.derby_asphalt.description": "Une course de 5 tours sur le parking des stands",
     "scenarios.italy.crestRoadAutobello.title": "Terrain de course",
-    "quickrace.utah.deadManLoop.description": "Une boucle principalement constituée de gravier le long de quelques falaises dangereuses."
+    "quickrace.utah.deadManLoop.description": "Une boucle principalement constituée de gravier le long de quelques falaises dangereuses.",
+    "quickrace.utah.asphaltHillclimb.description": "Une ascension rapide sur route jusqu'au sommet du canyon."
 }
