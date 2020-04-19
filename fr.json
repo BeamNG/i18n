@@ -2653,5 +2653,6 @@
     "scenarios.utah.crawl.medium.description": "Ceci est la première des trois pistes de crawling. Gravis une montée abrupte puis longe la falaise. Fais attention aux roches instables.",
     "scenarios.utah.crawl.hard.description": "Un hors-piste vraiment difficile. Descends et monte des falaises en finissant par un saut courageux sur un pilier rocheux !",
     "quickrace.utah.asphaltHillclimb.title": "Ascension sur de l'asphalte.",
-    "scenarios.west_coast_usa.derby_asphalt.description": "Une course de 5 tours sur le parking des stands."
+    "scenarios.west_coast_usa.derby_asphalt.description": "Une course de 5 tours sur le parking des stands.",
+    "scenarios.italy.crestRoadAutobello.title": "Terrain de course"
 }
