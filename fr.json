@@ -2650,5 +2650,6 @@
     "quickrace.utah.riverRally.title": "Rallye de la rivière",
     "levels.hirochi_raceway.spawnpoints.spawn_crawl": "Piste de franchissement de rocher",
     "quickrace.utah.riverRally.description": "Un rallye rapide le long de la rivière, avec de nombreuses traversées d'eau.",
-    "scenarios.utah.crawl.medium.description": "Ceci est la première des trois pistes de crawling. Gravis une montée abrupte, puis longe la falaise. Fais attention aux roches qui ne sont pas stables."
+    "scenarios.utah.crawl.medium.description": "Ceci est la première des trois pistes de crawling. Gravis une montée abrupte puis longe la falaise. Fais attention aux roches instables.",
+    "scenarios.utah.crawl.hard.description": "Un hors-piste vraiment difficile. Descends et monte des falaises en finissant par un saut courageux sur un pilier rocheux !"
 }
