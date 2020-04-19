@@ -316,7 +316,7 @@
     "quickrace.gridmap.skycurve2.description": "Conduisez sur Sky Curve 2 ! Celle-ci est un peu plus dur.",
     "quickrace.gridmap.skycurve2.title": "Sky Curve 2",
     "quickrace.gridmap.suspension.description": "Cette petite étape vous guidera vers les 4 différents tests de suspension. C'est un bon moyen de détruire l'alignement des roues.",
-    "quickrace.hirochi_raceway.forgotten_raceway.description": "Une course à travers l'ancienne partie pas entretenue du circuit Hirochi. Dans la partie abandonnée, il n'y a pas de barrière ou de parterre de sable, juste une forêt envahissante.",
+    "quickrace.hirochi_raceway.forgotten_raceway.description": "Une course à travers les routes d'accès entourant le Hirochi Raceway. Ces routes, qui faisaient auparavant partie du tracé du circuit, sont maintenant bordées d'arbres et de poteaux électriques dangereux",
     "quickrace.hirochi_raceway.forgotten_raceway.title": "Circuit abandonné",
     "quickrace.hirochi_raceway.fullcircuit1.description": "La plus longue configuration du circuit Hirochi. Plus adaptée pour les véhicules plus puissants.",
     "quickrace.hirochi_raceway.fullcircuit1.title": "Circuit de course long",
@@ -2654,5 +2654,6 @@
     "scenarios.utah.crawl.hard.description": "Un hors-piste vraiment difficile. Descends et monte des falaises en finissant par un saut courageux sur un pilier rocheux !",
     "quickrace.utah.asphaltHillclimb.title": "Ascension sur de l'asphalte.",
     "scenarios.west_coast_usa.derby_asphalt.description": "Une course de 5 tours sur le parking des stands.",
-    "scenarios.italy.crestRoadAutobello.title": "Terrain de course"
+    "scenarios.italy.crestRoadAutobello.title": "Terrain de course",
+    "quickrace.utah.deadManLoop.description": "Une boucle principalement constituée de gravier le long de quelques falaises dangereuses."
 }
