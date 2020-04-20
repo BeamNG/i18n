@@ -630,7 +630,7 @@
     "scenarios.gridmap.gm_suspension_race.title": "Испытание подвески",
     "scenarios.gridmap.hard_parking.description": "Выполните параллельную парковку между двумя автомобилями как можно быстрее.",
     "scenarios.gridmap.hard_parking.fail.distance.msg": "Вы припарковались неправильно…",
-    "scenarios.gridmap.hard_parking.fail.time.msg": "Вы потратили больше {{time}} секунд",
+    "scenarios.gridmap.hard_parking.fail.time.msg": "Вы потратили слишком много времени...",
     "scenarios.gridmap.hard_parking.title": "Сложная парковка",
     "scenarios.gridmap.slalom.description": "Пройдите извилистый путь между блоками на Ibishu Covet. Держите подходящую скорость и найдите баланс между поворотами и ускорением.",
     "scenarios.gridmap.slalom.title": "Слалом",
