@@ -605,7 +605,7 @@
     "scenarios.east_coast_usa.town_course_short_b.title": "Городская трасса B (короткая)",
     "scenarios.gridmap.corridor.description": "Вы зажаты в узком коридоре на маленьком Ibishu Pigeon, а на вас несётся грузовик. Попробуйте спастись!",
     "scenarios.gridmap.corridor.title": "Коридор",
-    "scenarios.gridmap.gm_corridor.fail.msg": "Вас ударили!",
+    "scenarios.gridmap.gm_corridor.fail.msg": "Вы получили удар!",
     "scenarios.gridmap.gm_ds_large_jumps.description": "Пройдите через ад на специальной версии Gavril H15.",
     "scenarios.gridmap.gm_ds_large_jumps.title": "Летающий Vanster",
     "scenarios.gridmap.gm_ds_offroad_shortcourse.description": "3 бездорожных испытания: сможет ли Gavril D15 пройти их?",
