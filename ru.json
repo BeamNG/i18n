@@ -556,7 +556,7 @@
     "scenarios.east_coast_usa.east_coast_chase_2.speed.msg": "Отлично! Ваше время: {{time}}",
     "scenarios.east_coast_usa.east_coast_chase_2.title": "Погоня на Восточном побережье 2",
     "scenarios.east_coast_usa.east_coast_chase_2.wayPointAction.msg": "Остановите подозреваемого!",
-    "scenarios.east_coast_usa.east_coast_chase_3.damage.msg": "Вы разбили автомобиль",
+    "scenarios.east_coast_usa.east_coast_chase_3.damage.msg": "Вы разбили свой автомобиль",
     "scenarios.east_coast_usa.east_coast_chase_3.description": "Преследуйте тюнингованный Bruckell LeGran на полицейской Ibishu 200BX с турбонаддувом.",
     "scenarios.east_coast_usa.east_coast_chase_3.distance.msg": "Подозреваемый скрылся",
     "scenarios.east_coast_usa.east_coast_chase_3.speed.msg": "Отлично! Ваше время: {{time}}",
