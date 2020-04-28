@@ -2658,5 +2658,6 @@
     "quickrace.utah.deadManLoop.description": "Une boucle principalement constituée de gravier le long de quelques falaises dangereuses.",
     "quickrace.utah.asphaltHillclimb.description": "Une ascension rapide sur route jusqu'au sommet du canyon.",
     "quickrace.derby.theBigEight.description": "Un circuit rapide avec des virages serrés et 2 sauts. La vitesse recommandée pour sauter est de 100km/h (ou 62 mph). Des voitures puissantes avec des suspensions souples sont recommandées.",
-    "scenarios.west_coast_usa.mountain_race.description": "Bats-toi pour la victoire sur les routes sinueuses de montagne de la côte ouest des États Unis."
+    "scenarios.west_coast_usa.mountain_race.description": "Bats-toi pour la victoire sur les routes sinueuses de montagne de la côte ouest des États Unis.",
+    "scenarios.utah.crawl.easy.description": "Sur cette piste de crawling, Tu aura a surplomber une rivière asséché, sur la corniche et revenir"
 }
