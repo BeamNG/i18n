@@ -640,7 +640,7 @@
     "scenarios.hirochi_raceway.dialog_test.fail.brake.msg": "Вы не в тормозной зоне",
     "scenarios.hirochi_raceway.dialog_test.fail.time.msg": "Вы потратили больше {{time}} секунд",
     "scenarios.hirochi_raceway.dialog_test.title": "Тест диалогов",
-    "scenarios.hirochi_raceway.forgotten_raceway.description": "Гонка по старой заросшей части гоночного комплекса Hirochi.",
+    "scenarios.hirochi_raceway.forgotten_raceway.description": "Гонка по сервисным дорогам вокруг трассы",
     "scenarios.hirochi_raceway.forgotten_raceway.title": "Заброшенная трасса",
     "scenarios.hirochi_raceway.gm_racetest.description": "Несколько идущих подряд прыжков.",
     "scenarios.hirochi_raceway.gm_racetest.title": "Тест Быстрой гонки Hirochi",
