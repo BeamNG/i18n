@@ -2615,7 +2615,7 @@
     "levels.hirochi_raceway.spawnpoints.spawn_crawl": "Скалолазный маршрут",
     "scenarios.west_coast_usa.derby_asphalt.description": "Гонка из 5 кругов на парковке пит-лейна",
     "ui.options.graphics.sleepinbackground": "Останавливать при потере фокуса",
-    "scenarios.utah.prototype.arrival.description": "Привет, Новичок Наконец-то ты прибыл в [color=#008000][b]Юту[/b][/color]. [color=#FFA500][b]Добирайся[/b][/color] в [color=#008000][b]AJ Auto Reparation[/b][/color] и посмотрим на что ты годишься, может ты просто сосунок, который разбивает свою машину на первых секундах.",
+    "scenarios.utah.prototype.arrival.description": "Привет, новичок. Вот ты и прибыл в [color=#008000][b]Юту[/b][/color]. [color=#FFA500][b]Встретимся[/b][/color] в [color=#008000][b]AJ Auto Reparation[/b][/color] и поглядим, на что ты годишься. Может ты просто сосунок, который сломает свою машину в первый же день.",
     "scenarios.west_coast_usa.derby_asphalt.title": "Асфальтовая гонка на выживание",
     "scenarios.west_coast_usa.mountain_race.title": "Гонка в горах"
 }
