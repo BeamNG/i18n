@@ -2618,5 +2618,6 @@
     "scenarios.utah.prototype.arrival.description": "Привет, новичок. Вот ты и прибыл в [color=#008000][b]Юту[/b][/color]. [color=#FFA500][b]Встретимся[/b][/color] в [color=#008000][b]AJ Auto Reparation[/b][/color] и поглядим, на что ты годишься. Может ты просто сосунок, который сломает свою машину в первый же день.",
     "scenarios.west_coast_usa.derby_asphalt.title": "Асфальтовая гонка на выживание",
     "scenarios.west_coast_usa.mountain_race.title": "Гонка в горах",
-    "scenarios.utah.prototype.arrival.portraitText": "Привет, новичок. Вот ты и прибыл в [color=#008000][b]Юту[/b][/color]. [color=#FFA500][b]Встретимся[/b][/color] в [color=#008000][b]AJ Auto Reparation[/b][/color] и поглядим, на что ты годишься. Может ты просто сосунок, который сломает свою машину в первый же день."
+    "scenarios.utah.prototype.arrival.portraitText": "Привет, новичок. Вот ты и прибыл в [color=#008000][b]Юту[/b][/color]. [color=#FFA500][b]Встретимся[/b][/color] в [color=#008000][b]AJ Auto Reparation[/b][/color] и поглядим, на что ты годишься. Может ты просто сосунок, который сломает свою машину в первый же день.",
+    "scenarios.utah.prototype.arrival.pass.msg": "Неплохо для новичка. Я мог бы теперь воспользоваться твоей помощью. Но если ты хочешь получше научиться вождению, зайди к [color=#4169E1][b]my brother[/b][/color] в [color=#008000][b]ETK Racing Experience Center[/b][/color]."
 }
