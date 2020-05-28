@@ -2646,5 +2646,6 @@
     "scenarios.utah.crawl.medium.description": "To jest pierwsza z trzech tras wspinaczkowych. W górę stromego wzniesienia, następnie wokół zakrętu na klifie. Uważaj na spadające kamienie!",
     "quickrace.utah.oldMillLoop.description": "\nPętla żwiru wokół mes i kanionów od starego młyna.",
     "quickrace.utah.oldMillLoop.title": "Pętla wokół starego młyna.",
-    "quickrace.utah.deadManLoop.title": "Pętla Umarlaka"
+    "quickrace.utah.deadManLoop.title": "Pętla Umarlaka",
+    "quickrace.utah.deadManLoop.description": "Głównie żwirowa pętla wzdłuż kilku niebezpiecznych klifów."
 }
