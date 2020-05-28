@@ -2632,5 +2632,6 @@
     "levels.common.country.italy": "Włochy",
     "levels.common.country.newzealand": "Nowa Zelandia",
     "levels.utah.spawnpoints.AutoRepairZone": "Warsztat Samochodowy",
-    "levels.utah.spawnpoints.campsite": "Pole Kempingowe"
+    "levels.utah.spawnpoints.campsite": "Pole Kempingowe",
+    "ui.options.gameplay.switchHint": "Użyj[action=switch_next_vehicle_multiseat]'Przełącz do następnego pojazdu (multiseat)' binding to switch vehicles"
 }
