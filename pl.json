@@ -2633,5 +2633,10 @@
     "levels.common.country.newzealand": "Nowa Zelandia",
     "levels.utah.spawnpoints.AutoRepairZone": "Warsztat Samochodowy",
     "levels.utah.spawnpoints.campsite": "Pole Kempingowe",
-    "ui.options.gameplay.switchHint": "Użyj[action=switch_next_vehicle_multiseat]'Przełącz do następnego pojazdu (multiseat)' binding to switch vehicles"
+    "ui.options.gameplay.switchHint": "Użyj przypisania [action=switch_next_vehicle_multiseat]\"Przełącz do następnego pojazdu (tryb wielostanowiskowy)\" aby przełączyć pojazdy",
+    "scenarios.utah.crawl.hard.title": "Crawl - Akt Wiary",
+    "scenarios.utah.crawl.medium.title": "Crawl - Dookoła zakrętu",
+    "scenarios.utah.crawl.easy.title": "Crawl - Wysuszone koryto rzeki",
+    "ui.options.graphics.preset": "Ogólne ustawienia jakości",
+    "ui.options.graphics.ui": "Dostosowanie interfejsu użytkownika"
 }
