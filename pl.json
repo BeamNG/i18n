@@ -2638,5 +2638,6 @@
     "scenarios.utah.crawl.medium.title": "Crawl - Dookoła zakrętu",
     "scenarios.utah.crawl.easy.title": "Crawl - Wysuszone koryto rzeki",
     "ui.options.graphics.preset": "Ogólne ustawienia jakości",
-    "ui.options.graphics.ui": "Dostosowanie interfejsu użytkownika"
+    "ui.options.graphics.ui": "Dostosowanie interfejsu użytkownika",
+    "ui.options.graphics.timing": "Czas renderowania"
 }
