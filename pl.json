@@ -2386,9 +2386,9 @@
     "quickrace.jungle_rock_island.jri_dirt_loop.description": "Długa pętla dookoła wyspy, głównie szutrowa.",
     "quickrace.hirochi_raceway.fullcircuit1.title": "Długi wyścig",
     "quickrace.hirochi_raceway.forgotten_raceway.title": "Zapomniany tor",
-    "quickrace.hirochi_raceway.forgotten_raceway.description": "Wyścig przez stary opuszczony tor Hirochi. W opuszczonej sekcji nie ma barier, tylko niekończący się las.",
+    "quickrace.hirochi_raceway.forgotten_raceway.description": "Wyścig przez drogi dojazdowe wokół toru wyścigowego Hirochi. Dawniej drogi te były częścią układu toru, teraz są wyłożone niebezpiecznymi drzewami i słupami energetycznymi.",
     "quickrace.hirochi_raceway.forgotten_raceway2.title": "Zapomniany tor 2",
-    "quickrace.hirochi_raceway.forgotten_raceway2.description": "Kolejny wyścig przez stary, zapomniany tor Hirochi. W opuszczonej sekcji nie ma barier, tylko niekończący się las.",
+    "quickrace.hirochi_raceway.forgotten_raceway2.description": "Kolejny wyścig przez drogi dojazdowe wokół toru wyścigowego Hirochi. Dawniej drogi te były częścią układu toru, teraz są wyłożone niebezpiecznymi drzewami i słupami energetycznymi.",
     "quickrace.hirochi_raceway.mediumcircuit1.title": "Średni wyścig",
     "quickrace.hirochi_raceway.mediumcircuit1.description": "Średnia konfiguracja toru Hirochi. Zawiera wąską szykanę.",
     "quickrace.industrial.track_rc_eight.title": "Mieszana ósemka",
@@ -2639,5 +2639,9 @@
     "scenarios.utah.crawl.easy.title": "Crawl - Wysuszone koryto rzeki",
     "ui.options.graphics.preset": "Ogólne ustawienia jakości",
     "ui.options.graphics.ui": "Dostosowanie interfejsu użytkownika",
-    "ui.options.graphics.timing": "Czas renderowania"
+    "ui.options.graphics.timing": "Czas renderowania",
+    "scenarios.west_coast_usa.derby_asphalt.description": "Wyścig z 5 okrążeniami na parkingu w pit stopie.",
+    "scenarios.utah.crawl.easy.description": "Na tej trasie wspinaczkowej pojedziesz wyschniętym korytem rzeki, wokół zakrętu i z powrotem!",
+    "scenarios.utah.crawl.hard.description": "Naprawdę trudna trasa wspinaczkowa. W dół i w górę klifów, kończąc odważnym skokiem na filar skalny!",
+    "scenarios.utah.crawl.medium.description": "To jest pierwsza z trzech tras wspinaczkowych. W górę stromego wzniesienia, następnie wokół zakrętu na klifie. Uważaj na spadające kamienie!"
 }
