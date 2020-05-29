@@ -1930,5 +1930,6 @@
     "ui.common.randomConfigs": "Zufällig (alle Konfigurationen)",
     "ui.common.random": "Zufällig",
     "ui.common.smartConfigs": "Intelligent (alle Konfigurationen)",
-    "ui.common.smart": "Intelligent"
+    "ui.common.smart": "Intelligent",
+    "ui.trackBuilder.toolbar.merge": "Segmente zusammenführen"
 }
