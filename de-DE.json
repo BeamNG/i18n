@@ -1918,5 +1918,6 @@
     "ui.radialmenu2.powertrain.rangebox_mode.high": "Hohe Drehzahlen",
     "ui.radialmenu2.powertrain.rangebox_mode.high.desc": "Schalte Modus für hohe Drehzahlen an.",
     "ui.radialmenu2.Manage": "Verwalten",
-    "ui.fonts.mono": "Roboto Mono"
+    "ui.fonts.mono": "Roboto Mono",
+    "engine.fatalError.errMsg": "Schwerwiegender Fehler "
 }
