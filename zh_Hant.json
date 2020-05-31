@@ -1056,7 +1056,7 @@
     "engine.msgboxErrorTitle": "錯誤",
     "engine.invalidUserpath.title": "無效的使用者路徑",
     "engine.invalidUserpath.msg": "BeamNG.drive 無法存取遊戲資料夾內 startup.ini 中所定義的使用者路径，請更改為有效路徑： ",
-    "engine.windowedModeReq.title": "必須使用視窗模式",
+    "engine.windowedModeReq.title": "必須要在視窗模式下運作",
     "engine.windowedModeReq.msgEditor": "請退出任務編輯器以切換至全螢幕模式。",
     "engine.windowedModeReq.msgGUI": "請退出 GUI 編輯器以切換至全螢幕模式。",
     "engine.levelModified.title": "地圖已修改",
