@@ -2394,7 +2394,7 @@
     "scenarios.utah.chapter_1.chapter_1_walljump.timeLimit.msg": "你花了超過 {{timeLimit}} 秒的時間",
     "scenarios.utah.chapter_1.chapter_1_walljump.fail.msg": "你沒有撞到牆壁",
     "scenarios.utah.chapter_1.chapter_1_walljump.win.msg": "撞牆",
-    "scenarios.utah.chapter_1.chapter_1_bridge.description": "試著在沙塵暴裡跨越一座搖搖欲墜的橋。",
+    "scenarios.utah.chapter_1.chapter_1_bridge.description": "試著在沙塵暴中跨越一座搖搖欲墜的橋。",
     "scenarios.utah.chapter_1.chapter_1_bridge.distance.fail.msg": "你走錯方向了",
     "scenarios.utah.chapter_1.chapter_1_bridge.distance.msg": "做得好！",
     "scenarios.utah.chapter_1.chapter_1_bridge.pass": "做得好！",
