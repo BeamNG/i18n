@@ -1046,7 +1046,7 @@
     "vehicle.drivetrain.stalled": "引擎熄火，按住 [action=clutch] 並同時按下 [action=activateStarterMotor] 發動引擎",
     "vehicle.engine.radiatorDamaged": "散熱器受損",
     "vehicle.engine.rodBearingsDamaged": "連桿軸承片受損",
-    "vehicle.main.instability": "偵測到「{{vehicle}}」有不穩定情況，先行暫停模擬程序。",
+    "vehicle.main.instability": "在'{{vehicle}}'上偵測到不穩定性，模擬器被預先暫停。",
     "vehicle.recovery.recovered": "車輛已復原",
     "engine.lua.reloaded": "Main LUA instance 已重新載入",
     "engine.cef.subprocessdied.msg": "使用者介面程序無法及時回應。\n若 BeamNG.drive.ui.exe 應用程式遭到防毒軟體的阻擋便可能發生這種情況。\n\n你可在以下網址得到更多協助：\n\nhttp://wiki.beamng.com/Errors/Unresponsive_UI_Process\n\n你要立即以瀏覽器開啟該網址嗎？",
