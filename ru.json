@@ -2624,5 +2624,7 @@
     "quickrace.utah.oldMillLoop.description": "Круг по гравию среди плато и каньонов со стартом около старой мельницы.",
     "quickrace.utah.deadManLoop.description": "Круг по гравию вдоль опасных скал.",
     "quickrace.utah.riverRally.title": "Речное ралли",
-    "quickrace.utah.riverRally.description": "Скоростное ралли вдоль реки со множеством переправ."
+    "quickrace.utah.riverRally.description": "Скоростное ралли вдоль реки со множеством переправ.",
+    "quickrace.west_coast_usa.race_track_chicane.title": "Длинный гоночный круг 2",
+    "quickrace.west_coast_usa.race_track_alternative.title": "Альтернативный гоночный круг"
 }
