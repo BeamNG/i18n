@@ -2621,6 +2621,7 @@
     "scenarios.utah.prototype.arrival.portraitText": "Привет, новичок. Вот ты и прибыл в [color=#008000][b]Юту[/b][/color]. [color=#FFA500][b]Встретимся[/b][/color] в [color=#008000][b]AJ Auto Reparation[/b][/color] и поглядим, на что ты годишься. Может ты просто сосунок, который сломает свою машину в первый же день.",
     "scenarios.utah.prototype.arrival.pass.msg": "Неплохо для новичка. Думаю, ты мне пригодишься. Но если ты хочешь ещё поучиться вождению, зайди к [color=#4169E1][b]моему брату[/b][/color] в [color=#008000][b]ETK Racing Experience Center[/b][/color].",
     "quickrace.utah.asphaltHillclimb.description": "Стремительный подъём на плато по асфальтовой дороге.",
-    "quickrace.utah.oldMillLoop.description": "Круг по гравию среди плато и каньонов начинается от старой мельницы.",
-    "quickrace.utah.deadManLoop.description": "Круг по гравию вдоль опасных скал."
+    "quickrace.utah.oldMillLoop.description": "Круг по гравию среди плато и каньонов со стартом около старой мельницы.",
+    "quickrace.utah.deadManLoop.description": "Круг по гравию вдоль опасных скал.",
+    "quickrace.utah.riverRally.title": "Речное ралли"
 }
