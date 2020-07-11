@@ -1596,7 +1596,7 @@
     "ui.scenarios.end.goals.speed": "Скорость",
     "ui.scenarios.end.goals.timeLimit": "Ограничение времени",
     "ui.scenarios.end.goals.wayPointAction": "Действие на контрольной точке",
-    "ui.scenarios.end.passFailRatio": "Пройдено/Провалено",
+    "ui.scenarios.end.passFailRatio": "Пройдено / Провалено",
     "ui.scenarios.end.points": "Контрольные точки",
     "ui.scenarios.end.relativeToBest": "Разница с лучшим",
     "ui.scenarios.end.requirements": "Условия",
