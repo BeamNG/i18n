@@ -2587,7 +2587,7 @@
     "ui.options.graphics.screen": "Ustawienia obrazu",
     "ui.options.graphics.overall": "Ogólne ustawienia jakości",
     "ui.options.graphics.MainMenuBackgroundModeBrokenCefVersion": "Tło w menu",
-    "ui.options.graphics.uiAcceleratedRender": "Włącz Akcelerację Sprzętową dla interfejsu Użytkownika",
+    "ui.options.graphics.uiAcceleratedRender": "Włącz Akcelerację Sprzętową dla interfejsu użytkownika",
     "ui.options.graphics.PostFXBloomGeneralEnabled": "Przebicia światła",
     "ui.options.graphics.GraphicMaxDecalCount": "Ilość śladów opon",
     "ui.options.graphics.GraphicMaxDecalCount.warning": "Ostrzeżenie: Wybranie dużej liczby śladów opon będzie miało poważny wpływ na ilość klatek. Zalecane jest ustawienie poniżej 6000",
