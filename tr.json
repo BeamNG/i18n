@@ -30,7 +30,7 @@
     "engine.engineFail": "Oyun başlatılamadı, kapatılıyor.",
     "engine.invalidUserpath.msg": "BeamNG.drive, (oyun klasörü) startup.ini'de belirtilen UserPath'e ulaşamıyor. Geçerli bir yol ile değiştirin: ",
     "engine.invalidUserpath.title": "Geçersiz User-path",
-    "engine.levelModified.msg": "Seviye düzenleyicide değiştirilmiştir. Kaydedilsin mi?",
+    "engine.levelModified.msg": "Seviye, düzenleyicide değişikliğe uğradı. Kaydedilsin mi?",
     "engine.levelModified.title": "Seviye Düzenlendi",
     "engine.msgboxErrorTitle": "Hata",
     "engine.resourceMissing": "Kaynak oluşturulamadı (Dosya mı eksik?): ",
