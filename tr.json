@@ -28,7 +28,7 @@
     "engine.editor.menu.saveLevel": "Seviyeyi Kaydet",
     "engine.editor.menu.saveLevelAs": "Seviyeyi Farklı Kaydet...",
     "engine.engineFail": "Oyun başlatılamadı, kapatılıyor.",
-    "engine.invalidUserpath.msg": "BeamNG.drive startup.ini(oyun klasörü)'deki UserPath'e ulaşamıyor. Geçerli bir yol ile değiştirin:",
+    "engine.invalidUserpath.msg": "BeamNG.drive, (oyun klasörü) startup.ini'de belirtilen UserPath'e ulaşamıyor. Geçerli bir yol ile değiştirin: ",
     "engine.invalidUserpath.title": "Geçersiz User-path",
     "engine.levelModified.msg": "Seviye editörde değiştirilmiştir, kaydedilsin mi?",
     "engine.levelModified.title": "Seviye Düzenlendi",
