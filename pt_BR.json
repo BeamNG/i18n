@@ -1917,5 +1917,9 @@
     "ui.trackBuilder.toolbar.merge": "Mesclar segmentos",
     "ui.common.random": "Aleatório",
     "ui.modmanager.updateAllMissing": "Baixar todos ",
-    "ui.environment.tireMarks": "Marcas de pneus"
+    "ui.environment.tireMarks": "Marcas de pneu",
+    "ui.options.aids": "Assistências ao Condutor",
+    "ui.apps.threedexport.name": "Exportador GLTF 3D",
+    "ui.vehicleconfig.updateLicensePlate": "Gerar Placa",
+    "ui.vehicleconfig.licensePlateGen": "Gerar Placa Novamente"
 }
