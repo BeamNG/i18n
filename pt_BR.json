@@ -1642,7 +1642,7 @@
     "ui.mainmenu.modwizard": "GERENCIADOR DE MODS",
     "ui.trackBuilder.menus.advancedModifiers": "Modificadores avançados",
     "ui.trackBuilder.menus.advancedPieces": "Peças avançadas",
-    "engine.editor.menu.smoothedRotateCamera": "Rodar Suave",
+    "engine.editor.menu.smoothedRotateCamera": "Rodar Suavemente",
     "ui.replay.play": "Reproduzir",
     "ui.replay.stop": "Parar",
     "ui.replay.rename": "Renomear",
@@ -1886,5 +1886,8 @@
     "ui.credits.soundtrack": "Trilha Sonora",
     "ui.playmodes.lightRunner": "Light Runner",
     "ui.playmodes.trackBuilder": "Gerador de Pistas",
-    "ui.options.userInterface.disableRichPresence": "Desabilitar Presença Rica"
+    "ui.options.userInterface.disableRichPresence": "Desabilitar Presença Rica",
+    "engine.fatalError.errMsg": "ERRO FATAL: ",
+    "engine.fatalError.experienced2": "",
+    "engine.fatalError.experienced": ""
 }
