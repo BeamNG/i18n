@@ -1925,5 +1925,6 @@
     "ui.options.vehicleBehavior": "Comportamento do Veículo",
     "ui.environment.tireMarks.load": "Carregar",
     "ui.environment.tireMarks.save": "Salvar",
-    "ui.environment.tireMarks.reset": "Limpar"
+    "ui.environment.tireMarks.reset": "Limpar",
+    "ui.options.gameplay.absBehavior": "Modo ABS"
 }
