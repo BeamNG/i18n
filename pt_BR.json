@@ -1922,7 +1922,7 @@
     "ui.apps.threedexport.name": "Exportador GLTF 3D",
     "ui.vehicleconfig.updateLicensePlate": "Gerar Placa",
     "ui.vehicleconfig.licensePlateGen": "Gerar Placa Novamente",
-    "ui.options.vehicleBehavior": "Comportamento do veículo",
+    "ui.options.vehicleBehavior": "Comportamento do Veículo",
     "ui.environment.tireMarks.load": "Carregar",
     "ui.environment.tireMarks.save": "Salvar",
     "ui.environment.tireMarks.reset": "Limpar"
