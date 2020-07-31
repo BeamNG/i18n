@@ -1915,5 +1915,6 @@
     "ui.startscreen.warning": "Aviso: Risco de Fotossensibilidade",
     "ui.modmanager.addDownload": "Adicionar à lista de downloads",
     "ui.trackBuilder.toolbar.merge": "Mesclar segmentos",
-    "ui.common.random": "Aleatório"
+    "ui.common.random": "Aleatório",
+    "ui.modmanager.updateAllMissing": "Baixar todos "
 }
