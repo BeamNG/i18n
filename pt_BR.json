@@ -127,7 +127,7 @@
     "engine.resourceMissing": "Falha ao criar recurso (o arquivo está ausente?): ",
     "engine.welcome": "Bem vindo ao BeamNG.drive em Português Brasileiro :)",
     "engine.windowedModeReq.msgEditor": "Por favor saia do Editor de Missão para mudar para Tela Cheia.",
-    "engine.windowedModeReq.msgGUI": "Por favor saia do editor GUI p/ mudar para Tela Cheia.",
+    "engine.windowedModeReq.msgGUI": "Por favor saia do editor GUI para mudar para Tela Cheia.",
     "engine.windowedModeReq.title": "Modo Janela Necessário",
     "extensions.campaign.exploration.mapHint": "Pressione [action=toggle_minimap] para mostrar o mapa com as missões disponíveis",
     "extensions.scenario.damageGoal.checkDamage.fail.msg": "Cuidado! Seu carro está {{damage}}% danificado",
