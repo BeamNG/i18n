@@ -1889,5 +1889,5 @@
     "ui.options.userInterface.disableRichPresence": "Desabilitar Presença Rica",
     "engine.fatalError.errMsg": "ERRO FATAL: ",
     "engine.fatalError.experienced2": "",
-    "engine.fatalError.experienced": ""
+    "engine.fatalError.experienced": "O BeamNG.drive sofreu um erro fatal. Clique em OK para fechar o BeamNG e criar um relatório de falha. Envie o relatório para que possamos resolver esse problema."
 }
