@@ -1868,7 +1868,7 @@
     "ui.options.assistants": "Assistências de Direção",
     "ui.modmanager.local": "Local",
     "ui.modmanager.show": "Mostrar",
-    "ui.modmanager.install_on": "",
+    "ui.modmanager.install_on": "Instalado em",
     "ui.modmanager.deleteAll": "Excluir todos os Mods do Repositório",
     "ui.modmanager.deleteAllDesc": "Você tem certeza que quer excluir todos os Mods do Repositório?",
     "ui.modmanager.updateAll": "Atualizar todos os Mods",
@@ -1912,5 +1912,8 @@
     "ui.common.action.resume": "Retomar",
     "ui.common.continue": "Continuar",
     "ui.startscreen.warningdetails": "Este jogo pode desencadear convulsões para pessoas com epilepsia fotossensível. Recomenda-se discrição por parte dos jogadores.",
-    "ui.startscreen.warning": "Aviso: Risco de Fotossensibilidade"
+    "ui.startscreen.warning": "Aviso: Risco de Fotossensibilidade",
+    "ui.modmanager.addDownload": "Adicionar à lista de downloads",
+    "ui.trackBuilder.toolbar.merge": "Mesclar segmentos",
+    "ui.common.random": "Aleatório"
 }
