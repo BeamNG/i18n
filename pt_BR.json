@@ -1916,5 +1916,6 @@
     "ui.modmanager.addDownload": "Adicionar à lista de Downloads",
     "ui.trackBuilder.toolbar.merge": "Mesclar segmentos",
     "ui.common.random": "Aleatório",
-    "ui.modmanager.updateAllMissing": "Baixar todos "
+    "ui.modmanager.updateAllMissing": "Baixar todos ",
+    "ui.environment.tireMarks": "Marcas de pneus"
 }
