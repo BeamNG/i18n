@@ -1316,7 +1316,7 @@
     "ui.mainmenu.help": "ПОМОЩЬ",
     "ui.mainmenu.mods": "МОДЫ",
     "ui.mainmenu.news": "НОВОСТИ",
-    "ui.mainmenu.onlineFeatures.featureDescription": "Вы можете включить или отключить все онлайн-функции BeamNG.drive. Это повлияет на:[br][list][*]Внутриигровой репозиторий[*]Подписки на моды[*]Достижения[*]Списки лидеров[*]Возможности чата[*]Возможности поделиться контентом[/list]Включая онлайн-функции, вы принимаете нашу [url=http://wiki.beamng.com/Privacy_Policy]политику конфиденциальности[/url] и наши [url=http://wiki.beamng.com/TOS]условия предоставления услуг[/url].[br][br]Вы можете изменить эту настройку в любой момент в меню Опции > Игровой процесс.",
+    "ui.mainmenu.onlineFeatures.featureDescription": "Вы можете включить или отключить все онлайн-функции BeamNG.drive. Это повлияет на:[br][list][*]Внутриигровой репозиторий[*]Подписки на моды[*]Достижения[*]Списки лидеров[*]Возможности чата[*]Возможности поделиться контентом[/list]",
     "ui.mainmenu.onlineFeatures.featureTitle": "Включить онлайн-функции?",
     "ui.mainmenu.options": "ОПЦИИ",
     "ui.mainmenu.play": "ИГРАТЬ",
@@ -2015,7 +2015,7 @@
     "ui.options.gameplay.escBehavior.tooltip": "Определяет, как работает система курсовой устойчивости. Применяется после размещения автомобиля.",
     "ui.options.gameplay.traffic": "Включить дорожное движение (экспериментальная функция — крайнее снижение производительности)",
     "ui.options.gameplay.traffic.tooltip": "Требует ручного размещения нужных транспортных средств",
-    "ui.options.camera.emptyListHint": "(список доступен только в режиме игры)",
+    "ui.options.camera.emptyListHint": "(список камер доступен только в режиме игры)",
     "ui.options.camera.transitionHint": "Длительность переключения камеры в миллисекундах",
     "ui.options.camera.fovHint": "Позволяет вам менять поле зрения (FOV). Добавляется к настройкам транспортного средства",
     "ui.options.camera.switchHint": "Нажмите для смены",
@@ -2532,8 +2532,8 @@
     "ui.common.smart": "Умный",
     "ui.common.smartConfigs": "Умный (любые конфигурации)",
     "ui.options.traffic": "Трафик",
-    "ui.options.traffic.amount": "Количество машин трафика",
-    "ui.options.traffic.amount.tooltip": "Максимальное число машин трафика (большее значение сильнее загружает процессор)",
+    "ui.options.traffic.amount": "Максимальное количество машин",
+    "ui.options.traffic.amount.tooltip": "Максимальное число машин на карте (большее значение сильнее загружает процессор)",
     "ui.options.traffic.trafficSetup": "Выбор машин трафика",
     "ui.options.traffic.trafficSetup.tooltip": "Определяет какие машины появятся в трафике («умный» режим чаще использует машины подходящие к региону)",
     "ui.radialmenu2.traffic": "Трафик",
@@ -2626,5 +2626,8 @@
     "quickrace.utah.riverRally.title": "Речное ралли",
     "quickrace.utah.riverRally.description": "Скоростное ралли вдоль реки со множеством переправ.",
     "quickrace.west_coast_usa.race_track_chicane.title": "Длинный гоночный круг 2",
-    "quickrace.west_coast_usa.race_track_alternative.title": "Альтернативный гоночный круг"
+    "quickrace.west_coast_usa.race_track_alternative.title": "Альтернативный гоночный круг",
+    "ui.faq.updatingGame.q": "Как обновить игру?",
+    "ui.faq.getHelp.a": "Если у вас возникли проблемы с игрой, вы можете связаться с нами при помощи: [br][br] [url=http://www.beamng.com/forums/]Форума BeamNG.com[/url] [url=http://support.beamng.com/]E-mail поддержки[/url] [br] Мы постараемся ответить вам в течение нескольких рабочих дней",
+    "ui.faq.getHelp.q": "Где получить помощь?"
 }
