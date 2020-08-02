@@ -2629,5 +2629,20 @@
     "quickrace.west_coast_usa.race_track_alternative.title": "Альтернативный гоночный круг",
     "ui.faq.updatingGame.q": "Как обновить игру?",
     "ui.faq.getHelp.a": "Если у вас возникли проблемы с игрой, вы можете связаться с нами при помощи: [br][br] [url=http://www.beamng.com/forums/]Форума BeamNG.com[/url] [url=http://support.beamng.com/]E-mail поддержки[/url] [br] Мы постараемся ответить вам в течение нескольких рабочих дней",
-    "ui.faq.getHelp.q": "Где получить помощь?"
+    "ui.faq.getHelp.q": "Где получить помощь?",
+    "ui.options.graphics.displayMode.borderless": "Окно без рамки",
+    "ui.options.graphics.displayMode.fullScreen": "Полноэкранный",
+    "ui.options.graphics.displayMode.window": "Оконный",
+    "ui.options.graphics.displayMode": "Режим отображения",
+    "ui.faq.blog.a": "Вы можете следить за прогрессом на нашем Форуме и в Блоге [br] Также вы можете подписаться на наш Facebook, Twitter, Youtube, Instagram и Reddit[url=https://blog.beamng.com/blog/]Официальный блог[/url]",
+    "ui.faq.blog.q": "Где я могу следить за процессом разработки игры?",
+    "ui.faq.steeringWheels.a": "Большинство рулей легко подключается как plug & play, если у вас установлено нужное программное обеспечение. [br] Если у вас возникли проблемы, ознакомьтесь с подробной инструкцией на странице [url=https://wiki.beamng.com/Steering_wheel_setup]Steering wheel setup[/url]",
+    "ui.faq.steeringWheels.q": "Как использовать руль?",
+    "ui.faq.troubleShooting.a": "У игры есть набор инструментов для устранения проблем: [url=https://documentation.beamng.com/troubleshooting/index.html#support-tools]Troubleshooting Tools[/url] Если вам всё ещё требуется помощь, напишите нам!",
+    "ui.faq.troubleShooting.q": "Что-то не работает, как мне исправить проблему?",
+    "ui.faq.listFAQ.a": "Возможно, ответы на ваши вопросы уже есть на этой странице: [url=https://wiki.beamng.com/BeamNG_FAQ]Frequently Asked Questions[/url] Если нет — не стесняйтесь задать их на нашем форуме!",
+    "ui.faq.listFAQ.q": "Где задать вопросы?",
+    "ui.faq.installingMods.a": "Установить моды очень легко, это можно сделать несколькими способами: [url=https://wiki.beamng.com/How_to_install_mods]How to install mods[/url]",
+    "ui.faq.installingMods.q": "Как загрузить и установить моды?",
+    "ui.faq.updatingGame.a": "Вы можете найти полную инструкцию на этой странице: [url=http://wiki.beamng.com/Updating_the_game]Updating the game[/url]"
 }
