@@ -2299,7 +2299,7 @@
     "ui.camera.fovDriver": "Campo de visão ajustado a {{degrees | number: 1}} graus para todos os veículos",
     "ui.camera.switched": "Câmera do veículo: {{name}}",
     "ui.camera.freecam": "Câmera livre: segure [action=movefast] para ir mais rápido, [action=changeCameraSpeed] para ajustar velocidade",
-    "scenarios.utah.canyon_jump.description": "Faormações geológicas",
+    "scenarios.utah.canyon_jump.description": "Dê alguns saltos enormes por cima das formações geológicas únicas de Utah usando uma Gavril H15 especializada em off-road.",
     "scenarios.utah.canyon_jump.title": "Salto no Cânion",
     "scenarios.small_island.hopping_around.description": "Passe pelos pontos no campo usando uma Ibishu Hopper Custom.",
     "scenarios.small_island.hopping_around.title": "Quicando com a Hopper",
@@ -2368,5 +2368,8 @@
     "ui.traffic.driveAway": "Pode ir embora...",
     "ui.traffic.policeEvade": "Você escapou da polícia!",
     "ui.traffic.policeArrest": "Você foi detido!",
-    "ui.traffic.policeTicket": "Você foi multado!"
+    "ui.traffic.policeTicket": "Você foi multado!",
+    "scenarios.utah.chapter_1.chapter_1_suspension.wall.fail.msg": "Você não chocou com a parede.",
+    "scenarios.utah.canyon_jump.fail.msg": "Você não concluiu todos os saltos",
+    "scenarios.utah.canyon_jump.pass.msg": "Muito bem!"
 }
