@@ -2708,5 +2708,9 @@
     "scenarios.gridmap.fg-bowling.intro": "Pigeon Bowling'e hoş geldiniz! Yapabildiğiniz kadar varil devirmek için 5 deneme hakkınız var. Başlat düğmesine basmanızla Pigeon ve labutlar kısa sürede yüklenecektir. İyi eğlenceler!",
     "ui.traffic.spawnLimit": "Maksimum araç sayısına ulaşıldı! Daha çok araç kullanmak için Ayarlar > Oynanış menüsünden miktarı arttırın.",
     "ui.options.traffic.trafficAllowMods.tooltip": "Eğer etkinleştirilirse, mod araçlar da trafikte oluşturulur",
-    "ui.mainmenu.telemetryConsent": "Oynama oturumlarımın datalarının[br] BeamNG GmbH tarafından toplanmasını kabul ediyorum (toplanan data türleri buraya [url=https://beamng.com/PrivacyPolicy.pdf] tıklayın[/url])."
+    "ui.mainmenu.telemetryConsent": "Oynama oturumlarımın datalarının[br] BeamNG GmbH tarafından toplanmasını kabul ediyorum (toplanan data türleri buraya [url=https://beamng.com/PrivacyPolicy.pdf] tıklayın[/url]).",
+    "scenarios.utah.fg-demo.success": "Yaptın! Güzel iş.",
+    "scenarios.utah.fg-delivery.description": "Senin işin, malzemelerle dolu sandığı yerel korucu istasyonuna teslim etmek. Tam puan almak için, sandığı istasyona uygun olan üç yoldan da teslim edin!",
+    "scenarios.gridmap.fg-bowling.restart": "Baştan oynamak için Yenile ([action=reset_physics]) düğmesine basın.",
+    "scenarios.gridmap.fg-bowling.forfeit": "Bu eli atlamak için Yenile ([action=reset_physics]) düğmesine tekrar basın."
 }
