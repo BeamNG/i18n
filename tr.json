@@ -2703,5 +2703,10 @@
     "ui.options.gameplay.removeOtherVehicles": "Diğerlerini kaldır",
     "ui.options.gameplay.removeCurrentVehicle": "Bu aracı kaldır",
     "ui.options.gameplay.cloneCurrentVehicle": "Bu aracı klonla",
-    "ui.options.gameplay.loadDefaultVehicle": "Varsayılanı yükle"
+    "ui.options.gameplay.loadDefaultVehicle": "Varsayılanı yükle",
+    "scenarios.gridmap.fg-bowling.reset": "Devam etmek için Yenile ([action=reset_physics]) düğmesine basın.",
+    "scenarios.gridmap.fg-bowling.intro": "Pigeon Bowling'e hoş geldiniz! Yapabildiğiniz kadar varil devirmek için 5 deneme hakkınız var. Başlat düğmesine basmanızla Pigeon ve labutlar kısa sürede yüklenecektir. İyi eğlenceler!",
+    "ui.traffic.spawnLimit": "Maksimum araç sayısına ulaşıldı! Daha çok araç kullanmak için Ayarlar > Oynanış menüsünden miktarı arttırın.",
+    "ui.options.traffic.trafficAllowMods.tooltip": "Eğer etkinleştirilirse, mod araçlar da trafikte oluşturulur",
+    "ui.mainmenu.telemetryConsent": "Oynama oturumlarımın datalarının[br] BeamNG GmbH tarafından toplanmasını kabul ediyorum (toplanan data türleri buraya [url=https://beamng.com/PrivacyPolicy.pdf] tıklayın[/url])."
 }
