@@ -1350,7 +1350,7 @@
     "ui.mainmenu.help": "APUA",
     "ui.mainmenu.mods": "MODIT",
     "ui.mainmenu.news": "UUTISET",
-    "ui.mainmenu.onlineFeatures.featureDescription": "Voit vapaasti laittaa päälle tai pois kaikki verkko-ominaisuudet BeamNG.drive:ssä. Se vaikuttaa seuraaviin:[br][list][*]Pelinsisäinen varasto[*]Modien tilaukset[*]Saavutukset[*]Tulostaulukot[*]Chat-ominaisuudet[*]Sisällönjako-ominaisuudet[/list] Käyttämällä verkko-ominaisuuksia hyväksyt [url=http://wiki.beamng.com/Privacy_Policy]Teitosuojakäytäntömme[/url] ja [url=http://wiki.beamng.com/TOS]Käyttöehdot[/url].[br][br] Voit vaihtaa tämän asetuksen koska tahansa kohdasta Asetukset > Pelaaminen.",
+    "ui.mainmenu.onlineFeatures.featureDescription": "Voit halutessasi laittaa päälle tai pois kaikki verkko-ominaisuudet BeamNG.drive:ssä. Se vaikuttaa seuraaviin:[br][list][*]Pelinsisäinen varasto[*]Modien tilaukset[*]Saavutukset[*]Tulostaulukot[*]Chat-ominaisuudet[*]Sisällönjako-ominaisuudet[/list]",
     "ui.mainmenu.onlineFeatures.featureTitle": "Otetaanko verkko-ominaisuudet käyttöön?",
     "ui.mainmenu.options": "ASETUKSET",
     "ui.mainmenu.play": "PELAA",
@@ -2667,5 +2667,14 @@
     "levels.hirochi_raceway.spawnpoints.spawn_figure8": "Kahdeksikko-ovaali",
     "levels.hirochi_raceway.spawnpoints.spawn_crawl": "Kivikkoryömintärata",
     "levels.utah.spawnpoints.AutoRepairZone": "Autokorjaamo",
-    "levels.utah.spawnpoints.campsite": "Leirintäalue"
+    "levels.utah.spawnpoints.campsite": "Leirintäalue",
+    "ui.mainmenu.telemetry.header": "Telemetria",
+    "ui.mainmenu.telemetryOnlineHint": "Telemetria ei voi olla aktiivinen, kun online-ominaisuudet ovat pois päältä.",
+    "ui.mainmenu.privacyPolicyHint": "Yksityiskohdat liittyen online-ominaisuuksien ja telemetrian tietojenkäsittelyyn löytyvät [url=https://beamng.com/PrivacyPolicy.pdf]yksityisyyskäytännöstämme[/url]",
+    "ui.mainmenu.onlineFeatures.header": "Online-ominaisuudet",
+    "ui.mainmenu.onlineConsent": "Käytä online-ominaisuuksia",
+    "ui.mainmenu.telemetryConsent": "Annan suostumukseni [br] Beamng GmbH:lle pelisessioihini liittyvän tiedon keräämiseen (paina [url=https://beamng.com/PrivacyPolicy.pdf]tästä[/url] nähdäksesi kerätyt tietomuodot).",
+    "ui.common.continue": "Jatka",
+    "ui.startscreen.warning": "Varoitus: Valoherkkyysvaara",
+    "ui.startscreen.warningdetails": "Tämä peli saattaa mahdollisesti aiheuttaa kohtauksia ihmisille, joilla on valoherkkä epilepsia. Pelaajan omaa harkintaa suositellaan."
 }
