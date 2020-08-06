@@ -1316,7 +1316,7 @@
     "ui.options.gameplay.competitiveScenarios": "Conditions de scénarios compétitifs",
     "ui.options.gameplay.controlOnBlur": "Laisser le contrôleur et le retour de force actifs même lorsque que la fenêtre du jeu est en arrière-plan",
     "ui.options.gameplay.defaultGearboxBehavior": "Mode de la boîte de vitesses standard",
-    "ui.options.gameplay.defaultToCurrentVehicle": "Remplacer le véhicule par défaut",
+    "ui.options.gameplay.defaultToCurrentVehicle": "Définir par défaut",
     "ui.options.gameplay.enginesPreheated": "Démarrer le véhicule avec le moteur préchauffé",
     "ui.options.gameplay.gameplay": "Gameplay",
     "ui.options.gameplay.multiseat": "Utilisez le mode multijoueur local pour ce scénario",
@@ -2659,5 +2659,16 @@
     "quickrace.utah.asphaltHillclimb.description": "Une ascension rapide sur route jusqu'au sommet du canyon.",
     "quickrace.derby.theBigEight.description": "Un circuit rapide avec des virages serrés et 2 sauts. La vitesse recommandée pour sauter est de 100km/h (ou 62 mph). Des voitures puissantes avec des suspensions souples sont recommandées.",
     "scenarios.west_coast_usa.mountain_race.description": "Bats-toi pour la victoire sur les routes sinueuses de montagne de la côte ouest des États-Unis",
-    "scenarios.utah.crawl.easy.description": "Sur cette piste de crawling, tu auras à surplomber une rivière asséché, sur la corniche et revenir!"
+    "scenarios.utah.crawl.easy.description": "Sur cette piste de crawling, tu auras à surplomber une rivière asséché, sur la corniche et revenir!",
+    "ui.faq.listFAQ.q": "Où poser des questions ?",
+    "ui.faq.updatingGame.q": "Comment mettre à jour le jeux ?",
+    "ui.options.graphics.Warning": "ATTENTION",
+    "ui.options.graphics.displayMode.borderless": "Sans bordure",
+    "ui.options.graphics.displayMode.fullScreen": "Plein écran",
+    "ui.options.graphics.displayMode.window": "Fenêtre",
+    "ui.options.gameplay.removeCurrentVehicle": "Supprimer l'élément sélectionné",
+    "ui.levelselect.chooseSpawnpoint": "Choisissez le point d'apparition",
+    "ui.mainmenu.onlineFeatures.header": "Options en ligne",
+    "ui.mainmenu.onlineConsent": "Activer les options en ligne",
+    "ui.common.continue": "Continuer"
 }
