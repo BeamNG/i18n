@@ -269,7 +269,7 @@
     "levels.port.info.suitablefor": "AIka-ajot, drifting",
     "levels.port.info.title": "Satama",
     "levels.small_island.info.biome": "Lauhkea, saaristo",
-    "levels.small_island.info.description": "Tämä pieni saari Yhdysvaltojen itärannikon ulkopuolella on harvaan asuttu, mutta siellä on hauska rannikkotie ja paljon avointa maastoa seikkailtavaksi!",
+    "levels.small_island.info.description": "Tämä pieni saari Kalifornian rannikon ulkopuolella on harvaan asuttu, mutta siellä on hauska rannikkotie ja paljon avointa maastoa seikkailtavaksi!",
     "levels.small_island.info.features": "Ympärystie, pieni vuori, tantereet, tehdasalue, hiekkarannat",
     "levels.small_island.info.roads": "60% epätasainen asfaltti, 40% hiekkatie",
     "levels.small_island.info.suitablefor": "Aika-ajot, seikkailu, kivikkoryömintä",
@@ -2784,5 +2784,6 @@
     "levels.industrial.spawnpoints.spawn_port": "Satama",
     "levels.industrial.spawnpoints.spawn_tankfarm": "Säiliöalue",
     "scenarios.derby.fg-soccer.intro": "Tervetuloa Beam.NG jalkapalloon!<br><br>Tehtävänäsi on työntää pallo vastapuolen maaliin useammin kuin vastustajasi.<br>Voit resetoida ajoneuvosi koska tahansa ilman rangaistusta.<br>Aikarajaa ei ole. Pelaa niin kauan kuin haluat!<br><br>Pidä hauskaa!",
-    "scenarios.derby.fg-soccer.description": "Pelaa jalkapalloa kaveria vastaan tässä paikallismoninpelin skenaariossa!"
+    "scenarios.derby.fg-soccer.description": "Pelaa jalkapalloa kaveria vastaan tässä paikallismoninpelin skenaariossa!",
+    "vehicle.core.spawnError": "Tämä usein johtuu rikkoutuneista modeista tai korruptoituneista pelitiedostoista. Tarkista vikasietotilassa [url=https://documentation.beamng.com/support/support_tools/safe_mode.html][Vikasietotilan ohjeet täältä][/url] Jos vika ei korjaudu, suorita puhdas uudelleenasennus [url=https://documentation.beamng.com/support/support_tools/clean_install.html][Puhtaan uudelleenasennuksen ohjeet täältä][/url]"
 }
