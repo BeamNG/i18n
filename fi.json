@@ -2778,5 +2778,11 @@
     "scenarios.italy.fg-gravity.park": "Pysäköi auto takaisin perävaunun päälle.",
     "scenarios.italy.fg-gravity.tailgate": "Suljetaan takaluukku...",
     "scenarios.italy.fg-gravity.shiftDesc": "Millä vaihdetilaa haluat käyttää ajaessasi takaisin?",
-    "scenarios.italy.fg-gravity.shiftTitle": "Vaihdetilan valinta"
+    "scenarios.italy.fg-gravity.shiftTitle": "Vaihdetilan valinta",
+    "levels.industrial.spawnpoints.spawn_containerland": "Konttialue",
+    "levels.industrial.spawnpoints.spawn_docks": "Satamalaiturit",
+    "levels.industrial.spawnpoints.spawn_port": "Satama",
+    "levels.industrial.spawnpoints.spawn_tankfarm": "Säiliöalue",
+    "scenarios.derby.fg-soccer.intro": "Tervetuloa Beam.NG jalkapalloon!<br><br>Tehtävänäsi on työntää pallo vastapuolen maaliin useammin kuin vastustajasi.<br>Voit resetoida ajoneuvosi koska tahansa ilman rangaistusta.<br>Aikarajaa ei ole. Pelaa niin kauan kuin haluat!<br><br>Pidä hauskaa!",
+    "scenarios.derby.fg-soccer.description": "Pelaa jalkapalloa kaveria vastaan tässä paikallismoninpelin skenaariossa!"
 }
