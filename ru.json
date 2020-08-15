@@ -2650,5 +2650,6 @@
     "ui.mainmenu.telemetryConsent": "Я даю согласие на сбор данных о моих игровых сеансах компанией [br] BeamNG GmbH (нажмите [url=http://beamng.com/PrivacyPolicy.pdf]здесь[/url] для получения информации о собираемых данных).",
     "ui.common.continue": "Продолжить",
     "ui.mainmenu.onlineConsent": "Включить онлайн-функции",
-    "ui.mainmenu.onlineFeatures.header": "Онлайн-функции"
+    "ui.mainmenu.onlineFeatures.header": "Онлайн-функции",
+    "ui.mainmenu.privacyPolicyHint": "Для получения подробной информации об обработке данных, касающихся онлайн-функций и телеметрии, пожалуйста, ознакомьтесь с нашей политикой конфиденциальности [url=https://beamng.com/PrivacyPolicy.pdf]Политика Конфиденциальности[/url]"
 }
