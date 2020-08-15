@@ -2644,5 +2644,6 @@
     "ui.faq.listFAQ.q": "Где задать вопросы?",
     "ui.faq.installingMods.a": "Установить моды очень легко, это можно сделать несколькими способами: [url=https://wiki.beamng.com/How_to_install_mods]How to install mods[/url]",
     "ui.faq.installingMods.q": "Как загрузить и установить моды?",
-    "ui.faq.updatingGame.a": "Вы можете найти полную инструкцию на этой странице: [url=http://wiki.beamng.com/Updating_the_game]Updating the game[/url]"
+    "ui.faq.updatingGame.a": "Вы можете найти полную инструкцию на этой странице: [url=http://wiki.beamng.com/Updating_the_game]Updating the game[/url]",
+    "ui.startscreen.warning": "Внимание: риск эпилепсии"
 }
