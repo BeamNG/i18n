@@ -2652,5 +2652,5 @@
     "ui.mainmenu.onlineConsent": "Включить онлайн-функции",
     "ui.mainmenu.onlineFeatures.header": "Онлайн-функции",
     "ui.mainmenu.privacyPolicyHint": "Для получения подробной информации об обработке данных, касающихся онлайн-функций и телеметрии, пожалуйста, ознакомьтесь с нашей [url=https://beamng.com/PrivacyPolicy.pdf]Политикой конфиденциальности[/url]",
-    "ui.mainmenu.telemetryOnlineHint": "Телеметрия не может быть включена, если отключены онлайн функции."
+    "ui.mainmenu.telemetryOnlineHint": "Телеметрия не может быть включена, если отключены онлайн-функции."
 }
