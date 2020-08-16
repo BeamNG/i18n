@@ -2660,5 +2660,14 @@
     "ui.options.gameplay.removeCurrentVehicle": "Удалить текущее",
     "ui.options.gameplay.cloneCurrentVehicle": "Клонировать текущее",
     "ui.options.online": "Онлайн-функции",
-    "ui.apps.threedexport.name": "GLTF 3D Exporter"
+    "ui.apps.threedexport.name": "GLTF 3D Exporter",
+    "ui.options.graphics.Warning": "ВНИМАНИЕ",
+    "ui.options.graphics.refreshRate": "Частота обновления",
+    "ui.options.graphics.monitor": "Монитор",
+    "ui.options.graphics.displaySettings": "Настройки отображения",
+    "ui.options.telemetry": "Телеметрия",
+    "ui.options.traffic.trafficAllowMods.tooltip": "Если включено, машины из модов будут появляться в трафике",
+    "ui.options.traffic.trafficAllowMods": "Включить машины из модов в трафик",
+    "ui.options.network.telemetry": "С целью дальнейшего улучшения BeamNG.drive, мы хотели бы собирать данные о игровых сеансах, такие как продолжительность игровых сеансов, сыгранные сценарии и настройки определенных функций игрового процесса. Эти данные отправляются на наши серверы, где они обезличиваются и хранятся таким образом, что не позволяют идентифицировать отдельных лиц. Для получения списка собираемых типов данных и ваших прав нажмите [url=https://beamng.com/PrivacyPolicy.pdf]здесь[/url].",
+    "ui.options.network.onlineFeatures": "Вы можете включить или отключить все онлайн-функции BeamNG.drive. Это повлияет на:[br][list][*]Внутриигровой репозиторий[*]Подписки на моды[*]Достижения[*]Доски лидеров[*]Функции чата[*]Функции обмена контентом[/list]Включая онлайн функции, вы соглашаетесь с нашей [url=https://beamng.com/PrivacyPolicy.pdf]Политикой конфиденциальности[/url] и [url=http://wiki.beamng.com/TOS]Условиями использования[/url]."
 }
