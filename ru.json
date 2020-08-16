@@ -2658,5 +2658,7 @@
     "ui.options.gameplay.removeOtherVehicles": "Удалить остальные",
     "ui.levelselect.chooseSpawnpoint": "Выберите точку старта",
     "ui.options.gameplay.removeCurrentVehicle": "Удалить текущее",
-    "ui.options.gameplay.cloneCurrentVehicle": "Клонировать текущее"
+    "ui.options.gameplay.cloneCurrentVehicle": "Клонировать текущее",
+    "ui.options.online": "Онлайн-функции",
+    "ui.apps.threedexport.name": "GLTF 3D Exporter"
 }
