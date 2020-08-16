@@ -2674,5 +2674,13 @@
     "ui.options.graphics.CEFRender.warning": "Эта опция обычно улучшает отзывчивость пользовательского интерфейса, но может ухудшить её на некоторых системах. Отключите её, если столкнулись с какими-либо проблемами",
     "ui.performance.available": "Доступная память",
     "ui.performance.improvements": "Базовые улучшения производительности",
-    "ui.performance.laptopGPU.msg": "Если у вашего ноутбука есть выделенная видеокарта, вы можете переключить её на панели управления видеоадаптером [url=https://wiki.beamng.com/Dedicated_Graphics]Инструкции[/url]"
+    "ui.performance.laptopGPU.msg": "Если у вашего ноутбука есть выделенная видеокарта, вы можете переключить её на панели управления видеоадаптером [url=https://wiki.beamng.com/Dedicated_Graphics]Инструкции[/url]",
+    "scenarios.gridmap.fg-bowling.restart": "Нажмите «Сброс» ([action=reset_physics]), чтобы начать новый раунд.",
+    "scenarios.gridmap.fg-bowling.area": "Не покидайте игровую зону!",
+    "scenarios.gridmap.fg-bowling.reset": "Нажмите «Сброс» ([action=reset_physics]), чтобы продолжить.",
+    "scenarios.gridmap.fg-bowling.forfeit": "Нажмите «Сброс» ([action=reset_physics]) снова, чтобы пропустить попытку.",
+    "scenarios.gridmap.fg-bowling.intro": "Добро пожаловать в боулинг на Pigeon! У вас есть 5 попыток — сбейте как можно больше бочек. Нажмите на кнопку «Старт» ниже, чтобы начать (на расстановку кеглей и Pigeon потребуется некоторое время). Развлекайтесь!",
+    "scenarios.gridmap.fg-bowling.description": "Сыграйте партию в боулинг на Pigeon.",
+    "scenarios.gridmap.fg-bowling.title": "Боулинг",
+    "ui.traffic.spawnLimit": "Достигнут максимум автомобилей! Изменить ограничение можно в Опции > Игровой процесс."
 }
