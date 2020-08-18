@@ -2595,5 +2595,11 @@
     "scenarios.italy.crestRoadAutobello.far.msg": "跟好另一輛車！",
     "levels.hirochi_raceway.spawnpoints.spawn_paddock": "Paddock",
     "levels.hirochi_raceway.spawnpoints.spawn_pitlane": "Pit Lane",
-    "ui.options.audio.maxVoices": "最多聲音數量"
+    "ui.options.audio.maxVoices": "最多聲音數量",
+    "ui.mainmenu.onlineFeatures.header": "線上功能",
+    "ui.mainmenu.onlineConsent": "啟用線上功能",
+    "ui.mainmenu.telemetryConsent": "我同意 BeamNG Gmbh 搜集我進行遊戲時的遊玩資訊[br] ( [url=https://beamng.com/PrivacyPolicy.pdf]點選此處[/url]查看詳細的搜集資訊種類 )",
+    "ui.common.continue": "繼續",
+    "ui.startscreen.warningdetails": "遊戲畫面可能會導致光敏性癲癇發作。 請玩家自行斟酌。",
+    "ui.startscreen.warning": "警告: 光敏性風險"
 }
