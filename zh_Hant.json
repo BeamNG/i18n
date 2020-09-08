@@ -1227,7 +1227,7 @@
     "ui.mainmenu.mods": "模組",
     "ui.mainmenu.background.back": "主選單",
     "ui.mainmenu.warningdetails": "點選此處以獲得更多詳細資料並加以確認",
-    "ui.mainmenu.onlineFeatures.featureDescription": "你可以選擇啟用或停用 BeamNG.drive 的所有線上功能。這會影響到：[br][list][*]模組資料庫[*]模組訂閱[*]成就[*]排行榜[*]聊天室功能[*]內容分享功能[/list]當你啟用線上功能便表示你同意我們的[url=http://wiki.beamng.com/Privacy_Policy]隱私權政策[/url]與[url=http://wiki.beamng.com/TOS]服務條款[/url]。[br][br]你隨時可以在「選項」>「遊戲方式」中變更這項設定。",
+    "ui.mainmenu.onlineFeatures.featureDescription": "你可以選擇啟用或停用 BeamNG.drive 的所有線上功能。這會影響到：[br][list][*]模組資料庫[*]模組訂閱[*]成就[*]排行榜[*]聊天室功能[*]內容分享功能[/list]",
     "ui.dashboard.drive": "駕駛",
     "ui.dashboard.levels": "地圖",
     "ui.dashboard.environment": "環境",
@@ -2628,5 +2628,17 @@
     "levels.industrial.spawnpoints.spawn_containerland": "貨櫃樂園",
     "levels.industrial.spawnpoints.spawn_docks": "碼頭",
     "levels.industrial.spawnpoints.spawn_port": "港口",
-    "levels.industrial.spawnpoints.spawn_tankfarm": "槽場"
+    "levels.industrial.spawnpoints.spawn_tankfarm": "槽場",
+    "ui.options.graphics.Experimental": "此為測試中的選項，請謹慎使用",
+    "ui.options.graphics.Warning": "警告",
+    "ui.options.traffic.trafficAllowMods.tooltip": "若啟用，模組載具將會產生在車流之中",
+    "ui.options.traffic.trafficAllowMods": "允許產生模組載具",
+    "ui.options.network.onlineFeatures": "你可以選擇啟用或停用 BeamNG.drive 的所有線上功能。這會影響到：[br][list][*]遊戲模組資料庫[*]模組訂閱[*]成就[*]排行榜[*]聊天室功能[*]內容分享功能[/list]當你啟用線上功能便表示你同意我們的[url=https://beamng.com/PrivacyPolicy.pdf]隱私權政策[/url]與[url=http://wiki.beamng.com/TOS]服務條款[/url]。[br][br]你隨時可以在「選項」>「遊戲方式」中變更這項設定。",
+    "ui.mainmenu.telemetryOnlineHint": "數據分析無法在線上功能未啟動時進行。",
+    "ui.apps.threedexport.name": "GLTF 3D Exporter",
+    "ui.options.online": "線上功能",
+    "ui.levelselect.chooseSpawnpoint": "選擇出生點",
+    "ui.mainmenu.telemetry.featureDescription": "我們希望蒐集遊戲進行時的數據，如遊玩時數、已進行過的情境模式、是否啟用了某些遊戲功能，用以分析遊戲開發與改善遊玩體驗的未來方向。這些資訊將會被傳送至我們的伺服器，並進行匿名化處理且以無法識別個人身份的方式儲存。我們不會將這些資訊用於營銷或廣告目的。 有關收集的數據類型與您的權利，請點選[url=https://beamng.com/PrivacyPolicy.pdf]此處[/url]。",
+    "ui.mainmenu.telemetry.header": "數據分析",
+    "ui.mainmenu.privacyPolicyHint": "有關線上功能與數據分析的詳細資訊，請閱讀我們的[url=https://beamng.com/PrivacyPolicy.pdf]隱私政策[/url]"
 }
