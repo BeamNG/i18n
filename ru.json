@@ -2683,5 +2683,9 @@
     "scenarios.gridmap.fg-bowling.description": "Сыграйте партию в боулинг на Pigeon.",
     "scenarios.gridmap.fg-bowling.title": "Боулинг",
     "ui.traffic.spawnLimit": "Достигнут максимум автомобилей! Изменить ограничение можно в Опции > Игровой процесс.",
-    "scenarios.derby.fg-soccer.description": "Сыграйте в футбол с другом в этом многопользовательском сценарии!"
+    "scenarios.derby.fg-soccer.description": "Сыграйте в футбол с другом в этом многопользовательском сценарии!",
+    "levels.industrial.spawnpoints.spawn_containerland": "Контейнерлэнд",
+    "levels.industrial.spawnpoints.spawn_docks": "Доки",
+    "levels.industrial.spawnpoints.spawn_port": "Порт",
+    "scenarios.derby.fg-soccer.title": "Футбол"
 }
