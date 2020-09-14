@@ -2392,7 +2392,7 @@
     "quickrace.italy.islandTour1.title": "Тур по острову",
     "vehicle.drivetrain.exhaustDamaged": "Выхлопная система повреждена",
     "ui.performance.highsea.txt": "Спасибо, что попробовали нашу игру! :) [br][br] Похоже, что вы используете неофициальную копию. Она может быть менее стабильная, чем официальная версия, а также содержать вирусы (советуем проверить компьютер). [br][br] Если вам понравилась игра, и вы хотите поддержать процесс разработки, всегда получать последние обновления и поддержку в случае неполадок — пожалуйста, подумайте над покупкой BeamNG.drive в [url=https://store.steampowered.com/app/284160/BeamNGdrive]Steam[/url] или [url=https://www.humblebundle.com/store/beamngdrive]Humble Bundle[/url]. [br][br] Спасибо ещё раз от всей команды!",
-    "ui.options.camera.cameraDriverResetSeat": "Сбросить положение сиденья для текущей марки машин",
+    "ui.options.camera.cameraDriverResetSeat": "Сбросить положение сиденья для текущей линейки машин",
     "ui.options.camera.cameraDriverResetSeatAll": "Сбросить положение сиденья для всех машин",
     "ui.camera.fovDriver": "Поле зрения установлено на {{degrees | number: 1}}° для всех машин",
     "ui.camera.driverTiltAdjusted": "Сиденье наклонено на {{angle|number:1}}° для всех вариантов {{vehicleName}}",
@@ -2682,5 +2682,6 @@
     "scenarios.gridmap.fg-bowling.intro": "Добро пожаловать в боулинг на Pigeon! У вас есть 5 попыток — сбейте как можно больше бочек. Нажмите на кнопку «Старт» ниже, чтобы начать (на расстановку кеглей и Pigeon потребуется некоторое время). Развлекайтесь!",
     "scenarios.gridmap.fg-bowling.description": "Сыграйте партию в боулинг на Pigeon.",
     "scenarios.gridmap.fg-bowling.title": "Боулинг",
-    "ui.traffic.spawnLimit": "Достигнут максимум автомобилей! Изменить ограничение можно в Опции > Игровой процесс."
+    "ui.traffic.spawnLimit": "Достигнут максимум автомобилей! Изменить ограничение можно в Опции > Игровой процесс.",
+    "scenarios.derby.fg-soccer.description": "Сыграйте в футбол с другом в этом многопользовательском сценарии!"
 }
