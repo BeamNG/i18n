@@ -2687,5 +2687,6 @@
     "levels.industrial.spawnpoints.spawn_containerland": "Контейнерлэнд",
     "levels.industrial.spawnpoints.spawn_docks": "Доки",
     "levels.industrial.spawnpoints.spawn_port": "Порт",
-    "scenarios.derby.fg-soccer.title": "Футбол"
+    "scenarios.derby.fg-soccer.title": "Футбол",
+    "scenarios.derby.fg-soccer.intro": "Добро пожаловать в BeamNG-футбол!<br><br>Ваша задача — затолкать мяч в ворота соперника, защищая при этом свои ворота.<br>Вы можете восстановить машину в любой момент без каких-либо штрафов.<br>Ограничения по очкам нет — играйте сколько угодно!<br><br>Развлекайтесь!"
 }
