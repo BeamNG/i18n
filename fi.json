@@ -2753,7 +2753,7 @@
     "scenarios.italy.fg-gravity.stoppedmoving": "Lopetit liikkumisen. Arvelen ettet päässyt perille!",
     "scenarios.italy.fg-gravity.keepmoving": "Koeta pysyä liikkeellä!",
     "scenarios.italy.fg-gravity.destroyed": "Auto romuttui, saat potkut!",
-    "scenarios.italy.fg-gravity.intro": "Voi ei! Meidän kurjan lava-auton bensa loppui!<br><br>Valitettavasti kilpa-autossakaan ei ole bensaa, joten hyppää sisään ja rullaa mäki alas huoltoasemalle jonka ohitimme. Ota ainakin 3 l polttoainetta ja palaa takaisin, että saamme auton toimitettua.<br><br>Muista, alhaalla on jyrkkä mutka. Älä mene siitä yli 35 km/h! Mitä ikinä teetkin, älä naarmuta autoa tai se vähennetään palkastasi!<br><br>Voisimme ehkä täyttää auton heille kokonaan viivästyksen takia. Sinun päätöksesi!",
+    "scenarios.italy.fg-gravity.intro": "Voi ei! Meidän kurjan lava-auton bensa loppui!<br><br>Valitettavasti kilpa-autossakaan ei ole bensaa, joten hyppää sisään ja rullaa mäki alas huoltoasemalle, jonka ohitimme. Ota ainakin 3 l polttoainetta ja palaa takaisin, että saamme auton toimitettua.<br><br>Muista, alhaalla on jyrkkä mutka. Älä mene siitä yli 35 km/h! Mitä ikinä teetkin, älä naarmuta autoa tai se vähennetään palkastasi!<br><br>Voisimme ehkä täyttää auton heille kokonaan viivästyksen takia. Sinun päätöksesi!",
     "scenarios.italy.fg-gravity.description": "Polttoaine loppui. Rullaa mäki alas hakeaksesi sitä lisää, ja palaa takaisin lava-autolle kuljeettaksesi ajoneuvon!",
     "scenarios.italy.fg-gravity.title": "Painovoima-polttoaine",
     "scenarios.utah.fg-demo.success": "Onnistuit! Mainiota.",
