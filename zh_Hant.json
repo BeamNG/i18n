@@ -2692,7 +2692,7 @@
     "ui.faq.updatingGame.q": "我要如何更新遊戲？",
     "ui.options.graphics.CEFRender.warning": "這個選項通常能夠改善遊的介面效能，但也有可能造成反效果。將它取消如果你遇到了問題",
     "ui.options.network.telemetry": "為了能夠提善 BeamNG.drive 的未來開發，我們希望搜集遊戲進行時的數據，如遊玩時數、已進行過的情境模式、是否啟用了某些遊戲功能等。 這些資訊將會被傳送至我們的伺服器，並進行匿名化處理且以無法識別個人身份的方式儲存。有關搜集的數據類型與您的權利，請點選[url=https://beamng.com/PrivacyPolicy.pdf]此處[/url]。",
-    "engine.fatalError.experienced2": "\n\n\nBeamNG.drive 遭遇了 fatal error。",
+    "engine.fatalError.experienced2": "\n\n\nBeamNG.drive has experienced a fatal error.\n\n\nBeamNG.drive 遭遇了 fatal error。",
     "engine.fatalError.errMsg": "FATAL ERROR: ",
     "scenarios.italy.fg-gravity.success": "你辦到了，把這台車送走吧！",
     "scenarios.italy.fg-gravity.cpreached": "檢查點",
