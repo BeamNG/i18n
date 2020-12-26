@@ -2148,7 +2148,7 @@
     "ui.common.action.start": "Spustiť",
     "ui.common.action.stop": "Zastaviť",
     "ui.common.randomConfigs": "Náhodny (všetky konfigurácie)",
-    "ui.trackBuilder.trackSettings.reversible": "Vratný",
+    "ui.trackBuilder.trackSettings.reversible": "Reverzibilný",
     "ui.trackBuilder.trackSettings.azimuth": "Azimut",
     "ui.trackBuilder.checkpoints.info": "Ak nepridáš žiadne body prejazdu, budú vytvorené automaticky pri hraní tejto trate na čas.",
     "ui.trackBuilder.checkpoints.active": "Aktívny",
