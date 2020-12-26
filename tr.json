@@ -2820,5 +2820,16 @@
     "ui.apps.brake_thermal_debug.energySurfaceToAir": "Yüzeyden Havaya Uygulanan Enerji",
     "ui.apps.brake_thermal_debug.energySurfaceToCore": "Yüzeyden Merkeze Uygulanan Enerji",
     "ui.apps.brake_thermal_debug.surfaceCooling": "Yüzey Soğutması",
-    "ui.apps.brake_thermal_debug.energyRadiationToAir": "Havaya Enerji Yayılımı"
+    "ui.apps.brake_thermal_debug.energyRadiationToAir": "Havaya Enerji Yayılımı",
+    "ui.apps.engine_dynamometer.torqueFlywheel": "Volan torku",
+    "ui.apps.engineinfo.wheelTorque": "Tekerlek torku",
+    "ui.apps.engineinfo.flywheelTorque": "Volan torku",
+    "ui.apps.engineinfo.gear": "Vites",
+    "ui.apps.engineinfo.rpm": "Devir",
+    "ui.apps.digTacho.engine": "Motor",
+    "ui.apps.digSpeedoAir.airspeed": "Hava hızı",
+    "ui.apps.digSpeedo.wheelspeed": "Tekerlek hızı",
+    "ui.apps.brake_torque_graph.speed": "Hız",
+    "ui.apps.brake_thermal_debug.finalEfficiency": "Son Verimlilik",
+    "ui.apps.brake_thermal_debug.thermalEfficiency": "Termal Verimlilik"
 }
