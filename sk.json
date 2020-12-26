@@ -2209,7 +2209,7 @@
     "ui.options.gameplay.removeOtherVehicles": "Odstrániť ostatné",
     "ui.options.gameplay.removeCurrentVehicle": "Odstrániť aktuálne",
     "ui.options.gameplay.cloneCurrentVehicle": "Klonovať aktuálne",
-    "ui.options.camera.cameraOrbitRelaxationHint": "Nižšie hodnoty = tesnejšia kamera",
+    "ui.options.camera.cameraOrbitRelaxationHint": "Nižšie hodnoty = tesnejšie správanie kamery",
     "ui.options.online": "Online funkcie",
     "ui.goals.wayPointAction": "Úlohy s kontrolnými bodmi",
     "ui.options.camera.cameraDriverStableHorizon": "Uzamknúť k horizontu",
