@@ -2798,5 +2798,6 @@
     "ui.photomode.dofMaxBlurNear": "Yakın Bulanıklık Gücü",
     "ui.photomode.dofMaxBlurFar": "Uzak Bulanıklık Gücü",
     "ui.photomode.dofAperture": "Açıklık",
-    "ui.photomode.dofFocusRange": "Odaklanma Mesafesi"
+    "ui.photomode.dofFocusRange": "Odaklanma Mesafesi",
+    "ui.photomode.SSAOControls": "Çevresel Perdeleme Kontrolleri"
 }
