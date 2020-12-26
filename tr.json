@@ -2741,7 +2741,7 @@
     "ui.options.network.onlineFeatures": "Çevrimiçi özelliklerin aktif ya da kapalı olmasını Beamng.drive'da seçebilirsin. Bu durum bunları etkileyecektir: [br][list][*]Oyun içi Repo[*]Mod abonelikleri[*]Başarımlar[*]Liderlik tabloları[*] Sohbet özellikleri[*]İçerik paylaşma özellikleri[/list]Çevrimiçi özellikleri etkinleştirerek [url=https://beamng.com/PrivacyPolicy.pdf]Gizlilik Politikamızı[/url] ve [url=http://wiki.beamng.com/TOS]Hizmet Şartlarımızı[/url] kabul etmiş olursunuz.",
     "ui.mainmenu.privacyPolicyHint": "Uzölçüm ve Çevrimiçi özellikler ile ilgili data işleme detayları için, lütfen burayı okuyun [url=https://beamng.com/PrivacyPolicy.pdf]Gizlilik Politikası[/url]",
     "ui.mainmenu.telemetry.featureDescription": "Gelecekteki oyun geliştirme için alanları belirlemek ve oyuncu deneyimini iyileştirmek amacıyla, oyun oturumlarının uzunluğu, oynanan senaryolar ve belirli oyun özelliklerinin etkin olup olmadığı gibi oyun oturumu verilerini toplamak istiyoruz. Bu veriler sunucularımıza gönderilir, burada anonimleştirilir ve bireylerin tanımlanmasına izin vermeyecek şekilde saklanır. Bu bilgileri pazarlama veya reklam amacıyla kullanmayacağız. Toplanan veri türlerinin listesi ve haklarınız için [url=https://beamng.com/PrivacyPolicy.pdf]buraya tıklayın[/url].",
-    "ui.vehicleconfig.searchHelp.notes2": "AND ile birleşik tartışmaları ara",
+    "ui.vehicleconfig.searchHelp.notes2": "VE ile birleşik tartışmaları ara",
     "ui.vehicleconfig.searchHelp.notes3": "Geçmiş kayıtları destekler. Yukarı/aşayı okları deneyin",
     "ui.vehicleconfig.searchHelp.history": "Geçmişi ara",
     "ui.vehicleconfig.searchHelp.example7": "'super' içeren her isim, başlık ve etiketi arar",
