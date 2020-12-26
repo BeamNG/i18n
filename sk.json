@@ -2211,5 +2211,11 @@
     "ui.options.gameplay.cloneCurrentVehicle": "Klonovať aktuálne",
     "ui.options.camera.cameraOrbitRelaxationHint": "Nižšie hodnoty = tesnejšia kamera",
     "ui.options.online": "Online funkcie",
-    "ui.goals.wayPointAction": "Úlohy s kontrolnými bodmi"
+    "ui.goals.wayPointAction": "Úlohy s kontrolnými bodmi",
+    "ui.options.camera.cameraDriverStableHorizon": "Uzamknúť k horizontu",
+    "ui.options.camera.cameraDriverPhysicsHint": "Umožňuje kamere mierny pohyb v závislosti od zotrvačnej sily",
+    "ui.options.camera.cameraDriverPhysics": "Sila zotrvačnosti",
+    "ui.options.camera.cameraChaseRollSmoothingHint": "0 = minimálny náklon, 100 = sledovať náklon vozidla",
+    "ui.options.camera.cameraChaseRollSmoothing": "Sledovať náklon vozidla",
+    "ui.options.camera.cameraOrbitMaxDynamicFovHint": "Pri vyššej rýchlosti sa použije väčšie zorné pole"
 }
