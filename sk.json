@@ -2138,7 +2138,7 @@
     "ui.startscreen.warning": "Upozornenie: riziko pre fotosenzitívnych",
     "ui.fonts.filename": "segoeui.ttf",
     "engine.fatalError.experienced2": "\n\n\nV BeamNG.drive nastala kritická chyba.",
-    "ui.startscreen.warningdetails": "Táto hra môže vyvolať záchvaty u ľudí s epilepsiou. Zvážte možné riziká.",
+    "ui.startscreen.warningdetails": "Táto hra môže vyvolať záchvaty u ľudí s fotosenzitívnou epilepsiou. Zvážte možné riziká.",
     "ui.common.action.resume": "Pokračovať ďalej",
     "ui.common.continue": "Pokračovať"
 }
