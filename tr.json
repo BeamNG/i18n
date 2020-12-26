@@ -2802,7 +2802,7 @@
     "ui.photomode.SSAOControls": "Ortam Aydınlatması Kontrolleri",
     "ui.photomode.SSAORadius": "Etki alanı",
     "ui.photomode.SSAOContrast": "Kontrast",
-    "ui.apps.absdebug.action": "Aksiyon",
+    "ui.apps.absdebug.action": "Eylem",
     "ui.apps.absdebug.wheelSlip": "Patinaj",
     "ui.apps.absdebug.wheelSpeed": "Tekerlek Hızı",
     "ui.apps.absdebug.phase": "Aşama",
@@ -2813,5 +2813,6 @@
     "ui.apps.brake_thermal_debug.surfaceTemp": "Yüzey Isısı",
     "ui.apps.brake_thermal_debug.padType": "Fren Balatası Tipi",
     "ui.apps.brake_thermal_debug.brakeType": "Fren Tipi",
-    "ui.apps.brake_thermal_debug.selectWheels": "Tekerlekleri Seç"
+    "ui.apps.brake_thermal_debug.selectWheels": "Tekerlekleri Seç",
+    "ui.apps.absdebug.wheelAcc": "Tekerlek Hızlanması"
 }
