@@ -2202,5 +2202,6 @@
     "ui.options.gameplay.switchHint": "Na zmenu vozidla použi klávesovú skratku [action=switch_next_vehicle_multiseat]'Prepnúť na ďalšie vozidlo (multiseat)'",
     "ui.options.vehicleBehavior": "Správanie vozidiel",
     "ui.playmodes.trackBuilder": "Editor trate",
-    "ui.options.gameplay.raceBrakesPreheated.tooltip": "Ak je nastavenie povolené, budú závodné brzdy predhriate na prevádzkovú teplotu."
+    "ui.options.gameplay.raceBrakesPreheated.tooltip": "Ak je nastavenie povolené, budú závodné brzdy predhriate na prevádzkovú teplotu.",
+    "ui.options.gameplay.loadDefaultVehicle": "Nahrať predvolené"
 }
