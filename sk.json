@@ -2169,7 +2169,7 @@
     "ui.trackBuilder.base.banking": "Náklon",
     "ui.trackBuilder.toolbar.merge": "Spojiť časti",
     "ui.trackBuilder.toolbar.paint": "Namaľovať materiál",
-    "ui.trackBuilder.trackSettings.trackTransform": "Premena trate",
+    "ui.trackBuilder.trackSettings.trackTransform": "Transformácia trate",
     "ui.trackBuilder.trackSettings.defaultLaps": "Predvolené kolá",
     "ui.trackBuilder.trackSettings.positionTrackBeforeCam": "Umiestni trať pred kameru"
 }
