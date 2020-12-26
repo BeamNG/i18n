@@ -2758,7 +2758,7 @@
     "ui.vehicleconfig.sourceMod": "Mod",
     "ui.vehicleconfig.sourceUser": "Kullanıcı",
     "ui.vehicleconfig.deleteTooltip": "Bu konfigürasyonu silmek için çift tıklayın. Bu değişiklik geri alınamaz!",
-    "ui.vehicleconfig.saveThumbnail": "Kayıtta fotoğraf çek",
+    "ui.vehicleconfig.saveThumbnail": "Kayıt için fotoğraf oluştur",
     "ui.vehicleconfig.loadTooltip": "Bu konfigürasyonu yükle",
     "ui.modmanager.deleteTooltip": "Her yüklü modu kaldırmak için çift tıklayın. Bu hareket geri alınamaz!",
     "ui.environment.environmentalTemperature": "Çevre Sıcaklığı",
