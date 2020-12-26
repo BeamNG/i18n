@@ -2132,5 +2132,6 @@
     "ui.trackBuilder.borders.rightBorderShape": "Tvar pravého okraja",
     "ui.trackBuilder.matEditor.texture": "Textúra",
     "ui.trackBuilder.matEditor.center": "Stred",
-    "ui.trackBuilder.matEditor.border": "Okraj"
+    "ui.trackBuilder.matEditor.border": "Okraj",
+    "engine.fatalError.errMsg": "KRITICKÁ CHYBA: "
 }
