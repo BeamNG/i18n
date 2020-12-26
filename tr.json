@@ -2750,6 +2750,6 @@
     "ui.vehicleconfig.searchHelp.example6": "'bob' tarafından yapılan tüm parçaları arar",
     "ui.vehicleconfig.searchHelp.example5": "'pickup_fr' içeren her parça seçeneğini arar",
     "ui.vehicleconfig.searchHelp.example4": "'_fr' içeren her yuvayı arar ve sonra 'signal' içeren her ismi arar",
-    "ui.vehicleconfig.searchHelp.example3": "'frame' içeren her ismi ara",
+    "ui.vehicleconfig.searchHelp.example3": "'frame' içeren tüm isimleri arar",
     "ui.vehicleconfig.searchHelp.example2": "'_fr' içeren her yuvayı ara"
 }
