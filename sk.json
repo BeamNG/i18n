@@ -2195,5 +2195,7 @@
     "ui.environment.tireMarks.save": "Uložiť",
     "ui.environment.tireMarks.reset": "Vyčistiť",
     "ui.environment.tireMarks": "Stopy pneumatík",
-    "ui.environment.tireMarks.load": "Načítať"
+    "ui.environment.tireMarks.load": "Načítať",
+    "ui.apps.threedexport.name": "GLTF 3D Exporter",
+    "ui.apps.bus_route_stats.name": "Štatistika autobusových trás"
 }
