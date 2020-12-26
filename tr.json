@@ -2760,7 +2760,7 @@
     "ui.vehicleconfig.deleteTooltip": "Bu konfigürasyonu silmek için çift tıklayın. Bu değişiklik geri alınamaz!",
     "ui.vehicleconfig.saveThumbnail": "Kayıt için fotoğraf oluştur",
     "ui.vehicleconfig.loadTooltip": "Bu konfigürasyonu yükle",
-    "ui.modmanager.deleteTooltip": "Her yüklü modu kaldırmak için çift tıklayın. Bu hareket geri alınamaz!",
+    "ui.modmanager.deleteTooltip": "Yüklü ve abone olduğunuz modların hepsini kaldırmak için çift tıklayın. Bu değişiklik geri alınamaz!",
     "ui.environment.environmentalTemperature": "Çevre Sıcaklığı",
     "ui.vehicleconfig.openConfigFolder": "Kullanıcı konfigürasyon klasörünü aç",
     "ui.racetime.time": "Zaman",
