@@ -2756,5 +2756,6 @@
     "ui.vehicleconfig.applyPartChangesAutomatically": "Değişimleri otomatik olarak uygula",
     "ui.vehicleconfig.sourceOfficial": "Resmi",
     "ui.vehicleconfig.sourceMod": "Mod",
-    "ui.vehicleconfig.sourceUser": "Kullanıcı"
+    "ui.vehicleconfig.sourceUser": "Kullanıcı",
+    "ui.vehicleconfig.deleteTooltip": "Bu konfigürasyonu silmek için çift tıklayın. Bu hareket geri alınamaz!"
 }
