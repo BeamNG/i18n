@@ -2141,5 +2141,9 @@
     "ui.startscreen.warningdetails": "Táto hra môže vyvolať záchvaty u ľudí s fotosenzitívnou epilepsiou. Zvážte možné riziká.",
     "ui.common.action.resume": "Pokračovať",
     "ui.common.continue": "Pokračovať",
-    "ui.common.action.load": "Nahrať"
+    "ui.common.action.load": "Nahrať",
+    "ui.common.random": "Náhodne",
+    "ui.common.smartConfigs": "Inteligentný (všetky konfigurácie)",
+    "ui.common.smart": "Inteligentný",
+    "ui.common.action.start": "Spustiť"
 }
