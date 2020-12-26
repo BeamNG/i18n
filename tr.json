@@ -2757,5 +2757,7 @@
     "ui.vehicleconfig.sourceOfficial": "Resmi",
     "ui.vehicleconfig.sourceMod": "Mod",
     "ui.vehicleconfig.sourceUser": "Kullanıcı",
-    "ui.vehicleconfig.deleteTooltip": "Bu konfigürasyonu silmek için çift tıklayın. Bu hareket geri alınamaz!"
+    "ui.vehicleconfig.deleteTooltip": "Bu konfigürasyonu silmek için çift tıklayın. Bu hareket geri alınamaz!",
+    "ui.vehicleconfig.saveThumbnail": "Kayıtta fotoğraf çek",
+    "ui.vehicleconfig.loadTooltip": "Bu konfigürasyonu yükle"
 }
