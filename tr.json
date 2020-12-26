@@ -2795,5 +2795,6 @@
     "ui.photomode.dofControls": "Alan Derinliği Kontrolleri",
     "ui.photomode.colorCorrectionStrength": "Filtre Gücü",
     "ui.photomode.colorCorrection": "Filtre",
-    "ui.photomode.dofMaxBlurNear": "Yakın Bulanıklılık Gücü"
+    "ui.photomode.dofMaxBlurNear": "Yakın Bulanıklılık Gücü",
+    "ui.photomode.dofMaxBlurFar": "Uzak Bulanıklılık Gücü"
 }
