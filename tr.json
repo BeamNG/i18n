@@ -2752,5 +2752,6 @@
     "ui.vehicleconfig.searchHelp.example4": "'_fr' içeren her yuvayı arar ve sonra 'signal' içeren her ismi arar",
     "ui.vehicleconfig.searchHelp.example3": "'frame' içeren tüm isimleri arar",
     "ui.vehicleconfig.searchHelp.example2": "'_fr' içeren her yuvayı arar",
-    "ui.vehicleconfig.searchHelp.example1": "'sol' içeren tüm parça isimlerini ara"
+    "ui.vehicleconfig.searchHelp.example1": "'sol' içeren tüm parça isimlerini ara",
+    "ui.vehicleconfig.applyPartChangesAutomatically": "Otomatik olarak değişimleri uygula"
 }
