@@ -2176,7 +2176,7 @@
     "ui.mainmenu.telemetryConsent": "Súhlasím so zbieraním dát o mojom hraní firmou[br] BeamNG GmbH (klikni [url=https://beamng.com/PrivacyPolicy.pdf]sem[/url] pre typy zbieraných dát).",
     "ui.trackBuilder.settings.cameraFollowDistance": "Vzdialenosť kamery",
     "ui.mainmenu.onlineFeatures.header": "Online funkcie",
-    "ui.mainmenu.telemetryOnlineHint": "Telemetria nemôže byť aktívna bez aktivovaných online možností.",
+    "ui.mainmenu.telemetryOnlineHint": "Telemetria nemôže byť aktívna bez aktivovaných online funkcií.",
     "ui.mainmenu.privacyPolicyHint": "Pre podrobnosti o spracovaní dát ohľadne online možností a telemetrie si prečítaj naše [url=https://beamng.com/PrivacyPolicy.pdf]Podmienky súkromia[/url]",
     "ui.mainmenu.telemetry.featureDescription": "Chceli by sme zhromažďovať údaje o hraní, ako je napríklad dĺžka hry, zahrané scenáre a to, či máš povolené určité herné funkcie, s cieľom identifikovať oblasti pre budúci vývoj hry a zlepšenie hráčskeho zážitku. Tieto údaje sa odosielajú na naše servery, kde sú anonymizované a uložené spôsobom, ktorý neumožňuje identifikáciu jednotlivcov. Tieto informácie nebudeme používať na marketingové ani reklamné účely. Zoznam zhromaždených typov údajov a tvojich práv nájdeš kliknutím na [url=https://beamng.com/PrivacyPolicy.pdf]here[/url].",
     "ui.mainmenu.telemetry.header": "Telemetria"
