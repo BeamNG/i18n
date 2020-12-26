@@ -2198,7 +2198,7 @@
     "ui.environment.tireMarks.load": "Načítať",
     "ui.apps.threedexport.name": "GLTF 3D Exportér",
     "ui.apps.bus_route_stats.name": "Štatistika autobusových trás",
-    "ui.options.gameplay.enginesPreheated.tooltip": "Ak je nastavenie zakázané, teplotná simulácia motora začína na úrovni okolitého prostredia.",
+    "ui.options.gameplay.enginesPreheated.tooltip": "Ak je vypnuté, teplotná simulácia motora začína na úrovni okolitého prostredia.",
     "ui.options.gameplay.switchHint": "Na zmenu vozidla použi klávesovú skratku [action=switch_next_vehicle_multiseat]'Prepnúť na ďalšie vozidlo (multiseat)'",
     "ui.options.vehicleBehavior": "Správanie vozidiel",
     "ui.playmodes.trackBuilder": "Editor trate",
