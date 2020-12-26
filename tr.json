@@ -2764,5 +2764,6 @@
     "ui.environment.environmentalTemperature": "Çevre Sıcaklığı",
     "ui.vehicleconfig.openConfigFolder": "Kullanıcı konfigürasyon klasörünü aç",
     "ui.racetime.time": "Zaman",
-    "ui.modmanager.actions": "Hareketler"
+    "ui.modmanager.actions": "Hareketler",
+    "ui.quickrace.time": "Zaman"
 }
