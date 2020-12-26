@@ -2146,5 +2146,6 @@
     "ui.common.smartConfigs": "Inteligentný (všetky konfigurácie)",
     "ui.common.smart": "Inteligentný",
     "ui.common.action.start": "Spustiť",
-    "ui.common.action.stop": "Zastaviť"
+    "ui.common.action.stop": "Zastaviť",
+    "ui.common.randomConfigs": "Náhodne (všetky konfigurácie)"
 }
