@@ -2801,5 +2801,12 @@
     "ui.photomode.dofFocusRange": "Odaklanma Mesafesi",
     "ui.photomode.SSAOControls": "Ortam Aydınlatması Kontrolleri",
     "ui.photomode.SSAORadius": "Çevre",
-    "ui.photomode.SSAOContrast": "Kontrast"
+    "ui.photomode.SSAOContrast": "Kontrast",
+    "ui.apps.absdebug.action": "Aksiyon",
+    "ui.apps.absdebug.wheelSlip": "Patinaj",
+    "ui.apps.absdebug.wheelSpeed": "Tekerlek Hızı",
+    "ui.apps.absdebug.phase": "Aşama",
+    "ui.photomode.SSAOQualityHigh": "Yüksek",
+    "ui.photomode.SSAOQualityNormal": "Normal",
+    "ui.photomode.SSAOQuality": "Kalite"
 }
