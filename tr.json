@@ -412,7 +412,7 @@
     "ui.environment.uranus": "Uranüs",
     "ui.environment.venus": "Venüs",
     "ui.environment.weather": "Hava Durumu",
-    "ui.environment.windSpeed": "Rüzgar hızı",
+    "ui.environment.windSpeed": "Bulut hızı",
     "ui.environment.zeroGravity": "Sıfır yerçekimi",
     "ui.faq": "Yardım / Çabuk Bağlantılar",
     "ui.faq.changeCamera.a": "Araç kameraları arasında geçiş yapmak için [action=switch_camera_next], veya serbest kamera için [action=toggleCamera] basın.",
@@ -1245,7 +1245,7 @@
     "ui.options.camera.cameraTVSpeed": "TV yakalama hızı",
     "ui.options.camera.cameraTVSpeedTooltip": "Sabit bir hıza zorlamaz, onun yerine belirlenen hızda dinamik şekilde düzenleme görevi yapar",
     "ui.levelselect.x86Disabled": "Lütfen bu haritada oynamak için oyunun 64 bit versiyonunu kullanın.",
-    "ui.repository.mods": "Modlar",
+    "ui.repository.mods": "Mod Yöneticisi",
     "ui.repository.order_by": "Sırala",
     "ui.repository.order_ascendant_short": "art",
     "ui.repository.order_descendant_short": "azl",
@@ -2740,5 +2740,8 @@
     "ui.options.network.telemetry": "BeamNG.drive'ın gelecekteki oyun gelişimini iyileştirmek amacıyla, oyun oturumlarının uzunluğu, oynanan senaryolar ve belirli oyun özelliklerinin etkin olup olmadığı gibi oyun oturumu verilerini toplamak istiyoruz. Bu veriler sunucularımıza gönderilir, burada anonimleştirilir ve bireylerin tanımlanmasına izin vermeyecek şekilde saklanır. Toplanan veri türlerinin listesi ve haklarınız için [url=https://beamng.com/PrivacyPolicy.pdf]buraya tıklayın[/url].",
     "ui.options.network.onlineFeatures": "Çevrimiçi özelliklerin aktif ya da kapalı olmasını Beamng.drive'da seçebilirsin. Bu durum bunları etkileyecektir: [br][list][*]Oyun içi Repo[*]Mod abonelikleri[*]Başarımlar[*]Liderlik tabloları[*] Sohbet özellikleri[*]İçerik paylaşma özellikleri[/list]Çevrimiçi özellikleri etkinleştirerek [url=https://beamng.com/PrivacyPolicy.pdf]Gizlilik Politikamızı[/url] ve [url=http://wiki.beamng.com/TOS]Hizmet Şartlarımızı[/url] kabul etmiş olursunuz.",
     "ui.mainmenu.privacyPolicyHint": "Uzölçüm ve Çevrimiçi özellikler ile ilgili data işleme detayları için, lütfen burayı okuyun [url=https://beamng.com/PrivacyPolicy.pdf]Gizlilik Politikası[/url]",
-    "ui.mainmenu.telemetry.featureDescription": "Gelecekteki oyun geliştirme için alanları belirlemek ve oyuncu deneyimini iyileştirmek amacıyla, oyun oturumlarının uzunluğu, oynanan senaryolar ve belirli oyun özelliklerinin etkin olup olmadığı gibi oyun oturumu verilerini toplamak istiyoruz. Bu veriler sunucularımıza gönderilir, burada anonimleştirilir ve bireylerin tanımlanmasına izin vermeyecek şekilde saklanır. Bu bilgileri pazarlama veya reklam amacıyla kullanmayacağız. Toplanan veri türlerinin listesi ve haklarınız için [url=https://beamng.com/PrivacyPolicy.pdf]buraya tıklayın[/url]."
+    "ui.mainmenu.telemetry.featureDescription": "Gelecekteki oyun geliştirme için alanları belirlemek ve oyuncu deneyimini iyileştirmek amacıyla, oyun oturumlarının uzunluğu, oynanan senaryolar ve belirli oyun özelliklerinin etkin olup olmadığı gibi oyun oturumu verilerini toplamak istiyoruz. Bu veriler sunucularımıza gönderilir, burada anonimleştirilir ve bireylerin tanımlanmasına izin vermeyecek şekilde saklanır. Bu bilgileri pazarlama veya reklam amacıyla kullanmayacağız. Toplanan veri türlerinin listesi ve haklarınız için [url=https://beamng.com/PrivacyPolicy.pdf]buraya tıklayın[/url].",
+    "ui.vehicleconfig.searchHelp.notes2": "AND ile birleşik tartışmaları ara",
+    "ui.vehicleconfig.searchHelp.notes3": "Geçmiş kayıtları destekler. Yukarı/aşayı okları deneyin",
+    "ui.vehicleconfig.searchHelp.history": "Geçmişi ara"
 }
