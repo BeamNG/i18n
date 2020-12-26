@@ -2791,5 +2791,8 @@
     "ui.photomode.steamScreen": "Steam ekran görüntüsü çeker",
     "ui.vehicleconfig.searchHelp.historyClear": "CTRL+K ile geçmişi temizleyebilirsiniz",
     "ui.mainmenu.mods.desciptionUnavailable": "Açıklama Bulunamıyor",
-    "ui.trackBuilder.toolbar.title": "Araç çubuğu"
+    "ui.trackBuilder.toolbar.title": "Araç çubuğu",
+    "ui.photomode.dofControls": "Görüş Alanı Derinliği Kontrolleri",
+    "ui.photomode.colorCorrectionStrength": "Filtre Gücü",
+    "ui.photomode.colorCorrection": "Filtre"
 }
