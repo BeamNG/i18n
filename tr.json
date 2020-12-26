@@ -1244,7 +1244,7 @@
     "ui.options.camera.cameraFanVsTV": "Dışarı Modu",
     "ui.options.camera.cameraTVSpeed": "TV yakalama hızı",
     "ui.options.camera.cameraTVSpeedTooltip": "Sabit bir hıza zorlamaz, onun yerine belirlenen hızda dinamik şekilde düzenleme görevi yapar",
-    "ui.levelselect.x86Disabled": "Lütfen bu haritada oynamak için oyunun 64 bit versiyonunu kullanın.",
+    "ui.levelselect.x86Disabled": "Bu haritada oynamak için oyunun 64 bit versiyonda çalışması gerekir. Lütfen sistem gereksinimlerini doğrulayın.",
     "ui.repository.mods": "Mod Yöneticisi",
     "ui.repository.order_by": "Sırala",
     "ui.repository.order_ascendant_short": "art",
