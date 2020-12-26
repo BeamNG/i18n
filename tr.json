@@ -2796,7 +2796,7 @@
     "ui.photomode.colorCorrectionStrength": "Filtre Gücü",
     "ui.photomode.colorCorrection": "Filtre",
     "ui.photomode.dofMaxBlurNear": "Yakın Bulanıklık Gücü",
-    "ui.photomode.dofMaxBlurFar": "Uzak Bulanıklılık Gücü",
+    "ui.photomode.dofMaxBlurFar": "Uzak Bulanıklık Gücü",
     "ui.photomode.dofAperture": "Açıklık",
     "ui.photomode.dofFocusRange": "Odaklanma Mesafesi"
 }
