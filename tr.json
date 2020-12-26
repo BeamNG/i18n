@@ -2743,5 +2743,8 @@
     "ui.mainmenu.telemetry.featureDescription": "Gelecekteki oyun geliştirme için alanları belirlemek ve oyuncu deneyimini iyileştirmek amacıyla, oyun oturumlarının uzunluğu, oynanan senaryolar ve belirli oyun özelliklerinin etkin olup olmadığı gibi oyun oturumu verilerini toplamak istiyoruz. Bu veriler sunucularımıza gönderilir, burada anonimleştirilir ve bireylerin tanımlanmasına izin vermeyecek şekilde saklanır. Bu bilgileri pazarlama veya reklam amacıyla kullanmayacağız. Toplanan veri türlerinin listesi ve haklarınız için [url=https://beamng.com/PrivacyPolicy.pdf]buraya tıklayın[/url].",
     "ui.vehicleconfig.searchHelp.notes2": "AND ile birleşik tartışmaları ara",
     "ui.vehicleconfig.searchHelp.notes3": "Geçmiş kayıtları destekler. Yukarı/aşayı okları deneyin",
-    "ui.vehicleconfig.searchHelp.history": "Geçmişi ara"
+    "ui.vehicleconfig.searchHelp.history": "Geçmişi ara",
+    "ui.vehicleconfig.searchHelp.example7": "'super' içeren her isim, başlık ve etiketi arar",
+    "ui.vehicleconfig.searchHelp.notes": "Notlar",
+    "ui.vehicleconfig.searchHelp.notes1": "Aramada büyük/küçük harf fark etmez"
 }
