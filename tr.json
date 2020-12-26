@@ -2794,5 +2794,6 @@
     "ui.trackBuilder.toolbar.title": "Araç çubuğu",
     "ui.photomode.dofControls": "Görüş Alanı Derinliği Kontrolleri",
     "ui.photomode.colorCorrectionStrength": "Filtre Gücü",
-    "ui.photomode.colorCorrection": "Filtre"
+    "ui.photomode.colorCorrection": "Filtre",
+    "ui.photomode.dofMaxBlurNear": "Yakın Bulanıklılık Gücü"
 }
