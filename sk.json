@@ -2140,5 +2140,6 @@
     "engine.fatalError.experienced2": "\n\n\nV BeamNG.drive nastala kritická chyba.",
     "ui.startscreen.warningdetails": "Táto hra môže vyvolať záchvaty u ľudí s fotosenzitívnou epilepsiou. Zvážte možné riziká.",
     "ui.common.action.resume": "Pokračovať ďalej",
-    "ui.common.continue": "Pokračovať"
+    "ui.common.continue": "Pokračovať",
+    "ui.common.action.load": "Nahrať"
 }
