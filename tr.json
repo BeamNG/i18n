@@ -2777,10 +2777,11 @@
     "ui.levelselect.x86DisabledToolbar": "Oyun 32-bit modunda iken kullanılamaz.",
     "ui.trackbuilder.menus.onlyOnePiecesWindow": "Sadece bir Parça Penceresi",
     "ui.trackbuilder.menus.resetTrack": "Parkuru Sıfırla",
-    "ui.trackbuilder.menus.removeTrack": "Yolu Kaldır",
+    "ui.trackbuilder.menus.removeTrack": "Parkuru Kaldır",
     "ui.trackbuilder.menus.startTrackBuilder": "Yol Yapıcısını Başlat",
     "ui.trackbuilder.menus.windows": "Pencereler",
     "ui.trackbuilder.menus.openAdvancedPieces": "Gelişmiş Parçaları Aç",
     "ui.trackbuilder.base.banking": "Eğim",
-    "ui.trackbuilder.menus.editorSettings": "Editör Ayarları"
+    "ui.trackbuilder.menus.editorSettings": "Editör Ayarları",
+    "ui.trackbuilder.menus.trackBuilder": "Parkur Oluşturucu"
 }
