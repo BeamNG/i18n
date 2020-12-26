@@ -2775,6 +2775,6 @@
     "ui.trackBuilder.base.drive": "Sür",
     "ui.trackBuilder.base.test": "Test",
     "ui.levelselect.x86DisabledToolbar": "Oyun 32-bit modunda iken kullanılamaz.",
-    "ui.trackbuilder.menus.onlyOnePiecesWindow": "Sadece tek Parça Penceresi",
+    "ui.trackbuilder.menus.onlyOnePiecesWindow": "Sadece bir Parça Penceresi",
     "ui.trackbuilder.menus.resetTrack": "Yolu Sıfırla"
 }
