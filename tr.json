@@ -2836,7 +2836,7 @@
     "ui.apps.brake_thermal_debug.padGlazing": "Balata Aşınması",
     "ui.apps.brake_thermal_debug.coreCooling": "Merkez Soğutması",
     "ui.apps.engine_dynamometer.powerFlywheel": "Güç (Volan)",
-    "ui.apps.engine_dynamometer.powerWheels": "Tekerlek gücü",
+    "ui.apps.engine_dynamometer.powerWheels": "Güç (Tekerlek)",
     "ui.apps.engine_thermal_debug.exhaustManifold": "Egzoz Manifoldu",
     "ui.apps.engine_thermal_debug.cylinderlWall": "Silindir Duvarı",
     "ui.apps.engine_thermal_debug.block": "Blok",
