@@ -2809,7 +2809,7 @@
     "ui.photomode.SSAOQualityHigh": "Yüksek",
     "ui.photomode.SSAOQualityNormal": "Normal",
     "ui.photomode.SSAOQuality": "Kalite",
-    "ui.apps.brake_thermal_debug.coreTemp": "Kök Isısı",
+    "ui.apps.brake_thermal_debug.coreTemp": "Merkez Isısı",
     "ui.apps.brake_thermal_debug.surfaceTemp": "Yüzey Isısı",
     "ui.apps.brake_thermal_debug.padType": "Fren Balatası Tipi",
     "ui.apps.brake_thermal_debug.brakeType": "Fren Tipi",
