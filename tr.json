@@ -2834,5 +2834,6 @@
     "ui.apps.brake_thermal_debug.thermalEfficiency": "Termal Verimlilik",
     "ui.apps.brake_thermal_debug.slope": "Fren basıncı oranı",
     "ui.apps.brake_thermal_debug.padGlazing": "Balata Aşınması",
-    "ui.apps.brake_thermal_debug.coreCooling": "Merkez Soğutması"
+    "ui.apps.brake_thermal_debug.coreCooling": "Merkez Soğutması",
+    "ui.apps.engine_dynamometer.powerFlywheel": "Volan gücü"
 }
