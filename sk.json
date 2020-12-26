@@ -2134,7 +2134,8 @@
     "ui.trackBuilder.matEditor.center": "Stred",
     "ui.trackBuilder.matEditor.border": "Okraj",
     "engine.fatalError.errMsg": "KRITICKÁ CHYBA: ",
-    "engine.fatalError.experienced": "\n\n\nNa serveri BeamNG.drive sa vyskytla kritická chyba. Kliknutím na OK zatvoríte BeamNG a vytvoríte správu o zlyhaní. Zašlite nám správu, aby sme mohli tento problém vyriešiť .",
+    "engine.fatalError.experienced": "\n\n\nV aplikácii BeamNG.drive sa vyskytla kritická chyba. Kliknutím na OK zatvoríte BeamNG a vytvoríte správu o zlyhaní. Zašlite nám správu, aby sme mohli tento problém vyriešiť .",
     "ui.startscreen.warning": "Pozor: riziko pre fotosenzitínych",
-    "ui.fonts.filename": "segoeui.ttf"
+    "ui.fonts.filename": "segoeui.ttf",
+    "engine.fatalError.experienced2": "\n\n\nV BeamNG.drive nastala kritická chyba."
 }
