@@ -2814,5 +2814,6 @@
     "ui.apps.brake_thermal_debug.padType": "Fren Balatası Tipi",
     "ui.apps.brake_thermal_debug.brakeType": "Fren Tipi",
     "ui.apps.brake_thermal_debug.selectWheels": "Tekerlekleri Seç",
-    "ui.apps.absdebug.wheelAcc": "Tekerlek Hızlanması"
+    "ui.apps.absdebug.wheelAcc": "Tekerlek Hızlanması",
+    "ui.apps.brake_thermal_debug.energyToBrakeSurface": "Fren Alanına Enerji"
 }
