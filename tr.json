@@ -2765,5 +2765,10 @@
     "ui.vehicleconfig.openConfigFolder": "Kullanıcı konfigürasyon klasörünü aç",
     "ui.racetime.time": "Süre",
     "ui.modmanager.actions": "Hareketler",
-    "ui.quickrace.time": "Zaman"
+    "ui.quickrace.time": "Zaman",
+    "ui.levelselect.x86DisabledToolbar_2": "Oyunu 64-bit modda çalıştırmak 64-bit işletim sistemi ve 4GBden fazla kullanılabilir RAM gereklidir.",
+    "ui.repository.searchClear": "Aramayı Temizle",
+    "ui.repository.applySearch": "Uygula",
+    "ui.repository.order_direction": "Sıralama yönünü değiştir",
+    "ui.quickrace.name": "İsim"
 }
