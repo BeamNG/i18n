@@ -2747,5 +2747,6 @@
     "ui.vehicleconfig.searchHelp.example7": "'super' içeren mod isimleri, başlıkları ve etiketleri arar",
     "ui.vehicleconfig.searchHelp.notes": "Notlar",
     "ui.vehicleconfig.searchHelp.notes1": "Aramada büyük/küçük harf fark etmez",
-    "ui.vehicleconfig.searchHelp.example6": "'bob' tarafından yapılan her parçaları ara"
+    "ui.vehicleconfig.searchHelp.example6": "'bob' tarafından yapılan her parçaları ara",
+    "ui.vehicleconfig.searchHelp.example5": "'pickup_fr' içeren her parça seçeneğini ara"
 }
