@@ -2766,7 +2766,7 @@
     "ui.racetime.time": "Süre",
     "ui.modmanager.actions": "Hareketler",
     "ui.quickrace.time": "Süre",
-    "ui.levelselect.x86DisabledToolbar_2": "Oyunu 64-bit modda çalıştırmak 64-bit işletim sistemi ve 4GBden fazla kullanılabilir RAM gereklidir.",
+    "ui.levelselect.x86DisabledToolbar_2": "Oyunu 64-bit modunda çalıştırmak 64-bit işletim sistemi ve 4GB'tan fazla kullanılabilir RAM gereklidir.",
     "ui.repository.searchClear": "Aramayı Temizle",
     "ui.repository.applySearch": "Uygula",
     "ui.repository.order_direction": "Sıralama yönünü değiştir",
