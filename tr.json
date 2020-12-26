@@ -2821,7 +2821,7 @@
     "ui.apps.brake_thermal_debug.energySurfaceToCore": "Yüzeyden Merkeze Uygulanan Enerji",
     "ui.apps.brake_thermal_debug.surfaceCooling": "Yüzey Soğutması",
     "ui.apps.brake_thermal_debug.energyRadiationToAir": "Havaya Enerji Yayılımı",
-    "ui.apps.engine_dynamometer.torqueFlywheel": "Volan torku",
+    "ui.apps.engine_dynamometer.torqueFlywheel": "Tork (Volan)",
     "ui.apps.engineinfo.wheelTorque": "Tekerlek torku",
     "ui.apps.engineinfo.flywheelTorque": "Volan torku",
     "ui.apps.engineinfo.gear": "Vites",
