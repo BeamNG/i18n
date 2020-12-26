@@ -2831,5 +2831,8 @@
     "ui.apps.digSpeedo.wheelspeed": "Tekerlek hızı",
     "ui.apps.brake_torque_graph.speed": "Hız",
     "ui.apps.brake_thermal_debug.finalEfficiency": "Son Verimlilik",
-    "ui.apps.brake_thermal_debug.thermalEfficiency": "Termal Verimlilik"
+    "ui.apps.brake_thermal_debug.thermalEfficiency": "Termal Verimlilik",
+    "ui.apps.brake_thermal_debug.slope": "Fren basıncı oranı",
+    "ui.apps.brake_thermal_debug.padGlazing": "Balata Aşınması",
+    "ui.apps.brake_thermal_debug.coreCooling": "Merkez Soğutması"
 }
