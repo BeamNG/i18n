@@ -2147,7 +2147,7 @@
     "ui.common.smart": "Inteligentný",
     "ui.common.action.start": "Spustiť",
     "ui.common.action.stop": "Zastaviť",
-    "ui.common.randomConfigs": "Náhodne (všetky konfigurácie)",
+    "ui.common.randomConfigs": "Náhodny (všetky konfigurácie)",
     "ui.trackBuilder.trackSettings.reversible": "Vratný",
     "ui.trackBuilder.trackSettings.azimuth": "Azimut",
     "ui.trackBuilder.checkpoints.info": "Ak nepridáš žiadne body prejazdu, budú vytvorené automaticky pri hraní tejto trate na čas.",
