@@ -2753,5 +2753,8 @@
     "ui.vehicleconfig.searchHelp.example3": "'frame' içeren tüm isimleri arar",
     "ui.vehicleconfig.searchHelp.example2": "'_fr' içeren her yuvayı arar",
     "ui.vehicleconfig.searchHelp.example1": "'left' içeren tüm parça isimlerini arar",
-    "ui.vehicleconfig.applyPartChangesAutomatically": "Otomatik olarak değişimleri uygula"
+    "ui.vehicleconfig.applyPartChangesAutomatically": "Otomatik olarak değişimleri uygula",
+    "ui.vehicleconfig.sourceOfficial": "Resmi",
+    "ui.vehicleconfig.sourceMod": "Mod",
+    "ui.vehicleconfig.sourceUser": "Kullanıcı"
 }
