@@ -2208,5 +2208,7 @@
     "ui.options.gameplay.useSteamName": "Použiť Steam meno pre poznávaciu značku",
     "ui.options.gameplay.removeOtherVehicles": "Odstrániť ostatné",
     "ui.options.gameplay.removeCurrentVehicle": "Odstrániť aktuálne",
-    "ui.options.gameplay.cloneCurrentVehicle": "Klonovať aktuálne"
+    "ui.options.gameplay.cloneCurrentVehicle": "Klonovať aktuálne",
+    "ui.options.camera.cameraOrbitRelaxationHint": "Nižšie hodnoty = tesnejšia kamera",
+    "ui.options.online": "Online funkcie"
 }
