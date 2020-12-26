@@ -2836,5 +2836,17 @@
     "ui.apps.brake_thermal_debug.padGlazing": "Balata Aşınması",
     "ui.apps.brake_thermal_debug.coreCooling": "Merkez Soğutması",
     "ui.apps.engine_dynamometer.powerFlywheel": "Güç (Volan)",
-    "ui.apps.engine_dynamometer.powerWheels": "Tekerlek gücü"
+    "ui.apps.engine_dynamometer.powerWheels": "Tekerlek gücü",
+    "ui.apps.engine_thermal_debug.exhaustManifold": "Egzoz Manifoldu",
+    "ui.apps.engine_thermal_debug.cylinderlWall": "Silindir Duvarı",
+    "ui.apps.engine_thermal_debug.block": "Blok",
+    "ui.apps.engine_thermal_debug.oil": "Yağ",
+    "ui.apps.engine_thermal_debug.coolant": "Soğutma sıvısı",
+    "ui.apps.engine_heat_debug_graph.exhaust": "Egzoz",
+    "ui.apps.engine_heat_debug_graph.block": "Blok",
+    "ui.apps.engine_heat_debug_graph.oil": "Yağ",
+    "ui.apps.engine_heat_debug_graph.water": "Su",
+    "ui.apps.engine_dynamometer.torque": "Tork",
+    "ui.apps.engine_dynamometer.power": "Güç",
+    "ui.apps.engine_dynamometer.rpm": "Devir"
 }
