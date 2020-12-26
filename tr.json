@@ -2800,7 +2800,7 @@
     "ui.photomode.dofAperture": "Diyafram Açıklığı",
     "ui.photomode.dofFocusRange": "Odaklanma Mesafesi",
     "ui.photomode.SSAOControls": "Ortam Aydınlatması Kontrolleri",
-    "ui.photomode.SSAORadius": "Çevre",
+    "ui.photomode.SSAORadius": "Etki alanı",
     "ui.photomode.SSAOContrast": "Kontrast",
     "ui.apps.absdebug.action": "Aksiyon",
     "ui.apps.absdebug.wheelSlip": "Patinaj",
