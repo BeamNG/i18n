@@ -2204,7 +2204,7 @@
     "ui.playmodes.trackBuilder": "Editor trate",
     "ui.options.gameplay.raceBrakesPreheated.tooltip": "Ak je zapnuté, budú závodné brzdy predhriate na prevádzkovú teplotu.",
     "ui.options.gameplay.loadDefaultVehicle": "Načítať predvolené",
-    "ui.options.gameplay.useSteamName.tooltip": "Ak je nastavenie povolené, môže byť pre poznávaciu značku tvojho auta použité tvoje meno na Steame.",
+    "ui.options.gameplay.useSteamName.tooltip": "Ak je zapnuté, môže byť pre poznávaciu značku tvojho auta použité tvoje meno na Steame.",
     "ui.options.gameplay.useSteamName": "Použiť Steam meno pre poznávaciu značku",
     "ui.options.gameplay.removeOtherVehicles": "Odstrániť ostatné",
     "ui.options.gameplay.removeCurrentVehicle": "Odstrániť aktuálne",
