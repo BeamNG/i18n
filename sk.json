@@ -2186,7 +2186,7 @@
     "ui.busRoute.traffic": "Zapne UI premávku.",
     "ui.repository.order_descendant_short": "zostupne",
     "ui.repository.order_ascendant_short": "vzostupne",
-    "ui.modmanager.addDownload": "Pridať na zoznam sťahovania",
+    "ui.modmanager.addDownload": "Pridať do zoznamu sťahovania",
     "ui.modmanager.updateAllMissing": "Stiahnuť všetky",
     "ui.modmanager.missing_tooltip": "Modifikácie, ktoré odoberáš, ale nie sú prítomné v tvojom počítači",
     "ui.vehicleconfig.updateLicensePlate": "Vytvoriť poznávaciu značku",
@@ -2194,5 +2194,6 @@
     "ui.credits.soundtrack": "Soundtrack",
     "ui.environment.tireMarks.save": "Uložiť",
     "ui.environment.tireMarks.reset": "Vyčistiť",
-    "ui.environment.tireMarks": "Stopy pneumatík"
+    "ui.environment.tireMarks": "Stopy pneumatík",
+    "ui.environment.tireMarks.load": "Načítať"
 }
