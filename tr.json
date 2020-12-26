@@ -2784,5 +2784,12 @@
     "ui.trackbuilder.base.banking": "Eğim",
     "ui.trackbuilder.menus.editorSettings": "Editör Ayarları",
     "ui.trackbuilder.menus.trackBuilder": "Parkur Oluşturucu",
-    "ui.trackbuilder.menus.exitWindow": "Çıkış Penceresi"
+    "ui.trackbuilder.menus.exitWindow": "Çıkış Penceresi",
+    "ui.photomode.tod": "Gün Zamanı",
+    "ui.photomode.advancedImgSettingsClose": "Paneli kapat",
+    "ui.photomode.openScreenshotsFolder": "Ekran görüntüsü klasörünü aç",
+    "ui.photomode.steamScreen": "Steam ekran görüntüsü çeker",
+    "ui.vehicleconfig.searchHelp.historyClear": "CTRL+K ile geçmişi temizleyebilirsiniz",
+    "ui.mainmenu.mods.desciptionUnavailable": "Açıklama Bulunamıyor",
+    "ui.trackBuilder.toolbar.title": "Araç çubuğu"
 }
