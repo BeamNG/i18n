@@ -2818,5 +2818,7 @@
     "ui.apps.brake_thermal_debug.energyToBrakeSurface": "Fren Yüzeyine Uygulanan Enerji",
     "ui.apps.brake_thermal_debug.energyCoreToAir": "Merkezden Havaya Uygulanan Enerji",
     "ui.apps.brake_thermal_debug.energySurfaceToAir": "Yüzeyden Havaya Uygulanan Enerji",
-    "ui.apps.brake_thermal_debug.energySurfaceToCore": "Yüzeyden Merkeze Uygulanan Enerji"
+    "ui.apps.brake_thermal_debug.energySurfaceToCore": "Yüzeyden Merkeze Uygulanan Enerji",
+    "ui.apps.brake_thermal_debug.surfaceCooling": "Yüzey Soğutması",
+    "ui.apps.brake_thermal_debug.energyRadiationToAir": "Havaya Enerji Yayılımı"
 }
