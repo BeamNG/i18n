@@ -2749,5 +2749,6 @@
     "ui.vehicleconfig.searchHelp.notes1": "Aramada büyük/küçük harf fark etmez",
     "ui.vehicleconfig.searchHelp.example6": "'bob' tarafından yapılan tüm parçaları arar",
     "ui.vehicleconfig.searchHelp.example5": "'pickup_fr' içeren her parça seçeneğini arar",
-    "ui.vehicleconfig.searchHelp.example4": "'_fr' içeren her yuvayı ara ve sonra 'signal' içeren her ismi ara"
+    "ui.vehicleconfig.searchHelp.example4": "'_fr' içeren her yuvayı ara ve sonra 'signal' içeren her ismi ara",
+    "ui.vehicleconfig.searchHelp.example3": "'frame' içeren her ismi ara"
 }
