@@ -2799,7 +2799,7 @@
     "ui.photomode.dofMaxBlurFar": "Uzak Bulanıklık Gücü",
     "ui.photomode.dofAperture": "Diyafram Açıklığı",
     "ui.photomode.dofFocusRange": "Odaklanma Mesafesi",
-    "ui.photomode.SSAOControls": "Çevresel Perdeleme Kontrolleri",
+    "ui.photomode.SSAOControls": "Ortam Aydınlatması Kontrolleri",
     "ui.photomode.SSAORadius": "Çevre",
     "ui.photomode.SSAOContrast": "Kontrast"
 }
