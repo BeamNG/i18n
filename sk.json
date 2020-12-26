@@ -2168,5 +2168,7 @@
     "ui.trackBuilder.tooltip.shiftBack": "Posunúť modifikátor späť",
     "ui.trackBuilder.base.banking": "Náklon",
     "ui.trackBuilder.toolbar.merge": "Spojiť časti",
-    "ui.trackBuilder.toolbar.paint": "Namaľovať materiál"
+    "ui.trackBuilder.toolbar.paint": "Namaľovať materiál",
+    "ui.trackBuilder.trackSettings.trackTransform": "Premena trate",
+    "ui.trackBuilder.trackSettings.defaultLaps": "Predvolené kolá"
 }
