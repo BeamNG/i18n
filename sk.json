@@ -2182,7 +2182,7 @@
     "ui.mainmenu.telemetry.header": "Telemetria",
     "ui.levelselect.chooseSpawnpoint": "Vyber si začiatočný bod",
     "ui.dashboard.trackBuilder": "Editor trate",
-    "ui.modmanager.missing": "Chýba odber",
+    "ui.modmanager.missing": "Chýbajúci odber",
     "ui.busRoute.traffic": "Zapne UI premávku.",
     "ui.repository.order_descendant_short": "zostupne",
     "ui.repository.order_ascendant_short": "vzostupne",
