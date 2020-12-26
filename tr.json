@@ -2774,5 +2774,6 @@
     "ui.trackbuilder.menus.onlyOneModifierWindow": "Sadece tek Değiştirici Penceresi",
     "ui.trackBuilder.base.drive": "Sür",
     "ui.trackBuilder.base.test": "Test",
-    "ui.levelselect.x86DisabledToolbar": "Oyun 32-bit modunda iken kullanılamaz."
+    "ui.levelselect.x86DisabledToolbar": "Oyun 32-bit modunda iken kullanılamaz.",
+    "ui.trackbuilder.menus.onlyOnePiecesWindow": "Sadece tek Parça Penceresi"
 }
