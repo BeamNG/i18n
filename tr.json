@@ -2770,5 +2770,9 @@
     "ui.repository.searchClear": "Aramayı Temizle",
     "ui.repository.applySearch": "Uygula",
     "ui.repository.order_direction": "Sıralama yönünü değiştir",
-    "ui.quickrace.name": "İsim"
+    "ui.quickrace.name": "İsim",
+    "ui.trackbuilder.menus.onlyOneModifierWindow": "Sadece tek Değiştirici Penceresi",
+    "ui.trackBuilder.base.drive": "Sür",
+    "ui.trackBuilder.base.test": "Test",
+    "ui.levelselect.x86DisabledToolbar": "Oyun 32-bit modunda iken kullanılamaz."
 }
