@@ -2210,5 +2210,6 @@
     "ui.options.gameplay.removeCurrentVehicle": "Odstrániť aktuálne",
     "ui.options.gameplay.cloneCurrentVehicle": "Klonovať aktuálne",
     "ui.options.camera.cameraOrbitRelaxationHint": "Nižšie hodnoty = tesnejšia kamera",
-    "ui.options.online": "Online funkcie"
+    "ui.options.online": "Online funkcie",
+    "ui.goals.wayPointAction": "Úlohy s kontrolnými bodmi"
 }
