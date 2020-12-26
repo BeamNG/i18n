@@ -2746,5 +2746,6 @@
     "ui.vehicleconfig.searchHelp.history": "Geçmişi ara",
     "ui.vehicleconfig.searchHelp.example7": "'super' içeren her isim, başlık ve etiketi arar",
     "ui.vehicleconfig.searchHelp.notes": "Notlar",
-    "ui.vehicleconfig.searchHelp.notes1": "Aramada büyük/küçük harf fark etmez"
+    "ui.vehicleconfig.searchHelp.notes1": "Aramada büyük/küçük harf fark etmez",
+    "ui.vehicleconfig.searchHelp.example6": "'bob' tarafından yapılan her parçaları ara"
 }
