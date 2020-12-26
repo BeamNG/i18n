@@ -2133,5 +2133,6 @@
     "ui.trackBuilder.matEditor.texture": "Textúra",
     "ui.trackBuilder.matEditor.center": "Stred",
     "ui.trackBuilder.matEditor.border": "Okraj",
-    "engine.fatalError.errMsg": "KRITICKÁ CHYBA: "
+    "engine.fatalError.errMsg": "KRITICKÁ CHYBA: ",
+    "engine.fatalError.experienced": "\n\n\nNa serveri BeamNG.drive sa vyskytla kritická chyba. Kliknutím na OK zatvoríte BeamNG a vytvoríte správu o zlyhaní. Zašlite nám správu, aby sme mohli tento problém vyriešiť ."
 }
