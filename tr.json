@@ -2763,7 +2763,7 @@
     "ui.modmanager.deleteTooltip": "Yüklü ve abone olduğunuz modların hepsini kaldırmak için çift tıklayın. Bu değişiklik geri alınamaz!",
     "ui.environment.environmentalTemperature": "Çevre Sıcaklığı",
     "ui.vehicleconfig.openConfigFolder": "Kullanıcı konfigürasyon klasörünü aç",
-    "ui.racetime.time": "Zaman",
+    "ui.racetime.time": "Süre",
     "ui.modmanager.actions": "Hareketler",
     "ui.quickrace.time": "Zaman"
 }
