@@ -1142,7 +1142,7 @@
     "ui.mainmenu.telemetryConsent": "Souhlasím se shromažďováním dat z mých herních relací společností[br] BeamNG GmbH (přehled shromažďovaných typů dat získáte kliknutím [url=https://beamng.com/PrivacyPolicy.pdf]zde[/url]).",
     "ui.trackBuilder.saveLoad.previewCreated": "Náhled úspěšně vytvořen ",
     "ui.trackBuilder.saveLoad.trackLoaded": "Načtená trať ",
-    "ui.repository.scheduled_chking": "Kontrolování módu: {{checkingMod}}",
+    "ui.repository.scheduled_chking": "Kontrola modifikace: {{checkingMod}}",
     "ui.repository.scheduled_reason": "Důvod",
     "ui.repository.scheduled_date": "Aktualizace naplánována na",
     "ui.repository.scheduled_chk": "Vyhledat aktualizace",
