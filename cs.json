@@ -1081,5 +1081,13 @@
     "ui.trackBuilder.matEditor.selectAll": "Vybrat vše",
     "ui.trackBuilder.modifier.inverted": "Obrácený",
     "ui.trackBuilder.tooltip.shiftBack": "Modifikátor posunu zpět",
-    "ui.trackBuilder.base.radius": "Poloměr"
+    "ui.trackBuilder.base.radius": "Poloměr",
+    "ui.trackBuilder.matEditor.drawRightBorder": "Nakreslit pravý okraj",
+    "ui.trackBuilder.matEditor.drawCenter": "Nakreslit střed",
+    "ui.trackBuilder.matEditor.paint": "Barva",
+    "ui.trackBuilder.matEditor.border": "Okraj",
+    "ui.trackBuilder.matEditor.center": "Střed",
+    "ui.trackBuilder.matEditor.base": "Základ",
+    "ui.trackBuilder.borders.rightBorderShape": "Tvar pravého oraje",
+    "ui.trackBuilder.borders.leftBorderShape": "Tvar levého okraje"
 }
