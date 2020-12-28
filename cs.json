@@ -1035,5 +1035,6 @@
     "engine.fatalError.errMsg": "KRITICKÁ CHYBA: ",
     "ui.startscreen.warning": "Varování: Riziko fotocitlivosti",
     "ui.fonts.filename": "segoeui.ttf",
-    "scenario.customExtensionLoadFailed": "Vlastní logika není spuštěná. Zkontrolujte žurnál, zda neobsahuje varování s {{extName}}"
+    "scenario.customExtensionLoadFailed": "Vlastní logika není spuštěná. Zkontrolujte žurnál, zda neobsahuje varování s {{extName}}",
+    "engine.fatalError.experienced2": "\n\n\nV BeamNG.drive došlo k závažné chybě."
 }
