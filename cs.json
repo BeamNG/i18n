@@ -876,7 +876,7 @@
     "ui.repository.rating": "Hodnocení",
     "ui.repository.last_updated": "Naposled aktualizováno",
     "ui.repository.author": "Autor",
-    "ui.repository.filesize": "Velikost souboru (MB)",
+    "ui.repository.filesize": "Velikost souboru",
     "ui.repository.filters": "Filtry",
     "ui.repository.search": "Hledat",
     "ui.repository.option_rating": "Hodnocení",
@@ -1153,5 +1153,8 @@
     "ui.repository.cat_veh": "Vozidla",
     "ui.repository.cat_all": "Vše",
     "ui.repository.category": "Kategorie",
-    "ui.repository.order_by": "Řadit podle"
+    "ui.repository.order_by": "Řadit podle",
+    "ui.repository.scheduled_status": "Status",
+    "ui.repository.updates": "Aktualizace",
+    "ui.repository.categories": "Kategorie"
 }
