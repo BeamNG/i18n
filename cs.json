@@ -1178,5 +1178,6 @@
     "ui.repository.support": "podporu",
     "ui.repository.notOnline": "Nepodařilo se navázat spojení se serverem. Pokud problém přetrvává, podívejte se prosím ",
     "ui.repository.modmgrnotready": "Správce modů ještě není připraven. Všechny akce jsou zařazovány do fronty, dokud nebudou moci být vykonány. Pokud to trvá příliš dlouho, kontaktujte prosím podporu.",
-    "ui.repository.notOnline_here": "sem"
+    "ui.repository.notOnline_here": "sem",
+    "ui.quickrace.selectTrack": "Vybrat Rozložení"
 }
