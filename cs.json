@@ -1052,5 +1052,6 @@
     "ui.common.continue": "Pokračovat",
     "ui.trackBuilder.base.testDrive": "Začít od zvoleného kousku",
     "ui.trackBuilder.toolbar.merge": "Spojit segmenty",
-    "ui.trackBuilder.base.closeTrack": "Zavřít dráhu"
+    "ui.trackBuilder.base.closeTrack": "Zavřít dráhu",
+    "ui.trackBuilder.base.delete": "Vymazat stávající část"
 }
