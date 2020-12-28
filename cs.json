@@ -1031,8 +1031,9 @@
     "ui.trackBuilder.selection.last": "Vyberte Poslední kus",
     "ui.trackBuilder.toolbar.select": "Vyberte segment",
     "ui.fonts.mono": "Roboto Mono",
-    "engine.fatalError.experienced": "\n\n\nV BeamNG.drive došlo k fatální chybě. Kliknutím OK zavřete BeamNG a vytvoříte zprávu o chybě. Prosíme abyste nám zprávu o chybě poslali, abysme problém vyřešili.",
+    "engine.fatalError.experienced": "\n\n\nV BeamNG.drive došlo k fatální chybě. Kliknutím na OK se BeamNG zavře a vytvoří hlášení o chybě. Hlášení nám prosím zašlete, abychom tento problém mohli vyřešit.",
     "engine.fatalError.errMsg": "KRITICKÁ CHYBA: ",
     "ui.startscreen.warning": "Varování: Riziko fotocitlivosti",
-    "ui.fonts.filename": "segoeui.ttf"
+    "ui.fonts.filename": "segoeui.ttf",
+    "scenario.customExtensionLoadFailed": "Vlastní logika není spuštěná. Zkontrolujte žurnál, zda neobsahuje varování s {{extName}}"
 }
