@@ -1089,5 +1089,8 @@
     "ui.trackBuilder.matEditor.center": "Střed",
     "ui.trackBuilder.matEditor.base": "Základ",
     "ui.trackBuilder.borders.rightBorderShape": "Tvar pravého oraje",
-    "ui.trackBuilder.borders.leftBorderShape": "Tvar levého okraje"
+    "ui.trackBuilder.borders.leftBorderShape": "Tvar levého okraje",
+    "ui.trackBuilder.matEditor.deselectAll": "Zrušit výběr",
+    "ui.trackBuilder.matEditor.decalTextures": "Textury obtisků",
+    "ui.trackBuilder.matEditor.baseTextures": "Základní textury"
 }
