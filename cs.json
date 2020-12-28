@@ -1167,11 +1167,12 @@
     "ui.repository.subscribed": "Odebíráno: Dostáváte autmatické aktualizace",
     "ui.dashboard.trackBuilder": "Stavitel tratí",
     "ui.levelselect.chooseSpawnpoint": "Vyberte si výchozí umístění",
-    "ui.repository.repo_network_limit": "Vaše připojení je omezeno nebo měřeno. Berte to v povahu při stahování módů",
+    "ui.repository.repo_network_limit": "Vaše připojení je omezeno nebo měřeno. Berte to v potaz při stahování modifikací.",
     "ui.repository.scheduled_nothing": "Nejsou naplánované žádne aktualizace.",
     "ui.repository.loadingTimedOut": "Trvá to déle než obvykle. Pokud problém přetrvává, prosím kontaktujte naše ",
     "ui.repository.loading": "Načítání ...",
     "ui.repository.scheduled_no_conflict": "Žádný konflikt",
     "ui.repository.scheduled_conflicts": "Konflikty",
-    "ui.modmanager.openForumDiscussion": "Otevřít diskuzní vlákno"
+    "ui.modmanager.openForumDiscussion": "Otevřít diskuzní vlákno",
+    "ui.repository.scheduled_upd": "Aktualizovat modifikace"
 }
