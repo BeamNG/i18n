@@ -377,7 +377,7 @@
     "ui.dashboard.options": "Nastavení",
     "ui.dashboard.performance": "Výkon",
     "ui.dashboard.photomode": "Fotografický režim",
-    "ui.dashboard.play": "Hrát",
+    "ui.dashboard.play": "Pokračovat",
     "ui.dashboard.quit": "Ukončit hru",
     "ui.dashboard.scenarios": "Scénáře",
     "ui.dashboard.tutorial": "Tutoriál",
@@ -1123,5 +1123,14 @@
     "ui.dashboard.appedit": "Přizpůsobit aplikace uživatelského rozhraní",
     "ui.trackbuilder.menus.exitWindow": "Opustit okno",
     "ui.trackBuilder.toolbar.title": "Nástrojová lišta",
-    "ui.trackBuilder.settings.cameraFollowDistance": "Vzdálenost pronásledování"
+    "ui.trackBuilder.settings.cameraFollowDistance": "Vzdálenost pronásledování",
+    "ui.trackBuilder.settings.cameraFollow": "Automatické pronásledování kamery",
+    "ui.trackBuilder.saveLoad.difficulty": "Obtížnost",
+    "ui.trackBuilder.saveLoad.description": "Popis",
+    "ui.trackBuilder.saveLoad.search": "Vyhledat",
+    "ui.trackBuilder.saveLoad.loadTrack": "Načíst trať",
+    "ui.trackBuilder.saveLoad.saveOnThisMap": "Uložit na této mapě",
+    "ui.trackBuilder.saveLoad.saveTimeSettings": "Uložit nastavení času",
+    "ui.trackBuilder.saveLoad.overwrite": "Přepsat trať",
+    "ui.trackBuilder.saveLoad.trackWrittenTo": "Trať úspěšně uložena do "
 }
