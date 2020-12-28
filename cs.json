@@ -1037,6 +1037,8 @@
     "ui.fonts.filename": "segoeui.ttf",
     "scenario.customExtensionLoadFailed": "Vlastní logika není spuštěná. Zkontrolujte žurnál, zda neobsahuje varování s {{extName}}",
     "engine.fatalError.experienced2": "\n\n\nV BeamNG.drive došlo k závažné chybě.",
-    "ui.startscreen.warningdetails": "Tato hra může potenciálně vyvolat záchvaty u lidí s fotosenzitivní epilepsií. Doporučuje se rozhodnutí od hráče.",
-    "ui.trackBuilder.toolbar.paint": "Zbarvit materiál"
+    "ui.startscreen.warningdetails": "Tato hra může potenciálně vyvolat záchvaty u lidí s fotosenzitivní epilepsií. Doporučuje se vlastní uvážení hráče.",
+    "ui.trackBuilder.toolbar.paint": "Zbarvit materiál",
+    "ui.mainmenu.mods.desciptionUnavailable": "Popis není dostupný",
+    "ui.common.simpleVehicles": "Jednoduchá vozidla"
 }
