@@ -1165,5 +1165,6 @@
     "ui.levelselect.x86Disabled": "Pro hraní této mapy musí být hra spuštěna v 64-bitovém režimu. Ověřte si prosím systémové požadavky.",
     "ui.repository.no_mods_found": "Nenalezeny žádné výsledky",
     "ui.repository.subscribed": "Odebíráno: Dostáváte autmatické aktualizace",
-    "ui.dashboard.trackBuilder": "Stavitel tratí"
+    "ui.dashboard.trackBuilder": "Stavitel tratí",
+    "ui.levelselect.chooseSpawnpoint": "Vyberte si výchozí umístění"
 }
