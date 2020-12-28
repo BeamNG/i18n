@@ -1049,5 +1049,7 @@
     "ui.common.action.resume": "Pokračovat",
     "ui.common.action.stop": "Zastavit",
     "ui.common.action.load": "Načíst",
-    "ui.common.continue": "Pokračovat"
+    "ui.common.continue": "Pokračovat",
+    "ui.trackBuilder.base.testDrive": "Začít od zvoleného kousku",
+    "ui.trackBuilder.toolbar.merge": "Spojit segmenty"
 }
