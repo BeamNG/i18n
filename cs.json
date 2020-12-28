@@ -1166,5 +1166,6 @@
     "ui.repository.no_mods_found": "Nenalezeny žádné výsledky",
     "ui.repository.subscribed": "Odebíráno: Dostáváte autmatické aktualizace",
     "ui.dashboard.trackBuilder": "Stavitel tratí",
-    "ui.levelselect.chooseSpawnpoint": "Vyberte si výchozí umístění"
+    "ui.levelselect.chooseSpawnpoint": "Vyberte si výchozí umístění",
+    "ui.repository.repo_network_limit": "Vaše připojení je omezeno nebo měřeno. Berte to v povahu při stahování módů"
 }
