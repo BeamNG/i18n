@@ -1100,5 +1100,9 @@
     "ui.trackBuilder.base.banking": "Klopení",
     "ui.trackBuilder.tooltip.remove": "Odstranit",
     "ui.trackBuilder.trackSettings.alignTrackToCam": "Zarovnat dráhu s kamerou",
-    "ui.trackBuilder.trackSettings.reversible": "Obousměrný"
+    "ui.trackBuilder.trackSettings.reversible": "Obousměrný",
+    "ui.trackBuilder.trackSettings.positionTrackBeforeCam": "Umístit dráhu před kamerou",
+    "ui.trackBuilder.trackSettings.rotation": "Rotace",
+    "ui.trackBuilder.trackSettings.position": "Pozice",
+    "ui.trackBuilder.trackSettings.azimuth": "Azimut"
 }
