@@ -1108,5 +1108,7 @@
     "ui.trackBuilder.trackSettings.trackTransform": "Změna tratě",
     "ui.trackBuilder.trackSettings.raceSettings": "Nastavení závodu",
     "ui.trackBuilder.trackSettings.fog": "Mlha",
-    "ui.trackBuilder.trackSettings.time": "Čas"
+    "ui.trackBuilder.trackSettings.time": "Čas",
+    "ui.trackBuilder.trackSettings.defaultLaps": "Výchozí kola",
+    "ui.trackBuilder.trackSettings.environmentSettings": "Nastavení prostředí"
 }
