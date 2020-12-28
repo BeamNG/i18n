@@ -1117,5 +1117,6 @@
     "ui.trackBuilder.saveLoad.filename": "Název souboru",
     "ui.trackBuilder.saveLoad.createPreview": "Vytvořit náhled",
     "ui.trackBuilder.saveLoad.saveTrack": "Uložit trať",
-    "ui.trackBuilder.saveLoad.overwritePreview": "Přepsat náhled"
+    "ui.trackBuilder.saveLoad.overwritePreview": "Přepsat náhled",
+    "ui.trackBuilder.trackSettings.positionTrackAboveVehicle": "Umístit dráhu nad vozidlo"
 }
