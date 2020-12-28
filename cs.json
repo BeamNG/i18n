@@ -1033,7 +1033,7 @@
     "ui.fonts.mono": "Roboto Mono",
     "engine.fatalError.experienced": "\n\n\nV BeamNG.drive došlo k fatální chybě. Kliknutím na OK se BeamNG zavře a vytvoří hlášení o chybě. Hlášení nám prosím zašlete, abychom tento problém mohli vyřešit.",
     "engine.fatalError.errMsg": "KRITICKÁ CHYBA: ",
-    "ui.startscreen.warning": "Varování: Riziko fotocitlivosti",
+    "ui.startscreen.warning": "Varování: Riziko světloplachosti",
     "ui.fonts.filename": "segoeui.ttf",
     "scenario.customExtensionLoadFailed": "Vlastní logika není spuštěná. Zkontrolujte žurnál, zda neobsahuje varování s {{extName}}",
     "engine.fatalError.experienced2": "\n\n\nV BeamNG.drive došlo k závažné chybě.",
