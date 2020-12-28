@@ -1031,5 +1031,6 @@
     "ui.trackBuilder.selection.last": "Vyberte Poslední kus",
     "ui.trackBuilder.toolbar.select": "Vyberte segment",
     "ui.fonts.mono": "Roboto Mono",
-    "engine.fatalError.experienced": "\n\n\nV BeamNG.drive došlo k fatální chybě. Kliknutím OK zavřete BeamNG a vytvoříte zprávu o chybě. Prosíme abyste nám zprávu o chybě poslali, abysme problém vyřešili."
+    "engine.fatalError.experienced": "\n\n\nV BeamNG.drive došlo k fatální chybě. Kliknutím OK zavřete BeamNG a vytvoříte zprávu o chybě. Prosíme abyste nám zprávu o chybě poslali, abysme problém vyřešili.",
+    "engine.fatalError.errMsg": "KRITICKÁ CHYBA: "
 }
