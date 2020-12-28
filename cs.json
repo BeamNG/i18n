@@ -1104,5 +1104,9 @@
     "ui.trackBuilder.trackSettings.positionTrackBeforeCam": "Umístit dráhu před kamerou",
     "ui.trackBuilder.trackSettings.rotation": "Rotace",
     "ui.trackBuilder.trackSettings.position": "Pozice",
-    "ui.trackBuilder.trackSettings.azimuth": "Azimut"
+    "ui.trackBuilder.trackSettings.azimuth": "Azimut",
+    "ui.trackBuilder.trackSettings.trackTransform": "Změna tratě",
+    "ui.trackBuilder.trackSettings.raceSettings": "Nastavení závodu",
+    "ui.trackBuilder.trackSettings.fog": "Mlha",
+    "ui.trackBuilder.trackSettings.time": "Čas"
 }
