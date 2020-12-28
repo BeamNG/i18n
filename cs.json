@@ -1111,7 +1111,7 @@
     "ui.trackBuilder.trackSettings.time": "Čas",
     "ui.trackBuilder.trackSettings.defaultLaps": "Výchozí kola",
     "ui.trackBuilder.trackSettings.environmentSettings": "Nastavení prostředí",
-    "ui.trackBuilder.saveLoad.packToMod": "Zabalit do módu",
+    "ui.trackBuilder.saveLoad.packToMod": "Zabalit do Modifikace",
     "ui.trackBuilder.saveLoad.modSaved": "Trať a náhled úspěšně zabaleny do souboru s modifikací ",
     "ui.trackBuilder.saveLoad.save": "Uložit",
     "ui.trackBuilder.saveLoad.filename": "Název souboru",
@@ -1119,5 +1119,9 @@
     "ui.trackBuilder.saveLoad.saveTrack": "Uložit trať",
     "ui.trackBuilder.saveLoad.overwritePreview": "Přepsat náhled",
     "ui.trackBuilder.trackSettings.positionTrackAboveVehicle": "Umístit dráhu nad vozidlo",
-    "ui.trackBuilder.trackSettings.alignTrackToVehicle": "Zarovnat dráhu s vozidlem"
+    "ui.trackBuilder.trackSettings.alignTrackToVehicle": "Zarovnat dráhu s vozidlem",
+    "ui.dashboard.appedit": "Přizpůsobit aplikace uživatelského rozhraní",
+    "ui.trackbuilder.menus.exitWindow": "Opustit okno",
+    "ui.trackBuilder.toolbar.title": "Nástrojová lišta",
+    "ui.trackBuilder.settings.cameraFollowDistance": "Vzdálenost pronásledování"
 }
