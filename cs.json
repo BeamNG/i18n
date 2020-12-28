@@ -1033,5 +1033,6 @@
     "ui.fonts.mono": "Roboto Mono",
     "engine.fatalError.experienced": "\n\n\nV BeamNG.drive došlo k fatální chybě. Kliknutím OK zavřete BeamNG a vytvoříte zprávu o chybě. Prosíme abyste nám zprávu o chybě poslali, abysme problém vyřešili.",
     "engine.fatalError.errMsg": "KRITICKÁ CHYBA: ",
-    "ui.startscreen.warning": "Varování: Riziko fotocitlivosti"
+    "ui.startscreen.warning": "Varování: Riziko fotocitlivosti",
+    "ui.fonts.filename": "segoeui.ttf"
 }
