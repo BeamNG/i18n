@@ -766,7 +766,7 @@
     "engine.editor.menu.toggleCamModes": "Přepnout režimy pohledu",
     "engine.editor.menu.worldCamera": "Světový pohled",
     "engine.editor.menu.playerCamera": "Pohled hráče",
-    "engine.editor.menu.toggleCamera": "Přepnout pohled",
+    "engine.editor.menu.toggleCamera": "Přepnout na volnou kameru",
     "engine.editor.menu.placeCameraSelection": "Umístit kameru na výběr",
     "engine.editor.menu.placeCameraPlayer": "Umístit kameru na hráče",
     "engine.editor.menu.placePlayerCamera": "Umístit hráče na kameru",
