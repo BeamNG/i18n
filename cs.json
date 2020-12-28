@@ -1046,5 +1046,7 @@
     "ui.common.smartConfigs": "Smart (jakákoliv konfigurace)",
     "ui.common.smart": "Smart",
     "ui.common.action.start": "Start",
-    "ui.common.action.resume": "Pokračovat"
+    "ui.common.action.resume": "Pokračovat",
+    "ui.common.action.stop": "Zastavit",
+    "ui.common.action.load": "Načíst"
 }
