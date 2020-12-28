@@ -1050,7 +1050,7 @@
     "ui.common.action.stop": "Zastavit",
     "ui.common.action.load": "Načíst",
     "ui.common.continue": "Pokračovat",
-    "ui.trackBuilder.base.testDrive": "Začít od zvoleného kousku",
+    "ui.trackBuilder.base.testDrive": "Začít od vybraného dílu",
     "ui.trackBuilder.toolbar.merge": "Spojit segmenty",
     "ui.trackBuilder.base.closeTrack": "Zavřít dráhu",
     "ui.trackBuilder.base.delete": "Vymazat stávající část",
@@ -1093,5 +1093,9 @@
     "ui.trackBuilder.matEditor.deselectAll": "Zrušit výběr",
     "ui.trackBuilder.matEditor.decalTextures": "Textury obtisků",
     "ui.trackBuilder.matEditor.baseTextures": "Základní textury",
-    "ui.trackBuilder.matEditor.texture": "Textura"
+    "ui.trackBuilder.matEditor.texture": "Textura",
+    "ui.trackBuilder.advanced.splitPiece": "Rozdělit díl",
+    "ui.trackBuilder.tooltip.noon": "Poledne",
+    "ui.trackBuilder.tooltip.shiftForward": "Modifikátor posunu vpřed",
+    "ui.trackBuilder.base.banking": "Klopení"
 }
