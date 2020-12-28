@@ -1175,5 +1175,6 @@
     "ui.repository.scheduled_conflicts": "Konflikty",
     "ui.modmanager.openForumDiscussion": "Otevřít diskuzní vlákno",
     "ui.repository.scheduled_upd": "Aktualizovat modifikace",
-    "ui.repository.support": "podporu"
+    "ui.repository.support": "podporu",
+    "ui.repository.notOnline": "Nelze se připojit k serveru. Pokud problém přetrvává, podívejte se prosím "
 }
