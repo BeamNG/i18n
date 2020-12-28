@@ -41,7 +41,7 @@
     "engine.levelModified.title": "Úroveň upravena",
     "engine.msgboxErrorTitle": "Chyba",
     "engine.resourceMissing": "Nepodařilo se vytvořit zdroj (chybí soubor?): ",
-    "engine.welcome": "Vítejte v BeamNG.drive v českém jazyce :)",
+    "engine.welcome": "Vítej v BeamNG.drive v českém jazyce :)",
     "engine.windowedModeReq.msgEditor": "Pro přepnutí do celoobrazovkového režimu prosím ukončete Editor misí.",
     "engine.windowedModeReq.msgGUI": "Pro přepnutí do celoobrazovkového režimu prosím ukončete GUI Editor.",
     "engine.windowedModeReq.title": "Vyžadován režim v okně",
@@ -945,7 +945,7 @@
     "ui.vehicleconfig.licensePlate": "SPZ",
     "engine.editor.menu.orbitCamera": "Orbit Kamera",
     "engine.editor.menu.fitViewSelectionOrbit": "Přizpůsobit zobrazení výběru a Orbitě",
-    "ui.mainmenu.onlineFeatures.featureDescription": "Můžete povolit nebo zakázat všechny online funkce v BeamNG.drive. Ovlivní to:[br][list][*]Repositář[*]Odběry Modifikací[*]Úspěchy[*]Žebříčky[*]Funkce chatu[*]Funkce sdílení obsahu[*][/list]Povolením online funkcí souhlasíte s našimi [url = http: //wiki.beamng.com/Privacy_Policy]Zásadami ochrany osobních údajů[/url] a s našimi [url = http: //wiki.beamng.com/TOS]Smluvními podmínkami[/url].[br][br]Toto nastavení můžete kdykoli změnit v nabídce Možnosti > Hratelnost.",
+    "ui.mainmenu.onlineFeatures.featureDescription": "V BeamNG.drive máte možnost zapnout nebo vypnout veškeré online funkce. To bude mít dopad na:[br][list][*]Repozitář ve hře[*]Odběry modů[*]Úspěchy[*]Žebříčky[*]Funkce chatu[*]Funkce sdílení obsahu[/list]",
     "ui.vehicleconfig.subparts": "Podčásti",
     "ui.vehicleconfig.simpleTree": "Prostý Strom",
     "ui.apps.brake_torque_graph.name": "Graf brzdného momentu",
@@ -1132,5 +1132,12 @@
     "ui.trackBuilder.saveLoad.saveOnThisMap": "Uložit na této mapě",
     "ui.trackBuilder.saveLoad.saveTimeSettings": "Uložit nastavení času",
     "ui.trackBuilder.saveLoad.overwrite": "Přepsat trať",
-    "ui.trackBuilder.saveLoad.trackWrittenTo": "Trať úspěšně uložena do "
+    "ui.trackBuilder.saveLoad.trackWrittenTo": "Trať úspěšně uložena do ",
+    "ui.mainmenu.telemetry.featureDescription": "Za účelem identifikace oblastí dalšího vývoje hry a vylepšení herních zážitků bychom rádi shromažďovali data herních relací, jako například délku herních relací, odehrané scénáře a informace o tom, zda máte povolené určité funkce týkající se hratelnosti. Tato data jsou posílána na naše servery, na kterých jsou anonymizována a uložena takovým způsobem, který dále neumožňuje identifikaci jednotlivců. Tyto informace nebudou použity pro marketingové nebo reklamní účely. O vašich právech a údajích o shromažďovaných typech dat se můžete dozvědět více, když kliknete [url=https://beamng.com/PrivacyPolicy.pdf]zde[/url].",
+    "ui.mainmenu.telemetry.header": "Telemetrie",
+    "ui.mainmenu.telemetryOnlineHint": "Bez povolených online funkcí nemůže být telemetrie aktivní.",
+    "ui.mainmenu.privacyPolicyHint": "Pro zjištění podrobných informací o zpracování dat týkajícího se online funkcí a telemetrie si prosím přečtěte naše [url=https://beamng.com/PrivacyPolicy.pdf]Zásady ochrany osobních údajů[/url]",
+    "ui.mainmenu.onlineFeatures.header": "Online funkce",
+    "ui.mainmenu.onlineConsent": "Povolit online funkce",
+    "ui.mainmenu.telemetryConsent": "Souhlasím se shromažďováním dat z mých herních relací společností[br] BeamNG GmbH (přehled shromažďovaných typů dat získáte kliknutím [url=https://beamng.com/PrivacyPolicy.pdf]zde[/url])."
 }
