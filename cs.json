@@ -1053,5 +1053,7 @@
     "ui.trackBuilder.base.testDrive": "Začít od zvoleného kousku",
     "ui.trackBuilder.toolbar.merge": "Spojit segmenty",
     "ui.trackBuilder.base.closeTrack": "Zavřít dráhu",
-    "ui.trackBuilder.base.delete": "Vymazat stávající část"
+    "ui.trackBuilder.base.delete": "Vymazat stávající část",
+    "ui.trackBuilder.camera.focus": "Natočit kameru na označenou část",
+    "ui.trackBuilder.toolbar.changeShape": "Změnit tvar trati"
 }
