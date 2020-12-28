@@ -1172,5 +1172,6 @@
     "ui.repository.loadingTimedOut": "Trvá to déle než obvykle. Pokud problém přetrvává, prosím kontaktujte naše ",
     "ui.repository.loading": "Načítání ...",
     "ui.repository.scheduled_no_conflict": "Žádný konflikt",
-    "ui.repository.scheduled_conflicts": "Konflikty"
+    "ui.repository.scheduled_conflicts": "Konflikty",
+    "ui.modmanager.openForumDiscussion": "Otevřít diskuzní vlákno"
 }
