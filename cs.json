@@ -1073,5 +1073,13 @@
     "ui.trackBuilder.tooltip.modify": "Upravit",
     "ui.trackBuilder.base.height": "Výška",
     "ui.trackBuilder.base.width": "Šířka",
-    "ui.trackBuilder.base.length": "Délka"
+    "ui.trackBuilder.base.length": "Délka",
+    "ui.trackBuilder.wallsCeiling.rightWall": "Pravá stěna",
+    "ui.trackBuilder.wallsCeiling.leftWall": "Levá stěna",
+    "ui.trackBuilder.matEditor.drawRightWall": "Nakreslit pravou stěnu",
+    "ui.trackBuilder.matEditor.drawLeftWall": "Nakreslit levou stěnu",
+    "ui.trackBuilder.matEditor.selectAll": "Vybrat vše",
+    "ui.trackBuilder.modifier.inverted": "Obrácený",
+    "ui.trackBuilder.tooltip.shiftBack": "Modifikátor posunu zpět",
+    "ui.trackBuilder.base.radius": "Poloměr"
 }
