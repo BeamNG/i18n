@@ -1110,5 +1110,11 @@
     "ui.trackBuilder.trackSettings.fog": "Mlha",
     "ui.trackBuilder.trackSettings.time": "Čas",
     "ui.trackBuilder.trackSettings.defaultLaps": "Výchozí kola",
-    "ui.trackBuilder.trackSettings.environmentSettings": "Nastavení prostředí"
+    "ui.trackBuilder.trackSettings.environmentSettings": "Nastavení prostředí",
+    "ui.trackBuilder.saveLoad.packToMod": "Zabalit do módu",
+    "ui.trackBuilder.saveLoad.modSaved": "Trať a náhled úspěšně zabaleny do souboru s modifikací ",
+    "ui.trackBuilder.saveLoad.save": "Uložit",
+    "ui.trackBuilder.saveLoad.filename": "Název souboru",
+    "ui.trackBuilder.saveLoad.createPreview": "Vytvořit náhled",
+    "ui.trackBuilder.saveLoad.saveTrack": "Uložit trať"
 }
