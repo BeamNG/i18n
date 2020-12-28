@@ -1097,5 +1097,6 @@
     "ui.trackBuilder.advanced.splitPiece": "Rozdělit díl",
     "ui.trackBuilder.tooltip.noon": "Poledne",
     "ui.trackBuilder.tooltip.shiftForward": "Modifikátor posunu vpřed",
-    "ui.trackBuilder.base.banking": "Klopení"
+    "ui.trackBuilder.base.banking": "Klopení",
+    "ui.trackBuilder.tooltip.remove": "Odstranit"
 }
