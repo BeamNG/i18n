@@ -1139,5 +1139,7 @@
     "ui.mainmenu.privacyPolicyHint": "Pro zjištění podrobných informací o zpracování dat týkajícího se online funkcí a telemetrie si prosím přečtěte naše [url=https://beamng.com/PrivacyPolicy.pdf]Zásady ochrany osobních údajů[/url]",
     "ui.mainmenu.onlineFeatures.header": "Online funkce",
     "ui.mainmenu.onlineConsent": "Povolit online funkce",
-    "ui.mainmenu.telemetryConsent": "Souhlasím se shromažďováním dat z mých herních relací společností[br] BeamNG GmbH (přehled shromažďovaných typů dat získáte kliknutím [url=https://beamng.com/PrivacyPolicy.pdf]zde[/url])."
+    "ui.mainmenu.telemetryConsent": "Souhlasím se shromažďováním dat z mých herních relací společností[br] BeamNG GmbH (přehled shromažďovaných typů dat získáte kliknutím [url=https://beamng.com/PrivacyPolicy.pdf]zde[/url]).",
+    "ui.trackBuilder.saveLoad.previewCreated": "Náhled úspěšně vytvořen ",
+    "ui.trackBuilder.saveLoad.trackLoaded": "Načtená trať "
 }
