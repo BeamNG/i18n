@@ -372,7 +372,7 @@
     "ui.dashboard.garagePartselect": "Nový selektor dílů",
     "ui.dashboard.help": "Nápověda",
     "ui.dashboard.levels": "Úrovně",
-    "ui.dashboard.mainmenu": "Zpět do Hlavního menu",
+    "ui.dashboard.mainmenu": "Odejít do Hlavní nabídky",
     "ui.dashboard.mods": "Mody",
     "ui.dashboard.options": "Nastavení",
     "ui.dashboard.performance": "Výkon",
@@ -1156,5 +1156,11 @@
     "ui.repository.order_by": "Řadit podle",
     "ui.repository.scheduled_status": "Status",
     "ui.repository.updates": "Aktualizace",
-    "ui.repository.categories": "Kategorie"
+    "ui.repository.categories": "Kategorie",
+    "ui.repository.tagid": "ID Modifikace",
+    "ui.repository.cat_veh_props": "Rekvizity",
+    "ui.repository.order_descendant_short": "⬇",
+    "ui.repository.order_ascendant_short": "⬆",
+    "ui.repository.mods": "Správce Modifikací",
+    "ui.levelselect.x86Disabled": "Pro hraní této mapy musí být hra spuštěna v 64-bitovém režimu. Ověřte si prosím systémové požadavky."
 }
