@@ -1048,5 +1048,6 @@
     "ui.common.action.start": "Start",
     "ui.common.action.resume": "Pokračovat",
     "ui.common.action.stop": "Zastavit",
-    "ui.common.action.load": "Načíst"
+    "ui.common.action.load": "Načíst",
+    "ui.common.continue": "Pokračovat"
 }
