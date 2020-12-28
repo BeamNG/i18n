@@ -1040,5 +1040,11 @@
     "ui.startscreen.warningdetails": "Tato hra může potenciálně vyvolat záchvaty u lidí s fotosenzitivní epilepsií. Doporučuje se vlastní uvážení hráče.",
     "ui.trackBuilder.toolbar.paint": "Zbarvit materiál",
     "ui.mainmenu.mods.desciptionUnavailable": "Popis není dostupný",
-    "ui.common.simpleVehicles": "Jednoduchá vozidla"
+    "ui.common.simpleVehicles": "Jednoduchá vozidla",
+    "ui.common.randomConfigs": "Náhodný (jakákoliv konfigurace)",
+    "ui.common.random": "Náhodný",
+    "ui.common.smartConfigs": "Smart (jakákoliv konfigurace)",
+    "ui.common.smart": "Smart",
+    "ui.common.action.start": "Start",
+    "ui.common.action.resume": "Pokračovat"
 }
