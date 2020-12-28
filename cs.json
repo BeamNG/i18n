@@ -1056,7 +1056,7 @@
     "ui.trackBuilder.base.delete": "Vymazat stávající část",
     "ui.trackBuilder.camera.focus": "Natočit kameru na označenou část",
     "ui.trackBuilder.toolbar.changeShape": "Změnit tvar trati",
-    "ui.trackBuilder.checkpoints.info": "Pokud nepřidáte žádné kontrolní body, budou automaticky vytvořené při hraní této tratě v režimu časované zkoušky",
+    "ui.trackBuilder.checkpoints.info": "Pokud nepřidáte žádné kontrolní body, budou vytvořeny automaticky při hraní této tratě v režimu jízdy na čas.",
     "ui.trackBuilder.checkpoints.active": "Aktivní",
     "ui.trackBuilder.wallsCeiling.ceiling": "Strop",
     "ui.trackBuilder.wallsCeiling.height": "Výška",
@@ -1098,5 +1098,7 @@
     "ui.trackBuilder.tooltip.noon": "Poledne",
     "ui.trackBuilder.tooltip.shiftForward": "Modifikátor posunu vpřed",
     "ui.trackBuilder.base.banking": "Klopení",
-    "ui.trackBuilder.tooltip.remove": "Odstranit"
+    "ui.trackBuilder.tooltip.remove": "Odstranit",
+    "ui.trackBuilder.trackSettings.alignTrackToCam": "Zarovnat dráhu s kamerou",
+    "ui.trackBuilder.trackSettings.reversible": "Obousměrný"
 }
