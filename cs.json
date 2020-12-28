@@ -1177,7 +1177,14 @@
     "ui.repository.scheduled_upd": "Aktualizovat modifikace",
     "ui.repository.support": "podporu",
     "ui.repository.notOnline": "Nepodařilo se navázat spojení se serverem. Pokud problém přetrvává, podívejte se prosím ",
-    "ui.repository.modmgrnotready": "Správce modů ještě není připraven. Všechny akce jsou zařazovány do fronty, dokud nebudou moci být vykonány. Pokud to trvá příliš dlouho, kontaktujte prosím podporu.",
+    "ui.repository.modmgrnotready": "Správce modifikací ještě není připraven. Všechny akce jsou řazeny do fronty, dokud nebude možné je vykonat. Pokud to trvá příliš dlouho, kontaktujte prosím podporu.",
     "ui.repository.notOnline_here": "sem",
-    "ui.quickrace.selectTrack": "Vybrat Rozložení"
+    "ui.quickrace.selectTrack": "Vybrat Rozložení",
+    "ui.repository.modDownloaded": "Modifikace stažena",
+    "ui.repository.modUnpacked": "Rozbalená modifikace",
+    "ui.repository.modQueued": "Ve frontě",
+    "ui.repository.modDownloading": "Modifikace se stahuje",
+    "ui.repository.updateMod": "Modifikaci je nutné aktualizovat",
+    "ui.repository.unSubMod": "Odhlásit odběr modifikace",
+    "ui.repository.subToMod": "Přihlásit k odběru modifikace"
 }
