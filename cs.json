@@ -1174,5 +1174,6 @@
     "ui.repository.scheduled_no_conflict": "Žádný konflikt",
     "ui.repository.scheduled_conflicts": "Konflikty",
     "ui.modmanager.openForumDiscussion": "Otevřít diskuzní vlákno",
-    "ui.repository.scheduled_upd": "Aktualizovat modifikace"
+    "ui.repository.scheduled_upd": "Aktualizovat modifikace",
+    "ui.repository.support": "podporu"
 }
