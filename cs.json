@@ -1220,5 +1220,6 @@
     "ui.vehicleconfig.licensePlateGen": "Obnovit poznávací značku",
     "ui.environment.tireMarks.load": "Načíst",
     "ui.environment.tireMarks.save": "Uložit",
-    "ui.environment.tireMarks.reset": "Vyčistit"
+    "ui.environment.tireMarks.reset": "Vyčistit",
+    "ui.credits.soundtrack": "Soundtrack"
 }
