@@ -1246,7 +1246,7 @@
     "ui.apps.rpm_debug.name": "Debug otáček",
     "ui.apps.radial_menu.name": "Kruhové menu",
     "ui.apps.dashboard_indicators.name": "Kontrolky přístrojové desky",
-    "ui.apps.weight_distribution.name": "Distribuce váhy",
+    "ui.apps.weight_distribution.name": "Rozložení hmotnosti",
     "ui.apps.torquecurve.name": "Křivka točivého momentu",
     "ui.apps.tcs_debug_graph.name": "Debug graf TCS",
     "ui.apps.tcs_activity_graph.name": "Graf aktivity kontroly trakce (TCS)",
@@ -1282,5 +1282,6 @@
     "ui.apps.shift_point_debug.name": "Ladění bodů řazení",
     "ui.apps.shift_decision_debug.name": "Ladění logiky řazení",
     "ui.apps.advanced_wheels_debug.name": "Pokročilé ladění kol",
-    "ui.apps.powertrain_debug.name": "Vizualizace hnacího ústrojí"
+    "ui.apps.powertrain_debug.name": "Vizualizace hnacího ústrojí",
+    "ui.playmodes.quickrace": "Jízdy na čas"
 }
