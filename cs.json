@@ -1194,7 +1194,7 @@
     "ui.quickrace.quickraceTracks": "Výběr Konfigurace pro Jízdu na čas",
     "ui.busRoute.strictMode": "Vyžaduje stavění autobusu, snižování nástupní hrany a otevírání dveří.",
     "ui.busRoute.vehicle": "Vozidlo",
-    "ui.busRoute.simulatePassengers": "Simuluje váhu pasažérů pomocí zatížení.",
+    "ui.busRoute.simulatePassengers": "Simuluje hmotnost pasažérů prostřednictvím přidané zátěže.",
     "ui.modmanager.deleteAll": "Odstranit všechny mody z repozitáře",
     "ui.modmanager.openInRepo": "Otevřít v repozitáři",
     "ui.modmanager.install_on": "Nainstalované na",
