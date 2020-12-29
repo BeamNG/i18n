@@ -1348,5 +1348,10 @@
     "ui.options.camera.cameraDriverControls2": "[action=increase_zoom]/[action=decrease_zoom][br][br][action=rotate_camera_left]+[action=rotate_camera_right]",
     "ui.options.camera.cameraDriverControls": "Zvětšení/zmenšení zorného pole:[br][br]Pohled dozadu přes rameno:",
     "ui.options.camera.cameraDriverFovHint": "Úhel zorného pole kamery z kabiny vozidla na místě řidiče",
-    "ui.options.camera.cameraDriverFov": "Zorné pole"
+    "ui.options.camera.cameraDriverFov": "Zorné pole",
+    "ui.options.camera.cameraTVSpeed": "Rychlost posouvání TV kamery",
+    "ui.options.camera.cameraFanVsTV": "Externí režim",
+    "ui.options.camera.cameraDriverResetSeatAll": "Obnovit umístění posedu ve všech vozidlech",
+    "ui.options.camera.cameraDriverResetSeat": "Obnovit umístění posedu v aktuální sérii vozidel",
+    "ui.options.camera.cameraDriverSeatControls2": "[action=moveup]/[action=movedown][br][br][action=movebackward]/[action=moveforward][br][br][action=moveleft]/[action=moveright]"
 }
