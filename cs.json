@@ -1245,7 +1245,7 @@
     "ui.apps.chat_application.name": "Aplikace konverzace",
     "ui.apps.rpm_debug.name": "Debug otáček",
     "ui.apps.radial_menu.name": "Kruhové menu",
-    "ui.apps.dashboard_indicators.name": "Kontrolky na přístrojové desce",
+    "ui.apps.dashboard_indicators.name": "Kontrolky přístrojové desky",
     "ui.apps.weight_distribution.name": "Distribuce váhy",
     "ui.apps.torquecurve.name": "Křivka točivého momentu",
     "ui.apps.tcs_debug_graph.name": "Debug graf TCS",
@@ -1254,5 +1254,7 @@
     "ui.apps.trip_computer.name": "Palubní počítač",
     "ui.apps.tachometer.name": "Tachometr",
     "ui.apps.pedals_and_axis.name": "Pedály a osy",
-    "ui.apps.digital_tachometer.name": "Digitální tachometr"
+    "ui.apps.digital_tachometer.name": "Digitální tachometr",
+    "ui.apps.steering_position.name": "Poloha řízení",
+    "ui.apps.performance_timers.name": "Měření výkonu"
 }
