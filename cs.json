@@ -1196,5 +1196,7 @@
     "ui.busRoute.vehicle": "Vozidlo",
     "ui.busRoute.simulatePassengers": "Simuluje váhu pasažérů pomocí zatížení.",
     "ui.modmanager.deleteAll": "Odstranit všechny mody z repozitáře",
-    "ui.modmanager.openInRepo": "Otevřít v repozitáři"
+    "ui.modmanager.openInRepo": "Otevřít v repozitáři",
+    "ui.modmanager.install_on": "Nainstalované na",
+    "ui.busRoute.traffic": "Povolí provoz s umělou inteligencí."
 }
