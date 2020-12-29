@@ -1240,5 +1240,6 @@
     "ui.apps.racecountdown.name": "Odpočet závodu",
     "ui.apps.race_check_points.name": "Kontrolní body závodu",
     "ui.apps.json_dump.name": "Zápis do JSON",
-    "ui.apps.hotlapping.name": "Měřená kola"
+    "ui.apps.hotlapping.name": "Měřená kola",
+    "ui.apps.race_realtime_display.name": "Zobrazení reálného času závodu"
 }
