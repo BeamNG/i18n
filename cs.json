@@ -1288,9 +1288,10 @@
     "ui.apps.wind.name": "Vítr!",
     "ui.options.aids": "Pomocníci řízení",
     "ui.options.assistants": "Asistenty řízení",
-    "ui.options.gameplay.absBehavior.tooltip": "Realistické ABS simuluje skutečnou ABS technologii i s jejími záludnostmi. Arkádové ABS tyto problémy realistického chování obchází. Vyžaduje obnovení vozidla.",
+    "ui.options.gameplay.absBehavior.tooltip": "Realistické ABS simuluje skutečnou technologii ABS včetně jejích nedostatků. Arkádové ABS tyto reálné potíže obchází. Vyžaduje obnovení vozidla.",
     "ui.options.gameplay.absBehavior": "Režim ABS",
     "ui.options.vehicleBehavior": "Chování vozidla",
     "ui.options.gameplay.autoClutch": "Asistent spojky (manuální převodovky)",
-    "ui.options.gameplay.defaultGearboxBehavior": "Výchozí chování převodovky"
+    "ui.options.gameplay.defaultGearboxBehavior": "Výchozí chování převodovky",
+    "ui.options.gameplay.escBehavior": "Kontrola stability"
 }
