@@ -1256,5 +1256,6 @@
     "ui.apps.pedals_and_axis.name": "Pedály a osy",
     "ui.apps.digital_tachometer.name": "Digitální tachometr",
     "ui.apps.steering_position.name": "Poloha řízení",
-    "ui.apps.performance_timers.name": "Měření výkonu"
+    "ui.apps.performance_timers.name": "Měření výkonu",
+    "ui.apps.bus_route_stats.name": "Statistiky autobusové linky"
 }
