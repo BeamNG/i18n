@@ -1202,6 +1202,6 @@
     "ui.modmanager.show": "Zobrazit",
     "ui.modmanager.local": "Lokální",
     "ui.busRoute.stopCount": "Počet zastávek",
-    "ui.modmanager.deleteAllDesc": "Jste si jisti, že chcete zrušit odběr a odstranit všechny mody z repozitáře?",
+    "ui.modmanager.deleteAllDesc": "Jsi si jistý, že chceš zrušit odběr a odstranit všechny modifikace z repozitáře?",
     "ui.modmanager.updateAll": "Aktualizovat všechny mody"
 }
