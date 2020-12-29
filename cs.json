@@ -1293,5 +1293,6 @@
     "ui.options.vehicleBehavior": "Chování vozidla",
     "ui.options.gameplay.autoClutch": "Asistent spojky (manuální převodovky)",
     "ui.options.gameplay.defaultGearboxBehavior": "Výchozí chování převodovky",
-    "ui.options.gameplay.escBehavior": "Kontrola stability"
+    "ui.options.gameplay.escBehavior": "Kontrola stability",
+    "ui.options.gameplay.autoClutch.tooltip": "Je‑li tato možnost povolena, v realistickém režimu bude spojka obsluhována automaticky. Plynule rozpohybuje vozidla, zabrání zastavení motoru a postará se o to, aby se při přeřazování nezničily převody."
 }
