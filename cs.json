@@ -1204,7 +1204,7 @@
     "ui.busRoute.stopCount": "Počet zastávek",
     "ui.modmanager.deleteAllDesc": "Jsi si jistý, že chceš zrušit odběr a odstranit všechny modifikace z repozitáře?",
     "ui.modmanager.updateAll": "Aktualizovat všechny modifikace",
-    "ui.modmanager.removeAndUnsub": "Odstranit a zrušit odběr modu",
+    "ui.modmanager.removeAndUnsub": "Odstranit a zrušit odběr modifikace",
     "ui.modmanager.activateTip": "Aktivovat tento mod",
     "ui.modmanager.unordered": "Nezařazené",
     "ui.modmanager.installed": "Nainstalované",
