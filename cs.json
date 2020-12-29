@@ -946,7 +946,7 @@
     "engine.editor.menu.orbitCamera": "Orbit Kamera",
     "engine.editor.menu.fitViewSelectionOrbit": "Přizpůsobit zobrazení výběru a Orbitě",
     "ui.mainmenu.onlineFeatures.featureDescription": "V BeamNG.drive máte možnost zapnout nebo vypnout veškeré online funkce. To bude mít dopad na:[br][list][*]Repozitář ve hře[*]Odběry modů[*]Úspěchy[*]Žebříčky[*]Funkce chatu[*]Funkce sdílení obsahu[/list]",
-    "ui.vehicleconfig.subparts": "Podčásti",
+    "ui.vehicleconfig.subparts": "Zvýraznit  Podčásti",
     "ui.vehicleconfig.simpleTree": "Prostý Strom",
     "ui.apps.brake_torque_graph.name": "Graf brzdného momentu",
     "ui.apps.dialog.name": "Dialog",
@@ -1217,7 +1217,7 @@
     "ui.modmanager.updateAllMissing": "Stáhnout všechny",
     "ui.vehicleconfig.updateLicensePlate": "Použít registrační značku",
     "ui.environment.tireMarks": "Stopy pneumatik",
-    "ui.vehicleconfig.licensePlateGen": "Obnovit poznávací značku",
+    "ui.vehicleconfig.licensePlateGen": "Obnovit registrační značku",
     "ui.environment.tireMarks.load": "Načíst",
     "ui.environment.tireMarks.save": "Uložit",
     "ui.environment.tireMarks.reset": "Vyčistit",
@@ -1227,5 +1227,6 @@
     "ui.apps.clutch_thermal_debug.name": "Debug teploty spojky",
     "ui.apps.demo_help.name": "Pomoc s demo verzí",
     "ui.appselect.noCockpit": "Zkrýt v kokpitu",
-    "ui.replay.stop": "Zastavit"
+    "ui.replay.stop": "Zastavit",
+    "ui.replay.openReplayFolderInExplorer": "Otevřít složku Záznamů"
 }
