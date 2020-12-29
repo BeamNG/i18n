@@ -1242,7 +1242,7 @@
     "ui.apps.json_dump.name": "Zápis do JSON",
     "ui.apps.hotlapping.name": "Měřená kola",
     "ui.apps.race_realtime_display.name": "Zobrazení reálného času závodu",
-    "ui.apps.chat_application.name": "Chat aplikace",
+    "ui.apps.chat_application.name": "Aplikace konverzace",
     "ui.apps.rpm_debug.name": "Debug otáček",
     "ui.apps.radial_menu.name": "Kruhové menu",
     "ui.apps.dashboard_indicators.name": "Kontrolky na přístrojové desce"
