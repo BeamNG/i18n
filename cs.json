@@ -1222,7 +1222,7 @@
     "ui.environment.tireMarks.save": "Uložit",
     "ui.environment.tireMarks.reset": "Vyčistit",
     "ui.credits.soundtrack": "Soundtrack",
-    "ui.apps.generic_profiling_graph.name": "Základní profilovací graf",
+    "ui.apps.generic_profiling_graph.name": "Obecný profilovací graf",
     "ui.apps.ffb_visualizer.name": "Vizualizér FFB",
     "ui.apps.clutch_thermal_debug.name": "Debug teploty spojky",
     "ui.apps.demo_help.name": "Pomoc s demo verzí",
@@ -1235,5 +1235,10 @@
     "ui.apps.node_beam_info.name": "Node/Beam Info",
     "ui.apps.special_vehicle_keys.name": "Speaciální klávesy pro vozidla",
     "ui.apps.gearbox_debug.name": "Debug převodovky",
-    "ui.apps.clock_debug.name": "Debug hodin"
+    "ui.apps.clock_debug.name": "Debug hodin",
+    "ui.apps.race_time.name": "Čas závodu",
+    "ui.apps.racecountdown.name": "Odpočet závodu",
+    "ui.apps.race_check_points.name": "Kontrolní body závodu",
+    "ui.apps.json_dump.name": "Zápis do JSON",
+    "ui.apps.hotlapping.name": "Měřená kola"
 }
