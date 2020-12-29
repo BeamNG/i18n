@@ -1229,5 +1229,11 @@
     "ui.appselect.noCockpit": "Zkrýt v kokpitu",
     "ui.replay.stop": "Zastavit",
     "ui.replay.openReplayFolderInExplorer": "Otevřít složku Záznamů",
-    "ui.vehicleconfig.stickySelection": "Lepkavý Výběr"
+    "ui.vehicleconfig.stickySelection": "Lepkavý Výběr",
+    "ui.apps.race_time_comparison.name": "Porovnaní časů",
+    "ui.apps.odometer.name": "Počítadlo ujeté vzdálenosti",
+    "ui.apps.node_beam_info.name": "Node/Beam Info",
+    "ui.apps.special_vehicle_keys.name": "Speaciální klávesy pro vozidla",
+    "ui.apps.gearbox_debug.name": "Debug převodovky",
+    "ui.apps.clock_debug.name": "Debug hodin"
 }
