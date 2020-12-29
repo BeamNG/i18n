@@ -1320,5 +1320,16 @@
     "ui.options.gameplay.removeCurrentVehicle": "Odstranit aktuální",
     "ui.options.gameplay.cloneCurrentVehicle": "Klonovat aktuální",
     "ui.options.gameplay.loadDefaultVehicle": "Načíst výchozí",
-    "ui.options.gameplay.noSteer.tooltip": "Tato možnost je užitečná pro uživatele herních volantů, kteří chtějí vidět jenom jeden volant. Vyžaduje obnovení vozidla."
+    "ui.options.gameplay.noSteer.tooltip": "Tato možnost je užitečná pro uživatele herních volantů, kteří chtějí vidět jenom jeden volant. Vyžaduje obnovení vozidla.",
+    "ui.options.camera.cameraChaseRollSmoothing": "Následovat rotaci vozidla",
+    "ui.options.camera.cameraOrbitMaxDynamicFovHint": "Ve vyšších rychlostech budou použity větší úhly zorného pole",
+    "ui.options.camera.cameraOrbitMaxDynamicFov": "Zorné pole v rychlosti",
+    "ui.options.camera.cameraOrbitFovModifierHint": "Dodatečný úhel zorného pole použitý za všech okolností",
+    "ui.options.camera.cameraOrbitFovModifier": "Modifikátor zorného pole",
+    "ui.options.camera.cameraOrbitRelaxationHint": "Nižší hodnoty = pevnější fixování kamery na vozidlo",
+    "ui.options.camera.cameraOrbitRelaxation": "Následovat směřování vozidla",
+    "ui.options.camera.cameraCollisionTooltip": "Povoluje nebo zakazuje kolize kamery se zemí a objekty",
+    "ui.options.camera.cameraCollision": "Kolize",
+    "ui.options.camera.current": "Aktuální kamera",
+    "ui.options.camera.switchHint": "Přepnete kliknutím"
 }
