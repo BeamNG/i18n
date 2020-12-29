@@ -1210,7 +1210,7 @@
     "ui.modmanager.installed": "Nainstalované",
     "ui.modmanager.downloaded": "Stažené",
     "ui.modmanager.downloading": "Stahování",
-    "ui.modmanager.missing_tooltip": "Mody které odebíráte, ale nenacházející se na tomto počítači",
+    "ui.modmanager.missing_tooltip": "Mody, které odebíráte, ale nenacházející se na tomto počítači",
     "ui.modmanager.deactivateTip": "Deaktivovat tento mod",
     "ui.modmanager.missing": "Chybějící odběr",
     "ui.modmanager.addDownload": "Přidat do listu stahování",
