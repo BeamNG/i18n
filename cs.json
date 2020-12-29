@@ -567,7 +567,7 @@
     "ui.options.gameplay.enginesPreheated": "Startovat se zahřátým motorem",
     "ui.options.gameplay.gameplay": "Hratelnost",
     "ui.options.gameplay.multiseat": "Povolit hru více hráčů pro toto sezení",
-    "ui.options.gameplay.noSteer": "Odstranit volant",
+    "ui.options.gameplay.noSteer": "Skrýt volant",
     "ui.options.gameplay.raceBrakesPreheated": "Startovat se zahřátými závodními brzdami",
     "ui.options.graphics": "Grafika",
     "ui.options.graphics.GraphicAnisotropic": "Anizotropní filtrování",
@@ -1300,5 +1300,7 @@
     "ui.options.gameplay.gearboxSafety.tooltip": "Je‑li tato možnost povolena, převodovky zabrání přeřazení, která by mohla napáchat škodu. Pro lepší zážitek z jízdy bude navíc předcházet některým změnám režimu. (Například přeřazení z režimu M nebude povoleno, dokud nezpomalíte na určitou rychlost.)",
     "ui.options.gameplay.gearboxSafety": "Asistent ochrany převodovky",
     "ui.options.gameplay.switchHint": "Pro přesednutí do jiného vozidla použijte přiřazenou klávesu [action=switch_next_vehicle_multiseat]'Přesednout do dalšího vozidla (pro více hráčů)‘",
-    "ui.options.gameplay.multiseatTags": "Zobrazit jmenovky nad hráči ve hře pro více hráčů"
+    "ui.options.gameplay.multiseatTags": "Zobrazit jmenovky nad hráči ve hře pro více hráčů",
+    "ui.options.gameplay.raceBrakesPreheated.tooltip": "Je‑li tato možnost povolena, závodní brzdy budou předehřáty na provozní teplotu.",
+    "ui.options.gameplay.enginesPreheated.tooltip": "Je‑li tato možnost zakázána, simulace termiky motoru započne na úrovni teploty okolního prostředí."
 }
