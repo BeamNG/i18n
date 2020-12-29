@@ -1343,5 +1343,10 @@
     "ui.options.camera.couplerCameraModifier": "Přizpůsobit úhel při spojování elementů (například přívěsů)",
     "ui.options.camera.cameraDriverAutocenterHint": "Pohled se po uvolnění tlačítka/páčky/myši automaticky vycentruje",
     "ui.options.camera.cameraDriverAutocenter": "Automaticky vystředit pohled po uvolnění",
-    "ui.options.camera.cameraDriverAllowSeatAdjustmentsHint": "Umožňuje vyladit umístění posedu pomocí přiřazených kláves"
+    "ui.options.camera.cameraDriverAllowSeatAdjustmentsHint": "Umožňuje vyladit umístění posedu pomocí přiřazených kláves",
+    "ui.options.camera.cameraDriverSeatControls": "Posunout posed nahoru/dolů:[br][br]Posunout posed vzad/vpřed:[br][br]Naklonit posed nahoru/dolů:",
+    "ui.options.camera.cameraDriverControls2": "[action=increase_zoom]/[action=decrease_zoom][br][br][action=rotate_camera_left]+[action=rotate_camera_right]",
+    "ui.options.camera.cameraDriverControls": "Zvětšení/zmenšení zorného pole:[br][br]Pohled dozadu přes rameno:",
+    "ui.options.camera.cameraDriverFovHint": "Úhel zorného pole kamery z kabiny vozidla na místě řidiče",
+    "ui.options.camera.cameraDriverFov": "Zorné pole"
 }
