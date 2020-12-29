@@ -1333,7 +1333,7 @@
     "ui.options.camera.current": "Aktuální kamera",
     "ui.options.camera.switchHint": "Přepnete kliknutím",
     "ui.options.camera.resetConfiguration": "Obnovit pořadí",
-    "ui.options.camera.cameraChaseRollSmoothingHint": "0 = minimální následování rotace, 100 = zcela následovat rotaci vozidla",
+    "ui.options.camera.cameraChaseRollSmoothingHint": "0 = minimální náklon, 100 = zcela následovat boční náklon vozidla",
     "ui.options.camera.cameraDriverStableHorizonHint": "Vztáhne rotaci kamery namísto vozidla vůči horizontu. Může snížit pocit nepohodlí při hraní na velkých širokoúhlých obrazovkách",
     "ui.options.camera.cameraDriverStableHorizon": "Zafixovat vůči horizontu",
     "ui.options.camera.cameraDriverPhysicsHint": "Umožňuje mírné pohyby kamery reagující podle fyzikální setrvačnosti",
