@@ -1205,7 +1205,7 @@
     "ui.modmanager.deleteAllDesc": "Jsi si jistý, že chceš zrušit odběr a odstranit všechny modifikace z repozitáře?",
     "ui.modmanager.updateAll": "Aktualizovat všechny modifikace",
     "ui.modmanager.removeAndUnsub": "Odstranit a zrušit odběr modifikace",
-    "ui.modmanager.activateTip": "Aktivovat tento mod",
+    "ui.modmanager.activateTip": "Aktivovat tuto modifikaci",
     "ui.modmanager.unordered": "Nezařazené",
     "ui.modmanager.installed": "Nainstalované",
     "ui.modmanager.downloaded": "Stažené",
