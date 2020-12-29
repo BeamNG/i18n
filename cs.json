@@ -1216,5 +1216,9 @@
     "ui.modmanager.addDownload": "Přidat do seznamu stahování",
     "ui.modmanager.updateAllMissing": "Stáhnout všechny",
     "ui.vehicleconfig.updateLicensePlate": "Použít registrační značku",
-    "ui.environment.tireMarks": "Stopy pneumatik"
+    "ui.environment.tireMarks": "Stopy pneumatik",
+    "ui.vehicleconfig.licensePlateGen": "Obnovit poznávací značku",
+    "ui.environment.tireMarks.load": "Načíst",
+    "ui.environment.tireMarks.save": "Uložit",
+    "ui.environment.tireMarks.reset": "Vyčistit"
 }
