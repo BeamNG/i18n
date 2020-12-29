@@ -1349,7 +1349,7 @@
     "ui.options.camera.cameraDriverControls": "Zvětšení/zmenšení zorného pole:[br][br]Pohled dozadu přes rameno:",
     "ui.options.camera.cameraDriverFovHint": "Úhel zorného pole kamery z kabiny vozidla na místě řidiče",
     "ui.options.camera.cameraDriverFov": "Zorné pole",
-    "ui.options.camera.cameraTVSpeed": "Rychlost posouvání TV kamery",
+    "ui.options.camera.cameraTVSpeed": "Rychlost panorámování TV kamery",
     "ui.options.camera.cameraFanVsTV": "Externí režim",
     "ui.options.camera.cameraDriverResetSeatAll": "Obnovit umístění posedu ve všech vozidlech",
     "ui.options.camera.cameraDriverResetSeat": "Obnovit umístění posedu v aktuální sérii vozidel",
