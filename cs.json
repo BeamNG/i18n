@@ -1299,6 +1299,6 @@
     "ui.options.gameplay.autoThrottle": "Asistent plynu (manuální převodovka)",
     "ui.options.gameplay.gearboxSafety.tooltip": "Je‑li tato možnost povolena, převodovky zabrání přeřazení, která by mohla napáchat škodu. Pro lepší zážitek z jízdy bude navíc předcházet některým změnám režimu. (Například přeřazení z režimu M nebude povoleno, dokud nezpomalíte na určitou rychlost.)",
     "ui.options.gameplay.gearboxSafety": "Asistent ochrany převodovky",
-    "ui.options.gameplay.switchHint": "Pro přesednutí do jiného vozidla použijte přiřazení kláves [action=switch_next_vehicle_multiseat] ‚Přesednout do dalšího vozidla (pro více hráčů)‘",
+    "ui.options.gameplay.switchHint": "Pro přesednutí do jiného vozidla použijte přiřazenou klávesu [action=switch_next_vehicle_multiseat]'Přesednout do dalšího vozidla (pro více hráčů)‘",
     "ui.options.gameplay.multiseatTags": "Zobrazit jmenovky nad hráči ve hře pro více hráčů"
 }
