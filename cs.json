@@ -1221,5 +1221,11 @@
     "ui.environment.tireMarks.load": "Načíst",
     "ui.environment.tireMarks.save": "Uložit",
     "ui.environment.tireMarks.reset": "Vyčistit",
-    "ui.credits.soundtrack": "Soundtrack"
+    "ui.credits.soundtrack": "Soundtrack",
+    "ui.apps.generic_profiling_graph.name": "Základní profilovací graf",
+    "ui.apps.ffb_visualizer.name": "Vizualizér FFB",
+    "ui.apps.clutch_thermal_debug.name": "Debug teploty spojky",
+    "ui.apps.demo_help.name": "Pomoc s demo verzí",
+    "ui.appselect.noCockpit": "Zkrýt v kokpitu",
+    "ui.replay.stop": "Zastavit"
 }
