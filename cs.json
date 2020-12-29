@@ -1332,5 +1332,6 @@
     "ui.options.camera.cameraCollision": "Kolize",
     "ui.options.camera.current": "Aktuální kamera",
     "ui.options.camera.switchHint": "Přepnete kliknutím",
-    "ui.options.camera.resetConfiguration": "Obnovit pořadí"
+    "ui.options.camera.resetConfiguration": "Obnovit pořadí",
+    "ui.options.camera.cameraChaseRollSmoothingHint": "0 = minimální následování rotace, 100 = zcela následovat rotaci vozidla"
 }
