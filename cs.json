@@ -1186,5 +1186,8 @@
     "ui.repository.modDownloading": "Modifikace se stahuje",
     "ui.repository.updateMod": "Modifikaci je nutné aktualizovat",
     "ui.repository.unSubMod": "Odhlásit odběr modifikace",
-    "ui.repository.subToMod": "Přihlásit k odběru modifikace"
+    "ui.repository.subToMod": "Přihlásit k odběru modifikace",
+    "ui.busRoute.routeSelect": "Vybrat trasu",
+    "ui.busRoute.levelSelect": "Vybrat úroveň",
+    "ui.quickrace.tracks.length": "Délka"
 }
