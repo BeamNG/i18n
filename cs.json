@@ -1228,5 +1228,6 @@
     "ui.apps.demo_help.name": "Pomoc s demo verzí",
     "ui.appselect.noCockpit": "Zkrýt v kokpitu",
     "ui.replay.stop": "Zastavit",
-    "ui.replay.openReplayFolderInExplorer": "Otevřít složku Záznamů"
+    "ui.replay.openReplayFolderInExplorer": "Otevřít složku Záznamů",
+    "ui.vehicleconfig.stickySelection": "Lepkavý Výběr"
 }
