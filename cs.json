@@ -1286,7 +1286,7 @@
     "ui.playmodes.quickrace": "Jízdy na čas",
     "ui.apps.time.name": "Čas",
     "ui.apps.wind.name": "Vítr!",
-    "ui.options.aids": "Pomůcky řízení",
+    "ui.options.aids": "Pomocníci řízení",
     "ui.options.assistants": "Asistenty řízení",
     "ui.options.gameplay.absBehavior.tooltip": "Realistické ABS simuluje skutečnou ABS technologii i s jejími záludnostmi. Arkádové ABS tyto problémy realistického chování obchází. Vyžaduje obnovení vozidla.",
     "ui.options.gameplay.absBehavior": "Režim ABS",
