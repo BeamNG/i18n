@@ -1354,7 +1354,7 @@
     "ui.options.camera.cameraDriverResetSeatAll": "Obnovit umístění posedu ve všech vozidlech",
     "ui.options.camera.cameraDriverResetSeat": "Obnovit umístění posedu v aktuální sérii vozidel",
     "ui.options.camera.cameraDriverSeatControls2": "[action=moveup]/[action=movedown][br][br][action=movebackward]/[action=moveforward][br][br][action=moveleft]/[action=moveright]",
-    "ui.options.camera.cameraTVSpeedTooltip": "Nevyužívá jednu fixní rychlost, spíše se chová jako modifikátor dynamicky zvolené rychlosti",
+    "ui.options.camera.cameraTVSpeedTooltip": "Nevynucuje jednu fixní rychlost, spíše se chová jako modifikátor dynamicky zvolené rychlosti",
     "ui.options.traffic.trafficSetup.tooltip": "Nastavuje, jaká vozidla se budou objevovat mezi automobilovou dopravou (chytrý režim používá vozidla typická pro danou zemi častěji)",
     "ui.options.traffic.trafficSetup": "Výběr vozidel automobilové dopravy",
     "ui.options.traffic.amount.tooltip": "Nastavuje maximální přípustný počet vozidel na mapě (vyšší počty vyžadují více procesorového výkonu)",
@@ -1370,5 +1370,7 @@
     "ui.options.utilities.highPerformancePlan": "Vynutit režim vysokého výkonu",
     "ui.options.utilities.outgaugeSupport": "Podpora OutGauge",
     "ui.options.camera.cameraExternalControls2": "[action=center_camera][br][br][action=increase_zoom]/[action=decrease_zoom]",
-    "ui.options.camera.cameraExternalControls": "Změna úhlu TV kamery: [br][br]Přiblížení/oddálení: "
+    "ui.options.camera.cameraExternalControls": "Změna úhlu TV kamery: [br][br]Přiblížení/oddálení: ",
+    "ui.options.motionSim.accelerationSmoothing": "Vyhlazování zrychlení:",
+    "ui.options.motionSim.updateRate": "Interval obnovení"
 }
