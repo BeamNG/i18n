@@ -1321,7 +1321,7 @@
     "ui.options.gameplay.cloneCurrentVehicle": "Klonovat aktuální",
     "ui.options.gameplay.loadDefaultVehicle": "Načíst výchozí",
     "ui.options.gameplay.noSteer.tooltip": "Tato možnost je užitečná pro uživatele herních volantů, kteří chtějí vidět jenom jeden volant. Vyžaduje obnovení vozidla.",
-    "ui.options.camera.cameraChaseRollSmoothing": "Následovat rotaci vozidla",
+    "ui.options.camera.cameraChaseRollSmoothing": "Následovat boční náklon vozidla",
     "ui.options.camera.cameraOrbitMaxDynamicFovHint": "Ve vyšších rychlostech budou použity větší úhly zorného pole",
     "ui.options.camera.cameraOrbitMaxDynamicFov": "Zorné pole v rychlosti",
     "ui.options.camera.cameraOrbitFovModifierHint": "Dodatečný úhel zorného pole použitý za všech okolností",
