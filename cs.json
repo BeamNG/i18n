@@ -897,7 +897,7 @@
     "ui.quickrace.selectLevel": "Vybrat mapu",
     "ui.quickrace.selectVehicle": "Vybrat vůz",
     "ui.quickrace.play": "Hrát",
-    "ui.quickrace.quickraceLevels": "Výběr mapy pro časovku",
+    "ui.quickrace.quickraceLevels": "Výběr Mapy pro Jízdu na čas",
     "ui.quickrace.tracks.reversible": "Možnost opačného směru",
     "ui.quickrace.tracks.allowRollingStart": "Dovoluje letmý start",
     "ui.quickrace.tracks.laps": "Kola",
@@ -1179,7 +1179,7 @@
     "ui.repository.notOnline": "Nepodařilo se navázat spojení se serverem. Pokud problém přetrvává, podívejte se prosím ",
     "ui.repository.modmgrnotready": "Správce modifikací ještě není připraven. Všechny akce jsou řazeny do fronty, dokud nebude možné je vykonat. Pokud to trvá příliš dlouho, kontaktujte prosím podporu.",
     "ui.repository.notOnline_here": "sem",
-    "ui.quickrace.selectTrack": "Vybrat Rozložení",
+    "ui.quickrace.selectTrack": "Vybrat Konfiguraci",
     "ui.repository.modDownloaded": "Modifikace stažena",
     "ui.repository.modUnpacked": "Rozbalená modifikace",
     "ui.repository.modQueued": "Ve frontě",
@@ -1189,5 +1189,7 @@
     "ui.repository.subToMod": "Přihlásit k odběru modifikace",
     "ui.busRoute.routeSelect": "Vybrat trasu",
     "ui.busRoute.levelSelect": "Vybrat úroveň",
-    "ui.quickrace.tracks.length": "Délka"
+    "ui.quickrace.tracks.length": "Délka",
+    "ui.quickrace.tracks.proceduralInfo": "Stejné semínko na stejné konfiguraci znamená stejnou trať.",
+    "ui.quickrace.quickraceTracks": "Výběr Konfigurace pro Jízdu na čas"
 }
