@@ -1213,5 +1213,6 @@
     "ui.modmanager.missing_tooltip": "Mody které odebíráte, ale nenacházející se na tomto počítači",
     "ui.modmanager.deactivateTip": "Deaktivovat tento mod",
     "ui.modmanager.missing": "Chybějící odběr",
-    "ui.modmanager.addDownload": "Přidat do listu stahování"
+    "ui.modmanager.addDownload": "Přidat do listu stahování",
+    "ui.modmanager.updateAllMissing": "Stáhnout všechny"
 }
