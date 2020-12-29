@@ -1294,5 +1294,7 @@
     "ui.options.gameplay.autoClutch": "Asistent spojky (manuální převodovka)",
     "ui.options.gameplay.defaultGearboxBehavior": "Výchozí chování převodovky",
     "ui.options.gameplay.escBehavior": "Kontrola stability",
-    "ui.options.gameplay.autoClutch.tooltip": "Je‑li tato možnost povolena, v realistickém režimu bude spojka obsluhována automaticky. Plynule rozpohybuje vozidla, zabrání zastavení motoru a postará se o to, aby se při přeřazování nezničily převody."
+    "ui.options.gameplay.autoClutch.tooltip": "Je‑li tato možnost povolena, v realistickém režimu bude spojka obsluhována automaticky. Plynule rozpohybuje vozidla, zabrání zastavení motoru a postará se o to, aby se při přeřazování nezničily převody.",
+    "ui.options.gameplay.autoThrottle.tooltip": "Je‑li tato možnost povolena, vozidla s manuální převodovkou uvolní plynový pedál při přeřazování nahoru, a pokud je potřeba, použijí meziplyn.",
+    "ui.options.gameplay.autoThrottle": "Asistent plynu (manuální převodovka)"
 }
