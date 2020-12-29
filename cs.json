@@ -1208,5 +1208,6 @@
     "ui.modmanager.activateTip": "Aktivovat tento mod",
     "ui.modmanager.unordered": "Nezařazené",
     "ui.modmanager.installed": "Nainstalované",
-    "ui.modmanager.downloaded": "Stažené"
+    "ui.modmanager.downloaded": "Stažené",
+    "ui.modmanager.downloading": "Stahování"
 }
