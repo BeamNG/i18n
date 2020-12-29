@@ -1291,7 +1291,7 @@
     "ui.options.gameplay.absBehavior.tooltip": "Realistické ABS simuluje skutečnou technologii ABS včetně jejích nedostatků. Arkádové ABS tyto reálné potíže obchází. Vyžaduje obnovení vozidla.",
     "ui.options.gameplay.absBehavior": "Režim ABS",
     "ui.options.vehicleBehavior": "Chování vozidla",
-    "ui.options.gameplay.autoClutch": "Asistent spojky (manuální převodovky)",
+    "ui.options.gameplay.autoClutch": "Asistent spojky (manuální převodovka)",
     "ui.options.gameplay.defaultGearboxBehavior": "Výchozí chování převodovky",
     "ui.options.gameplay.escBehavior": "Kontrola stability",
     "ui.options.gameplay.autoClutch.tooltip": "Je‑li tato možnost povolena, v realistickém režimu bude spojka obsluhována automaticky. Plynule rozpohybuje vozidla, zabrání zastavení motoru a postará se o to, aby se při přeřazování nezničily převody."
