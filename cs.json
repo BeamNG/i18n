@@ -1283,5 +1283,7 @@
     "ui.apps.shift_decision_debug.name": "Ladění logiky řazení",
     "ui.apps.advanced_wheels_debug.name": "Pokročilé ladění kol",
     "ui.apps.powertrain_debug.name": "Vizualizace hnacího ústrojí",
-    "ui.playmodes.quickrace": "Jízdy na čas"
+    "ui.playmodes.quickrace": "Jízdy na čas",
+    "ui.apps.time.name": "Čas",
+    "ui.apps.wind.name": "Vítr!"
 }
