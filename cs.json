@@ -1192,7 +1192,7 @@
     "ui.quickrace.tracks.length": "Délka",
     "ui.quickrace.tracks.proceduralInfo": "Stejné semínko na stejné konfiguraci znamená stejnou trať.",
     "ui.quickrace.quickraceTracks": "Výběr Konfigurace pro Jízdu na čas",
-    "ui.busRoute.strictMode": "Vyžaduje zastavení autobusu, snížení a otevření dveří",
+    "ui.busRoute.strictMode": "Vyžaduje stavění autobusu, snižování nástupní hrany a otevírání dveří.",
     "ui.busRoute.vehicle": "Vozidlo",
     "ui.busRoute.simulatePassengers": "Simuluje váhu pasažérů pomocí zatížení."
 }
