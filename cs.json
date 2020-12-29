@@ -1285,5 +1285,7 @@
     "ui.apps.powertrain_debug.name": "Vizualizace hnacího ústrojí",
     "ui.playmodes.quickrace": "Jízdy na čas",
     "ui.apps.time.name": "Čas",
-    "ui.apps.wind.name": "Vítr!"
+    "ui.apps.wind.name": "Vítr!",
+    "ui.options.aids": "Pomůcky řízení",
+    "ui.options.assistants": "Asistenty řízení"
 }
