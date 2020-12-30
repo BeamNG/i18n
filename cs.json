@@ -1373,5 +1373,5 @@
     "ui.options.camera.cameraExternalControls": "Změna úhlu TV kamery: [br][br]Přiblížení/oddálení: ",
     "ui.options.motionSim.accelerationSmoothing": "Vyhlazování zrychlení:",
     "ui.options.motionSim.updateRate": "Interval obnovení",
-    "ui.options.traffic.trafficAllowMods.tooltip": "Je‑li tato možnost povolena, modová vozidla se budou moci objevovat mezi automobilovou dopravu"
+    "ui.options.traffic.trafficAllowMods.tooltip": "Je‑li tato možnost povolena, vozidla z modifikací se budou moci objevovat mezi automobilovou dopravu"
 }
