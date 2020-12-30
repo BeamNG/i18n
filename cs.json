@@ -1391,5 +1391,7 @@
     "ui.options.onlineFeatures": "Online funkce",
     "ui.options.units.length": "Délka",
     "ui.options.traffic.showOnMap.tooltip": "Zobrazí automobilovou dopravu v uživatelském rozhraní aplikace minimapa",
-    "ui.options.traffic.showOnMap": "Zobrazit na mapě v uživatelském rozhraní"
+    "ui.options.traffic.showOnMap": "Zobrazit na mapě v uživatelském rozhraní",
+    "ui.options.graphics.uiAcceleratedRender": "Povolit v uživatelském rozhraní hardwarovou akceleraci",
+    "ui.options.graphics.MainMenuBackgroundModeBrokenCefVersion": "Pozadí menu"
 }
