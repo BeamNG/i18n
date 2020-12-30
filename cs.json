@@ -1374,7 +1374,7 @@
     "ui.options.motionSim.accelerationSmoothing": "Vyhlazování zrychlení:",
     "ui.options.motionSim.updateRate": "Interval obnovení",
     "ui.options.traffic.trafficAllowMods.tooltip": "Je‑li tato možnost povolena, vozidla z modifikací se budou moci objevovat mezi automobilovou dopravu",
-    "ui.options.graphics.sleepinbackground": "Omezit snímkovou frekvenci, když je okno neaktivní (na 30 FPS)",
+    "ui.options.graphics.sleepinbackground": "Omezit snímkovou frekvenci na 30 FPS, když je okno neaktivní",
     "ui.options.graphics.refreshRate": "Obnovovací frekvence",
     "ui.options.graphics.monitor": "Monitor",
     "ui.options.graphics.ui": "Úpravy uživatelského rozhraní",
