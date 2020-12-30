@@ -1392,7 +1392,7 @@
     "ui.options.units.length": "Délka",
     "ui.options.traffic.showOnMap.tooltip": "Zobrazí automobilovou dopravu v uživatelském rozhraní aplikace minimapa",
     "ui.options.traffic.showOnMap": "Zobrazit na mapě v uživatelském rozhraní",
-    "ui.options.graphics.uiAcceleratedRender": "Povolit v uživatelském rozhraní hardwarovou akceleraci",
+    "ui.options.graphics.uiAcceleratedRender": "Povolit hardwarovou akceleraci v uživatelském rozhraní",
     "ui.options.graphics.MainMenuBackgroundModeBrokenCefVersion": "Pozadí menu",
     "ui.options.graphics.restartRequired": "Pro aplikování nastavení je potřeba restartovat hru"
 }
