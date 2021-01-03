@@ -2848,5 +2848,7 @@
     "ui.apps.engine_heat_debug_graph.water": "Su",
     "ui.apps.engine_dynamometer.torque": "Tork",
     "ui.apps.engine_dynamometer.power": "Güç",
-    "ui.apps.engine_dynamometer.rpm": "Devir"
+    "ui.apps.engine_dynamometer.rpm": "Devir",
+    "ui.apps.engine_thermal_debug.airRegulator": "Hava Düzenleyicisi",
+    "ui.apps.engine_thermal_debug.coolantThermostat": "Soğutma Sıvısı Termostatı"
 }
