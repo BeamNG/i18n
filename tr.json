@@ -2873,5 +2873,8 @@
     "ui.apps.escstiffness.state": "Durum",
     "ui.apps.escstiffness.stop": "Testi Durdur",
     "ui.apps.escstiffness.start": "Testi Başlat",
-    "ui.apps.escstiffness.maxStiffnessRear": "Maksimum Arka Sertlik"
+    "ui.apps.escstiffness.maxStiffnessRear": "Maksimum Arka Sertlik",
+    "ui.apps.ffb_graph.Atwheel": "Tekerlekte",
+    "ui.apps.ffb_graph.Atdriver": "Sürücüde",
+    "ui.apps.ffb_graph.Force": "Kuvvet"
 }
