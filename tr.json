@@ -2856,5 +2856,9 @@
     "ui.apps.engine_thermal_debug.radiatorFanActive": "Radyatör Fanı Açık",
     "ui.apps.engine_thermal_debug.radiatorAirSpeedEfficiency": "Radyatör Hava Hızı Verimliliği",
     "ui.apps.engine_thermal_debug.radiatorAirSpeed": "Radyatör Hava Hızı",
-    "ui.apps.engine_thermal_debug.oilThermostat": "Yağ Termostatı"
+    "ui.apps.engine_thermal_debug.oilThermostat": "Yağ Termostatı",
+    "ui.apps.engine_thermal_debug.blockDamage": "Blok Hasarlı",
+    "ui.apps.engine_thermal_debug.engineEfficiency": "Motor Verimliliği",
+    "ui.apps.engine_thermal_debug.coolantEfficiency": "Soğutma Sıvısı Verimliliği",
+    "ui.apps.engine_thermal_debug.coolantLeakRate": "Soğutma Sıvısı Akıntı Hızı"
 }
