@@ -2852,5 +2852,9 @@
     "ui.apps.engine_thermal_debug.airRegulator": "Hava Düzenleyicisi",
     "ui.apps.engine_thermal_debug.coolantThermostat": "Soğutma Sıvısı Termostatı",
     "ui.common.simpleVehicles": "Basit Araçlar",
-    "scenario.customExtensionLoadFailed": "Özel mantık çalışmıyor. {{extName}} isimli sistem günlüğünü konsoldan kontrol edin"
+    "scenario.customExtensionLoadFailed": "Özel mantık çalışmıyor. {{extName}} isimli sistem günlüğünü konsoldan kontrol edin",
+    "ui.apps.engine_thermal_debug.radiatorFanActive": "Radyatör Fanı Açık",
+    "ui.apps.engine_thermal_debug.radiatorAirSpeedEfficiency": "Radyatör Hava Hızı Verimliliği",
+    "ui.apps.engine_thermal_debug.radiatorAirSpeed": "Radyatör Hava Hızı",
+    "ui.apps.engine_thermal_debug.oilThermostat": "Yağ Termostatı"
 }
