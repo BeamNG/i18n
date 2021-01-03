@@ -2872,5 +2872,6 @@
     "ui.apps.escstiffness.progress": "İlerleme",
     "ui.apps.escstiffness.state": "Durum",
     "ui.apps.escstiffness.stop": "Testi Durdur",
-    "ui.apps.escstiffness.start": "Testi Başlat"
+    "ui.apps.escstiffness.start": "Testi Başlat",
+    "ui.apps.escstiffness.maxStiffnessRear": "Maksimum Arka Sertlik"
 }
