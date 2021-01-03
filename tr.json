@@ -2865,5 +2865,12 @@
     "ui.apps.engine_thermal_debug.cylinderwallDamage": "Silindir Duvarı Hasarı",
     "ui.apps.engine_thermal_debug.headGasketBlown": "Silindir kapak contası yandı",
     "ui.apps.engine_thermal_debug.connectingRodBearingsDamaged": "Biyel kolu yatağı hasarlı",
-    "ui.apps.engine_thermal_debug.pistonRingsDamaged": "Piston halkası hasarlı"
+    "ui.apps.engine_thermal_debug.pistonRingsDamaged": "Piston halkası hasarlı",
+    "ui.apps.escstiffness.maxStiffnessFront": "Maksimum Ön Sertlik",
+    "ui.apps.escstiffness.targetSpeed": "Hedef Hızı",
+    "ui.apps.escstiffness.targetAngle": "Hedef Açısı",
+    "ui.apps.escstiffness.progress": "İlerleme",
+    "ui.apps.escstiffness.state": "Durum",
+    "ui.apps.escstiffness.stop": "Testi Durdur",
+    "ui.apps.escstiffness.start": "Testi Başlat"
 }
