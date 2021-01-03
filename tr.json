@@ -2860,5 +2860,6 @@
     "ui.apps.engine_thermal_debug.blockDamage": "Blok Hasarlı",
     "ui.apps.engine_thermal_debug.engineEfficiency": "Motor Verimliliği",
     "ui.apps.engine_thermal_debug.coolantEfficiency": "Soğutma Sıvısı Verimliliği",
-    "ui.apps.engine_thermal_debug.coolantLeakRate": "Soğutma Sıvısı Akıntı Hızı"
+    "ui.apps.engine_thermal_debug.coolantLeakRate": "Soğutma Sıvısı Akıntı Hızı",
+    "ui.apps.engine_thermal_debug.oilDamage": "Yağ Hasarlı"
 }
