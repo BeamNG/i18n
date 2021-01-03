@@ -2866,7 +2866,7 @@
     "ui.apps.engine_thermal_debug.headGasketBlown": "Silindir kapak contası yandı",
     "ui.apps.engine_thermal_debug.connectingRodBearingsDamaged": "Piston kolu yatağı hasarlı",
     "ui.apps.engine_thermal_debug.pistonRingsDamaged": "Piston halkası hasarlı",
-    "ui.apps.escstiffness.maxStiffnessFront": "Maksimum Ön Sertlik",
+    "ui.apps.escstiffness.maxStiffnessFront": "Ön Maksimum Sertlik",
     "ui.apps.escstiffness.targetSpeed": "Hedef Hızı",
     "ui.apps.escstiffness.targetAngle": "Hedef Açısı",
     "ui.apps.escstiffness.progress": "İlerleme",
