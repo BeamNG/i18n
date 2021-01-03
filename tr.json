@@ -3020,5 +3020,7 @@
     "ui.apps.hotlapping.AddCheckpoint": "Kontrol Noktası Ekle",
     "ui.apps.hotlapping.StartHotlapping": "Tur Zamanlamayı Başlat",
     "ui.apps.ffb_graph.Steering": "Direksiyon",
-    "ui.apps.ffb_graph.Input": "Girdi"
+    "ui.apps.ffb_graph.Input": "Girdi",
+    "ui.apps.ffb_graph.Rate": "Oran",
+    "ui.apps.ffb_graph.Limit": "Limit"
 }
