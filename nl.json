@@ -1159,5 +1159,6 @@
     "ui.trackbuilder.menus.resetTrack": "Baan resetten",
     "ui.trackbuilder.menus.removeTrack": "Baan verwijderen",
     "ui.trackbuilder.menus.editorSettings": "Editor instellingen",
-    "ui.trackbuilder.base.banking": "Hellen"
+    "ui.trackbuilder.base.banking": "Hellen",
+    "ui.mainmenu.telemetryConsent": "Ik geef toestemming voor het verzamelen van gegevens over mijn speelsessies door[br] BeamNG GmbH (klik [url=https://beamng.com/PrivacyPolicy.pdf]hier[/ url] voor de gegevens welke verzameld worden)."
 }
