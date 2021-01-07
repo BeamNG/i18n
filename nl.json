@@ -1165,9 +1165,16 @@
     "ui.mainmenu.onlineFeatures.header": "Online functies",
     "ui.mainmenu.onlineConsent": "Online functies inschakelen",
     "ui.mainmenu.telemetryOnlineHint": "Telemetrie werkt niet zonder online functies geactiveerd.",
-    "ui.mainmenu.telemetry.featureDescription": "We willen graag spelsessie data verzamelen zoals de lengte van de spelsessies, gespeelde scenario's, en of je sommige gameplay functies hebt ingeschakeld, met als doel gebieden te identificeren voor toekomstige game-ontwikkeling en verbetering van de spelerservaring. Deze gegevens worden verzonden naar onze server, waar het geanonimiseerd en opgeslagen word op een manier die identificatie van individuen niet mogelijk maakt. We zullen deze informatie niet gebruiken voor marketing- of advertentiedoeleinden. Voor de lijst met verzamelde gegevenstypen en uw rechten klikt u op deze [url=https://beamng.com/PrivacyPolicy.pdf]link[/url].",
+    "ui.mainmenu.telemetry.featureDescription": "We willen graag data verzamelen zoals de duur van speelsessies, gespeelde scenario's, en of bepaalde gameplay functies zijn ingeschakeld, met als doel gebieden te identificeren voor toekomstige game-ontwikkeling en verbetering van de speelervaring. Deze gegevens worden verzonden naar onze server, waar het wordt geanonimiseerd en opgeslagen op een manier die identificatie van individuen niet mogelijk is. We zullen deze informatie niet gebruiken voor marketing- of advertentiedoeleinden. Voor de lijst met verzamelde gegevenstypen en uw rechten, klik [url=https://beamng.com/PrivacyPolicy.pdf]hier[/url].",
     "ui.mainmenu.telemetry.header": "Telemetrie",
     "ui.repository.notOnline": "Verbinding met de server kon niet tot stand gebracht worden. Als dit probleem zich voor blijft doen raadpleeg ",
     "ui.repository.cat_terrain": "Terreinen, levels, Mappen",
-    "ui.repository.filter_latest": "Nieuwste"
+    "ui.repository.filter_latest": "Nieuwste",
+    "ui.repository.order_direction": "Verander sortering",
+    "ui.repository.applySearch": "Bevestig",
+    "ui.repository.searchClear": "Zoekresultaten wissen",
+    "ui.levelselect.x86DisabledToolbar_2": "Om het spel in 64-bit mode uit te voeren is een 64-bit besturingssysteem met meer dan 4GB beschikbare RAM vereist.",
+    "ui.levelselect.x86DisabledToolbar": "Niet beschikbaar wanneer de game in 32-bit mode wordt uitgevoerd.",
+    "ui.levelselect.chooseSpawnpoint": "Beginlocatie kiezen",
+    "ui.dashboard.trackBuilder": "Track Builder"
 }
