@@ -1145,5 +1145,9 @@
     "ui.trackBuilder.toolbar.title": "Werkbalk",
     "ui.trackbuilder.menus.trackBuilder": "Track Builder",
     "ui.trackbuilder.menus.startTrackBuilder": "Track Builder starten",
-    "ui.trackbuilder.menus.exitWindow": "Venster sluiten"
+    "ui.trackbuilder.menus.exitWindow": "Venster sluiten",
+    "ui.trackBuilder.settings.cameraFollowDistance": "Volgafstand",
+    "ui.trackBuilder.saveLoad.difficulty": "Moeilijkheid",
+    "ui.trackBuilder.saveLoad.description": "Omschrijving",
+    "ui.trackBuilder.saveLoad.search": "Zoeken"
 }
