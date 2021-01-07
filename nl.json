@@ -1042,7 +1042,7 @@
     "ui.trackBuilder.menus.advancedPieces": "Geavanceerde delen",
     "ui.trackBuilder.selection.previous": "Selecteer vorig stuk",
     "ui.trackBuilder.menus.materialEditor": "Material Editor",
-    "ui.trackBuilder.advanced.splitPiece": "Stuk opdelen",
+    "ui.trackBuilder.advanced.splitPiece": "Stuk splitsen",
     "ui.trackBuilder.tooltip.remove": "Verwijderen",
     "ui.trackBuilder.tooltip.modify": "Bewerken",
     "ui.trackBuilder.tooltip.shiftBack": "Schuif aanpassing terug",
@@ -1054,5 +1054,7 @@
     "ui.fonts.filename": "segoeui.ttf",
     "ui.common.action.resume": "Hervatten",
     "ui.common.continue": "Volgende",
-    "ui.trackBuilder.matEditor.baseTextures": "Basis textuur"
+    "ui.trackBuilder.matEditor.baseTextures": "Basis textuur",
+    "ui.trackBuilder.matEditor.paint": "Verf",
+    "ui.trackBuilder.matEditor.decal": "Sticker"
 }
