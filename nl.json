@@ -1195,5 +1195,7 @@
     "ui.quickrace.tracks.allowRollingStart": "Rollende start toestaan",
     "ui.quickrace.time": "Tijd",
     "ui.quickrace.name": "Naam",
-    "ui.repository.modmgrnotready": "De mod manager is not niet gereed. Alle acties zijn in de wachtrij gezet totdat ze kunnen worden uitgevoerd. Indien het te lang duurt, neem alstublieft contact op met de ondersteuning."
+    "ui.repository.modmgrnotready": "De mod manager is not niet gereed. Alle acties zijn in de wachtrij gezet totdat ze kunnen worden uitgevoerd. Indien het te lang duurt, neem alstublieft contact op met de ondersteuning.",
+    "ui.busRoute.traffic": "Schakelt AI-verkeer in.",
+    "ui.repository.notOnline_here": "hier"
 }
