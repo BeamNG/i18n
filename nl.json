@@ -1111,5 +1111,6 @@
     "ui.trackBuilder.menus.saveLoad": "Opslaan en Laden",
     "ui.trackBuilder.menus.checkpoints": "Checkpoints",
     "ui.trackBuilder.menus.obstacles": "Obstakels",
-    "ui.trackBuilder.menus.trackShape": "Baan vorm"
+    "ui.trackBuilder.menus.trackShape": "Baan vorm",
+    "ui.trackBuilder.menus.wallsCeiling": "Muren en Plafond"
 }
