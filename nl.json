@@ -1034,6 +1034,9 @@
     "ui.loadingScreen.tips": "TIPS",
     "engine.fatalError.experienced2": "\n\n\nEr is een fout opgetreden.",
     "ui.startscreen.warning": "Waarschuwing: Risico voor lichtflitsgevoelige epilepsie",
-    "ui.startscreen.warningdetails": "Het spel kan mogelijk aanvallen veroorzaken voor mensen met lichtflitsgevoelige epilepsie. De speler wordt geadviseerd om het juiste oordeel nemen.",
-    "ui.modWizard.skinWizard.right": "De rechterkant van het beeld is de \"SkinExample_palette_uv1.dds\". Het beeld wordt gebruikt om te bepalen welke delen van de skin gekleurd kunnen worden door de kleurenkiezer. Rood is de eerste kleur, groen de tweede en blauw is de derde kleur. Als het doorzichtig is zal het niet gekleurd worden."
+    "ui.startscreen.warningdetails": "Let op! Dit spel kan mogelijk aanvallen veroorzaken voor mensen met lichtgevoelige epilepsie.",
+    "ui.modWizard.skinWizard.right": "De rechterkant van het beeld is de \"SkinExample_palette_uv1.dds\". Het beeld wordt gebruikt om te bepalen welke delen van de skin gekleurd kunnen worden door de kleurenkiezer. Rood is de eerste kleur, groen de tweede en blauw is de derde kleur. Als het doorzichtig is zal het niet gekleurd worden.",
+    "ui.mainmenu.mods.desciptionUnavailable": "Beschrijving niet beschikbaar",
+    "ui.common.simpleVehicles": "Eenvoudige Voertuigen",
+    "ui.common.action.start": "Start"
 }
