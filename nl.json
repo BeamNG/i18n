@@ -1151,5 +1151,7 @@
     "ui.trackBuilder.saveLoad.description": "Omschrijving",
     "ui.trackBuilder.saveLoad.search": "Zoeken",
     "ui.trackBuilder.settings.cameraFollow": "Camera automatisch laten volgen",
-    "ui.trackBuilder.saveLoad.loadTrack": "Baan laden"
+    "ui.trackBuilder.saveLoad.loadTrack": "Baan laden",
+    "ui.trackBuilder.base.test": "Test",
+    "ui.trackBuilder.base.drive": "Rijden"
 }
