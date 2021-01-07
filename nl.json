@@ -1042,5 +1042,10 @@
     "ui.trackBuilder.menus.advancedPieces": "Geavanceerde delen",
     "ui.trackBuilder.selection.previous": "Selecteer vorig stuk",
     "ui.trackBuilder.menus.materialEditor": "Material Editor",
-    "ui.trackBuilder.advanced.splitPiece": "Stuk opdelen"
+    "ui.trackBuilder.advanced.splitPiece": "Stuk opdelen",
+    "ui.trackBuilder.tooltip.remove": "Verwijderen",
+    "ui.trackBuilder.tooltip.modify": "Bewerken",
+    "ui.trackBuilder.tooltip.shiftBack": "Schuif aanpassing terug",
+    "ui.trackBuilder.tooltip.shiftForward": "Schuif aanpassing voorwaarts",
+    "ui.trackBuilder.base.radius": "Straal"
 }
