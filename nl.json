@@ -1142,5 +1142,8 @@
     "ui.trackBuilder.saveLoad.packToMod": "Inpakken naar mod",
     "ui.trackbuilder.menus.openAdvancedPieces": "Open Geavanceerde Stukken",
     "ui.trackbuilder.menus.windows": "Vensters",
-    "ui.trackBuilder.toolbar.title": "Werkbalk"
+    "ui.trackBuilder.toolbar.title": "Werkbalk",
+    "ui.trackbuilder.menus.trackBuilder": "Track Builder",
+    "ui.trackbuilder.menus.startTrackBuilder": "Track Builder starten",
+    "ui.trackbuilder.menus.exitWindow": "Venster sluiten"
 }
