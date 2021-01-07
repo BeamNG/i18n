@@ -1128,5 +1128,9 @@
     "ui.trackBuilder.trackSettings.positionTrackAboveVehicle": "Baan boven voertuig positioneren",
     "ui.trackBuilder.trackSettings.alignTrackToVehicle": "Baan uitlijnen met voertuig",
     "ui.trackBuilder.trackSettings.positionTrackBeforeCam": "Baan voor camera positioneren",
-    "ui.trackBuilder.trackSettings.alignTrackToCam": "Baan uitlijnen met camera"
+    "ui.trackBuilder.trackSettings.alignTrackToCam": "Baan uitlijnen met camera",
+    "ui.trackBuilder.saveLoad.save": "Opslaan",
+    "ui.trackBuilder.saveLoad.filename": "Bestandsnaam",
+    "ui.trackBuilder.trackSettings.rotation": "Rotatie",
+    "ui.trackBuilder.trackSettings.position": "Positie"
 }
