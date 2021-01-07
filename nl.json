@@ -1029,5 +1029,6 @@
     "ui.modWizard.skinWizard.desc": "Ter demonstratie zullen we SkinExample gebruiken als de naam voor onze kleurstelling. De twee bestanden die je kan bewerken zijn te zien in de afbeelding aan de rechterkant. Zodra je de bestanden van de kleurstelling geopend hebt kun je op volgende drukken om de kleurstelling in het spel te laden of om de omgeving te sluiten.",
     "ui.modWizard.skinWizard.left": "De linkerkant van de afbeelding is het bestand \"SkinExample.dds\". Dit is het hoofdbestandsdeel van je skin of kleurstelling. Verf of kleur over de witte delen om je gewenste kleurstelling te maken.",
     "engine.fatalError.experienced": "\n\n\nEr is een fout opgetreden. Door \"OKE\" te selecteren zal BeamNG sluiten en een crashbestand aanmaken. Verstuur het rapport zodat we dit probleem kunnen verhelpen.",
-    "engine.fatalError.errMsg": "FATALE FOUT: "
+    "engine.fatalError.errMsg": "FATALE FOUT: ",
+    "scenario.customExtensionLoadFailed": "Aangepaste logica werd niet uitgevoerd. Check log voor waarschuwingen met {{extName}}"
 }
