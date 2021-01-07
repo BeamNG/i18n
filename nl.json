@@ -1176,5 +1176,7 @@
     "ui.levelselect.x86DisabledToolbar_2": "Om het spel in 64-bit mode uit te voeren is een 64-bit besturingssysteem met meer dan 4GB beschikbare RAM vereist.",
     "ui.levelselect.x86DisabledToolbar": "Niet beschikbaar wanneer de game in 32-bit mode wordt uitgevoerd.",
     "ui.levelselect.chooseSpawnpoint": "Beginlocatie kiezen",
-    "ui.dashboard.trackBuilder": "Track Builder"
+    "ui.dashboard.trackBuilder": "Track Builder",
+    "ui.modmanager.activateTip": "Activeer deze modificatie",
+    "ui.modmanager.openInRepo": "Openen in Repo"
 }
