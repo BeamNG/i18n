@@ -1051,5 +1051,7 @@
     "ui.common.action.stop": "Stop",
     "ui.common.action.load": "Laden",
     "ui.fonts.mono": "Roboto Mono",
-    "ui.fonts.filename": "segoeui.ttf"
+    "ui.fonts.filename": "segoeui.ttf",
+    "ui.common.action.resume": "Hervatten",
+    "ui.common.continue": "Volgende"
 }
