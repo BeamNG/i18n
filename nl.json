@@ -1140,7 +1140,7 @@
     "ui.trackBuilder.saveLoad.previewCreated": "Voorbeeld succesvol gemaakt ",
     "ui.trackBuilder.saveLoad.trackLoaded": "Baan geladen ",
     "ui.trackBuilder.saveLoad.packToMod": "Inpakken naar mod",
-    "ui.trackbuilder.menus.openAdvancedPieces": "Open Geavanceerde Stukken",
+    "ui.trackbuilder.menus.openAdvancedPieces": "Open geavanceerde stukken",
     "ui.trackbuilder.menus.windows": "Vensters",
     "ui.trackBuilder.toolbar.title": "Werkbalk",
     "ui.trackbuilder.menus.trackBuilder": "Track Builder",
@@ -1153,5 +1153,11 @@
     "ui.trackBuilder.settings.cameraFollow": "Camera automatisch laten volgen",
     "ui.trackBuilder.saveLoad.loadTrack": "Baan laden",
     "ui.trackBuilder.base.test": "Test",
-    "ui.trackBuilder.base.drive": "Rijden"
+    "ui.trackBuilder.base.drive": "Rijden",
+    "ui.trackbuilder.menus.onlyOneModifierWindow": "Maar één aanpassing venster",
+    "ui.trackbuilder.menus.onlyOnePiecesWindow": "Één Stukken venster",
+    "ui.trackbuilder.menus.resetTrack": "Baan resetten",
+    "ui.trackbuilder.menus.removeTrack": "Baan verwijderen",
+    "ui.trackbuilder.menus.editorSettings": "Editor instellingen",
+    "ui.trackbuilder.base.banking": "Hellen"
 }
