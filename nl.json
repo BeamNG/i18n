@@ -1032,5 +1032,6 @@
     "engine.fatalError.errMsg": "FATALE FOUT: ",
     "scenario.customExtensionLoadFailed": "Aangepaste logica werd niet uitgevoerd. Check log voor waarschuwingen met {{extName}}",
     "ui.loadingScreen.tips": "TIPS",
-    "engine.fatalError.experienced2": "\n\n\nEr is een fout opgetreden."
+    "engine.fatalError.experienced2": "\n\n\nEr is een fout opgetreden.",
+    "ui.startscreen.warning": "Waarschuwing: Risico voor lichtflitsgevoelige epilepsie"
 }
