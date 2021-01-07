@@ -1116,5 +1116,9 @@
     "ui.trackBuilder.trackSettings.trackTransform": "Baan Transformatie",
     "ui.trackBuilder.trackSettings.defaultLaps": "Standaard rondes",
     "ui.trackBuilder.trackSettings.reversible": "Omkeerbaar",
-    "ui.trackBuilder.trackSettings.azimuth": "Azimut"
+    "ui.trackBuilder.trackSettings.azimuth": "Azimut",
+    "ui.trackBuilder.trackSettings.raceSettings": "Raceinstellingen",
+    "ui.trackBuilder.trackSettings.fog": "Mist",
+    "ui.trackBuilder.trackSettings.time": "Tijd",
+    "ui.trackBuilder.trackSettings.environmentSettings": "Omgevingsinstellingen"
 }
