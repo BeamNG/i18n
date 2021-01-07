@@ -1120,5 +1120,13 @@
     "ui.trackBuilder.trackSettings.raceSettings": "Raceinstellingen",
     "ui.trackBuilder.trackSettings.fog": "Mist",
     "ui.trackBuilder.trackSettings.time": "Tijd",
-    "ui.trackBuilder.trackSettings.environmentSettings": "Omgevingsinstellingen"
+    "ui.trackBuilder.trackSettings.environmentSettings": "Omgevingsinstellingen",
+    "ui.trackBuilder.saveLoad.modSaved": "Inpakken van baan en voorbeeld naar modificatie bestand succesvol ",
+    "ui.trackBuilder.saveLoad.overwritePreview": "Voorbeeld overschrijven",
+    "ui.trackBuilder.saveLoad.createPreview": "Voorbeeld maken",
+    "ui.trackBuilder.saveLoad.saveTrack": "Baan opslaan",
+    "ui.trackBuilder.trackSettings.positionTrackAboveVehicle": "Baan boven voertuig positioneren",
+    "ui.trackBuilder.trackSettings.alignTrackToVehicle": "Baan uitlijnen met voertuig",
+    "ui.trackBuilder.trackSettings.positionTrackBeforeCam": "Baan voor camera positioneren",
+    "ui.trackBuilder.trackSettings.alignTrackToCam": "Baan uitlijnen met camera"
 }
