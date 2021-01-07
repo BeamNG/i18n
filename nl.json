@@ -1163,5 +1163,6 @@
     "ui.mainmenu.telemetryConsent": "Ik geef toestemming voor het verzamelen van gegevens van mijn speelsessies door[br] BeamNG GmbH (klik [url=https://beamng.com/PrivacyPolicy.pdf]hier[/ url] voor meer informatie over de gegevens die worden verzameld).",
     "ui.mainmenu.privacyPolicyHint": "Voor details over data verwerking met betrekking tot online functies en telemetrie, gelieve onze [url=https://beamng.com/PrivacyPolicy.pdf]Privacy Policy[/url] te lezen",
     "ui.mainmenu.onlineFeatures.header": "Online functies",
-    "ui.mainmenu.onlineConsent": "Online functies inschakelen"
+    "ui.mainmenu.onlineConsent": "Online functies inschakelen",
+    "ui.mainmenu.telemetryOnlineHint": "Telemetrie kan niet functioneren met de online functies gedeactiveerd."
 }
