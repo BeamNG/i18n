@@ -1178,5 +1178,22 @@
     "ui.levelselect.chooseSpawnpoint": "Beginlocatie kiezen",
     "ui.dashboard.trackBuilder": "Track Builder",
     "ui.modmanager.activateTip": "Activeer deze modificatie",
-    "ui.modmanager.openInRepo": "Openen in Repo"
+    "ui.modmanager.openInRepo": "Openen in Repo",
+    "ui.modmanager.deleteTooltip": "Dubbelklik om alle momenteel geïnstalleerde en geabonneerde mods te verwijderen! Deze actie kan niet ongedaan gemaakt worden!",
+    "ui.modmanager.actions": "Acties",
+    "ui.modmanager.deleteAllDesc": "Weet je zeker dat je je abonnement wilt opzeggen en alle Repository mods wilt verwijderen?",
+    "ui.modmanager.pack": "Inpakken",
+    "ui.busRoute.stopCount": "Hoeveelheid haltes",
+    "ui.busRoute.strictMode": "Vereist bus stop, knielen en deur openen.",
+    "ui.busRoute.vehicle": "Voertuig",
+    "ui.busRoute.routeSelect": "Selecteer route",
+    "ui.busRoute.levelSelect": "Selecteer level",
+    "ui.racetime.time": "Tijd",
+    "ui.quickrace.rollingStart": "Rollende start",
+    "ui.quickrace.reverse": "Omgekeerd",
+    "ui.quickrace.tracks.length": "Afstand",
+    "ui.quickrace.tracks.allowRollingStart": "Rollende start toestaan",
+    "ui.quickrace.time": "Tijd",
+    "ui.quickrace.name": "Naam",
+    "ui.repository.modmgrnotready": "De mod manager is not niet gereed. Alle acties zijn in de wachtrij gezet totdat ze kunnen worden uitgevoerd. Indien het te lang duurt, neem alstublieft contact op met de ondersteuning."
 }
