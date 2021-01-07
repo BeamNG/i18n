@@ -1059,7 +1059,7 @@
     "ui.trackBuilder.matEditor.decal": "Sticker",
     "ui.common.randomConfigs": "Willekeurig (elke configuratie)",
     "ui.common.random": "Willekeurig",
-    "ui.common.smartConfigs": "Smart (iedere configuratie)",
+    "ui.common.smartConfigs": "Slim (elke configuratie)",
     "ui.common.smart": "Slim",
     "ui.trackBuilder.checkpoints.info": "Als je geen checkpoints toevoegt, worden deze automatisch toegevoegd wanneer je deze track speelt in de Time Trails gamemodus.",
     "ui.trackBuilder.checkpoints.active": "Actief",
@@ -1105,5 +1105,7 @@
     "ui.trackBuilder.selection.first": "Selecteer eerste stuk",
     "ui.trackBuilder.selection.next": "Selecteer volgend stuk",
     "ui.trackBuilder.menus.trackSettings": "Baan instellingen",
-    "ui.trackBuilder.menus.advancedModifiers": "Geavanceerde aanpassingen"
+    "ui.trackBuilder.menus.advancedModifiers": "Geavanceerde aanpassingen",
+    "ui.trackBuilder.matEditor.deselectAll": "Alles deselecteren",
+    "ui.trackBuilder.matEditor.selectAll": "Alles selecteren"
 }
