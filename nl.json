@@ -1107,5 +1107,6 @@
     "ui.trackBuilder.menus.trackSettings": "Baan instellingen",
     "ui.trackBuilder.menus.advancedModifiers": "Geavanceerde aanpassingen",
     "ui.trackBuilder.matEditor.deselectAll": "Alles deselecteren",
-    "ui.trackBuilder.matEditor.selectAll": "Alles selecteren"
+    "ui.trackBuilder.matEditor.selectAll": "Alles selecteren",
+    "ui.trackBuilder.menus.saveLoad": "Opslaan en Laden"
 }
