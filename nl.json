@@ -1236,5 +1236,8 @@
     "ui.modmanager.updateAllMissing": "Alles downloaden",
     "ui.modmanager.missing_tooltip": "Mods waarop je bent geabonneerd maar die niet aanwezig zijn op deze computer",
     "ui.modmanager.missing": "Abonnement ontbreekt",
-    "ui.modmanager.deactivateTip": "Deactiveer deze mod"
+    "ui.modmanager.deactivateTip": "Deactiveer deze mod",
+    "ui.credits.soundtrack": "Soundtrack",
+    "ui.environment.tireMarks.load": "Laden",
+    "ui.environment.tireMarks.save": "Opslaan"
 }
