@@ -1031,5 +1031,6 @@
     "engine.fatalError.experienced": "\n\n\nEr is een fout opgetreden. Door op OK te klikken wordt BeamNG afgesloten en een crashbestand aangemaakt. Verstuur het rapport zodat we dit probleem kunnen verhelpen.",
     "engine.fatalError.errMsg": "FATALE FOUT: ",
     "scenario.customExtensionLoadFailed": "Aangepaste logica werd niet uitgevoerd. Check log voor waarschuwingen met {{extName}}",
-    "ui.loadingScreen.tips": "TIPS"
+    "ui.loadingScreen.tips": "TIPS",
+    "engine.fatalError.experienced2": "\n\n\nEr is een fout opgetreden."
 }
