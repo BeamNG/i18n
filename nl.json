@@ -1132,5 +1132,10 @@
     "ui.trackBuilder.saveLoad.save": "Opslaan",
     "ui.trackBuilder.saveLoad.filename": "Bestandsnaam",
     "ui.trackBuilder.trackSettings.rotation": "Rotatie",
-    "ui.trackBuilder.trackSettings.position": "Positie"
+    "ui.trackBuilder.trackSettings.position": "Positie",
+    "ui.trackBuilder.saveLoad.saveOnThisMap": "Op deze map opslaan",
+    "ui.trackBuilder.saveLoad.saveTimeSettings": "Tijdsinstellingen opslaan",
+    "ui.trackBuilder.saveLoad.overwrite": "Baan overschrijven",
+    "ui.trackBuilder.saveLoad.trackWrittenTo": "Baan succesvol opgeslagen naar ",
+    "ui.trackBuilder.saveLoad.previewCreated": "Voorbeeld succesvol gemaakt "
 }
