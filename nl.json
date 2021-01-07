@@ -1038,5 +1038,6 @@
     "ui.modWizard.skinWizard.right": "De rechterkant van het beeld is de \"SkinExample_palette_uv1.dds\". Het beeld wordt gebruikt om te bepalen welke delen van de skin gekleurd kunnen worden door de kleurenkiezer. Rood is de eerste kleur, groen de tweede en blauw is de derde kleur. Als het doorzichtig is zal het niet gekleurd worden.",
     "ui.mainmenu.mods.desciptionUnavailable": "Beschrijving niet beschikbaar",
     "ui.common.simpleVehicles": "Eenvoudige Voertuigen",
-    "ui.common.action.start": "Start"
+    "ui.common.action.start": "Start",
+    "ui.trackBuilder.menus.advancedPieces": "Geavanceerde delen"
 }
