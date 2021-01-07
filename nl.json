@@ -1033,5 +1033,6 @@
     "scenario.customExtensionLoadFailed": "Aangepaste logica wordt niet uitgevoerd. Check log voor waarschuwingen met {{extName}}",
     "ui.loadingScreen.tips": "TIPS",
     "engine.fatalError.experienced2": "\n\n\nEr is een fout opgetreden.",
-    "ui.startscreen.warning": "Waarschuwing: Risico voor lichtflitsgevoelige epilepsie"
+    "ui.startscreen.warning": "Waarschuwing: Risico voor lichtflitsgevoelige epilepsie",
+    "ui.startscreen.warningdetails": "Het spel kan mogelijk aanvallen veroorzaken voor mensen met lichtflitsgevoelige epilepsie. De speler wordt geadviseerd om het juiste oordeel nemen."
 }
