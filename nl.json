@@ -1056,5 +1056,7 @@
     "ui.common.continue": "Volgende",
     "ui.trackBuilder.matEditor.baseTextures": "Basis textuur",
     "ui.trackBuilder.matEditor.paint": "Verf",
-    "ui.trackBuilder.matEditor.decal": "Sticker"
+    "ui.trackBuilder.matEditor.decal": "Sticker",
+    "ui.common.randomConfigs": "Willekeurig (elke configuratie)",
+    "ui.common.random": "Willekeurig"
 }
