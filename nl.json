@@ -1112,5 +1112,9 @@
     "ui.trackBuilder.menus.checkpoints": "Checkpoints",
     "ui.trackBuilder.menus.obstacles": "Obstakels",
     "ui.trackBuilder.menus.trackShape": "Baan vorm",
-    "ui.trackBuilder.menus.wallsCeiling": "Muren en Plafond"
+    "ui.trackBuilder.menus.wallsCeiling": "Muren en Plafond",
+    "ui.trackBuilder.trackSettings.trackTransform": "Baan Transformatie",
+    "ui.trackBuilder.trackSettings.defaultLaps": "Standaard rondes",
+    "ui.trackBuilder.trackSettings.reversible": "Omkeerbaar",
+    "ui.trackBuilder.trackSettings.azimuth": "Azimut"
 }
