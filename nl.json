@@ -1168,5 +1168,6 @@
     "ui.mainmenu.telemetry.featureDescription": "We willen graag spelsessie data verzamelen zoals de lengte van de spelsessies, gespeelde scenario's, en of je sommige gameplay functies hebt ingeschakeld, met als doel gebieden te identificeren voor toekomstige game-ontwikkeling en verbetering van de spelerservaring. Deze gegevens worden verzonden naar onze server, waar het geanonimiseerd en opgeslagen word op een manier die identificatie van individuen niet mogelijk maakt. We zullen deze informatie niet gebruiken voor marketing- of advertentiedoeleinden. Voor de lijst met verzamelde gegevenstypen en uw rechten klikt u op deze [url=https://beamng.com/PrivacyPolicy.pdf]link[/url].",
     "ui.mainmenu.telemetry.header": "Telemetrie",
     "ui.repository.notOnline": "Verbinding met de server kon niet tot stand gebracht worden. Als dit probleem zich voor blijft doen raadpleeg ",
-    "ui.repository.cat_terrain": "Terreinen, levels, Mappen"
+    "ui.repository.cat_terrain": "Terreinen, levels, Mappen",
+    "ui.repository.filter_latest": "Nieuwste"
 }
