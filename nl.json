@@ -1039,5 +1039,7 @@
     "ui.mainmenu.mods.desciptionUnavailable": "Beschrijving niet beschikbaar",
     "ui.common.simpleVehicles": "Eenvoudige Voertuigen",
     "ui.common.action.start": "Start",
-    "ui.trackBuilder.menus.advancedPieces": "Geavanceerde delen"
+    "ui.trackBuilder.menus.advancedPieces": "Geavanceerde delen",
+    "ui.trackBuilder.selection.previous": "Vorige deel selecteren",
+    "ui.trackBuilder.menus.materialEditor": "Material Editor"
 }
