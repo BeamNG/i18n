@@ -1038,7 +1038,7 @@
     "ui.modWizard.skinWizard.right": "De rechterkant van de afbeelding is de \"SkinExample_palette_uv1.dds\". Dit wordt gebruikt om te bepalen welke delen van de skin gekleurd kunnen worden door de kleurenkiezer. Rood is de eerste kleur, groen de tweede en blauw is de derde kleur. Als het doorzichtig is wordt het niet gekleurd worden.",
     "ui.mainmenu.mods.desciptionUnavailable": "Beschrijving niet beschikbaar",
     "ui.common.simpleVehicles": "Eenvoudige Voertuigen",
-    "ui.common.action.start": "Start",
+    "ui.common.action.start": "Begin",
     "ui.trackBuilder.menus.advancedPieces": "Geavanceerde delen",
     "ui.trackBuilder.selection.previous": "Selecteer vorig stuk",
     "ui.trackBuilder.menus.materialEditor": "Material Editor",
@@ -1047,5 +1047,9 @@
     "ui.trackBuilder.tooltip.modify": "Bewerken",
     "ui.trackBuilder.tooltip.shiftBack": "Schuif aanpassing terug",
     "ui.trackBuilder.tooltip.shiftForward": "Schuif aanpassing voorwaarts",
-    "ui.trackBuilder.base.radius": "Straal"
+    "ui.trackBuilder.base.radius": "Straal",
+    "ui.common.action.stop": "Stop",
+    "ui.common.action.load": "Laden",
+    "ui.fonts.mono": "Roboto Mono",
+    "ui.fonts.filename": "segoeui.ttf"
 }
