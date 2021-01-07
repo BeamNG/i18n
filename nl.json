@@ -1058,5 +1058,6 @@
     "ui.trackBuilder.matEditor.paint": "Verf",
     "ui.trackBuilder.matEditor.decal": "Sticker",
     "ui.common.randomConfigs": "Willekeurig (elke configuratie)",
-    "ui.common.random": "Willekeurig"
+    "ui.common.random": "Willekeurig",
+    "ui.common.smartConfigs": "Smart (iedere configuratie)"
 }
