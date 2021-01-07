@@ -1139,5 +1139,8 @@
     "ui.trackBuilder.saveLoad.trackWrittenTo": "Baan succesvol opgeslagen naar ",
     "ui.trackBuilder.saveLoad.previewCreated": "Voorbeeld succesvol gemaakt ",
     "ui.trackBuilder.saveLoad.trackLoaded": "Baan geladen ",
-    "ui.trackBuilder.saveLoad.packToMod": "Inpakken naar mod"
+    "ui.trackBuilder.saveLoad.packToMod": "Inpakken naar mod",
+    "ui.trackbuilder.menus.openAdvancedPieces": "Open Geavanceerde Stukken",
+    "ui.trackbuilder.menus.windows": "Vensters",
+    "ui.trackBuilder.toolbar.title": "Werkbalk"
 }
