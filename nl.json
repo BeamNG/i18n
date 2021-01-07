@@ -1060,5 +1060,19 @@
     "ui.common.randomConfigs": "Willekeurig (elke configuratie)",
     "ui.common.random": "Willekeurig",
     "ui.common.smartConfigs": "Smart (iedere configuratie)",
-    "ui.common.smart": "Slim"
+    "ui.common.smart": "Slim",
+    "ui.trackBuilder.checkpoints.info": "Als je geen checkpoints toevoegt, worden deze automatisch toegevoegd wanneer je deze track speelt in de Time Trails gamemodus.",
+    "ui.trackBuilder.checkpoints.active": "Actief",
+    "ui.trackBuilder.wallsCeiling.ceiling": "Plafond",
+    "ui.trackBuilder.wallsCeiling.height": "Hoogte",
+    "ui.trackBuilder.wallsCeiling.active": "Actief",
+    "ui.trackBuilder.obstacles.copy": "Kopiëren",
+    "ui.trackBuilder.matEditor.border": "Grens",
+    "ui.trackBuilder.matEditor.center": "Midden",
+    "ui.trackBuilder.matEditor.base": "Basis",
+    "ui.trackBuilder.matEditor.texture": "Textuur",
+    "ui.trackBuilder.tooltip.night": "Nacht",
+    "ui.trackBuilder.base.height": "Hoogte",
+    "ui.trackBuilder.base.width": "Breedte",
+    "ui.trackBuilder.base.length": "Lengte"
 }
