@@ -1121,7 +1121,7 @@
     "ui.trackBuilder.trackSettings.fog": "Mist",
     "ui.trackBuilder.trackSettings.time": "Tijd",
     "ui.trackBuilder.trackSettings.environmentSettings": "Omgevingsinstellingen",
-    "ui.trackBuilder.saveLoad.modSaved": "Inpakken van baan en voorbeeld naar modificatie bestand succesvol ",
+    "ui.trackBuilder.saveLoad.modSaved": "Baan en voorbeeld succesvol ingepakt in mod bestand. ",
     "ui.trackBuilder.saveLoad.overwritePreview": "Voorbeeld overschrijven",
     "ui.trackBuilder.saveLoad.createPreview": "Voorbeeld maken",
     "ui.trackBuilder.saveLoad.saveTrack": "Baan opslaan",
@@ -1137,5 +1137,7 @@
     "ui.trackBuilder.saveLoad.saveTimeSettings": "Tijdsinstellingen opslaan",
     "ui.trackBuilder.saveLoad.overwrite": "Baan overschrijven",
     "ui.trackBuilder.saveLoad.trackWrittenTo": "Baan succesvol opgeslagen naar ",
-    "ui.trackBuilder.saveLoad.previewCreated": "Voorbeeld succesvol gemaakt "
+    "ui.trackBuilder.saveLoad.previewCreated": "Voorbeeld succesvol gemaakt ",
+    "ui.trackBuilder.saveLoad.trackLoaded": "Baan geladen ",
+    "ui.trackBuilder.saveLoad.packToMod": "Inpakken naar mod"
 }
