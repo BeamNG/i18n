@@ -24,7 +24,7 @@
     "engine.editor.menu.saveLevelAs": "Level opslaan als...",
     "engine.editor.menu.unlockSelection": "Selectie ontgrendelen",
     "engine.engineFail": "Er is een fout opgetreden, het spel sluit af.",
-    "engine.invalidUserpath.msg": "BeamNG.drive kan UserPath in startup.ini (gamemap) niet vinden. Wijzig deze a.u.b. naar een geldig pad:",
+    "engine.invalidUserpath.msg": "BeamNG.drive heeft geen toegang tot UserPath gedefinieerd in startup.ini (gamemap). Wijzig deze naar een geldig pad: ",
     "engine.invalidUserpath.title": "Ongeldig gebruikerspad",
     "engine.levelModified.msg": "Level is bewerkt in de Editor. Wil je het opslaan?",
     "engine.levelModified.title": "Level gewijzigd",
