@@ -1394,5 +1394,7 @@
     "ui.options.traffic.showOnMap": "Zobrazit na mapě v uživatelském rozhraní",
     "ui.options.graphics.uiAcceleratedRender": "Povolit hardwarovou akceleraci v uživatelském rozhraní",
     "ui.options.graphics.MainMenuBackgroundModeBrokenCefVersion": "Pozadí menu",
-    "ui.options.graphics.restartRequired": "Pro aplikování nastavení je potřeba restartovat hru"
+    "ui.options.graphics.restartRequired": "Pro aplikování nastavení je potřeba restartovat hru",
+    "ui.options.graphics.PostFXHDRGeneralEnabled": "HDR",
+    "ui.options.graphics.uimaxresNotAvailable": "Maximální rozlišení uživatelského rozhraní není v hlavním menu k dispozici"
 }
