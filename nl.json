@@ -458,7 +458,7 @@
     "ui.options.audio": "Geluid",
     "ui.options.audio.audioDevice": "Audioapparaat",
     "ui.options.audio.audioProvider": "Geluidsbron",
-    "ui.options.audio.effectsVol": "Effecten Volume",
+    "ui.options.audio.effectsVol": "Volume Effecten",
     "ui.options.audio.hardware": "Hardware",
     "ui.options.audio.masterVol": "Hoofdvolume",
     "ui.options.audio.musicVol": "Muziek volume",
