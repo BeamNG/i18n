@@ -3150,5 +3150,6 @@
     "ui.options.graphics.GraphicDynReflectionDetailTooltip": "Yansımalardaki nesnelerin kalitesini ayarlar.",
     "ui.options.graphics.GraphicDynReflectionFacesPerupdateTooltip": "Yansımaların ne sıklıkla güncelleneceğini ayarlar. Daha yüksek değerler özellikle performans üzerinde ağır olabilir.",
     "ui.options.graphics.GraphicDynReflectionTexsizeTooltip": "Daha yüksek ayarlar daha keskin yansımalar sağlayacaktır. 1024 değeri önerilir.",
-    "ui.options.graphics.GraphicDynReflectionTooltip": "Aktif araç üzerindeki gerçek zamanlı yansımaları değiştirir."
+    "ui.options.graphics.GraphicDynReflectionTooltip": "Aktif araç üzerindeki gerçek zamanlı yansımaları değiştirir.",
+    "ui.apps.engine_thermal_debug.qtocylinderwall": "Silindir duvarına göre ısı enerjisi"
 }
