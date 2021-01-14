@@ -1398,7 +1398,7 @@
     "ui.options.graphics.PostFXHDRGeneralEnabled": "HDR",
     "ui.options.graphics.uimaxresNotAvailable": "Maximální rozlišení uživatelského rozhraní není v hlavním menu k dispozici",
     "ui.options.graphics.PostFXBloomGeneralEnabled": "Bloom (oslnění)",
-    "ui.controls.rmAllUserModification": "Odstranit veškeré úpravy provedené uživatelem (budou ponechána výchozí přiřazení kláves, která jsou používána pro nejběžnější periferie)",
+    "ui.controls.rmAllUserModification": "Odstranit veškeré úpravy provedené uživatelem (budou ponechána tovární přiřazení kláves, která jsou dodávána jen pro nejběžnější periferie)",
     "ui.controls.createBinding": "Vytvořit nové přiřazení",
     "ui.controls.editBinding": "Upravit toto přiřazení",
     "ui.controls.expandCollapse": "Kliknutím rozbalíte/sbalíte",
