@@ -1423,7 +1423,7 @@
     "ui.controls.filter": "Filtr",
     "ui.controls.nDevicesDetected": "Počet zjištěných zařízení: {{nDevices}}",
     "ui.controls.filters.2": "Přímý",
-    "ui.controls.filters.limitMultiplier": "Omezit do",
+    "ui.controls.filters.limitMultiplier": "Omezit na",
     "ui.controls.filters.limitEndSpeed": "Skončit na",
     "ui.controls.filters.limitStartSpeed": "Začít na",
     "ui.controls.steering_wiki": "Více podrobných informací o tom, jak nastavit herní volant, najdete na naší wiki stránce věnované tomuto tématu: [url=https://wiki.beamng.com/Steering_wheel_setup]https://wiki.beamng.com/Steering_wheel_setup[/url]",
