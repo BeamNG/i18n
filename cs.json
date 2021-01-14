@@ -1429,7 +1429,7 @@
     "ui.controls.steering_wiki": "Podrobné informace o nastavení herního volantu najdeš na naší wiki stránce věnované tomuto tématu: [url=https://wiki.beamng.com/Steering_wheel_setup]https://wiki.beamng.com/Steering_wheel_setup[/url]",
     "ui.controls.ffb": "Zpětná vazba",
     "ui.controls.ffbConfigMissing": "Nebylo nalezeno ovládání zatáčení",
-    "ui.controls.hint2": "Nápověda: V menu ‚Přiřazení kláves‘ můžete i myši přiřadit ovládání ‚zatáčení‘ (nebo jakoukoliv jinou akci)",
+    "ui.controls.hint2": "Tip:  V menu ‚Přiřazení kláves‘ můžeš ‚Zatáčení‘ (nebo jakoukoliv jinou akci) přiřadit i myši",
     "ui.controls.hint1": "Nápověda: Vždy mějte nainstalované nejnovější ovladače a zakažte „kombinované pedály“ (pokud je toto nastavení dostupné) v Ovládacím panelu Windows",
     "ui.controls.hardware": "Hardware",
     "ui.controls.ffbHardwareMissing": "Nebyl nalezen žádný hardware s podporou zpětné vazby",
