@@ -1421,5 +1421,6 @@
     "ui.controls.filters.-1": "Automatické",
     "ui.controls.filters": "Filtry",
     "ui.controls.filter": "Filtr",
-    "ui.controls.nDevicesDetected": "Počet zjištěných zařízení: {{nDevices}}"
+    "ui.controls.nDevicesDetected": "Počet zjištěných zařízení: {{nDevices}}",
+    "ui.controls.filters.2": "Přímý"
 }
