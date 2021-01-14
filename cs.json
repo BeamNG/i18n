@@ -593,7 +593,7 @@
     "ui.options.graphics.gamma": "Gamma",
     "ui.options.graphics.grassdensity": "Množství trávy",
     "ui.options.graphics.overallquality": "Celková kvalita",
-    "ui.options.graphics.postfx": "PostFX",
+    "ui.options.graphics.postfx": "Správce PostFX",
     "ui.options.graphics.resolution": "Rozlišení",
     "ui.options.graphics.uimaxres": "Maximální rozlišení UI",
     "ui.options.graphics.uimaxresExplanation": "Určuje maximální rozlišení uživatelského rozhraní. Užitečné pro 4K obrazovky.",
@@ -1397,7 +1397,7 @@
     "ui.options.graphics.restartRequired": "Pro aplikování nastavení je potřeba restartovat hru",
     "ui.options.graphics.PostFXHDRGeneralEnabled": "HDR",
     "ui.options.graphics.uimaxresNotAvailable": "Maximální rozlišení uživatelského rozhraní není v hlavním menu k dispozici",
-    "ui.options.graphics.PostFXBloomGeneralEnabled": "Bloom",
+    "ui.options.graphics.PostFXBloomGeneralEnabled": "Bloom (oslnění)",
     "ui.controls.rmAllUserModification": "Odstranit veškeré úpravy provedené uživatelem (budou ponechána výchozí přiřazení kláves, která jsou používána pro nejběžnější periferie)",
     "ui.controls.createBinding": "Vytvořit nové přiřazení",
     "ui.controls.editBinding": "Upravit toto přiřazení",
@@ -1415,5 +1415,6 @@
     "ui.options.graphics.Warning": "VAROVÁNÍ",
     "ui.options.graphics.GraphicMaxDecalCount": "Množství stop po pneumatikách",
     "ui.options.graphics.GraphicGrassDensity": "Množství trávy",
-    "ui.options.graphics.GraphicMeshQuality": "Kvalita objektů"
+    "ui.options.graphics.GraphicMeshQuality": "Kvalita objektů",
+    "ui.options.graphics.GraphicMaxDecalCount.warning": "Hodnota nad 6000 výrazně ovlivní snímkovou frekvenci."
 }
