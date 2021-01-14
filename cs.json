@@ -1417,7 +1417,7 @@
     "ui.options.graphics.GraphicGrassDensity": "Množství trávy",
     "ui.options.graphics.GraphicMeshQuality": "Kvalita objektů",
     "ui.options.graphics.GraphicMaxDecalCount.warning": "Hodnota nad 6000 výrazně ovlivní snímkovou frekvenci.",
-    "ui.controls.filters.limitEnabled": "Omezit možnost zatáčení při rychlé jízdě",
+    "ui.controls.filters.limitEnabled": "Omezit zatáčení při rychlé jízdě",
     "ui.controls.filters.-1": "Automatické",
     "ui.controls.filters": "Filtry",
     "ui.controls.filter": "Filtr",
