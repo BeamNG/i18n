@@ -1422,5 +1422,8 @@
     "ui.controls.filters": "Filtry",
     "ui.controls.filter": "Filtr",
     "ui.controls.nDevicesDetected": "Počet zjištěných zařízení: {{nDevices}}",
-    "ui.controls.filters.2": "Přímý"
+    "ui.controls.filters.2": "Přímý",
+    "ui.controls.filters.limitMultiplier": "Omezit do",
+    "ui.controls.filters.limitEndSpeed": "Skončit na",
+    "ui.controls.filters.limitStartSpeed": "Začít na"
 }
