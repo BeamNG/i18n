@@ -1396,5 +1396,6 @@
     "ui.options.graphics.MainMenuBackgroundModeBrokenCefVersion": "Pozadí menu",
     "ui.options.graphics.restartRequired": "Pro aplikování nastavení je potřeba restartovat hru",
     "ui.options.graphics.PostFXHDRGeneralEnabled": "HDR",
-    "ui.options.graphics.uimaxresNotAvailable": "Maximální rozlišení uživatelského rozhraní není v hlavním menu k dispozici"
+    "ui.options.graphics.uimaxresNotAvailable": "Maximální rozlišení uživatelského rozhraní není v hlavním menu k dispozici",
+    "ui.options.graphics.PostFXBloomGeneralEnabled": "Bloom"
 }
