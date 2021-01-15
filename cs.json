@@ -1436,5 +1436,6 @@
     "ui.controls.availableHardware": "Dostupný hardware",
     "ui.controls.usePhoneOrTablet": "Používej k řízení svůj telefon nebo tablet!",
     "ui.controls.remotControlApp": "Aplikace dálkového ovládání",
-    "ui.controls.firewallError": "Vypadá to, že Windows Firewall blokuje hru."
+    "ui.controls.firewallError": "Vypadá to, že Windows Firewall blokuje hru.",
+    "ui.controls.androidQRCode": "Aplikaci pro Android získáte oskenováním QR kódu uvedeného níže nebo kliknutím na tlačítko."
 }
