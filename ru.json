@@ -2691,5 +2691,6 @@
     "scenarios.derby.fg-soccer.intro": "Добро пожаловать в BeamNG-футбол!<br><br>Ваша задача — затолкать мяч в ворота соперника, защищая при этом свои ворота.<br>Вы можете восстановить машину в любой момент без каких-либо штрафов.<br>Ограничения по очкам нет — играйте сколько угодно!<br><br>Развлекайтесь!",
     "quickrace.small_island.mountain_climb.title": "Подъём в гору",
     "quickrace.derby.ovalTrack.description": "Простой овал с грунтовым покрытием.",
-    "levels.industrial.spawnpoints.spawn_tankfarm": "Нефтехранилище"
+    "levels.industrial.spawnpoints.spawn_tankfarm": "Нефтехранилище",
+    "December": "Декабрь"
 }
