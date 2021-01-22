@@ -1618,5 +1618,6 @@
     "engine.editor.menu.gridOrtho": "Прикажи мрежу у орто прегледима",
     "engine.fatalError.experienced2": "\n\n\nBeamNG.drive је доживео фаталну грешку.",
     "engine.fatalError.experienced": "\n\n\nBeamNG.drive је доживео фаталну грешку. Клик на ОК ће затворити BeamNG и креирати извештај о крешу. Молимо пошаљите извештај да бисмо могли да решимо овај проблем поново.",
-    "engine.fatalError.errMsg": "ФАТАЛНА ГРЕШКА: "
+    "engine.fatalError.errMsg": "ФАТАЛНА ГРЕШКА: ",
+    "ui.trackBuilder.settings.cameraFollowDistance": "Прати дистанцу"
 }
