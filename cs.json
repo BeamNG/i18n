@@ -1437,5 +1437,6 @@
     "ui.controls.usePhoneOrTablet": "Používej k řízení svůj telefon nebo tablet!",
     "ui.controls.remotControlApp": "Aplikace dálkového ovládání",
     "ui.controls.firewallError": "Zdá se, že Windows Firewall blokuje hru.",
-    "ui.controls.androidQRCode": "Aplikaci pro Android získáte oskenováním QR kódu níže nebo kliknutím na tlačítko."
+    "ui.controls.androidQRCode": "Aplikaci pro Android získáte oskenováním QR kódu níže nebo kliknutím na tlačítko.",
+    "ui.apps.vehicleDebug.breakHinges": "Zničit všechny závěsy"
 }
