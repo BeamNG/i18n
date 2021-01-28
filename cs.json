@@ -1445,5 +1445,6 @@
     "ui.debug.vehicle.cloneCurrent": "Klonovat aktuální",
     "ui.debug.vehicle": "Ladění vozidla",
     "ui.debug.activatePhysics": "Aktivovat fyziku",
-    "ui.debug.vehicle.debugVisible": "Ladit Viditelné"
+    "ui.debug.vehicle.debugVisible": "Ladit Viditelné",
+    "ui.debug.vehicle.aerodynamicsScale": "Měřítko aerodynamiky"
 }
