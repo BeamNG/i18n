@@ -1438,11 +1438,12 @@
     "ui.controls.remotControlApp": "Aplikace dálkového ovládání",
     "ui.controls.firewallError": "Zdá se, že Windows Firewall blokuje hru.",
     "ui.controls.androidQRCode": "Aplikaci pro Android získáte oskenováním QR kódu níže nebo kliknutím na tlačítko.",
-    "ui.apps.vehicleDebug.breakHinges": "Zničit všechny závěsy",
+    "ui.apps.vehicleDebug.breakHinges": "Zničit všechny panty",
     "ui.debug.vehicle.aerodynamics": "Ladění aerodynamiky",
     "ui.debug.vehicle.loadDefault": "Načíst výchozí",
     "ui.debug.vehicle.removeOthers": "Odstranit ostatní",
     "ui.debug.vehicle.cloneCurrent": "Klonovat aktuální",
     "ui.debug.vehicle": "Ladění vozidla",
-    "ui.debug.activatePhysics": "Aktivovat fyziku"
+    "ui.debug.activatePhysics": "Aktivovat fyziku",
+    "ui.debug.vehicle.debugVisible": "Ladit Viditelné"
 }
