@@ -2693,5 +2693,6 @@
     "quickrace.derby.ovalTrack.description": "Простой овал с грунтовым покрытием.",
     "levels.industrial.spawnpoints.spawn_tankfarm": "Нефтехранилище",
     "December": "Декабрь",
-    "0-60 mph": "0-60 миль/ч"
+    "0-60 mph": "0-60 миль/ч",
+    "0-100 km/h": "0-100 км/ч"
 }
