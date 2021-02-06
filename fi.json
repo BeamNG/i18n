@@ -3088,5 +3088,6 @@
     "ui.apps.threedexport.VertexColors": "Vertex-värit",
     "ui.apps.threedexport.TexCoords": "Tekstuurikoordinaatit",
     "ui.apps.threedexport.Tangents": "Tangentit",
-    "ui.apps.threedexport.Normals": "Normaalit"
+    "ui.apps.threedexport.Normals": "Normaalit",
+    "ui.options.graphics.GraphicMeshQualityTooltip": "Objektien laatu ympäristössä. Korkeat asetukset tuovat paremman näköisiä objekteja kauemmaksi."
 }
