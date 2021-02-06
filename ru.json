@@ -2726,5 +2726,13 @@
     "Brand": "Марка",
     "Weight": "Масса",
     "TopSpeed": "Макс. скорость",
-    "ui.trackBuilder.toolbar.title": "Панель инструментов"
+    "ui.trackBuilder.toolbar.title": "Панель инструментов",
+    "Years": "Годы выпуска",
+    "ui.inputActions.large_cannon.shoot.title": "Выстрелить",
+    "ui.inputActions.large_roller.rpm_decrease.title": "Уменьшить скорость вращения",
+    "ui.inputActions.large_spinner.rpm_decrease.title": "Уменьшить скорость вращения",
+    "ui.inputActions.large_spinner.rpm_increase.title": "Увеличить скорость вращения",
+    "ui.inputActions.large_roller.rpm_increase.title": "Увеличить скорость вращения",
+    "ui.campaign.Decline": "Отклонить",
+    "ui.campaign.Accept": "Принять"
 }
