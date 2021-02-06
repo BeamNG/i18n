@@ -2725,5 +2725,6 @@
     "Country": "Страна",
     "Brand": "Марка",
     "Weight": "Масса",
-    "TopSpeed": "Макс. скорость"
+    "TopSpeed": "Макс. скорость",
+    "ui.trackBuilder.toolbar.title": "Панель инструментов"
 }
