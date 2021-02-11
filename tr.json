@@ -3355,5 +3355,6 @@
     "ui.inputActions.camera.xAxisAbs.title": "xAxisAbs",
     "ui.inputActions.camera.xAxisAbs.description": "3B Uzay Mouse yanal pozisyonu",
     "ui.inputActions.camera.toggleFirstPerson.title": "Birinci Kişiye Geç",
-    "ui.inputActions.camera.toggleFirstPerson.description": "Birinci kişiye geçer"
+    "ui.inputActions.camera.toggleFirstPerson.description": "Birinci kişiye geçer",
+    "ui.inputActions.menu.menu_item_back.title": "İptal/Geri"
 }
