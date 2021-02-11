@@ -3357,7 +3357,7 @@
     "ui.inputActions.camera.toggleFirstPerson.title": "Birinci Kişiye Geç",
     "ui.inputActions.camera.toggleFirstPerson.description": "Birinci kişiye geçer",
     "ui.inputActions.menu.menu_item_back.title": "İptal/Geri",
-    "launchercpp.integrity_clipboard": "Yükleme hatalı",
+    "launchercpp.integrity_clipboard": "Yükleme bozuk",
     "launchercpp.integrity_hash": "Dosyalar karşılaştırılıyor...",
     "launchercpp.integrity_find_ukn": "Bilinmeyen dosyalar bulunuyor...",
     "launchercpp.integrity_no_problem": "Hiçbir sorun bulunamadı",
@@ -3378,5 +3378,6 @@
     "launchercpp.firewall_err_txt": "BeamNG.drive'ı Windows güvenlik duvarı istisna listesine eklemede başarısız oldu.",
     "launchercpp.firewall_err_title": "Güvenlik duvarı (Firewall) hatası",
     "ui.options.translationAutomatic": "Otomatik",
-    "ui.options.officialTranslations": "Resmi çeviriler"
+    "ui.options.officialTranslations": "Resmi çeviriler",
+    "launchercpp.integrity_corupt": "BeamNG.drive'ın dosyaları bozuk görünüyor. Lütfen oyunu yeniden yükleyin."
 }
