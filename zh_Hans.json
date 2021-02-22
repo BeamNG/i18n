@@ -1617,7 +1617,7 @@
     "ui.vehicleconfig.mouseOverUi": "输入文字时请将光标保持在用户界面上以确保输入正常",
     "ui.photomode.takeScreen": "截图",
     "ui.photomode.takebigScreen": "大画幅截图",
-    "ui.photomode.uploadScreen": "将截图上传至BeamNG媒体服务器（在浏览器中打开）",
+    "ui.photomode.uploadScreen": "上传截图至BeamNG媒体服务器（将在浏览器中打开）",
     "ui.photomode.quitPhotoMode": "退出拍照模式",
     "ui.photomode.advancedImgSettings": "高级图像设置",
     "ui.photomode.postfx": "PostFX",
@@ -3633,5 +3633,6 @@
     "vehicle.turbocharger.overheating": "涡轮增压机过热",
     "vehicle.main.instability": "检测到“{{vehicle}}”不稳定，模拟提前暂停。",
     "vehicle.core.spawnError": "该问题往往由模组或核心文件损坏导致。[url=https://documentation.beamng.com/support/support_tools/safe_mode.html][Click here for Safe Mode instructions][/url]如果问题无法解决，请执行一次净安装。[url=https://documentation.beamng.com/support/support_tools/clean_install.html][Click here Clean Install instructions][/url]",
-    "ui.environment.environmentalTemperature": "环境温度"
+    "ui.environment.environmentalTemperature": "环境温度",
+    "ui.apps.hotlapping.bestLap": "最快圈"
 }
