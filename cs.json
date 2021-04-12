@@ -1480,5 +1480,8 @@
     "ui.vehicleconfig.applyPartChangesAutomatically": "Aplikovat změny automaticky",
     "ui.vehicleconfig.sourceUser": "Uživatelská",
     "ui.vehicleconfig.sourceMod": "Mod",
-    "ui.vehicleconfig.sourceOfficial": "Oficiální"
+    "ui.vehicleconfig.sourceOfficial": "Oficiální",
+    "ui.vehicleconfig.searchHelp.notes2": "Argumenty vyhledávání jsou kombinovány s AND",
+    "ui.vehicleconfig.searchHelp.notes1": "Vyhledávání není citlivé na velikost písmen",
+    "ui.vehicleconfig.searchHelp.notes": "Poznámky"
 }
