@@ -436,7 +436,7 @@
     "ui.environment.uranus": "Uran",
     "ui.environment.venus": "Venuše",
     "ui.environment.weather": "Počasí",
-    "ui.environment.windSpeed": "Rychlost větru",
+    "ui.environment.windSpeed": "Rychlost oblaků",
     "ui.environment.zeroGravity": "Nulová gravitace",
     "ui.faq": "Nápověda / FAQ",
     "ui.faq.changeCamera.a": "Stisknutím [action=switch_camera] volíte mezi kamerami vozidla, nebo [action=toggleCamera] přepnete na volnou kameru.",
@@ -1464,5 +1464,13 @@
     "ui.trackbuilder.menus.resetTrack": "Resetovat trať",
     "ui.trackBuilder.base.drive": "Jízda",
     "ui.levelselect.x86DisabledToolbar": "Není dostupné, když hra běží v 32-bitovém režimu.",
-    "ui.levelselect.x86DisabledToolbar_2": "Pro hraní hry v 64-bitovím režimu je zapotřebí mít 64-bitový operační systém a více jak 4GB dostupné RAM."
+    "ui.levelselect.x86DisabledToolbar_2": "Pro hraní hry v 64-bitovím režimu je zapotřebí mít 64-bitový operační systém a více jak 4GB dostupné RAM.",
+    "ui.vehicleconfig.deleteTooltip": "Dvojím kliknutím tuto konfiguraci natrvalo smažeš! Tato akce je nevratná!",
+    "ui.vehicleconfig.loadTooltip": "Načíst tuto konfiguraci",
+    "ui.vehicleconfig.saveThumbnail": "Při uložení vygenerovat náhled",
+    "ui.environment.environmentalTemperature": "Teplota prostředí",
+    "ui.modmanager.actions": "Akce",
+    "ui.racetime.time": "Čas",
+    "ui.quickrace.time": "Čas",
+    "ui.quickrace.name": "Název"
 }
