@@ -1461,5 +1461,6 @@
     "ui.trackbuilder.base.banking": "Klopení",
     "ui.trackbuilder.menus.trackBuilder": "Stavitel Tratě",
     "ui.trackBuilder.base.test": "Testovat",
-    "ui.trackbuilder.menus.resetTrack": "Resetovat trať"
+    "ui.trackbuilder.menus.resetTrack": "Resetovat trať",
+    "ui.trackBuilder.base.drive": "Jízda"
 }
