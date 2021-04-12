@@ -1476,5 +1476,9 @@
     "ui.vehicleconfig.openConfigFolder": "Otevřít složku uživatelských konfigurací",
     "ui.modmanager.deleteTooltip": "Dvojklikem smažete všechny aktuálně nainstalované a odebírané mody! Tuto akci nelze vzít zpět!",
     "ui.repository.applySearch": "Použít",
-    "ui.repository.searchClear": "Vymazat hledání"
+    "ui.repository.searchClear": "Vymazat hledání",
+    "ui.vehicleconfig.applyPartChangesAutomatically": "Aplikovat změny automaticky",
+    "ui.vehicleconfig.sourceUser": "Uživatelská",
+    "ui.vehicleconfig.sourceMod": "Mod",
+    "ui.vehicleconfig.sourceOfficial": "Oficiální"
 }
