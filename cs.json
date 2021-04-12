@@ -1477,11 +1477,14 @@
     "ui.modmanager.deleteTooltip": "Dvojklikem smažete všechny aktuálně nainstalované a odebírané mody! Tuto akci nelze vzít zpět!",
     "ui.repository.applySearch": "Použít",
     "ui.repository.searchClear": "Vymazat hledání",
-    "ui.vehicleconfig.applyPartChangesAutomatically": "Aplikovat změny automaticky",
+    "ui.vehicleconfig.applyPartChangesAutomatically": "Automaticky použít změny",
     "ui.vehicleconfig.sourceUser": "Uživatelská",
     "ui.vehicleconfig.sourceMod": "Mod",
     "ui.vehicleconfig.sourceOfficial": "Oficiální",
     "ui.vehicleconfig.searchHelp.notes2": "Argumenty vyhledávání jsou kombinovány s AND",
     "ui.vehicleconfig.searchHelp.notes1": "Vyhledávání není citlivé na velikost písmen",
-    "ui.vehicleconfig.searchHelp.notes": "Poznámky"
+    "ui.vehicleconfig.searchHelp.notes": "Poznámky",
+    "ui.vehicleconfig.searchHelp.example3": "Vyhledat ve všech názvech \"frame\" (rám)",
+    "ui.vehicleconfig.searchHelp.example2": "Vyhledat ve všech slotech \"_fr\"",
+    "ui.vehicleconfig.searchHelp.example1": "Hledat v názvech všech dílů \"left\""
 }
