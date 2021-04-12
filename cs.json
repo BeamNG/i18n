@@ -1453,9 +1453,11 @@
     "ui.garage.photo.screenshot": "Pořídit snímek obrazovky",
     "ui.garage.photo.special": "Speciality",
     "ui.garage.load.emptyHint": "Tady najdeš auta, která si nakonfiguruješ a uložíš",
-    "ui.trackbuilder.menus.startTrackBuilder": "Spusťte nástroj Track Builder",
+    "ui.trackbuilder.menus.startTrackBuilder": "Spusťte nástroj Stavitel Tratě",
     "ui.garage.save.back": "Garáž",
     "ui.trackbuilder.menus.removeTrack": "Odstranit dráhu",
     "ui.trackbuilder.menus.editorSettings": "Nastavení editoru",
-    "ui.trackbuilder.menus.windows": "Okna"
+    "ui.trackbuilder.menus.windows": "Okna",
+    "ui.trackbuilder.base.banking": "Klopení",
+    "ui.trackbuilder.menus.trackBuilder": "Stavitel Tratě"
 }
