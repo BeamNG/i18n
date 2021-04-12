@@ -1452,5 +1452,6 @@
     "ui.garage.photo.camera": "Kamera",
     "ui.garage.photo.screenshot": "Pořídit snímek obrazovky",
     "ui.garage.photo.special": "Speciality",
-    "ui.garage.load.emptyHint": "Tady najdeš auta, která si nakonfiguruješ a uložíš"
+    "ui.garage.load.emptyHint": "Tady najdeš auta, která si nakonfiguruješ a uložíš",
+    "ui.trackbuilder.menus.startTrackBuilder": "Spusťte nástroj Track Builder"
 }
