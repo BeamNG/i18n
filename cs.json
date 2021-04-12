@@ -1446,5 +1446,8 @@
     "ui.debug.vehicle": "Ladění vozidla",
     "ui.debug.activatePhysics": "Aktivovat fyziku",
     "ui.debug.vehicle.debugVisible": "Ladit Viditelné",
-    "ui.debug.vehicle.aerodynamicsScale": "Měřítko Aerodynamiky"
+    "ui.debug.vehicle.aerodynamicsScale": "Měřítko Aerodynamiky",
+    "ui.garage.photo.uploadToBeamng": "Nahrát na mediální server",
+    "ui.garage.photo.uploadToSteam": "Nahrát na Steam",
+    "ui.garage.photo.camera": "Kamera"
 }
