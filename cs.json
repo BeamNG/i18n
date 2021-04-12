@@ -1450,5 +1450,7 @@
     "ui.garage.photo.uploadToBeamng": "Nahrát na mediální server",
     "ui.garage.photo.uploadToSteam": "Nahrát na Steam",
     "ui.garage.photo.camera": "Kamera",
-    "ui.garage.photo.screenshot": "Pořídit snímek obrazovky"
+    "ui.garage.photo.screenshot": "Pořídit snímek obrazovky",
+    "ui.garage.photo.special": "Speciality",
+    "ui.garage.load.emptyHint": "Tady najdeš auta, která si nakonfiguruješ a uložíš"
 }
