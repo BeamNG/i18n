@@ -1464,7 +1464,7 @@
     "ui.trackbuilder.menus.resetTrack": "Resetovat trať",
     "ui.trackBuilder.base.drive": "Jízda",
     "ui.levelselect.x86DisabledToolbar": "Není dostupné, když hra běží v 32-bitovém režimu.",
-    "ui.levelselect.x86DisabledToolbar_2": "Pro hraní hry v 64-bitovím režimu je zapotřebí mít 64-bitový operační systém a více jak 4GB dostupné RAM.",
+    "ui.levelselect.x86DisabledToolbar_2": "Pro spuštění hry v 64-bitovém režimu je zapotřebí 64-bitový operační systém a více než 4GB dostupné RAM.",
     "ui.vehicleconfig.deleteTooltip": "Dvojím kliknutím tuto konfiguraci natrvalo smažeš! Tato akce je nevratná!",
     "ui.vehicleconfig.loadTooltip": "Načíst tuto konfiguraci",
     "ui.vehicleconfig.saveThumbnail": "Při uložení vygenerovat náhled",
@@ -1472,5 +1472,8 @@
     "ui.modmanager.actions": "Akce",
     "ui.racetime.time": "Čas",
     "ui.quickrace.time": "Čas",
-    "ui.quickrace.name": "Název"
+    "ui.quickrace.name": "Název",
+    "ui.vehicleconfig.openConfigFolder": "Otevřít složku uživatelských konfigurací",
+    "ui.modmanager.deleteTooltip": "Dvojklikem smažete všechny aktuálně nainstalované a odebírané mody! Tuto akci nelze vzít zpět!",
+    "ui.repository.applySearch": "Použít"
 }
