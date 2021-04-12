@@ -1465,7 +1465,7 @@
     "ui.trackBuilder.base.drive": "Jízda",
     "ui.levelselect.x86DisabledToolbar": "Není dostupné, když hra běží v 32-bitovém režimu.",
     "ui.levelselect.x86DisabledToolbar_2": "Pro spuštění hry v 64-bitovém režimu je zapotřebí 64-bitový operační systém a více než 4GB dostupné RAM.",
-    "ui.vehicleconfig.deleteTooltip": "Dvojím kliknutím tuto konfiguraci natrvalo smažeš! Tato akce je nevratná!",
+    "ui.vehicleconfig.deleteTooltip": "Dvojklikem tuto konfiguraci trvale smažeš! Tato akce je nevratná!",
     "ui.vehicleconfig.loadTooltip": "Načíst tuto konfiguraci",
     "ui.vehicleconfig.saveThumbnail": "Při uložení vygenerovat náhled",
     "ui.environment.environmentalTemperature": "Teplota prostředí",
