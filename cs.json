@@ -1481,7 +1481,7 @@
     "ui.vehicleconfig.sourceUser": "Uživatelská",
     "ui.vehicleconfig.sourceMod": "Mod",
     "ui.vehicleconfig.sourceOfficial": "Oficiální",
-    "ui.vehicleconfig.searchHelp.notes2": "Argumenty vyhledávání jsou kombinovány s AND",
+    "ui.vehicleconfig.searchHelp.notes2": "Argumenty vyhledávání lze kombinovat pomocí AND",
     "ui.vehicleconfig.searchHelp.notes1": "Vyhledávání není citlivé na velikost písmen",
     "ui.vehicleconfig.searchHelp.notes": "Poznámky",
     "ui.vehicleconfig.searchHelp.example3": "Vyhledat ve všech názvech \"frame\" (rám)",
