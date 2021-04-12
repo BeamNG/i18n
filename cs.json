@@ -1488,5 +1488,6 @@
     "ui.vehicleconfig.searchHelp.example2": "Vyhledat ve všech slotech \"_fr\"",
     "ui.vehicleconfig.searchHelp.example1": "Hledat v názvech všech dílů \"left\"",
     "ui.vehicleconfig.searchHelp.historyClear": "Historii vyhledávání je možné vyčistit klávesovou zkratkou CTRL+K",
-    "ui.vehicleconfig.searchHelp.history": "Historie vyhledávání"
+    "ui.vehicleconfig.searchHelp.history": "Historie vyhledávání",
+    "ui.vehicleconfig.searchHelp.notes3": "Podporuje ukládání historie. Použij šipky nahoru/dolů"
 }
