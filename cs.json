@@ -1463,5 +1463,6 @@
     "ui.trackBuilder.base.test": "Testovat",
     "ui.trackbuilder.menus.resetTrack": "Resetovat trať",
     "ui.trackBuilder.base.drive": "Jízda",
-    "ui.levelselect.x86DisabledToolbar": "Není dostupné, když je hra zaplá v 32-bitovém režimu."
+    "ui.levelselect.x86DisabledToolbar": "Není dostupné, když je hra zaplá v 32-bitovém režimu.",
+    "ui.levelselect.x86DisabledToolbar_2": "Pro hraní hry v 64-bitovím režimu je zapotřebí mít 64-bitový operační systém a více jak 4GB dostupné RAM."
 }
