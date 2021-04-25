@@ -3686,7 +3686,7 @@
     "vehicle.turbocharger.overheating": "Перегрев турбины",
     "ui.radialmenu2.ai.follow.desc": "ИИ будет следовать за вами.",
     "ui.radialmenu2.ai.follow": "Следуй за мной!",
-    "launchercpp.warn_lavasoft2": "Игра будет работать в 32-битном режиме, чтобы избежать общих сбоев с Lavasoft software.",
+    "launchercpp.warn_lavasoft2": "Игра будет работать в 32-битном режиме, чтобы избежать распространённых сбоев с Lavasoft software.",
     "launchercpp.errorui_btn_openwiki": "Больше информации",
     "launchercpp.errorui_btn_copyclipboard": "Скопировать ошибку в буфер обмена",
     "launchercpp.errorui_btn_supporttool": "Связаться с поддержкой\nНужна помощь?",
