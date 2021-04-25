@@ -3685,5 +3685,13 @@
     "vehicle.recovery.saveHome": "Положение машины обновлено (используйте [action=loadHome] для восстановления)",
     "vehicle.turbocharger.overheating": "Перегрев турбины",
     "ui.radialmenu2.ai.follow.desc": "ИИ будет следовать за Вами.",
-    "ui.radialmenu2.ai.follow": "Следуй за мной!"
+    "ui.radialmenu2.ai.follow": "Следуй за мной!",
+    "launchercpp.warn_lavasoft2": "Игра будет работать в 32-битном режиме, чтобы избежать общих сбоев с Lavasoft software.",
+    "launchercpp.errorui_btn_openwiki": "Больше информации",
+    "launchercpp.errorui_btn_copyclipboard": "Скопировать ошибку в буфер обмена",
+    "launchercpp.errorui_btn_supporttool": "Связаться с поддержкой\nНужна помощь?",
+    "launchercpp.errorui_exit_title": "BeamNG.drive неожиданно завершила работу",
+    "launchercpp.ui_ask_confirm": "Вы уверены?",
+    "launchercpp.ui_error": "Ошибка",
+    "ui.options.officialTranslations": "Официальные переводы"
 }
