@@ -3230,7 +3230,7 @@
     "ui.radialmenu2.Save": "Сохранить",
     "ui.radialmenu2.Save.desc": "Сохранить машину в текущей форме.",
     "ui.radialmenu2.ai": "ИИ",
-    "ui.radialmenu2.ai.chase": "Следуй за мной!",
+    "ui.radialmenu2.ai.chase": "Поймай меня!",
     "ui.radialmenu2.ai.chase.desc": "ИИ будет преследовать вас и пытаться остановить.",
     "ui.radialmenu2.ai.desc": "Настройка различных параметров ИИ.",
     "ui.radialmenu2.ai.flee": "Беги!",
@@ -3684,7 +3684,7 @@
     "vehicle.recovery.recovering": "Выполняется восстановление машины...",
     "vehicle.recovery.saveHome": "Положение машины обновлено (используйте [action=loadHome] для восстановления)",
     "vehicle.turbocharger.overheating": "Перегрев турбины",
-    "ui.radialmenu2.ai.follow.desc": "ИИ будет следовать за Вами.",
+    "ui.radialmenu2.ai.follow.desc": "ИИ будет следовать за вами.",
     "ui.radialmenu2.ai.follow": "Следуй за мной!",
     "launchercpp.warn_lavasoft2": "Игра будет работать в 32-битном режиме, чтобы избежать общих сбоев с Lavasoft software.",
     "launchercpp.errorui_btn_openwiki": "Больше информации",
@@ -3693,5 +3693,10 @@
     "launchercpp.errorui_exit_title": "BeamNG.drive неожиданно завершила работу",
     "launchercpp.ui_ask_confirm": "Вы уверены?",
     "launchercpp.ui_error": "Ошибка",
-    "ui.options.officialTranslations": "Официальные переводы"
+    "ui.options.officialTranslations": "Официальные переводы",
+    "launchercpp.ui_cancel": "Отмена",
+    "launchercpp.moveusr_verif": "Переместить пользовательские данные (кроме кеша и файлов логов)",
+    "launchercpp.moveusr_default": "Сбросить расположение\nВернуть папку пользователя обратно в папку «Документы».",
+    "launchercpp.moveusr_open": "Открыть в Проводнике\nОткрыть текущую пользовательскую папку в Проводнике.",
+    "launchercpp.moveusr_do": "Выберите новое расположение\nУкажите новое расположение для папки пользователя."
 }
