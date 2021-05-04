@@ -3379,5 +3379,17 @@
     "launchercpp.firewall_err_title": "Güvenlik duvarı (Firewall) hatası",
     "ui.options.translationAutomatic": "Otomatik",
     "ui.options.officialTranslations": "Resmi çeviriler",
-    "launchercpp.integrity_corupt": "BeamNG.drive'ın dosyaları bozuk görünüyor. Lütfen oyunu yeniden yükleyin."
+    "launchercpp.integrity_corupt": "BeamNG.drive'ın dosyaları bozuk görünüyor. Lütfen oyunu yeniden yükleyin.",
+    "ui.inputActions.menu.menu_item_radial_right_x.title": "Menü kaydırma (yatay)",
+    "ui.inputActions.menu.menu_item_radial_right_x.description": "Yan öğeleri kaydırır (yatay eksende)",
+    "ui.inputActions.menu.menu_item_left.title": "Menüde sol",
+    "ui.inputActions.menu.menu_item_left.description": "Kabaca mevcut olanın solundaki menü öğesine gider",
+    "ui.inputActions.menu.menu_item_down.title": "Menüde aşağı",
+    "ui.inputActions.menu.menu_item_down.description": "Kabaca mevcut olanın altındaki menü öğesine gider",
+    "ui.inputActions.menu.menu_item_dashboard.title": "Kontrol Paneli",
+    "ui.inputActions.menu.menu_item_dashboard.description": "Nerede olursan ol Kontrol Paneli'ne döner",
+    "ui.inputActions.menu.menu_item_confirm.title": "Menü onayla",
+    "ui.inputActions.menu.menu_item_confirm.description": "Seçili olan menü öğesiyle ilişkili eylemi yürütür",
+    "ui.inputActions.menu.menu_item_back.description": "Seçili menü öğesinde tıklama gerçekleştirir",
+    "ui.options.userInterface.richPresence": "Zengin Varlığı Etkinleştir"
 }
