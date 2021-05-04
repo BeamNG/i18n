@@ -3395,7 +3395,7 @@
     "ui.inputActions.vehicle.increase_cc_speed_large.title": "Hız Sabitleyici Hızını Arttır (10 km/s)",
     "ui.inputActions.vehicle.increase_cc_speed.title": "Hız Sabitleyici Hızını Arttır (1 km/s)",
     "ui.inputActions.vehicle.increase_cc_speed.description": "Hız sabitleyici hedef hızını 1 km/s arttırır",
-    "ui.inputActions.vehicle.increase_cc_speed_large.description": "Hız sabitleyici hedef hızını 10 km/s arttır",
+    "ui.inputActions.vehicle.increase_cc_speed_large.description": "Hız sabitleyici hedef hızını 10 km/s arttırır",
     "ui.inputActions.vehicle.increaseTwoStepRPM.title": "İki aşamalı kalkış devrini arttır",
     "ui.inputActions.vehicle.increaseTwoStepRPM.description": "İki aşamalı kalkış devrini arttırır",
     "ui.inputActions.vehicle.horn.title": "Korna",
