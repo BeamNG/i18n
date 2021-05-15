@@ -438,7 +438,7 @@
     "ui.environment.weather": "Počasí",
     "ui.environment.windSpeed": "Rychlost oblaků",
     "ui.environment.zeroGravity": "Nulová gravitace",
-    "ui.faq": "Nápověda / FAQ",
+    "ui.faq": "Nápověda / Rychlé odkazy",
     "ui.faq.changeCamera.a": "Stisknutím [action=switch_camera] volíte mezi kamerami vozidla, nebo [action=toggleCamera] přepnete na volnou kameru.",
     "ui.faq.changeCamera.q": "Jak změním pohled?",
     "ui.faq.changeVehicle.a": "Obrazovku pro výběr vozu můžete otevřít z herního menu [action=toggleMenues] nebo stiskem [action=vehicle_selector].",
@@ -1523,5 +1523,9 @@
     "ui.options.traffic.trafficAllowMods": "Povolit vytváření vozidel – modů",
     "ui.apps.vehicleDebug.breakAll": "Zničit všechny destrukční skupiny",
     "ui.debug.vehicle.tireContactPoint": "Ladění styčné plochy pneumatik",
-    "vehicle.bdebug.beamVisMode.breakgroups": "Destrukční skupiny"
+    "vehicle.bdebug.beamVisMode.breakgroups": "Destrukční skupiny",
+    "ui.faq.getHelp.a": "Jestliže máte problémy se hrou, můžete nás kontaktovat těmito způsoby: [br][br][url=http://www.beamng.com/forums/]Na fóru BeamNG.com[/url] [url=http://support.beamng.com/]Skrze e‑mailovou podporu[/url] [br] Budeme se snažit Vás kontaktovat co nejdříve to bude možné, vydržte ale prosím několik pracovních dnů",
+    "ui.faq.getHelp.q": "Kde získám podporu?",
+    "ui.debug.renderer.toggleFps": "Přepnout zobrazení FPS",
+    "ui.debug.terrain.staticCollision": "Statické kolize"
 }
