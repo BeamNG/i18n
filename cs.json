@@ -639,7 +639,7 @@
     "ui.performance.ram.wipNote": "Paměť nemusí být přesná, pracujeme na zlepšení",
     "ui.performance.score": "Skóre",
     "ui.performance.showDetails": "Zobrazit detaily",
-    "ui.performance.warnings.amdhd": "Doporučená grafická karta je alespoň AMD Radeon HD XXX",
+    "ui.performance.warnings.amdhd": "Je doporučen alespoň AMD Radeon HD XXX",
     "ui.performance.warnings.app32": "Doporučuje se 64bitová verze hry: momentálně spuštěno v režimu kompatibility x86",
     "ui.performance.warnings.cpulowclock": "Takt procesoru je nižší než 2 GHz",
     "ui.performance.warnings.cpuonecore": "Hra nebude plynulá na pouhém jednom fyzickém jádru",
