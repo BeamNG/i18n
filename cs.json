@@ -1789,5 +1789,7 @@
     "ui.mapview.labels.race": "Závod",
     "ui.mapview.labels.timeTrial": "Časovka",
     "ui.mapview.labels.stunt": "Kaskadérský kousek",
-    "ui.mapview.labels.crawl": "Crawl"
+    "ui.mapview.labels.crawl": "Crawl",
+    "ui.trackBuilder.title": "Editor Tratí",
+    "ui.mapview.labels.airport": "Letiště"
 }
