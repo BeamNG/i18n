@@ -1539,5 +1539,6 @@
     "ui.faq.steeringWheels.a": "Většina herních volantů funguje jako „Plug and Play“ (zapoj a hraj), pokud máš nainstalovaný potřebný software. [br] Pokud potřebuješ další pomoc, přečti si našeho zevrubného průvodce na stránce [url=https://wiki.beamng.com/Steering_wheel_setup]Nastavení herního volantu[/url]",
     "ui.faq.steeringWheels.q": "Jak mám používat herní volant?",
     "ui.faq.blog.a": "Naše pokroky můžete sledovat skrze naše fórum a blog [br] Také nás můžete sledovat na Facebooku, Twitteru, YouTube, Instagramu a Redditu [url=https://blog.beamng.com/blog/]Official Blog[/url]",
-    "ui.faq.blog.q": "Kde mohu sledovat vývoj hry?"
+    "ui.faq.blog.q": "Kde mohu sledovat vývoj hry?",
+    "ui.performance.tempHide": "Skrýt uživatelské rozhraní po dobu 10 sekund"
 }
