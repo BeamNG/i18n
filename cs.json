@@ -1724,5 +1724,9 @@
     "ui.radialmenu2.traffic.stop.desc": "Zastaví režim provozu.",
     "ui.radialmenu2.traffic.stop": "Zastavit provoz",
     "ui.radialmenu2.traffic.start.desc": "Spustit režim provozu pro všechna vozidla.",
-    "ui.radialmenu2.traffic.start": "Spustit provoz"
+    "ui.radialmenu2.traffic.start": "Spustit provoz",
+    "ui.goals.finishRace": "Dokončete závod",
+    "ui.goals.damage": "Poškození",
+    "ui.goals.speed": "Rychlost",
+    "ui.goals.timeLimit": "Časový limit"
 }
