@@ -1729,5 +1729,12 @@
     "ui.goals.damage": "Poškození",
     "ui.goals.speed": "Rychlost",
     "ui.goals.timeLimit": "Časový limit",
-    "ui.goals.wayPointAction": "Jízda trasovými body"
+    "ui.goals.wayPointAction": "Jízda trasovými body",
+    "ui.garage.tune.advWheel": "Pokročilá data z ladění kol",
+    "ui.garage.tune.live": "Okamžité údaje",
+    "ui.garage.tune.tuning": "Tuning",
+    "ui.garage.exit": "Opustit garáž",
+    "ui.garage.tabs.tune": "Seřízení",
+    "ui.garage.tabs.parts": "Díly",
+    "ui.garage.tabs.vehicles": "Vozidla"
 }
