@@ -1669,5 +1669,15 @@
     "ui.radialmenu2.funstuff.Hinges": "Panty",
     "ui.radialmenu2.funstuff.Break.desc": "Rozbije všechny komponenty vozidla.",
     "ui.radialmenu2.funstuff.Boom": "Bum",
-    "ui.radialmenu2.funstuff.Boom.desc": "Vyhodit vozidlo do povětří."
+    "ui.radialmenu2.funstuff.Boom.desc": "Vyhodit vozidlo do povětří.",
+    "ui.radialmenu2.traffic.spawnPolice.desc": "Vytvářet skupiny vozidel včetně policejních vozů.",
+    "ui.radialmenu2.traffic.spawnPolice": "Vytvářet (s policií)",
+    "ui.radialmenu2.traffic.spawnNormal.desc": "Vytvářet skupiny vozidel.",
+    "ui.radialmenu2.traffic.spawnNormal": "Vytvářet (běžný)",
+    "ui.radialmenu2.powertrain.rangebox_mode.desc": "Přepíná mezi režimy dělicí převodovky.",
+    "ui.radialmenu2.powertrain.rangebox_mode": "Režim dělicí převodovky",
+    "ui.radialmenu2.powertrain.gearbox_mode": "Režim převodovky",
+    "ui.radialmenu2.powertrain.engine": "Motor",
+    "ui.radialmenu2.powertrain.desc": "Ovládání všech režimů hnacího ústrojí.",
+    "ui.radialmenu2.powertrain": "Hnací ústrojí"
 }
