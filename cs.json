@@ -1584,7 +1584,7 @@
     "ui.performance.highsea.txt": "Děkujeme Ti za vyzkoušení naší hry! :) [br][br] Zdá se, že používáš neoficiální kopii. Z vlastní zkušenosti víme, že tyto mohou být méně spolehlivé než oficiální vydání a mohou obsahovat malware, raději si zkontroluj počítač. [br][br] Pokud se Ti líbí náš produkt a chtěl bys podpořit úsilí, které do vývoje vkládáme, vždy si užívat nejnovější verzi a získat oficiální podporu, zvaž prosím zakoupení oficiální kopie BeamNG.drive na [url=https://store.steampowered.com/app/284160/BeamNGdrive]Steamu[/url] nebo [url=https://www.humblebundle.com/store/beamngdrive]Humble Bundle[/url].[br][br] Děkujeme Ti za celý tým!",
     "ui.performance.warnings.highseas": "Ahoj!",
     "ui.performance.warnings.toomanymods": "Možná máte příliš mnoho modů, což může mít dopad na výkon. Zkuste některé zakázat.",
-    "ui.performance.warnings.lowfreespace": "Na disku s uživatelským nebo herním adresářem zbývá méně než 1 GB volného místa.",
+    "ui.performance.warnings.lowfreespace": "Na disku s uživatelskou nebo herní složkou zbývá méně než 1 GB volného místa.",
     "ui.performance.disk.free": "Volné místo",
     "ui.performance.disk.used": "Využité místo",
     "ui.performance.disk": "Úložiště (HDD/SSD)",
