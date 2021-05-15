@@ -1519,5 +1519,6 @@
     "ui.apps.engine_thermal_debug.oilDamage": "Poškození oleje",
     "ui.apps.engine_thermal_debug.blockDamage": "Poškození bloku motoru",
     "ui.apps.engine_thermal_debug.engineEfficiency": "Efektivita motoru",
-    "ui.options.gameplay.defaultGearboxBehavior.tooltip": "Nastavuje výchozí chování převodovky. Změna se projeví po znovuvytvoření nového vozidla."
+    "ui.options.gameplay.defaultGearboxBehavior.tooltip": "Nastavuje výchozí chování převodovky. Změna se projeví po znovuvytvoření nového vozidla.",
+    "ui.options.traffic.trafficAllowMods": "Umožnit vytváření vozidel – modů"
 }
