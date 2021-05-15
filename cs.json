@@ -1670,10 +1670,10 @@
     "ui.radialmenu2.funstuff.Break.desc": "Rozbije všechny komponenty vozidla.",
     "ui.radialmenu2.funstuff.Boom": "Bum",
     "ui.radialmenu2.funstuff.Boom.desc": "Vyhodit vozidlo do povětří.",
-    "ui.radialmenu2.traffic.spawnPolice.desc": "Vytvářet skupiny vozidel včetně policejních vozů.",
-    "ui.radialmenu2.traffic.spawnPolice": "Vytvářet (s policií)",
-    "ui.radialmenu2.traffic.spawnNormal.desc": "Vytvářet skupiny vozidel.",
-    "ui.radialmenu2.traffic.spawnNormal": "Vytvářet (běžný)",
+    "ui.radialmenu2.traffic.spawnPolice.desc": "Vytvořit skupinu vozidel včetně policejních.",
+    "ui.radialmenu2.traffic.spawnPolice": "Vytvořit (s policií)",
+    "ui.radialmenu2.traffic.spawnNormal.desc": "Vytvořit skupinu vozidel.",
+    "ui.radialmenu2.traffic.spawnNormal": "Vytvořit (běžný)",
     "ui.radialmenu2.powertrain.rangebox_mode.desc": "Přepíná mezi režimy dělicí převodovky.",
     "ui.radialmenu2.powertrain.rangebox_mode": "Režim dělicí převodovky",
     "ui.radialmenu2.powertrain.gearbox_mode": "Režim převodovky",
@@ -1719,5 +1719,10 @@
     "ui.radialmenu2.Manage.Remove.desc": "Odstranit aktuální vozidlo.",
     "ui.radialmenu2.Manage.Remove": "Odstranit",
     "ui.radialmenu2.Manage.desc": "Ovládání správy vozidel / vytváření vozidel.",
-    "ui.radialmenu2.Manage": "Spravovat"
+    "ui.radialmenu2.Manage": "Spravovat",
+    "ui.radialmenu2.bus.kneel": "Snížit nástupní hranu autobusu",
+    "ui.radialmenu2.traffic.stop.desc": "Zastaví režim provozu.",
+    "ui.radialmenu2.traffic.stop": "Zastavit provoz",
+    "ui.radialmenu2.traffic.start.desc": "Spustit režim provozu pro všechna vozidla.",
+    "ui.radialmenu2.traffic.start": "Spustit provoz"
 }
