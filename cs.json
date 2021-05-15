@@ -1658,5 +1658,9 @@
     "ui.radialmenu2.electrics.fog_lights.desc": "Přepnout mlhová světla.",
     "ui.radialmenu2.electrics.fog_lights": "Mlhová světla",
     "ui.radialmenu2.electrics.headlights.high.desc": "Zapnout dálková světla.",
-    "ui.radialmenu2.electrics.headlights.high": "Dálková"
+    "ui.radialmenu2.electrics.headlights.high": "Dálková",
+    "ui.radialmenu2.funstuff.Extinguish.desc": "Uhasit na vozidle všechny plameny.",
+    "ui.radialmenu2.funstuff.Extinguish": "Uhasit",
+    "ui.radialmenu2.funstuff.Fire.desc": "Podpálit vozidlo.",
+    "ui.radialmenu2.funstuff.Tires": "Pneumatiky"
 }
