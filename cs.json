@@ -1601,12 +1601,15 @@
     "ui.hints.toggleMods": "Ve Správci modů můžeš snadno povolit a zakázat všechny mody kliknutím na „Aktivovat všechny mody“/„Deaktivovat všechny mody“.",
     "ui.hints.photoModeMenu": "Menu Fotografického režimu nabízí pokročilé ovládání kamery a možnost přímého nahrávání snímků na servery BeamNG.",
     "ui.hints.startSlow": "Když řídíš auto úplně poprvé, může se snadno stát, že se nevejdeš do zatáček. Začni pomalejší jízdou a postupně přidávej, až poznáš, jak se to které vozidlo chová.",
-    "ui.hints.slideBackWithParkingBrake": "Vozidla s náhonem předních kol, jejichž přední část je kvůli umístění motoru vpředu těžší, je snadné dostat do smyku parkovací brzdou, zejména na nepřilnavých površích.",
+    "ui.hints.slideBackWithParkingBrake": "Předokolky s těžkým čumákem snadno dostaneš do smyku parkovací brzdou, zejména na nezpevněném povrchu.",
     "ui.hints.changeBrakePads": "Když pocítíš pokles účinnosti brzd, namontuj lepší brzdové destičky ve Výběru dílů [action=parts_selector].",
     "ui.radialmenu2.ai.flee.desc": "AI se vám bude pokoušet uniknout.",
     "ui.radialmenu2.ai.desc": "Ovládání různých možností AI (umělé inteligence).",
     "ui.radialmenu2.ai": "AI",
     "ui.radialmenu2.back.desc": "Vrátit se zpět o jednu úroveň.",
     "ui.radialmenu2.back": "Zpět",
-    "ui.radialmenu2.main_menu": "Hlavní menu"
+    "ui.radialmenu2.main_menu": "Hlavní menu",
+    "ui.radialmenu2.ai.flee": "Zdrhej!",
+    "ui.radialmenu2.ai.chase.desc": "AI tě bude stíhat a pokusí se tě zastavit.",
+    "ui.radialmenu2.ai.chase": "Chyť mě!"
 }
