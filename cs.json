@@ -1594,7 +1594,7 @@
     "ui.performance.warnings.rootmodified": "Složka hry je modifikována nebo poškozena. Zkontroluj integritu souborů pomocí Steamu nebo spouštěče hry (launcher).",
     "ui.performance.warnings.onedrive": "Uživatelská složka je synchronizována s cloudovou službou (například OneDrive). [url=https://wiki.beamng.com/BeamNG_FAQ#How_do_I_change_the_.27mods.27_folder_location.3F]Změň prosím umístění uživatelské složky[/url], aby ses vyhnul neočekávanému chování.",
     "ui.performance.warnings.toomanycache": "Byly nalezeny soubory mezipaměti starších verzí. Bylo by vhodné použít spouštěč hry (Launcher) na uvolnění místa.",
-    "ui.hints.cruiseControlApp": "Pro dlouhé a pohodové vyjížďky po dálnicích si můžete do uživatelského rozhraní přidat aplikaci „Tempomat“. Funguje ve všech vozidlech!",
+    "ui.hints.cruiseControlApp": "Pro dlouhé a pohodové vyjížďky po dálnici si můžeš do uživatelského rozhraní přidat aplikaci „Tempomat“. Funguje ve všech vozidlech!",
     "ui.changelog": "Seznam změn",
     "ui.performance.disk.run": "Ukázat využité místo",
     "ui.hints.unlockExtraFunctionality": "Odemkni extra funkce povolením Možnosti > Uživatelské rozhraní > Pokročilé funkce.",
