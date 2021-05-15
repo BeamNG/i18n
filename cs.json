@@ -1603,7 +1603,7 @@
     "ui.hints.startSlow": "Když řídíš auto úplně poprvé, může se snadno stát, že se nevejdeš do zatáček. Začni pomalejší jízdou a postupně přidávej, až poznáš, jak se to které vozidlo chová.",
     "ui.hints.slideBackWithParkingBrake": "Předokolky s těžkým čumákem snadno dostaneš do smyku parkovací brzdou, zejména na nezpevněném povrchu.",
     "ui.hints.changeBrakePads": "Když pocítíš pokles účinnosti brzd, namontuj lepší brzdové destičky ve Výběru dílů [action=parts_selector].",
-    "ui.radialmenu2.ai.flee.desc": "AI se vám bude pokoušet uniknout.",
+    "ui.radialmenu2.ai.flee.desc": "AI se ti bude snažit uniknout.",
     "ui.radialmenu2.ai.desc": "Ovládání různých možností AI (umělé inteligence).",
     "ui.radialmenu2.ai": "AI",
     "ui.radialmenu2.back.desc": "Vrátit se zpět o jednu úroveň.",
@@ -1611,5 +1611,11 @@
     "ui.radialmenu2.main_menu": "Hlavní menu",
     "ui.radialmenu2.ai.flee": "Zdrhej!",
     "ui.radialmenu2.ai.chase.desc": "AI tě bude stíhat a pokusí se tě zastavit.",
-    "ui.radialmenu2.ai.chase": "Chyť mě!"
+    "ui.radialmenu2.ai.chase": "Chyť mě!",
+    "ui.radialmenu2.electrics.headlights.off": "Vypnuto",
+    "ui.radialmenu2.couplers.detach_all.desc": "Rozpojí všechny aktuálně spojené vazební členy.",
+    "ui.radialmenu2.couplers.toggle.desc": "Přepíná stav vazebního členu mezi spojen/rozpojen.",
+    "ui.radialmenu2.couplers.attach_all.desc": "Připojí všechny blízké vazební členy.",
+    "ui.radialmenu2.couplers.desc": "Ovládání pro spojení/rozpojení vazebních členů.",
+    "ui.radialmenu2.couplers": "Vazební členy"
 }
