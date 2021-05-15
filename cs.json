@@ -1592,6 +1592,6 @@
     "ui.performance.rootpath": "Herní složka",
     "ui.performance.userpath": "Uživatelská složka",
     "ui.performance.warnings.rootmodified": "Složka hry je modifikována nebo poškozena. Zkontroluj integritu souborů pomocí Steamu nebo spouštěče hry (launcher).",
-    "ui.performance.warnings.onedrive": "Adresář uživatele je synchronizován s cloudovou službou (například OneDrive). [url=https://wiki.beamng.com/BeamNG_FAQ#How_do_I_change_the_.27mods.27_folder_location.3F]Změňte prosím umístění adresáře uživatele[/url], abyste se vyhnuli neočekávanému chování.",
+    "ui.performance.warnings.onedrive": "Uživatelská složka je synchronizována s cloudovou službou (například OneDrive). [url=https://wiki.beamng.com/BeamNG_FAQ#How_do_I_change_the_.27mods.27_folder_location.3F]Změň prosím umístění uživatelské složky[/url], aby ses vyhnul neočekávanému chování.",
     "ui.performance.warnings.toomanycache": "Byly nalezeny soubory mezipaměti z předchozích verzí. Možná byste mohli chtít použít spouštěč hry, abyste uvolnili místo na disku."
 }
