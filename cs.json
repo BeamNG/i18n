@@ -1527,5 +1527,9 @@
     "ui.faq.getHelp.a": "Jestliže máte problémy se hrou, můžete nás kontaktovat těmito způsoby: [br][br][url=http://www.beamng.com/forums/]Na fóru BeamNG.com[/url] [url=http://support.beamng.com/]Skrze e‑mailovou podporu[/url] [br] Budeme se snažit Vás kontaktovat co nejdříve to bude možné, vydržte ale prosím několik pracovních dnů",
     "ui.faq.getHelp.q": "Kde získám podporu?",
     "ui.debug.renderer.toggleFps": "Přepnout zobrazení FPS",
-    "ui.debug.terrain.staticCollision": "Statické kolize"
+    "ui.debug.terrain.staticCollision": "Statické kolize",
+    "ui.faq.installingMods.a": "Použití modů je snadné a mohou být nainstalovány několika způsoby: [url=https://wiki.beamng.com/How_to_install_mods]Jak nainstalovat mody[/url]",
+    "ui.faq.installingMods.q": "Jak stáhnu a nainstaluji mody?",
+    "ui.faq.updatingGame.a": "Kompletní postup naleznete na této stránce: [url=http://wiki.beamng.com/Updating_the_game]Aktualizace hry[/url]",
+    "ui.faq.updatingGame.q": "Jak mohu hru aktualizovat?"
 }
