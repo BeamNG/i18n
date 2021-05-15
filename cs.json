@@ -1509,7 +1509,7 @@
     "ui.apps.engine_thermal_debug.cylinderlWall": "Stěna válce",
     "ui.apps.engine_thermal_debug.block": "Blok",
     "ui.apps.engine_thermal_debug.oil": "Olej",
-    "ui.apps.engine_thermal_debug.coolantEfficiency": "Efektivita chladící kapaliny",
+    "ui.apps.engine_thermal_debug.coolantEfficiency": "Efektivita chladicí kapaliny",
     "ui.options.gameplay.escBehavior.tooltip": "Nastavuje, jakým způsobem funguje ESC systém vozidla. Začne se používat po vytvoření nového vozidla.",
     "ui.apps.escstiffness.progress": "Postup",
     "ui.apps.escstiffness.state": "Stav",
