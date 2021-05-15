@@ -1561,7 +1561,7 @@
     "ui.performance.improvements.ssao": "Vypněte SSAO v",
     "ui.performance.improvements": "Základní vylepšení výkonu",
     "ui.performance.maxRealtimeVehicles": "Maximální počet vozidel v reálném čase",
-    "ui.performance.laptopGPU.msg": "Jestliže je Váš notebook vybaven dedikovanou grafickou kartou, můžete ji přepnout v Ovládacím panelu grafiky [url=https://wiki.beamng.com/Dedicated_Graphics]Instructions[/url]",
+    "ui.performance.laptopGPU.msg": "Jestliže je tvůj notebook vybaven dedikovanou grafickou kartou, můžeš ji přepnout v Ovládacím panelu grafiky [url=https://wiki.beamng.com/Dedicated_Graphics]Návod[/url]",
     "ui.performance.laptopGPU": "Jak mám používat dedikovanou grafickou kartu v notebooku?",
     "ui.performance.link.graphicsOptions": "grafické předvolby",
     "ui.performance.warnings.toolessmemoryfor64bit": "Není spuštěna 64bitová verze: Systém disponuje 4 GB nebo menším množství paměti RAM"
