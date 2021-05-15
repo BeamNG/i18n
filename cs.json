@@ -1590,5 +1590,6 @@
     "ui.performance.disk": "Úložiště (HDD/SSD)",
     "ui.performance.highsea.okay": "Dobrá! Arrr!",
     "ui.performance.rootpath": "Herní složka",
-    "ui.performance.userpath": "Uživatelská složka"
+    "ui.performance.userpath": "Uživatelská složka",
+    "ui.performance.warnings.rootmodified": "Herní adresář je modifikován nebo poškozen. Zkontrolujte integritu obsažených souborů pomocí Steamu nebo spouštěče hry."
 }
