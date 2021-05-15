@@ -1664,9 +1664,10 @@
     "ui.radialmenu2.funstuff.Fire.desc": "Podpálit vozidlo.",
     "ui.radialmenu2.funstuff.Tires": "Pneumatiky",
     "ui.radialmenu2.funstuff.Fire": "Oheň",
-    "ui.radialmenu2.funstuff.Tires.desc": "Vypustí všechny pneumatiky vozidla.",
+    "ui.radialmenu2.funstuff.Tires.desc": "Vypustit všechny pneumatiky vozidla.",
     "ui.radialmenu2.funstuff.Hinges.desc": "Zničit všechny panty na vozidle",
     "ui.radialmenu2.funstuff.Hinges": "Panty",
     "ui.radialmenu2.funstuff.Break.desc": "Rozbije všechny komponenty vozidla.",
-    "ui.radialmenu2.funstuff.Boom": "Bum"
+    "ui.radialmenu2.funstuff.Boom": "Bum",
+    "ui.radialmenu2.funstuff.Boom.desc": "Vyhodit vozidlo do povětří."
 }
