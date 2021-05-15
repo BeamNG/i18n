@@ -1786,5 +1786,7 @@
     "ui.mapview.labels.transitionPoint": "Odejít z mapy",
     "ui.mapview.labels.delivery": "Dovoz",
     "ui.mapview.labels.chase": "Honička",
-    "ui.mapview.labels.race": "Závod"
+    "ui.mapview.labels.race": "Závod",
+    "ui.mapview.labels.timeTrial": "Časovka",
+    "ui.mapview.labels.stunt": "Kaskadérský kousek"
 }
