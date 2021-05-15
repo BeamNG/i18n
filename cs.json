@@ -1521,5 +1521,6 @@
     "ui.apps.engine_thermal_debug.engineEfficiency": "Efektivita motoru",
     "ui.options.gameplay.defaultGearboxBehavior.tooltip": "Nastavuje výchozí chování převodovky. Změna se projeví po vytvoření nového vozidla.",
     "ui.options.traffic.trafficAllowMods": "Povolit vytváření vozidel – modů",
-    "ui.apps.vehicleDebug.breakAll": "Zničit všechny zničitelné skupiny"
+    "ui.apps.vehicleDebug.breakAll": "Zničit všechny zničitelné skupiny",
+    "ui.debug.vehicle.tireContactPoint": "Ladění styčné plochy pneumatik"
 }
