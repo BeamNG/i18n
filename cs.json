@@ -1567,6 +1567,6 @@
     "ui.performance.warnings.toolessmemoryfor64bit": "Není spuštěna 64bitová verze: Systém disponuje 4 GB nebo nebo méně paměti RAM",
     "ui.performance.warnings.xinput": "XInput (používaný pro gamepady) není k dispozici. Přeinstalujte prosím DirectX 9: [url=http://wiki.beamng.com/DirectXInstallation]wiki.beamng.com/DirectXInstallation[/url]",
     "ui.performance.warnings.thirdpartysoftware": "Není spuštěna 64bitová verze: Byl detekován software Lavasoft. Více informací a řešení naleznete zde: [url=http://wiki.beamng.com/Lavasoft]wiki.beamng.com/Lavasoft[/url]",
-    "ui.performance.warnings.lowmem": "Je doporučeno používat 8 GB paměti RAM",
+    "ui.performance.warnings.lowmem": "Doporučeno je 8 GB paměti RAM",
     "ui.performance.warnings.minmem": "Zjištěno méně než 4 GB paměti RAM. Pro načtení některých úrovní není dostatek systémové paměti"
 }
