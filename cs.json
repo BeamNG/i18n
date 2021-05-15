@@ -1773,5 +1773,14 @@
     "ui.garage.tune.sai": "Příklon rejdové osy",
     "ui.garage.tune.caster": "Záklon rejdové osy",
     "ui.garage.tune.toe": "Sbíhavost",
-    "ui.garage.tune.camber": "Odklon"
+    "ui.garage.tune.camber": "Odklon",
+    "ui.mapview.labels.gold": "Zlatá",
+    "ui.mapview.labels.silver": "Stříbrná",
+    "ui.mapview.labels.bronze": "Bronzová",
+    "ui.mapview.labels.skipped": "Přeskočeno",
+    "ui.mapview.labels.failed": "Selhal jsi",
+    "ui.mapview.labels.ready": "Připraven",
+    "ui.mapview.labels.subtype": "Body zájmu",
+    "ui.mapview.labels.type": "Typ Mise",
+    "ui.mapview.labels.state": "Stav mise"
 }
