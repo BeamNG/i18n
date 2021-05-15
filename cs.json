@@ -1569,5 +1569,6 @@
     "ui.performance.warnings.thirdpartysoftware": "Není spuštěna 64bitová verze: Byl detekován software Lavasoft. Více informací a řešení naleznete zde: [url=http://wiki.beamng.com/Lavasoft]wiki.beamng.com/Lavasoft[/url]",
     "ui.performance.warnings.lowmem": "Doporučeno je 8 GB paměti RAM",
     "ui.performance.warnings.minmem": "Méně než 4 GB paměti RAM: Nedostatek paměti pro načtení některých úrovní",
-    "ui.performance.warnings.memused": "Je využito více než 80 % systémové paměti RAM. Zvažte vypnutí některých aplikací nebo restart počítače."
+    "ui.performance.warnings.memused": "Je využito více než 80 % systémové paměti RAM. Zvažte vypnutí některých aplikací nebo restart počítače.",
+    "ui.performance.warnings.cpu64bits": "Je doporučen 64bitový procesor"
 }
