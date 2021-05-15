@@ -1791,5 +1791,9 @@
     "ui.mapview.labels.stunt": "Kaskadérský kousek",
     "ui.mapview.labels.crawl": "Crawl",
     "ui.trackBuilder.title": "Editor Tratí",
-    "ui.mapview.labels.airport": "Letiště"
+    "ui.mapview.labels.airport": "Letiště",
+    "ui.mapview.labels.missionGiver": "Zadavatel mise",
+    "ui.mapview.labels.photoMode": "Fotografické safari",
+    "ui.mapview.labels.harbor": "Přístav",
+    "ui.mapview.labels.vendor": "Dodavatel"
 }
