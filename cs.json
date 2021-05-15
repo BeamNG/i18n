@@ -1510,5 +1510,13 @@
     "ui.apps.engine_thermal_debug.block": "Blok",
     "ui.apps.engine_thermal_debug.oil": "Olej",
     "ui.apps.engine_thermal_debug.coolantEfficiency": "Efektivita chladící kapaliny",
-    "ui.options.gameplay.escBehavior.tooltip": "Nastavuje, jakým způsobem funguje ESC systém vozidla. Začne se používat po vytvoření nového vozidla."
+    "ui.options.gameplay.escBehavior.tooltip": "Nastavuje, jakým způsobem funguje ESC systém vozidla. Začne se používat po vytvoření nového vozidla.",
+    "ui.apps.escstiffness.progress": "Postup",
+    "ui.apps.escstiffness.state": "Stav",
+    "ui.apps.escstiffness.stop": "Zastavit test",
+    "ui.apps.escstiffness.start": "Spustit test",
+    "ui.apps.engine_thermal_debug.cylinderwallDamage": "Poškození stěny válce",
+    "ui.apps.engine_thermal_debug.oilDamage": "Poškození oleje",
+    "ui.apps.engine_thermal_debug.blockDamage": "Poškození bloku motoru",
+    "ui.apps.engine_thermal_debug.engineEfficiency": "Efektivita motoru"
 }
