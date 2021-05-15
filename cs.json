@@ -1540,5 +1540,21 @@
     "ui.faq.steeringWheels.q": "Jak mám používat herní volant?",
     "ui.faq.blog.a": "Naše pokroky můžeš sledovat na našem fóru a blogu [br] Také nás můžeš sledovat na Facebooku, Twitteru, YouTube, Instagramu a Redditu [url=https://blog.beamng.com/blog/]Oficiální Blog[/url]",
     "ui.faq.blog.q": "Kde mohu sledovat vývoj hry?",
-    "ui.performance.tempHide": "Skrýt uživatelské rozhraní po dobu 10 sekund"
+    "ui.performance.tempHide": "Skrýt uživatelské rozhraní po dobu 10 sekund",
+    "ui.performance.benchmark.isRunningNote": "Vydržte prosím: Probíhá benchmark.[br]Bude to chvilku trvat.",
+    "ui.perforamnce.benchmark.realtime": "Reálný čas",
+    "ui.performance.benchmark.vehicles": "Vozidla",
+    "ui.performance.benchmark.run": "Spustit benchmark fyziky",
+    "ui.performance.benchmark.testVehicle": "Testovací vozidlo",
+    "ui.performance.benchmark": "Benchmark fyziky",
+    "ui.performance.ram.virtual": "Virtuální",
+    "ui.performance.ram.physical": "Fyzická",
+    "ui.performance.ram": "Operační paměť (RAM)",
+    "ui.performance.gpu": "Grafická karta (GPU)",
+    "ui.performance.orEquivalent": "nebo ekvivalentní",
+    "ui.performance.orBetter": "nebo lepší",
+    "ui.performance.optimal": "Optimální",
+    "ui.performance.recommended": "Doporučené",
+    "ui.performance.available": "Dostupná paměť RAM",
+    "ui.performance.minRequired": "Minimální"
 }
