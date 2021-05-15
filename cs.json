@@ -1541,7 +1541,7 @@
     "ui.faq.blog.a": "Naše pokroky můžeš sledovat na našem fóru a blogu [br] Také nás můžeš sledovat na Facebooku, Twitteru, YouTube, Instagramu a Redditu [url=https://blog.beamng.com/blog/]Oficiální Blog[/url]",
     "ui.faq.blog.q": "Kde mohu sledovat vývoj hry?",
     "ui.performance.tempHide": "Skrýt uživatelské rozhraní na 10 sekund",
-    "ui.performance.benchmark.isRunningNote": "Vydržte prosím: Probíhá benchmark.[br]Bude to chvilku trvat.",
+    "ui.performance.benchmark.isRunningNote": "Vydrž prosím: Probíhá benchmark.[br]Bude to chvilku trvat.",
     "ui.perforamnce.benchmark.realtime": "Reálný čas",
     "ui.performance.benchmark.vehicles": "Vozidla",
     "ui.performance.benchmark.run": "Spustit benchmark fyziky",
