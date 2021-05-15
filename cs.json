@@ -1557,10 +1557,11 @@
     "ui.performance.recommended": "Doporučené",
     "ui.performance.available": "Dostupná paměť RAM",
     "ui.performance.minRequired": "Minimální",
-    "ui.performance.improvements.lighting": "Snižte kvalitu nasvícení v",
+    "ui.performance.improvements.lighting": "Snižte kvalitu osvětlení v",
     "ui.performance.improvements.ssao": "Vypněte SSAO v",
     "ui.performance.improvements": "Základní vylepšení výkonu",
     "ui.performance.maxRealtimeVehicles": "Maximální počet vozidel v reálném čase",
     "ui.performance.laptopGPU.msg": "Jestliže je Váš notebook vybaven dedikovanou grafickou kartou, můžete ji přepnout v Ovládacím panelu grafiky [url=https://wiki.beamng.com/Dedicated_Graphics]Instructions[/url]",
-    "ui.performance.laptopGPU": "Jak mám používat dedikovanou grafickou kartu v notebooku?"
+    "ui.performance.laptopGPU": "Jak mám používat dedikovanou grafickou kartu v notebooku?",
+    "ui.performance.link.graphicsOptions": "grafické předvolby"
 }
