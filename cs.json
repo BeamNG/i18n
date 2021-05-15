@@ -628,7 +628,7 @@
     "ui.performance": "Výkon",
     "ui.performance.acknowledge": "Potvrzeno",
     "ui.performance.acknowledged": "Potvrzeno",
-    "ui.performance.benchmark.notavailable": "Benchmark jde spustit pouze od začátku hry bez načtených map nebo vozů.",
+    "ui.performance.benchmark.notavailable": "Benchmark lze spustit pouze z Hlavního menu.",
     "ui.performance.cpu": "Procesor (CPU)",
     "ui.performance.improvements.resolution": "Snížit rozlišení v",
     "ui.performance.improvements.textures": "Snížit kvalitu textur v",
@@ -1556,5 +1556,9 @@
     "ui.performance.optimal": "Optimální",
     "ui.performance.recommended": "Doporučené",
     "ui.performance.available": "Dostupná paměť RAM",
-    "ui.performance.minRequired": "Minimální"
+    "ui.performance.minRequired": "Minimální",
+    "ui.performance.improvements.lighting": "Snižte kvalitu nasvícení v",
+    "ui.performance.improvements.ssao": "Vypněte SSAO v",
+    "ui.performance.improvements": "Základní vylepšení výkonu",
+    "ui.performance.maxRealtimeVehicles": "Maximální počet vozidel v reálném čase"
 }
