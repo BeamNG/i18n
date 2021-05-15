@@ -1659,13 +1659,14 @@
     "ui.radialmenu2.electrics.fog_lights": "Mlhová světla",
     "ui.radialmenu2.electrics.headlights.high.desc": "Zapnout dálková světla.",
     "ui.radialmenu2.electrics.headlights.high": "Dálková",
-    "ui.radialmenu2.funstuff.Extinguish.desc": "Uhasit na vozidle všechny plameny.",
+    "ui.radialmenu2.funstuff.Extinguish.desc": "Uhasit všechny plameny na vozidle.",
     "ui.radialmenu2.funstuff.Extinguish": "Uhasit",
     "ui.radialmenu2.funstuff.Fire.desc": "Podpálit vozidlo.",
     "ui.radialmenu2.funstuff.Tires": "Pneumatiky",
     "ui.radialmenu2.funstuff.Fire": "Oheň",
     "ui.radialmenu2.funstuff.Tires.desc": "Vypustí všechny pneumatiky vozidla.",
-    "ui.radialmenu2.funstuff.Hinges.desc": "Zničí všechny panty na vozidle",
+    "ui.radialmenu2.funstuff.Hinges.desc": "Zničit všechny panty na vozidle",
     "ui.radialmenu2.funstuff.Hinges": "Panty",
-    "ui.radialmenu2.funstuff.Break.desc": "Rozbije všechny komponenty vozidla."
+    "ui.radialmenu2.funstuff.Break.desc": "Rozbije všechny komponenty vozidla.",
+    "ui.radialmenu2.funstuff.Boom": "Bum"
 }
