@@ -1520,6 +1520,6 @@
     "ui.apps.engine_thermal_debug.blockDamage": "Poškození bloku motoru",
     "ui.apps.engine_thermal_debug.engineEfficiency": "Efektivita motoru",
     "ui.options.gameplay.defaultGearboxBehavior.tooltip": "Nastavuje výchozí chování převodovky. Změna se projeví po vytvoření nového vozidla.",
-    "ui.options.traffic.trafficAllowMods": "Umožnit vytváření vozidel – modů",
+    "ui.options.traffic.trafficAllowMods": "Povolit vytváření vozidel – modů",
     "ui.apps.vehicleDebug.breakAll": "Zničit všechny zničitelné skupiny"
 }
