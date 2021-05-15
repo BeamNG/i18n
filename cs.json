@@ -1583,5 +1583,10 @@
     "ui.performance.warnings.batterylow": "Baterie je téměř vybitá",
     "ui.performance.highsea.txt": "Děkujeme Vám za vyzkoušení naší hry! :) [br][br] Zdá se, že máte spuštěnou její neoficiální kopii. Z vlastní zkušenosti víme, že tyto mohou být méně spolehlivé oproti těm oficiálním a navíc mohou obsahovat malware, takže si raději proskenujte svůj počítač. [br][br] Pokud se Vám náš produkt líbí a chtěli byste naše úsilí, které do vývoje vkládáme, podpořit, vždy si užívat nejnovější verzi a získat oficiální podporu, zvažte prosím koupi oficiální kopie BeamNG.drive ze [url=https://store.steampowered.com/app/284160/BeamNGdrive]Steamu[/url] nebo z [url=https://www.humblebundle.com/store/beamngdrive]Humble Bundle[/url].[br][br] Děkujeme Vám za celý tým!",
     "ui.performance.warnings.highseas": "Ahoj!",
-    "ui.performance.warnings.toomanymods": "Možná máte příliš mnoho modů, což může mít dopad na výkon. Zkuste některé zakázat."
+    "ui.performance.warnings.toomanymods": "Možná máte příliš mnoho modů, což může mít dopad na výkon. Zkuste některé zakázat.",
+    "ui.performance.warnings.lowfreespace": "Na disku s uživatelským nebo herním adresářem zbývá méně než 1 GB volného místa.",
+    "ui.performance.disk.free": "Volné místo",
+    "ui.performance.disk.used": "Využité místo",
+    "ui.performance.disk": "Úložiště (HDD/SSD)",
+    "ui.performance.highsea.okay": "Dobrá! Arrr!"
 }
