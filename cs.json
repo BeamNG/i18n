@@ -1632,7 +1632,7 @@
     "ui.radialmenu2.electrics.headlights.low.desc": "Zapnout potkávací světla.",
     "ui.radialmenu2.electrics.headlights.low": "Potkávací",
     "ui.radialmenu2.electrics.headlights.off.desc": "Vypnout světlomety.",
-    "ui.radialmenu2.funstuff.Break": "Zničit",
+    "ui.radialmenu2.funstuff.Break": "Rozbít",
     "ui.radialmenu2.ESC.Drift_ESC.desc": "Zapnout ESC pro driftování.",
     "ui.radialmenu2.ESC.Drift_ESC": "Drift",
     "ui.radialmenu2.ESC.Regular_ESC.desc": "Zapnout běžné ESC.",
@@ -1662,5 +1662,10 @@
     "ui.radialmenu2.funstuff.Extinguish.desc": "Uhasit na vozidle všechny plameny.",
     "ui.radialmenu2.funstuff.Extinguish": "Uhasit",
     "ui.radialmenu2.funstuff.Fire.desc": "Podpálit vozidlo.",
-    "ui.radialmenu2.funstuff.Tires": "Pneumatiky"
+    "ui.radialmenu2.funstuff.Tires": "Pneumatiky",
+    "ui.radialmenu2.funstuff.Fire": "Oheň",
+    "ui.radialmenu2.funstuff.Tires.desc": "Vypustí všechny pneumatiky vozidla.",
+    "ui.radialmenu2.funstuff.Hinges.desc": "Zničí všechny panty na vozidle",
+    "ui.radialmenu2.funstuff.Hinges": "Panty",
+    "ui.radialmenu2.funstuff.Break.desc": "Rozbije všechny komponenty vozidla."
 }
