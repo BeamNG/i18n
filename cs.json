@@ -1502,5 +1502,11 @@
     "ui.apps.engine_dynamometer.powerFlywheel": "Výkon (Setrvačník)",
     "ui.apps.engine_dynamometer.torqueFlywheel": "Točivý moment (Setrvačník)",
     "ui.apps.engineinfo.wheelTorque": "Točivý moment na kolech",
-    "ui.apps.engineinfo.flywheelTorque": "Točivý moment na setrvačníku"
+    "ui.apps.engineinfo.flywheelTorque": "Točivý moment na setrvačníku",
+    "ui.apps.engine_thermal_debug.coolantLeakRate": "Rychlost vytékání chladící kapaliny",
+    "ui.apps.engine_thermal_debug.airRegulator": "Regulátor vzduchu",
+    "ui.apps.engine_thermal_debug.exhaustManifold": "Sběrné výfukové potrubí",
+    "ui.apps.engine_thermal_debug.cylinderlWall": "Stěna válce",
+    "ui.apps.engine_thermal_debug.block": "Blok",
+    "ui.apps.engine_thermal_debug.oil": "Olej"
 }
