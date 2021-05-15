@@ -1489,5 +1489,16 @@
     "ui.vehicleconfig.searchHelp.example1": "Hledat v názvech všech dílů \"left\"",
     "ui.vehicleconfig.searchHelp.historyClear": "Historii vyhledávání lze vymazat klávesovou zkratkou CTRL+K",
     "ui.vehicleconfig.searchHelp.history": "Historie vyhledávání",
-    "ui.vehicleconfig.searchHelp.notes3": "Podporuje ukládání historie. Použij šipky nahoru/dolů"
+    "ui.vehicleconfig.searchHelp.notes3": "Podporuje ukládání historie. Použij šipky nahoru/dolů",
+    "ui.apps.engine_thermal_debug.coolant": "Chladící kapalina",
+    "ui.apps.engine_heat_debug_graph.exhaust": "Výfuk",
+    "ui.apps.engine_heat_debug_graph.block": "Blok",
+    "ui.apps.engine_heat_debug_graph.oil": "Olej",
+    "ui.apps.engine_heat_debug_graph.water": "Voda",
+    "ui.apps.engine_dynamometer.torque": "Točivý moment",
+    "ui.apps.engine_dynamometer.power": "Výkon",
+    "ui.apps.engine_dynamometer.rpm": "Otáčky",
+    "ui.apps.engine_dynamometer.powerWheels": "Výkon (Kola)",
+    "ui.apps.engine_dynamometer.powerFlywheel": "Výkon (Setrvačník)",
+    "ui.apps.engine_dynamometer.torqueFlywheel": "Točivý moment (Setrvačník)"
 }
