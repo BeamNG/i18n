@@ -1599,5 +1599,6 @@
     "ui.performance.disk.run": "Ukázat využité místo",
     "ui.hints.unlockExtraFunctionality": "Odemkni extra funkce povolením Možnosti > Uživatelské rozhraní > Pokročilé funkce.",
     "ui.hints.toggleMods": "Ve Správci modů můžeš snadno povolit a zakázat všechny mody kliknutím na „Aktivovat všechny mody“/„Deaktivovat všechny mody“.",
-    "ui.hints.photoModeMenu": "Menu Fotografického režimu nabízí pokročilé ovládání kamery a možnost přímého nahrávání snímků na servery BeamNG."
+    "ui.hints.photoModeMenu": "Menu Fotografického režimu nabízí pokročilé ovládání kamery a možnost přímého nahrávání snímků na servery BeamNG.",
+    "ui.hints.startSlow": "Když řídíš auto úplně poprvé, může se snadno stát, že se s ním nevejdeš do zatáček. Začni zpočátku pomalejší jízdou a přidávej teprve tehdy, když začneš poznávat, jak se to které vozidlo chová."
 }
