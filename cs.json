@@ -1629,7 +1629,7 @@
     "ui.radialmenu2.ai.random": "Nahodilá",
     "ui.radialmenu2.ai.stop.desc": "AI bude zastavena.",
     "ui.radialmenu2.ai.stop": "Zastavit",
-    "ui.radialmenu2.electrics.headlights.low.desc": "Zapnout potkávací světlomety.",
+    "ui.radialmenu2.electrics.headlights.low.desc": "Zapnout potkávací světla.",
     "ui.radialmenu2.electrics.headlights.low": "Potkávací",
     "ui.radialmenu2.electrics.headlights.off.desc": "Vypnout světlomety.",
     "ui.radialmenu2.funstuff.Break": "Zničit",
@@ -1652,5 +1652,11 @@
     "ui.radialmenu2.electrics.lightbar.desc": "Přepne světelnou lištu.",
     "ui.radialmenu2.electrics.lightbar": "Světelná lišta",
     "ui.radialmenu2.electrics.hazard_lights.desc": "Přepnout výstražná světla.",
-    "ui.radialmenu2.electrics.hazard_lights": "Výstražná světla"
+    "ui.radialmenu2.electrics.hazard_lights": "Výstražná světla",
+    "ui.radialmenu2.funstuff.desc": "Ovládání srandiček.",
+    "ui.radialmenu2.funstuff": "Srandičky",
+    "ui.radialmenu2.electrics.fog_lights.desc": "Přepnout mlhová světla.",
+    "ui.radialmenu2.electrics.fog_lights": "Mlhová světla",
+    "ui.radialmenu2.electrics.headlights.high.desc": "Zapnout dálková světla.",
+    "ui.radialmenu2.electrics.headlights.high": "Dálková"
 }
