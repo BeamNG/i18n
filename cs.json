@@ -1798,5 +1798,6 @@
     "ui.mapview.labels.vendor": "Dodavatel",
     "ui.mapview.labels.closed": "Zavřená",
     "ui.mapview.labels.open": "Otevřená",
-    "ui.mapview.labels.playerHQ": "Ústředí"
+    "ui.mapview.labels.playerHQ": "Ústředí",
+    "ui.trackBuilder.easeLeft": "Přidat segment přechodnice pro levý směrový oblouk. Pokládejte je před i za každý směrový oblouk, abyste vytvořili hladkou změnu zakřivení."
 }
