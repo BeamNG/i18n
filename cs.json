@@ -1612,7 +1612,7 @@
     "ui.radialmenu2.ai.flee": "Zdrhej!",
     "ui.radialmenu2.ai.chase.desc": "AI tě bude stíhat a pokusí se tě zastavit.",
     "ui.radialmenu2.ai.chase": "Chyť mě!",
-    "ui.radialmenu2.electrics.headlights.off": "Vypnuto",
+    "ui.radialmenu2.electrics.headlights.off": "Vypnout",
     "ui.radialmenu2.couplers.detach_all.desc": "Rozpojí všechny aktuálně spojené vazební členy.",
     "ui.radialmenu2.couplers.toggle.desc": "Přepíná stav vazebního členu mezi spojen/rozpojen.",
     "ui.radialmenu2.couplers.attach_all.desc": "Připojí všechny blízké vazební členy.",
@@ -1628,5 +1628,8 @@
     "ui.radialmenu2.ai.random.desc": "AI bude nahodile jezdit po všech možných cestách.",
     "ui.radialmenu2.ai.random": "Nahodilá",
     "ui.radialmenu2.ai.stop.desc": "AI bude zastavena.",
-    "ui.radialmenu2.ai.stop": "Zastavit"
+    "ui.radialmenu2.ai.stop": "Zastavit",
+    "ui.radialmenu2.electrics.headlights.low.desc": "Zapnout potkávací světlomety.",
+    "ui.radialmenu2.electrics.headlights.low": "Potkávací",
+    "ui.radialmenu2.electrics.headlights.off.desc": "Vypnout světlomety."
 }
