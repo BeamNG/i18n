@@ -1824,7 +1824,7 @@
     "ui.trackBuilder.stackApplyOne": "Použít poslední prvek v zásobníku",
     "ui.trackBuilder.clearStack": "Smazat zásobník",
     "ui.trackBuilder.stackApplyAllAndKeep": "Použít všechny prvky v zásobníku, ale nemazat zásobník.",
-    "ui.trackBuilder.positionBeforeCamera": "Umístění kamery",
+    "ui.trackBuilder.positionBeforeCamera": "Umístit před kameru",
     "ui.trackBuilder.drive": "Jeď!",
     "ui.trackBuilder.removeTrack": "Vymazat trať",
     "ui.trackBuilder.removeTrackTooltip": "Vymaže aktuální trať (neodstraní uložené soubory trati)",
