@@ -1679,5 +1679,13 @@
     "ui.radialmenu2.powertrain.gearbox_mode": "Režim převodovky",
     "ui.radialmenu2.powertrain.engine": "Motor",
     "ui.radialmenu2.powertrain.desc": "Ovládání všech režimů hnacího ústrojí.",
-    "ui.radialmenu2.powertrain": "Hnací ústrojí"
+    "ui.radialmenu2.powertrain": "Hnací ústrojí",
+    "ui.radialmenu2.traffic.remove.desc": "Odstraní všechna aktivní vozidla provozu.",
+    "ui.radialmenu2.traffic.remove": "Odstranit aktivní provoz",
+    "ui.radialmenu2.traffic.desc": "Nastavit provoz AI.",
+    "ui.radialmenu2.traffic": "Provoz",
+    "ui.radialmenu2.powertrain.gearbox_mode.desc": "Přepnout režimy převodovky.",
+    "ui.radialmenu2.powertrain.engine.desc": "Přepnou zapalování.",
+    "ui.radialmenu2.powertrain.4WD_Mode.desc": "Přepnout 4x4.",
+    "ui.radialmenu2.powertrain.4WD_Mode": "Režim 4x4"
 }
