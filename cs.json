@@ -1580,5 +1580,8 @@
     "ui.performance.warnings.powerdisconnected": "Není zapojené napájení",
     "ui.performance.warnings.os32bits": "Máte 64bitový procesor, ale pouze 32bitový operační systém",
     "ui.performance.warnings.batterycritical": "Kritický stav nabití baterie",
-    "ui.performance.warnings.batterylow": "Baterie je téměř vybitá"
+    "ui.performance.warnings.batterylow": "Baterie je téměř vybitá",
+    "ui.performance.highsea.txt": "Děkujeme Vám za vyzkoušení naší hry! :) [br][br] Zdá se, že máte spuštěnou její neoficiální kopii. Z vlastní zkušenosti víme, že tyto mohou být méně spolehlivé oproti těm oficiálním a navíc mohou obsahovat malware, takže si raději proskenujte svůj počítač. [br][br] Pokud se Vám náš produkt líbí a chtěli byste naše úsilí, které do vývoje vkládáme, podpořit, vždy si užívat nejnovější verzi a získat oficiální podporu, zvažte prosím koupi oficiální kopie BeamNG.drive ze [url=https://store.steampowered.com/app/284160/BeamNGdrive]Steamu[/url] nebo z [url=https://www.humblebundle.com/store/beamngdrive]Humble Bundle[/url].[br][br] Děkujeme Vám za celý tým!",
+    "ui.performance.warnings.highseas": "Ahoj!",
+    "ui.performance.warnings.toomanymods": "Možná máte příliš mnoho modů, což může mít dopad na výkon. Zkuste některé zakázat."
 }
