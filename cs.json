@@ -1730,7 +1730,7 @@
     "ui.goals.speed": "Rychlost",
     "ui.goals.timeLimit": "Časový limit",
     "ui.goals.wayPointAction": "Jízda trasovými body",
-    "ui.garage.tune.advWheel": "Pokročilá data z ladění kol",
+    "ui.garage.tune.advWheel": "Pokročilá data pro ladění kol",
     "ui.garage.tune.live": "Okamžité údaje",
     "ui.garage.tune.tuning": "Tuning",
     "ui.garage.exit": "Opustit garáž",
@@ -1760,5 +1760,13 @@
     "ui.garage.save.overwrite": "Jméno použito u jiného auta. Přepsat?",
     "ui.garage.paint.decals": "Detailní paleta {{id}}",
     "ui.garage.paint.base": "Základní barva",
-    "ui.garage.paint.setVal": "Ponechat hodnotu"
+    "ui.garage.paint.setVal": "Ponechat hodnotu",
+    "ui.camera.driverPositionAdjusted": "Pozice sedadla upravena na {{y*100|number:1}} cm, {{z*100|number:1}} cm ve všech variantách vozidla '{{vehicleName}}'",
+    "ui.camera.driverTiltAdjusted": "Sedadlo nakloněno na {{angle|number:1}} stupňů ve všech variantách vozidla '{{vehicleName}}'",
+    "ui.loading.spawn.forest": "Sázím stromy",
+    "ui.loading.spawn.groundcover": "Vysévám trávu",
+    "ui.loading.spawn.lights": "Rozsvěcím světla",
+    "ui.loading.spawn.terrain": "Zavážím hlínu",
+    "ui.garage.save.enterName": "Napiš prosím jméno",
+    "ui.garage.paint.licensePlate": "Přizpůsobit registrační značku"
 }
