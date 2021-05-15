@@ -1490,7 +1490,7 @@
     "ui.vehicleconfig.searchHelp.historyClear": "Historii vyhledávání lze vymazat klávesovou zkratkou CTRL+K",
     "ui.vehicleconfig.searchHelp.history": "Historie vyhledávání",
     "ui.vehicleconfig.searchHelp.notes3": "Podporuje ukládání historie. Použij šipky nahoru/dolů",
-    "ui.apps.engine_thermal_debug.coolant": "Chladící kapalina",
+    "ui.apps.engine_thermal_debug.coolant": "Chladicí kapalina",
     "ui.apps.engine_heat_debug_graph.exhaust": "Výfuk",
     "ui.apps.engine_heat_debug_graph.block": "Blok",
     "ui.apps.engine_heat_debug_graph.oil": "Olej",
