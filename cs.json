@@ -644,7 +644,7 @@
     "ui.performance.warnings.cpulowclock": "Takt procesoru je nižší než 2 GHz",
     "ui.performance.warnings.cpuonecore": "Hra nebude plynulá na pouhém jednom fyzickém jádru",
     "ui.performance.warnings.cpuquadcore": "Optimální výkon na čtyřjádru",
-    "ui.performance.warnings.dinput": "Direct Input (používaný pro zařízení jako jsou například herní volanty, joysticky, gamepady apod.) není dostupný. Přeinstaluj prosím DirectX 9: [url=http://wiki.beamng.com/DirectXInstallation]wiki.beamng.com/DirectXInstallation[/url]",
+    "ui.performance.warnings.dinput": "Direct Input (používaný pro zařízení jako herní volanty, joysticky, gamepady apod.) není dostupný. Přeinstaluj prosím DirectX 9: [url=http://wiki.beamng.com/DirectXInstallation]wiki.beamng.com/DirectXInstallation[/url]",
     "ui.performance.warnings.freememlow": "Méně než 2 GB volné fyzické paměti. Zvaž zavření některých aplikací nebo restart.",
     "ui.performance.warnings.geforcemin": "Je vyžadována alespoň GeForce 550",
     "ui.performance.warnings.gpulowmem": "Tvá grafická karta má méně než 512 MB paměti",
