@@ -1571,5 +1571,6 @@
     "ui.performance.warnings.minmem": "Méně než 4 GB paměti RAM: Nedostatek paměti pro načtení některých úrovní",
     "ui.performance.warnings.memused": "Je využito více než 80 % systémové paměti RAM. Zvaž ukončení některých aplikací nebo restart počítače.",
     "ui.performance.warnings.cpu64bits": "Je doporučen 64bitový procesor",
-    "ui.performance.warnings.amdradeon": "Je vyžadována alespoň grafická karta AMD Radeon R8"
+    "ui.performance.warnings.amdradeon": "Je vyžadována alespoň grafická karta AMD Radeon R8",
+    "ui.performance.warnings.gpurecmem": "Je doporučeno mít alespoň 2048 MB grafické paměti"
 }
