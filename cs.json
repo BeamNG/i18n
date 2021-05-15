@@ -1738,7 +1738,7 @@
     "ui.garage.tabs.parts": "Díly",
     "ui.garage.tabs.vehicles": "Vozidla",
     "ui.garage.tabs.load": "Má vozidla",
-    "ui.mapview.labels.yourPosition": "Tvoje pozice",
+    "ui.mapview.labels.yourPosition": "Tvoje poloha",
     "ui.camera.fovDriver": "Zorné pole nastaveno na {{degrees | number: 1}} stupňů pro všechna vozidla",
     "ui.camera.switched": "Kamera vozidla: {{name}}",
     "ui.camera.freecam": "Volná kamera: [action=movefast] pro zrychlení, [action=changeCameraSpeed] pro doladění",
