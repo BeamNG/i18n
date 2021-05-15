@@ -1725,7 +1725,7 @@
     "ui.radialmenu2.traffic.stop": "Zastavit provoz",
     "ui.radialmenu2.traffic.start.desc": "Spustit režim provozu pro všechna vozidla.",
     "ui.radialmenu2.traffic.start": "Spustit provoz",
-    "ui.goals.finishRace": "Dokončete závod",
+    "ui.goals.finishRace": "Dokonči závod",
     "ui.goals.damage": "Poškození",
     "ui.goals.speed": "Rychlost",
     "ui.goals.timeLimit": "Časový limit",
@@ -1736,5 +1736,6 @@
     "ui.garage.exit": "Opustit garáž",
     "ui.garage.tabs.tune": "Seřízení",
     "ui.garage.tabs.parts": "Díly",
-    "ui.garage.tabs.vehicles": "Vozidla"
+    "ui.garage.tabs.vehicles": "Vozidla",
+    "ui.garage.tabs.load": "Má vozidla"
 }
