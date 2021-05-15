@@ -1598,5 +1598,6 @@
     "ui.changelog": "Seznam změn",
     "ui.performance.disk.run": "Ukázat využité místo",
     "ui.hints.unlockExtraFunctionality": "Odemkni extra funkce povolením Možnosti > Uživatelské rozhraní > Pokročilé funkce.",
-    "ui.hints.toggleMods": "Ve Správci modů můžete snadno povolit a zakázat všechny mody kliknutím na „Aktivovat všechny mody“/„Deaktivovat všechny mody“."
+    "ui.hints.toggleMods": "Ve Správci modů můžete snadno povolit a zakázat všechny mody kliknutím na „Aktivovat všechny mody“/„Deaktivovat všechny mody“.",
+    "ui.hints.photoModeMenu": "Menu Fotografického režimu nabízí pokročilé ovládání kamery a možnost přímého nahrávání snímků na servery BeamNG."
 }
