@@ -1524,7 +1524,7 @@
     "ui.apps.vehicleDebug.breakAll": "Zničit všechny destrukční skupiny",
     "ui.debug.vehicle.tireContactPoint": "Ladění styčného bodu pneumatik",
     "vehicle.bdebug.beamVisMode.breakgroups": "Destrukční skupiny",
-    "ui.faq.getHelp.a": "Jestliže máte problémy se hrou, můžete nás kontaktovat těmito způsoby: [br][br][url=http://www.beamng.com/forums/]Na fóru BeamNG.com[/url] [url=http://support.beamng.com/]Skrze e‑mailovou podporu[/url] [br] Budeme se snažit Vás kontaktovat co nejdříve to bude možné, vydržte ale prosím několik pracovních dnů",
+    "ui.faq.getHelp.a": "Pokud máte s hrou problémy, můžete nás kontaktovat těmito způsoby: [br][br][url=http://www.beamng.com/forums/]Na fóru BeamNG.com[/url] [url=http://support.beamng.com/]Skrze e‑mailovou podporu[/url] [br] Budeme se snažit Vás kontaktovat co nejdříve to bude možné, vydržte ale prosím několik pracovních dnů",
     "ui.faq.getHelp.q": "Kde získám podporu?",
     "ui.debug.renderer.toggleFps": "Přepnout zobrazení FPS",
     "ui.debug.terrain.staticCollision": "Statické kolize",
