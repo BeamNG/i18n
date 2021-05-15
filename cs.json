@@ -1508,5 +1508,6 @@
     "ui.apps.engine_thermal_debug.exhaustManifold": "Sběrné výfukové potrubí",
     "ui.apps.engine_thermal_debug.cylinderlWall": "Stěna válce",
     "ui.apps.engine_thermal_debug.block": "Blok",
-    "ui.apps.engine_thermal_debug.oil": "Olej"
+    "ui.apps.engine_thermal_debug.oil": "Olej",
+    "ui.apps.engine_thermal_debug.coolantEfficiency": "Efektivita chladící kapaliny"
 }
