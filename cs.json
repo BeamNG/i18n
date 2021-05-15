@@ -1572,11 +1572,13 @@
     "ui.performance.warnings.memused": "Je využito více než 80 % systémové paměti RAM. Zvaž ukončení některých aplikací nebo restart počítače.",
     "ui.performance.warnings.cpu64bits": "Je doporučen 64bitový procesor",
     "ui.performance.warnings.amdradeon": "Je vyžadován alespoň AMD Radeon R8",
-    "ui.performance.warnings.gpurecmem": "Je doporučeno mít alespoň 2048 MB grafické paměti",
+    "ui.performance.warnings.gpurecmem": "Je doporučeno alespoň 2048 MB grafické paměti",
     "ui.performance.mods.lt": "Zazipovaných modů je méně než:  {{zip}}  |   Počet rozbalených modů:  {{unpacked}}",
     "ui.performance.mods.stat": "Počet zazipovaných modů: {{zip}}  |  Počet rozbalených modů: {{unpacked}}",
     "ui.performance.mods.title": "Počet modů",
     "ui.performance.warnings.win8rec": "Je doporučen operační systém Windows 8",
     "ui.performance.warnings.powerdisconnected": "Není zapojené napájení",
-    "ui.performance.warnings.os32bits": "Máte 64bitový procesor, ale pouze 32bitový operační systém"
+    "ui.performance.warnings.os32bits": "Máte 64bitový procesor, ale pouze 32bitový operační systém",
+    "ui.performance.warnings.batterycritical": "Kritický stav nabití baterie",
+    "ui.performance.warnings.batterylow": "Baterie je téměř vybitá"
 }
