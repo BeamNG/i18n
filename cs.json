@@ -1799,7 +1799,7 @@
     "ui.mapview.labels.closed": "Zavřená",
     "ui.mapview.labels.open": "Otevřená",
     "ui.mapview.labels.playerHQ": "Ústředí",
-    "ui.trackBuilder.easeLeft": "Přidat segment přechodnice pro levý směrový oblouk. Pokládejte je před i za každý směrový oblouk, abyste vytvořili hladkou změnu zakřivení.",
+    "ui.trackBuilder.easeLeft": "Přidat segment přechodnice pro levý směrový oblouk. Pokládej je před i za každý směrový oblouk, abys vytvořil hladkou změnu zakřivení.",
     "ui.trackBuilder.leftTurn": "Přidat segment levého směrového oblouku",
     "ui.trackBuilder.easeRight": "Přidat segment přechodnice pro pravý směrový oblouk. Pokládejte je před i za každý směrový oblouk, abyste vytvořili hladkou změnu zakřivení.",
     "ui.trackBuilder.forward": "Přidat přímý segment"
