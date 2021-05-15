@@ -1617,5 +1617,16 @@
     "ui.radialmenu2.couplers.toggle.desc": "Přepíná stav vazebního členu mezi spojen/rozpojen.",
     "ui.radialmenu2.couplers.attach_all.desc": "Připojí všechny blízké vazební členy.",
     "ui.radialmenu2.couplers.desc": "Ovládání pro spojení/rozpojení vazebních členů.",
-    "ui.radialmenu2.couplers": "Vazební členy"
+    "ui.radialmenu2.couplers": "Vazební členy",
+    "ui.radialmenu2.electrics.headlights.desc": "Ovládání přepínání mezi různými režimy světlometů.",
+    "ui.radialmenu2.electrics.headlights": "Světlomety",
+    "ui.radialmenu2.electrics.desc": "Ovládání elektronických komponentů.",
+    "ui.radialmenu2.electrics": "Elektronika",
+    "ui.radialmenu2.couplers.detach_all": "Odpojit všechny",
+    "ui.radialmenu2.couplers.toggle": "Přepnout",
+    "ui.radialmenu2.couplers.attach_all": "Připojit všechny",
+    "ui.radialmenu2.ai.random.desc": "AI bude nahodile jezdit po všech možných cestách.",
+    "ui.radialmenu2.ai.random": "Nahodilá",
+    "ui.radialmenu2.ai.stop.desc": "AI bude zastavena.",
+    "ui.radialmenu2.ai.stop": "Zastavit"
 }
