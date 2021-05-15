@@ -1688,7 +1688,7 @@
     "ui.radialmenu2.powertrain.engine.desc": "Přepnou zapalování.",
     "ui.radialmenu2.powertrain.4WD_Mode.desc": "Přepnout 4x4.",
     "ui.radialmenu2.powertrain.4WD_Mode": "Režim 4x4",
-    "ui.goals.nomove": "Vyhněte se kolizím",
+    "ui.goals.nomove": "Vyhni se kolizím",
     "ui.scenarios.difficulty.veryHard": "Velmi obtížné",
     "ui.scenarios.difficulty.hard": "Obtížné",
     "ui.scenarios.difficulty.medium": "Středně obtížné",
@@ -1728,5 +1728,6 @@
     "ui.goals.finishRace": "Dokončete závod",
     "ui.goals.damage": "Poškození",
     "ui.goals.speed": "Rychlost",
-    "ui.goals.timeLimit": "Časový limit"
+    "ui.goals.timeLimit": "Časový limit",
+    "ui.goals.wayPointAction": "Jízda trasovými body"
 }
