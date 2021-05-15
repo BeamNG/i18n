@@ -1774,9 +1774,9 @@
     "ui.garage.tune.caster": "Záklon rejdové osy",
     "ui.garage.tune.toe": "Sbíhavost",
     "ui.garage.tune.camber": "Odklon",
-    "ui.mapview.labels.gold": "Zlatá",
-    "ui.mapview.labels.silver": "Stříbrná",
-    "ui.mapview.labels.bronze": "Bronzová",
+    "ui.mapview.labels.gold": "Zlato",
+    "ui.mapview.labels.silver": "Stříbro",
+    "ui.mapview.labels.bronze": "Bronz",
     "ui.mapview.labels.skipped": "Přeskočeno",
     "ui.mapview.labels.failed": "Selhal jsi",
     "ui.mapview.labels.ready": "Připraven",
@@ -1788,5 +1788,6 @@
     "ui.mapview.labels.chase": "Honička",
     "ui.mapview.labels.race": "Závod",
     "ui.mapview.labels.timeTrial": "Časovka",
-    "ui.mapview.labels.stunt": "Kaskadérský kousek"
+    "ui.mapview.labels.stunt": "Kaskadérský kousek",
+    "ui.mapview.labels.crawl": "Crawl"
 }
