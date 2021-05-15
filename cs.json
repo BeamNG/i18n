@@ -1782,5 +1782,9 @@
     "ui.mapview.labels.ready": "Připraven",
     "ui.mapview.labels.subtype": "Body zájmu",
     "ui.mapview.labels.type": "Typ Mise",
-    "ui.mapview.labels.state": "Stav mise"
+    "ui.mapview.labels.state": "Stav mise",
+    "ui.mapview.labels.transitionPoint": "Odejít z mapy",
+    "ui.mapview.labels.delivery": "Dovoz",
+    "ui.mapview.labels.chase": "Honička",
+    "ui.mapview.labels.race": "Závod"
 }
