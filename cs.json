@@ -1597,5 +1597,6 @@
     "ui.hints.cruiseControlApp": "Pro dlouhé a pohodové vyjížďky po dálnicích si můžete do uživatelského rozhraní přidat aplikaci „Tempomat“. Funguje ve všech vozidlech!",
     "ui.changelog": "Seznam změn",
     "ui.performance.disk.run": "Ukázat využité místo",
-    "ui.hints.unlockExtraFunctionality": "Odemkni extra funkce povolením Možnosti > Uživatelské rozhraní > Pokročilé funkce."
+    "ui.hints.unlockExtraFunctionality": "Odemkni extra funkce povolením Možnosti > Uživatelské rozhraní > Pokročilé funkce.",
+    "ui.hints.toggleMods": "Ve Správci modů můžete snadno povolit a zakázat všechny mody kliknutím na „Aktivovat všechny mody“/„Deaktivovat všechny mody“."
 }
