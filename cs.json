@@ -1533,5 +1533,7 @@
     "ui.faq.updatingGame.a": "Kompletní postup naleznete na této stránce: [url=http://wiki.beamng.com/Updating_the_game]Aktualizace hry[/url]",
     "ui.faq.updatingGame.q": "Jak mohu hru aktualizovat?",
     "ui.faq.listFAQ.a": "Je možné, že na Vaše dotazy už bylo odpovězeno na této stránce: [url=https://wiki.beamng.com/BeamNG_FAQ]Často kladené dotazy[/url] Pokud ne, neváhejte se zeptat na našem fóru!",
-    "ui.faq.listFAQ.q": "Kde mohu pokládat dotazy?"
+    "ui.faq.listFAQ.q": "Kde mohu pokládat dotazy?",
+    "ui.faq.troubleShooting.a": "Hra obsahuje nástroje, se kterými lze potíže snadno řešit: [url=https://documentation.beamng.com/troubleshooting/index.html#support-tools]Nástroje pro řešení potíží[/url] Jestliže potřebujete další pomoc, neváhejte se na nás obrátit!",
+    "ui.faq.troubleShooting.q": "Něco se pokazilo, jak to mám napravit?"
 }
