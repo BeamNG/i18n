@@ -492,7 +492,7 @@
     "ui.hints.removeRearSeats": "Zrychlete svůj vůz odstraněním nepotřebných částí, jako jsou zadní sedadla, pomocí Selektoru dílů [action=parts_selector].",
     "ui.hints.rollPitchApps": "Vyznavačům těžkého terénu se mohou hodit UI aplikace \"Boční náklon\" a \"Podélný náklon\".",
     "ui.hints.saveRestoreVehicleHome": "Domov pro vozidlo můžeš nastavit pomocí [action=saveHome] a později obnovit pomocí [action=loadHome]",
-    "ui.hints.showCustomVehicles": "Chcete-li v selektoru vozů zobrazit vlastní konfigurace, povolte Nastavení > Hratelnost > Zobrazit vlastní vozy.",
+    "ui.hints.showCustomVehicles": "Chceš‑li ve Výběru vozidel zobrazit své vlastní upravené konfigurace vozidel, povol je v menu Možnosti > Uživatelské rozhraní > Zobrazit upravená vozidla.",
     "ui.hints.slowMotionPhysics": "Obdivuj fyziku ve zpomaleném času použitím [action=toggle_slow_motion] a [action=faster_motion].",
     "ui.hints.smokingWheels": "Pokud vychází kouř z prostoru podběhů, pravděpodobně se přehřály brzdy.",
     "ui.hints.snapOversteer": "Vozy s větší hmotností na zadní nápravě mohou mít tendenci při sešlápnutí plynu projevovat zpočátku nedotáčivost a pak náhle přetáčivost. Lidově řečeno vůz má tendenci \"utrhnout zadek\".",
@@ -1600,5 +1600,6 @@
     "ui.hints.unlockExtraFunctionality": "Odemkni extra funkce povolením Možnosti > Uživatelské rozhraní > Pokročilé funkce.",
     "ui.hints.toggleMods": "Ve Správci modů můžeš snadno povolit a zakázat všechny mody kliknutím na „Aktivovat všechny mody“/„Deaktivovat všechny mody“.",
     "ui.hints.photoModeMenu": "Menu Fotografického režimu nabízí pokročilé ovládání kamery a možnost přímého nahrávání snímků na servery BeamNG.",
-    "ui.hints.startSlow": "Když řídíš auto úplně poprvé, může se snadno stát, že se s ním nevejdeš do zatáček. Začni zpočátku pomalejší jízdou a přidávej teprve tehdy, když začneš poznávat, jak se to které vozidlo chová."
+    "ui.hints.startSlow": "Když řídíš auto úplně poprvé, může se snadno stát, že se s ním nevejdeš do zatáček. Začni zpočátku pomalejší jízdou a přidávej teprve tehdy, když začneš poznávat, jak se to které vozidlo chová.",
+    "ui.hints.slideBackWithParkingBrake": "Vozidla s náhonem předních kol, jejichž přední část je kvůli umístění motoru vpředu těžší, je snadné dostat do smyku parkovací brzdou, zejména na nepřilnavých površích."
 }
