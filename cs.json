@@ -1768,5 +1768,10 @@
     "ui.loading.spawn.lights": "Rozsvěcím světla",
     "ui.loading.spawn.terrain": "Zavážím hlínu",
     "ui.garage.save.enterName": "Napiš prosím jméno",
-    "ui.garage.paint.licensePlate": "Přizpůsobit registrační značku"
+    "ui.garage.paint.licensePlate": "Přizpůsobit registrační značku",
+    "ui.camera.fov": "Zorné pole: {{degrees | number: 1}} stupňů",
+    "ui.garage.tune.sai": "Příklon rejdové osy",
+    "ui.garage.tune.caster": "Záklon rejdové osy",
+    "ui.garage.tune.toe": "Sbíhavost",
+    "ui.garage.tune.camber": "Odklon"
 }
