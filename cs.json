@@ -1859,5 +1859,15 @@
     "scenarios.utah.chapter_1.chapter_1_suspension.followpath.fail.msg": "Nepodařilo se ti dokončit trasu",
     "scenarios.utah.chapter_1.chapter_1_suspension.wall.fail.msg": "Nepovedlo se ti trefit zeď",
     "scenarios.utah.chapter_1.chapter_1_suspension.description": "Pořádně otestuj zavěšení závodem v těžkém terénu.",
-    "scenarios.utah.chapter_1.chapter_1_rubberband.description": "Gumové lano – statistiky: obdržené poškození, doba trvání, jak daleko přes řeku se ti podařilo dojet, skóre: jak daleko přes řeku se ti podařilo dojet, selhání: neaktivování gumového lana, nedosažení prvního bodu trasy, Poznámky: je zapotřebí tlačítko pro aktivaci efektu gumového lana, které spojí tvé vozidlo s okrajem cesty po dobu držení tohoto tlačítka, aktivace tohoto efektu tě vystřelí přes řeku"
+    "scenarios.utah.chapter_1.chapter_1_rubberband.description": "Gumové lano – statistiky: obdržené poškození, doba trvání, jak daleko přes řeku se ti podařilo dojet, skóre: jak daleko přes řeku se ti podařilo dojet, selhání: neaktivování gumového lana, nedosažení prvního bodu trasy, Poznámky: je zapotřebí tlačítko pro aktivaci efektu gumového lana, které spojí tvé vozidlo s okrajem cesty po dobu držení tohoto tlačítka, aktivace tohoto efektu tě vystřelí přes řeku",
+    "scenarios.utah.chapter_2.chapter_2_5_roll.description": "Dojeď co nejdál a používej k řízení pouze volant – žádné brzdy, ani motor.",
+    "scenarios.utah.chapter_2.chapter_2_5_roll.title": "Gravitační závod",
+    "scenarios.utah.chapter_2.chapter_2_4_delivery.zoom_controls.msg": "Pohled můžeš oddálit použitím [action=decrease_zoom] a přiblížit pomocí [action=increase_zoom]",
+    "scenarios.utah.chapter_2.chapter_2_4_delivery.multiple_routes.msg": "Existuje vícero tras. Vyber si takovou, která ti bude nejvíc vyhovovat!",
+    "scenarios.utah.chapter_2.chapter_2_4_delivery.attach_trailer.msg": "Připoj přívěs k vozidlu pomocí [action=couplersToggle]",
+    "scenarios.utah.chapter_2.chapter_2_4_delivery.trailer_controls.msg": "Přívěs připojíš a odpojíš stisknutím [action=couplersToggle]",
+    "scenarios.utah.chapter_2.chapter_2_4_delivery.drive_in_reverse.msg": "Zacouvej do těsné blízkosti přívěsu",
+    "scenarios.utah.chapter_2.chapter_2_4_delivery.fail.msg": "Ty díly je skutečně potřeba doručit!",
+    "scenarios.utah.chapter_2.chapter_2_4_delivery.pass.msg": "Díky za ty dovezené díly. Teď už se konečně můžu hnout z místa",
+    "scenarios.utah.chapter_2.chapter_2_3_crawl.pass.msg": "Zase jsi ho porazil! Gratuluji!"
 }
