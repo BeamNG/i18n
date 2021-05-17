@@ -1853,5 +1853,11 @@
     "scenarios.utah.chapter_1.chapter_1_walljump.title": "Skok do zdi",
     "scenarios.utah.chapter_1.chapter_1_suspension.pass.msg": "Závod dokončen",
     "scenarios.utah.chapter_1.chapter_1_suspension.fail.msg": "Nezvládl jsi dokončit závod",
-    "scenarios.utah.chapter_1.chapter_1_rubberband.timeLimit.msg": "Trvalo ti to déle než {{timeLimit}} sekund"
+    "scenarios.utah.chapter_1.chapter_1_rubberband.timeLimit.msg": "Trvalo ti to déle než {{timeLimit}} sekund",
+    "scenarios.utah.chapter_2.chapter_2_1_ram.playerfall.fail.msg": "Tyjo! Jsi v pohodě? Buď opatrný, z útesu jsi neměl shodit sám sebe!",
+    "scenarios.utah.chapter_2.chapter_2_1_ram.description": "Zlikviduj Covet shozením z útesu.",
+    "scenarios.utah.chapter_1.chapter_1_suspension.followpath.fail.msg": "Nepodařilo se ti dokončit trasu",
+    "scenarios.utah.chapter_1.chapter_1_suspension.wall.fail.msg": "Nepovedlo se ti trefit zeď",
+    "scenarios.utah.chapter_1.chapter_1_suspension.description": "Pořádně otestuj zavěšení závodem v těžkém terénu.",
+    "scenarios.utah.chapter_1.chapter_1_rubberband.description": "Gumové lano – statistiky: obdržené poškození, doba trvání, jak daleko přes řeku se ti podařilo dojet, skóre: jak daleko přes řeku se ti podařilo dojet, selhání: neaktivování gumového lana, nedosažení prvního bodu trasy, Poznámky: je zapotřebí tlačítko pro aktivaci efektu gumového lana, které spojí tvé vozidlo s okrajem cesty po dobu držení tohoto tlačítka, aktivace tohoto efektu tě vystřelí přes řeku"
 }
