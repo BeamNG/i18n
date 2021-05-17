@@ -1340,7 +1340,7 @@
     "ui.options.camera.cameraDriverPhysics": "Velikost setrvačnosti",
     "ui.options.camera.cameraDriverAllowSeatAdjustments": "Povolit úpravu přizpůsobení polohy sedadla",
     "ui.options.camera.couplerCameraModifierHint": "Upravuje orbitu kamery pro lepší přehled během používání spojitelných prvků. Užitečné při zapřahování přívěsů",
-    "ui.options.camera.couplerCameraModifier": "Přizpůsobit úhel při spojování elementů (například přívěsů)",
+    "ui.options.camera.couplerCameraModifier": "Přizpůsobit úhel při spojování prvků (například přívěsů)",
     "ui.options.camera.cameraDriverAutocenterHint": "Pohled se po uvolnění tlačítka/páčky/myši automaticky vycentruje",
     "ui.options.camera.cameraDriverAutocenter": "Automaticky vystředit pohled po uvolnění",
     "ui.options.camera.cameraDriverAllowSeatAdjustmentsHint": "Umožňuje vyladit umístění posedu pomocí přiřazených kláves",
@@ -1816,7 +1816,7 @@
     "ui.trackBuilder.selectFirst": "Vybrat první",
     "ui.trackBuilder.reset": "Obnovit",
     "ui.trackBuilder.delete": "Odstranit segment",
-    "ui.trackBuilder.build": "Přidat element na konec trati",
+    "ui.trackBuilder.build": "Přidat prvek na konec trati",
     "ui.trackBuilder.loop": "Přidat smyčku",
     "ui.trackBuilder.rightTurn": "Přidat segment pravého směrového oblouku",
     "ui.trackBuilder.rotateToCamera": "Natočit ke kameře",
@@ -1828,5 +1828,7 @@
     "ui.trackBuilder.drive": "Jeď!",
     "ui.trackBuilder.removeTrack": "Vymazat trať",
     "ui.trackBuilder.removeTrackTooltip": "Vymaže aktuální trať (neodstraní uložené soubory trati)",
-    "ui.trackBuilder.howToDrive": "Chceš‑li se projet po tratích, které jsi uložil, přejdi do menu Řídit > Časovky > Tratě z Editoru tratí."
+    "ui.trackBuilder.howToDrive": "Chceš‑li se projet po tratích, které jsi uložil, přejdi do menu Řídit > Časovky > Tratě z Editoru tratí.",
+    "scenarios.utah.chapter_1.chapter_1_ramcliff.pass.msg": "Zřítila se obě auta",
+    "quickrace.driver_training.procTrack.bigSparse.description": "Vytvoří procedurálně generovaný úsek, který je velký a obsahuje sice méně, zato větších prvků."
 }
