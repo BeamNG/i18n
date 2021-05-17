@@ -1834,5 +1834,6 @@
     "quickrace.driver_training.procTrack.smallBasic.description": "Vytvoří procedurálně generovaný úsek, který je malý a obsahuje všechny dostupné traťové prvky.",
     "quickrace.driver_training.procTrack.mediumBasic.description": "Vytvoří procedurálně generovaný úsek, který je středně velký a obsahuje všechny dostupné traťové prvky.",
     "quickrace.driver_training.procTrack.longDense.description": "Vytvoří procedurálně generovaný úsek, který je dlouhý, úzký a obsahuje mnoho malých prvků.",
-    "quickrace.driver_training.procTrack.bigBasic.description": "Vytvoří procedurálně generovaný úsek, který je velký a obsahuje všechny dostupné traťové prvky."
+    "quickrace.driver_training.procTrack.bigBasic.description": "Vytvoří procedurálně generovaný úsek, který je velký a obsahuje všechny dostupné traťové prvky.",
+    "quickrace.driver_training.procTrack.tapeCircuit.description": "Vytvoří procedurálně generovaný okruh, připomínající cívkový magnetofon, se dvěma velkými kruhovými prvky."
 }
