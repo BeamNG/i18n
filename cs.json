@@ -1872,7 +1872,7 @@
     "scenarios.utah.chapter_2.chapter_2_3_crawl.pass.msg": "Zase jsi ho porazil! Gratuluji!",
     "scenarios.utah.chapter_2.chapter_2_4_delivery.cargoFellOff.fail.msg": "Díky za snahu, ale možná zkus nezničit ten náklad.",
     "scenarios.utah.chapter_2.chapter_2_4_delivery.description": "Pomoz kamarádovi někam doručit díly.",
-    "scenarios.utah.fg-delivery.description": "Máš za úkol doručit bednu plnou zásob na jednu místní stanici revírníků. Plný počet bodů získáš jedině tak, když předvedeš, že náklad dokážeš dovézt ke stanici všemi třemi možnými trasami!",
+    "scenarios.utah.fg-delivery.description": "Máš za úkol doručit bednu plnou zásob na místní stanici revírníků. Plný počet bodů získáš jedině tak, když předvedeš, že náklad dokážeš dovézt ke stanici všemi třemi možnými trasami!",
     "scenarios.utah.fg-delivery.title": "Doručení zásob",
     "scenarios.utah.crawl.outro": "Dokončil jsi zdolávání terénu!",
     "scenarios.utah.crawl.hard.description": "Velmi náročná trať ke zdolání. Výjezdy a sjezdy skal a útesů, završené odvážným skokem na skalní pilíř!",
