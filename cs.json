@@ -1836,7 +1836,7 @@
     "quickrace.driver_training.procTrack.longDense.description": "Vytvoří procedurálně generovaný úsek, který je dlouhý, úzký a obsahuje mnoho malých prvků.",
     "quickrace.driver_training.procTrack.bigBasic.description": "Vytvoří procedurálně generovaný úsek, který je velký a obsahuje všechny dostupné traťové prvky.",
     "quickrace.driver_training.procTrack.tapeCircuit.description": "Vytvoří procedurálně generovaný okruh, připomínající cívkový magnetofon, se dvěma velkými kruhovými prvky.",
-    "scenarios.utah.chapter_2.chapter_2_3_crawl.fail.msg": "Štěkáš, ale nekoušeš. Vrať se, až se naučíš řídit.",
+    "scenarios.utah.chapter_2.chapter_2_3_crawl.fail.msg": "Štěkáš, ale nekoušeš. Vrať se, až se naučíš řídit",
     "scenarios.utah.chapter_2.chapter_2_3_crawl.description": "Závod vedoucí po nerovných površích. Dokážeš dojet až do cíle?",
     "scenarios.utah.chapter_2.chapter_2_2_mixed.fail.msg": "To je všechno, co umíš?",
     "scenarios.utah.chapter_2.chapter_2_2_mixed.pass.msg": "Výborně. Vyhrál jsi {{reward}} $",
@@ -1869,5 +1869,7 @@
     "scenarios.utah.chapter_2.chapter_2_4_delivery.drive_in_reverse.msg": "Zacouvej do těsné blízkosti přívěsu",
     "scenarios.utah.chapter_2.chapter_2_4_delivery.fail.msg": "Ty díly je skutečně potřeba doručit!",
     "scenarios.utah.chapter_2.chapter_2_4_delivery.pass.msg": "Díky za ty dovezené díly. Teď už se konečně můžu hnout z místa",
-    "scenarios.utah.chapter_2.chapter_2_3_crawl.pass.msg": "Zase jsi ho porazil! Gratuluji!"
+    "scenarios.utah.chapter_2.chapter_2_3_crawl.pass.msg": "Zase jsi ho porazil! Gratuluji!",
+    "scenarios.utah.chapter_2.chapter_2_4_delivery.cargoFellOff.fail.msg": "Díky za snahu, ale možná zkus nezničit ten náklad.",
+    "scenarios.utah.chapter_2.chapter_2_4_delivery.description": "Pomoz kamarádovi někam doručit díly."
 }
