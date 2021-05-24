@@ -3503,5 +3503,7 @@
     "ui.inputActions.vehicle.key_w.title": "W işlevi",
     "ui.inputActions.vehicle.key_w.description": "'W' tuşu işlevi (kullanımdan kaldırılacak)",
     "ui.inputActions.vehicle.key_y.title": "Y İşlevi",
-    "ui.inputActions.vehicle.key_y.description": "'Y' tuşu işlevi (kullanımdan kaldırılacak)"
+    "ui.inputActions.vehicle.key_y.description": "'Y' tuşu işlevi (kullanımdan kaldırılacak)",
+    "ui.inputActions.vehicle.nextESCMode.description": "Sonraki ESC / TC moduna geç",
+    "ui.inputActions.vehicle.modify_vehicle.title": "Aracı Değiştir"
 }
