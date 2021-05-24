@@ -3479,5 +3479,9 @@
     "ui.inputActions.menu.menu_item_radial_x.title": "Radyal menü (yatay)",
     "ui.inputActions.menu.menu_item_radial_x.description": "Radyal menü imlecini hareket ettirir (yatay eksende)",
     "ui.inputActions.menu.menu_item_radial_right_y.title": "Menü kaydır (dikey)",
-    "ui.inputActions.menu.menu_item_radial_right_y.description": "Yan öğeleri kaydırır (dikey eksende)"
+    "ui.inputActions.menu.menu_item_radial_right_y.description": "Yan öğeleri kaydırır (dikey eksende)",
+    "ui.inputActions.vehicle.key_e.description": "'E' tuşu işlevi (kullanımdan kaldırılacak)",
+    "ui.inputActions.vehicle.key_d.title": "D İşlevi",
+    "ui.inputActions.vehicle.key_d.description": "'D' tuşu işlevi (kullanımdan kaldırılacak)",
+    "ui.inputActions.vehicle.key_a.description": "'A' tuş işlevi (kullanımdan kaldırılılacak)"
 }
