@@ -3516,5 +3516,6 @@
     "ui.inputActions.vehicle.parkingbrake_toggle.description": "El frenini kalıcı olarak etkinleştirir/devre dışı bırakır",
     "ui.inputActions.vehicle.parkingbrake_toggle.title": "El Freni (kalıcı)",
     "ui.inputActions.vehicle.previousESCMode.description": "Önceki ESC/TC moduna geçer",
-    "ui.inputActions.vehicle.previousESCMode.title": "Önceki ESC / TC Modu"
+    "ui.inputActions.vehicle.previousESCMode.title": "Önceki ESC / TC Modu",
+    "ui.inputActions.vehicle.reset_cc_speed.description": "Önceki hızı, seyir kontrolü için hedef hız olarak sıfırlar"
 }
