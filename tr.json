@@ -3518,5 +3518,6 @@
     "ui.inputActions.vehicle.previousESCMode.description": "Önceki ESC/TC moduna geçer",
     "ui.inputActions.vehicle.previousESCMode.title": "Önceki ESC/TC Modu",
     "ui.inputActions.vehicle.reset_cc_speed.description": "Önceki hızı, hız sabitleyici için hedef hız olarak sıfırlar",
-    "ui.inputActions.vehicle.reset_cc_speed.title": "Seyir Kontrol Hızını Sıfırla"
+    "ui.inputActions.vehicle.reset_cc_speed.title": "Seyir Kontrol Hızını Sıfırla",
+    "ui.inputActions.vehicle.set_cc_speed.description": "Mevcut araç hızını hız sabitleyici için hedef hız olarak ayarla"
 }
