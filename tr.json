@@ -3513,6 +3513,6 @@
     "ui.inputActions.vehicle.parkingbrake.title": "El Freni",
     "ui.inputActions.vehicle.parkingbrake_temporary.description": "El frenini anlık olarak etkinleştirir",
     "ui.inputActions.vehicle.parkingbrake_temporary.title": "El Freni (geçici)",
-    "ui.inputActions.vehicle.parkingbrake_toggle.description": "Park frenini kalıcı olarak etkinleştirir / devre dışı bırakır",
+    "ui.inputActions.vehicle.parkingbrake_toggle.description": "El frenini kalıcı olarak etkinleştirir/devre dışı bırakır",
     "ui.inputActions.vehicle.parkingbrake_toggle.title": "Park Freni (kalıcı)"
 }
