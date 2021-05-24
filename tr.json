@@ -3508,6 +3508,6 @@
     "ui.inputActions.vehicle.modify_vehicle.title": "Aracı Değiştir",
     "ui.inputActions.vehicle.nextESCMode.title": "Sonraki ESC/TC Modu",
     "ui.inputActions.vehicle.overrideNitrousOxide.description": "Herhangi bir zamanda Nitröz Oksit Enjeksiyon sistemini kullanmak için basılı tutun",
-    "ui.inputActions.vehicle.overrideNitrousOxide.title": "Nitröz Oksit Enjeksiyonunu Etkinleştirin",
+    "ui.inputActions.vehicle.overrideNitrousOxide.title": "Nitröz Oksit Enjeksiyonu'nu Etkinleştir",
     "ui.inputActions.vehicle.parkingbrake.description": "Park frenini etkinleştirir (sürüklenirken ve ayrıca park ederken kullanılabilir)"
 }
