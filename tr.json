@@ -3497,5 +3497,7 @@
     "ui.inputActions.vehicle.key_r.title": "R işlevi",
     "ui.inputActions.vehicle.key_r.description": "'R' tuşu işlevi (kullanımdan kaldırılacak)",
     "ui.inputActions.vehicle.key_s.title": "S İşlevi",
-    "ui.inputActions.vehicle.key_s.description": "'S' tuşu işlevi (kullanımdan kaldırılacak)"
+    "ui.inputActions.vehicle.key_s.description": "'S' tuşu işlevi (kullanımdan kaldırılacak)",
+    "ui.inputActions.vehicle.key_t.title": "T İşlevi",
+    "ui.inputActions.vehicle.key_t.description": "'T' tuşu işlevi (kullanımdan kaldırılacak)"
 }
