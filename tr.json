@@ -3484,5 +3484,7 @@
     "ui.inputActions.vehicle.key_d.title": "D İşlevi",
     "ui.inputActions.vehicle.key_d.description": "'D' tuşu işlevi (kullanımdan kaldırılacak)",
     "ui.inputActions.vehicle.key_a.description": "'A' tuş işlevi (kullanımdan kaldırılılacak)",
-    "ui.inputActions.vehicle.key_a.title": "A işlevi"
+    "ui.inputActions.vehicle.key_a.title": "A işlevi",
+    "ui.inputActions.vehicle.key_f.description": "'F' tuşu işlevi (kullanımdan kaldırılacak)",
+    "ui.inputActions.vehicle.key_e.title": "E işlevi"
 }
