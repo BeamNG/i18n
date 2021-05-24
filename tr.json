@@ -3506,5 +3506,6 @@
     "ui.inputActions.vehicle.key_y.description": "'Y' tuşu işlevi (kullanımdan kaldırılacak)",
     "ui.inputActions.vehicle.nextESCMode.description": "Sonraki ESC/TC moduna geçer",
     "ui.inputActions.vehicle.modify_vehicle.title": "Aracı Değiştir",
-    "ui.inputActions.vehicle.nextESCMode.title": "Sonraki ESC / TC Modu"
+    "ui.inputActions.vehicle.nextESCMode.title": "Sonraki ESC / TC Modu",
+    "ui.inputActions.vehicle.overrideNitrousOxide.description": "Nitröz Oksit Enjeksiyon sistemini kullanmak için basılı tutun"
 }
