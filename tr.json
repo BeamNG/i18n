@@ -3511,5 +3511,6 @@
     "ui.inputActions.vehicle.overrideNitrousOxide.title": "Nitröz Oksit Enjeksiyonu'nu Etkinleştir",
     "ui.inputActions.vehicle.parkingbrake.description": "Akıllı el frenini etkinleştirir (drift yaparken ve ayrıca park ederken kullanılabilir)",
     "ui.inputActions.vehicle.parkingbrake.title": "Park/El Freni",
-    "ui.inputActions.vehicle.parkingbrake_temporary.description": "Park frenini anlık olarak etkinleştirir"
+    "ui.inputActions.vehicle.parkingbrake_temporary.description": "Park frenini anlık olarak etkinleştirir",
+    "ui.inputActions.vehicle.parkingbrake_temporary.title": "Park Freni (geçici)"
 }
