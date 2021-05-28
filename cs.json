@@ -1895,7 +1895,7 @@
     "scenarios.utah.crawl.hard.title": "Zdolávání terénu – Pád důvěry",
     "scenarios.utah.chapter_2.chapter_2_6_canyon.description": "Náročný závod skrz úzké průsmyky kaňonu.",
     "scenarios.utah.chapter_2.chapter_2_5_roll.pass.msg": "Dobrá práce, dostat se takhle daleko",
-    "scenarios.utah.fg-delivery.doneThree": "Skutečně pozoruhodné! Jsi vážně mistrný řidič a doručovatel zásilek. Určitě ti příště zase zavolám, až budu potřebovat něco dovézt do těchhle těžko přístupných končin.",
+    "scenarios.utah.fg-delivery.doneThree": "Skutečně pozoruhodné! Jsi vážně mistrný řidič a doručovatel zásilek. Určitě ti zase zavolám, až budu potřebovat něco dovézt do těchto těžko přístupných končin.",
     "scenarios.utah.fg-delivery.doneTwo": "Věděl jsem, že to zase dokážeš. Ale... ještě se můžeš vydat po jedné zbývající cestě.",
     "scenarios.utah.fg-delivery.complete": "Doručení nákladu je splněno. Výborně!",
     "scenarios.utah.fg-delivery.lost": "Zdá se, že ti ta bedna spadla.",
@@ -1923,5 +1923,8 @@
     "scenarios.utah.fg-demo.damaged": "Jak se ti podařilo rozbít auto na cestě k mostu?!",
     "scenarios.utah.fg-demo.missed": "Vypadá to, že ses netrefil.",
     "scenarios.utah.fg-demo.description": "Toto je jednoduchý ukázkový scénář, který využívá systém Flowgraph namísto systému scénáře. Tvým úkolem je proskočit mezi mostními pilíři, aniž bys do něčeho narazil.",
-    "scenarios.utah.fg-demo.title": "Ukázka systému Flowgraph – Skok"
+    "scenarios.utah.fg-demo.title": "Ukázka systému Flowgraph – Skok",
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_crush.failMiss.msg": "Úplně vedle! Snad víš, že filmový štáb platíme od hodiny!",
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_crush.winSmall": "Se špetkou CGI bychom z toho mohli vykřesat nějaké použitelné záběry...",
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_crush.description": "Konec trasy projeď dostatečně rychle, abys po výskoku dopadl na cílové auto a rozdrtil ho. Bonusové body získáš, když se ti podaří vrazit do auta hned za vlásenkou!"
 }
