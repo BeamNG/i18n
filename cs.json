@@ -1934,5 +1934,7 @@
     "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_ballistic.fail.msg": "Uf, to nebyl zrovna ten let, ve který jsem doufal...",
     "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_follow.description": "Jsi přijat! Máme ale vážně naspěch, takže se snaž udržet tempo s autem filmového štábu, abychom dorazili do závodního areálu včas.",
     "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_follow.title": "Cesta na scénu",
-    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_ballistic.win.msg": "To byla pozoruhodná podívaná! S tím nepořádkem si nedělej starosti. Špatná reklama neexistuje. Zapisuješ se do análů!"
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_ballistic.win.msg": "To byla pozoruhodná podívaná! S tím nepořádkem si nedělej starosti. Špatná reklama neexistuje. Zapisuješ se do análů!",
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_course.win.msg": "Tohle chci vidět – zručné řízení a spoustu destrukce!",
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_course.fail.msg": "Rychleji! Tohle je akční film, žádné drama!"
 }
