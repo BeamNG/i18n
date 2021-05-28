@@ -1935,7 +1935,7 @@
     "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_follow.description": "Jsi přijat! Máme ale vážně naspěch, takže se snaž udržet tempo s autem filmového štábu, abychom dorazili do závodního areálu včas.",
     "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_follow.title": "Cesta na scénu",
     "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_ballistic.win.msg": "To byla pozoruhodná podívaná! S tím nepořádkem si nedělej starosti. Špatná reklama neexistuje. Zapisuješ se do análů!",
-    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_course.win.msg": "Tohle chci vidět – zručné řízení a spoustu destrukce!",
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_course.win.msg": "To je to, co chci vidět, zručné řízení a spousta destrukce!",
     "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_course.fail.msg": "Rychleji! Tohle je akční film, žádné drama!",
     "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_course.description": "Dokonči jízdu v časovém limitu. Možná budeš muset být trochu kreativní, protože rekvizitáři všude kolem nechali nějaké... eh, nebezpečné předměty.",
     "scenarios.west_coast_usa.mountain_race.description": "Bojuj o vítězství na klikatých horských silničkách západního pobřeží USA",
@@ -1952,5 +1952,9 @@
     "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_minspeed.description": "Bezpečně odvez cestující dolů z hory",
     "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_minspeed.title": "Úvod: Běžný pracovní den",
     "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_jump.fail_time.msg": "Kde to vázne? Copak nevíš, že máš vzadu nádrž s oxidem dusným?",
-    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_jump.title": "Kaskadérský kousek 2: Skok"
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_jump.title": "Kaskadérský kousek 2: Skok",
+    "scenarios.west_coast_usa.derby_asphalt.description": "Závod na 5 kol na parkovišti depa",
+    "scenarios.west_coast_usa.wcaAutobelloShowcase.title": "Předvedení vozu Autobello Piccolina",
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_jump.fail_damage.msg": "Proč se vůbec snažíme dávat ti tam auta na měkčí přistání, když ten autobus stejně takhle zrasuješ?",
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_jump.description": "Nyní, když už ses rozehřál, tak tě v tom můžeme nechat pěkně plavat. Potřebujeme grandiózní skok pro sekvenci druhé honičky. A jestli chceš, aby tvoje páteř ve zdraví přežila doskok, tak bych ti doporučil, abys mířil na ta torza aut. [br][br] A ještě něco. Dal jsem štábu za úkol dovybavit autobus nádrží s nitrem, takže než vyjedeš, ujisti se, že je to zapnuté (použij [action=toggleNitrousOxide])."
 }
