@@ -1938,7 +1938,7 @@
     "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_course.win.msg": "To je to, co chci vidět, zručné řízení a spousta destrukce!",
     "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_course.fail.msg": "Rychleji! Tohle je akční film, žádné drama!",
     "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_course.description": "Dokonči jízdu v časovém limitu. Možná budeš muset být trochu kreativní, protože rekvizitáři všude kolem nechali nějaké... eh, nebezpečné předměty.",
-    "scenarios.west_coast_usa.mountain_race.description": "Bojuj o vítězství na klikatých horských silničkách západního pobřeží USA",
+    "scenarios.west_coast_usa.mountain_race.description": "Bojuj o vítězství na klikatých horských silničkách Západního Pobřeží USA",
     "scenarios.west_coast_usa.mountain_race.title": "Horská rally",
     "scenarios.west_coast_usa.derby_asphalt.fail.msg": "Prohrál jsi...",
     "scenarios.west_coast_usa.derby_asphalt.win.msg": "Výborně!",
@@ -1964,5 +1964,6 @@
     "scenarios.automation_test_track.damJump.fail_escape.msg": "Musíš najet na skok, ne na cestu",
     "scenarios.automation_test_track.damJump.fail_water.msg": "Musíš jet dopředu, ne dozadu",
     "scenarios.automation_test_track.damJump.fail_missed.msg": "Nezasáhl jsi žádný z terčů",
-    "scenarios.automation_test_track.damJump.title": "Skok z přehrady"
+    "scenarios.automation_test_track.damJump.title": "Skok z přehrady",
+    "scenarios.automation_test_track.damJump.description": "Skákej z přehrady na cíl"
 }
