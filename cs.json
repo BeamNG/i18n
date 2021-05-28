@@ -1927,7 +1927,7 @@
     "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_crush.failMiss.msg": "Úplně vedle! Snad víš, že filmový štáb platíme od hodiny!",
     "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_crush.winSmall": "Se špetkou CGI bychom z toho mohli vykřesat nějaké použitelné záběry...",
     "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_crush.description": "Konec trasy projeď dostatečně rychle, abys po výskoku dopadl na cílové auto a rozdrtil ho. Bonusové body získáš, když se ti podaří vrazit do auta hned za vlásenkou!",
-    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_course.title": "Demoliční jízda",
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_course.title": "Masakr",
     "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_follow.damage.msg": "Začínám si myslet, že jsi beznadějný smolař...",
     "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_follow.win.msg": "Akorát včas – už jen stačí rozbalit to naše nádobíčko a můžeme začít natáčet.",
     "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_follow.fail.msg": "Proč jsem se vůbec obtěžoval najímat tě jako řidiče‑kaskadéra, když ani nedokážeš udržet tempo s filmovým štábem?",
@@ -1936,5 +1936,6 @@
     "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_follow.title": "Cesta na scénu",
     "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_ballistic.win.msg": "To byla pozoruhodná podívaná! S tím nepořádkem si nedělej starosti. Špatná reklama neexistuje. Zapisuješ se do análů!",
     "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_course.win.msg": "Tohle chci vidět – zručné řízení a spoustu destrukce!",
-    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_course.fail.msg": "Rychleji! Tohle je akční film, žádné drama!"
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_course.fail.msg": "Rychleji! Tohle je akční film, žádné drama!",
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_course.description": "Dokonči jízdu v časovém limitu. Možná budeš muset být trochu kreativní, protože rekvizitáři všude kolem nechali nějaké... eh, nebezpečné předměty."
 }
