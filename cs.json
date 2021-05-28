@@ -1956,5 +1956,13 @@
     "scenarios.west_coast_usa.derby_asphalt.description": "Závod na 5 kol na parkovišti depa",
     "scenarios.west_coast_usa.wcaAutobelloShowcase.title": "Předvedení vozu Autobello Piccolina",
     "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_jump.fail_damage.msg": "Proč se vůbec snažíme dávat ti tam auta na měkčí přistání, když ten autobus stejně takhle zrasuješ?",
-    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_jump.description": "Nyní, když už ses rozehřál, tak tě v tom můžeme nechat pěkně plavat. Potřebujeme grandiózní skok pro sekvenci druhé honičky. A jestli chceš, aby tvoje páteř ve zdraví přežila doskok, tak bych ti doporučil, abys mířil na ta torza aut. [br][br] A ještě něco. Dal jsem štábu za úkol dovybavit autobus nádrží s nitrem, takže než vyjedeš, ujisti se, že je to zapnuté (použij [action=toggleNitrousOxide])."
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_jump.description": "Nyní, když už ses rozehřál, tak tě v tom můžeme nechat pěkně plavat. Potřebujeme grandiózní skok pro sekvenci druhé honičky. A jestli chceš, aby tvoje páteř ve zdraví přežila doskok, tak bych ti doporučil, abys mířil na ta torza aut. [br][br] A ještě něco. Dal jsem štábu za úkol dovybavit autobus nádrží s nitrem, takže než vyjedeš, ujisti se, že je to zapnuté (použij [action=toggleNitrousOxide]).",
+    "scenarios.utah.prototype.arrival.title": "Příjezd do Utahu",
+    "scenarios.automation_test_track.damclimb.description": "Dokáže tvé vozidlo vyjet nahoru po přelivu se sklonem 45°?",
+    "scenarios.automation_test_track.damclimb.title": "Zdolávání přelivu",
+    "scenarios.automation_test_track.damJump.win.msg": "Výborně!",
+    "scenarios.automation_test_track.damJump.fail_escape.msg": "Musíš najet na skok, ne na cestu",
+    "scenarios.automation_test_track.damJump.fail_water.msg": "Musíš jet dopředu, ne dozadu",
+    "scenarios.automation_test_track.damJump.fail_missed.msg": "Nezasáhl jsi žádný z terčů",
+    "scenarios.automation_test_track.damJump.title": "Skok z přehrady"
 }
