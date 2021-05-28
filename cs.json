@@ -1937,5 +1937,20 @@
     "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_ballistic.win.msg": "To byla pozoruhodná podívaná! S tím nepořádkem si nedělej starosti. Špatná reklama neexistuje. Zapisuješ se do análů!",
     "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_course.win.msg": "Tohle chci vidět – zručné řízení a spoustu destrukce!",
     "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_course.fail.msg": "Rychleji! Tohle je akční film, žádné drama!",
-    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_course.description": "Dokonči jízdu v časovém limitu. Možná budeš muset být trochu kreativní, protože rekvizitáři všude kolem nechali nějaké... eh, nebezpečné předměty."
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_course.description": "Dokonči jízdu v časovém limitu. Možná budeš muset být trochu kreativní, protože rekvizitáři všude kolem nechali nějaké... eh, nebezpečné předměty.",
+    "scenarios.west_coast_usa.mountain_race.description": "Bojuj o vítězství na klikatých horských silničkách západního pobřeží USA",
+    "scenarios.west_coast_usa.mountain_race.title": "Horská rally",
+    "scenarios.west_coast_usa.derby_asphalt.fail.msg": "Prohrál jsi...",
+    "scenarios.west_coast_usa.derby_asphalt.win.msg": "Výborně!",
+    "scenarios.west_coast_usa.derby_asphalt.title": "Derby závod po asfaltu",
+    "scenarios.west_coast_usa.wcaAutobelloShowcase.tip_reverse": "Jeď zpátečkou",
+    "scenarios.west_coast_usa.wcaAutobelloShowcase.description": "Technická časovka vedoucí městem Belasco City k předvedení schopností vozidla Autobello Piccolina",
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_minspeed.fail3.msg": "Havaroval jsi",
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_minspeed.fail2.msg": "Nedokázal jsi autobus dovézt na bezpečné místo",
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_minspeed.fail1.msg": "Bomba vybuchla",
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_minspeed.success.msg": "Takže to jsi ty, ten hrdina z novinových titulků? Hodil by se mi zručný řidič, jako ty, který by dokázal provést nějaké kaskadérské kousky pro moji nadcházející filmovou tvorbu. Dej mi vědět, jestli o to máš zájem.",
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_minspeed.description": "Bezpečně odvez cestující dolů z hory",
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_minspeed.title": "Úvod: Běžný pracovní den",
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_jump.fail_time.msg": "Kde to vázne? Copak nevíš, že máš vzadu nádrž s oxidem dusným?",
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_jump.title": "Kaskadérský kousek 2: Skok"
 }
