@@ -1931,5 +1931,8 @@
     "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_follow.damage.msg": "Začínám si myslet, že jsi beznadějný smolař...",
     "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_follow.win.msg": "Akorát včas – už jen stačí rozbalit to naše nádobíčko a můžeme začít natáčet.",
     "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_follow.fail.msg": "Proč jsem se vůbec obtěžoval najímat tě jako řidiče‑kaskadéra, když ani nedokážeš udržet tempo s filmovým štábem?",
-    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_ballistic.fail.msg": "Uf, to nebyl zrovna ten let, ve který jsem doufal..."
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_ballistic.fail.msg": "Uf, to nebyl zrovna ten let, ve který jsem doufal...",
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_follow.description": "Jsi přijat! Máme ale vážně naspěch, takže se snaž udržet tempo s autem filmového štábu, abychom dorazili do závodního areálu včas.",
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_follow.title": "Cesta na scénu",
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_ballistic.win.msg": "To byla pozoruhodná podívaná! S tím nepořádkem si nedělej starosti. Špatná reklama neexistuje. Zapisuješ se do análů!"
 }
