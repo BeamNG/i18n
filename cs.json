@@ -1894,5 +1894,14 @@
     "scenarios.utah.chapter_2.chapter_2_5_roll.fail.msg": "Jsem si jistý, že máš na víc",
     "scenarios.utah.crawl.hard.title": "Zdolávání terénu – Pád důvěry",
     "scenarios.utah.chapter_2.chapter_2_6_canyon.description": "Náročný závod skrz úzké průsmyky kaňonu.",
-    "scenarios.utah.chapter_2.chapter_2_5_roll.pass.msg": "Dobrá práce, dostat se takhle daleko"
+    "scenarios.utah.chapter_2.chapter_2_5_roll.pass.msg": "Dobrá práce, dostat se takhle daleko",
+    "scenarios.utah.fg-delivery.doneThree": "Skutečně pozoruhodné! Jsi vážně mistrný řidič a doručovatel zásilek. Určitě ti příště zase zavolám, až budu potřebovat něco dovézt do těchhle těžko přístupných končin.",
+    "scenarios.utah.fg-delivery.doneTwo": "Věděl jsem, že to zase dokážeš. Ale... ještě se můžeš vydat po jedné zbývající cestě.",
+    "scenarios.utah.fg-delivery.complete": "Doručení nákladu je splněno. Výborně!",
+    "scenarios.utah.fg-delivery.lost": "Zdá se, že ti ta bedna spadla.",
+    "scenarios.utah.fg-delivery.proceed": "Skvělé! Nyní se vydej doručit tu bednu. Máš na výběr několik možných tras!",
+    "scenarios.utah.fg-delivery.asphaltName": "Asfaltová silnice",
+    "scenarios.utah.fg-delivery.asphalt": "Vybral sis trasu po asfaltové silnici.",
+    "scenarios.utah.fg-delivery.decouple": "Přívěs nemáš odpojovat!",
+    "scenarios.utah.fg-delivery.couple": "Zacouvej k přívěsu, abys jej mohl připojit."
 }
