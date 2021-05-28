@@ -1909,5 +1909,19 @@
     "scenarios.utah.fg-delivery.upper": "Vybral sis trasu po Horní prašné cestě.",
     "scenarios.utah.fg-delivery.lowerName": "Dolní prašná cesta",
     "scenarios.utah.fg-delivery.lower": "Vybral sis trasu po Dolní prašné cestě.",
-    "scenarios.utah.fg-delivery.upperName": "Horní prašná cesta"
+    "scenarios.utah.fg-delivery.upperName": "Horní prašná cesta",
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_ballistic.description": "A teď, když jsme už dotočili, se nám podařilo zajistit, aby město Belasco hostilo pokus o světový rekord, kterým zároveň propagujeme náš film.[br][br] Jediné, co musíš udělat, je aktivovat rakety a trefit se přesně na střed rampy. Doufám, že máš s sebou padák!",
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_ballistic.title": "Finále: Balistický autobus",
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_crush.failInvalid.msg": "Takhle to nepůjde. Nedopadl jsi na to auto shora...",
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_crush.failBig.msg": "Co to je? Měls to auto rozdrtit, ne do něj jenom ťuknout!",
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_crush.failSmall.msg": "Myslel jsem si, že to auto bude poškozené mnohem víc... Budeme to muset zopakovat.",
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_crush.timeLimit": "Co se děje? Nevíš který z pedálů přidá plyn?",
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_crush.winBig": "Rozmázls ho jako švába! Přesně takovýhle druh kaskadérské práce potřebujeme!",
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_crush.title": "Akční honička",
+    "scenarios.utah.fg-demo.success": "Podařilo se ti to! Skvělá práce.",
+    "scenarios.utah.fg-demo.almost": "Říkal jsem ti, abys cestou dolů do ničeho nenarazil... Tak alespoň jsi zvládl ten skok, no.",
+    "scenarios.utah.fg-demo.damaged": "Jak se ti podařilo rozbít auto na cestě k mostu?!",
+    "scenarios.utah.fg-demo.missed": "Vypadá to, že ses netrefil.",
+    "scenarios.utah.fg-demo.description": "Toto je jednoduchý ukázkový scénář, který využívá systém Flowgraph namísto systému scénáře. Tvým úkolem je proskočit mezi mostními pilíři, aniž bys do něčeho narazil.",
+    "scenarios.utah.fg-demo.title": "Ukázka systému Flowgraph – Skok"
 }
