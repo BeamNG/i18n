@@ -1903,5 +1903,11 @@
     "scenarios.utah.fg-delivery.asphaltName": "Asfaltová silnice",
     "scenarios.utah.fg-delivery.asphalt": "Vybral sis trasu po asfaltové silnici.",
     "scenarios.utah.fg-delivery.decouple": "Přívěs nemáš odpojovat!",
-    "scenarios.utah.fg-delivery.couple": "Zacouvej k přívěsu, abys jej mohl připojit."
+    "scenarios.utah.fg-delivery.couple": "Zacouvej k přívěsu, abys jej mohl připojit.",
+    "scenarios.utah.fg-delivery.doneOne": "Skvělé! Díky za dovezení zásob. Zdá se mi, že jsi dobrý řidič. Myslíš, že bys mohl doručit další zásilku po jiné cestě?",
+    "scenarios.utah.fg-delivery.intro": "Zdravím, dobře, že jsi tady.<br><br>V téhle bedně jsou zásoby pro stanici revírníků dole pod útesy. Můžeš to vzít jednou ze tří tras.<br><br>Asfaltová cesta je hned nalevo od výjezdu z parkoviště, Horní a Dolní prašná cesta je napravo.<br><br>Snad ti nemusím říkat, že ta bedna ti nesmí nikde spadnout a musí zůstat vcelku!<br><br>Šťastnou cestu.",
+    "scenarios.utah.fg-delivery.upper": "Vybral sis trasu po Horní prašné cestě.",
+    "scenarios.utah.fg-delivery.lowerName": "Dolní prašná cesta",
+    "scenarios.utah.fg-delivery.lower": "Vybral sis trasu po Dolní prašné cestě.",
+    "scenarios.utah.fg-delivery.upperName": "Horní prašná cesta"
 }
