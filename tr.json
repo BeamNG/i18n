@@ -3533,5 +3533,6 @@
     "ui.inputActions.vehicle.steering.description": "Aracı eksen ile yönlendirir (direksiyon,oyun kumandası, vs.)",
     "ui.inputActions.vehicle.steering.title": "Direksiyon (eksen/fare)",
     "ui.inputActions.vehicle.toggle4WDStatus.description": "Şaftın bağlantısını ayırır/bağlar, 4 çeker ile arkadan itiş değişimi gibi",
-    "ui.inputActions.vehicle.toggle4WDStatus.title": "4WD durumunu görüntüle"
+    "ui.inputActions.vehicle.toggle4WDStatus.title": "4WD durumunu görüntüle",
+    "ui.inputActions.vehicle.toggleDiffMode.description": "Difransiyel modları arasında geçiş sağla(varsa)"
 }
