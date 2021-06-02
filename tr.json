@@ -3534,5 +3534,5 @@
     "ui.inputActions.vehicle.steering.title": "Direksiyon (eksen/fare)",
     "ui.inputActions.vehicle.toggle4WDStatus.description": "Şaftın bağlantısını ayırır/bağlar, 4 çeker ile arkadan itiş değişimi gibi",
     "ui.inputActions.vehicle.toggle4WDStatus.title": "4 Çeker Durumunu Değiştir",
-    "ui.inputActions.vehicle.toggleDiffMode.description": "Difransiyel modları arasında geçiş sağla(varsa)"
+    "ui.inputActions.vehicle.toggleDiffMode.description": "Mümkün olan diferansiyel modları arasında geçiş yapar"
 }
