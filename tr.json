@@ -3535,5 +3535,6 @@
     "ui.inputActions.vehicle.toggle4WDStatus.description": "Şaftın bağlantısını ayırır/bağlar, 4 çeker ile arkadan itiş değişimi gibi",
     "ui.inputActions.vehicle.toggle4WDStatus.title": "4 Çeker Durumunu Değiştir",
     "ui.inputActions.vehicle.toggleDiffMode.description": "Mümkün olan diferansiyel modları arasında geçiş yapar",
-    "ui.inputActions.vehicle.toggleDiffMode.title": "Difransiyel modunu aç/kapat"
+    "ui.inputActions.vehicle.toggleDiffMode.title": "Difransiyel modunu aç/kapat",
+    "ui.inputActions.vehicle.toggleESCMode.description": "ESC/TC modları arasında geçiş sağla"
 }
