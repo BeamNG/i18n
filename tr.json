@@ -3522,6 +3522,6 @@
     "ui.inputActions.vehicle.set_cc_speed.description": "Mevcut araç hızını hız sabitleyici için hedef hız olarak ayarlar",
     "ui.inputActions.vehicle.modify_vehicle.description": "Aracı değiştirme menüsünü açar",
     "ui.inputActions.vehicle.set_cc_speed.title": "Hız Sabitleyici Hızını Ayarla",
-    "ui.inputActions.vehicle.shiftDown.description": "Vites küçült",
+    "ui.inputActions.vehicle.shiftDown.description": "Bir kere vites küçültür",
     "ui.inputActions.vehicle.shiftDown.title": "Vites küçült"
 }
