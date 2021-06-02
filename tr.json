@@ -3529,5 +3529,6 @@
     "ui.inputActions.vehicle.steer_left.description": "Direksiyonu sola çevirir",
     "ui.inputActions.vehicle.steer_left.title": "Direksiyon (sol tuş)",
     "ui.inputActions.vehicle.steer_right.description": "Direksiyonu sağa çevirir",
-    "ui.inputActions.vehicle.steer_right.title": "Direksiyon(sağ buton)"
+    "ui.inputActions.vehicle.steer_right.title": "Direksiyon(sağ buton)",
+    "ui.inputActions.vehicle.steering.description": "Aracı eksen ile yönlendirir(direksiyon,joystick,vs)"
 }
