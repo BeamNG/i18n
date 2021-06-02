@@ -3520,5 +3520,6 @@
     "ui.inputActions.vehicle.reset_cc_speed.description": "Önceki hızı, hız sabitleyici için hedef hız olarak sıfırlar",
     "ui.inputActions.vehicle.reset_cc_speed.title": "Hız Sabitleyici Hızını Sıfırla",
     "ui.inputActions.vehicle.set_cc_speed.description": "Mevcut araç hızını hız sabitleyici için hedef hız olarak ayarlar",
-    "ui.inputActions.vehicle.modify_vehicle.description": "Aracı değiştirme menüsünü açar"
+    "ui.inputActions.vehicle.modify_vehicle.description": "Aracı değiştirme menüsünü açar",
+    "ui.inputActions.vehicle.set_cc_speed.title": "Hız sabitleyici hızını ayarla"
 }
