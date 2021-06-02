@@ -3525,6 +3525,6 @@
     "ui.inputActions.vehicle.shiftDown.description": "Bir vites küçültür",
     "ui.inputActions.vehicle.shiftDown.title": "Vites Küçült",
     "ui.inputActions.vehicle.shiftUp.description": "Bir vites yükseltir",
-    "ui.inputActions.vehicle.shiftUp.title": "Vites yükselt",
+    "ui.inputActions.vehicle.shiftUp.title": "Vites Yükselt",
     "ui.inputActions.vehicle.steer_left.description": "Direksiyonu sola doğru çevir"
 }
