@@ -3532,5 +3532,6 @@
     "ui.inputActions.vehicle.steer_right.title": "Direksiyon (sağ tuş)",
     "ui.inputActions.vehicle.steering.description": "Aracı eksen ile yönlendirir (direksiyon,oyun kumandası, vs.)",
     "ui.inputActions.vehicle.steering.title": "Direksiyon (eksen/fare)",
-    "ui.inputActions.vehicle.toggle4WDStatus.description": "RWD ile 4WD arasında değiştirilebilir şaftı bağlantıyı kesmek/bağlamak için gereken ayar"
+    "ui.inputActions.vehicle.toggle4WDStatus.description": "RWD ile 4WD arasında değiştirilebilir şaftı bağlantıyı kesmek/bağlamak için gereken ayar",
+    "ui.inputActions.vehicle.toggle4WDStatus.title": "4WD durumunu görüntüle"
 }
