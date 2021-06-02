@@ -3524,5 +3524,6 @@
     "ui.inputActions.vehicle.set_cc_speed.title": "Hız Sabitleyici Hızını Ayarla",
     "ui.inputActions.vehicle.shiftDown.description": "Bir kere vites küçültür",
     "ui.inputActions.vehicle.shiftDown.title": "Vites Küçült",
-    "ui.inputActions.vehicle.shiftUp.description": "Bir vites yükselt"
+    "ui.inputActions.vehicle.shiftUp.description": "Bir vites yükselt",
+    "ui.inputActions.vehicle.shiftUp.title": "Vites yükselt"
 }
