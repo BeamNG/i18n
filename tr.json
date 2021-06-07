@@ -3540,5 +3540,8 @@
     "ui.inputActions.vehicle.toggleESCMode.title": "ESC/TC Modunu Değiştir",
     "ui.inputActions.vehicle.toggleLightbarMode.description": "Kullanılabilen ek aydınlatma ışıklarının modları arasında seçim yapmayı sağlar",
     "ui.inputActions.vehicle.toggleLightbarMode.title": "Ek aydınlatma ışığı modunu değiştir",
-    "ui.inputActions.vehicle.toggleLineLock.description": "Fren hattı kilidinin kullanımda veya kullanımda olmamasını  sağlar"
+    "ui.inputActions.vehicle.toggleLineLock.description": "Fren hattı kilidini açar ve kapatır",
+    "ui.inputActions.vehicle.toggleLineLock.title": "Fren hattı kilidini değiştir",
+    "ui.inputActions.vehicle.toggleNitrousOxide.description": "Nitröz Oksit Enjeksiyon sistemini açar ve kapatır, uygun olduğu durumlarda otomatik şekilde kullanılır",
+    "ui.inputActions.vehicle.toggleNitrousOxide.title": "Nitröz Oksit Enjeksiyonunu Değiştir"
 }
