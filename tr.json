@@ -3537,5 +3537,6 @@
     "ui.inputActions.vehicle.toggleDiffMode.description": "Mümkün olan diferansiyel modları arasında geçiş yapar",
     "ui.inputActions.vehicle.toggleDiffMode.title": "Diferansiyel Modunu Değiştir",
     "ui.inputActions.vehicle.toggleESCMode.description": "ESC/TC modları arasında geçiş yapar",
-    "ui.inputActions.vehicle.toggleESCMode.title": "ESC/TC Modunu Değiştir"
+    "ui.inputActions.vehicle.toggleESCMode.title": "ESC/TC Modunu Değiştir",
+    "ui.inputActions.vehicle.toggleLightbarMode.description": "Ek aydınlatma ışıklarının modları arasında seçim yapmayı sağlar"
 }
