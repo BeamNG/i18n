@@ -3539,6 +3539,6 @@
     "ui.inputActions.vehicle.toggleESCMode.description": "ESC/TC modları arasında geçiş yapar",
     "ui.inputActions.vehicle.toggleESCMode.title": "ESC/TC Modunu Değiştir",
     "ui.inputActions.vehicle.toggleLightbarMode.description": "Kullanılabilen ek aydınlatma ışıklarının modları arasında seçim yapmayı sağlar",
-    "ui.inputActions.vehicle.toggleLightbarMode.title": "Ek aydınlatma ışığının modunu değiştir",
+    "ui.inputActions.vehicle.toggleLightbarMode.title": "Ek aydınlatma ışığı modunu değiştir",
     "ui.inputActions.vehicle.toggleLineLock.description": "Fren hattı kilidinin kullanımda veya kullanımda olmamasını  sağlar"
 }
