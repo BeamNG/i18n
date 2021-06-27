@@ -3706,5 +3706,7 @@
     "launchercpp.moveuserfolder_overwrite_title": "Действие невозможно",
     "launchercpp.main_content": "Пожалуйста, выберите один из следующих вариантов:",
     "ui.inputActions.vehicle.decrease_cc_speed_large.title": "Снизить скорость круиз-контроля (10 км/ч)",
-    "ui.inputActions.vehicle.decrease_cc_speed_large.description": "Снижает целевую скорость круиз-контроля на 10 км/ч"
+    "ui.inputActions.vehicle.decrease_cc_speed_large.description": "Снижает целевую скорость круиз-контроля на 10 км/ч",
+    "ui.inputActions.vehicle.increase_cc_speed_large.title": "Увеличить скорость круиз-контроля (10 км/ч)",
+    "ui.inputActions.vehicle.increase_cc_speed_large.description": "Увеличивает заданную скорость круиз-контроля на 10 км/ч"
 }
