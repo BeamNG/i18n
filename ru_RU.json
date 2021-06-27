@@ -3704,5 +3704,6 @@
     "launchercpp.main_btn_supporttool": "Инструменты поддержки\nИнструменты для устранения проблем с игрой",
     "launchercpp.moveuserfolder_overwrite_msg": "Вы используете аргумент командной строки, чтобы начать игру с определённым пользовательским путём.\nВам необходимо удалить этот аргумент, если вы хотите использовать эту функцию.",
     "launchercpp.moveuserfolder_overwrite_title": "Действие невозможно",
-    "launchercpp.main_content": "Пожалуйста, выберите один из следующих вариантов:"
+    "launchercpp.main_content": "Пожалуйста, выберите один из следующих вариантов:",
+    "ui.inputActions.vehicle.decrease_cc_speed_large.title": "Снизить скорость круиз контроля (10 км/ч)"
 }
