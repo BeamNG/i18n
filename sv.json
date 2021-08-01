@@ -1477,5 +1477,7 @@
     "ui.fonts.filename": "segoeui.tff",
     "ui.common.continue": "Fortsätt",
     "ui.common.action.resume": "Återuppta",
-    "ui.fonts.mono": "Roboto Mono"
+    "ui.fonts.mono": "Roboto Mono",
+    "ui.common.action.load": "Ladda",
+    "ui.common.action.start": "Starta"
 }
