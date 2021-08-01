@@ -1476,5 +1476,6 @@
     "ui.repository.modmgrnotready": "Modhanteraren är inte redo ännu. Alla handlingar blir köade till de kan bli utförda. Om det tar för mycket tid kan du kontakta support.",
     "ui.fonts.filename": "segoeui.tff",
     "ui.common.continue": "Fortsätt",
-    "ui.common.action.resume": "Återuppta"
+    "ui.common.action.resume": "Återuppta",
+    "ui.fonts.mono": "Roboto Mono"
 }
