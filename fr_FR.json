@@ -1785,7 +1785,7 @@
     "ui.options.graphics.Warning": "AVERTISSEMENT",
     "ui.options.graphics.Experimental": "Cette fonctionnalité est expérimentale. Utilisez-la avec précaution.",
     "ui.options.graphics.CEFRender.warning": "Cette option améliore généralement les performances de l'interface utilisateur, mais aura l'effet inverse sur certains systèmes. Désactivez-la si vous rencontrez des problèmes.",
-    "ui.options.graphics.GraphicDynReflection.warning": "Une fréquence élevée de mise à jour des reflets peut utiliser beaucoup de ressources. Si vous rencontrez des problèmes de performances, envisagez de réduire cette valeur.",
+    "ui.options.graphics.GraphicDynReflection.warning": "Des taux de mise à jour élevés peuvent être très gourmands en performances. Si vous rencontrez des problèmes de performances, envisagez de le réduire",
     "ui.options.graphics.GraphicDynReflectionTexsize": "Taille des textures",
     "ui.options.graphics.GraphicDynReflectionFacesPerupdate": "Taux de mise à jour",
     "ui.options.graphics.GraphicDynReflectionDetail": "Détails",
