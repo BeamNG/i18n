@@ -3552,5 +3552,18 @@
     "ui.inputActions.rollover.prepare.title": "Dereceyi önizle",
     "ui.inputActions.rollover.cycle.title": "Testi başlat",
     "ui.inputActions.rollover.cycle.description": "Testi başlatır",
-    "ui.inputActions.large_roller.toggle_direction.title": "yön açar ve kapatır"
+    "ui.inputActions.large_roller.toggle_direction.title": "Yönü açar ve kapatır",
+    "ui.inputActions.large_roller.toggle_direction.description": "Yönü saat ve saat yönünün tersine çevirir",
+    "ui.inputActions.large_roller.rpm_increase.title": "Devri Arttır",
+    "ui.inputActions.large_roller.rpm_decrease.title": "Devri Azalt",
+    "ui.inputActions.large_hamster_wheel.detach.title": "Tekerlek bağlantısını ayır",
+    "ui.inputActions.large_crusher.open.title": "Aç",
+    "ui.inputActions.large_cannon.shoot.title": "Ateş et",
+    "ui.inputActions.large_angletester.lowerDown.title": "Alçalt",
+    "ui.inputActions.large_angletester.lowerDown.description": "Rampayı alçaltır",
+    "ui.inputActions.large_angletester.liftUp.title": "Yükselt",
+    "ui.inputActions.large_angletester.liftUp.description": "Rampayı yükseltir",
+    "ui.inputActions.kickplate.power_up.title": "Gücü Arttır",
+    "ui.inputActions.large_crusher.close.title": "Kapat",
+    "ui.inputActions.large_angletester.lift.description": "Rampayı yükseltir veya alçaltır"
 }
