@@ -3549,5 +3549,7 @@
     "ui.inputActions.van.toggle_doorR.title": "Sağ kargo kapısı",
     "ui.inputActions.van.toggle_doorL.title": "Sol kargo kapısı",
     "ui.inputActions.semi.tiltUp.title": "Yukarı kaldır",
-    "ui.inputActions.rollover.prepare.title": "dereceyi önizle"
+    "ui.inputActions.rollover.prepare.title": "Dereceyi önizle",
+    "ui.inputActions.rollover.cycle.title": "Testi başlat",
+    "ui.inputActions.rollover.cycle.description": "Testi başlatır"
 }
