@@ -3546,5 +3546,6 @@
     "ui.inputActions.vehicle.toggleNitrousOxide.title": "Nitröz Oksit Enjeksiyonunu Değiştir",
     "ui.inputActions.van.toggle_doors.title": "Kargo kapıları",
     "ui.inputActions.van.toggle_doors.description": "Her iki kargo kapısını açar/kapatır",
-    "ui.inputActions.van.toggle_doorR.title": "sağ kargo kapısı"
+    "ui.inputActions.van.toggle_doorR.title": "Sağ kargo kapısı",
+    "ui.inputActions.van.toggle_doorL.title": "Sol kargo kapısı"
 }
