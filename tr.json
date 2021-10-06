@@ -3551,5 +3551,6 @@
     "ui.inputActions.semi.tiltUp.title": "Yukarı kaldır",
     "ui.inputActions.rollover.prepare.title": "Dereceyi önizle",
     "ui.inputActions.rollover.cycle.title": "Testi başlat",
-    "ui.inputActions.rollover.cycle.description": "Testi başlatır"
+    "ui.inputActions.rollover.cycle.description": "Testi başlatır",
+    "ui.inputActions.large_roller.toggle_direction.title": "yön açar ve kapatır"
 }
