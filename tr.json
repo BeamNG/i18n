@@ -3548,5 +3548,6 @@
     "ui.inputActions.van.toggle_doors.description": "Her iki kargo kapısını açar/kapatır",
     "ui.inputActions.van.toggle_doorR.title": "Sağ kargo kapısı",
     "ui.inputActions.van.toggle_doorL.title": "Sol kargo kapısı",
-    "ui.inputActions.semi.tiltUp.title": "Yukarı kaldır"
+    "ui.inputActions.semi.tiltUp.title": "Yukarı kaldır",
+    "ui.inputActions.rollover.prepare.title": "dereceyi önizle"
 }
