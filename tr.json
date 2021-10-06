@@ -3544,5 +3544,6 @@
     "ui.inputActions.vehicle.toggleLineLock.title": "Fren hattı kilidini değiştir",
     "ui.inputActions.vehicle.toggleNitrousOxide.description": "Nitröz Oksit Enjeksiyon sistemini açar ve kapatır, uygun olduğu durumlarda otomatik şekilde kullanılır",
     "ui.inputActions.vehicle.toggleNitrousOxide.title": "Nitröz Oksit Enjeksiyonunu Değiştir",
-    "ui.inputActions.van.toggle_doors.title": "kargo kapıları"
+    "ui.inputActions.van.toggle_doors.title": "kargo kapıları",
+    "ui.inputActions.van.toggle_doors.description": "her iki kargo kapısını açar/kapatır"
 }
