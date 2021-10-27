@@ -1479,5 +1479,10 @@
     "ui.common.action.resume": "Återuppta",
     "ui.fonts.mono": "Roboto Mono",
     "ui.common.action.load": "Ladda",
-    "ui.common.action.start": "Starta"
+    "ui.common.action.start": "Starta",
+    "engine.fatalError.errMsg": "Kritiskt fel: ",
+    "ui.options.camera.current": "Nuvarande kamera",
+    "ui.options.camera.resetConfiguration": "Återställ ordning",
+    "ui.options.camera.defaultMode": "Standardläge",
+    "ui.options.camera.cameraCollision": "Kollision"
 }
