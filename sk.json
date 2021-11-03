@@ -2021,7 +2021,7 @@
     "ui.apps.clutch_thermal_debug.name": "Debug teploty spojky",
     "ui.performance.mods.title": "Počet modov",
     "ui.performance.mods.stat": "Zazipované mody: {{zip}}  Rozbalené mody: {{unpacked}}",
-    "ui.performance.mods.lt": "Menej ako {{zip}} zazipovaných módov, | {{unpacked}} rozbalených módov",
+    "ui.performance.mods.lt": "Menej ako:  {{zip}} komprimovaných módov,  |   {{unpacked}} rozbalených módov",
     "ui.performance.warnings.toomanymods": "Máte veľa modov, ktoré môžu mať dopad na výkon. Skúste nejaké vypnúť.",
     "ui.radialmenu2.bus.doors.desc": "Otvoriť dvere",
     "ui.radialmenu2.bus.doors": "Dvere",
