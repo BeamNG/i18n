@@ -1264,7 +1264,7 @@
     "vehicle.engine.pistonRingsDamaged": "Piesty sa poškodili",
     "vehicle.engine.radiatorDamaged": "Poškodený chladič",
     "vehicle.engine.rodBearingsDamaged": "Ojničné ložiská sú poškodené",
-    "vehicle.engine.starvedOfOil": "Do motoru sa nedostáva olej",
+    "vehicle.engine.starvedOfOil": "Do motora sa nedostáva olej",
     "vehicle.fire.fuelTankRuptured": "Palivová nádrž prerazená",
     "vehicle.main.instability": "Zistená nestabilita vozidla {{vehicle}}: Simulácia preventívne pozastavená",
     "vehicle.recovery.end": "Vozidlo obnovené (ďalej už obnoviť nejde)",
