@@ -2367,5 +2367,22 @@
     "launchercpp.warn_lavasoft1": "Lavasoft Web Companion je nainštalovaný a mal by byť <A HREF=\"https://go.beamng.com/lavasoft\">odstránený</a> pred spustením BeamNG.drive.",
     "launchercpp.warn_userpath_defaultfail2": "Prosím, následujte inštrukcie <A HREF=\"https://go.beamng.com/unusualProccessExit/0xE0000004_-_BNGBase::EXIT_ERR_USER_PATH_UNWRITABLE\">uvedené tu pre opravenie</a> problému.",
     "launchercpp.moveusr_open": "Otvoriť v Exploreri\nOtvoriť okno prieskumníka pre zobrazenie obsahu a aktuálneho umiestnenia užívateľskej cesty.",
-    "launchercpp.moveusr_default": "Resetovať umiestnenie\nNastavit užívateľský priečinok späť na prednastavené umiestnenie vo vašich dokumentoch."
+    "launchercpp.moveusr_default": "Resetovať umiestnenie\nNastavit užívateľský priečinok späť na prednastavené umiestnenie vo vašich dokumentoch.",
+    "launchercpp.moveusr_do_invalidrigths": "Nesprávne oprávnenia",
+    "launchercpp.moveusr_do_sameold": "Cestu, ktorú ste si vybrali, je rovnaká ako aktuálna.\nŽiadne zmeny sa nevykonajú.",
+    "launchercpp.moveusr_do_samedefault": "Cestu, ktorú ste si vybrali, je rovnaká ako prednastavená.\nPoužite tlačítko obnovenie prednastavenej cesty.\nŽiadne zmeny sa nevykonajú.",
+    "launchercpp.moveusr_do_norigths": "Do cesty sa neda písať.\nProsím, vyberte priečinok, na ktorý máte oprávnenia.\nŽiadne zmeny sa nevykonajú.",
+    "launchercpp.moveusr_do_insideold": "Cesta, ktorú ste si vybrali, je v prednastavenej ceste alebo starej užívateľskej ceste.\nŽiadne zmeny sa nevykonajú.",
+    "launchercpp.moveusr_do_insidedef": "Hra by už mala používať prednastavenú cestu",
+    "launchercpp.moveusr_do_notempty_title": "Cieľová cesta nie je prázdna",
+    "launchercpp.moveusr_do_tile": "Presúvanie užívateľských súborov",
+    "launchercpp.moveusr_do_init": "Inicializácia...",
+    "launchercpp.moveusr_do_index": "Indexovanie súborov...",
+    "launchercpp.moveusr_do_moving": "Presúvanie súborov...",
+    "launchercpp.moveusr_do_filefound": "{0} nájdených súborov",
+    "launchercpp.moveusr_do_nospace_txt": "Cieľová jednotka nemá dostatok voľného miesta na presun všetkých dát.",
+    "launchercpp.moveusr_do_nospace_title": "Nedostatok voľného miesta",
+    "launchercpp.moveusr_do_filestat": "Presúvanie {0}/{1} súborov, {2}/{3}",
+    "launchercpp.moveusr_do_restart_txt": "Musíte reštartovať launcher pre aplikovanie týchto zmien",
+    "launchercpp.moveusr_do_restart_title": "Reštartovať launcher"
 }
