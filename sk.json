@@ -213,7 +213,7 @@
     "quickrace.east_coast_usa.high_speed_highway.title": "Vysokorýchlostná ďiaľnica",
     "quickrace.east_coast_usa.roadrace1.description": "Asfaltový závod cez vidiecke cesty na východnom pobreží USA. Vhodné pre rôzne vozidlá.",
     "quickrace.east_coast_usa.roadrace2.description": "Asfaltový závod cez vidiecke cesty na východnom pobreží USA. Vhodné pre rôzne vozidlá.",
-    "quickrace.gridmap.bigo.description": "Tento okruh má široké prehnuté zatáčky pre testovanie maximálnych rýchlostí. Zatáčaj jemne, aby si nestrácal rýchlosť pred rovinkou.",
+    "quickrace.gridmap.bigo.description": "Tento okruh má široké klopené zákruty prispôsobené na testovanie maximálnej rýchlosti. Zatáčaj jemne aby si nestrácal rýchlosť pred ďalšou rovinkou.",
     "quickrace.gridmap.offroad.description": "Táto malá trať obsahuje 3 obtiažne druhy terénu. Ideálny test pre vozidlo s pohonom na všetky štyri a svetlú výšku vozidla.",
     "quickrace.gridmap.offroad.title": "Offroadový závod",
     "quickrace.hirochi_raceway.forgotten_raceway.title": "Zabudnutá závodná trať",
@@ -2263,5 +2263,6 @@
     "ui.apps.characterRealtimeDisplay.name": "Zobrazenie znakov v reálnom čase",
     "ui.options.camera.cameraDriverStableHorizonHint": "Pripne rotáciu kamery skôr k horizontu ako k vozidlu. Môže znížiť nepohodlie pri používaní širokouhlej obrazovky",
     "ui.options.camera.cameraDriverAutocenter": "Po uvoľnení automaticky vycentrovať",
-    "ui.inputActions.vehicle.activateStarterMotor.title": "Štartér motora"
+    "ui.inputActions.vehicle.activateStarterMotor.title": "Štartér motora",
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_follow.description": "Si prijatý! Máme ale vážne naponáhlo, takže sa snaž udržať tempo s autom filmového štábu, aby sme dorazili do závodného areálu včas."
 }
