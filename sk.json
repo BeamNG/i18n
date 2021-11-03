@@ -1455,7 +1455,7 @@
     "ui.controls.bindings": "Klávesové skratky",
     "ui.controls.showAdvancedExp": "Predvolene sa zobrazujú len niektoré základné klávesové skratky. Aktivujte pre zobrazenie všetkých skratiek",
     "ui.controls.searchAllBindings": "Hľadať klávesové skratky",
-    "ui.controls.hint2": "Nápoveda: V menu \"Priradenie kláves\" je možné priradiť 'Zatáčanie' (alebo hocijakú inú akciu) myši",
+    "ui.controls.hint2": "Nápoveda: V menu \"Priradenie kláves\" je možné priradiť myške akciu 'Zatáčanie' (alebo akúkoľvek inú)",
     "ui.quickrace.tracks.allowRollingStart": "Dovoľuje letmý štart",
     "ui.quickrace.rollingStart": "Letmý štart",
     "ui.controls.rmAllUserModification": "Vymazať všetky používateľsky vytvorené modifikácie (nechá továrenské klávesové skratky, poskytnuté len pre najviac bežné zariadenia)",
