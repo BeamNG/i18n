@@ -2247,7 +2247,7 @@
     "ui.modmanager.actions": "Akcie",
     "ui.modmanager.deleteTooltip": "Dvojklikom zmažete všetky aktuálne nainštalované a odoberané modifikácie! Túto akciu nejde vrátiť!",
     "ui.environment.environmentalTemperature": "Teplota prostredia",
-    "ui.vehicleconfig.openConfigFolder": "Otvoriť zložku užívateľských konfigurácií",
+    "ui.vehicleconfig.openConfigFolder": "Otvoriť priečinok užívateľských konfigurácií",
     "ui.vehicleconfig.saveThumbnail": "Pri uložení vygenerovať náhľad",
     "ui.vehicleconfig.loadTooltip": "Načítať túto konfiguráciu",
     "ui.vehicleconfig.deleteTooltip": "Dvojklikom túto konfiguráciu natrvalo zmažeš! Táto akcia je nenavratná!"
