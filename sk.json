@@ -1863,7 +1863,7 @@
     "ui.modWizard.skinWizard.editFile": "Pre upravenie skinu jednoducho otvor <názov_skinu>.dds súbor v kompatibilnom .dds editore, ako napríklad Paint.Net.",
     "ui.modWizard.skinWizard.editSkin": "Keď už máš otvorený priečinok, môžeš začať vytvárať tvoj skin. Jednoducho nakresli čokoľvek chceš cez biele časti a potom tvoj skin ulož. Po kliknutí na ďalej sa tvoj vytvorený skin načíta do hry a budeš ho môcť meniť v reálnom čase.",
     "ui.levelselect.x86Disabled": "Pre hranie tejto mapy musí byť hra spustená v 64-bitovom režime. Overte si prosím systémové požiadavky.",
-    "ui.repository.mods": "Módy",
+    "ui.repository.mods": "Správca Modifikácií",
     "ui.repository.order_by": "Zoradiť podľa",
     "ui.repository.categories": "Kategórie",
     "ui.repository.cat_all": "Všetky",
@@ -2238,5 +2238,12 @@
     "ui.trackBuilder.base.drive": "Jazda",
     "ui.trackBuilder.base.test": "Testovať",
     "ui.levelselect.x86DisabledToolbar": "Nedostupné v 32-bitovom režime hry.",
-    "ui.levelselect.x86DisabledToolbar_2": "Pre spustenie hry v 64-bitovom režime je vyžadovaný 64-bitový operačný systém a viac než 4GB dostupnej RAM."
+    "ui.levelselect.x86DisabledToolbar_2": "Pre spustenie hry v 64-bitovom režime je vyžadovaný 64-bitový operačný systém a viac než 4GB dostupnej RAM.",
+    "ui.repository.searchClear": "Vymazať hľadanie",
+    "ui.repository.applySearch": "Použiť",
+    "ui.quickrace.name": "Názov",
+    "ui.quickrace.time": "Čas",
+    "ui.racetime.time": "Čas",
+    "ui.modmanager.actions": "Akcie",
+    "ui.modmanager.deleteTooltip": "Dvojklikom zmažete všetky aktuálne nainštalované a odoberané módy! Túto akciu nejde vziať späť!"
 }
