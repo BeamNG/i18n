@@ -813,7 +813,7 @@
     "ui.environment.uranus": "Urán",
     "ui.environment.venus": "Venuša",
     "ui.environment.weather": "Počasie",
-    "ui.environment.windSpeed": "Rýchlosť vetra",
+    "ui.environment.windSpeed": "Rýchlosť oblakov",
     "ui.environment.zeroGravity": "Nulová gravitácia",
     "ui.faq": "Nápoveda / Často kladené otázky",
     "ui.faq.changeCamera.a": "Stlač [action=switch_camera_next] pre prepínanie medzi kamerami, alebo [action=toggleCamera] pre voľnú kameru.",
@@ -2245,5 +2245,7 @@
     "ui.quickrace.time": "Čas",
     "ui.racetime.time": "Čas",
     "ui.modmanager.actions": "Akcie",
-    "ui.modmanager.deleteTooltip": "Dvojklikom zmažete všetky aktuálne nainštalované a odoberané módy! Túto akciu nejde vziať späť!"
+    "ui.modmanager.deleteTooltip": "Dvojklikom zmažete všetky aktuálne nainštalované a odoberané módy! Túto akciu nejde vziať späť!",
+    "ui.environment.environmentalTemperature": "Teplota prostredia",
+    "ui.vehicleconfig.openConfigFolder": "Otvoriť zložku užívateľských konfigurácií"
 }
