@@ -2262,5 +2262,6 @@
     "ui.vehicleconfig.searchHelp.example5": "Vyhľadať vo všetkých dieloch možnosť pre 'pickup_fr'",
     "ui.apps.characterRealtimeDisplay.name": "Zobrazenie znakov v reálnom čase",
     "ui.options.camera.cameraDriverStableHorizonHint": "Pripne rotáciu kamery skôr k horizontu ako k vozidlu. Môže znížiť nepohodlie pri používaní širokouhlej obrazovky",
-    "ui.options.camera.cameraDriverAutocenter": "Po uvoľnení automaticky vycentrovať"
+    "ui.options.camera.cameraDriverAutocenter": "Po uvoľnení automaticky vycentrovať",
+    "ui.inputActions.vehicle.activateStarterMotor.title": "Štartér motora"
 }
