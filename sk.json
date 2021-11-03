@@ -1146,7 +1146,7 @@
     "ui.photomode.roll": "Náklon",
     "ui.photomode.showGrid": "Zobraziť mriežku",
     "ui.photomode.takeScreen": "Vytvoriť snímok obrazovky",
-    "ui.photomode.takebigScreen": "Vytvoriť veľký snímok obrazovky",
+    "ui.photomode.takebigScreen": "Vytvoriť veľký snímok obrazovky(zaberie to zopár sekúnd)",
     "ui.photomode.uploadScreen": "Nahrať obrázok na media server",
     "ui.playmodes.campaigns": "Kampane",
     "ui.playmodes.career": "Kariéra",
@@ -2189,7 +2189,7 @@
     "ui.modmanager.addDownload": "Pridať do zoznamu sťahovania",
     "ui.modmanager.updateAllMissing": "Stiahnuť všetky",
     "ui.modmanager.missing_tooltip": "Modifikácie, ktoré odoberáš, ale nie sú prítomné v tvojom počítači",
-    "ui.vehicleconfig.updateLicensePlate": "Vygenerovať poznávaciu značku",
+    "ui.vehicleconfig.updateLicensePlate": "Použiť poznávaciu značku",
     "ui.vehicleconfig.licensePlateGen": "Obnoviť poznávaciu značku",
     "ui.credits.soundtrack": "Soundtrack",
     "ui.environment.tireMarks.save": "Uložiť",
@@ -2252,5 +2252,12 @@
     "ui.vehicleconfig.loadTooltip": "Načítať túto konfiguráciu",
     "ui.vehicleconfig.deleteTooltip": "Dvojklikom túto konfiguráciu natrvalo zmažeš! Túto akciu nejde vrátiť!",
     "ui.vehicleconfig.sourceOfficial": "Oficiálny",
-    "ui.vehicleconfig.sourceMod": "Mod"
+    "ui.vehicleconfig.sourceMod": "Mod",
+    "ui.vehicleconfig.sourceUser": "Užívateľská",
+    "ui.vehicleconfig.applyPartChangesAutomatically": "Použiť zmeny automaticky",
+    "ui.vehicleconfig.searchHelp.example1": "Hľadať názov všetkých dielov 'left'",
+    "ui.vehicleconfig.searchHelp.example2": "Vyhľadať vo všetkých slotoch '_fr'",
+    "ui.vehicleconfig.searchHelp.example3": "Vyhľadať vo všetkých názvoch 'frame' (rám)",
+    "ui.vehicleconfig.searchHelp.example4": "Vyhľadať vo všetkých názvoch '_fr' a vo všetkých menách 'signal'",
+    "ui.vehicleconfig.searchHelp.example5": "Vyhľadať vo všetkých dieloch možnosť pre 'pickup_fr'"
 }
