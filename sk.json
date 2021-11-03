@@ -2245,7 +2245,7 @@
     "ui.quickrace.time": "Čas",
     "ui.racetime.time": "Čas",
     "ui.modmanager.actions": "Akcie",
-    "ui.modmanager.deleteTooltip": "Dvojklikom zmažete všetky aktuálne nainštalované a odoberané módy! Túto akciu nejde vziať späť!",
+    "ui.modmanager.deleteTooltip": "Dvojklikom zmažete všetky aktuálne nainštalované a odoberané modifikácie! Túto akciu nejde vrátiť!",
     "ui.environment.environmentalTemperature": "Teplota prostredia",
     "ui.vehicleconfig.openConfigFolder": "Otvoriť zložku užívateľských konfigurácií"
 }
