@@ -1250,7 +1250,7 @@
     "vehicle.drivetrain.driveshaftBroken": "Hnacia hriadeľ poškodená",
     "vehicle.drivetrain.engineDried": "Motor sa vysušil",
     "vehicle.drivetrain.engineDrying": "Motor sa suší ({{percent}}%)",
-    "vehicle.drivetrain.engineFlooding": "Do motoru sa dostáva voda ({{percent}}%)",
+    "vehicle.drivetrain.engineFlooding": "Do motora sa dostáva voda ({{percent}}%)",
     "vehicle.drivetrain.engineHydrolocked": "Motor zaplavený",
     "vehicle.drivetrain.fuelLeaking": "Únik benzínu",
     "vehicle.drivetrain.shifterModeNameRealistic": "Realistický",
