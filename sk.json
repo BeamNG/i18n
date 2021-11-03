@@ -1811,7 +1811,7 @@
     "ui.radialmenu2.powertrain.4WD_Mode": "4WD režim",
     "ui.radialmenu2.powertrain.4wd.connected": "4WD pripojený",
     "ui.radialmenu2.powertrain.4wd.connected.desc": "Zapnúť režim 4WD.",
-    "ui.radialmenu2.powertrain.4WD_Mode.desc": "Prepnúť 4x4.",
+    "ui.radialmenu2.powertrain.4WD_Mode.desc": "Prepnúť režim 4x4.",
     "ui.radialmenu2.powertrain.4wd.disconnected": "4WD odpojený",
     "ui.radialmenu2.powertrain.4wd.disconnected.desc": "Vypnúť režim 4WD.",
     "ui.debug.vehicle.aerodynamicsScale": "Mierka aerodynamiky",
