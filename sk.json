@@ -2252,7 +2252,7 @@
     "ui.vehicleconfig.loadTooltip": "Načítať túto konfiguráciu",
     "ui.vehicleconfig.deleteTooltip": "Dvojklikom túto konfiguráciu natrvalo zmažeš! Túto akciu nejde vrátiť!",
     "ui.vehicleconfig.sourceOfficial": "Oficiálny",
-    "ui.vehicleconfig.sourceMod": "Mod",
+    "ui.vehicleconfig.sourceMod": "Modifikácia",
     "ui.vehicleconfig.sourceUser": "Užívateľská",
     "ui.vehicleconfig.applyPartChangesAutomatically": "Použiť zmeny automaticky",
     "ui.vehicleconfig.searchHelp.example1": "Hľadať názov všetkých dielov 'left'",
