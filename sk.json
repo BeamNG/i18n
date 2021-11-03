@@ -2218,7 +2218,7 @@
     "ui.options.camera.cameraChaseRollSmoothingHint": "0 = minimálny náklon, 100 = sledovať náklon vozidla",
     "ui.options.camera.cameraChaseRollSmoothing": "Sledovať náklon vozidla",
     "ui.options.camera.cameraOrbitMaxDynamicFovHint": "Pri vyššej rýchlosti sa použije väčšie zorné pole",
-    "vehicle.core.spawnError": "Toto je často spôsobené rozbitými modmi alebo vadnými kľúčovými súbormi. Prosím, skontroluj v núdzovom režime [url=https://documentation.beamng.com/support/support_tools/safe_mode.html][Klikni sem pre inštrukcie núdzového režimu][/url]Ak problém pretrváva, vykonaj čistú inštaláciu [url=https://documentation.beamng.com/support/support_tools/clean_install.html][Klikni sem pre inštrukcie čistej inštalácie][/url]",
+    "vehicle.core.spawnError": "Toto je často spôsobené rozbitými modmi alebo vadnými kľúčovými súbormi. Prosím, skontroluj, či sa problém prejavuje v núdzovom režime [url=https://documentation.beamng.com/support/support_tools/safe_mode.html][Klikni sem pre inštrukcie núdzového režimu][/url]Ak problém pretrváva, vykonaj čistú inštaláciu [url=https://documentation.beamng.com/support/support_tools/clean_install.html][Klikni sem pre inštrukcie čistej inštalácie][/url]",
     "ui.common.simpleVehicles": "Jednoduché vozidlá",
     "ui.trackBuilder.toolbar.title": "Panel nástrojov",
     "ui.trackbuilder.menus.startTrackBuilder": "Spustiť Stavba Trate",
