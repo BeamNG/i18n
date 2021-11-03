@@ -411,7 +411,7 @@
     "scenarios.gridmap.gm_suspension_race.description": "Tento závod na čas ťa zavedia tam a späť cez 4 rôzne testovacie vzory pre odpruženie v Gavril Roamer. Je to skvelá cesta pre zničenie zarovnania.",
     "scenarios.gridmap.hard_parking.description": "Čo najrýchlejšie pozdĺžne zaparkujte medzi dve autá.",
     "scenarios.gridmap.hard_parking.fail.distance.msg": "Nie si správne zaparkovaný...",
-    "scenarios.gridmap.hard_parking.fail.time.msg": "Trvalo vám to príliš dlho...",
+    "scenarios.gridmap.hard_parking.fail.time.msg": "Trvalo ti to príliš dlho...",
     "scenarios.gridmap.hard_parking.title": "Ťažké Parkovanie",
     "scenarios.gridmap.slalom.title": "Slalom",
     "scenarios.hirochi_raceway.ai_race.title": "AI závod test",
