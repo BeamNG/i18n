@@ -1841,7 +1841,7 @@
     "ui.debug.vehicle.tireContactPoint": "Ladenie styčnej plochy pneumatiky",
     "ui.radialmenu2.powertrain.rangebox_mode.high": "Vysoký prevod",
     "ui.radialmenu2.powertrain.rangebox_mode.high.desc": "Zapnúť vysoký prevod.",
-    "ui.garage.tune.toe": "Záklon",
+    "ui.garage.tune.toe": "Zbiehavosť",
     "ui.garage.tune.caster": "Záklon od zvislej osi",
     "ui.garage.tune.sai": "SAI",
     "ui.garage.parts.extras": "Extra",
