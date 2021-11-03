@@ -2233,5 +2233,6 @@
     "scenario.customExtensionLoadFailed": "Vlastná logika nie je spustená. Skontrolujte log súbor, či neobsahuje varovanie s {{extName}}",
     "ui.trackBuilder.saveLoad.saveOnThisMap": "Uložiť na tejto mape",
     "ui.trackbuilder.menus.exitWindow": "Opustiť okno",
-    "ui.trackbuilder.menus.resetTrack": "Resetovať trať"
+    "ui.trackbuilder.menus.resetTrack": "Resetovať trať",
+    "ui.mainmenu.mods.desciptionUnavailable": "Popis nie je dostupný"
 }
