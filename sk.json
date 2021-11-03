@@ -2250,7 +2250,7 @@
     "ui.vehicleconfig.openConfigFolder": "Otvoriť priečinok užívateľských konfigurácií",
     "ui.vehicleconfig.saveThumbnail": "Pri uložení vygenerovať náhľad",
     "ui.vehicleconfig.loadTooltip": "Načítať túto konfiguráciu",
-    "ui.vehicleconfig.deleteTooltip": "Dvojklikom túto konfiguráciu natrvalo zmažeš! Táto akcia je nenavratná!",
+    "ui.vehicleconfig.deleteTooltip": "Dvojklikom túto konfiguráciu natrvalo zmažeš! Túto akciu nejde vrátiť!",
     "ui.vehicleconfig.sourceOfficial": "Oficiálny",
     "ui.vehicleconfig.sourceMod": "Mod"
 }
