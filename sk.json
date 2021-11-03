@@ -1017,10 +1017,10 @@
     "ui.options.graphics.GraphicAntialiasType": "Režim Anti-aliasing",
     "ui.options.graphics.GraphicDisableShadows": "Vypnúť tiene",
     "ui.options.graphics.GraphicDynReflection": "Dynamický odraz",
-    "ui.options.graphics.GraphicDynReflection.warning": "Poznámka - počet odrazových štvorcov za jednu aktualizáciu dokáže byť graficky veľmi náročný. Ak spozorujete problémy, uvažujte nad znížením tohto nastavenia",
+    "ui.options.graphics.GraphicDynReflection.warning": "Veľké stupne rýchlosti obnovovania môžu byť veľmi výpočtovo náročné. Ak zaznamenáte problémy s výkonom, zvážte zníženie tejto hodnoty",
     "ui.options.graphics.GraphicDynReflectionDetail": "Detail",
     "ui.options.graphics.GraphicDynReflectionDistance": "Vzdialenosť",
-    "ui.options.graphics.GraphicDynReflectionFacesPerupdate": "Počet odrazových plôch za aktualizáciu",
+    "ui.options.graphics.GraphicDynReflectionFacesPerupdate": "Stupeň rýchlosti obnovovania",
     "ui.options.graphics.GraphicDynReflectionTexsize": "Rozlíšenie",
     "ui.options.graphics.GraphicLightingQuality": "Kvalita osvetlenia",
     "ui.options.graphics.GraphicPostfxQuality": "Kvalita post processingu",
@@ -2261,5 +2261,5 @@
     "ui.vehicleconfig.searchHelp.example4": "Vyhľadať vo všetkých názvoch '_fr' a vo všetkých menách 'signal'",
     "ui.vehicleconfig.searchHelp.example5": "Vyhľadať vo všetkých dieloch možnosť pre 'pickup_fr'",
     "ui.apps.characterRealtimeDisplay.name": "Zobrazenie znakov v reálnom čase",
-    "ui.options.camera.cameraDriverStableHorizonHint": "Pripne rotáciu kamery skôr k horizontu než k vozidlu. Môžeš tým znížiť nepohodlie pri používaní širokouhlej obrazovky"
+    "ui.options.camera.cameraDriverStableHorizonHint": "Pripne rotáciu kamery skôr k horizontu ako k vozidlu. Môže znížiť nepohodlie pri používaní širokouhlej obrazovky"
 }
