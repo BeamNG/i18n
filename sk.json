@@ -2218,5 +2218,20 @@
     "ui.options.camera.cameraChaseRollSmoothingHint": "0 = minimálny náklon, 100 = sledovať náklon vozidla",
     "ui.options.camera.cameraChaseRollSmoothing": "Sledovať náklon vozidla",
     "ui.options.camera.cameraOrbitMaxDynamicFovHint": "Pri vyššej rýchlosti sa použije väčšie zorné pole",
-    "vehicle.core.spawnError": "Toto je často spôsobené rozbitými modmi alebo vadnými kľúčovými súbormi. Prosím, skontroluj v núdzovom režime [url=https://documentation.beamng.com/support/support_tools/safe_mode.html][Klikni sem pre inštrukcie núdzového režimu][/url]Ak problém pretrváva, vykonaj čistú inštaláciu [url=https://documentation.beamng.com/support/support_tools/clean_install.html][Klikni sem pre inštrukcie čistej inštalácie][/url]"
+    "vehicle.core.spawnError": "Toto je často spôsobené rozbitými modmi alebo vadnými kľúčovými súbormi. Prosím, skontroluj v núdzovom režime [url=https://documentation.beamng.com/support/support_tools/safe_mode.html][Klikni sem pre inštrukcie núdzového režimu][/url]Ak problém pretrváva, vykonaj čistú inštaláciu [url=https://documentation.beamng.com/support/support_tools/clean_install.html][Klikni sem pre inštrukcie čistej inštalácie][/url]",
+    "ui.common.simpleVehicles": "Jednoduché vozidlá",
+    "ui.trackBuilder.toolbar.title": "Panel nástrojov",
+    "ui.trackbuilder.menus.startTrackBuilder": "Spustiť Stavba Trate",
+    "ui.trackbuilder.menus.trackBuilder": "Stavba Trate",
+    "ui.trackbuilder.menus.windows": "Okná",
+    "ui.trackbuilder.menus.openAdvancedPieces": "Otvoriť Pokročilé Časti",
+    "ui.trackbuilder.base.banking": "Klopenie",
+    "ui.trackbuilder.menus.editorSettings": "Nastavenia editora",
+    "ui.trackbuilder.menus.removeTrack": "Odstrániť trať",
+    "ui.trackbuilder.menus.onlyOnePiecesWindow": "Len jedno Okno s dielmi",
+    "ui.trackbuilder.menus.onlyOneModifierWindow": "Len jedno Okno s modifikátorom",
+    "scenario.customExtensionLoadFailed": "Vlastná logika nie je spustená. Skontrolujte log súbor, či neobsahuje varovanie s {{extName}}",
+    "ui.trackBuilder.saveLoad.saveOnThisMap": "Uložiť na tejto mape",
+    "ui.trackbuilder.menus.exitWindow": "Opustiť okno",
+    "ui.trackbuilder.menus.resetTrack": "Resetovať trať"
 }
