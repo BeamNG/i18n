@@ -715,7 +715,7 @@
     "ui.controls.ffbConfigMissing": "Nenašlo sa ovládanie zatáčania",
     "ui.controls.ffbHardwareMissing": "Hardvér s podporou spätnej väzby nebol nájdený",
     "ui.controls.hardware": "Hardware",
-    "ui.controls.hint1": "Pomôcka: Vždy majte nainštalované najnovšie ovládače a zakážte \"kombinované pedále\" v programe určenom pre volant alebo v kontrolnom paneli Windows (ak sú dostupné)",
+    "ui.controls.hint1": "Pomôcka: Vždy majte nainštalované najnovšie ovládače a zakážte \"kombinované pedále\" v programe určenom pre volant alebo v kontrolnom paneli Windows (ak je toto nastavenie dostupné)",
     "ui.controls.iosQRCode": "Naskenujte QR kód nižšie alebo kliknite na tlačítko pre iOS aplikáciu.",
     "ui.controls.nDevicesDetected": "{{nDevices}} zariadení detekovaných",
     "ui.controls.remotControlApp": "Aplikácia diaľkového ovládania",
