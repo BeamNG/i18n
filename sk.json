@@ -2229,7 +2229,7 @@
     "ui.trackbuilder.menus.editorSettings": "Nastavenia editora",
     "ui.trackbuilder.menus.removeTrack": "Odstrániť trať",
     "ui.trackbuilder.menus.onlyOnePiecesWindow": "Len jedno Okno s dielmi",
-    "ui.trackbuilder.menus.onlyOneModifierWindow": "Len jedno Okno s modifikátorom",
+    "ui.trackbuilder.menus.onlyOneModifierWindow": "Len jedno Okno s modifikátormi",
     "scenario.customExtensionLoadFailed": "Vlastná logika nie je spustená. Skontrolujte log súbor, či neobsahuje varovanie s {{extName}}",
     "ui.trackBuilder.saveLoad.saveOnThisMap": "Uložiť na tejto mape",
     "ui.trackbuilder.menus.exitWindow": "Opustiť okno",
