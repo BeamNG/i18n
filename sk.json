@@ -2259,5 +2259,6 @@
     "ui.vehicleconfig.searchHelp.example2": "Vyhľadať vo všetkých slotoch '_fr'",
     "ui.vehicleconfig.searchHelp.example3": "Vyhľadať vo všetkých názvoch 'frame' (rám)",
     "ui.vehicleconfig.searchHelp.example4": "Vyhľadať vo všetkých názvoch '_fr' a vo všetkých menách 'signal'",
-    "ui.vehicleconfig.searchHelp.example5": "Vyhľadať vo všetkých dieloch možnosť pre 'pickup_fr'"
+    "ui.vehicleconfig.searchHelp.example5": "Vyhľadať vo všetkých dieloch možnosť pre 'pickup_fr'",
+    "ui.apps.characterRealtimeDisplay.name": "Zobrazenie v reálnom čase"
 }
