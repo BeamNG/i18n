@@ -999,7 +999,7 @@
     "ui.options.currentLanguage": "Aktuálny jazyk",
     "ui.options.gameplay": "Hrateľnosť",
     "ui.options.gameplay.autoClutch": "Asistent spojky (manuálna prevodovka)",
-    "ui.options.gameplay.autoClutch.tooltip": "Ak je zapnuté, spojka je automatický ovládaná v realistickom móde. Hladko rozbehne auto, zabraňuje zastaveniu motora a nepoškodí prevody počas riadenia.",
+    "ui.options.gameplay.autoClutch.tooltip": "Ak je zapnuté, spojka je automatický ovládaná v realistickom móde. Hladko rozbehne auto, zabraňuje zhasnutiu motora a nepoškodí prevody počas riadenia.",
     "ui.options.gameplay.autoShiftPrevention": "Preraďovací asistent",
     "ui.options.gameplay.competitiveScenarios": "Kompetitívne misie",
     "ui.options.gameplay.controlOnBlur": "Povoliť vstup a odozvu z ovládača pri strate sústredenia na okno hry",
