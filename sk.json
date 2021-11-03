@@ -2238,7 +2238,7 @@
     "ui.trackBuilder.base.drive": "Jazda",
     "ui.trackBuilder.base.test": "Testovať",
     "ui.levelselect.x86DisabledToolbar": "Nedostupné v 32-bitovom režime hry.",
-    "ui.levelselect.x86DisabledToolbar_2": "Pre spustenie hry v 64-bitovom režime je vyžadovaný 64-bitový operačný systém a viac než 4GB dostupnej RAM.",
+    "ui.levelselect.x86DisabledToolbar_2": "Pre spustenie hry v 64-bitovom režime je vyžadovaný 64-bitový operačný systém a viac ako 4GB dostupnej RAM.",
     "ui.repository.searchClear": "Vymazať hľadanie",
     "ui.repository.applySearch": "Použiť",
     "ui.quickrace.name": "Názov",
