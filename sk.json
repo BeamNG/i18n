@@ -979,10 +979,10 @@
     "ui.options.audio": "Zvuk",
     "ui.options.audio.audioDevice": "Audio zariadenie",
     "ui.options.audio.audioProvider": "Poskytovateľ audia",
-    "ui.options.audio.effectsVol": "Hlasitosť efektov.",
+    "ui.options.audio.effectsVol": "Hlasitosť efektov",
     "ui.options.audio.hardware": "Hardware",
-    "ui.options.audio.masterVol": "Hlavná hlasitosť.",
-    "ui.options.audio.musicVol": "Hlasitost hudby.",
+    "ui.options.audio.masterVol": "Hlavná hlasitosť",
+    "ui.options.audio.musicVol": "Hlasitosť hudby",
     "ui.options.audio.mute": "Stíšiť",
     "ui.options.audio.volume": "Hlasitosť",
     "ui.options.camera": "Kamera",
@@ -2490,5 +2490,12 @@
     "ui.options.graphics.uiAcceleratedRender": "Povoliť hardvérovú akceleráciu pre užívateľské rozhranie",
     "ui.options.graphics.GraphicAntialiasTypeTooltip": "Anti-Aliasing odstráni hranaté čiary z obrazu s minimálnym dopadom na výkon. SMAA je odporúčané oproti rozostrenejšiemu FXAA.",
     "ui.options.graphics.GraphicMeshQuality": "Kvalita tvaru",
-    "ui.options.graphics.GraphicTextureQualityTooltip": "Kvalita renderovaných textúr. Vyššie nastavenia poskytujú ostré a detailnejšie textúry."
+    "ui.options.graphics.GraphicTextureQualityTooltip": "Kvalita renderovaných textúr. Vyššie nastavenia poskytujú ostré a detailnejšie textúry.",
+    "ui.options.graphics.GraphicDynReflectionTooltip": "Prepne odrazy svetla v reálnom čase na aktuálnom vozidle.",
+    "ui.options.graphics.GraphicDynReflectionFacesPerupdateTooltip": "Ako často sú odrazy svetla aktualizované. Vyššie hodnoty možu byť veľmi náročné na výkon.",
+    "ui.options.graphics.GraphicDynReflectionDetailTooltip": "Kvalita objektov v odrazoch.",
+    "ui.options.graphics.Video": "Video",
+    "ui.options.graphics.Images": "Obrázky",
+    "ui.options.graphics.Warning": "UPOZORNENIE",
+    "ui.options.graphics.Experimental": "Toto je experimentálna funkcia. Používajte opatrne"
 }
