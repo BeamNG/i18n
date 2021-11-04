@@ -2431,5 +2431,18 @@
     "launchercpp.launchgame_404_title": "Nepodarilo sa spustiť BeamNG.drive",
     "launchercpp.launchgame_404_clipboard": "spustiteľný súbor hry nebol nájdený:",
     "launchercpp.chkreq_winver_nt61_nosp": "Váš Windows 7 nie je aktualizovaný. Aktualizácia Service Pack 1 je odporúčaná pre spustenie BeamNG.drive",
-    "launchercpp.launchgame_404_txt": "Spustiteľný súbor hry nebol nájdený:\n"
+    "launchercpp.launchgame_404_txt": "Spustiteľný súbor hry nebol nájdený:\n",
+    "ui.options.other.interpolateVehiclePosition": "Interpolovať pozíciu vozidla",
+    "ui.options.other.useAlt": "^ použi alt",
+    "launchercpp.errorui_set_clip_title": "BeamNG.drive: nastaviť schránku",
+    "launchercpp.support_missing": "Nepodarilo sa spustiť pomocný nástroj (chýba). Prosím, nájdite pomoc na tejto stránke:\nhttps://support.beamng.com\n(mala by sa otvoriť automaticky)",
+    "launchercpp.integrity_parse_err_manifest": "nepodarilo sa spracovať json súbor s integritou, kontrola zastavená",
+    "launchercpp.integrity_missing_manifest": "nepodarilo sa skontrolovať integritu, hash súbor neexistuje",
+    "launchercpp.cleancache_interact_stat": "{0:d} súborov presunutých do zálohy, {1:d} súborov cache vymazaných, {2:d} priečinkov preskúmaných",
+    "launchercpp.clearcache_btn_deep": "Hlboké čistenie cache\nPoužite pre problémy s mapami, vozidlami a textúrami.\nPonechá modifikácie a nastavenia.",
+    "launchercpp.clearcache_btn_normal": "Štandardné čistenie cache\nPoužite pre odstránenie starých súborov.\nPonechá modifikácie, nastavenia a väčšinu vlastných súborov.",
+    "ui.performance.laptopGPU.msg": "Ak je váš laptop vybavený dedikovanou grafickou kartou, môžte ju prepnúť cez ovládací panel grafiky [url=https://wiki.beamng.com/Dedicated_Graphics]Inštrukcie[/url]",
+    "ui.options.graphics.displayMode": "Režim zobrazenia",
+    "ui.options.camera.disabled": "vypnuté",
+    "ui.options.other.replay": "Záznam"
 }
