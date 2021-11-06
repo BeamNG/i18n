@@ -2636,5 +2636,22 @@
     "ui.radialmenu2.bus.kneel.desc": "Znížiť",
     "ui.radialmenu2.bus.kneel": "Znížiť autobus",
     "ui.stats.accuracy": "Presnosť",
-    "levels.glow_city.info.roads": "Žiadne"
+    "levels.glow_city.info.roads": "Žiadne",
+    "ui.apps.performance_timers.Type": "Typ",
+    "ui.apps.performance_timers.Start": "Štart",
+    "ui.apps.performance_timers.End": "Koniec",
+    "ui.apps.performance_timers.Time": "Čas",
+    "ui.apps.performance_timers.Distance": "Vzdialenosť",
+    "ui.apps.trip_computer.TotalDistance": "Celková vzdialenosť",
+    "ui.apps.traffic.AwarenessMode": "Režim vedomia",
+    "ui.options.graphics.GraphicDynReflectionTexsizeTooltip": "Vyššie nastavenie poskytne ostrejšie odrazy. Odporúčaná hodnota je 1024.",
+    "ui.debug.vehicle.replaceCurrent": "Nahradiť aktuálne",
+    "ui.apps.trip_computer.FuelConsumption": "Spotreba paliva",
+    "ui.options.camera.cameraDriverSeatControls2": "[action=moveup]/[action=movedown][br][br][action=movebackward]/[action=moveforward][br][br][action=moveleft]/[action=moveright]",
+    "ui.options.camera.cameraExternalControls2": "[action=center_camera][br][br][action=increase_zoom]/[action=decrease_zoom]",
+    "ui.controls.steering_wiki": "Pre viac informácií o nastavení herného volantu prosím navštívte našu wiki stránku: [url=https://wiki.beamng.com/Steering_wheel_setup]https://wiki.beamng.com/Steering_wheel_setup[/url]",
+    "ui.traffic.policeTicket": "Dostal si pokutu!",
+    "ui.traffic.spawnLimit": "Dosiahnuté maximálne množstvo vozidiel! Ak chcete použiť viac, prosím nastavte hodnotu množstva vozidiel v Nastavenia > Hrateľnosť.",
+    "ui.traffic.policeArrest": "Zatkli vás!",
+    "ui.traffic.policeEvade": "Úspešne si unikol polícii!"
 }
