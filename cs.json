@@ -1969,5 +1969,6 @@
     "scenarios.italy.pizzaDelivery1.tip_horn": "Stisknutím <span>[action=horn]</span> projevíš vděk.",
     "scenarios.italy.tastiColaDelivery1.title": "Doručení Tasti‑Cola",
     "scenarios.italy.tastiColaDelivery1.description": "Doruč přívěs naložený přepravkami s nápojem Tasti‑Cola do obchodů ve městě Citta Vecchia.",
-    "scenarios.italy.tastiColaDelivery1.tip_increaseHeight1": "Výšku jízdní soupravy můžeš zvýšit použitím [action=semi__increase_rideHeight]"
+    "scenarios.italy.tastiColaDelivery1.tip_increaseHeight1": "Výšku jízdní soupravy můžeš zvýšit použitím [action=semi__increase_rideHeight]",
+    "scenarios.italy.pizzaDelivery1.tip_stop": "Zastav na dalším bodu trasy"
 }
