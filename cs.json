@@ -1979,5 +1979,9 @@
     "scenarios.italy.crestRoadAutobello.title": "Přespolní běh",
     "scenarios.italy.crestRoadAutobello.damage.msg": "Auto bylo příliš poškozeno...",
     "scenarios.italy.crestRoadAutobello.win.msg": "Výborně!",
-    "scenarios.italy.crestRoadAutobello.win.overtake.msg": "Výborně! Byl jsi tak rychlý, že jsi dokonce předjel druhé auto, které jsi měl pouze následovat."
+    "scenarios.italy.crestRoadAutobello.win.overtake.msg": "Výborně! Byl jsi tak rychlý, že jsi dokonce předjel druhé auto, které jsi měl pouze následovat.",
+    "scenarios.italy.crestRoadAutobello.far.msg": "Udržuj tempo s druhým autem!",
+    "scenarios.italy.fg-gravity.title": "Gravitační pohon",
+    "scenarios.italy.fg-gravity.description": "Došlo ti palivo. Sjeď dolů z kopce nějaké načerpat, a potom se vrať zpět k pickupu, abys vozidlo doručil!",
+    "scenarios.italy.fg-gravity.intro": "No to snad ne! Tomu mizernému pickupu právě došlo palivo!<br><br>Naneštěstí v nádrži zavoďáku také není ani kapka paliva, takže do něj budeš muset nasednout a sjet s ním bez motoru dolů z kopce k čerpací stanici, kterou jsme minuli. Vezmi nejméně 3 litry paliva a přijeď zase sem, abychom ten stroj mohli doručit.<br><br>Pamatuj, že dole je ostrá zatáčka, kterou není radno projíždět v rychlosti vyšší než 35 km/h! Udělej všechno pro to, aby na autě nebyl ani škrábanec, jinak ti náklady na opravu strhnu ze mzdy!<br><br>Možná bys jim mohl rovnou natankovat plnou, vzhledem k tomu, že se doručení takhle protahuje. Je to na tobě!"
 }
