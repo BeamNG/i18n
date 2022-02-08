@@ -1969,11 +1969,12 @@
     "scenarios.italy.pizzaDelivery1.tip_horn": "Stisknutím <span>[action=horn]</span> projevíš vděk.",
     "scenarios.italy.tastiColaDelivery1.title": "Doručení Tasti‑Cola",
     "scenarios.italy.tastiColaDelivery1.description": "Doruč přívěs naložený přepravkami s nápojem Tasti‑Cola do obchodů ve městě Citta Vecchia.",
-    "scenarios.italy.tastiColaDelivery1.tip_increaseHeight1": "Výšku jízdní soupravy můžeš zvýšit použitím [action=semi__increase_rideHeight]",
+    "scenarios.italy.tastiColaDelivery1.tip_increaseHeight1": "Světlou výšku jízdní soupravy můžeš zvýšit použitím [action=semi__increase_rideHeight]",
     "scenarios.italy.pizzaDelivery1.tip_stop": "Zastav na dalším bodu trasy",
     "scenarios.italy.crestRoadAutobello.fail.msg": "Vzdálil ses příliš daleko od druhého auta...",
     "scenarios.italy.tastiColaDelivery1.tip_increaseHeight2": "Nebo ji snížit pomocí [action=semi__decrease_rideHeight]",
     "scenarios.italy.electricHypermilling.title": "Vyšťavený elektromobil",
     "scenarios.italy.electricHypermilling.description": "Akumulátory ve tvém E‑SBR jsou téměř vybité. Dokážeš dojet k nejbližší nabíjecí stanici v Castelletto?",
-    "scenarios.italy.crestRoadAutobello.description": "Dokážeš jet dostatečně rychle, abys udržel tempo s druhým autem Baja Piccolina ve hrbolatém terénu?"
+    "scenarios.italy.crestRoadAutobello.description": "Dokážeš jet dostatečně rychle, abys udržel tempo s druhým autem Baja Piccolina ve hrbolatém terénu?",
+    "scenarios.italy.crestRoadAutobello.title": "Přespolní běh"
 }
