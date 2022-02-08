@@ -1965,5 +1965,9 @@
     "scenarios.automation_test_track.damJump.fail_water.msg": "Musíš jet dopředu, ne dozadu",
     "scenarios.automation_test_track.damJump.fail_missed.msg": "Nezasáhl jsi žádný z terčů",
     "scenarios.automation_test_track.damJump.title": "Skok z přehrady",
-    "scenarios.automation_test_track.damJump.description": "Skákej z přehrady na cíl"
+    "scenarios.automation_test_track.damJump.description": "Skákej z přehrady na cíl",
+    "scenarios.italy.pizzaDelivery1.tip_horn": "Stisknutím <span>[action=horn]</span> projevíš vděk.",
+    "scenarios.italy.tastiColaDelivery1.title": "Doručení Tasti‑Cola",
+    "scenarios.italy.tastiColaDelivery1.description": "Doruč přívěs naložený přepravkami s nápojem Tasti‑Cola do obchodů ve městě Citta Vecchia.",
+    "scenarios.italy.tastiColaDelivery1.tip_increaseHeight1": "Výšku jízdní soupravy můžeš zvýšit použitím [action=semi__increase_rideHeight]"
 }
