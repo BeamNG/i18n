@@ -1976,5 +1976,8 @@
     "scenarios.italy.electricHypermilling.title": "Vyšťavený elektromobil",
     "scenarios.italy.electricHypermilling.description": "Akumulátory ve tvém E‑SBR jsou téměř vybité. Dokážeš dojet k nejbližší nabíjecí stanici v Castelletto?",
     "scenarios.italy.crestRoadAutobello.description": "Dokážeš jet dostatečně rychle, abys udržel tempo s druhým autem Baja Piccolina ve hrbolatém terénu?",
-    "scenarios.italy.crestRoadAutobello.title": "Přespolní běh"
+    "scenarios.italy.crestRoadAutobello.title": "Přespolní běh",
+    "scenarios.italy.crestRoadAutobello.damage.msg": "Auto bylo příliš poškozeno...",
+    "scenarios.italy.crestRoadAutobello.win.msg": "Výborně!",
+    "scenarios.italy.crestRoadAutobello.win.overtake.msg": "Výborně! Byl jsi tak rychlý, že jsi dokonce předjel druhé auto, které jsi měl pouze následovat."
 }
