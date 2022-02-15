@@ -3565,5 +3565,6 @@
     "ui.inputActions.large_angletester.liftUp.description": "Rampayı yükseltir",
     "ui.inputActions.kickplate.power_up.title": "Gücü Arttır",
     "ui.inputActions.large_crusher.close.title": "Kapat",
-    "ui.inputActions.large_angletester.lift.description": "Rampayı yükseltir veya alçaltır"
+    "ui.inputActions.large_angletester.lift.description": "Rampayı yükseltir veya alçaltır",
+    "ui.inputActions.vehicle.toggleRangeStatus.description": "Düşük ve yüksek oranlar arasında geçiş yapar"
 }
