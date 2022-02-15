@@ -3569,6 +3569,12 @@
     "ui.inputActions.vehicle.toggleRangeStatus.description": "Düşük ve yüksek vites serisi arasında geçiş yapar",
     "ui.inputActions.vehicle.toggleRangeStatus.title": "Vites serisi durumunu değiştir",
     "ui.inputActions.vehicle.toggleShifterMode.description": "Şanzıman modlarını değiştirir",
-    "ui.inputActions.vehicle.toggleShifterMode.title": "vites modunu değiştir",
-    "ui.inputActions.vehicle.toggleTransbrake.description": "Devrede ve devre dışı şanzıman freni arasında geçiş yapar"
+    "ui.inputActions.vehicle.toggleShifterMode.title": "Şanzıman Modunu Değiştir",
+    "ui.inputActions.vehicle.toggleTransbrake.description": "Devrede ve devre dışı şanzıman freni arasında geçiş yapar",
+    "ui.inputActions.vehicle.toggleTwoStep.description": "İki aşamalı kalkış sistemini açar ve kapatır",
+    "ui.inputActions.vehicle.toggleTwoStep.title": "İki aşamalı kalkış sistemini aç/kapat",
+    "ui.inputActions.vehicle.toggleTransbrake.title": "Şanzıman frenini aç/kapat",
+    "ui.inputActions.vehicle.toggle_hazard_signal.description": "Dörtlü flaşör ışıklarını açar ve kapatır",
+    "ui.inputActions.vehicle.toggle_hazard_signal.title": "Dörtlü Flaşör Lambaları",
+    "ui.inputActions.vehicle.toggle_headlights.description": "Farları açar ve kapatır"
 }
