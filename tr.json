@@ -3582,5 +3582,7 @@
     "ui.inputActions.vehicle.toggle_headlights.title": "Farlar",
     "ui.inputActions.vehicle.toggle_left_signal.description": "Sol sinyali açar ve kapatır",
     "ui.inputActions.vehicle.toggle_left_signal.title": "Sol Sinyal",
-    "ui.inputActions.vehicle.toggle_lightbar_signal.description": "Tavan ışılarını açar"
+    "ui.inputActions.vehicle.toggle_lightbar_signal.description": "Tavan ışılarını açar",
+    "ui.inputActions.vehicle.toggle_lightbar_signal.title": "Tavan Işıkları",
+    "ui.inputActions.vehicle.toggle_right_signal.description": "Sağ sinyali açar"
 }
