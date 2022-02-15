@@ -3568,6 +3568,6 @@
     "ui.inputActions.large_angletester.lift.description": "Rampayı yükseltir veya alçaltır",
     "ui.inputActions.vehicle.toggleRangeStatus.description": "Düşük ve yüksek vites serisi arasında geçiş yapar",
     "ui.inputActions.vehicle.toggleRangeStatus.title": "Vites serisi durumunu değiştir",
-    "ui.inputActions.vehicle.toggleShifterMode.description": "Şanzıman modunu değiştir",
+    "ui.inputActions.vehicle.toggleShifterMode.description": "Şanzıman modlarını değiştirir",
     "ui.inputActions.vehicle.toggleShifterMode.title": "vites modunu değiştir"
 }
