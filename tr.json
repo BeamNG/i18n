@@ -3586,5 +3586,8 @@
     "ui.inputActions.vehicle.toggle_lightbar_signal.title": "Tavan Işıkları",
     "ui.inputActions.vehicle.toggle_right_signal.description": "Sağ sinyali açar ve kapatır",
     "ui.inputActions.vehicle.toggle_right_signal.title": "Sağ Sinyal",
-    "ui.inputActions.vehicle_debug.debugmode_cog_decr.description": "Ağırlık merkezi hata ayıklama cihazını göster"
+    "ui.inputActions.vehicle_debug.debugmode_cog_decr.description": "Ağırlık merkezi hata ayıklamayı gösterir",
+    "ui.inputActions.vehicle_debug.debugmode_cog_decr.title": "Ağırlık Merkezi Hata Ayıklamayı Göster (Ters)",
+    "ui.inputActions.vehicle_debug.debugmode_cog_fwd.description": "Ağırlık merkezi hata ayıklamayı gösterir",
+    "ui.inputActions.vehicle_debug.debugmode_cog_fwd.title": "Ağırlık Merkezi Hata Ayıklamayı Göster"
 }
