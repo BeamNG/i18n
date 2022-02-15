@@ -3578,5 +3578,6 @@
     "ui.inputActions.vehicle.toggle_hazard_signal.title": "Dörtlü Flaşör Lambaları",
     "ui.inputActions.vehicle.toggle_headlights.description": "Farları açar ve kapatır",
     "ui.inputActions.vehicle.toggle_foglights.description": "Sis farlarını açar/kapatır",
-    "ui.inputActions.vehicle.toggle_foglights.title": "Sis Farları"
+    "ui.inputActions.vehicle.toggle_foglights.title": "Sis Farları",
+    "ui.inputActions.vehicle.toggle_headlights.title": "Farlar"
 }
