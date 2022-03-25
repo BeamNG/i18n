@@ -1919,7 +1919,7 @@
     "ui.radialmenu2.powertrain.rangebox_mode.high.desc": "Schalte Modus für hohe Drehzahlen an.",
     "ui.radialmenu2.Manage": "Verwalten",
     "ui.fonts.mono": "Roboto Mono",
-    "engine.fatalError.errMsg": "Schwerwiegender Fehler: ",
+    "engine.fatalError.errMsg": "FATALER FEHLER: ",
     "engine.fatalError.experienced2": "\n\n\nBeamNG.drive hat einen fatalen Fehler festgestellt.",
     "engine.fatalError.experienced": "BeamNG.drive hat einen schwerwiegenden Fehler festgestellt. Durch das klicken von OK wird BeamNG.drive geschlossen, sowie ein Absturzbericht erstellt. Bitte senden Sie diesen Bericht, sodass wir an dem Problem arbeiten können.",
     "ui.fonts.filename": "segoeui.ttf",
