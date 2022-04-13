@@ -1127,5 +1127,6 @@
     "ui.mainmenu.onlineFeatures.featureDescription": "Puteți alege să activați sau să dezactivați toate funcțiile online din BeamNG.drive. Acest lucru va afecta:[br][list][*]Arhivele în joc[*]Abonamente la mod[*]Realizări[*]Clasament[*]Funcții de chat[*]Funcții de partajare a conținutului[/list]",
     "ui.mainmenu.privacyPolicyHint": "Pentru detalii despre prelucrarea datelor cu privire la funcțiile online și de telemetrie, vă rugăm să citiți [url=https://beamng.com/PrivacyPolicy.pdf]Politica de confidențialitate[/url]",
     "ui.mainmenu.telemetry.featureDescription": "Am dori să colectăm date despre sesiunile de joc, cum ar fi durata sesiunilor de joc, scenariile jucate și dacă aveți anumite funcții ale jocului activate, cu scopul de a identifica zonele pentru dezvoltarea viitoare a jocului și îmbunătățirea experienței jucătorului. Aceste date sunt trimise către serverele noastre, unde sunt anonimizate și stocate într-o manieră care nu permite identificarea persoanelor fizice. Nu vom folosi aceste informații în scopuri de marketing sau publicitate. Pentru lista tipurilor de date colectate și a drepturilor dumneavoastră, faceți clic pe [url=https://beamng.com/PrivacyPolicy.pdf]aici[/url].",
-    "ui.dashboard.appedit": "Customizează Aplicațiile UI-ului"
+    "ui.dashboard.appedit": "Customizează Aplicațiile UI-ului",
+    "ui.mainmenu.onlineFeatures.featureTitle": "Activezi funcțiile online?"
 }
