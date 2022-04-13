@@ -641,7 +641,7 @@
     "ui.levelselect.spawnpoints": "Puncte de spawn",
     "ui.levelselect.suitablefor": "Potrivit pentru",
     "ui.levelselect.title": "Condus Liber",
-    "ui.mainmenu.background.back": "ÎNAPOI",
+    "ui.mainmenu.background.back": "MENIUL PRINCIPAL",
     "ui.mainmenu.credits": "CREDITE",
     "ui.mainmenu.exit": "IEȘIRE",
     "ui.mainmenu.garage": "GARAJ",
@@ -991,5 +991,10 @@
     "ui.unit.kPa": "Kilopascal",
     "ui.mainmenu.addmods": "ADAUGĂ MODURI",
     "ui.mainmenu.warningdetails": "Click aici pentru detalii și pentru a lua la cunoștință",
-    "ui.modWizard.skinWizard.intro": "Bine ai venit la îndrumătorul de creare a skin-urilor. Următorii pași îti vor oferi o privire de ansamblu asupre modului de realizare a unui skin pentru oricare din vehiculele oficiale din Beamng.Drive."
+    "ui.modWizard.skinWizard.intro": "Bine ai venit la îndrumătorul de creare a skin-urilor. Următorii pași îti vor oferi o privire de ansamblu asupre modului de realizare a unui skin pentru oricare din vehiculele oficiale din Beamng.Drive.",
+    "ui.mainmenu.modwizard": "MOD MAGIC",
+    "ui.actions.switchRight": "Comută la Dreapta",
+    "ui.actions.switchLeft": "Comută la Stânga",
+    "ui.actions.spawn": "Spawnează Mașina",
+    "ui.unit.bhp": "Cai putere la Frânare"
 }
