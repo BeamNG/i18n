@@ -936,5 +936,6 @@
     "engine.editor.menu.object": "Obiect",
     "ui.startscreen.warning": "Atenție: Risc de Fotosensibilitate",
     "ui.startscreen.warningdetails": "Acest joc poate declanșa convulsii persoanelor cu epilepsie fotosensibilă. Se recomandă discreția jucătorului.",
-    "ui.common.action.start": "Pornește"
+    "ui.common.action.start": "Pornește",
+    "engine.editor.menu.resetSelScale": "Resetează scara selectată"
 }
