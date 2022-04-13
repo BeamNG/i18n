@@ -1104,5 +1104,6 @@
     "ui.modWizard.skinWizard.filesGenerated": "Fișierele skin-ului au fost generate.",
     "ui.modWizard.skinWizard.openFolder": "Click aici pentru a deschide folder-ul",
     "ui.modWizard.skinWizard.editFile": "Pentru a edita skin-ul, deschide fișierul <skin_name>.dds într-un editor .dds compatibil, precum Paint.Net.",
-    "ui.modWizard.skinWizard.desc": "Pentru scopuri demonstrative vom folosi SkinExample ca numele skin-ului nostru. Cele două fișiere care pot fi editate au fost combinate în imaginea din dreapta. Odată ce ai deschis fișierele skin-ului, poți da click pe următorul pentru a încărca skin-ul în joc sau pentru a ieși din wizard."
+    "ui.modWizard.skinWizard.desc": "Pentru scopuri demonstrative vom folosi SkinExample ca numele skin-ului nostru. Cele două fișiere care pot fi editate au fost combinate în imaginea din dreapta. Odată ce ai deschis fișierele skin-ului, poți da click pe următorul pentru a încărca skin-ul în joc sau pentru a ieși din wizard.",
+    "ui.modWizard.skinWizard.left": "Partea stangă a imaginii este \"SkinExample.dds\". Aici va fi gata partea principală a skin-ului dumneavoastră. Pur și simplu pictați secțiunile albe cu design-ul la alegere."
 }
