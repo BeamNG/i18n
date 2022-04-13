@@ -924,5 +924,17 @@
     "ui.common.skip": "Sari peste",
     "ui.common.cancel": "Anulare",
     "ui.common.next": "Următorul",
-    "ui.common.finish": "Finalizare"
+    "ui.common.finish": "Finalizare",
+    "ui.common.resetAll": "Reseteaza tot",
+    "ui.common.action.load": "Incarcă",
+    "ui.common.action.stop": "Oprește",
+    "ui.common.fooOrBar": "{{ foo }} sau {{ bar }}",
+    "ui.fonts.filename": "segoeui.ttf",
+    "ui.common.continue": "Continuă",
+    "engine.editor.menu.fitViewSelectionOrbit": "Potrivește vederea la selecție si orbită",
+    "engine.editor.menu.xAxis": "Axa X",
+    "engine.editor.menu.object": "Obiect",
+    "ui.startscreen.warning": "Atenție: Risc de Fotosensibilitate",
+    "ui.startscreen.warningdetails": "Acest joc poate declanșa convulsii persoanelor cu epilepsie fotosensibilă. Se recomandă discreția jucătorului.",
+    "ui.common.action.start": "Pornește"
 }
