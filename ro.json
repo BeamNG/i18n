@@ -996,5 +996,8 @@
     "ui.actions.switchRight": "Comută la Dreapta",
     "ui.actions.switchLeft": "Comută la Stânga",
     "ui.actions.spawn": "Spawnează Mașina",
-    "ui.unit.bhp": "Cai putere la Frânare"
+    "ui.unit.bhp": "Cai putere la Frânare",
+    "ui.modWizard.skinWizard.howTo": "Cum Să Faci Skin-uri",
+    "ui.modWizard.skinWizard.selectVehicle": "Selectează un Vehicul",
+    "ui.modWizard.skinWizard.skinName": "Alege un nume pentru skin-ul tău"
 }
