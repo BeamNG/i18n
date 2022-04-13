@@ -937,5 +937,17 @@
     "ui.startscreen.warning": "Atenție: Risc de Fotosensibilitate",
     "ui.startscreen.warningdetails": "Acest joc poate declanșa convulsii persoanelor cu epilepsie fotosensibilă. Se recomandă discreția jucătorului.",
     "ui.common.action.start": "Pornește",
-    "engine.editor.menu.resetSelScale": "Resetează scara selectată"
+    "engine.editor.menu.resetSelScale": "Resetează scara selectată",
+    "ui.common.simpleVehicles": "Vehicule simple",
+    "ui.mainmenu.mods.desciptionUnavailable": "Descriere indisponibilă",
+    "ui.common.randomConfigs": "Aleatoriu (Orice configurație)",
+    "ui.actions.exit": "Ieși din panou",
+    "ui.unit.imperial": "Imperial",
+    "ui.common.smart": "Deștept",
+    "ui.common.smartConfigs": "Deștept (Orice configurație)",
+    "ui.common.random": "Aleatoriu",
+    "ui.actions.enter": "Intră în panou",
+    "ui.actions.menuLeft": "Meniu stânga",
+    "ui.actions.menuRight": "Meniu Dreapta",
+    "ui.comic.skip": "Treci peste"
 }
