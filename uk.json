@@ -2069,5 +2069,7 @@
     "scenarios.busRoutes.stats.smoothness": "Плавність",
     "vehicle.beamstate.beamDeformed": "Зв'язок {{id}} деформований: {{id1name}} [{{id1}}] -> {{id2name}} [{{id2}}]",
     "ui.radialmenu2.Manage.Set_home": "Встановити початкову точку",
-    "engine.fatalError.errMsg": "КРИТИЧНА ПОМИЛКА: "
+    "engine.fatalError.errMsg": "КРИТИЧНА ПОМИЛКА: ",
+    "ui.fonts.filename": "segoeui.ttf",
+    "scenario.customExtensionLoadFailed": "Користувацька логіка не працює. Перевірте журнал на наявність попереджень за допомогою {{extName}}"
 }
