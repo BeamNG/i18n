@@ -2349,5 +2349,6 @@
     "ui.apps.shift_decision_debug.name": "Налагодження точності перемикання передач",
     "ui.apps.shift_decision_debug.ShiftDownRPM": "Зменшити оберт./хв.",
     "ui.mainmenu.privacyPolicyHint": "Щоб отримати докладніші відомості про обробку даних щодо мережевих можливостей та телеметрії, прочитайте нашу [url=https://beamng.com/PrivacyPolicy.pdf]Політику приватності[/url]",
-    "ui.common.action.resume": "Повернутися"
+    "ui.common.action.resume": "Повернутися",
+    "ui.trackBuilder.trackSettings.reversible": "Можливий реверс"
 }
