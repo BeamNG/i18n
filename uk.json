@@ -954,7 +954,7 @@
     "ui.common.apply": "Застосовувати",
     "ui.common.arcade": "Аркада",
     "ui.common.critical": "Критичне",
-    "ui.common.default": "За замовчуванням",
+    "ui.common.default": "Типово",
     "ui.common.delete": "Видалити",
     "ui.common.disable": "Вимкнути",
     "ui.common.downloadMore": "Завантажити ще!",
@@ -2386,7 +2386,7 @@
     "ui.options.camera.chase": "погоня",
     "ui.options.camera.driver": "водій",
     "ui.options.camera.external": "зовнішня",
-    "ui.options.camera.stationary": "Стаціонарна",
+    "ui.options.camera.stationary": "Нерухома",
     "ui.apps.traffic.RespawnRate": "Швидкість перепояви",
     "ui.apps.traffic.DebugMode": "Режим налагодження",
     "ui.apps.traffic.AwarenessMode": "Режим врахування інших машин",
@@ -2407,5 +2407,7 @@
     "ui.options.camera.frequentlyTV": "Часто ТБ",
     "ui.options.camera.mostlyTV": "Майже ТБ",
     "ui.options.camera.alwaysTV": "Завжди ТБ",
-    "ui.apps.threedexport.name": "Експортувач GLTF 3D"
+    "ui.apps.threedexport.name": "Експортувач GLTF 3D",
+    "ui.options.camera.pigeon-slow": "Набагато повільніше",
+    "ui.options.camera.default": "Типово"
 }
