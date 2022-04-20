@@ -2441,5 +2441,5 @@
     "ui.options.gameplay.enginesPreheated.tooltip": "Якщо вимкнути цю функцію, моделювання теплових процесів починається з температури довкілля.",
     "ui.options.gameplay.raceBrakesPreheated.tooltip": "З цією функцією перегонні гальма на старті будуть прогріті до робочої температури.",
     "ui.options.gameplay.noSteer.tooltip": "Цей параметр корисний для гри з кермовим контролером. Потребує перезавантаження машини.",
-    "ui.options.gameplay.loadDefaultVehicle": "Завантажити за замовчуванням"
+    "ui.options.gameplay.loadDefaultVehicle": "Завантажити типове"
 }
