@@ -2370,5 +2370,9 @@
     "ui.apps.thumbnail_generator.View": "Вигляд",
     "ui.apps.thumbnail_generator.GenerateThumbnails": "Створити мініатюри",
     "ui.apps.traffic.NumberofCars": "Кількість автівок",
-    "ui.apps.characterRealtimeDisplay.name": "Відображення персонажа у реальному часі"
+    "ui.apps.characterRealtimeDisplay.name": "Відображення персонажа у реальному часі",
+    "ui.apps.thumbnail_generator.Distance": "Відстань",
+    "ui.apps.thumbnail_generator.Rotation": "Поворот",
+    "ui.apps.thumbnail_generator.Offsets": "Зміщення",
+    "ui.apps.traffic.Spawn": "Створити Машину"
 }
