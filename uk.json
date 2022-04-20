@@ -1335,7 +1335,7 @@
     "ui.options.gameplay.competitiveScenarios": "Конкурентні умови сценарію",
     "ui.options.gameplay.controlOnBlur": "Дозволити управління і віддачу на контролер, якщо вікно з грою згорнуто, або немає фокусу",
     "ui.options.gameplay.defaultGearboxBehavior": "Режим коробки передач за замовчуванням",
-    "ui.options.gameplay.defaultToCurrentVehicle": "Встановити за замовчуванням",
+    "ui.options.gameplay.defaultToCurrentVehicle": "Установити як типове",
     "ui.options.gameplay.enginesPreheated": "Почати з прогрітим двигуном",
     "ui.options.gameplay.gameplay": "Ігровий процес",
     "ui.options.gameplay.helpTranslating": "Допомога з перекладом",
