@@ -2364,5 +2364,7 @@
     "ui.apps.thumbnail_generator.ThumbnailWidth": "Ширина мініатюри",
     "ui.apps.shift_point_debug.name": "Налагодження точок перемикання передач",
     "ui.apps.thumbnail_generator.message3": "Якщо вам потрібне інше оформлення мініатюр, увімкніть розширені налаштування.",
-    "ui.apps.thumbnail_generator.LicenceText": "Текст Ліцензії"
+    "ui.apps.thumbnail_generator.LicenceText": "Текст Ліцензії",
+    "ui.apps.thumbnail_generator.Stayoncurrentmap": "Залишитись на поточній мапі",
+    "ui.apps.thumbnail_generator.EnableAdvancedMode": "Увімкнути Розширений Режим"
 }
