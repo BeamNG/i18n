@@ -2444,8 +2444,9 @@
     "ui.options.gameplay.loadDefaultVehicle": "Завантажити типове",
     "ui.options.gameplay.cloneCurrentVehicle": "Копіювати поточну",
     "ui.options.gameplay.removeCurrentVehicle": "Вилучити поточну",
-    "ui.options.gameplay.removeOtherVehicles": "Видалити інші",
+    "ui.options.gameplay.removeOtherVehicles": "Вилучити інші",
     "ui.options.gameplay.showFilters": "Показати фільтри",
     "ui.options.gameplay.showConfigurations": "Показати Конфігурації",
-    "ui.options.gameplay.useSteamName": "Використовувати ім'я Steam для номерного знака"
+    "ui.options.gameplay.useSteamName": "Використовувати ім'я Steam для номерного знака",
+    "ui.options.gameplay.useSteamName.tooltip": "При вмиканні цієї функції на номерному знаку автомобіля відображатиметься ім'я користувача Steam."
 }
