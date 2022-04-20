@@ -2366,5 +2366,9 @@
     "ui.apps.thumbnail_generator.message3": "Якщо вам потрібне інше оформлення мініатюр, увімкніть розширені налаштування.",
     "ui.apps.thumbnail_generator.LicenceText": "Текст ліцензії",
     "ui.apps.thumbnail_generator.Stayoncurrentmap": "Залишитись на поточній мапі",
-    "ui.apps.thumbnail_generator.EnableAdvancedMode": "Увімкнути Розширений Режим"
+    "ui.apps.thumbnail_generator.EnableAdvancedMode": "Увімкнути розширений режим",
+    "ui.apps.thumbnail_generator.View": "Вигляд",
+    "ui.apps.thumbnail_generator.GenerateThumbnails": "Створити мініатюри",
+    "ui.apps.traffic.NumberofCars": "Кількість автівок",
+    "ui.apps.characterRealtimeDisplay.name": "Відображення персонажа у реальному часі"
 }
