@@ -2443,5 +2443,6 @@
     "ui.options.gameplay.noSteer.tooltip": "Цей параметр корисний для гри з кермовим контролером. Потребує перезавантаження машини.",
     "ui.options.gameplay.loadDefaultVehicle": "Завантажити типове",
     "ui.options.gameplay.cloneCurrentVehicle": "Копіювати поточну",
-    "ui.options.gameplay.removeCurrentVehicle": "Видалити поточну"
+    "ui.options.gameplay.removeCurrentVehicle": "Видалити поточну",
+    "ui.options.gameplay.removeOtherVehicles": "Видалити інші"
 }
