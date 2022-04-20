@@ -2409,5 +2409,8 @@
     "ui.options.camera.alwaysTV": "Завжди ТБ",
     "ui.apps.threedexport.name": "Експортувач GLTF 3D",
     "ui.options.camera.pigeon-slow": "Набагато повільніше",
-    "ui.options.camera.default": "Типово"
+    "ui.options.camera.default": "Типово",
+    "ui.options.camera.slower": "Повільніше",
+    "ui.options.camera.quicker": "Швидше",
+    "ui.options.camera.muchQuicker": "Набагато швидше"
 }
