@@ -2376,5 +2376,15 @@
     "ui.apps.thumbnail_generator.Offsets": "Зміщення",
     "ui.apps.traffic.Spawn": "Створити машину",
     "ui.apps.traffic.Delete": "Видалити",
-    "ui.apps.traffic.SpeedLimit": "Ліміт Швидкості"
+    "ui.apps.traffic.SpeedLimit": "Ліміт Швидкості",
+    "ui.apps.traffic.Auto": "Авто",
+    "ui.apps.traffic.AIMode": "Режим ШІ",
+    "ui.apps.threedexport.Export": "Експорт",
+    "ui.career.tip.displayLocation": "{{locationName}}",
+    "ui.options.camera.disabled": "вимкнено",
+    "ui.options.camera.orbit": "орбіта",
+    "ui.options.camera.chase": "погоня",
+    "ui.options.camera.driver": "водій",
+    "ui.options.camera.external": "зовнішня",
+    "ui.options.camera.stationary": "Стаціонарна"
 }
