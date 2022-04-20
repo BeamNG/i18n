@@ -2374,5 +2374,7 @@
     "ui.apps.thumbnail_generator.Distance": "Відстань",
     "ui.apps.thumbnail_generator.Rotation": "Поворот",
     "ui.apps.thumbnail_generator.Offsets": "Зміщення",
-    "ui.apps.traffic.Spawn": "Створити Машину"
+    "ui.apps.traffic.Spawn": "Створити Машину",
+    "ui.apps.traffic.Delete": "Видалити",
+    "ui.apps.traffic.SpeedLimit": "Ліміт Швидкості"
 }
