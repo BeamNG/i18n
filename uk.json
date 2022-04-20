@@ -2412,5 +2412,6 @@
     "ui.options.camera.default": "Типово",
     "ui.options.camera.slower": "Повільніше",
     "ui.options.camera.quicker": "Швидше",
-    "ui.options.camera.muchQuicker": "Значно швидше"
+    "ui.options.camera.muchQuicker": "Значно швидше",
+    "ui.options.other.replay": "Повтор"
 }
