@@ -2350,5 +2350,7 @@
     "ui.apps.shift_decision_debug.ShiftDownRPM": "Зменшити оберт./хв.",
     "ui.mainmenu.privacyPolicyHint": "Щоб отримати докладніші відомості про обробку даних щодо мережевих можливостей та телеметрії, прочитайте нашу [url=https://beamng.com/PrivacyPolicy.pdf]Політику приватності[/url]",
     "ui.common.action.resume": "Повернутися",
-    "ui.trackBuilder.trackSettings.reversible": "Можливий реверс"
+    "ui.trackBuilder.trackSettings.reversible": "Можливий реверс",
+    "ui.mainmenu.telemetryConsent": "Я даю згоду на збір даних про мої сеанси гри [br] BeamNG GmbH (натисніть [url=https://beamng.com/PrivacyPolicy.pdf]тут[/url] для типів зібраних даних).",
+    "ui.mainmenu.telemetry.featureDescription": "Ми хочемо збирати дані про ігрові сеанси, такі як тривалість ігрових сеансів, відтворені сценарії та чи ввімкнено певні функції гри, з метою визначення областей майбутньої розробки гри та покращення досвіду гравців. Ці дані надсилаються на наші сервери, де вони анонімізовані та зберігаються у спосіб, який не дозволяє ідентифікувати осіб. Ми не будемо використовувати цю інформацію в маркетингових або рекламних цілях. Щоб переглянути список зібраних типів даних і ваші права, натисніть [url=https://beamng.com/PrivacyPolicy.pdf]тут[/url]."
 }
