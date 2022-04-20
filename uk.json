@@ -1790,7 +1790,7 @@
     "ui.options.controls": "Керування",
     "ui.options.userInterface.editApps": "Налаштувати віджети",
     "ui.options.availableLanguages": "Доступні мови",
-    "ui.options.detectedLanguage": "Визначені мови",
+    "ui.options.detectedLanguage": "Визначена мова",
     "ui.options.gameplay.absBehavior": "Режим ABS",
     "ui.options.gameplay.escBehavior": "ESC",
     "ui.quickrace.tracks.procedural": "Випадковий трек",
@@ -2413,5 +2413,9 @@
     "ui.options.camera.slower": "Повільніше",
     "ui.options.camera.quicker": "Швидше",
     "ui.options.camera.muchQuicker": "Значно швидше",
-    "ui.options.other.replay": "Повтор"
+    "ui.options.other.replay": "Повтор",
+    "ui.options.officialTranslations": "Офіційні переклади",
+    "ui.options.translationAutomatic": "Автоматично",
+    "ui.options.steamLanguage": "Мова Steam",
+    "ui.options.other.useAlt": "^ використати alt"
 }
