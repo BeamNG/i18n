@@ -2448,5 +2448,8 @@
     "ui.options.gameplay.showFilters": "Показати фільтри",
     "ui.options.gameplay.showConfigurations": "Показати Конфігурації",
     "ui.options.gameplay.useSteamName": "Використовувати ім'я Steam для номерного знака",
-    "ui.options.gameplay.useSteamName.tooltip": "При вмиканні цієї функції на номерному знаку автомобіля відображатиметься ім'я користувача Steam."
+    "ui.options.gameplay.useSteamName.tooltip": "При вмиканні цієї функції на номерному знаку автомобіля відображатиметься ім'я користувача Steam.",
+    "Drivetrain": "Міст",
+    "Type": "Тип",
+    "Config Type": "Тип Конфігурації"
 }
