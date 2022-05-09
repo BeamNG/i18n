@@ -92,7 +92,7 @@
     "engine.levelModified.msg": "Úroveň bola zmenená editorom. Uložiť?",
     "engine.levelModified.title": "Úroveň upravená",
     "engine.msgboxErrorTitle": "Chyba",
-    "engine.resourceMissing": "Chyba pri tvorbe dát (nechýba súbor?): ",
+    "engine.resourceMissing": "Nepodarilo sa vytvoriť zdroj (chýba súbor?) ",
     "engine.welcome": "Vitajte v BeamNG.drive v slovenčine :)",
     "engine.windowedModeReq.msgEditor": "Prosím opusťte editor misií pre prepnutie do režimu celej obrazovky.",
     "engine.windowedModeReq.msgGUI": "Prosím opusťte editor grafického používateľského rozhrania pre prepnutie do režimu celej obrazovky.",
