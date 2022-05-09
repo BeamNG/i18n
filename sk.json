@@ -2835,5 +2835,6 @@
     "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_crush.winSmall": "S trochou CGI by sme tu mohli mať nejaký použiteľný záber...",
     "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_course.fail.msg": "Rýchlejšie! Toto je akčný film, nie dráma!",
     "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_minspeed.description": "Bezpečne preprav pasažierov dole horou",
-    "ui.vehicleconfig.searchHelp.example7": "Vyhľadá v názvoch, tituloch a značkách módov 'super'"
+    "ui.vehicleconfig.searchHelp.example7": "Vyhľadá v názvoch, tituloch a značkách módov 'super'",
+    "ui.photomode.dofMaxBlurNear": "Sila rozmazania (Blízko)"
 }
