@@ -3046,5 +3046,15 @@
     "quickrace.automation_test_track.outerloop.title": "Зовнішня петля",
     "quickrace.automation_test_track.outerloop.description": "Ралі вгору та вниз горою на виснаження відстанню в 7,8 км.",
     "quickrace.automation_test_track.rallyTrack.title": "Гравійна траса",
-    "quickrace.automation_test_track.trackcircuit1.title": "Перегонова траса"
+    "quickrace.automation_test_track.trackcircuit1.title": "Перегонова траса",
+    "quickrace.automation_test_track.trackcircuit3.title": "Стара перегонова траса",
+    "quickrace.italy.asphaltHillclimb1.title": "Асфальт, вгору схилом 1",
+    "quickrace.automation_test_track.trackcircuit1.description": "Повна версія траси з тест-треку Automation.",
+    "quickrace.automation_test_track.trackcircuit2.title": "Коротка перегонова траса",
+    "quickrace.automation_test_track.trackcircuit2.description": "Коротка версія траси з тест-треку Automation.",
+    "quickrace.automation_test_track.trackcircuit3.description": "Траса старою трековою дорогою, включає поворот з бетонними відбійниками.",
+    "quickrace.italy.asphaltHillclimb1.description": "Вузький підйом до села біля замку звивистою дорогою з 10 різкими поворотами.",
+    "quickrace.italy.asphaltHillclimb2.title": "Асфальт, угору схилом 2",
+    "quickrace.italy.asphaltHillclimb2.description": "Звивистий підйом, що веде через гірське село.",
+    "quickrace.italy.cliffRoad1.title": "Дорога повз скелі"
 }
