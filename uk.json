@@ -2074,7 +2074,7 @@
     "scenario.customExtensionLoadFailed": "Користувацька логіка не працює. Перевірте журнал на наявність попереджень за допомогою {{extName}}",
     "engine.fatalError.experienced2": "\n\n\nУ BeamNG.drive сталася критична помилка.",
     "engine.fatalError.experienced": "\n\n\nУ BeamNG.drive сталася критична помилка. Натисніть OK, щоб закрити BeamNG і створити звіт про помилку. Будь ласка, надішліть повідомлення, щоб ми змогли вирішити цю проблему.",
-    "ui.startscreen.warning": "Увага: Риск Фоточутливості",
+    "ui.startscreen.warning": "Попередження: Ризик Світлочутливості",
     "ui.startscreen.warningdetails": "Ця гра може спричинити напад епілепсії у людей зі світлочутливою епілепсією. Завважте це, приймаючи рішення грати.",
     "ui.repository.searchClear": "Очистити пошук",
     "ui.trackBuilder.toolbar.title": "Панель знарядь",
