@@ -3099,5 +3099,7 @@
     "campaigns.west_coast_usa.bus_minichapter.busdriver_stunt_crush.title": "Трюк 3: Хутчіш!",
     "campaigns.west_coast_usa.bus_minichapter.busdriver_stunt_canal.title": "Трюк 4: Автобусна балістика",
     "campaigns.training.training.training_easycircuit.title": "Навчання 6: проста кільцева траса",
-    "levels.common.country.usa": "США"
+    "levels.common.country.usa": "США",
+    "levels.driver_training.spawnpoints.spawn_west": "Захід",
+    "levels.driver_training.spawnpoints.spawn_north": "Північ"
 }
