@@ -3101,5 +3101,7 @@
     "campaigns.training.training.training_easycircuit.title": "Навчання 6: проста кільцева траса",
     "levels.common.country.usa": "США",
     "levels.driver_training.spawnpoints.spawn_west": "Захід",
-    "levels.driver_training.spawnpoints.spawn_north": "Північ"
+    "levels.driver_training.spawnpoints.spawn_north": "Північ",
+    "levels.automation_test_track.info.roads": "80% асфальту, 20% ґрунту",
+    "levels.automation_test_track.info.biome": "трав'янисті кочки"
 }
