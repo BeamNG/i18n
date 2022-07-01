@@ -3103,5 +3103,7 @@
     "levels.driver_training.spawnpoints.spawn_west": "Захід",
     "levels.driver_training.spawnpoints.spawn_north": "Північ",
     "levels.automation_test_track.info.roads": "80% асфальту, 20% ґрунту",
-    "levels.automation_test_track.info.biome": "трав'янисті кочки"
+    "levels.automation_test_track.info.biome": "трав'янисті кочки",
+    "levels.automation_test_track.info.features": "тестова траса, шлях схилом, етап ралі, навчання кермуванню",
+    "levels.automation_test_track.info.suitablefor": "тестування прототипів, ралійне водіння"
 }
