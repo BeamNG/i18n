@@ -2343,7 +2343,7 @@
     "ui.apps.hotlapping.bestLap": "Найкраще коло",
     "ui.apps.node_beam_info.totalweight": "сумарна вага",
     "ui.apps.node_beam_info.Torsionbars": "Торсіонні тяги",
-    "ui.apps.trip_computer.AVGSpeed": "Сер. швид.",
+    "ui.apps.trip_computer.AVGSpeed": "Серед. швидкість",
     "ui.apps.turbo_activity_graph.TurboRPM": "Обер./хв. турбіни",
     "ui.apps.advanced_wheels_debug.name": "Розширене налагодження колес",
     "ui.apps.shift_decision_debug.name": "Налагодження точності перемикання передач",
