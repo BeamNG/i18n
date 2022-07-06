@@ -3673,7 +3673,7 @@
     "ui.inputActions.debug.debugmode_meshvis_incr.title": "Збільш. видимість меша",
     "ui.inputActions.gameplay.decline.description": "Відмовитися від поточного завдання",
     "ui.inputActions.gameplay.loadHome.description": "Переміщує машину на початкову точку",
-    "levels.west_coast_usa.info.description": "Проїдьтеся по східному узбережжю США. Каліфорнійська природа",
+    "levels.west_coast_usa.info.description": "Досліди західне узбережжя США. Представлені в різних місцях Каліфорнії.",
     "ui.inputActions.camera.xAxisAbs.description": "Гориз. переміщення миші в тривимірному просторі",
     "ui.inputActions.debug.toggleConsole.description": "Перемикає показ консолі",
     "ui.inputActions.camera.rotate_camera_vertical.description": "Нахил камери вперед/назад",
