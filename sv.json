@@ -1485,5 +1485,6 @@
     "ui.options.camera.resetConfiguration": "Återställ ordning",
     "ui.options.camera.defaultMode": "Standardläge",
     "ui.options.camera.cameraCollision": "Kollision",
-    "ui.common.action.stop": "Stanna"
+    "ui.common.action.stop": "Stannar",
+    "ui.trackBuilder.toolbar.title": "Verktygsfält"
 }
