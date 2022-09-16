@@ -1491,5 +1491,8 @@
     "ui.common.simpleVehicles": "Simpla Fordon",
     "ui.common.smartConfigs": "Smart (alla konfigurationer)",
     "ui.mainmenu.mods.desciptionUnavailable": "Beskrivning Saknas",
-    "ui.trackBuilder.toolbar.merge": "Sammanfoga segment"
+    "ui.trackBuilder.toolbar.merge": "Sammanfoga segment",
+    "ui.common.smart": "Smart",
+    "ui.common.random": "Slumpmässig",
+    "ui.common.randomConfigs": "Slumpmässig (valfri konfiguration)"
 }
