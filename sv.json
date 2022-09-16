@@ -1494,5 +1494,6 @@
     "ui.trackBuilder.toolbar.merge": "Sammanfoga segment",
     "ui.common.smart": "Smart",
     "ui.common.random": "Slumpmässig",
-    "ui.common.randomConfigs": "Slumpmässig (valfri konfiguration)"
+    "ui.common.randomConfigs": "Slumpmässig (valfri konfiguration)",
+    "ui.trackbuilder.menus.windows": "Fönster"
 }
