@@ -1484,5 +1484,6 @@
     "ui.options.camera.current": "Nuvarande kamera",
     "ui.options.camera.resetConfiguration": "Återställ ordning",
     "ui.options.camera.defaultMode": "Standardläge",
-    "ui.options.camera.cameraCollision": "Kollision"
+    "ui.options.camera.cameraCollision": "Kollision",
+    "ui.common.action.stop": "Stanna"
 }
