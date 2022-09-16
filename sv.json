@@ -1486,5 +1486,10 @@
     "ui.options.camera.defaultMode": "Standardläge",
     "ui.options.camera.cameraCollision": "Kollision",
     "ui.common.action.stop": "Stannar",
-    "ui.trackBuilder.toolbar.title": "Verktygsfält"
+    "ui.trackBuilder.toolbar.title": "Verktygsfält",
+    "ui.trackbuilder.menus.exitWindow": "Stäng fönster",
+    "ui.common.simpleVehicles": "Simpla Fordon",
+    "ui.common.smartConfigs": "Smart (alla konfigurationer)",
+    "ui.mainmenu.mods.desciptionUnavailable": "Beskrivning Saknas",
+    "ui.trackBuilder.toolbar.merge": "Sammanfoga segment"
 }
