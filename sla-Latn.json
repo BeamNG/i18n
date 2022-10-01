@@ -1,1 +1,21 @@
-{}
+{
+    "engine.welcome": "Dobrodošli do BeamNG.drive na medžuslovjanskom jezyku :)",
+    "engine.cef.subprocessdied.title": "Igrovy interfejs ne odpovědaje",
+    "engine.lua.reloaded": "Glavny prědmet LUA byl prědodan",
+    "extensions.scenario.damageGoal.fail.msg": "Vaš avtomobil jest poškodženy",
+    "extensions.scenario.speedGoal.fail.msg": "Vaša bystrost ne sběgaje se s potrěbujemoju",
+    "extensions.scenario.drift.failedGoal": "Vy potrěbujete nabrati ne menje, než {{minDrift}} pointov drifta.",
+    "extensions.scenario.drift.passGoal": "Odlično! Vy jeste nabrali {{driftPoints}} drift pointov.",
+    "extensions.scenario.damageGoal.win.msg": "Odlično! Vaše vrěme jest: {{timeStr}}",
+    "ui.appselect.reset": "Resetovati shemu",
+    "extensions.scenario.damageGoal.checkDamage.fail.msg": "Ostražno! Vaše avto jest poškodženo na {{damage}}%",
+    "extensions.scenario.speedGoal.win.msg": "Odlično! Vaše vrěme jest: {{timeStr}}",
+    "extensions.scenario.onRaceEnd.default.win": "Odlično! Vaše vrěme jest: {{timeStr}}",
+    "ui.modWizard.skinWizard.skinName": "Izberite ime za vaš novy izgled",
+    "ui.modmanager.missing_tooltip": "Modifikacije, na ktore vy jeste podpisali se, ale ktoryh nemaje na vašem kompjuteru",
+    "ui.vehicleconfig.searchHelp.historyClear": "Vy možete očistiti historiju, ako budete natisknuti CTRL+K",
+    "ui.options.other.highPerformancePlanMessage": "Tuta opcija bude avtomatično prěnositi operacionnu sistemu vo režim vysokoj produktivnosti pri pusku kompjutera.",
+    "ui.options.communityTranslationsAckText": "Jestvujut prěvody, ktore sut stvorjene korisnikami od občiny igry. BeamNG ne bere na sebe odgovornost za jih kvalitet i točnost.",
+    "ui.options.gameplay.useSteamName.tooltip": "Ako to jest vključeno, vaše ime Steam bude pisati se na nomernom znaku vašego avtomobila.",
+    "ui.options.graphics.CEFRender.warning": "Tuta opcija obyčajno povyšaje produktivnost, ale na něktoryh sistemah davaje obratny efekt. Ako vy imajete někaky problem"
+}
