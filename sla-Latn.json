@@ -39,7 +39,7 @@
     "ui.options.graphics.DisplayShadows": "Vidimost těnjij",
     "ui.options.graphics.applyDisplay": "Prijeti regulacije ekrana",
     "ui.inputActions.gameplay.nodegrabberRender.description": "Pokazyvati vuzly, ktore možno jest zahvatiti",
-    "ui.mainmenu.options": "REGULACIJE",
+    "ui.mainmenu.options": "Regulacije",
     "ui.options.camera.disabled": "Odključeno",
     "ui.options.camera.videocam": "Video",
     "ui.options.camera.orbit": "Orbita",
@@ -94,7 +94,7 @@
     "scenarios.busRoutes.stop": "Zaustavite avtobus",
     "scenarios.busRoutes.open": "Otvorite dveri <span>[action=citybus__toggle_doors]</span>",
     "scenarios.busRoutes.stats.stopDistance": "Razstojanje postojky",
-    "ui.mainmenu.credits": "TVORITELJI",
+    "ui.mainmenu.credits": "Tvoritelji",
     "ui.dashboard.credits": "Tvoritelji",
     "ui.credits.programmers": "Programisti",
     "ui.credits.vehicleDesigners": "Dizajneri avtomobilov",
@@ -111,5 +111,10 @@
     "ui.credits.soundtrack": "Muzika",
     "ui.credits.environmentArtists": "Artisti okolic",
     "ui.credits.ui": "Igrovy interfejs",
-    "ui.credits.madePossibleWith": "Tuto ne moglo byti možlivym bez tutyh ljudij"
+    "ui.credits.madePossibleWith": "Tuto ne moglo byti možlivym bez tutyh ljudij",
+    "ui.mainmenu.repo": "Modifikacije",
+    "ui.mainmenu.garage": "Garaž",
+    "ui.repository.mods": "Menedžer modifikacij",
+    "ui.playmodes.quickrace": "Gonky na vrěme",
+    "ui.repository.subscribe": "Podpisati se"
 }
