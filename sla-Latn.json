@@ -3,7 +3,7 @@
     "engine.cef.subprocessdied.title": "Igrovy interfejs ne odpovědaje",
     "engine.lua.reloaded": "Glavny prědmet LUA byl prědodan",
     "extensions.scenario.damageGoal.fail.msg": "Vaš avtomobil jest poškodženy",
-    "extensions.scenario.speedGoal.fail.msg": "Vaša bystrost ne sběgaje se s potrěbujemoju",
+    "extensions.scenario.speedGoal.fail.msg": "Vaša brzost različaje se od potrěbnoj",
     "extensions.scenario.drift.failedGoal": "Vy potrěbujete nabrati ne menje, než {{minDrift}} pointov drifta.",
     "extensions.scenario.drift.passGoal": "Odlično! Vy jeste nabrali {{driftPoints}} drift pointov.",
     "extensions.scenario.damageGoal.win.msg": "Odlično! Vaše vrěme jest: {{timeStr}}",
