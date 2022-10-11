@@ -1114,7 +1114,7 @@
     "ui.environment.uranus": "Уран",
     "ui.environment.venus": "Венера",
     "ui.environment.weather": "Погода",
-    "ui.environment.windSpeed": "Швидкість хмар (вітру)",
+    "ui.environment.windSpeed": "Швидкість хмар",
     "ui.environment.zeroGravity": "Невагомість",
     "ui.faq": "Довідка/швидкі посилання",
     "ui.faq.changeCamera.a": "Натисніть [action=switch_camera_next] щоб перемкнути вигляд з камери, або [action=toggleCamera] щоб використовувати вільну камеру.",
