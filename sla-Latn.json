@@ -198,5 +198,22 @@
     "ui.options.graphics.GraphicLightingQuality": "Kvalitet osvěčenja",
     "ui.inputActions.general.quit.title": "Izojdti",
     "ui.options.audio.settings": "Regulacije",
-    "ui.options.graphics.GraphicTextureQualityTooltip": "Kvalitet tekstur. Bolje vysoke uravnje budut dati bolje detaljevane tekstury."
+    "ui.options.graphics.GraphicTextureQualityTooltip": "Kvalitet tekstur. Bolje vysoke uravnje budut dati bolje detaljevane tekstury.",
+    "ui.options.graphics.GraphicShaderQuality": "Kvalitet šejderov",
+    "ui.options.graphics.GraphicShaderQualityTooltip": "Obči kvalitet šejderov. Bolje vysoke uravnje budut dati vyše krasno izobraženje.",
+    "ui.options.graphics.grassdensity": "Gustost travy",
+    "ui.options.graphics.GraphicDynReflection": "Dinamične odblěsky",
+    "ui.options.graphics.GraphicDynReflectionTooltip": "Vključaje dinamične odblěsky na aktivnyh avtomobilah.",
+    "ui.options.graphics.GraphicDynReflectionTexsize": "Razměr tekstury",
+    "ui.options.graphics.GraphicGrassDensity": "Gustost travy",
+    "ui.options.graphics.GraphicDynReflectionFacesPerupdate": "Čestota obnovjenja",
+    "ui.options.graphics.GraphicDynReflectionFacesPerupdateTooltip": "Čestota obnovjenja odblěskov. Vysoke uravnje mogut silno ovplyvniti na produktivnost kompjutera.",
+    "ui.options.graphics.GraphicDynReflectionDetail": "Detaljnost",
+    "ui.options.graphics.GraphicDynReflectionDetailTooltip": "Kvalitet objektov v odblěskah.",
+    "ui.options.graphics.GraphicDynReflectionDistance": "Udaljenost",
+    "ui.options.graphics.GraphicDynReflectionDistanceTooltip": "Maksimalna udaljenost objektov, ktore budut rysovati se v odblěskah.",
+    "ui.options.graphics.Warning": "OSTRĚŽENJE",
+    "ui.options.graphics.Experimental": "Tuto jest eksperimentalna funkcija. Prosimo koristati s ostražnostju",
+    "ui.options.graphics.GraphicLightingQualityTooltip": "Kvalitet osvěčenja i stěnjev. Bolje vysoke uravnje budut dati bolje dinamično osvěčenje i bolje kakostne stěnje. Samy nizky uravenj bude odključiti dinamične žrla světla, naprikad, světila avtomobilov.",
+    "ui.options.graphics.GraphicDynReflectionTexsizeTooltip": "Bolje vysoke uravnje budut dati vyše krasne odblěsky. Radimo koristati čislo 1024."
 }
