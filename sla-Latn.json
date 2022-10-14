@@ -215,5 +215,14 @@
     "ui.options.graphics.Warning": "OSTRĚŽENJE",
     "ui.options.graphics.Experimental": "Tuto jest eksperimentalna funkcija. Prosimo koristati s ostražnostju",
     "ui.options.graphics.GraphicLightingQualityTooltip": "Kvalitet osvěčenja i stěnjev. Bolje vysoke uravnje budut dati bolje dinamično osvěčenje i bolje kakostne stěnje. Samy nizky uravenj bude odključiti dinamične žrla světla, naprikad, světila avtomobilov.",
-    "ui.options.graphics.GraphicDynReflectionTexsizeTooltip": "Bolje vysoke uravnje budut dati vyše krasne odblěsky. Radimo koristati čislo 1024."
+    "ui.options.graphics.GraphicDynReflectionTexsizeTooltip": "Bolje vysoke uravnje budut dati vyše krasne odblěsky. Radimo koristati čislo 1024.",
+    "ui.options.graphics.GraphicPostfxQuality": "Kvalitet postprocesinga",
+    "ui.options.graphics.GraphicPostfxQualityTooltip": "Kvalitet efektov postprocesinga. Bolje vysoke uravnje budut dati bolje kakostne efekty.",
+    "ui.options.graphics.GraphicAnisotropic": "Anizotropno filtrovanje",
+    "ui.options.graphics.GraphicAnisotropicTooltip": "Kvalitet filtrovanja tekstur. Bolje vysoke uravnje budut dati vyše krasny izgled tekstur na udaljenosti. Davaje maly vliv na produktivnost kompjutera.",
+    "ui.options.graphics.GraphicMaxDecalCount": "Kolikost slědov od kol avtomobilov",
+    "ui.options.graphics.GraphicMaxDecalCount.warning": "Uravnje vyše 6000 budut silno sniziti čestotu obnovjenja ekrana.",
+    "ui.options.graphics.postfx": "Postprocesing",
+    "ui.options.graphics.postfxReset": "Resetovati regulacije postprocesinga",
+    "ui.options.graphics.GraphicDynReflection.warning": "Bolje često obnovjenje ekrana bude brati vyše resursov kompjutera. Ako imajete někaky problem s produktivnostju smenšite čestost obnovjenja"
 }
