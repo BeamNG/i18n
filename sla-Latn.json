@@ -231,5 +231,11 @@
     "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_crush.winSmall": "Trěba jest dati trohu kompjuternoj grafiky i my budemo dostati dobre fotky…",
     "scenarios.utah.chapter_1.chapter_1_bridge.distance.msg": "Odlično pokušenje!",
     "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_follow.description": "Ty jesi najety do raboty! My silno spěšimo, tomu ne odstavaj od avtomobila filmovoj ekipy, da byhmo privezli se do trasy v čas.",
-    "scenarios.utah.chapter_1.chapter_1_bridge.title": "Most"
+    "scenarios.utah.chapter_1.chapter_1_bridge.title": "Most",
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_crush.failMiss.msg": "Ty ne jesi porazil cělj! Či ty znaš, že platimo kameramanam za každu časinu!?",
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_crush.failInvalid.msg": "Ne-ne, tobě trěba bylo upasti na avtomobil od vrha…",
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_ballistic.title": "Final: Balističny avtobus",
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_ballistic.win.msg": "Odlično! Ne trevožite se ob neporědku - to takož jest reklama. Vy jeste v knigě rekordov!",
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_ballistic.fail.msg": "Uf, to ne jest toj let, na ktory ja jesm iměl naděju…",
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_follow.title": "Draga do punkta filmovanja"
 }
