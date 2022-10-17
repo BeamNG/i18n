@@ -226,7 +226,10 @@
     "ui.options.graphics.postfxReset": "Resetovati regulacije postprocesinga",
     "ui.options.graphics.GraphicDynReflection.warning": "Bolje često obnovjenje ekrana bude brati vyše resursov kompjutera. Ako imajete někaky problem s produktivnostju smenšite čestost obnovjenja",
     "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_crush.failSmall.msg": "Ja jesm myslil, že avtomobil bude dobyti vyše poškodženij…. Dělajemo to iznova!",
-    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_crush.failBig.msg": "Čto to bylo? Trěba jest razbuti avtomobil, a ne tknuti jego!",
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_crush.failBig.msg": "Čto to bylo? Trěba jest razbiti avtomobil, a ne tknuti jego!",
     "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_crush.title": "Scena gonitvy",
-    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_crush.winSmall": "Trěba jest dati trohu kompjuternoj grafiky i my budemo dostati dobre fotky…"
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_crush.winSmall": "Trěba jest dati trohu kompjuternoj grafiky i my budemo dostati dobre fotky…",
+    "scenarios.utah.chapter_1.chapter_1_bridge.distance.msg": "Odlično pokušenje!",
+    "scenarios.west_coast_usa.busdriver_stunt.busdriver_stunt_follow.description": "Ty jesi najety do raboty! My silno spěšimo, tomu ne odstavaj od avtomobila filmovoj ekipy, da byhmo privezli se do trasy v čas.",
+    "scenarios.utah.chapter_1.chapter_1_bridge.title": "Most"
 }
