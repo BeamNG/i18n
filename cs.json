@@ -246,7 +246,7 @@
     "scenarios.utah.chapter_1.chapter_1_hilldrop.fail.msg": "Nepohnul jsi se do 10 sekund",
     "scenarios.utah.chapter_1.chapter_1_hilldrop.pass.msg": "Dobrá práce!",
     "scenarios.utah.chapter_1.chapter_1_hilldrop.title": "Sjezd",
-    "scenarios.utah.chapter_1.chapter_1_jump.damage.msg": "Zničil si vozidlo během {{timeStr}}",
+    "scenarios.utah.chapter_1.chapter_1_jump.damage.msg": "Zasáhl jsi vozidlo během {{timeStr}}",
     "scenarios.utah.chapter_1.chapter_1_jump.fail.msg": "Netrefil jsi se",
     "scenarios.utah.chapter_1.chapter_1_jump.title": "Skok",
     "scenarios.utah.chapter_1.chapter_1_ramcliff.description": "Sraz staré auto z útesu a následuj ho směrem ke dnu.",
@@ -2050,5 +2050,13 @@
     "scenarios.utah.chapter_1.chapter_1_highway.timeLimit.msg": "Trvalo ti to déle než {{timeLimit}} sekund",
     "scenarios.utah.chapter_1.chapter_1_highway.fail.msg": "Musíš překonat zátaras",
     "scenarios.utah.chapter_1.chapter_1_hilldrop.description": "Sjeď s tahačem dolů po strmé cestě a pokračuj s ním co nejdál v jízdě kaňonem. Máš na to 20 sekund.",
-    "scenarios.utah.chapter_1.chapter_1_hilldrop.timeLimit.msg": "Trvalo ti to déle než {{timeLimit}} sekund"
+    "scenarios.utah.chapter_1.chapter_1_hilldrop.timeLimit.msg": "Trvalo ti to déle než {{timeLimit}} sekund",
+    "scenarios.utah.prototype.arrival.timeLimit.msg": "Je to vážně tak obtížné? Možná bys měl hrát jenom nějaké nenáročné arkádové závodní hry, co říkáš?",
+    "scenarios.utah.prototype.arrival.position.msg": "Je to vážně tak obtížné? Možná bys měl hrát jenom nějaké nenáročné arkádové závodní hry, co říkáš?",
+    "scenarios.italy.pizzaDelivery1.title": "Rozvoz pizzy",
+    "scenarios.italy.pizzaDelivery1.description": "Rozvážej pizzu po dané trase přes město.",
+    "scenarios.utah.chapter_1.chapter_1_jump.pass.msg": "Dobrý skok",
+    "scenarios.utah.chapter_1.chapter_1_jump.timeLimit.msg": "Trvalo ti to déle než {{timeLimit}} sekund",
+    "scenarios.utah.chapter_1.chapter_1_ramcliff.fail.msg": "Nepodařilo se ti shodit obě dvě vozidla z útesu",
+    "scenarios.utah.prototype.arrival.pass.msg": "Na nováčka to vůbec není špatný výsledek. Myslím, že bys mi tu určitě mohl s něčím pomoct. Nicméně, jestli cítíš, že se přesto potřebuješ ohledně řízení něco doučit, navštiv [color=#4169E1][b]mého bratra[/b][/color] v [color=#008000][b]Centru pilování řidičských dovedností ETK[/b][/color]."
 }
