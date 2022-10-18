@@ -2068,7 +2068,11 @@
     "scenarios.italy.pizzaDelivery1.fail_stop": "Nezastavil jsi u zákazníka!",
     "scenarios.italy.pizzaDelivery1.success_fast": "Hej, běž nabídnout těm protestujícím trochu pizzy. Možná pak zmlknou!",
     "quickrace.utah.canyon_race.title": "Smíšená dráha 1",
-    "quickrace.utah.canyon_race.description": "Tato dráha začíná v úzkých kaňonových cestách, poté sestupuje na hliněný úsek s dálniční projížďkou na konci.",
+    "quickrace.utah.canyon_race.description": "Tato dráha začíná v úzkých kaňonových cestách, poté sestupuje na šotolinový úsek s cílovou rovinkou na dálnici.",
     "scenarios.italy.pizzaDelivery1.customer1": "Grazie, panáčku!",
-    "scenarios.italy.pizzaDelivery1.customer2": "To vám to trvalo."
+    "scenarios.italy.pizzaDelivery1.customer2": "To vám to trvalo.",
+    "quickrace.utah.deadManLoop.description": "Převážně šotolinový okruh podél nebezpečných útesů.",
+    "quickrace.utah.asphaltHillclimb.title": "Závody do vrchu na asfaltu",
+    "quickrace.utah.deadManLoop.title": "Smyčka mrtvého muže",
+    "quickrace.utah.oldMillLoop.title": "Okruh Starý Mlýn"
 }
