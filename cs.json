@@ -104,8 +104,8 @@
     "quickrace.industrial.track_rt_long.title": "Dlouhý závodní okruh",
     "quickrace.jungle_rock_island.jri_hillclimb.description": "Silniční závod na vrchol hory. Všude samé ostré zatáčky a nebezpečné srázy.",
     "quickrace.jungle_rock_island.jri_rally_port.description": "Šotolinový závod skrze zarostlou džungli, končící v opuštěném přístavu.",
-    "quickrace.utah.mix_asphalt.description": "Úsek dálnice a kilometry silnic nižší třídy. Dohromady utváří zajímavou kombinaci povrchů.",
-    "quickrace.utah.mix_asphalt.title": "Všelijaký asfalt",
+    "quickrace.utah.mix_asphalt.description": "Trasa sestávající se z dvouproudové dálnice a úzkých asfaltových vedlejších silnic. Vhodná pro různé typy vozidel.",
+    "quickrace.utah.mix_asphalt.title": "Silniční trasa 1",
     "scenarios.Industrial.autocrosstest.title": "Test Autokrosu",
     "scenarios.Industrial.pessima_autocross.description": "Projeď krkolomnou tratí s Pessimou, která má řízení všech kol",
     "scenarios.Industrial.pessima_autocross.title": "Mrštná Pessima",
@@ -2061,5 +2061,10 @@
     "scenarios.utah.prototype.arrival.pass.msg": "Na nováčka to vůbec není špatný výsledek. Myslím, že bys mi tu určitě mohl s něčím pomoct. Nicméně, jestli cítíš, že se přesto potřebuješ ohledně řízení něco doučit, navštiv [color=#4169E1][b]mého bratra[/b][/color] v [color=#008000][b]Centru pilování řidičských dovedností ETK[/b][/color].",
     "scenarios.utah.chapter_1.chapter_1_jump.description": "Katapultuj své auto z velkého skokánku a snaž se udělat z terče placku.",
     "scenarios.utah.prototype.arrival.description": "Zdar nováčku, konečně jsi dorazil do [color=#008000][b]Utahu[/b][/color]. [color=#FFA500][b]Přijď za mnou[/b][/color] do [color=#008000][b]AJ Auto Reparation[/b][/color], ať vidím, jestli za něco stojíš, nebo jestli jsi budižkničemu, který svou káru rozmlátí hnedka, co do ní usedne.",
-    "scenarios.italy.pizzaDelivery1.portraitText": "Hej, chlapče! Šéf chce, abys po městě rozházel nějaké pizzy. Máš na to míň jak tři minuty, a tentokrát u zákazníků vážně zastav! Jo a ve městě se koná nějaký protest, takže budeš muset trochu improvizovat. Věřím, že si vzpomínáš na všechny ty staré zkratky..."
+    "scenarios.italy.pizzaDelivery1.portraitText": "Hej, chlapče! Šéf chce, abys po městě rozházel nějaké pizzy. Máš na to míň jak tři minuty, a tentokrát u zákazníků vážně zastav! Jo a ve městě se koná nějaký protest, takže budeš muset trochu improvizovat. Věřím, že si vzpomínáš na všechny ty staré zkratky...",
+    "scenarios.italy.pizzaDelivery1.success_slow": "Poslyš, ty ten rozvoz stíháš jen tak tak!",
+    "quickrace.gridmap.bigo.description": "Tento okruh se širokými klopenými zatáčkami byl navržen pro testování maximálních rychlostí. Zatáčej zlehka, ať neztrácíš rychlost před najetím do dalšího rovného úseku.",
+    "scenarios.italy.pizzaDelivery1.fail_time": "Trvalo ti to příliš dlouho...",
+    "scenarios.italy.pizzaDelivery1.fail_stop": "Nezastavil jsi u zákazníka!",
+    "scenarios.italy.pizzaDelivery1.success_fast": "Hej, běž nabídnout těm protestujícím trochu pizzy. Možná pak zmlknou!"
 }
