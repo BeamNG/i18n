@@ -2054,7 +2054,7 @@
     "scenarios.utah.prototype.arrival.timeLimit.msg": "Je to vážně tak obtížné? Možná bys měl hrát jenom nějaké nenáročné arkádové závodní hry, co říkáš?",
     "scenarios.utah.prototype.arrival.position.msg": "Je to vážně tak obtížné? Možná bys měl hrát jenom nějaké nenáročné arkádové závodní hry, co říkáš?",
     "scenarios.italy.pizzaDelivery1.title": "Rozvoz pizzy",
-    "scenarios.italy.pizzaDelivery1.description": "Rozvážej pizzu po dané trase přes město.",
+    "scenarios.italy.pizzaDelivery1.description": "Rozvážej pizzu po dané trase městem.",
     "scenarios.utah.chapter_1.chapter_1_jump.pass.msg": "Dobrý skok",
     "scenarios.utah.chapter_1.chapter_1_jump.timeLimit.msg": "Trvalo ti to déle než {{timeLimit}} sekund",
     "scenarios.utah.chapter_1.chapter_1_ramcliff.fail.msg": "Nepodařilo se ti shodit obě dvě vozidla z útesu",
