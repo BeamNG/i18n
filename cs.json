@@ -2049,5 +2049,6 @@
     "scenarios.utah.chapter_1.chapter_1_highway.title": "Dálnice",
     "scenarios.utah.chapter_1.chapter_1_highway.timeLimit.msg": "Trvalo ti to déle než {{timeLimit}} sekund",
     "scenarios.utah.chapter_1.chapter_1_highway.fail.msg": "Musíš překonat zátaras",
-    "scenarios.utah.chapter_1.chapter_1_hilldrop.description": "Sjeď s kamionem bez přívěsu dolů po strmé cestě a pokračuj s ním co nejdál v jízdě kaňonem. Máš na to 20 sekund."
+    "scenarios.utah.chapter_1.chapter_1_hilldrop.description": "Sjeď s kamionem bez přívěsu dolů po strmé cestě a pokračuj s ním co nejdál v jízdě kaňonem. Máš na to 20 sekund.",
+    "scenarios.utah.chapter_1.chapter_1_hilldrop.timeLimit.msg": "Trvalo ti to déle než {{timeLimit}} sekund"
 }
