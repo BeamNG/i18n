@@ -2066,5 +2066,7 @@
     "quickrace.gridmap.bigo.description": "Tento okruh se širokými klopenými zatáčkami byl navržen pro testování maximálních rychlostí. Zatáčej zlehka, ať neztrácíš rychlost před najetím do dalšího rovného úseku.",
     "scenarios.italy.pizzaDelivery1.fail_time": "Trvalo ti to příliš dlouho...",
     "scenarios.italy.pizzaDelivery1.fail_stop": "Nezastavil jsi u zákazníka!",
-    "scenarios.italy.pizzaDelivery1.success_fast": "Hej, běž nabídnout těm protestujícím trochu pizzy. Možná pak zmlknou!"
+    "scenarios.italy.pizzaDelivery1.success_fast": "Hej, běž nabídnout těm protestujícím trochu pizzy. Možná pak zmlknou!",
+    "quickrace.utah.canyon_race.title": "Smíšená dráha 1",
+    "quickrace.utah.canyon_race.description": "Tato dráha začíná v úzkých kaňonových cestách, poté sestupuje na hliněný úsek s dálniční projížďkou na konci."
 }
