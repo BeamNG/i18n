@@ -2074,5 +2074,7 @@
     "quickrace.utah.deadManLoop.description": "Převážně šotolinový okruh podél nebezpečných útesů.",
     "quickrace.utah.asphaltHillclimb.title": "Závody do vrchu na asfaltu",
     "quickrace.utah.deadManLoop.title": "Smyčka mrtvého muže",
-    "quickrace.utah.oldMillLoop.title": "Okruh Starý Mlýn"
+    "quickrace.utah.oldMillLoop.title": "Okruh Starý Mlýn",
+    "quickrace.utah.asphaltHillclimb.description": "Rychlostní závod po asfaltu na vrchol mesy.",
+    "quickrace.utah.oldMillLoop.description": "Štěrkový okruh kolem mes a kaňonů začínající u starého mlýna."
 }
