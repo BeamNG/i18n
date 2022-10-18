@@ -2038,5 +2038,16 @@
     "scenarios.utah.chapter_1.chapter_1_crawl.title": "Těžký terén",
     "scenarios.utah.chapter_1.chapter_1_cannon.damage.msg": "Zničil jsi auto během {{timeStr}}",
     "scenarios.utah.chapter_1.chapter_1_cliffjump.altitude.fail.msg": "Propadl ses pouze o {{altitude}} m, potřebuješ aspoň 30 m",
-    "scenarios.utah.chapter_1.chapter_1_drag.title": "Závod dragsterů"
+    "scenarios.utah.chapter_1.chapter_1_drag.title": "Závod dragsterů",
+    "scenarios.utah.chapter_1.chapter_1_drag.fail.msg": "Nedokončil jsi závod",
+    "scenarios.utah.chapter_1.chapter_1_highway.pass.msg": "Zátaras překonán",
+    "scenarios.utah.chapter_1.chapter_1_cannon.fail.msg": "Vedle jak ta jedle",
+    "scenarios.utah.chapter_1.chapter_1_crawl.description": "Vyšplhej na vrchol kopce přes množství náročných překážek.",
+    "scenarios.utah.chapter_1.chapter_1_crawl.fail.msg": "Nedokončil jsi minimálně jeden úsek",
+    "scenarios.utah.chapter_1.chapter_1_crawl.pass.msg": "Dobrý pokus",
+    "scenarios.utah.chapter_1.chapter_1_drag.description": "Náročný závod v akceleraci proti výkonnému, nicméně špatně udržovanému závoďáku.",
+    "scenarios.utah.chapter_1.chapter_1_highway.title": "Dálnice",
+    "scenarios.utah.chapter_1.chapter_1_highway.timeLimit.msg": "Trvalo ti to déle než {{timeLimit}} sekund",
+    "scenarios.utah.chapter_1.chapter_1_highway.fail.msg": "Musíš překonat zátaras",
+    "scenarios.utah.chapter_1.chapter_1_hilldrop.description": "Sjeď s kamionem bez přívěsu dolů po strmé cestě a pokračuj s ním co nejdál v jízdě kaňonem. Máš na to 20 sekund."
 }
