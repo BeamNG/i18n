@@ -102,8 +102,8 @@
     "quickrace.industrial.track_ri_eight.title": "Průmyslová Osmička",
     "quickrace.industrial.track_ri_highspeed.title": "Průmyslová vysokorychlostka",
     "quickrace.industrial.track_rt_long.title": "Dlouhý závodní okruh",
-    "quickrace.jungle_rock_island.jri_hillclimb.description": "Silniční závod na vrchol hory. Všude samé ostré zatáčky a nebezpečné srázy.",
-    "quickrace.jungle_rock_island.jri_rally_port.description": "Šotolinový závod skrze zarostlou džungli, končící v opuštěném přístavu.",
+    "quickrace.jungle_rock_island.jri_hillclimb.description": "Drsná asfaltka na vrchol hory. Všude samé ostré zatáčky a nebezpečné srázy.",
+    "quickrace.jungle_rock_island.jri_rally_port.description": "Drsná šotolinová etapa skrze zarostlou džungli, končící v  opuštěném přístavu.",
     "quickrace.utah.mix_asphalt.description": "Trasa sestávající se z dvouproudové dálnice a úzkých asfaltových vedlejších silnic. Vhodná pro různé typy vozidel.",
     "quickrace.utah.mix_asphalt.title": "Silniční trasa 1",
     "scenarios.Industrial.autocrosstest.title": "Test Autokrosu",
@@ -2076,5 +2076,10 @@
     "quickrace.utah.deadManLoop.title": "Smyčka mrtvého muže",
     "quickrace.utah.oldMillLoop.title": "Okruh Starý Mlýn",
     "quickrace.utah.asphaltHillclimb.description": "Rychlostní závod po asfaltu na vrchol mesy.",
-    "quickrace.utah.oldMillLoop.description": "Štěrkový okruh kolem mes a kaňonů začínající u starého mlýna."
+    "quickrace.utah.oldMillLoop.description": "Šotolinový okruh kolem mes a kaňonů začínající u starého mlýna.",
+    "quickrace.utah.riverRally.description": "Svižná rally podél řeky a přes spoustu brodů.",
+    "quickrace.jungle_rock_island.intro_jri_mountain_race.title": "Horská RZ",
+    "quickrace.jungle_rock_island.jri_rally_port.title": "Šotolinová RZ 1",
+    "quickrace.jungle_rock_island.jri_dirt_race.title": "Šotolinová RZ 2",
+    "quickrace.jungle_rock_island.jri_peninsula.title": "Poloostrovní RZ"
 }
