@@ -2033,5 +2033,10 @@
     "quickrace.east_coast_usa.town_b.title": "Pouliční dráha",
     "quickrace.east_coast_usa.rallycross.description": "Dlouhý závod vedoucí po hlinitých a asfaltových silnicích. Ideálně si vyber takové vozidlo, které je jako doma na obou druzích povrchů.",
     "quickrace.east_coast_usa.sawmill_long.title": "Dlouhý závod u pily",
-    "quickrace.gridmap.skycurve2.title": "Nebeská křivka 2"
+    "quickrace.gridmap.skycurve2.title": "Nebeská křivka 2",
+    "scenarios.utah.chapter_1.chapter_1_cliffjump.pass.msg": "Minimální hloubka dosažena",
+    "scenarios.utah.chapter_1.chapter_1_crawl.title": "Těžký terén",
+    "scenarios.utah.chapter_1.chapter_1_cannon.damage.msg": "Zničil jsi auto během {{timeStr}}",
+    "scenarios.utah.chapter_1.chapter_1_cliffjump.altitude.fail.msg": "Propadl ses pouze o {{altitude}} m, potřebuješ aspoň 30 m",
+    "scenarios.utah.chapter_1.chapter_1_drag.title": "Závod dragsterů"
 }
