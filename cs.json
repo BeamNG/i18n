@@ -2133,5 +2133,9 @@
     "quickrace.small_island.rally1.description": "Tento krátký úsek vede přes neudržovaný asfalt a šotolinové silnice.",
     "quickrace.industrial.track_ri_long.description": "Nejdelší trať v průmyslové zóně.",
     "quickrace.small_island.rally2.title": "Smíšená RZ 2",
-    "quickrace.small_island.rally2.description": "Tento delší úsek vede přes asfalt, štěrk a trochu i přes plážový písek."
+    "quickrace.small_island.rally2.description": "Tento delší úsek vede přes asfalt, štěrk a trochu i přes plážový písek.",
+    "quickrace.small_island.intro_round_circuitB.description": "Alternativní cesta kolem ostrova.",
+    "quickrace.small_island.intro_round_circuit.title": "Ostrovní okruh",
+    "quickrace.small_island.intro_round_circuit.description": "Trať kolem ostrova.",
+    "quickrace.small_island.intro_round_circuitB.title": "Alternativní ostrovní okruh"
 }
