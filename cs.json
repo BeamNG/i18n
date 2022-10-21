@@ -2155,5 +2155,7 @@
     "quickrace.driver_training.procTrack.windingSnake.title": "Hadovitá RZ",
     "quickrace.driver_training.procTrack.bigBasic.title": "Velká základní RZ",
     "quickrace.driver_training.procTrack.smallBasic.title": "Malá základní RZ",
-    "quickrace.driver_training.procTrack.wideGateCircuit.title": "Okruh Široká Brána"
+    "quickrace.driver_training.procTrack.wideGateCircuit.title": "Okruh Široká Brána",
+    "quickrace.driver_training.procTrack.randomized.description": "Vytvoří procedurálně generovanou, zcela náhodnou trať. Většina parametrů je nastavena na náhodnou hodnotu, což vytvoří bláznivou, mnohdy sebeprotínající se trať. Kvůli náhodnosti mohou některé předvolby vytvořit defektní trať.",
+    "quickrace.driver_training.procTrack.windingSnake.description": "Vytvoří procedurálně generovanou klikatou trať."
 }
