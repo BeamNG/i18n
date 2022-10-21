@@ -98,7 +98,7 @@
     "levels.utah.spawnpoints.parkingLot": "Parkoviště",
     "levels.utah.spawnpoints.westHighway": "Západní dálnice",
     "levels.utah_offroad_park.info.biome": "poušť",
-    "quickrace.hirochi_raceway.shortcircuit1.title": "Krátký okruh",
+    "quickrace.hirochi_raceway.shortcircuit1.title": "Krátký závodní okruh",
     "quickrace.industrial.track_ri_eight.title": "Průmyslová Osmička",
     "quickrace.industrial.track_ri_highspeed.title": "Průmyslová vysokorychlostka",
     "quickrace.industrial.track_rt_long.title": "Dlouhý závodní okruh",
@@ -2094,5 +2094,12 @@
     "quickrace.jungle_rock_island.jri_portshakedown.title": "Shakedown v přístavu",
     "quickrace.jungle_rock_island.jri_dirt_loop.description": "Dlouhý okruh kolem ostrova, převážně z šotolinových silnic.",
     "quickrace.hirochi_raceway.mediumcircuit1.description": "Střední konfigurace závodní dráhy Hirochi. Zahrnuje ostrou šikanu.",
-    "quickrace.industrial.track_rc_eight.title": "Smíšená osma"
+    "quickrace.industrial.track_rc_eight.title": "Smíšená osma",
+    "quickrace.hirochi_raceway.forgotten_raceway.title": "Zapomenutá závodní dráha",
+    "quickrace.hirochi_raceway.fullcircuit1.title": "Dlouhý závodní okruh",
+    "quickrace.hirochi_raceway.fullcircuit1.description": "Delší konfigurace závodní dráhy Hirochi. Vhodnější pro silnější vozidla.",
+    "quickrace.hirochi_raceway.mediumcircuit1.title": "Střední závodní okruh",
+    "quickrace.industrial.track_rc_eight.description": "Štěrkový a asfaltový okruh ve tvaru osmičky.",
+    "quickrace.hirochi_raceway.shortcircuit1.description": "Kratší konfigurace závodní dráhy Hirochi. Vhodnější pro méně silná vozidla.",
+    "quickrace.hirochi_raceway.forgotten_raceway2.title": "Zapomenutá závodní dráha 2"
 }
