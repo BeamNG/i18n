@@ -2141,5 +2141,11 @@
     "quickrace.small_island.mountain_climb.title": "Zdolávání hory",
     "quickrace.small_island.mountain_climb.description": "Tato trať tě zavede nahoru a zase dolů z hory. Očekávej obtížnou jízdu přes kameny a strmé svahy!",
     "quickrace.small_island.rally3.title": "Smíšená RZ 3",
-    "quickrace.small_island.rally3.description": "Tahle rychlostka je pořádná výzva díky úzkým nezpevněným cestám skrze skalnatý střed ostrova."
+    "quickrace.small_island.rally3.description": "Tahle rychlostka je pořádná výzva díky úzkým nezpevněným cestám skrze skalnatý střed ostrova.",
+    "quickrace.driver_training.procTrack.randomized.title": "Náhodná trať",
+    "quickrace.driver_training.procTrack.squareCircuit.description": "Vytvoří procedurálně generovaný, téměř čtvercový okruh.",
+    "quickrace.driver_training.procTrack.squareCircuit.title": "Čtvercový okruh",
+    "quickrace.driver_training.procTrack.wideGateCircuit.description": "Vytvoří procedurálně generovaný okruh s dlouhou rovinou propojenou přes brány.",
+    "quickrace.west_coast_usa.rally_track.title": "Off-road okruh",
+    "quickrace.west_coast_usa.rally_track.description": "Tato hliněná trať ve tvaru osmičky zahrnuje několik skoku, drsný terén a nerovnou zem."
 }
