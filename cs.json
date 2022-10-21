@@ -99,7 +99,7 @@
     "levels.utah.spawnpoints.westHighway": "Západní dálnice",
     "levels.utah_offroad_park.info.biome": "poušť",
     "quickrace.hirochi_raceway.shortcircuit1.title": "Krátký závodní okruh",
-    "quickrace.industrial.track_ri_eight.title": "Průmyslová Osmička",
+    "quickrace.industrial.track_ri_eight.title": "Průmyslová Osma",
     "quickrace.industrial.track_ri_highspeed.title": "Průmyslová vysokorychlostní trať",
     "quickrace.industrial.track_rt_long.title": "Dlouhý závodní okruh",
     "quickrace.jungle_rock_island.jri_hillclimb.description": "Drsná asfaltka na vrchol hory. Všude samé ostré zatáčky a nebezpečné srázy.",
@@ -2126,5 +2126,6 @@
     "quickrace.industrial.track_ri_highspeed.description": "Nejrychlejší trasa v průmyslové zóně.",
     "quickrace.industrial.track_rt_curves.description": "Přesně jako obvodní okruh, ale začleňuje zpomalující úsek.",
     "quickrace.industrial.track_ri_sprint.title": "Průmyslová trať pro sprint",
-    "quickrace.industrial.track_ri_sprint.description": "Krátká, klikatá trať v průmyslové zóně."
+    "quickrace.industrial.track_ri_sprint.description": "Krátká, klikatá trasa v průmyslové zóně.",
+    "quickrace.small_island.rally1.title": "Smíšená RZ 1"
 }
