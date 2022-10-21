@@ -2101,5 +2101,7 @@
     "quickrace.hirochi_raceway.mediumcircuit1.title": "Střední závodní okruh",
     "quickrace.industrial.track_rc_eight.description": "Štěrkový a asfaltový okruh ve tvaru osmičky.",
     "quickrace.hirochi_raceway.shortcircuit1.description": "Kratší konfigurace závodní dráhy Hirochi. Vhodnější pro méně silná vozidla.",
-    "quickrace.hirochi_raceway.forgotten_raceway2.title": "Zapomenutá závodní dráha 2"
+    "quickrace.hirochi_raceway.forgotten_raceway2.title": "Zapomenutá závodní dráha 2",
+    "quickrace.hirochi_raceway.forgotten_raceway.description": "Závod vedoucí přes přístupové silnice obklopující závodní dráhu Hirochi Raceway. Dříve byly součástí závodního okruhu, ale dnes jsou tyto silnice lemovány stromy a elektrickými sloupy, které pro závodníky představují nebezpečí.",
+    "quickrace.hirochi_raceway.forgotten_raceway2.description": "Další závod vedoucí přes přístupové silnice obklopující závodní dráhu Hirochi Raceway. Dříve byly součástí závodního okruhu, ale dnes jsou tyto silnice lemovány stromy a elektrickými sloupy, které pro závodníky představují nebezpečí."
 }
