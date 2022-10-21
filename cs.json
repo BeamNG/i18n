@@ -2092,5 +2092,7 @@
     "quickrace.jungle_rock_island.jri_portshakedown.description": "Tato divoká časovka se vine skrz i okolo opuštěného přístavu. Kličkujte kolem překážek pro co nejlepší čas.",
     "quickrace.jungle_rock_island.jri_dirt_loop.title": "Ostrovní šotolinový okruh",
     "quickrace.jungle_rock_island.jri_portshakedown.title": "Shakedown v přístavu",
-    "quickrace.jungle_rock_island.jri_dirt_loop.description": "Dlouhý okruh kolem ostrova, nejčastěji se skládající z hliněných silnic."
+    "quickrace.jungle_rock_island.jri_dirt_loop.description": "Dlouhý okruh kolem ostrova, převážně z šotolinových silnic.",
+    "quickrace.hirochi_raceway.mediumcircuit1.description": "Střední konfigurace závodní dráhy Hirochi. Zahrnuje ostrou šikanu.",
+    "quickrace.industrial.track_rc_eight.title": "Smíšená osma"
 }
