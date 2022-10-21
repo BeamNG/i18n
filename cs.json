@@ -100,7 +100,7 @@
     "levels.utah_offroad_park.info.biome": "poušť",
     "quickrace.hirochi_raceway.shortcircuit1.title": "Krátký závodní okruh",
     "quickrace.industrial.track_ri_eight.title": "Průmyslová Osmička",
-    "quickrace.industrial.track_ri_highspeed.title": "Průmyslová vysokorychlostka",
+    "quickrace.industrial.track_ri_highspeed.title": "Průmyslová vysokorychlostní trať",
     "quickrace.industrial.track_rt_long.title": "Dlouhý závodní okruh",
     "quickrace.jungle_rock_island.jri_hillclimb.description": "Drsná asfaltka na vrchol hory. Všude samé ostré zatáčky a nebezpečné srázy.",
     "quickrace.jungle_rock_island.jri_rally_port.description": "Drsná šotolinová etapa skrze zarostlou džungli, končící v  opuštěném přístavu.",
@@ -2119,5 +2119,10 @@
     "quickrace.industrial.track_container_chaos.description": "Velmi náročná dráha s množstvím technických a vertikálních pasáží.",
     "quickrace.industrial.track_container_perimeter.description": "Náročný okruh vedoucí kolem vnější oblasti s kontejnery, který vyžaduje precizní řízení.",
     "quickrace.industrial.track_rt_perimeter.title": "Obvodový závodní okruh",
-    "quickrace.industrial.track_rt_perimeter.description": "Rychlejší konfigurace vedoucí po obvodu."
+    "quickrace.industrial.track_rt_perimeter.description": "Rychlejší konfigurace vedoucí po obvodu.",
+    "quickrace.industrial.track_rt_west.description": "Trasa na západní straně.",
+    "quickrace.industrial.track_rt_long.description": "Nejdelší trasa, začleňuje i vnitřní okruh.",
+    "quickrace.industrial.track_rt_curves.title": "Klikatý závodní okruh",
+    "quickrace.industrial.track_ri_highspeed.description": "Nejrychlejší trať v průmyslové zóně.",
+    "quickrace.industrial.track_rt_curves.description": "Přesně jako obvodní okruh, ale začleňuje zpomalující úsek."
 }
