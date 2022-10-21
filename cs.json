@@ -2108,5 +2108,11 @@
     "quickrace.industrial.track_rc_short.description": "Krátká šotolinová a asfaltová konfigurace.",
     "quickrace.industrial.track_rc_perimeter.description": "Šotolinová a asfaltová konfigurace vedoucí po obvodu.",
     "quickrace.industrial.track_rc_sprint.description": "Delší šotolinová a asfaltová konfigurace.",
-    "quickrace.industrial.track_rc_perimeter.title": "Obvodový smíšený okruh"
+    "quickrace.industrial.track_rc_perimeter.title": "Obvodový smíšený okruh",
+    "quickrace.industrial.track_rc_short.title": "Krátký smíšený okruh.",
+    "quickrace.industrial.track_rt_west.title": "Západní závodní okruh.",
+    "quickrace.industrial.track_rc_west.title": "Západní smíšený okruh",
+    "quickrace.industrial.track_rc_west.description": "Trasa používající pouze asfaltovou část Smíšeného okruhu.",
+    "quickrace.industrial.track_rt_short.title": "Krátký závodní okruh",
+    "quickrace.industrial.track_rt_short.description": "Krátká trasa."
 }
