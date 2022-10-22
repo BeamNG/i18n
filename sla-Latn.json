@@ -1,7 +1,7 @@
 {
     "engine.welcome": "Dobrodošli do BeamNG.drive na medžuslovjanskom jezyku :)",
     "engine.cef.subprocessdied.title": "Igrovy interfejs ne odpovědaje",
-    "engine.lua.reloaded": "Glavny prědmet LUA byl prědodan",
+    "engine.lua.reloaded": "Glavny prědmet LUA byl dostavjeny iznova",
     "extensions.scenario.damageGoal.fail.msg": "Vaš avtomobil jest poškodženy",
     "extensions.scenario.speedGoal.fail.msg": "Vaša brzost različaje se od potrěbnoj",
     "extensions.scenario.drift.failedGoal": "Vy potrěbujete nabrati ne menje, než {{minDrift}} pointov drifta.",
@@ -249,5 +249,7 @@
     "scenarios.utah.canyon_race.description": "Dolgy put po kanjonam i dolinam Jutahy",
     "scenarios.utah.canyon_jump.description": "Skakajte po unikalnym geologičnym objektam štata Jutah tako vysoko i daleko, kako možete. Vy budete jehati vnědražnoju modifikacijeju avtomobila Gavril H15.",
     "scenarios.utah.downhill_rally.description": "Izprobujte rali modifikaciju avtomobila ETK-I na směšanom maršrutu po štatu Jutah.",
-    "levels.driver_training.info.description": "Moderna škola šoferov, ktora je položena někde v Němeciji."
+    "levels.driver_training.info.description": "Moderna škola šoferov, ktora je položena někde v Němeciji.",
+    "engine.editor.menu.edit": "Redaktovati",
+    "engine.msgboxErrorTitle": "Pogrěška"
 }
