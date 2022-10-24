@@ -263,5 +263,6 @@
     "engine.levelModified.msg": "Uravenj byl izměnjen v redaktoru. Hočete li zapisati izměnjenja?",
     "engine.nodegrab.fixedwarning": "CTRL + srědnja knopka myši daby odkrepiti vuzly",
     "engine.nodegrab.uncoupling": "Odsjedinjenje vseh prikrěpjenyh vuzlov",
-    "engine.fatalError.experienced2": "\n\n\nV BeamNG.drive stala se kritična pogrěška."
+    "engine.fatalError.experienced2": "\n\n\nV BeamNG.drive stala se kritična pogrěška.",
+    "scenarios.utah.downhill_rally.title": "Spustno ralli"
 }
