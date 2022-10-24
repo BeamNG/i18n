@@ -251,5 +251,17 @@
     "scenarios.utah.downhill_rally.description": "Izprobujte rali modifikaciju avtomobila ETK-I na směšanom maršrutu po štatu Jutah.",
     "levels.driver_training.info.description": "Moderna škola šoferov, ktora je položena někde v Němciji.",
     "engine.editor.menu.edit": "Redaktovati",
-    "engine.msgboxErrorTitle": "Pogrěška"
+    "engine.msgboxErrorTitle": "Pogrěška",
+    "engine.nodegrab.coupling": "Sjedinjenje vseh vuzlov",
+    "engine.fatalError.errMsg": "KRITIČNA POGRĚŠKA: ",
+    "engine.resourceMissing": "Ne udalo se stvoriti resurs(či fajl ne jestvuje?): ",
+    "engine.engineFail": "Grěška inicializacije, izhodimo iz igry.",
+    "engine.invalidUserpath.title": "Nepravilny adres foldera koristnika",
+    "engine.invalidUserpath.msg": "BeamNG.drive ne može dostati dostup do adresa, ktory je naznačeny v fajlu startup.ini (folder igry). Naznačite pravilny adres: ",
+    "engine.windowedModeReq.title": "Potrěbny jest okonny režim",
+    "engine.levelModified.title": "Uravenj byl izměnjen",
+    "engine.levelModified.msg": "Uravenj byl izměnjen v redaktoru. Hočete li zapisati izměnjenja?",
+    "engine.nodegrab.fixedwarning": "CTRL + srědnja knopka myši daby odkrepiti vuzly",
+    "engine.nodegrab.uncoupling": "Odsjedinjenje vseh prikrěpjenyh vuzlov",
+    "engine.fatalError.experienced2": "\n\n\nV BeamNG.drive stala se kritična pogrěška."
 }
