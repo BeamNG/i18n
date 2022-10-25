@@ -305,5 +305,7 @@
     "levels.common.country.germany": "Nemcija",
     "scenarios.italy.pizzaDelivery1.title": "Dovoz pice",
     "levels.italy.info.title": "Italija",
-    "levels.italy.info.description": "Neveliky italijansky ostrov s lěpym primorjem, selami i vinogradnikami."
+    "levels.italy.info.description": "Neveliky italijansky ostrov s lěpym primorjem, selami i vinogradnikami.",
+    "launchercpp.setting_parse_err_title": "Nepravilny fajl",
+    "launchercpp.firewall_err_title": "Pogrěška firevalla"
 }
