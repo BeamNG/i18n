@@ -298,5 +298,7 @@
     "scenarios.jungle_rock_island.jri_chase.distance.msg": "Zločinec uběgl od vas",
     "ui.performance.gpu": "Videokarta (GPU)",
     "ui.performance.link.graphicsOptions": "Regulacije grafiky",
-    "ui.performance.laptopGPU.msg": "Ako vaš laptop imaje diskretnu videokartu, vy možete ju vključiti v menju regulacij videa [url=https://wiki.beamng.com/Dedicated_Graphics]«Poučenja»[/url]"
+    "ui.performance.laptopGPU.msg": "Ako vaš laptop imaje diskretnu videokartu, vy možete ju vključiti v menju regulacij videa [url=https://wiki.beamng.com/Dedicated_Graphics]«Poučenja»[/url]",
+    "launchercpp.launchgame_fail_clipboard": "{0} ne udavaje se startovati igru - Pogrěška {1} {2} unable to start game - Error {1} {2}",
+    "launchercpp.chkreq_winver_nt61_nosp": "Vaš Windows 7 ne jest aktualizovany. Potrěbna jest aktualizacija Service Pack 1 daby startovati BeamNG.drive"
 }
