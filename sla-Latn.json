@@ -338,5 +338,6 @@
     "engine.editor.menu.importTerrainHeightmap": "Importovati mapu vysot krajevida",
     "engine.editor.menu.select": "Izbrati…",
     "engine.editor.menu.gameCamera": "Igrova kamera",
-    "engine.editor.menu.smoothedCamera": "So zagladženjem"
+    "engine.editor.menu.smoothedCamera": "So zagladženjem",
+    "engine.editor.menu.smoothedRotateCamera": "So sgladženjem i kruženjem"
 }
