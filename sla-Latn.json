@@ -348,5 +348,15 @@
     "engine.editor.menu.camera.right": "Pravo",
     "engine.editor.menu.camera.perspective": "Perspektiva",
     "engine.editor.menu.camera.isometric": "Izometrija",
-    "engine.editor.menu.cameraspeed": "Brzost kamery"
+    "engine.editor.menu.cameraspeed": "Brzost kamery",
+    "engine.editor.menu.cameraspeed.normal": "Normalno",
+    "engine.editor.menu.cameraspeed.faster": "Bystrěje",
+    "engine.editor.menu.cameraspeed.fast": "Bystra",
+    "engine.editor.menu.cameraspeed.fastest": "Najbystrějša",
+    "engine.editor.menu.toggleCamModes": "Izměniti režim kamery",
+    "engine.editor.menu.worldCamera": "Kamera světa",
+    "engine.editor.menu.cameraspeed.slowest": "najmedlějša",
+    "engine.editor.menu.cameraspeed.slow": "Medla",
+    "engine.editor.menu.cameraspeed.slower": "Medlěje",
+    "engine.editor.menu.toggleCamera": "Vključiti/odkjučiti lětajuču kameru"
 }
