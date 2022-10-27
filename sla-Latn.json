@@ -358,5 +358,9 @@
     "engine.editor.menu.cameraspeed.slowest": "najmedlějša",
     "engine.editor.menu.cameraspeed.slow": "Medla",
     "engine.editor.menu.cameraspeed.slower": "Medlěje",
-    "engine.editor.menu.toggleCamera": "Vključiti/odkjučiti lětajuču kameru"
+    "engine.editor.menu.toggleCamera": "Vključiti/odkjučiti lětajuču kameru",
+    "engine.editor.menu.placeCameraPlayer": "Razměstiti kameru na igraču",
+    "engine.editor.menu.placePlayerCamera": "Razměstiti igrača na kamerě",
+    "engine.editor.menu.cameraTranslation": "Prěobraženje kamery",
+    "engine.editor.menu.speed": "Brzost"
 }
