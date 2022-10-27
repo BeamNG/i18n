@@ -339,5 +339,14 @@
     "engine.editor.menu.select": "Izbrati…",
     "engine.editor.menu.gameCamera": "Igrova kamera",
     "engine.editor.menu.smoothedCamera": "So zagladženjem",
-    "engine.editor.menu.smoothedRotateCamera": "Povrat s zagladženjem"
+    "engine.editor.menu.smoothedRotateCamera": "Povrat s zagladženjem",
+    "engine.editor.menu.camera.top": "Vrh",
+    "engine.editor.menu.camera.bottom": "Dno",
+    "engine.editor.menu.camera.front": "Sprědu",
+    "engine.editor.menu.camera.back": "Zad",
+    "engine.editor.menu.camera.left": "Lěvo",
+    "engine.editor.menu.camera.right": "Pravo",
+    "engine.editor.menu.camera.perspective": "Perspektiva",
+    "engine.editor.menu.camera.isometric": "Izometrija",
+    "engine.editor.menu.cameraspeed": "Brzost kamery"
 }
