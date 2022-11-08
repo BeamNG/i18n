@@ -537,5 +537,16 @@
     "ui.options.traffic.trafficSetup.tooltip": "Izbiraje, kaky avtomobily budut v ruhu(umny režim koristaje specifične avtomobily za tutoj kraj)",
     "scenarios.driver_training.driver_training.training_slalom.description": "Slalom je težka disciplina za ovladyvanje. Nauči se čuti vagu tvojego avtomobila kogdy obhodiš konusy",
     "scenarios.driver_training.driver_training.training_slalom.nomove.msg": "Ty jesi udaril konus, poprobuj ješče jedin raz.",
-    "scenarios.driver_training.driver_training.training_rwd.description": "Bruckell Moonhawk jezdi kako lodka, tomu ako budeš dovezti se do konca v prvy raz, ty budeš lěpši od boljšesti mojih studentov."
+    "scenarios.driver_training.driver_training.training_rwd.description": "Bruckell Moonhawk jezdi kako lodka, tomu ako budeš dovezti se do konca v prvy raz, ty budeš lěpši od boljšesti mojih studentov.",
+    "launchercpp.main_play": "Startovati igru\nProsto nasladžajte se BeamNG.drive",
+    "launchercpp.main_btn_force64": "Startovati igru v režimu 64Bit \nPrinuždeno startovanje v režimu 64Bit",
+    "launchercpp.main_content": "Prosimo, izberite jedin iz slědujučih variantov:",
+    "launchercpp.main_instruction": "BeamNG.drive Launcher",
+    "launchercpp.moveuserfolder_overwrite_title": "Akcija ne je možlivoj",
+    "ui.loadingScreen.tips": "RADA",
+    "general.time_format": "dd MM rrrr",
+    "December": "Sněženj",
+    "ui.options.controls.bindings.VehicleDebug": "Debug avtomobila",
+    "ui.options.controls.bindings.GeneralDebug": "Generalny Debug",
+    "ui.options.controls.bindings.Editor": "Redaktor"
 }
