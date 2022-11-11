@@ -548,5 +548,16 @@
     "December": "Sněženj",
     "ui.options.controls.bindings.VehicleDebug": "Debug avtomobila",
     "ui.options.controls.bindings.GeneralDebug": "Generalny Debug",
-    "ui.options.controls.bindings.Editor": "Redaktor"
+    "ui.options.controls.bindings.Editor": "Redaktor",
+    "ui.mainmenu.mods.desciptionUnavailable": "Opis ne je dostupny",
+    "ui.trackBuilder.saveLoad.description": "Opis",
+    "ui.levelselect.description": "Opis",
+    "scenarios.derby.concrete_derby.description": "Izigryvaje poslědnji avtomobil, ktory ješče može jehati. Razbij avtomobily drugov, ale usiluj shraniti svoj!",
+    "scenarios.derby.variedground_derby.description": "Izigryvaje poslědnji avtomobil, ktory ješče može jehati. Razbij avtomobily drugov, ale usiluj shraniti svoj!",
+    "scenarios.derby.regular_derby.description": "Izigryvaje poslědnji avtomobil, ktory ješče može jehati. Razbij avtomobily drugov, ale usiluj shraniti svoj!",
+    "scenarios.derby.fourway_derby.description": "Izigryvaje poslědnji avtomobil, ktory ješče može jehati. Razbij avtomobily drugov, ale usiluj shraniti svoj!",
+    "scenarios.derby.mudpit_derby.description": "Izigryvaje poslědnji avtomobil, ktory ješče može jehati. Razbij avtomobily drugov, ale usiluj shraniti svoj!",
+    "scenarios.driver_training.driver_training.training_easycircuit.description": "Jesm izrabil za tebe trasu, da bys mogl potrenovati vse, čto ty jesi izučil. To ne bude težko: 2 kola, bez vsakyh surprizov.",
+    "scenarios.derby.derby_test.description": "Šablonny scenarij, ne za publične versije. Izigryvaje poslědnji avtomobil, ktory ješče može jehati. Razbij avtomobily drugov, ale usiluj shraniti svoj!",
+    "scenarios.driver_training.driver_training.training_tightroad.description": "Ty jesi smogl ovladnuti hudožstvom povračenja se vlěvo, ale budeš li ty smogti provezti se črěz vuzke ulice? Izberi optimalnu bystrost za těsne povraty."
 }
