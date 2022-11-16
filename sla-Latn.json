@@ -559,5 +559,7 @@
     "scenarios.derby.mudpit_derby.description": "Izigryvaje poslědnji avtomobil, ktory ješče može jehati. Razbij avtomobily drugov, ale usiluj shraniti svoj!",
     "scenarios.driver_training.driver_training.training_easycircuit.description": "Jesm izrabil za tebe trasu, da bys mogl potrenovati vse, čto ty jesi izučil. To ne bude težko: 2 kola, bez vsakyh surprizov.",
     "scenarios.derby.derby_test.description": "Šablonny scenarij, ne za publične versije. Izigryvaje poslědnji avtomobil, ktory ješče može jehati. Razbij avtomobily drugov, ale usiluj shraniti svoj!",
-    "scenarios.driver_training.driver_training.training_tightroad.description": "Ty jesi smogl ovladnuti hudožstvom povračenja se vlěvo, ale budeš li ty smogti provezti se črěz vuzke ulice? Izberi optimalnu bystrost za těsne povraty."
+    "scenarios.driver_training.driver_training.training_tightroad.description": "Ty jesi smogl ovladnuti hudožstvom povračenja se vlěvo, ale budeš li ty smogti provezti se črěz vuzke ulice? Izberi optimalnu bystrost za těsne povraty.",
+    "scenarios.italy.fg-gravity.title": "Gravitacijno palivo",
+    "scenarios.italy.fg-gravity.description": "U vas skončilo se palivo. Spustite se do palivnoj stancije, a potom vratite se do vrha, aby doručiti avtomobil!"
 }
