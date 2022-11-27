@@ -561,5 +561,15 @@
     "scenarios.derby.derby_test.description": "Šablonny scenarij, ne za publične versije. Izigryvaje poslědnji avtomobil, ktory ješče može jehati. Razbij avtomobily drugov, ale usiluj shraniti svoj!",
     "scenarios.driver_training.driver_training.training_tightroad.description": "Ty jesi smogl ovladnuti hudožstvom povračenja se vlěvo, ale budeš li ty smogti provezti se črěz vuzke ulice? Izberi optimalnu bystrost za těsne povraty.",
     "scenarios.italy.fg-gravity.title": "Gravitacijno palivo",
-    "scenarios.italy.fg-gravity.description": "U vas skončilo se palivo. Spustite se do palivnoj stancije, a potom vratite se do vrha, aby doručiti avtomobil!"
+    "scenarios.italy.fg-gravity.description": "U vas skončilo se palivo. Spustite se do palivnoj stancije, a potom vratite se do vrha, aby doručiti avtomobil!",
+    "engine.cef.subprocessdied.msg": "Čas očekyvanja odpovědi od procesa interfejsa skončil se.\nTako byvaje, kogdy antivirus blokuje aplikaciju BeamNG.drive.ui.exe.\n\nVeče informacije možete dostati sde:\n\nhttp://wiki.beamng.com/Errors/Unresponsive_UI_Process\n\nHočete li vy otvoriti tu stranicu v prěgledkě?",
+    "ui.garage.tune.tuning": "Modifikovanje",
+    "ui.garage.tune.live": "Žive aktualizacije",
+    "scenarios.east_coast_usa.east_coast_chase_3.description": "Dogoni modifikovany Bruckell LeGran jeduči svojeju policijnoju Ibishu 200BX s turbirovanym motorom.",
+    "scenarios.utah.chapter_2.chapter_2_4_delivery.pass.msg": "Hvala za dovoz! Nakonec ja mogu vezti se dalje",
+    "scenarios.utah.chapter_2.chapter_2_4_delivery.fail.msg": "Tute detalje sut velmi potrěbne zakazniku!",
+    "ui.inputActions.menu.parts_selector.title": "Menju izbora detaljev",
+    "scenarios.utah.chapter_2.chapter_2_4_delivery.title": "Dovoz detaljev",
+    "scenarios.utah.chapter_2.chapter_2_4_delivery.description": "Pomoži dovezti detalje do druga.",
+    "ui.inputActions.menu.parts_selector.description": "Otvarjaje ekran konfiguracije avtomobila"
 }
