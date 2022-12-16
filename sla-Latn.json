@@ -621,5 +621,6 @@
     "ui.fonts.filename": "segoeui.ttf",
     "ui.fonts.secondary": "Noviny",
     "ui.fonts.mono": "Roboto Mono",
-    "ui.fonts.fallback": "Roboto"
+    "ui.fonts.fallback": "Roboto",
+    "ui.mainmenu.mods": "Mody"
 }
