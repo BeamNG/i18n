@@ -609,5 +609,17 @@
     "engine.editor.menu.resetSelRot": "Resetovati rotaciju izbranogo",
     "engine.editor.menu.resetSelScale": "Resetovati razměr izbranogo",
     "engine.editor.menu.transformSel": "Prěobraziti izbrano…",
-    "engine.editor.menu.dropSel": "Obniziti izbor"
+    "engine.editor.menu.dropSel": "Obniziti izbor",
+    "engine.editor.menu.dropLocation": "Spustiti poziciju",
+    "engine.editor.menu.makeSelPrefab": "Stvoriti šablon iz izbranyh elementov",
+    "engine.editor.menu.explodeSelPrefab": "Razděliti izbrany šablon",
+    "scenario.customExtensionLoadFailed": "Koristničska logika ne pracuje. Prěgledite časopis, daby uviděti grěšky: za to vam je potrěbno {{extName}}",
+    "extensions.scenario.damageGoal.checkDamage.win.msg": "{{damage}}% poškodženja",
+    "extensions.scenario.timeLimit.failedGoal": "zajelo vyše, než {{maxTime}}",
+    "extensions.scenario.speedGoal.countdown": "{{countdown}}...",
+    "extensions.campaign.exploration.mapHint": "Natisknite [action=toggle_minimap], daby pokazati mapu s dostupnymi misijami",
+    "ui.fonts.filename": "segoeui.ttf",
+    "ui.fonts.secondary": "Noviny",
+    "ui.fonts.mono": "Roboto Mono",
+    "ui.fonts.fallback": "Roboto"
 }
