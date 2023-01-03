@@ -3610,5 +3610,6 @@
     "ui.inputActions.vehicle_debug.reload_all_vehicles.description": "Diskten tüm araç dosyalarını yeniden yükler",
     "ui.inputActions.vehicle_debug.debugmode_nodetext_back.title": "Düğüm Bilgisini Değiştir (Tersine)",
     "ui.inputActions.vehicle_debug.reload_all_vehicles.title": "Tüm Araçları Yeniden Yükle",
-    "ui.inputActions.vehicle_debug.reload_vehicle.description": "Diskten araç dosyalarını yeniden yükler"
+    "ui.inputActions.vehicle_debug.reload_vehicle.description": "Diskten araç dosyalarını yeniden yükler",
+    "ui.inputActions.vehicle_debug.reload_vehicle.title": "Aracı yeniden yükle"
 }
