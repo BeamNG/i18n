@@ -3647,5 +3647,6 @@
     "ui.inputActions.citybus.toggle_jato.description": "JATO roketlerini açar ve kapatır",
     "ui.inputActions.citybus.toggle_jato.title": "JATO'yu Aç/Kapat",
     "ui.inputActions.citybus.toggle_kneel.description": "Aracı sağa doğru alçaltır",
-    "ui.inputActions.citybus.toggle_kneel.title": "Sağa doğru alçalt"
+    "ui.inputActions.citybus.toggle_kneel.title": "Sağa doğru alçalt",
+    "ui.inputActions.dryvan.toggle_doorL.description": "sol kargo kapısını açar/kapatır"
 }
