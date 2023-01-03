@@ -3682,5 +3682,9 @@
     "ui.inputActions.large_roller.rpm_decrease.description": "Devrini azaltır",
     "ui.inputActions.large_roller.rpm_increase.description": "Devrini arttırır",
     "ui.inputActions.large_spinner.rpm_decrease.description": "Devrini azaltır",
-    "ui.inputActions.large_spinner.rpm_increase.description": "Devrini arttırır"
+    "ui.inputActions.large_spinner.rpm_increase.description": "Devrini arttırır",
+    "ui.inputActions.large_crusher.openclose.title": "Aç & Kapat (eksen)",
+    "ui.inputActions.large_spinner.rpm_decrease.title": "Devri Azalt",
+    "ui.inputActions.large_spinner.rpm_increase.title": "Devri Artır",
+    "ui.inputActions.large_spinner.toggle_direction.description": "Yönü saat ve saat yönünün tersine çevirir"
 }
