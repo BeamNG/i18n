@@ -3846,5 +3846,9 @@
     "launchercpp.supporttool_verifyhash_txt": "Bu araç, hiçbir dosyanın bozuk veya eksik olmadığından emin olmak için oyun klasörünüzü tarar.\n\nİşlem birkaç dakika sürebilir.",
     "launchercpp.supporttool_btn_renderdebug": "İşleyici hata ayıklama günlüklerini etkinleştir\nİşleyici sırasında çökmelerle ilgili sorun yaşıyorsanız bunu kullanın.",
     "launchercpp.clearcache_msg_normal_txt": "Bu araç, önbelleğe alınmış tüm klasörleri silecek ve yanlış yerleştirilmiş dosyaları Kullanıcı klasörünüzden taşıyacaktır.\n\nÖnbelleği temizlemek, eksik dokular, materyaller ve benzerleriyle ilgili sorunlara yardımcı olabilir.\n\nİşlem, Kullanıcı klasörünüzün boyutuna bağlı olarak birkaç dakika sürebilir.",
-    "launchercpp.clearcache_msg_deep_txt": "Derin Önbellek temizliği yapmak üzeresiniz!\n\nYalnızca modlar ve özel konfigürasyonlar korunur. Geri kalan her şey bir yedekleme klasörüne taşınacaktır.\n\nBu, stok araçlar, haritalar, materyaller ve benzeri içeriklerle ilgili sorunlar yaşıyorsanız yardımcı olabilir.\n\nİşlem, Kullanıcı klasörünüzün boyutuna bağlı olarak birkaç dakika sürebilir.\n\nDevam etmek istiyor musunuz?"
+    "launchercpp.clearcache_msg_deep_txt": "Derin Önbellek temizliği yapmak üzeresiniz!\n\nYalnızca modlar ve özel konfigürasyonlar korunur. Geri kalan her şey bir yedekleme klasörüne taşınacaktır.\n\nBu, stok araçlar, haritalar, materyaller ve benzeri içeriklerle ilgili sorunlar yaşıyorsanız yardımcı olabilir.\n\nİşlem, Kullanıcı klasörünüzün boyutuna bağlı olarak birkaç dakika sürebilir.\n\nDevam etmek istiyor musunuz?",
+    "launchercpp.supporttool_btn_do": "Destek\nYardıma mı ihtiyacınız var? Bir şeyler çalışmıyor mu?\nSize Yardım Edelim :)",
+    "launchercpp.cleancache_interact_title": "Kullanıcı klasör önbelleği temizleniyor",
+    "launchercpp.cleancache_interact_rmempty": "Boş klasörler kaldırılıyor ...",
+    "launchercpp.cleancache_interact_done": "Kullanıcı klasöründeki tüm bilinmeyen dosyalar şuraya taşındı:\n'{0}'\nÖnbellek temizlendi."
 }
