@@ -3637,5 +3637,6 @@
     "ui.inputActions.cannon.shoot.description": "Top mermisini ateşler. Top'un tekrar ateşlenebilmesi için sıfırlanması gerekmektedir",
     "ui.inputActions.cannon.shoot.title": "Topu ateşle",
     "ui.inputActions.caravan.toggle_feet.description": "Römork krikosunu indirir/kaldırır",
-    "ui.inputActions.caravan.toggle_feet.title": "Römork Krikosu"
+    "ui.inputActions.caravan.toggle_feet.title": "Römork Krikosu",
+    "ui.inputActions.citybus.default_rideHeight.description": "aracın süspansiyon yüksekliğini standart konuma getirir"
 }
