@@ -3642,5 +3642,6 @@
     "ui.inputActions.citybus.default_rideHeight.title": "Varsayılan yükseklik",
     "ui.inputActions.citybus.max_rideHeight.description": "Aracın sürüş yüksekliğini maksimuma ayarlar",
     "ui.inputActions.citybus.max_rideHeight.title": "Maksimum yükseklik",
-    "ui.inputActions.citybus.toggle_doors.description": "kapıları açar ve kapatır"
+    "ui.inputActions.citybus.toggle_doors.description": "Kapıları açar ve kapatır",
+    "ui.inputActions.citybus.toggle_doors.title": "Kapıları Aç/Kapat"
 }
