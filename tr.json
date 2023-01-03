@@ -3694,6 +3694,6 @@
     "ui.inputActions.pickup.extend.title": "Kasayı uzat",
     "ui.inputActions.pickup.retract.description": "Kasayı öne toplar",
     "ui.inputActions.pickup.retract.title": "Kasayı topla",
-    "ui.inputActions.pickup.tilt.description": "Kasayı eğer",
+    "ui.inputActions.pickup.tilt.description": "Kasaya eğim verir",
     "ui.inputActions.pickup.tilt.title": "Yukarı/aşağı eğ"
 }
