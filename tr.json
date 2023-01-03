@@ -3615,5 +3615,6 @@
     "ui.inputActions.vehicle_debug.select_node_beam.description": "Seçili düğüm bilgisini gösterir",
     "ui.inputActions.vehicle_debug.select_node_beam.title": "Düğüm/Kiriş Seçimi",
     "ui.inputActions.bollard.blocker.description": "Yukarı/Aşağı",
-    "ui.inputActions.bollard.blocker.title": "yukarı/aşağı"
+    "ui.inputActions.bollard.blocker.title": "yukarı/aşağı",
+    "ui.inputActions.bollard.blockerIn.description": "yukarı"
 }
