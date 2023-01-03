@@ -3633,5 +3633,6 @@
     "ui.inputActions.cannon.liftUp.title": "Namluyu Kaldır",
     "ui.inputActions.cannon.liftUp.description": "Namluyu kaldırır",
     "ui.inputActions.cannon.lowerDown.description": "Namluyu indirir",
-    "ui.inputActions.cannon.lowerDown.title": "Namluyu indir"
+    "ui.inputActions.cannon.lowerDown.title": "Namluyu indir",
+    "ui.inputActions.cannon.shoot.description": "Top mermisini ateşler. Top'un tekrar ateşlenebilmesi için sıfırlanması gerekmektedir"
 }
