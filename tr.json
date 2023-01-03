@@ -3614,5 +3614,6 @@
     "ui.inputActions.vehicle_debug.reload_vehicle.title": "Aracı Yeniden Yükle",
     "ui.inputActions.vehicle_debug.select_node_beam.description": "Seçili düğüm bilgisini gösterir",
     "ui.inputActions.vehicle_debug.select_node_beam.title": "Düğüm/Kiriş Seçimi",
-    "ui.inputActions.bollard.blocker.description": "yukarı/aşağı"
+    "ui.inputActions.bollard.blocker.description": "yukarı/aşağı",
+    "ui.inputActions.bollard.blocker.title": "yukarı/aşağı"
 }
