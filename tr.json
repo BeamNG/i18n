@@ -3735,5 +3735,7 @@
     "ui.inputActions.shipping_container.toggle_doorL.description": "Sol kapıyı açar/kapatır",
     "ui.inputActions.shipping_container.toggle_doorL.title": "Sol Kapı",
     "ui.inputActions.shipping_container.toggle_doorR.description": "Sol kapıyı açar/kapatır",
-    "ui.inputActions.shipping_container.toggle_doorR.title": "Sağ Kapı"
+    "ui.inputActions.shipping_container.toggle_doorR.title": "Sağ Kapı",
+    "ui.inputActions.shipping_container.toggle_doors.description": "Kapıları açar/kapatır",
+    "ui.inputActions.shipping_container.toggle_doors.title": "Konteyner kapıları"
 }
