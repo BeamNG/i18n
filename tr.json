@@ -3612,5 +3612,6 @@
     "ui.inputActions.vehicle_debug.reload_all_vehicles.title": "Tüm Araçları Yeniden Yükle",
     "ui.inputActions.vehicle_debug.reload_vehicle.description": "Diskten araç dosyalarını yeniden yükler",
     "ui.inputActions.vehicle_debug.reload_vehicle.title": "Aracı Yeniden Yükle",
-    "ui.inputActions.vehicle_debug.select_node_beam.description": "Seçili köşe bilgisini gösterir"
+    "ui.inputActions.vehicle_debug.select_node_beam.description": "Seçili düğüm bilgisini gösterir",
+    "ui.inputActions.vehicle_debug.select_node_beam.title": "Düğüm/Kiriş Seçimi"
 }
