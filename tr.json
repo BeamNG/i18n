@@ -3731,5 +3731,7 @@
     "ui.inputActions.semi.toggle_doors.title": "Kargo kapıları",
     "ui.inputActions.semi.tiltDown.description": "Kasayı aşağı eğer",
     "ui.inputActions.semi.tiltUp.description": "Kasayı yukarı eğer",
-    "ui.inputActions.semi.toggle_doorR.description": "Sol kargo kapısını açar/kapatır"
+    "ui.inputActions.semi.toggle_doorR.description": "Sol kargo kapısını açar/kapatır",
+    "ui.inputActions.shipping_container.toggle_doorL.description": "Sol kapıyı açar/kapatır",
+    "ui.inputActions.shipping_container.toggle_doorL.title": "Sol kapı"
 }
