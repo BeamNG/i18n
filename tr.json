@@ -3692,7 +3692,7 @@
     "ui.inputActions.pickup.toggle_tailgate.title": "Bagaj kapağı",
     "ui.inputActions.pickup.extend.description": "Kasayı geriye uzatır",
     "ui.inputActions.pickup.extend.title": "Kasayı uzat",
-    "ui.inputActions.pickup.retract.description": "Kasayı öne topla",
+    "ui.inputActions.pickup.retract.description": "Kasayı öne toplar",
     "ui.inputActions.pickup.retract.title": "Kasayı topla",
     "ui.inputActions.pickup.tilt.description": "Kasayı eğer"
 }
