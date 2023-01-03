@@ -3690,5 +3690,7 @@
     "ui.inputActions.large_spinner.toggle_direction.title": "Yönü değiştir",
     "ui.inputActions.pickup.toggle_tailgate.description": "Bagaj kapağını açar/kapatır",
     "ui.inputActions.pickup.toggle_tailgate.title": "Bagaj kapağı",
-    "ui.inputActions.pickup.extend.description": "Kasayı arkaya uzatır"
+    "ui.inputActions.pickup.extend.description": "Kasayı arkaya uzatır",
+    "ui.inputActions.pickup.extend.title": "Kasayı uzat",
+    "ui.inputActions.pickup.retract.description": "Kasayı öne topla"
 }
