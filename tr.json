@@ -3669,5 +3669,10 @@
     "ui.inputActions.large_cannon.liftUp.description": "Namluyu kaldırır",
     "ui.inputActions.large_cannon.liftUp.title": "Namluyu Kaldır",
     "ui.inputActions.large_cannon.lowerDown.title": "Namluyu indir",
-    "ui.inputActions.large_cannon.lowerDown.description": "Namluyu indirir"
+    "ui.inputActions.large_cannon.lowerDown.description": "Namluyu indirir",
+    "ui.inputActions.kickplate.power_down.description": "Tekme plakası gücünü azaltır",
+    "ui.inputActions.kickplate.power_down.title": "Gücü azalt",
+    "ui.inputActions.kickplate.power_up.description": "Tekme plakası gücünü artırır",
+    "ui.inputActions.large_angletester.lift.title": "Yükselt/İndir",
+    "ui.inputActions.large_cannon.shoot.description": "Ateş mekanizmini çalıştırır"
 }
