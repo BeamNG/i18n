@@ -3800,7 +3800,7 @@
     "launchercpp.moveusr_do_insideold": "Seçtiğiniz yol, varsayılan veya eski kullanıcı yolunun içinde.\nHerhangi bir değişiklik yapılmayacak.",
     "launchercpp.moveusr_do_insideparentgame": "Seçtiğiniz yol, oyun klasörünün üst öğesidir.\nLütfen bir kardeş klasörü seçin.\nHerhangi bir değişiklik yapılmayacak.",
     "launchercpp.moveusr_do_insidedef": "Oyun zaten varsayılan yolu kullanmalıdır",
-    "launchercpp.moveusr_do_notempty_txt": "Yeni kullanıcı yolu boş bir klasör olmalıdır.\n\nVerileri kendiniz taşımayı veya 'Verileri taşı' seçeneğinin işaretini kaldırmayı düşünebilirsiniz.",
+    "launchercpp.moveusr_do_notempty_txt": "Yeni kullanıcı yolu boş bir klasör olmalıdır. \n\nVerileri kendiniz taşımayı veya 'Verileri taşı' seçeneğinin işaretini kaldırmayı düşünebilirsiniz",
     "launchercpp.moveusr_do_notempty_title": "Hedef yolu boş değil",
     "launchercpp.moveusr_do_tile": "Kullanıcı dosyaları taşınıyor",
     "launchercpp.moveusr_do_init": "Başlatılıyor ...",
@@ -3830,7 +3830,7 @@
     "ui.campaign.localPlayers": "Yerel oyuncular",
     "ui.campaign.requiresOneController": "Oyuncu başına bir kontrol aleti gerektirir",
     "launchercpp.moveuserfolder_overwrite_msg": "Oyunu belirli bir kullanıcı yolu ile başlatmak için bir komut argümanı kullanıyorsunuz.\nBu özelliği kullanmak istiyorsanız, bu komut argümanını kaldırmanız gerekir.",
-    "launchercpp.main_btn_supporttool": "Destek araçları\nOyunla ilgili problemler için sorun giderme araçları.",
+    "launchercpp.main_btn_supporttool": "Destek araçları\nOyunla ilgili problemler için sorun giderme araçları",
     "launchercpp.warn_lavasoft1": "Lavasoft Web Companion yüklü ve BeamNG.drive çalıştırılmadan önce  <A HREF=\"https://go.beamng.com/lavasoft\">bu yazılım</a> kaldırılmalıdır.",
     "launchercpp.warn_userpath_defaultfail2": "Lütfen sorunu düzeltmek için <A HREF=\"https://go.beamng.com/unusualProccessExit/0xE0000004_-_BNGBase::EXIT_ERR_USER_PATH_UNWRITABLE\">buradaki</a> yönergeleri izleyip uygulayın.",
     "launchercpp.moveusr_open": "Dosya Gezgini'nde aç\nKullanıcı yolunun içeriğini ve geçerli konumunu göstermek için bir gezgin penceresi açın.",
@@ -3842,7 +3842,7 @@
     "launchercpp.moveusr_do_nospace_txt": "Hedef sürücüde tüm verileri taşımak için yeterli boş alan yok.",
     "launchercpp.moveusr_do_filestat": "{0}/{1} Dosya taşınıyor, {2}/{3}",
     "launchercpp.moveusr_do_failmove": "Kullanıcı dosyaları taşınamadı.\nBaşlatıcı günlüğünü kontrol edin.\n\nDosya aktarımını manuel olarak tamamlamanız gerekir.\nYeni kullanıcı yolu ayarlanmadı",
-    "launchercpp.supporttool_safemode_txt": "Oyunu geçici bir Kullanıcı klasörü ile başlatır. Herhangi bir sorunla karşılaşırsanız tanılama amaçları için bu modu kullanın.\n\nOyununuz Güvenli Modda normal şekilde çalışıyorsa, sorunun nedeni yüklü modlardan biri olabilir.\n\nUYARI: Güvenli Moddayken yapılan değişiklikler oyun kapandıktan sonra kaydedilmez.",
+    "launchercpp.supporttool_safemode_txt": "Oyunu geçici bir Kullanıcı klasörü ile başlatır. Herhangi bir sorunla karşılaşırsanız tanılama amaçları için bu modu kullanın.\n\nOyununuz Güvenli Modda normal şekilde çalışıyorsa, sorunun nedeni yüklü modlardan biri olabilir.\n\nUYARI: Güvenli Moddayken yapılan değişiklikler oyun kapandıktan sonra kaydedilmez",
     "launchercpp.supporttool_verifyhash_txt": "Bu araç, hiçbir dosyanın bozuk veya eksik olmadığından emin olmak için oyun klasörünüzü tarar.\n\nİşlem birkaç dakika sürebilir.",
     "launchercpp.supporttool_btn_renderdebug": "İşleyici hata ayıklama günlüklerini etkinleştir\nİşleyici sırasında çökmelerle ilgili sorun yaşıyorsanız bunu kullanın.",
     "launchercpp.clearcache_msg_normal_txt": "Bu araç, önbelleğe alınmış tüm klasörleri silecek ve yanlış yerleştirilmiş dosyaları Kullanıcı klasörünüzden taşıyacaktır.\n\nÖnbelleği temizlemek, eksik dokular, materyaller ve benzerleriyle ilgili sorunlara yardımcı olabilir.\n\nİşlem, Kullanıcı klasörünüzün boyutuna bağlı olarak birkaç dakika sürebilir.",
@@ -3854,6 +3854,8 @@
     "launchercpp.cleancache_interact_manualreq": "Kullanıcı yolu, oyun klasörünün içinde bulunur. \nÖnbellek klasörlerini elle silmeniz gerekecek.",
     "launchercpp.integrity_error": "Bütünlük hatası",
     "launchercpp.integrity_chk": "Bütünlük kontrolü",
-    "launchercpp.integrity_read": "Karm dosyalar okunuyor....",
-    "launchercpp.integrity_chking": "Bütünlük kontrol ediliyor..."
+    "launchercpp.integrity_read": "Sağlama dosyası okunuyor....",
+    "launchercpp.integrity_chking": "Bütünlük kontrol ediliyor...",
+    "launchercpp.integrity_missing_manifest": "Bütünlük doğrulanamadı, sağlama dosyası bulunamadı",
+    "launchercpp.integrity_parse_err_manifest": "json bütünlük dosyası ayrıştırılamıyor, kontrol etme iptal edildi"
 }
