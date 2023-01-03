@@ -3706,7 +3706,7 @@
     "ui.inputActions.rollover.increase_angle.description": "Kızak açısını arttırır",
     "ui.inputActions.rollover.increase_angle.title": "Kızak açısını arttır",
     "ui.inputActions.semi.decrease_rideHeight.title": "Yüksekliği azalt",
-    "ui.inputActions.semi.extend.title": "Uzatmak",
+    "ui.inputActions.semi.extend.title": "Uzat",
     "ui.inputActions.pickup.tiltDown.description": "Kasayı aşağı eğer",
     "ui.inputActions.pickup.tiltDown.title": "Kasayı aşağı eğ",
     "ui.inputActions.pickup.tiltUp.description": "Kasayı yukarı eğer",
@@ -3714,5 +3714,7 @@
     "ui.inputActions.pigeon.toggle_tailgate.title": "Bagaj Kapağı",
     "ui.inputActions.rollover.prepare.description": "Eğim açısını gösterir",
     "ui.inputActions.semi.decrease_rideHeight.description": "Aracın sürüş yüksekliğini varsayılan konuma getirir",
-    "ui.inputActions.semi.extend.description": "Kasayı geriye uzatır"
+    "ui.inputActions.semi.extend.description": "Kasayı geriye uzatır",
+    "ui.inputActions.semi.increase_rideHeight.description": "Aracın sürüş yüksekliğini varsayılan konuma getirir",
+    "ui.inputActions.semi.retract.description": "Kasayı öne toplar"
 }
