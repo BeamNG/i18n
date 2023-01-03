@@ -3606,6 +3606,6 @@
     "ui.inputActions.vehicle_debug.debugmode_toggle.description": "Hata ayıklama modunu açar/kapatır",
     "ui.inputActions.vehicle_debug.debugmode_toggle.title": "Hata Ayıklama Modunu Aç/Kapat",
     "ui.inputActions.vehicle_debug.debugmode_toggle_coltris.description": "Çarpışma üçgeni hata ayıklamasını gösterir",
-    "ui.inputActions.vehicle_debug.debugmode_toggle_coltris.title": "çarpışma üçgeni hata ayıklama'yı açar",
+    "ui.inputActions.vehicle_debug.debugmode_toggle_coltris.title": "Çarpışma Üçgeni Hata Ayıklamasını Aç/Kapat",
     "ui.inputActions.vehicle_debug.reload_all_vehicles.description": "diskten tüm araç dosyalarını yeniden yükler"
 }
