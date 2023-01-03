@@ -3591,5 +3591,6 @@
     "ui.inputActions.vehicle_debug.debugmode_cog_fwd.description": "Ağırlık merkezi hata ayıklamayı gösterir",
     "ui.inputActions.vehicle_debug.debugmode_cog_fwd.title": "Ağırlık Merkezi Hata Ayıklamayı Göster",
     "ui.inputActions.vehicle_debug.debugmode_nodetext_fwd.description": "Düğüm hata ayıklama modları arasında geçiş yapar",
-    "ui.inputActions.vehicle_debug.debugmode_nodetext_fwd.title": "Döngü Düğümü Bilgisi"
+    "ui.inputActions.vehicle_debug.debugmode_nodetext_fwd.title": "Döngü Düğümü Bilgisi",
+    "ui.inputActions.vehicle_debug.debugmode_nodetext_back.description": "Düğüm hata ayıklama modları arasında geçiş yapar"
 }
