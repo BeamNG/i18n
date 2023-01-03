@@ -3596,5 +3596,6 @@
     "ui.inputActions.vehicle_debug.debugmode_nodevis_back.description": "Düğüm görünürlüğünü değiştirir",
     "ui.inputActions.vehicle_debug.debugmode_nodevis_back.title": "Düğüm Görünürlüğünü Değiştir (Tersine)",
     "ui.inputActions.vehicle_debug.debugmode_nodevis_fwd.description": "Düğüm görünürlüğünü değiştirir",
-    "ui.inputActions.vehicle_debug.debugmode_nodevis_fwd.title": "Düğüm görünürlüğünü değiştir"
+    "ui.inputActions.vehicle_debug.debugmode_nodevis_fwd.title": "Düğüm görünürlüğünü değiştir",
+    "ui.inputActions.vehicle_debug.debugmode_reset.description": "Kaldırılabilen tüm hata ayıklama görselleştirmelerini kaldır"
 }
