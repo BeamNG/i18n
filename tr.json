@@ -3654,6 +3654,6 @@
     "ui.inputActions.dryvan.toggle_doorR.title": "Sağ kargo kapısı",
     "ui.inputActions.dryvan.toggle_doors.description": "İki kargo kapısını da açar/kapatır",
     "ui.inputActions.dryvan.toggle_doors.title": "Kargo kapıları",
-    "ui.inputActions.dryvan.toggle_feet.description": "römork ayaklarını toplar/uzatır",
+    "ui.inputActions.dryvan.toggle_feet.description": "Römork ayaklarını toplar/uzatır",
     "ui.inputActions.dryvan.toggle_feet.title": "römork ayakları"
 }
