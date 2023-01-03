@@ -3597,8 +3597,10 @@
     "ui.inputActions.vehicle_debug.debugmode_nodevis_back.title": "Düğüm Görünürlüğünü Değiştir (Tersine)",
     "ui.inputActions.vehicle_debug.debugmode_nodevis_fwd.description": "Düğüm görünürlüğünü değiştirir",
     "ui.inputActions.vehicle_debug.debugmode_nodevis_fwd.title": "Düğüm Görünürlüğünü Değiştir",
-    "ui.inputActions.vehicle_debug.debugmode_reset.description": "Kaldırılabilen tüm hata ayıklama görselleştirmelerini kaldır",
+    "ui.inputActions.vehicle_debug.debugmode_reset.description": "Kaldırılabilen tüm hata ayıklama görselleştirmelerini kaldırır",
     "ui.inputActions.vehicle_debug.debugmode_reset.title": "Hata Ayıklama Modlarını Temizle",
     "ui.inputActions.vehicle_debug.debugmode_skeleton_back.description": "İskelet hata ayıklama modları arasında geçiş yapar",
-    "ui.inputActions.vehicle_debug.debugmode_skeleton_fwd.description": "İskelet hata ayıklama modları arasında geçiş yapar"
+    "ui.inputActions.vehicle_debug.debugmode_skeleton_fwd.description": "İskelet hata ayıklama modları arasında geçiş yapar",
+    "ui.inputActions.vehicle_debug.debugmode_skeleton_back.title": "Fizik İskeletini Değiştir (Tersine)",
+    "ui.inputActions.vehicle_debug.debugmode_skeleton_fwd.title": "Fizik İskeletini Değiştir"
 }
