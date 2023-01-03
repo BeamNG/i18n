@@ -3621,5 +3621,6 @@
     "ui.inputActions.bollard.blockerOut.description": "Aşağı",
     "ui.inputActions.bollard.blockerOut.title": "Aşağı",
     "ui.inputActions.boxutility.toggle_feet.description": "Römork krikosunu indirir/kaldırır",
-    "ui.inputActions.boxutility.toggle_feet.title": "Römork krikosu"
+    "ui.inputActions.boxutility.toggle_feet.title": "Römork krikosu",
+    "ui.inputActions.boxutility.toggle_tailgate.description": "bagaj kapağını açar/kapatır"
 }
