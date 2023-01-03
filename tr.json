@@ -3640,5 +3640,6 @@
     "ui.inputActions.caravan.toggle_feet.title": "Römork Krikosu",
     "ui.inputActions.citybus.default_rideHeight.description": "Aracın sürüş yüksekliğini varsayılan konuma getirir",
     "ui.inputActions.citybus.default_rideHeight.title": "Varsayılan yükseklik",
-    "ui.inputActions.citybus.max_rideHeight.description": "araç için maksimum süspansiyon yüksekliğini ayarlar"
+    "ui.inputActions.citybus.max_rideHeight.description": "araç için maksimum süspansiyon yüksekliğini ayarlar",
+    "ui.inputActions.citybus.max_rideHeight.title": "maksimum yükseklik"
 }
