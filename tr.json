@@ -3716,5 +3716,7 @@
     "ui.inputActions.semi.decrease_rideHeight.description": "Aracın sürüş yüksekliğini varsayılan konuma getirir",
     "ui.inputActions.semi.extend.description": "Kasayı geriye uzatır",
     "ui.inputActions.semi.increase_rideHeight.description": "Aracın sürüş yüksekliğini varsayılan konuma getirir",
-    "ui.inputActions.semi.retract.description": "Kasayı öne toplar"
+    "ui.inputActions.semi.retract.description": "Kasayı öne toplar",
+    "ui.inputActions.semi.increase_rideHeight.title": "Yüksekliği arttır",
+    "ui.inputActions.semi.retract.title": "Toplamak"
 }
