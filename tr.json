@@ -3652,5 +3652,6 @@
     "ui.inputActions.dryvan.toggle_doorL.title": "Sol kargo kapısı",
     "ui.inputActions.dryvan.toggle_doorR.description": "Sol kargo kapısını açar/kapatır",
     "ui.inputActions.dryvan.toggle_doorR.title": "Sağ kargo kapısı",
-    "ui.inputActions.dryvan.toggle_doors.description": "her iki kargo kapısını açar/kapatır"
+    "ui.inputActions.dryvan.toggle_doors.description": "her iki kargo kapısını açar/kapatır",
+    "ui.inputActions.dryvan.toggle_doors.title": "kargo kapıları"
 }
