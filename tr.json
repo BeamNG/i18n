@@ -3646,5 +3646,6 @@
     "ui.inputActions.citybus.toggle_doors.title": "Kapıları Aç/Kapat",
     "ui.inputActions.citybus.toggle_jato.description": "JATO roketlerini açar ve kapatır",
     "ui.inputActions.citybus.toggle_jato.title": "JATO'yu Aç/Kapat",
-    "ui.inputActions.citybus.toggle_kneel.description": "aracı sağa doğru meğillendirir"
+    "ui.inputActions.citybus.toggle_kneel.description": "Aracı sağa doğru alçaltır",
+    "ui.inputActions.citybus.toggle_kneel.title": "Sağa doğru alçalt"
 }
