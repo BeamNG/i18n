@@ -3686,6 +3686,6 @@
     "ui.inputActions.large_crusher.openclose.title": "Aç & Kapat (eksen)",
     "ui.inputActions.large_spinner.rpm_decrease.title": "Devri Azalt",
     "ui.inputActions.large_spinner.rpm_increase.title": "Devri Artır",
-    "ui.inputActions.large_spinner.toggle_direction.description": "Yönü saat ve saat yönünün tersine çevirir",
+    "ui.inputActions.large_spinner.toggle_direction.description": "Yönü saat yönüne veya saat yönünün tersine çevirir",
     "ui.inputActions.large_spinner.toggle_direction.title": "Yön seçimi"
 }
