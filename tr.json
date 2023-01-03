@@ -3634,5 +3634,8 @@
     "ui.inputActions.cannon.liftUp.description": "Namluyu kaldırır",
     "ui.inputActions.cannon.lowerDown.description": "Namluyu indirir",
     "ui.inputActions.cannon.lowerDown.title": "Namluyu indir",
-    "ui.inputActions.cannon.shoot.description": "Top mermisini ateşler. Top'un tekrar ateşlenebilmesi için sıfırlanması gerekmektedir"
+    "ui.inputActions.cannon.shoot.description": "Top mermisini ateşler. Top'un tekrar ateşlenebilmesi için sıfırlanması gerekmektedir",
+    "ui.inputActions.cannon.shoot.title": "Topu ateşle",
+    "ui.inputActions.caravan.toggle_feet.description": "Römork krikosunu indirir/kaldırır",
+    "ui.inputActions.caravan.toggle_feet.title": "Römork Krikosu"
 }
