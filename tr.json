@@ -3674,5 +3674,13 @@
     "ui.inputActions.kickplate.power_down.title": "Gücü azalt",
     "ui.inputActions.kickplate.power_up.description": "Tekme plakası gücünü artırır",
     "ui.inputActions.large_angletester.lift.title": "Yükselt/İndir",
-    "ui.inputActions.large_cannon.shoot.description": "Ateş mekanizmini çalıştırır"
+    "ui.inputActions.large_cannon.shoot.description": "Ateşleme mekanizmasını çalıştırır",
+    "ui.inputActions.large_crusher.close.description": "Eziciyi kapatır",
+    "ui.inputActions.large_crusher.open.description": "Eziciyi açar",
+    "ui.inputActions.large_crusher.openclose.description": "Eziciyi açıp kapatır",
+    "ui.inputActions.large_hamster_wheel.detach.description": "Büyük tekerleğin bağlantısını koparır",
+    "ui.inputActions.large_roller.rpm_decrease.description": "Devrini azaltır",
+    "ui.inputActions.large_roller.rpm_increase.description": "Devrini arttırır",
+    "ui.inputActions.large_spinner.rpm_decrease.description": "Devrini azaltır",
+    "ui.inputActions.large_spinner.rpm_increase.description": "Devrini arttırır"
 }
