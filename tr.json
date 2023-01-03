@@ -3616,5 +3616,6 @@
     "ui.inputActions.vehicle_debug.select_node_beam.title": "Düğüm/Kiriş Seçimi",
     "ui.inputActions.bollard.blocker.description": "Yukarı/Aşağı",
     "ui.inputActions.bollard.blocker.title": "Yukarı/Aşağı",
-    "ui.inputActions.bollard.blockerIn.description": "yukarı"
+    "ui.inputActions.bollard.blockerIn.description": "yukarı",
+    "ui.inputActions.bollard.blockerIn.title": "yukarı"
 }
