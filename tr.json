@@ -3689,13 +3689,13 @@
     "ui.inputActions.large_spinner.toggle_direction.description": "Yönü saat yönüne veya saat yönünün tersine çevirir",
     "ui.inputActions.large_spinner.toggle_direction.title": "Yönü değiştir",
     "ui.inputActions.pickup.toggle_tailgate.description": "Bagaj kapağını açar/kapatır",
-    "ui.inputActions.pickup.toggle_tailgate.title": "Bagaj kapağı",
+    "ui.inputActions.pickup.toggle_tailgate.title": "Bagaj Kapağı",
     "ui.inputActions.pickup.extend.description": "Kasayı geriye uzatır",
     "ui.inputActions.pickup.extend.title": "Kasayı uzat",
     "ui.inputActions.pickup.retract.description": "Kasayı öne toplar",
     "ui.inputActions.pickup.retract.title": "Kasayı topla",
     "ui.inputActions.pickup.tilt.description": "Kasaya eğim verir",
-    "ui.inputActions.pickup.tilt.title": "Yukarı/aşağı eğ",
+    "ui.inputActions.pickup.tilt.title": "Yukarı/Aşağı Eğ",
     "ui.inputActions.rollover.decrease_angle.description": "Kızak açısını azaltır",
     "ui.inputActions.pickup.extendFeet.description": "Yatak destek ayağını uzatır",
     "ui.inputActions.pickup.extendFeet.title": "Ayağı Uzat",
@@ -3710,5 +3710,9 @@
     "ui.inputActions.pickup.tiltDown.description": "Kasayı aşağı eğer",
     "ui.inputActions.pickup.tiltDown.title": "Kasayı aşağı eğ",
     "ui.inputActions.pickup.tiltUp.description": "Kasayı yukarı eğer",
-    "ui.inputActions.pickup.tiltUp.title": "Kasayı yukarı eğ"
+    "ui.inputActions.pickup.tiltUp.title": "Kasayı yukarı eğ",
+    "ui.inputActions.pigeon.toggle_tailgate.title": "Bagaj Kapağı",
+    "ui.inputActions.rollover.prepare.description": "Eğim açısını gösterir",
+    "ui.inputActions.semi.decrease_rideHeight.description": "Aracın sürüş yüksekliğini varsayılan konuma getirir",
+    "ui.inputActions.semi.extend.description": "Kasayı geriye uzatır"
 }
