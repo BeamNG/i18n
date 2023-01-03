@@ -3737,5 +3737,14 @@
     "ui.inputActions.shipping_container.toggle_doorR.description": "Sol kapıyı açar/kapatır",
     "ui.inputActions.shipping_container.toggle_doorR.title": "Sağ Kapı",
     "ui.inputActions.shipping_container.toggle_doors.description": "Kapıları açar/kapatır",
-    "ui.inputActions.shipping_container.toggle_doors.title": "Konteyner kapıları"
+    "ui.inputActions.shipping_container.toggle_doors.title": "Konteyner Kapıları",
+    "ui.inputActions.tanker.toggle_doorL.title": "Sol kargo kapısı",
+    "ui.inputActions.tanker.toggle_doorL.description": "Sol kargo kapısını açar/kapatır",
+    "ui.inputActions.tanker.toggle_doorR.description": "Sol kargo kapısını açar/kapatır",
+    "ui.inputActions.tanker.toggle_doorR.title": "Sağ kargo kapısı",
+    "ui.inputActions.tanker.toggle_doors.description": "İki kargo kapısını da açar/kapatır",
+    "ui.inputActions.tanker.toggle_doors.title": "Kargo kapıları",
+    "ui.inputActions.tanker.toggle_feet.description": "Römork ayaklarını toplar/uzatır",
+    "ui.inputActions.tanker.toggle_feet.title": "Römork ayakları",
+    "ui.inputActions.testroller.rampDown.description": "Rampayı alçaltır"
 }
