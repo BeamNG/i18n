@@ -3638,6 +3638,6 @@
     "ui.inputActions.cannon.shoot.title": "Topu ateşle",
     "ui.inputActions.caravan.toggle_feet.description": "Römork krikosunu indirir/kaldırır",
     "ui.inputActions.caravan.toggle_feet.title": "Römork Krikosu",
-    "ui.inputActions.citybus.default_rideHeight.description": "aracın süspansiyon yüksekliğini standart konuma getirir",
+    "ui.inputActions.citybus.default_rideHeight.description": "Aracın sürüş yüksekliğini varsayılan konuma getirir",
     "ui.inputActions.citybus.default_rideHeight.title": "standart yükseklik"
 }
