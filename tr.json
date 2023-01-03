@@ -3850,6 +3850,6 @@
     "launchercpp.supporttool_btn_do": "Destek\nYardıma mı ihtiyacınız var? Bir şeyler çalışmıyor mu?\nSize Yardım Edelim :)",
     "launchercpp.cleancache_interact_title": "Kullanıcı klasör önbelleği temizleniyor",
     "launchercpp.cleancache_interact_rmempty": "Boş klasörler kaldırılıyor ...",
-    "launchercpp.cleancache_interact_done": "Kullanıcı klasöründeki tüm bilinmeyen dosyalar şuraya taşındı:\n'{0}'\nÖnbellek temizlendi.",
+    "launchercpp.cleancache_interact_done": "Kullanıcı klasöründeki tüm bilinmeyen dosyalar buraya taşındı:\n'{0}'\nÖnbellek temizlendi.",
     "launchercpp.cleancache_interact_manualreq": "Kullanıcı yolu, oyun klasörünün içinde bulunur. Önbellek klasörlerini manuel olarak silmeniz gerekecek."
 }
