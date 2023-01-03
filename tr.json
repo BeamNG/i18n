@@ -3749,5 +3749,7 @@
     "ui.inputActions.testroller.rampDown.description": "Rampayı alçaltır",
     "ui.inputActions.testroller.rampDown.title": "Rampayı Alçalt",
     "ui.inputActions.testroller.rampUp.description": "Rampayı yükseltir",
-    "ui.inputActions.testroller.rampUp.title": "Rampa Yukarı"
+    "ui.inputActions.testroller.rampUp.title": "Rampa Yukarı",
+    "ui.inputActions.tsfb.toggle_ramp.title": "Yükleme Rampası",
+    "ui.inputActions.tsfb.toggle_ramp.description": "Rampayı açar/kapatır"
 }
