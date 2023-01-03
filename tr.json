@@ -3623,5 +3623,9 @@
     "ui.inputActions.boxutility.toggle_feet.description": "Römork krikosunu indirir/kaldırır",
     "ui.inputActions.boxutility.toggle_feet.title": "Römork Krikosu",
     "ui.inputActions.boxutility.toggle_tailgate.description": "Bagaj kapağını açar/kapatır",
-    "ui.inputActions.boxutility.toggle_tailgate.title": "bagaj kapağı"
+    "ui.inputActions.boxutility.toggle_tailgate.title": "Bagaj Kapağı",
+    "ui.inputActions.boxutility_large.toggle_feet.description": "Römork krikosunu indirir/kaldırır",
+    "ui.inputActions.boxutility_large.toggle_feet.title": "Römork Krikosu",
+    "ui.inputActions.boxutility_large.toggle_tailgate.description": "Bagaj kapağını açar/kapatır",
+    "ui.inputActions.boxutility_large.toggle_tailgate.title": "Bagaj Kapağı"
 }
