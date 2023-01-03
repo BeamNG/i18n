@@ -3604,5 +3604,6 @@
     "ui.inputActions.vehicle_debug.debugmode_skeleton_back.title": "Fizik İskeletini Değiştir (Tersine)",
     "ui.inputActions.vehicle_debug.debugmode_skeleton_fwd.title": "Fizik İskeletini Değiştir",
     "ui.inputActions.vehicle_debug.debugmode_toggle.description": "Hata ayıklama modunu açar/kapatır",
-    "ui.inputActions.vehicle_debug.debugmode_toggle.title": "Hata Ayıklama Modunu Aç/Kapat"
+    "ui.inputActions.vehicle_debug.debugmode_toggle.title": "Hata Ayıklama Modunu Aç/Kapat",
+    "ui.inputActions.vehicle_debug.debugmode_toggle_coltris.description": "çarpışma üçgeni hata ayıklamasını gösterir"
 }
