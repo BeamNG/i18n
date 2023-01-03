@@ -3718,5 +3718,18 @@
     "ui.inputActions.semi.increase_rideHeight.description": "Aracın sürüş yüksekliğini varsayılan konuma getirir",
     "ui.inputActions.semi.retract.description": "Kasayı öne toplar",
     "ui.inputActions.semi.increase_rideHeight.title": "Yüksekliği arttır",
-    "ui.inputActions.semi.retract.title": "Toplamak"
+    "ui.inputActions.semi.retract.title": "Topla",
+    "ui.inputActions.semi.tilt.description": "Kasaya eğim verir",
+    "ui.inputActions.semi.tilt.title": "Yukarı/Aşağı Eğ",
+    "ui.inputActions.semi.tiltDown.title": "Aşağı Eğ",
+    "ui.inputActions.semi.toggle_discharge_chute.description": "Çimento boşaltma oluğunu açar/kapatır",
+    "ui.inputActions.semi.toggle_discharge_chute.title": "Boşaltma oluğu",
+    "ui.inputActions.semi.toggle_doorL.description": "Sol kargo kapısını açar/kapatır",
+    "ui.inputActions.semi.toggle_doorL.title": "Sol kargo kapısı",
+    "ui.inputActions.semi.toggle_doorR.title": "Sağ kargo kapısı",
+    "ui.inputActions.semi.toggle_doors.description": "İki kargo kapısını da açar/kapatır",
+    "ui.inputActions.semi.toggle_doors.title": "Kargo kapıları",
+    "ui.inputActions.semi.tiltDown.description": "Kasayı aşağı eğer",
+    "ui.inputActions.semi.tiltUp.description": "Kasayı yukarı eğer",
+    "ui.inputActions.semi.toggle_doorR.description": "Sol kargo kapısını açar/kapatır"
 }
