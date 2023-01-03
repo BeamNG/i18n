@@ -3687,5 +3687,6 @@
     "ui.inputActions.large_spinner.rpm_decrease.title": "Devri Azalt",
     "ui.inputActions.large_spinner.rpm_increase.title": "Devri Artır",
     "ui.inputActions.large_spinner.toggle_direction.description": "Yönü saat yönüne veya saat yönünün tersine çevirir",
-    "ui.inputActions.large_spinner.toggle_direction.title": "Yön seçimi"
+    "ui.inputActions.large_spinner.toggle_direction.title": "Yön seçimi",
+    "ui.inputActions.pickup.toggle_tailgate.description": "Bagaj kapağınl açar/kapatır"
 }
