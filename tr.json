@@ -3628,6 +3628,6 @@
     "ui.inputActions.boxutility_large.toggle_feet.title": "Römork Krikosu",
     "ui.inputActions.boxutility_large.toggle_tailgate.description": "Bagaj kapağını açar/kapatır",
     "ui.inputActions.boxutility_large.toggle_tailgate.title": "Bagaj Kapağı",
-    "ui.inputActions.cannon.lift.description": "Varili kaldırır ve ya indirir",
+    "ui.inputActions.cannon.lift.description": "Namluyu kaldırır ya da indirir",
     "ui.inputActions.cannon.lift.title": "Kaldır/İndir"
 }
