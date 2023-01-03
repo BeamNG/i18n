@@ -3747,7 +3747,7 @@
     "ui.inputActions.tanker.toggle_feet.description": "Römork ayaklarını toplar/uzatır",
     "ui.inputActions.tanker.toggle_feet.title": "Römork ayakları",
     "ui.inputActions.testroller.rampDown.description": "Rampayı alçaltır",
-    "ui.inputActions.testroller.rampDown.title": "Rampa Aşağı",
+    "ui.inputActions.testroller.rampDown.title": "Rampayı Alçalt",
     "ui.inputActions.testroller.rampUp.description": "Rampayı yükseltir",
     "ui.inputActions.testroller.rampUp.title": "Rampa Yukarı"
 }
