@@ -2162,5 +2162,11 @@
     "levels.automation_test_track.info.description": "Testovací polygon pro vozy z Automation",
     "levels.automation_test_track.info.features": "testovací dráha, výstup, rally RZ, okruh na ovladatelnost",
     "levels.dry_rock_island.info.suitablefor": "rally, dovážka",
-    "levels.automation_test_track.info.suitablefor": "testování prototypů, rally jízda"
+    "levels.automation_test_track.info.suitablefor": "testování prototypů, rally jízda",
+    "levels.east_coast_usa.info.title": "Východní pobřeží, USA",
+    "levels.driver_training.spawnpoints.spawn_west": "Západ",
+    "levels.dry_rock_island.info.biome": "subtropický pás, les, ostrov",
+    "levels.dry_rock_island.info.roads": "40% asfalt, 30% hliněná cesta, 30% stezky a průmyslové silnice",
+    "levels.automation_test_track.info.biome": "drnovitá travnatá plocha",
+    "levels.automation_test_track.info.roads": "80% asfalt, 20% hliněná cesta"
 }
