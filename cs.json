@@ -2157,5 +2157,10 @@
     "quickrace.driver_training.procTrack.smallBasic.title": "Malá základní RZ",
     "quickrace.driver_training.procTrack.wideGateCircuit.title": "Okruh Široká Brána",
     "quickrace.driver_training.procTrack.randomized.description": "Vytvoří procedurálně generovanou, zcela náhodnou trať. Většina parametrů je nastavena na náhodnou hodnotu, což vytvoří bláznivou, mnohdy sebeprotínající se trať. Kvůli náhodnosti mohou některé předvolby vytvořit defektní trať.",
-    "quickrace.driver_training.procTrack.windingSnake.description": "Vytvoří procedurálně generovanou klikatou trať."
+    "quickrace.driver_training.procTrack.windingSnake.description": "Vytvoří procedurálně generovanou klikatou trať.",
+    "levels.automation_test_track.info.title": "Testovací dráha Automation",
+    "levels.automation_test_track.info.description": "Testovací polygon pro vozy z Automation",
+    "levels.automation_test_track.info.features": "testovací dráha, výstup, rally RZ, okruh na ovladatelnost",
+    "levels.dry_rock_island.info.suitablefor": "rally, dovážka",
+    "levels.automation_test_track.info.suitablefor": "testování prototypů, rally jízda"
 }
