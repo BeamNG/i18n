@@ -3023,5 +3023,9 @@
     "ui.apps.node_beam_info.chassisweight": "váha kostry",
     "ui.apps.trip_computer.Range": "Vzdialenosť",
     "ui.apps.torquecurve.Torque": "Krútiaci moment",
-    "ui.apps.turbo_activity_graph.Boost": "zosilnenie"
+    "ui.apps.turbo_activity_graph.Boost": "zosilnenie",
+    "ui.apps.advanced_wheels_debug.wheels": "Kolesá",
+    "ui.apps.threedexport.Filename": "Názov súboru",
+    "ui.apps.shift_decision_debug.Aggression": "Agresivita",
+    "ui.apps.thumbnail_generator.ThumbnailWidth": "Šírka miniatúry"
 }
