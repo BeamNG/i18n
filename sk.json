@@ -3035,7 +3035,7 @@
     "ui.controls.lockType.warningAdvice": "pretože uhol uzamknutia je špecifikovaný, odporúčaný typ uzamknutia je 1:1",
     "ui.stats.target": "Cieľ",
     "ui.stats.smoothness": "Hladkosť",
-    "ui.options.graphics.GraphicAnisotropicTooltip": "Kvalita filtrovania textúr. Vyššie nastavenia poskytujú čistejšie textúry v dialke s minimálnou záťažou na výkon.",
+    "ui.options.graphics.GraphicAnisotropicTooltip": "Kvalita filtrovania textúr. Vyššie nastavenia poskytujú čistejšie textúry v diaľke s minimálnou záťažou na výkon.",
     "ui.options.camera.mostlyTV": "Prevažne TV",
     "ui.options.camera.alwaysTV": "Vždy TV",
     "ui.options.camera.frequentlyTV": "Často TV",
