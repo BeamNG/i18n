@@ -3030,5 +3030,10 @@
     "ui.apps.thumbnail_generator.ThumbnailWidth": "Šírka miniatúry",
     "ui.apps.turbo_activity_graph.Wastegate": "Obtokový ventil turbodúchadla",
     "ui.apps.shift_decision_debug.ShiftupRPM": "Otáčky po nadradení",
-    "ui.apps.shift_decision_debug.ShiftDownRPM": "Otáčky po podradení"
+    "ui.apps.shift_decision_debug.ShiftDownRPM": "Otáčky po podradení",
+    "ui.stats.altitude": "Výška",
+    "ui.controls.lockType.warningAdvice": "pretože uhol uzamknutia je špecifikovaný, odporúčaný typ uzamknutia je 1:1",
+    "ui.stats.target": "Cieľ",
+    "ui.stats.smoothness": "Hladkosť",
+    "ui.options.graphics.GraphicAnisotropicTooltip": "Kvalita filtrovania textúr. Vyššie nastavenia poskytujú čistejšie textúry v dialke s minimálnou záťažou na výkon."
 }
