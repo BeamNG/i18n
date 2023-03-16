@@ -3009,5 +3009,8 @@
     "ui.apps.engine_thermal_debug.oilThermostat": "Termostat oleja",
     "ui.apps.escstiffness.maxStiffnessFront": "Max. tuhosť vpredu",
     "ui.apps.engine_thermal_debug.coolantThermostat": "Termostat chladiča",
-    "ui.apps.escstiffness.maxStiffnessRear": "Max. Tuhosť vzadu"
+    "ui.apps.escstiffness.maxStiffnessRear": "Max. Tuhosť vzadu",
+    "ui.apps.ffb_graph.Atdriver": "Na mieste vodiča",
+    "ui.apps.node_beam_info.deformed": "deformované",
+    "ui.apps.node_beam_info.broken": "zlomené"
 }
