@@ -3008,5 +3008,6 @@
     "scenarios.italy.fg-gravity.getback": "Už máme dosť! Poďme to palivo odniesť späť k autu!",
     "ui.apps.engine_thermal_debug.oilThermostat": "Termostat oleja",
     "ui.apps.escstiffness.maxStiffnessFront": "Max. tuhosť vpredu",
-    "ui.apps.engine_thermal_debug.coolantThermostat": "Termostat chladiča"
+    "ui.apps.engine_thermal_debug.coolantThermostat": "Termostat chladiča",
+    "ui.apps.escstiffness.maxStiffnessRear": "Max. Tuhosť vzadu"
 }
