@@ -3020,5 +3020,6 @@
     "ui.apps.node_beam_info.wheels": "kolesá",
     "ui.apps.node_beam_info.Triangles": "Trojuholníky",
     "ui.apps.node_beam_info.Torsionbars": "torzné tyče",
-    "ui.apps.node_beam_info.chassisweight": "váha kostry"
+    "ui.apps.node_beam_info.chassisweight": "váha kostry",
+    "ui.apps.trip_computer.Range": "Dialka"
 }
