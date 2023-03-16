@@ -3012,5 +3012,7 @@
     "ui.apps.escstiffness.maxStiffnessRear": "Max. tuhosť vzadu",
     "ui.apps.ffb_graph.Atdriver": "Na mieste vodiča",
     "ui.apps.node_beam_info.deformed": "deformované",
-    "ui.apps.node_beam_info.broken": "zlomené"
+    "ui.apps.node_beam_info.broken": "zlomené",
+    "ui.apps.node_beam_info.Nodes": "Uzly",
+    "ui.apps.node_beam_info.totalweight": "totálna váha"
 }
