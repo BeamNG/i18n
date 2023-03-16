@@ -3005,5 +3005,8 @@
     "ui.career.lastMission": "Posledná misia",
     "ui.inputActions.vehicle.toggleESCMode.title": "Prepnúť režim ESC/TC",
     "ui.inputActions.vehicle.toggleESCMode.description": "Prepína medzi všetkými ESC/TC režimami",
-    "scenarios.italy.fg-gravity.getback": "Už máme dosť! Poďme to palivo odniesť späť k autu!"
+    "scenarios.italy.fg-gravity.getback": "Už máme dosť! Poďme to palivo odniesť späť k autu!",
+    "ui.apps.engine_thermal_debug.oilThermostat": "Termostat oleja",
+    "ui.apps.escstiffness.maxStiffnessFront": "Max. Tuhosť v predu",
+    "ui.apps.engine_thermal_debug.coolantThermostat": "Termostat chladiča"
 }
