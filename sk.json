@@ -3014,5 +3014,10 @@
     "ui.apps.node_beam_info.deformed": "deformované",
     "ui.apps.node_beam_info.broken": "zničené",
     "ui.apps.node_beam_info.Nodes": "Uzly",
-    "ui.apps.node_beam_info.totalweight": "totálna váha"
+    "ui.apps.node_beam_info.totalweight": "totálna váha",
+    "ui.apps.node_beam_info.per wheel": "na jedno koleso",
+    "ui.apps.node_beam_info.all": "všetko",
+    "ui.apps.node_beam_info.wheels": "kolesá",
+    "ui.apps.node_beam_info.Triangles": "Trojuholníky",
+    "ui.apps.node_beam_info.Torsionbars": "torzné tyče"
 }
