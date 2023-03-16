@@ -3039,5 +3039,15 @@
     "ui.options.camera.mostlyTV": "Prevažne TV",
     "ui.options.camera.alwaysTV": "Vždy TV",
     "ui.options.camera.frequentlyTV": "Často TV",
-    "ui.options.camera.evenlySplit": "Rovnomerne rozdelená"
+    "ui.options.camera.evenlySplit": "Rovnomerne rozdelená",
+    "ui.apps.node_beam_info.collidable": "zrážateľné",
+    "ui.apps.hotlapping.StartHotlapping": "Zapnúť Hotlapping",
+    "ui.apps.hotlapping.EndHotlapping": "Ukončiť Hotlapping",
+    "ui.apps.threedexport.VertexColors": "Farby Vrcholu",
+    "Config Type": "Typ konfigurácie",
+    "BodyStyle": "Typ tela",
+    "Induction Type": "Typ indukcie",
+    "ui.controls.lockType": "Typ uzamknutia riadenia",
+    "ui.controls.lockType.warningMissingAngle": "Zvolený typ uzamknutia potrebuje nastavenie uhlu uzamknutia",
+    "Propulsion": "Pohon"
 }
