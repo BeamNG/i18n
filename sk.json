@@ -461,7 +461,7 @@
     "scenarios.hirochi_raceway.training_spin_recovery.description": "Toto ťa naučí predchádzať strate kontroly v autách so zadným náhonom.",
     "scenarios.hirochi_raceway.training_spin_recovery.timeLimit.msg": "Čas vypršal! Skús znova a rýchlejšie",
     "scenarios.jungle_rock_island.drag_race.fail.msg": "Prehral si závod",
-    "scenarios.jungle_rock_island.drag_race.title": "Zúčtovanie na Letisku",
+    "scenarios.jungle_rock_island.drag_race.title": "Zúčtovanie na letisku",
     "scenarios.jungle_rock_island.drag_race.win.msg": "Výborne! Tvoj čas: {{time}}",
     "scenarios.jungle_rock_island.hypermiling.description": "Dostaň sa na letisko len s kvapkou benzínu v nádrži. Dokážeš to s vysokoúčinnou Ibishu Pessima HX?",
     "scenarios.jungle_rock_island.hypermiling.speed.msg": "Zasekol si sa alebo ti došlo palivo",
@@ -1421,7 +1421,7 @@
     "ui.garage.photo.camera": "Kamera",
     "ui.loading.spawn.sky": "Vytváranie oblakov",
     "replay.stopRecordingAutoplay": "Záznam uložený",
-    "scenarios.driver_training.driver_training.training_slalom.nomove.msg": "Buchol si tam kužeľ, skús to znovu.",
+    "scenarios.driver_training.driver_training.training_slalom.nomove.msg": "Ťukol si tam kužeľ, skús to znovu.",
     "scenarios.Industrial.industrial_jump_large.description": "Zober rally auto Ibishu Covet na lietajúce dobrodružstvo cez série vyvýšených platforiem.",
     "quickrace.east_coast_usa.dirt_race.description": "Krátky závod nespevnenou vozovkou cez odlesnenú časť mapy. Dávaj si pozor na padnuté stromy a pne na krajniciach.",
     "scenarios.east_coast_usa.east_coast_chase_2.title": "Naháňačka na Východnom pobreží 2",
@@ -1588,7 +1588,7 @@
     "scenarios.utah.chapter_1.chapter_1_walljump.win.msg": "Rana do steny",
     "scenarios.utah.chapter_2.chapter_2_2_mixed.title": "Prašný závod",
     "scenarios.utah.chapter_2.chapter_2_3_crawl.description": "Závod po nespevnenom povrchu. Dokážeš to dotiahnuť až do cieľa?",
-    "scenarios.utah.chapter_2.chapter_2_3_crawl.fail.msg": "Samý brechot a žiadne kúsance. Vráť sa až keď sa naučíš jazdiť",
+    "scenarios.utah.chapter_2.chapter_2_3_crawl.fail.msg": "Štekáš, ale nekúšeš. Vráť sa až keď sa naučíš jazdiť",
     "scenarios.utah.chapter_2.chapter_2_5_roll.title": "Gravitačný závod",
     "scenarios.utah.climbing_utah.title": "Lozenie po Utah-u",
     "scenarios.utah.climbing_utah.description": "Preplaz sa cez náročnú cestičku a doraz na vrchol útesu. Budeš za volantom veľmi zdatného Ibishu Hopper.",
@@ -3245,5 +3245,6 @@
     "scenarios.italy.crestRoadAutobello.win.msg": "Výborne!",
     "scenarios.italy.crestRoadAutobello.win.overtake.msg": "Výborne! Bol si tak rýchly, že si predbehol auto, ktoré si mal len sledovať.",
     "scenarios.italy.fg-gravity.title": "Gravitačné palivo",
-    "scenarios.italy.fg-gravity.description": "Nemáš palivo. Spusti sa dolu kopcom a zožeň nejaké, a vráť sa k pickupu, aby si doručil vozidlo!"
+    "scenarios.italy.fg-gravity.description": "Nemáš palivo. Spusti sa dolu kopcom a zožeň nejaké, a vráť sa k pickupu, aby si doručil vozidlo!",
+    "levels.utah.spawnpoints.campsite": "Kemp"
 }
