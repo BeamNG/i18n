@@ -3646,5 +3646,8 @@
     "ui.options.officialTranslations": "Traductions officielles",
     "ui.options.camera.pigeon-slow": "Pigeon-lent",
     "ui.options.camera.stationary": "Stationnaire",
-    "ui.options.gameplay.enableSmartRecovery": "Activer le système de récupération intelligent"
+    "ui.options.gameplay.enableSmartRecovery": "Activer le système de récupération intelligent",
+    "ui.options.camera.default": "Défaut",
+    "ui.options.graphics.graphics": "Paramètres graphiques",
+    "ui.options.camera.quicker": "Plus Rapide"
 }
