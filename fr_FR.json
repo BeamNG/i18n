@@ -3650,5 +3650,9 @@
     "ui.options.camera.default": "Défaut",
     "ui.options.graphics.graphics": "Paramètres graphiques",
     "ui.options.camera.quicker": "Plus Rapide",
-    "ui.options.graphics.Video": "Vidéo"
+    "ui.options.graphics.Video": "Vidéo",
+    "ui.options.graphics.Videoscaled": "Mise à l'échelle vidéo",
+    "ui.options.graphics.Imagesscaled": "Mise à l'échelle des images",
+    "ui.radialmenu2.ai.follow.desc": "l'IA va vous suivre.",
+    "ui.radialmenu2.ai.follow": "Suivez-moi !"
 }
