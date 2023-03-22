@@ -3,7 +3,7 @@
     "ui.photomode.colorCorrectionStrength": "Intensité du filtre",
     "ui.photomode.colorCorrection": "Filtre",
     "ui.photomode.openScreenshotsFolder": "Ouvrir le dossier des captures d'écran",
-    "ui.levelselect.x86Disabled": "Le jeu doit être lancé en 64 bit pour jouer sur cette carte. Veuillez consulter les configurations recommandées.",
+    "ui.levelselect.x86Disabled": "Le jeu doit être lancé en 64-bit pour jouer sur cette carte. Veuillez consulter les configurations recommandées.",
     "ui.levelselect.x86DisabledToolbar": "Non disponible en mode 32 bit.",
     "ui.levelselect.x86DisabledToolbar_2": "Un système d'exploitation 64 bit et 4 Go de RAM sont requis pour lancer le jeu en mode 64 bit.",
     "ui.vehicleconfig.openConfigFolder": "Ouvrir le dossier des configurations utilisateur",
@@ -3632,5 +3632,10 @@
     "ui.campaign.upto": "à",
     "ui.campaign.localPlayers": "joueurs en local",
     "ui.campaign.requiresOneController": "Une manette par joueur est nécessaire.",
-    "general.time_format": "jj MM aaaa"
+    "general.time_format": "jj MM aaaa",
+    "ui.racetime.time": "Temps",
+    "ui.quickrace.time": "Temps",
+    "ui.environment.environmentalTemperature": "Température Environnementale",
+    "ui.apps.hotlapping.bestLap": "Meilleur Tour",
+    "ui.options.camera.disabled": "Désactivé"
 }
