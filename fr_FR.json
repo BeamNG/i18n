@@ -3637,5 +3637,11 @@
     "ui.quickrace.time": "Temps",
     "ui.environment.environmentalTemperature": "Température Environnementale",
     "ui.apps.hotlapping.bestLap": "Meilleur Tour",
-    "ui.options.camera.disabled": "Désactivé"
+    "ui.options.camera.disabled": "Désactivé",
+    "ui.options.camera.orbit": "Orbite",
+    "ui.options.camera.external": "Externe",
+    "ui.options.translationAutomatic": "Automatique",
+    "ui.options.graphics.effects": "Réglages des effets",
+    "ui.options.camera.driver": "Conducteur",
+    "ui.options.officialTranslations": "Traductions officielles"
 }
