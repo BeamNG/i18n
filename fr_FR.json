@@ -3643,5 +3643,8 @@
     "ui.options.translationAutomatic": "Automatique",
     "ui.options.graphics.effects": "Réglages des effets",
     "ui.options.camera.driver": "Conducteur",
-    "ui.options.officialTranslations": "Traductions officielles"
+    "ui.options.officialTranslations": "Traductions officielles",
+    "ui.options.camera.pigeon-slow": "Pigeon-lent",
+    "ui.options.camera.stationary": "Stationnaire",
+    "ui.options.gameplay.enableSmartRecovery": "Activer le système de récupération intelligent"
 }
