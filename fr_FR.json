@@ -3655,5 +3655,6 @@
     "ui.options.graphics.Imagesscaled": "Mise à l'échelle des images",
     "ui.radialmenu2.ai.follow.desc": "l'IA va vous suivre.",
     "ui.radialmenu2.ai.follow": "Suivez-moi !",
-    "ui.options.graphics.Images": "Images"
+    "ui.options.graphics.Images": "Images",
+    "ui.options.graphics.TripleMonitorFov": "Angle des triples écrans"
 }
