@@ -3649,5 +3649,6 @@
     "ui.options.gameplay.enableSmartRecovery": "Activer le système de récupération intelligent",
     "ui.options.camera.default": "Défaut",
     "ui.options.graphics.graphics": "Paramètres graphiques",
-    "ui.options.camera.quicker": "Plus Rapide"
+    "ui.options.camera.quicker": "Plus Rapide",
+    "ui.options.graphics.Video": "Vidéo"
 }
