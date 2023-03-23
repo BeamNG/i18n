@@ -1714,7 +1714,7 @@
     "ui.options.theme.dark": "Thème sombre",
     "ui.options.theme.reset": "Réinitialiser le thème",
     "ui.options.traffic": "Trafic",
-    "ui.options.traffic.amount": "Nombre maximum de véhicules",
+    "ui.options.traffic.amount": "nombre de véhicule en circulation",
     "ui.options.traffic.amount.tooltip": "Définit le nombre maximum de véhicules autorisés sur la carte (un nombre plus élevé utilise plus de puissance du processeur).",
     "ui.options.traffic.trafficSetup": "Sélection des véhicules du trafic",
     "ui.options.traffic.trafficSetup.tooltip": "Définit les véhicules susceptibles d'apparaître dans le trafic (le mode Intelligent privilégie les véhicules spécifiques au pays).",
