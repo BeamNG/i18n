@@ -1761,7 +1761,7 @@
     "ui.options.graphics.MainMenuBackgroundModeBrokenCefVersion": "Arrière-plan du menu",
     "ui.options.graphics.uiAcceleratedRender": "Activer l'accélération matérielle pour l'interface utilisateur",
     "ui.options.graphics.restartRequired": "Un redémarrage du jeu est nécessaire pour que ces changements soient pris en compte.",
-    "ui.options.graphics.uimaxresExplanation": "Définit la résolution maximale pour l'interface utilisateur. Utile pour les écrans 4K.",
+    "ui.options.graphics.uimaxresExplanation": "Définit la résolution maximale pour l'interface utilisateur. Équilibre entre la qualité et les performances.",
     "ui.options.graphics.uimaxresNotAvailable": "La résolution maximale de l'interface utilisateur n'est pas disponible dans le menu principal.",
     "ui.options.graphics.overallquality": "Qualité générale",
     "ui.options.graphics.antialiasing": "Anticrénelage",
@@ -3665,5 +3665,8 @@
     "ui.options.camera.alwaysFan": "Toujours Amateur",
     "ui.options.camera.mostlyFan": "Majoritairement Amateur",
     "ui.options.camera.frequentlyFan": "Fréquemment Amateur",
-    "ui.options.camera.frequentlyTV": "Fréquemment TV"
+    "ui.options.camera.frequentlyTV": "Fréquemment TV",
+    "ui.options.camera.evenlySplit": "Répartie équitablement",
+    "ui.options.camera.muchQuicker": "Plutôt rapide",
+    "ui.options.userInterface.richPresence": "Activer Rich Presence (Activité Discord)"
 }
