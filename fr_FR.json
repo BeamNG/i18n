@@ -1770,7 +1770,7 @@
     "ui.options.graphics.PostFXLightRaysEnabled": "Rayons lumineux",
     "ui.options.graphics.PostFXDOFGeneralEnabled": "Profondeur de champ",
     "ui.options.graphics.PostFXBloomGeneralEnabled": "Flou lumineux",
-    "ui.options.graphics.GraphicAntialiasType": "Anticrénelage",
+    "ui.options.graphics.GraphicAntialiasType": "Mode d'anticrénelage",
     "ui.options.graphics.GraphicMeshQuality": "Qualité du maillage",
     "ui.options.graphics.GraphicTextureQuality": "Qualité des textures",
     "ui.options.graphics.GraphicLightingQuality": "Qualité de l'éclairage",
@@ -3668,5 +3668,6 @@
     "ui.options.camera.frequentlyTV": "Fréquemment TV",
     "ui.options.camera.evenlySplit": "Répartie équitablement",
     "ui.options.camera.muchQuicker": "Plutôt rapide",
-    "ui.options.userInterface.richPresence": "Activer Rich Presence (Activité Discord)"
+    "ui.options.userInterface.richPresence": "Activer Rich Presence (Activité Discord)",
+    "ui.options.camera.slower": "Plus lentement"
 }
