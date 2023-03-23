@@ -1453,7 +1453,7 @@
     "ui.vehicleconfig.filename": "Nom du fichier",
     "ui.vehicleconfig.licensePlate": "Plaque d'immatriculation",
     "ui.vehicleconfig.licensePlateGen": "Regénérer une plaque d'immatriculation",
-    "ui.vehicleconfig.updateLicensePlate": "Générer une plaque d'immatriculation",
+    "ui.vehicleconfig.updateLicensePlate": "Appliquer la plaque d'immatriculation",
     "ui.vehicleconfig.stickySelection": "Conserver la sélection",
     "ui.vehicleconfig.subparts": "Sous-pièces en surbrillance",
     "ui.vehicleconfig.simpleTree": "Arbre simple",
@@ -1604,7 +1604,7 @@
     "ui.options.communityTranslations": "Traductions de la communauté",
     "ui.options.currentLanguage": "Langue actuelle",
     "ui.options.availableLanguages": "Langues disponibles",
-    "ui.options.detectedLanguage": "Langues détectées",
+    "ui.options.detectedLanguage": "Langue détectée",
     "ui.options.communityTranslationsAgree": "Autoriser & activer",
     "ui.options.communityTranslationsAckText": "Les traductions sont créées par les utilisateurs de la communauté. BeamNG n'est en aucun cas responsable de ces traductions (dans le cas où elles seraient inappropriées ou incorrectes). À utiliser à vos risques et périls.",
     "ui.options.userInterface.showCustomVehicles": "Afficher les véhicules personnalisés dans le sélecteur de véhicules",
@@ -3661,5 +3661,9 @@
     "launchercpp.setting_parse_err_title": "Fichiers invalides",
     "ui.options.camera.videocam": "Caméra vidéo",
     "ui.options.camera.mostlyTV": "Principalement TV",
-    "ui.options.camera.alwaysTV": "Toujours TV"
+    "ui.options.camera.alwaysTV": "Toujours TV",
+    "ui.options.camera.alwaysFan": "Toujours Amateur",
+    "ui.options.camera.mostlyFan": "Majoritairement Amateur",
+    "ui.options.camera.frequentlyFan": "Fréquemment Amateur",
+    "ui.options.camera.frequentlyTV": "Fréquemment TV"
 }
