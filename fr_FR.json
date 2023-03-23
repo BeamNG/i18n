@@ -3658,5 +3658,8 @@
     "ui.options.graphics.Images": "Images",
     "ui.options.graphics.TripleMonitorFov": "Angle des triples écrans",
     "ui.options.camera.chase": "Poursuite",
-    "launchercpp.setting_parse_err_title": "Fichiers invalides"
+    "launchercpp.setting_parse_err_title": "Fichiers invalides",
+    "ui.options.camera.videocam": "Caméra vidéo",
+    "ui.options.camera.mostlyTV": "Principalement TV",
+    "ui.options.camera.alwaysTV": "Toujours TV"
 }
