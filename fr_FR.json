@@ -1459,7 +1459,7 @@
     "ui.vehicleconfig.simpleTree": "Arbre simple",
     "ui.vehicleconfig.mouseOverUi": "Gardez la souris sur l'interface utilisateur quand vous écrivez pour faire en sorte que l'entrée clavier s'effectue dans l'interface.",
     "ui.photomode.takeScreen": "Faire une capture d'écran",
-    "ui.photomode.takebigScreen": "Faire une grande capture d'écran",
+    "ui.photomode.takebigScreen": "Prendre une grande capture d'écran ( prend quelques secondes)",
     "ui.photomode.uploadScreen": "Envoyer la capture d’écran sur le serveur de BeamNG ( dans un navigateur)",
     "ui.photomode.quitPhotoMode": "Quitter le mode photo",
     "ui.photomode.advancedImgSettings": "Ouvrir les réglages avancés",
