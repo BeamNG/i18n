@@ -3656,5 +3656,7 @@
     "ui.radialmenu2.ai.follow.desc": "l'IA va vous suivre.",
     "ui.radialmenu2.ai.follow": "Suivez-moi !",
     "ui.options.graphics.Images": "Images",
-    "ui.options.graphics.TripleMonitorFov": "Angle des triples écrans"
+    "ui.options.graphics.TripleMonitorFov": "Angle des triples écrans",
+    "ui.options.camera.chase": "Poursuite",
+    "launchercpp.setting_parse_err_title": "Fichiers invalides"
 }
