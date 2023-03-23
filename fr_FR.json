@@ -3669,5 +3669,6 @@
     "ui.options.camera.evenlySplit": "Répartie équitablement",
     "ui.options.camera.muchQuicker": "Plutôt rapide",
     "ui.options.userInterface.richPresence": "Activer Rich Presence (Activité Discord)",
-    "ui.options.camera.slower": "Plus lentement"
+    "ui.options.camera.slower": "Plus lentement",
+    "launchercpp.setting_parse_err_txt": "Impossible d'analyser les paramètres du jeu.\nContacter le support"
 }
