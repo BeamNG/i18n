@@ -1765,7 +1765,7 @@
     "ui.options.graphics.uimaxresNotAvailable": "La résolution maximale de l'interface utilisateur n'est pas disponible dans le menu principal.",
     "ui.options.graphics.overallquality": "Qualité générale",
     "ui.options.graphics.antialiasing": "Anticrénelage",
-    "ui.options.graphics.PostFXSSAOGeneralEnabled": "SSAO",
+    "ui.options.graphics.PostFXSSAOGeneralEnabled": "Occlusion Ambiante",
     "ui.options.graphics.PostFXHDRGeneralEnabled": "HDR",
     "ui.options.graphics.PostFXLightRaysEnabled": "Rayons lumineux",
     "ui.options.graphics.PostFXDOFGeneralEnabled": "Profondeur de champ",
