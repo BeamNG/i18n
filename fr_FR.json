@@ -1963,7 +1963,7 @@
     "ui.performance.warnings.win8rec": "Windows 8 est recommandé.",
     "ui.performance.mods.title": "Nombre de mods",
     "ui.performance.mods.stat": "Mods compressés : {{zip}}  |  Mods décompressés : {{unpacked}}",
-    "ui.performance.mods.lt": "Moins de :  {{zip}} mods compressés  |   {{unpacked}} mods décompressés",
+    "ui.performance.mods.lt": "Moins de: {{zip}} Mods zippés | {{unpacked}} Mods décompressés",
     "ui.performance.warnings.toomanymods": "Il est possible que vous ayez trop de mods, ce qui peut affecter vos performances. Essayez de désactiver des mods.",
     "ui.performance.warnings.highseas": "Ohé du bateau !",
     "ui.performance.highsea.txt": "Merci d'avoir essayé notre jeu ! :) [br] [br] Il semble que vous utilisiez un exemplaire non officiel. L'expérience prouve que ces exemplaires sont moins fiables que les versions officielles et peuvent contenir des programmes malveillants ; vérifiez donc votre ordinateur. [br] [br] Si vous aimez notre produit et souhaitez nous aider à le développer, toujours profiter de la version la plus récente et bénéficier de notre assistance officielle, vous pouvez acheter un exemplaire de BeamNG.drive sur [url=https://store.steampowered.com/app/284160/BeamNGdrive]Steam[/url] ou [url=https://www.humblebundle.com/store/beamngdrive]Humble Bundle[/url].[br] [br] Merci de la part de toute l'équipe !",
