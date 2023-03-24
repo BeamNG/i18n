@@ -1779,7 +1779,7 @@
     "ui.options.graphics.GraphicAnisotropic": "Filtre anisotrope",
     "ui.options.graphics.GraphicGrassDensity": "Densité de l'herbe",
     "ui.options.graphics.GraphicMaxDecalCount": "Quantité de traces de pneus",
-    "ui.options.graphics.postfx": "PostFX",
+    "ui.options.graphics.postfx": "Gestionnaire de PostFX",
     "ui.options.graphics.grassdensity": "Densité de l'herbe",
     "ui.options.graphics.GraphicDynReflection": "Reflets dynamiques",
     "ui.options.graphics.Warning": "AVERTISSEMENT",
