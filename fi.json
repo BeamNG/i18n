@@ -3118,7 +3118,7 @@
     "ui.stats.accuracy": "Tarkkuus",
     "ui.stats.bumpBonus": "Tönäisybonus",
     "ui.stats.chainCrashes": "Ketjukolarit",
-    "ui.stats.damageDone": "Tehty vaurio",
+    "ui.stats.damageDone": "Tehty vahinko",
     "ui.controls.lockTypes.1": "1:1 (täysi lukitus ei välttämättä mahdollinen)",
     "ui.controls.lockType.warningAdvice": "lukituskulma on asetettu, joten tyyppiä 1:1 suositellaan",
     "ui.controls.lockTypes.0": "1:N (täysi lukitus mahdollinen)",
