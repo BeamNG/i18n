@@ -3322,5 +3322,17 @@
     "ui.inputActions.gameplay.toggleTraffic.description": "Kytkee muiden ajoneuvojen liikennejärjestelmän päälle/pois",
     "ui.inputActions.gameplay.toggleTraffic.title": "Liikenne päälle/pois",
     "ui.inputActions.gameplay.toggleWalkingMode.description": "Astuu sisään ajoneuvoon tai ulos ajoneuvosta",
-    "ui.inputActions.gameplay.toggleWalkingMode.title": "Kävely päälle/pois"
+    "ui.inputActions.gameplay.toggleWalkingMode.title": "Kävely päälle/pois",
+    "ui.inputActions.gameplay.toggle_minimap.description": "Kytkee pienoiskartan päälle/pois",
+    "ui.inputActions.gameplay.toggle_minimap.title": "Pienoiskartta päälle/pois",
+    "ui.inputActions.gameplay.toggle_timeTrialsScreen.description": "Avaa määritysvalikon aika-ajoissa",
+    "ui.inputActions.general.doBigScreenShot.title": "Ota iso kuvakaappaus",
+    "ui.inputActions.general.doHugeScreenShot.description": "Ottaa ja tallentaa maksimitarkkuuksisen kuvakaappauksen",
+    "ui.inputActions.general.doHugeScreenShot.title": "Ota valtava kuvakaappaus",
+    "ui.inputActions.general.doScreenShot.description": "Ottaa ja tallentaa kuvakaappauksen",
+    "ui.inputActions.general.hide_ui.description": "Näyttää tai piilottaa koko käyttöliittymän",
+    "ui.inputActions.general.hide_ui.title": "Piilota käyttöliittymä",
+    "ui.inputActions.gameplay.toggle_timeTrialsScreen.title": "Aika-ajon määritykset",
+    "ui.inputActions.general.doBigScreenShot.description": "Ottaa ja tallentaa korkeatarkkuuksisen kuvakaappauksen",
+    "ui.inputActions.general.pause.description": "Panee pelin tauolle tai uusintatilaan"
 }
