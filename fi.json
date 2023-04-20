@@ -3856,7 +3856,7 @@
     "launchercpp.cleancache_interact_explore": "Selataan tiedostoja...",
     "launchercpp.cleancache_interact_stat": "{0:d} tiedostoa siirretty varmuuskopioon, {1:d} välimuistitiedostoa poistettu, {2:d} kansiota käyty läpi",
     "launchercpp.cleancache_interact_rmempty": "Poistetaan tyhjiä kansioita...",
-    "launchercpp.cleancache_interact_done": "Kaikki tunnistamattomat käyttäjäkansioon tiedostot siirrettiin sijaintiin:\n'{0}'\nVälimuisti tyhjennetty.",
+    "launchercpp.cleancache_interact_done": "Kaikki tunnistamattomat käyttäjäkansion tiedostot siirrettiin sijaintiin:\n'{0}'\nVälimuisti tyhjennetty.",
     "launchercpp.cleancache_interact_manualreq": "Käyttäjäkansio sijaitsee pelikansion sisällä.\nVälimuistikansiot tulee poistaa manuaalisesti.",
     "launchercpp.integrity_error": "Eheysvirhe",
     "launchercpp.integrity_chk": "Eheystarkistus",
