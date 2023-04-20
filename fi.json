@@ -3340,5 +3340,6 @@
     "ui.inputActions.general.pause.toResume": "jatkaaksesi",
     "ui.inputActions.general.photomode.description": "Pysäyttää fysiikat ja siirtyy kuvanottotilaan",
     "ui.inputActions.general.photomode.title": "Kuvanottotila",
-    "ui.inputActions.general.publishScreenShot.description": "Ottaa kuvakaappauksen ja lataa media.beamng:hen jakamista varten"
+    "ui.inputActions.general.publishScreenShot.description": "Ottaa kuvakaappauksen ja lataa media.beamng:hen jakamista varten",
+    "ui.inputActions.general.press": "Paina"
 }
