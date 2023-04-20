@@ -3830,5 +3830,6 @@
     "launchercpp.moveusr_do_notempty_txt": "Uuden käyttäjäkansion on oltava tyhjä.\n\nSinun kannattaisi siirtää tiedot itse ja/tai jättää 'Siirrä tiedot' -vaihtoehto valitsematta",
     "launchercpp.moveusr_do_failmove": "Käyttäjätiedostojen siirto epäonnistui.\nKatso käynnistimen lokia.\n\nTiedostojen siirto pitää suorittaa manuaalisesti loppuun.\nUutta käyttäjäpolkua ei asetettu",
     "launchercpp.moveusr_do_index": "Indeksoidaan tiedostoja...",
-    "launchercpp.moveusr_do_moving": "Siirretään tiedostoja..."
+    "launchercpp.moveusr_do_moving": "Siirretään tiedostoja...",
+    "launchercpp.moveusr_do_restart_txt": "Käynnistä käynnistin uudelleen ottaaksesi muutokset käyttöön"
 }
