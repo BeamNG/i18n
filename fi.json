@@ -3301,5 +3301,16 @@
     "ui.inputActions.gameplay.nodegrabberStrength.title": "Vaihda tarrausvoimakkuutta",
     "ui.inputActions.gameplay.recover_vehicle.description": "Kelaa ajoneuvon sijaintia taaksepäin",
     "ui.inputActions.gameplay.recover_vehicle.title": "Pelasta ajoneuvo",
-    "ui.inputActions.gameplay.recover_vehicle_alt.description": "Kelaa ajoneuvon sijainti taaksepäin vaihtoehtoisella toteutuksella ilman älykästä sijoittelua"
+    "ui.inputActions.gameplay.recover_vehicle_alt.description": "Kelaa ajoneuvon sijainti taaksepäin vaihtoehtoisella toteutuksella ilman älykästä sijoittelua",
+    "ui.inputActions.gameplay.recover_vehicle_alt.title": "Pelasta ajoneuvo (vaihtoehtoinen)",
+    "ui.inputActions.gameplay.reset_all_physics.description": "Käynnistää kaikki ajoneuvon fysiikat uudelleen",
+    "ui.inputActions.gameplay.reset_all_physics.title": "Nollaa ajoneuvon fysiikat",
+    "ui.inputActions.gameplay.reset_physics.title": "Nollaa fysiikat",
+    "ui.inputActions.gameplay.saveHome.description": "Tallentaa ajoneuvon nykyisen sijainnin palauttamista varten",
+    "ui.inputActions.gameplay.saveHome.title": "Aseta kotisijainti",
+    "ui.inputActions.gameplay.start_drag.description": "Aloita kiihdytysajot",
+    "ui.inputActions.gameplay.start_drag.title": "Hyväksy kiihdytysajo",
+    "ui.inputActions.gameplay.switch_next_vehicle.description": "Kohdistaa seuraavan ajoneuvon",
+    "ui.inputActions.gameplay.switch_next_vehicle.title": "Seuraava ajoneuvo",
+    "ui.inputActions.gameplay.switch_next_vehicle_multiseat.description": "Kohdistaa seuraavan ajoneuvon moni-istuintilassa"
 }
