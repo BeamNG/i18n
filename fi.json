@@ -3189,5 +3189,5 @@
     "ui.inputActions.camera.increase_zoom.title": "Lähennä",
     "ui.inputActions.camera.decrease_zoom_or_freecam_down.title": "Loitonna tai vapaakameraa alas",
     "ui.inputActions.camera.increase_zoom.description": "Lähentää kameraa",
-    "ui.inputActions.camera.increase_zoom_or_freecam_up.description": "Loitontaa kameraa tai vapaakameratilassa siirtää ylöspäin"
+    "ui.inputActions.camera.increase_zoom_or_freecam_up.description": "Loitontaa kameraa tai vapaakameratilassa liikkuu ylöspäin"
 }
