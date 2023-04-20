@@ -3111,5 +3111,6 @@
     "ui.options.graphics.GraphicPostfxQualityTooltip": "Jälkikäsittelyefektien laatu. Korkeat asetukset parantavat ja siistivät efektien ulkonäköä.",
     "ui.options.graphics.GraphicShaderQualityTooltip": "Shaderien yleinen laatu. Korkeat asetukset tuovat hienomman näköisen kuvan.",
     "ui.options.graphics.GraphicLightingQualityTooltip": "Valon ja varjon laatu. Korkeat asetukset käyttävät dynaamisia valoja sekä tarkempia varjoja. Dynaamiset valot kuten ajovalot ovat pois päältä pienimmillä asetuksilla.",
-    "scenario.customExtensionLoadFailed": "Mukautettu logiikka ei ole käynnissä. Tarkista logi jossa on varoitus {{extName}}"
+    "scenario.customExtensionLoadFailed": "Logiikkalisäosa ei käytössä. Tarkista, onko lokeissa varoituksia lisäosalle {{extName}}",
+    "ui.common.simpleVehicles": "Yksinkertaiset ajoneuvot"
 }
