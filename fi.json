@@ -3127,5 +3127,9 @@
     "ui.stats.altitude": "Korkeus",
     "ui.stats.damage": "Vahinko",
     "ui.radialmenu2.ai.follow": "Seuraa minua!",
-    "ui.radialmenu2.ai.follow.desc": "AI seuraa sinua."
+    "ui.radialmenu2.ai.follow.desc": "AI seuraa sinua.",
+    "ui.stats.distance": "Etäisyys",
+    "ui.stats.driftCrashes": "Luisukolarit",
+    "ui.stats.frontalCrashes": "Nokkakolarit",
+    "ui.stats.pathAdvance": "Polun seuraus"
 }
