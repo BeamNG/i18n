@@ -3057,7 +3057,7 @@
     "ui.options.other.enableFullVehicleTransparencyPlayback": "Laita ajoneuvon täysi läpinäkyvyystoisto päälle",
     "ui.options.other.compressionLevel": "Kompression taso",
     "ui.options.other.miscLua": "Sekalainen lua",
-    "ui.options.other.interpolateAllAlt": "Interpoloi kaikki vaihtoehtoiset",
+    "ui.options.other.interpolateAllAlt": "Interpoloi kaikki alt",
     "ui.options.other.useAlt": "^ käytä alt-näppäintä",
     "ui.options.other.interpolateVehiclePosition": "Interpoloi ajoneuvon sijainti",
     "ui.options.other.replay": "Uusinta",
@@ -3112,5 +3112,7 @@
     "ui.options.graphics.GraphicShaderQualityTooltip": "Shaderien yleinen laatu. Korkeat asetukset tuovat hienomman näköisen kuvan.",
     "ui.options.graphics.GraphicLightingQualityTooltip": "Valon ja varjon laatu. Korkeat asetukset käyttävät dynaamisia valoja sekä tarkempia varjoja. Dynaamiset valot kuten ajovalot ovat pois päältä pienimmillä asetuksilla.",
     "scenario.customExtensionLoadFailed": "Logiikkalisäosa ei käytössä. Tarkista, onko lokeissa varoituksia lisäosalle {{extName}}",
-    "ui.common.simpleVehicles": "Yksinkertaiset ajoneuvot"
+    "ui.common.simpleVehicles": "Yksinkertaiset ajoneuvot",
+    "ui.controls.lockType": "Ohjauslukon tyyppi",
+    "ui.controls.lockType.warningMissingAngle": "Valittu lukon tyyppi tarvitsee lukituskulman asetuksen"
 }
