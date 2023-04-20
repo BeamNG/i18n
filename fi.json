@@ -3341,5 +3341,18 @@
     "ui.inputActions.general.photomode.description": "Pysäyttää fysiikat ja siirtyy kuvanottotilaan",
     "ui.inputActions.general.photomode.title": "Kuvanottotila",
     "ui.inputActions.general.publishScreenShot.description": "Ottaa kuvakaappauksen ja lataa media.beamng:hen jakamista varten",
-    "ui.inputActions.general.press": "Paina"
+    "ui.inputActions.general.press": "Paina",
+    "ui.inputActions.general.publishScreenShot.title": "Ota ja jaa kuvakaappaus",
+    "ui.inputActions.general.quit.description": "Lopettaa pelin",
+    "ui.inputActions.general.toggle_fullscreen.description": "Kytkee koko ruudun tilan päälle/pois",
+    "ui.inputActions.general.toggle_fullscreen.title": "Koko ruutu päälle/pois",
+    "ui.inputActions.menu.appedit.description": "Siirtyy käyttöliittymän sovellusten muokkaustilaan",
+    "ui.inputActions.menu.menu_item_back.description": "Napsauttaa valittua valikkokohtaa",
+    "ui.inputActions.menu.menu_item_back.title": "Peruuta/Takaisin",
+    "ui.inputActions.menu.menu_item_confirm.description": "Suorittaa valitun valikkokohdan toiminnon",
+    "ui.inputActions.menu.menu_item_confirm.title": "Vahvista valinta",
+    "ui.inputActions.menu.menu_item_dashboard.description": "Palaa kojelautaan mistä tahansa",
+    "ui.inputActions.menu.menu_item_dashboard.title": "Kojelauta",
+    "ui.inputActions.menu.menu_item_down.description": "Siirtyy valikossa jotakuinkin alla olevaan kohtaan",
+    "ui.inputActions.general.quit.title": "Lopeta"
 }
