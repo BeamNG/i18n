@@ -3432,5 +3432,14 @@
     "ui.inputActions.vehicle.gear5.title": "5. vaihde",
     "ui.inputActions.vehicle.gear6.title": "6. vaihde",
     "ui.inputActions.vehicle.gear7.title": "7. vaihde",
-    "ui.inputActions.vehicle.gear8.title": "8. vaihde"
+    "ui.inputActions.vehicle.gear8.title": "8. vaihde",
+    "ui.inputActions.vehicle.gearR.description": "Vaihtaa peruutusvaihteelle",
+    "ui.inputActions.vehicle.gearR.title": "Peruutusvaihde",
+    "ui.inputActions.vehicle.highbeam.description": "Väläyttää kaukovaloja",
+    "ui.inputActions.vehicle.horn.description": "Soittaa äänitorvea",
+    "ui.inputActions.vehicle.horn.title": "Töötti",
+    "ui.inputActions.vehicle.increaseTwoStepRPM.title": "Nosta kaksivaiheisen lähtöavustimen kierroslukua",
+    "ui.inputActions.vehicle.increase_cc_speed.description": "Nostaa vakionopeudensäätimen nopeutta 1 km/h",
+    "ui.inputActions.vehicle.increase_cc_speed.title": "Nosta vakionopeutta (1 km/h)",
+    "ui.inputActions.vehicle.highbeam.title": "Väläytä kaukovaloja"
 }
