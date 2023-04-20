@@ -3361,5 +3361,11 @@
     "ui.inputActions.menu.menu_item_left.title": "Vasemmalle valikossa",
     "ui.inputActions.menu.menu_item_radial_right_x.description": "Vierittää sivuelementtejä (vaakasuuntaan)",
     "ui.inputActions.menu.menu_item_radial_right_x.title": "Valikon selaus (vaaka)",
-    "ui.inputActions.menu.menu_item_radial_right_y.description": "Selaa sivuelementtejä (pystysuuntaan)"
+    "ui.inputActions.menu.menu_item_radial_right_y.description": "Selaa sivuelementtejä (pystysuuntaan)",
+    "ui.inputActions.menu.menu_item_radial_y.title": "Ympyrävalikko (pysty)",
+    "ui.inputActions.menu.menu_item_radial_right_y.title": "Valikon selaus (pysty)",
+    "ui.inputActions.menu.menu_item_radial_x.description": "Siirtää ympyrävalikon valitsinta (vaakasuuntaan)",
+    "ui.inputActions.menu.menu_item_radial_x.title": "Ympyrävalikko (vaaka)",
+    "ui.inputActions.menu.menu_item_radial_y.description": "Siirtää ympyrävalikon valitsinta (pystysuuntaan)",
+    "ui.inputActions.menu.menu_item_right.description": "Siirtyy valikossa jotakuinkin oikealla olevaan kohtaan"
 }
