@@ -3539,7 +3539,7 @@
     "ui.inputActions.vehicle_debug.debugmode_toggle.description": "Vaihtaa testaustilan päälle/pois",
     "ui.inputActions.vehicle_debug.debugmode_toggle.title": "Testaustila päälle/pois",
     "ui.inputActions.vehicle_debug.debugmode_toggle_coltris.description": "Näyttää törmäystahkojen testaustiedot",
-    "ui.inputActions.vehicle_debug.debugmode_toggle_coltris.title": "Törmäyksen testaus päälle/pois",
+    "ui.inputActions.vehicle_debug.debugmode_toggle_coltris.title": "Törmäystahkojen tiedot päälle/pois",
     "ui.inputActions.vehicle.toggle_lightbar_signal.title": "Valopalkin valot",
     "ui.inputActions.vehicle.toggle_right_signal.description": "Kytkee oikean suuntavilkun päälle/pois",
     "ui.inputActions.vehicle_debug.debugmode_nodetext_back.description": "Vaihtaa kärkitestaustilojen välillä",
