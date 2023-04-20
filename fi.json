@@ -3142,5 +3142,10 @@
     "ui.traffic.infractions.reckless": "huolimaton ajo",
     "ui.stats.stopDistance": "Pysähdyspituus",
     "ui.stats.time": "Aikaa",
-    "ui.traffic.infractions.speeding": "ylinopeus"
+    "ui.traffic.infractions.speeding": "ylinopeus",
+    "ui.stats.reverseCrashes": "Peruutuskolarit",
+    "ui.stats.smoothness": "Sulavuus",
+    "ui.traffic.infractions.hitPolice": "törmäys poliisiin",
+    "ui.stats.stopAngle": "Pysähdyskulma",
+    "ui.traffic.infractions.title": "Rikkeet:"
 }
