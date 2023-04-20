@@ -3194,7 +3194,7 @@
     "ui.inputActions.camera.look_back.description": "Osoita kamera taaksepäin",
     "ui.inputActions.camera.movedown.description": "Siirtää lentävää kameraa alas",
     "ui.inputActions.camera.movedown.title": "Siirrä alas",
-    "ui.inputActions.camera.movefast.description": "Siirtää kameraa nopeammin (jos tuettu)",
+    "ui.inputActions.camera.movefast.description": "Liikuttaa kameraa nopeammin (jos tuettu)",
     "ui.inputActions.camera.look_back.title": "Katso taakse",
     "ui.inputActions.camera.movebackward.description": "Siirtää lentävää kameraa taaksepäin",
     "ui.inputActions.camera.movebackward.title": "Siirry taaksepäin",
