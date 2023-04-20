@@ -3659,5 +3659,9 @@
     "ui.inputActions.rollover.increase_angle.title": "Nosta kelkan kulmaa",
     "ui.inputActions.rollover.prepare.description": "Näyttää kelkan kallistuskulman",
     "ui.inputActions.rollover.prepare.title": "Kulman esikatselu",
-    "ui.inputActions.semi.decrease_rideHeight.description": "Vaihtaa ajoneuvon oletuskorkeutta"
+    "ui.inputActions.semi.decrease_rideHeight.description": "Vaihtaa ajoneuvon oletuskorkeutta",
+    "ui.inputActions.semi.extend.title": "Pidennä",
+    "ui.inputActions.semi.decrease_rideHeight.title": "Laske korkeutta",
+    "ui.inputActions.semi.extend.description": "Pidentää lavaa taaksepäin",
+    "ui.inputActions.semi.increase_rideHeight.description": "Vaihtaa ajoneuvon oletuskorkeutta"
 }
