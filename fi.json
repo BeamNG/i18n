@@ -3406,5 +3406,11 @@
     "ui.inputActions.vehicle.accelerate_brake.title": "Yhdistetty kaasu- ja jarruakseli",
     "ui.inputActions.vehicle.activateStarterMotor.description": "Ajaa käynnistysmoottoria",
     "ui.inputActions.vehicle.activateStarterMotor.title": "Käynnistysmoottori",
-    "ui.inputActions.vehicle.brake.description": "Painaa jarrua (peruutus helpotetulla vaihteistolla)"
+    "ui.inputActions.vehicle.brake.description": "Painaa jarrua (peruutus helpotetulla vaihteistolla)",
+    "ui.inputActions.vehicle.brake.title": "Jarru",
+    "ui.inputActions.vehicle.clutch.description": "Painaa kytkintä",
+    "ui.inputActions.vehicle.clutch.title": "Kytkin",
+    "ui.inputActions.vehicle.decreaseTwoStepRPM.title": "Laske kaksivaiheisen lähtöavustimen kierroslukua",
+    "ui.inputActions.vehicle.decrease_cc_speed.title": "Laske vakionopeutta (1 km/h)",
+    "ui.inputActions.vehicle.decrease_cc_speed.description": "Laskee vakionopeudensäätimen nopeutta 1 km/h"
 }
