@@ -2911,7 +2911,7 @@
     "ui.apps.engine_thermal_debug.airRegulator": "Ilmapaineen säädin",
     "ui.apps.engine_thermal_debug.coolantThermostat": "Jäähdytysnesteen termostaatti",
     "ui.apps.engine_thermal_debug.exhaustManifold": "Pakosarja",
-    "ui.apps.engine_thermal_debug.cylinderlWall": "Sylinteri seinä",
+    "ui.apps.engine_thermal_debug.cylinderlWall": "Sylinterin seinä",
     "ui.apps.engine_thermal_debug.block": "Lohko",
     "ui.apps.engine_thermal_debug.oil": "Öljy",
     "ui.apps.engine_thermal_debug.coolant": "Jäähdytysneste",
