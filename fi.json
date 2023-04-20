@@ -3831,5 +3831,8 @@
     "launchercpp.moveusr_do_failmove": "Käyttäjätiedostojen siirto epäonnistui.\nKatso käynnistysohjelman lokia.\n\nTiedostojen siirto pitää suorittaa manuaalisesti loppuun.\nUutta käyttäjäpolkua ei asetettu",
     "launchercpp.moveusr_do_index": "Indeksoidaan tiedostoja...",
     "launchercpp.moveusr_do_moving": "Siirretään tiedostoja...",
-    "launchercpp.moveusr_do_restart_txt": "Käynnistä käynnistysohjelma uudelleen ottaaksesi muutokset käyttöön"
+    "launchercpp.moveusr_do_restart_txt": "Käynnistä käynnistysohjelma uudelleen ottaaksesi muutokset käyttöön",
+    "launchercpp.moveusr_do_restart_title": "Käynnistä uudelleen",
+    "launchercpp.moveusr_do_registry_err": "Rekisteriarvon luonti tai muuttaminen epäonnistui",
+    "launchercpp.supporttool_safemode_txt": "Käynnistää pelin väliaikaisella käyttäjäkansiolla. Käytä tätä virheenkorjaukseen, jos ilmenee ongelmia.\n\nJos peli toimii hyvin vikasietotilassa, jokin modeistasi voi olla ongelmien syynä.\n\nVAROITUS: peliin vikasietotilassa tehtyjä muutoksia ei tallenneta"
 }
