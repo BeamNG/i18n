@@ -3714,7 +3714,7 @@
     "ui.inputActions.van.extendFeet.title": "Laske tukijalat",
     "ui.inputActions.van.retractFeet.description": "Nostaa lavan tukijalat",
     "ui.inputActions.van.retractFeet.title": "Nosta tukijalat",
-    "ui.inputActions.weightpad.setTare.description": "Palauttaa skaalan nollaan",
+    "ui.inputActions.weightpad.setTare.description": "Palauttaa vaa'an nollaan",
     "ui.inputActions.semi.toggle_doors.description": "Avaa/sulkee molemmat rahtiovet",
     "ui.inputActions.tanker.toggle_feet.description": "Nostaa/laskee perävaunun jalat",
     "ui.inputActions.van.toggle_doors.title": "Rahtiovet",
