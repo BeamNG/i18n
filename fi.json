@@ -3566,5 +3566,10 @@
     "ui.inputActions.bollard.blocker.title": "Ylös/alas",
     "ui.inputActions.boxutility.toggle_feet.description": "Nostaa/laskee perävaunun tunkin",
     "ui.inputActions.cannon.lift.description": "Nostaa piipun ylös tai alas",
-    "ui.inputActions.cannon.lift.title": "Nostaa/laske"
+    "ui.inputActions.cannon.lift.title": "Nostaa/laske",
+    "ui.inputActions.cannon.liftUp.description": "Nostaa piippua ylös",
+    "ui.inputActions.cannon.liftUp.title": "Nosta ylös",
+    "ui.inputActions.cannon.lowerDown.description": "Laskee piippua alas",
+    "ui.inputActions.cannon.lowerDown.title": "Laske alas",
+    "ui.inputActions.cannon.shoot.description": "Ampuu tykinkuulan, tykki pitää nollata ampuaksesi uudelleen"
 }
