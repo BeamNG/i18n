@@ -3197,5 +3197,15 @@
     "ui.inputActions.camera.movefast.description": "Siirtää kameraa nopeammin (jos tuettu)",
     "ui.inputActions.camera.look_back.title": "Katso taakse",
     "ui.inputActions.camera.movebackward.description": "Siirtää lentävää kameraa taaksepäin",
-    "ui.inputActions.camera.movebackward.title": "Siirry taaksepäin"
+    "ui.inputActions.camera.movebackward.title": "Siirry taaksepäin",
+    "ui.inputActions.camera.moveforward.description": "Siirtää lentävää kameraa eteenpäin",
+    "ui.inputActions.camera.movefast.title": "Liiku nopeammin",
+    "ui.inputActions.camera.moveleft.title": "Siirrä vasemmalle",
+    "ui.inputActions.camera.moveright.title": "Siirrä oikealle",
+    "ui.inputActions.camera.moveup.description": "Siirtää lentävää kameraa ylöspäin",
+    "ui.inputActions.camera.moveup.title": "Siirrä ylös",
+    "ui.inputActions.camera.rollAbs.description": "Kolmiulotteisen hiiren kierintäakseli",
+    "ui.inputActions.camera.moveforward.title": "Siirrä eteenpäin",
+    "ui.inputActions.camera.moveleft.description": "Siirtää lentävää kameraa vasemmalle",
+    "ui.inputActions.camera.moveright.description": "Siirtää lentävää kameraa oikealle"
 }
