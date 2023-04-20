@@ -3123,5 +3123,9 @@
     "ui.controls.lockType.warningAdvice": "lukituskulma on asetettu, joten tyyppiä 1:1 suositellaan",
     "ui.controls.lockTypes.0": "1:N (täysi lukitus mahdollinen)",
     "ui.controls.lockTypes.2": "1:1, hybridi (täysi lukitus mahdollinen)",
-    "ui.debug.vehicle.replaceCurrent": "Korvaa nykyinen"
+    "ui.debug.vehicle.replaceCurrent": "Korvaa nykyinen",
+    "ui.stats.altitude": "Korkeus",
+    "ui.stats.damage": "Vahinko",
+    "ui.radialmenu2.ai.follow": "Seuraa minua!",
+    "ui.radialmenu2.ai.follow.desc": "AI seuraa sinua."
 }
