@@ -3340,7 +3340,7 @@
     "ui.inputActions.general.pause.toResume": "jatkaaksesi",
     "ui.inputActions.general.photomode.description": "Pysäyttää fysiikat ja siirtyy kuvanottotilaan",
     "ui.inputActions.general.photomode.title": "Kuvanottotila",
-    "ui.inputActions.general.publishScreenShot.description": "Ottaa kuvakaappauksen ja lataa media.beamng:hen jakamista varten",
+    "ui.inputActions.general.publishScreenShot.description": "Ottaa kuvakaappauksen ja lataa osoitteeseen media.beamng jakamista varten",
     "ui.inputActions.general.press": "Paina",
     "ui.inputActions.general.publishScreenShot.title": "Ota ja jaa kuvakaappaus",
     "ui.inputActions.general.quit.description": "Lopettaa pelin",
@@ -3354,5 +3354,6 @@
     "ui.inputActions.menu.menu_item_dashboard.description": "Palaa kojelautaan mistä tahansa",
     "ui.inputActions.menu.menu_item_dashboard.title": "Kojelauta",
     "ui.inputActions.menu.menu_item_down.description": "Siirtyy valikossa jotakuinkin alla olevaan kohtaan",
-    "ui.inputActions.general.quit.title": "Lopeta"
+    "ui.inputActions.general.quit.title": "Lopeta",
+    "ui.inputActions.menu.appedit.title": "UI-sovellusten muokkaus"
 }
