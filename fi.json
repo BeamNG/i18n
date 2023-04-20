@@ -3298,7 +3298,7 @@
     "ui.inputActions.gameplay.nodegrabberAction.description": "Riiputtaa kärkeä ilmassa tai yhdistää sen toiseen kärkeen",
     "ui.inputActions.gameplay.nodegrabberRender.title": "Näytä tarrattavat kärjet",
     "ui.inputActions.gameplay.nodegrabberStrength.description": "Vaihtaa kärkien tarrausvoimakkuutta",
-    "ui.inputActions.gameplay.nodegrabberStrength.title": "Vaihta tarrausvoimakkuutta",
+    "ui.inputActions.gameplay.nodegrabberStrength.title": "Vaihda tarrausvoimakkuutta",
     "ui.inputActions.gameplay.recover_vehicle.description": "Kelaa ajoneuvon sijaintia taaksepäin",
     "ui.inputActions.gameplay.recover_vehicle.title": "Pelasta ajoneuvo",
     "ui.inputActions.gameplay.recover_vehicle_alt.description": "Kelaa ajoneuvon sijainti taaksepäin vaihtoehtoisella toteutuksella ilman älykästä sijoittelua"
