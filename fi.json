@@ -3355,5 +3355,7 @@
     "ui.inputActions.menu.menu_item_dashboard.title": "Kojelauta",
     "ui.inputActions.menu.menu_item_down.description": "Siirtyy valikossa jotakuinkin alla olevaan kohtaan",
     "ui.inputActions.general.quit.title": "Lopeta",
-    "ui.inputActions.menu.appedit.title": "UI-sovellusten muokkaus"
+    "ui.inputActions.menu.appedit.title": "UI-sovellusten muokkaus",
+    "ui.inputActions.menu.menu_item_down.title": "Alas valikossa",
+    "ui.inputActions.menu.menu_item_left.description": "Siirtyy valikossa jotakuinkin vasemmalla olevaan kohtaan"
 }
