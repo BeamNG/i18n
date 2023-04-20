@@ -3373,7 +3373,7 @@
     "ui.inputActions.menu.menu_item_select.title": "Vahvista/aktivoi valikkokohta",
     "ui.inputActions.menu.menu_item_up.description": "Siirtyy valikossa jotakuinkin lähimpään yllä olevaan kohtaan",
     "ui.inputActions.menu.menu_item_up.title": "Ylös valikossa",
-    "ui.inputActions.menu.menu_tab_left.description": " ",
+    "ui.inputActions.menu.menu_tab_left.description": "",
     "ui.inputActions.menu.menu_tab_left.title": "Vasen välilehti",
     "ui.inputActions.menu.menu_tab_right.title": "Oikea välilehti",
     "ui.inputActions.menu.options.description": "Avaa asetusvalikon",
