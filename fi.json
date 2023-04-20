@@ -3766,5 +3766,12 @@
     "ui.options.graphics.Lowest": "Matalin",
     "ui.dragrace.similarOpponent": "Samantasoinen vastustaja",
     "ui.options.controls.bindings.Gameplay": "Peli",
-    "ui.options.controls.bindings.Editor": "Editori"
+    "ui.options.controls.bindings.Editor": "Editori",
+    "ui.campaign.moreInfo": "Lisätietoa",
+    "ui.dragrace.Accept": "Hyväksyn",
+    "ui.mission.type.race": "Kilpailu",
+    "ui.options.controls.bindings.General": "Yleiset",
+    "ui.options.controls.bindings.Camera": "Kamera",
+    "December": "Joulukuu",
+    "general.time_format": "pp.kk.vvvv"
 }
