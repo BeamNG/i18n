@@ -3287,5 +3287,6 @@
     "ui.inputActions.gameplay.funHinges.description": "Rikkoo kaikki ajoneuvon saranat",
     "ui.inputActions.gameplay.funHinges.title": "Riko saranat",
     "ui.inputActions.gameplay.funTires.description": "Puhkoo ajoneuvon renkaat.",
-    "ui.inputActions.gameplay.funTires.title": "Puhko renkaat"
+    "ui.inputActions.gameplay.funTires.title": "Puhko renkaat",
+    "ui.inputActions.gameplay.funExtinguish.title": "Sammuta tulipalo"
 }
