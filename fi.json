@@ -3578,5 +3578,10 @@
     "ui.inputActions.citybus.default_rideHeight.description": "Siirtää ajoneuvon alustan oletuskorkeudelle",
     "ui.inputActions.citybus.default_rideHeight.title": "Oletuskorkeus",
     "ui.inputActions.citybus.max_rideHeight.description": "Siirtää ajoneuvon alustan enimmäiskorkeudelle",
-    "ui.inputActions.citybus.toggle_doors.description": "Avaa ja sulkee ovet"
+    "ui.inputActions.citybus.toggle_doors.description": "Avaa ja sulkee ovet",
+    "ui.inputActions.citybus.max_rideHeight.title": "Enimmäiskorkeus",
+    "ui.inputActions.citybus.toggle_doors.title": "Ovien avaus",
+    "ui.inputActions.citybus.toggle_jato.description": "Kytkee laukaisuraketit päälle/pois",
+    "ui.inputActions.citybus.toggle_jato.title": "Laukaisuraketit",
+    "ui.inputActions.citybus.toggle_kneel.description": "Nojaa ajoneuvoa oikealle"
 }
