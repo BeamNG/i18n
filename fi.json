@@ -3251,5 +3251,16 @@
     "ui.inputActions.debug.debugmode_meshvis_decr.title": "Laske geometrian näkyvyyttä",
     "ui.inputActions.debug.debugmode_meshvis_incr.description": "Nostaa geometrian näkyvyyttä",
     "ui.inputActions.debug.debugmode_meshvis_incr.title": "Nosta geometrian näkyvyyttä",
-    "ui.inputActions.debug.flexmeshDebugSelectionToggle.description": "Vaihtaa taivutusgeometrian testauksen valintatilaa"
+    "ui.inputActions.debug.flexmeshDebugSelectionToggle.description": "Vaihtaa taivutusgeometrian testauksen valintatilaa",
+    "ui.inputActions.debug.flexmeshDebugSelectionToggle.title": "Taivutusgeometrian testaus",
+    "ui.inputActions.debug.lua_reload.description": "Lataa ajoneuvon Luan uudelleen",
+    "ui.inputActions.debug.toggleConsole.description": "Kytkee konsolin päälle/pois",
+    "ui.inputActions.debug.toggleConsole.title": "Järjestelmäkonsoli (vanha)",
+    "ui.inputActions.debug.toggleConsoleNG.description": "Kytkee konsolin päälle/pois",
+    "ui.inputActions.debug.toggleConsoleNG.title": "Järjestelmäkonsoli",
+    "ui.inputActions.debug.toggleTrackBuilder.description": "Avaa ratamuokkaimen",
+    "ui.inputActions.debug.toggleTrackBuilder.title": "Ratamuokkain",
+    "ui.inputActions.gameplay.accept.description": "Hyväksyy nykyisen tehtävän",
+    "ui.inputActions.gameplay.cancelReplayRecording.description": "Lopettaa uusinnan nauhoituksen ja hylkää sen",
+    "ui.inputActions.gameplay.accept.title": "Hyväksy tehtävä"
 }
