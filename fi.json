@@ -3334,5 +3334,6 @@
     "ui.inputActions.general.hide_ui.title": "Piilota käyttöliittymä",
     "ui.inputActions.gameplay.toggle_timeTrialsScreen.title": "Aika-ajon määritykset",
     "ui.inputActions.general.doBigScreenShot.description": "Ottaa ja tallentaa korkeatarkkuuksisen kuvakaappauksen",
-    "ui.inputActions.general.pause.description": "Panee pelin tauolle tai uusintatilaan"
+    "ui.inputActions.general.pause.description": "Panee pelin tauolle tai uusintatilaan",
+    "ui.inputActions.general.doScreenShot.title": "Ota kuvakaappaus"
 }
