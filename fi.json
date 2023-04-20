@@ -3888,5 +3888,19 @@
     "ui.inputActions.boxutility.toggle_tailgate.description": "Avaa/sulkee perälaudan",
     "ui.inputActions.large_spinner.rpm_increase.description": " ",
     "launchercpp.launchgame_404_clipboard": "pelin ajotiedostoa ei löytynyt:",
-    "launchercpp.launchgame_fail_txt": "Pelin ajotiedostoa ei voitu käynnistää: {0}\n\nVirhe: {1}\n\n{2}"
+    "launchercpp.launchgame_fail_txt": "Pelin ajotiedostoa ei voitu käynnistää: {0}\n\nVirhe: {1}\n\n{2}",
+    "ui.inputActions.vehicle.increaseTwoStepRPM.description": " ",
+    "ui.inputActions.vehicle.modify_vehicle.description": " ",
+    "ui.inputActions.vehicle.toggleTwoStep.description": " ",
+    "ui.inputActions.large_crusher.close.description": " ",
+    "ui.inputActions.large_crusher.open.description": " ",
+    "ui.inputActions.large_crusher.openclose.description": " ",
+    "ui.inputActions.large_roller.rpm_decrease.description": " ",
+    "ui.inputActions.large_roller.rpm_increase.description": " ",
+    "launchercpp.launchgame_404_title": "BeamNG.driven käynnistys epäonnistui",
+    "launchercpp.launchgame_fail_clipboard": "{0} pelin käynnistys epäonnistui - Virhe {1} {2}",
+    "launchercpp.setting_parse_err_txt": "pelin asetuksia ei voitu jäsentää.\nOta tukeen yhteyttä",
+    "launchercpp.setting_parse_err_title": "Virheellinen tiedosto",
+    "launchercpp.firewall_err_txt": "BeamNG.driveä ei voitu lisätä Windowsin palomuurin poikkeuslistalle",
+    "launchercpp.firewall_err_title": "Palomuurivirhe"
 }
