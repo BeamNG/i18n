@@ -3726,5 +3726,6 @@
     "ui.inputActions.shipping_container.toggle_doors.title": "Kontin ovet",
     "ui.inputActions.weightpad.setTare.title": "Palauta nollaan",
     "ui.mainMenu.bus.strictStops": "Ankara pysäkkitarkistus",
-    "ui.campaign.open": "Avoinna"
+    "ui.campaign.open": "Avoinna",
+    "ui.mainMenu.bus.traffic": "Liikenne"
 }
