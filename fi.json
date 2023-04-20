@@ -3773,5 +3773,10 @@
     "ui.options.controls.bindings.General": "Yleiset",
     "ui.options.controls.bindings.Camera": "Kamera",
     "December": "Joulukuu",
-    "general.time_format": "pp.kk.vvvv"
+    "general.time_format": "pp.kk.vvvv",
+    "ui.options.userInterface.richPresence": "Käytä Rich Presenceä",
+    "ui.options.officialTranslations": "Viralliset käännökset",
+    "ui.inputActions.vehicle.decrease_cc_speed_large.description": "Laskee vakionopeudensäätimen nopeutta 10 km/h",
+    "ui.inputActions.vehicle.decrease_cc_speed_large.title": "Laske vakionopeutta (10 km/h)",
+    "ui.loadingScreen.tips": "VIHJEET"
 }
