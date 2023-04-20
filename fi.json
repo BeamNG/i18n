@@ -3804,5 +3804,7 @@
     "launchercpp.moveusr_default": "Palauta oletussijainti\nSiirtää käyttäjäkansion takaisin asiakirjakansion sisälle (oletusasetus).",
     "launchercpp.ui_ask_confirm": "Oletko varma?",
     "launchercpp.moveusr_do": "Valitse uusi sijainti\nAseta uusi sijainti käyttäjäkansiolle.",
-    "launchercpp.moveusr_open": "Avaa resurssienhallinnassa\nAvaa käyttäjäkansion resurssienhallinnassa, josta näkee kansion sisällön ja sijainnin."
+    "launchercpp.moveusr_open": "Avaa resurssienhallinnassa\nAvaa käyttäjäkansion resurssienhallinnassa, josta näkee kansion sisällön ja sijainnin.",
+    "launchercpp.ui_cancel": "Peruuta",
+    "launchercpp.ui_error": "Virhe"
 }
