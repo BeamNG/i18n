@@ -3240,5 +3240,7 @@
     "ui.inputActions.debug.clear_console.description": "Tyhjentää järjestelmän konsolin",
     "ui.inputActions.debug.clear_console.title": "Tyhjennä järjestelmäkonsoli",
     "ui.inputActions.camera.yAxisAbs.description": "Kolmiulotteisen hiiren pitkittäissuunta",
-    "ui.inputActions.debug.cefdev_console_toggle.description": "Kytkee Chromium Embedded (CEF)-konsolin päälle tai pois"
+    "ui.inputActions.debug.cefdev_console_toggle.description": "Kytkee Chromium Embedded (CEF)-konsolin päälle tai pois",
+    "ui.inputActions.camera.switch_camera_next.title": "Seuraava kamera",
+    "ui.inputActions.camera.switch_camera_prev.title": "Edellinen kamera"
 }
