@@ -3799,5 +3799,10 @@
     "launchercpp.errorui_btn_openwiki": "Lisätietoja",
     "launchercpp.errorui_btn_copyclipboard": "Kopioi virhe leikepöydälle",
     "launchercpp.errorui_btn_supporttool": "Ota tukeen yhteyttä\nTarvitsetko apua?",
-    "launchercpp.errorui_exitcode": "\n\nSovellus saattaa toimia, vaikka Windowsin mielestä se olisi jumissa. Yritä odottaa vielä jonkin aikaa.\n"
+    "launchercpp.errorui_exitcode": "\n\nSovellus saattaa toimia, vaikka Windowsin mielestä se olisi jumissa. Yritä odottaa vielä jonkin aikaa.\n",
+    "launchercpp.errorui_exit_title": "BeamNG.drive sulkeutui odottamatta",
+    "launchercpp.moveusr_default": "Palauta oletussijainti\nSiirtää käyttäjäkansion takaisin asiakirjakansion sisälle (oletusasetus).",
+    "launchercpp.ui_ask_confirm": "Oletko varma?",
+    "launchercpp.moveusr_do": "Valitse uusi sijainti\nAseta uusi sijainti käyttäjäkansiolle.",
+    "launchercpp.moveusr_open": "Avaa resurssienhallinnassa\nAvaa käyttäjäkansion resurssienhallinnassa, josta näkee kansion sisällön ja sijainnin."
 }
