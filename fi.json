@@ -3242,5 +3242,14 @@
     "ui.inputActions.camera.yAxisAbs.description": "Kolmiulotteisen hiiren pitkittäissuunta",
     "ui.inputActions.debug.cefdev_console_toggle.description": "Kytkee Chromium Embedded (CEF)-konsolin päälle tai pois",
     "ui.inputActions.camera.switch_camera_next.title": "Seuraava kamera",
-    "ui.inputActions.camera.switch_camera_prev.title": "Edellinen kamera"
+    "ui.inputActions.camera.switch_camera_prev.title": "Edellinen kamera",
+    "ui.inputActions.debug.cycle_metrics_back.description": "Selaa erilaisia virheenkorjaustilastoja",
+    "ui.inputActions.debug.cycle_metrics_back.title": "Näytä FPS-tilastot",
+    "ui.inputActions.debug.cycle_metrics_fwd.description": "Selaa erilaisia virheenkorjaustilastoja",
+    "ui.inputActions.debug.cycle_metrics_fwd.title": "Näytä FPS-tilastot",
+    "ui.inputActions.debug.debugmode_meshvis_decr.description": "Laskee geometrian näkyvyyttä",
+    "ui.inputActions.debug.debugmode_meshvis_decr.title": "Laske geometrian näkyvyyttä",
+    "ui.inputActions.debug.debugmode_meshvis_incr.description": "Nostaa geometrian näkyvyyttä",
+    "ui.inputActions.debug.debugmode_meshvis_incr.title": "Nosta geometrian näkyvyyttä",
+    "ui.inputActions.debug.flexmeshDebugSelectionToggle.description": "Vaihtaa taivutusgeometrian testauksen valintatilaa"
 }
