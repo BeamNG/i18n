@@ -3493,5 +3493,22 @@
     "ui.inputActions.vehicle.shiftUp.title": "Vaihda ylös",
     "ui.inputActions.vehicle.steering.description": "Ohjaa ajoneuvoa akselin mukaisesti (ratit, sauvaohjaimet ym.)",
     "ui.inputActions.vehicle.steering.title": "Ohjaus (akseli/hiiri)",
-    "ui.inputActions.vehicle.toggle4WDStatus.description": "Kytkee kiinni tai irti vetoakselit, esimerkiksi takavedon tai nelivedon välillä"
+    "ui.inputActions.vehicle.toggle4WDStatus.description": "Kytkee kiinni tai irti vetoakselit, esimerkiksi takavedon tai nelivedon välillä",
+    "ui.inputActions.vehicle.toggle4WDStatus.title": "Neliveto päälle/pois",
+    "ui.inputActions.vehicle.toggleDiffMode.description": "Vaihtaa tasauspyörästön tilojen välillä",
+    "ui.inputActions.vehicle.toggleDiffMode.title": "Tasauspyörästön tilan vaihto",
+    "ui.inputActions.vehicle.toggleESCMode.description": "Vaihtaa ajonvakautus-/luistonestotilojen välillä",
+    "ui.inputActions.vehicle.toggleESCMode.title": "Vaihda ajonvakautus/luistonestotilaa",
+    "ui.inputActions.vehicle.toggleLightbarMode.description": "Vaihtaa valopalkin tilojen välillä",
+    "ui.inputActions.vehicle.toggleLightbarMode.title": "Valopalkin tilan vaihto",
+    "ui.inputActions.vehicle.toggleLineLock.description": "Vaihtaa jarrujen linjalukon tilaa",
+    "ui.inputActions.vehicle.toggleLineLock.title": "Linjalukko päälle/pois",
+    "ui.inputActions.vehicle.toggleNitrousOxide.description": "Kytkee ilokaasun ruiskutusjärjestelmän päälle/pois ja käyttää automaattisesti sopivissa tilanteissa",
+    "ui.inputActions.vehicle.toggleNitrousOxide.title": "Ilokaasun ruiskutus päälle/pois",
+    "ui.inputActions.vehicle.toggleRangeStatus.description": "Vaihtaa nopean ja hitaan välityksen välillä",
+    "ui.inputActions.vehicle.toggleRangeStatus.title": "Nopea/hidas välitys",
+    "ui.inputActions.vehicle.toggleShifterMode.description": "Vaihtaa vaihdelaatikon tiloja",
+    "ui.inputActions.vehicle.toggleShifterMode.title": "Vaihdelaatikon tilan vaihto",
+    "ui.inputActions.vehicle.toggleTransbrake.description": "Kytkee voimansiirtoa jarruttavan välitysjarrun päälle/pois",
+    "ui.inputActions.vehicle.toggleTransbrake.title": "Välitysjarru päälle/pois"
 }
