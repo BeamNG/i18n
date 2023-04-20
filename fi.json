@@ -3038,8 +3038,8 @@
     "BodyStyle": "Korimalli",
     "Brand": "Merkki",
     "Value": "Arvo",
-    "Performance Class": "Suorituskykyinen luokka",
-    "Derby Class": "Romuralliluokka",
+    "Performance Class": "Suorituskykyluokka",
+    "Derby Class": "Luokka",
     "Country": "Maa",
     "Transmission": "Vaihdelaatikko",
     "Config Type": "Konfiguraation tyyppi",
@@ -3370,7 +3370,7 @@
     "ui.inputActions.menu.menu_item_right.description": "Siirtyy valikossa jotakuinkin lähimpään oikealla olevaan kohtaan",
     "ui.inputActions.menu.menu_item_right.title": "Oikealle valikossa",
     "ui.inputActions.menu.menu_item_select.description": "Napsauttaa valittua valikkokohtaa",
-    "ui.inputActions.menu.menu_item_select.title": "Vahvista/aktivoi valikkokohta",
+    "ui.inputActions.menu.menu_item_select.title": "Vahvista/aktivoi valinta",
     "ui.inputActions.menu.menu_item_up.description": "Siirtyy valikossa jotakuinkin lähimpään yllä olevaan kohtaan",
     "ui.inputActions.menu.menu_item_up.title": "Ylös valikossa",
     "ui.inputActions.menu.menu_tab_left.description": " ",
@@ -3901,6 +3901,6 @@
     "launchercpp.launchgame_fail_clipboard": "{0} pelin käynnistys epäonnistui - Virhe {1} {2}",
     "launchercpp.setting_parse_err_txt": "pelin asetuksia ei voitu jäsentää.\nOta tukeen yhteyttä",
     "launchercpp.setting_parse_err_title": "Virheellinen tiedosto",
-    "launchercpp.firewall_err_txt": "BeamNG.driveä ei voitu lisätä Windowsin palomuurin poikkeuslistalle",
+    "launchercpp.firewall_err_txt": "BeamNG.driveä ei voitu lisätä Windowsin palomuurin poikkeuslistalle.",
     "launchercpp.firewall_err_title": "Palomuurivirhe"
 }
