@@ -3185,7 +3185,7 @@
     "ui.inputActions.camera.changeCameraSpeed.title": "Muuta nopeutta",
     "ui.inputActions.camera.decrease_zoom.description": "Loitontaa kameraa",
     "ui.inputActions.camera.decrease_zoom.title": "Loitonna",
-    "ui.inputActions.camera.decrease_zoom_or_freecam_down.description": "Loitontaa kameraa tai vapaakameratilassa siirtää alaspäin",
+    "ui.inputActions.camera.decrease_zoom_or_freecam_down.description": "Loitontaa kameraa tai vapaakameratilassa liikkuu alaspäin",
     "ui.inputActions.camera.increase_zoom.title": "Lähennä",
     "ui.inputActions.camera.decrease_zoom_or_freecam_down.title": "Loitonna tai vapaakameraa alas",
     "ui.inputActions.camera.increase_zoom.description": "Lähentää kameraa",
