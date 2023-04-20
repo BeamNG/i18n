@@ -3359,5 +3359,7 @@
     "ui.inputActions.menu.menu_item_down.title": "Alas valikossa",
     "ui.inputActions.menu.menu_item_left.description": "Siirtyy valikossa jotakuinkin lähimpään vasemmalla olevaan kohtaan",
     "ui.inputActions.menu.menu_item_left.title": "Vasemmalle valikossa",
-    "ui.inputActions.menu.menu_item_radial_right_x.description": "Vierittää sivuelementtejä (vaakasuuntaan)"
+    "ui.inputActions.menu.menu_item_radial_right_x.description": "Vierittää sivuelementtejä (vaakasuuntaan)",
+    "ui.inputActions.menu.menu_item_radial_right_x.title": "Valikon selaus (vaaka)",
+    "ui.inputActions.menu.menu_item_radial_right_y.description": "Selaa sivuelementtejä (pystysuuntaan)"
 }
