@@ -3844,5 +3844,10 @@
     "launchercpp.supporttool_btn_cefnohw": "Poista käyttöliittymän laitteistokiihdytys käytöstä\nKokeile, jos sinulla on ongelmia käyttöliittymän kanssa.",
     "launchercpp.supporttool_btn_renderdebug": "Ota piirtolokit käyttöön\nKokeile, jos ruudun piirtäminen aiheuttaa kaatumisia.",
     "launchercpp.supporttool_verifyhash_title": "Tarkista eheys",
-    "launchercpp.supporttool_btn_clearcache": "Tyhjennä välimuisti\nKokeile, jos sinulla on ongelmia tekstuurien kanssa."
+    "launchercpp.supporttool_btn_clearcache": "Tyhjennä välimuisti\nKokeile, jos sinulla on ongelmia tekstuurien kanssa.",
+    "launchercpp.supporttool_btn_verifyhash": "Tarkista eheys\nTarkistaa että pelin tiedostot ovat kunnossa.",
+    "launchercpp.supporttool_btn_do": "Tuki\nTarvitsetko apua? Eikö jokin toimi? Voimme auttaa sinua :)",
+    "launchercpp.clearcache_msg_title": "Tyhjennä välimuisti",
+    "launchercpp.clearcache_msg_normal_txt": "Tämä työkalu poistaa kaikki välimuistikansiot ja siirtää käyttäjäkansion tiedostot oikeille paikoilleen.\n\nVälimuistin tyhjennys voi korjata ongelmia tekstuurien, materiaalien ja vastaavien kanssa.\n\nTässä voi kestää muutama minuutti käyttäjäkansiosi koosta riippuen.",
+    "launchercpp.clearcache_msg_deep_txt": "Olet tyhjentämässä välimuistikansiot perin pohjin!\n\nVain modit ja asetukset säilytetään. Kaikki muut tiedot siirretään varmuuskopiokansioon.\n\nTämä voi ratkaista ongelmia vakioajoneuvojen, kenttien, materiaalien ja vastaavan sisällön kanssa.\n\nTässä voi kestää muutama minuutti käyttäjäkansiosi koosta riippuen.\n\nHaluatko jatkaa?"
 }
