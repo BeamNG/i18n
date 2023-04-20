@@ -3583,7 +3583,7 @@
     "ui.inputActions.citybus.toggle_doors.title": "Ovien avaus",
     "ui.inputActions.citybus.toggle_jato.description": "Kytkee laukaisuraketit päälle/pois",
     "ui.inputActions.citybus.toggle_jato.title": "Laukaisuraketit",
-    "ui.inputActions.citybus.toggle_kneel.description": "Nojaa ajoneuvoa oikealle",
+    "ui.inputActions.citybus.toggle_kneel.description": "Laskee ajoneuvoa oikealta puolelta",
     "ui.inputActions.citybus.toggle_kneel.title": "Nojaa oikealle",
     "ui.inputActions.dryvan.toggle_doorL.description": "Avaa/sulkee vasemmanpuoleisen rahtioven",
     "ui.inputActions.dryvan.toggle_doorL.title": "Vasen rahtiovi",
