@@ -3371,7 +3371,7 @@
     "ui.inputActions.menu.menu_item_right.title": "Oikealle valikossa",
     "ui.inputActions.menu.menu_item_select.description": "Napsauttaa valittua valikkokohtaa",
     "ui.inputActions.menu.menu_item_select.title": "Vahvista/aktivoi valikkokohta",
-    "ui.inputActions.menu.menu_item_up.description": "Siirtyy valikossa jotakuinkin yllä olevaan kohtaan",
+    "ui.inputActions.menu.menu_item_up.description": "Siirtyy valikossa jotakuinkin lähimpään yllä olevaan kohtaan",
     "ui.inputActions.menu.menu_item_up.title": "Ylös valikossa",
     "ui.inputActions.menu.menu_tab_left.description": " "
 }
