@@ -3723,5 +3723,8 @@
     "ui.inputActions.shipping_container.toggle_doorL.title": "Vasen ovi",
     "ui.inputActions.shipping_container.toggle_doorR.title": "Oikea ovi",
     "ui.inputActions.shipping_container.toggle_doors.description": "Avaa/sulkee ovet",
-    "ui.inputActions.shipping_container.toggle_doors.title": "Kontin ovet"
+    "ui.inputActions.shipping_container.toggle_doors.title": "Kontin ovet",
+    "ui.inputActions.weightpad.setTare.title": "Palauta nollaan",
+    "ui.mainMenu.bus.strictStops": "Ankara pysäkkitarkistus",
+    "ui.campaign.open": "Avoinna"
 }
