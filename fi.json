@@ -3386,7 +3386,7 @@
     "ui.inputActions.menu.vehicle_selector.description": "Avaa ajoneuvon valitsimen",
     "ui.inputActions.menu.vehicle_selector.title": "Ajoneuvon valinta",
     "ui.inputActions.slowmotion.faster_motion.description": "Nopeuttaa aikaa",
-    "ui.inputActions.slowmotion.faster_motion.title": "Nopeuta",
+    "ui.inputActions.slowmotion.faster_motion.title": "Nopeutus",
     "ui.inputActions.menu.toggle_help.title": "Apu",
     "ui.inputActions.slowmotion.jumpAhead.description": "Kelaa uusintaa eteenpäin",
     "ui.inputActions.slowmotion.jumpBack.description": "Kelaa uusintaa taaksepäin",
