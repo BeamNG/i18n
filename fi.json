@@ -2612,7 +2612,7 @@
     "ui.radialmenu2.traffic": "Liikenne",
     "ui.radialmenu2.traffic.desc": "Tekoälyliikenteen käyttöönotto.",
     "ui.radialmenu2.traffic.remove": "Poista aktiivinen liikenne",
-    "ui.radialmenu2.traffic.remove.desc": "Poista kaikki liikenneajoneuvot.",
+    "ui.radialmenu2.traffic.remove.desc": "Poista kaikki aktiiviset liikenneajoneuvot.",
     "ui.radialmenu2.traffic.spawnNormal": "Lisää (normaali)",
     "ui.radialmenu2.traffic.spawnNormal.desc": "Tuo joukon ajoneuvoja.",
     "ui.radialmenu2.traffic.spawnPolice": "Lisää (poliisi)",
