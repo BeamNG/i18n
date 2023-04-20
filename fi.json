@@ -2935,7 +2935,7 @@
     "ui.apps.brake_torque_graph.speed": "Nopeus",
     "ui.apps.brake_thermal_debug.slope": "Mäki",
     "ui.apps.brake_thermal_debug.finalEfficiency": "Lopullinen tehokkuus",
-    "ui.apps.brake_thermal_debug.padGlazing": "Jarrun ylikuormittuminen",
+    "ui.apps.brake_thermal_debug.padGlazing": "Jarrun lasittuminen",
     "ui.apps.brake_thermal_debug.thermalEfficiency": "Lämpötehokkuus",
     "ui.apps.brake_thermal_debug.coreCooling": "Ytimen jäähtyminen",
     "ui.apps.brake_thermal_debug.surfaceCooling": "Pinnan jäähtyminen",
