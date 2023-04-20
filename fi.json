@@ -3781,5 +3781,5 @@
     "ui.loadingScreen.tips": "VIHJEET",
     "ui.options.translationAutomatic": "Automaattinen",
     "ui.inputActions.vehicle.increase_cc_speed_large.description": "Nostaa vakionopeudensäätimen nopeutta 10 km/h",
-    "ui.inputActions.vehicle.increase_cc_speed_large.title": "Nosta vakionopeutta (10 km/h)"
+    "ui.inputActions.vehicle.increase_cc_speed_large.title": "Nosta vakionopeudensäädintä (10 km/h)"
 }
