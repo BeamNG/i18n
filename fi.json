@@ -3727,5 +3727,8 @@
     "ui.inputActions.weightpad.setTare.title": "Palauta nollaan",
     "ui.mainMenu.bus.strictStops": "Ankara pysäkkitarkistus",
     "ui.campaign.open": "Avoinna",
-    "ui.mainMenu.bus.traffic": "Liikenne"
+    "ui.mainMenu.bus.traffic": "Liikenne",
+    "ui.campaign.photoSafari": "Kuvasafari",
+    "ui.campaign.failed": "Hylätty",
+    "ui.campaign.closed": "Suljettu"
 }
