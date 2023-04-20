@@ -3785,5 +3785,6 @@
     "launchercpp.moveuserfolder_overwrite_msg": "Käytit komentoriviargumenttia, joka käynnistää pelin tietystä tiedostopolusta.\nJos haluat käyttää tätä toimintoa, sinun pitää poistaa kyseinen argumentti.",
     "launchercpp.main_instruction": "BeamNG.drive käynnistysvalikko",
     "launchercpp.moveuserfolder_overwrite_title": "Toiminto ei ole mahdollinen",
-    "launchercpp.main_content": "Valitse yksi seuraavista vaihtoehdoista:"
+    "launchercpp.main_content": "Valitse yksi seuraavista vaihtoehdoista:",
+    "launchercpp.main_play": "Käynnistä peli\nViihtymään BeamNG.driven seurassa"
 }
