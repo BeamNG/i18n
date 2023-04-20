@@ -3058,7 +3058,7 @@
     "ui.options.other.compressionLevel": "Kompression taso",
     "ui.options.other.miscLua": "Sekalainen lua",
     "ui.options.other.interpolateAllAlt": "Interpoloi kaikki alt",
-    "ui.options.other.useAlt": "^ käytä alt-näppäintä",
+    "ui.options.other.useAlt": "^ käytä alt",
     "ui.options.other.interpolateVehiclePosition": "Interpoloi ajoneuvon sijainti",
     "ui.options.other.replay": "Uusinta",
     "ui.options.camera.muchQuicker": "Paljon nopeampi",
