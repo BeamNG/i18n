@@ -3411,7 +3411,7 @@
     "ui.inputActions.vehicle.clutch.description": "Painaa kytkintä",
     "ui.inputActions.vehicle.clutch.title": "Kytkin",
     "ui.inputActions.vehicle.decreaseTwoStepRPM.title": "Laske kaksivaiheisen lähtöavustimen kierroslukua",
-    "ui.inputActions.vehicle.decrease_cc_speed.title": "Laske vakionopeutta (1 km/h)",
+    "ui.inputActions.vehicle.decrease_cc_speed.title": "Laske vakionopeudensäädintä (1 km/h)",
     "ui.inputActions.vehicle.decrease_cc_speed.description": "Laskee vakionopeudensäätimen nopeutta 1 km/h",
     "ui.inputActions.vehicle.disable_cc.description": "Poistaa vakionopeudensäätimen käytöstä",
     "ui.inputActions.vehicle.disable_cc.title": "Vakionopeudensäädin pois",
