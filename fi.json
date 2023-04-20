@@ -3387,5 +3387,15 @@
     "ui.inputActions.menu.vehicle_selector.title": "Ajoneuvon valinta",
     "ui.inputActions.slowmotion.faster_motion.description": "Nopeuttaa aikaa",
     "ui.inputActions.slowmotion.faster_motion.title": "Nopeuta",
-    "ui.inputActions.menu.toggle_help.title": "Apu"
+    "ui.inputActions.menu.toggle_help.title": "Apu",
+    "ui.inputActions.slowmotion.jumpAhead.description": "Kelaa uusintaa eteenpäin",
+    "ui.inputActions.slowmotion.jumpBack.description": "Kelaa uusintaa taaksepäin",
+    "ui.inputActions.slowmotion.jumpBack.title": "Vähän taaksepäin",
+    "ui.inputActions.slowmotion.jumpAhead.title": "Vähän eteenpäin",
+    "ui.inputActions.slowmotion.jumpFarAhead.description": "Kelaa uusintaa paljon eteenpäin",
+    "ui.inputActions.slowmotion.jumpFarAhead.title": "Paljon eteenpäin",
+    "ui.inputActions.slowmotion.jumpFarBack.description": "Kelaa uusintaa paljon taaksepäin",
+    "ui.inputActions.slowmotion.jumpFarBack.title": "Paljon taaksepäin",
+    "ui.inputActions.slowmotion.slower_motion.description": "Hidastaa aikaa",
+    "ui.inputActions.slowmotion.slower_motion.title": "Hidasta"
 }
