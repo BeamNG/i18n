@@ -3792,7 +3792,7 @@
     "launchercpp.main_btn_force64": "Käynnistä peli 64-bittisenä\nPakottaa pelin käynnistymään 64-bittisenä",
     "launchercpp.warn_lavasoft1": "Lavasoft Web Companion on asennettuna koneellesi, ja se tulee <A HREF=\"https://go.beamng.com/lavasoft\">poistaa</a> ennen BeamNG.driven käynnistämistä.",
     "launchercpp.warn_lavasoft2": "Peli käynnistyy 32-bittisenä, jotta se ei kaadu Lavasoftin ohjelmista aiheutuvien ongelmien takia.",
-    "launchercpp.warn_userpath_defaultfail1": "Käyttäjätiedostojen oletussijainti ei ole käytettävissä, joten BeamNG ajetaan vaihtoehtoisessa kansiossa.",
+    "launchercpp.warn_userpath_defaultfail1": "Käyttäjätiedostojen oletussijaintiin ei pääse, joten BeamNG ajetaan vaihtoehtoisessa kansiossa.",
     "launchercpp.warn_userpath_defaultfail2": "Ohjeita tämän ongelman ratkaisemiseen löytyy <A HREF=\"https://go.beamng.com/unusualProccessExit/0xE0000004_-_BNGBase::EXIT_ERR_USER_PATH_UNWRITABLE\">täältä</a>.",
     "launchercpp.errorui_set_clip_title": "BeamNG.drive: leikepöydälle kirjoittaminen",
     "launchercpp.errorui_set_clip_txt": "Leikepöydälle kopioitiin: \n\n",
