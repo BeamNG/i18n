@@ -3147,5 +3147,8 @@
     "ui.stats.smoothness": "Sulavuus",
     "ui.traffic.infractions.hitPolice": "törmäys poliisiin",
     "ui.stats.stopAngle": "Pysähdyskulma",
-    "ui.traffic.infractions.title": "Rikkeet:"
+    "ui.traffic.infractions.title": "Rikkeet:",
+    "ui.traffic.infractions.wrongWay": "väärä suunta",
+    "ui.scenarios.ready": "Valmis...",
+    "ui.inputActions.camera.center_camera.title": "Keskitä kamera"
 }
