@@ -3357,5 +3357,7 @@
     "ui.inputActions.general.quit.title": "Lopeta",
     "ui.inputActions.menu.appedit.title": "UI-sovellusten muokkaus",
     "ui.inputActions.menu.menu_item_down.title": "Alas valikossa",
-    "ui.inputActions.menu.menu_item_left.description": "Siirtyy valikossa jotakuinkin lähimpään vasemmalla olevaan kohtaan"
+    "ui.inputActions.menu.menu_item_left.description": "Siirtyy valikossa jotakuinkin lähimpään vasemmalla olevaan kohtaan",
+    "ui.inputActions.menu.menu_item_left.title": "Vasemmalle valikossa",
+    "ui.inputActions.menu.menu_item_radial_right_x.description": "Selaa sivuelementtejä (vaakasuuntaan)"
 }
