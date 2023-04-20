@@ -3261,7 +3261,7 @@
     "ui.inputActions.debug.toggleTrackBuilder.description": "Avaa ratamuokkaimen",
     "ui.inputActions.debug.toggleTrackBuilder.title": "Ratamuokkain",
     "ui.inputActions.gameplay.accept.description": "Hyväksyy nykyisen tehtävän",
-    "ui.inputActions.gameplay.cancelReplayRecording.description": "Lopettaa uusinnan nauhoituksen ja hylkää sen",
+    "ui.inputActions.gameplay.cancelReplayRecording.description": "Lopettaa nauhoituksen ja hylkää uusinnan",
     "ui.inputActions.gameplay.accept.title": "Hyväksy tehtävä",
     "ui.inputActions.debug.lua_reload.title": "Lataa Lua uudelleen",
     "ui.inputActions.gameplay.cancelReplayRecording.title": "Peru uusinta",
