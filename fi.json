@@ -3293,7 +3293,7 @@
     "ui.inputActions.gameplay.nodegrabberAction.title": "Riiputa/yhdistä/irrota kärki",
     "ui.inputActions.gameplay.nodegrabberGrab.description": "Aloittaa/lopettaa kohdistetun kärjen siirtämisen",
     "ui.inputActions.gameplay.nodegrabberGrab.title": "Tarraa kohdistettuun kärkeen",
-    "ui.inputActions.gameplay.nodegrabberRender.description": "Näyttää tarrattavat kärjet",
+    "ui.inputActions.gameplay.nodegrabberRender.description": "Näyttää kärjet joihin voi tarttua",
     "ui.inputActions.gameplay.loadHome.title": "Lataa kotisijainti",
     "ui.inputActions.gameplay.nodegrabberAction.description": "Riiputtaa kärkeä ilmassa tai yhdistää sen toiseen kärkeen",
     "ui.inputActions.gameplay.nodegrabberRender.title": "Näytä tarrattavat kärjet",
