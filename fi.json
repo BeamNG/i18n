@@ -3412,5 +3412,17 @@
     "ui.inputActions.vehicle.clutch.title": "Kytkin",
     "ui.inputActions.vehicle.decreaseTwoStepRPM.title": "Laske kaksivaiheisen lähtöavustimen kierroslukua",
     "ui.inputActions.vehicle.decrease_cc_speed.title": "Laske vakionopeutta (1 km/h)",
-    "ui.inputActions.vehicle.decrease_cc_speed.description": "Laskee vakionopeudensäätimen nopeutta 1 km/h"
+    "ui.inputActions.vehicle.decrease_cc_speed.description": "Laskee vakionopeudensäätimen nopeutta 1 km/h",
+    "ui.inputActions.vehicle.disable_cc.description": "Poistaa vakionopeudensäätimen käytöstä",
+    "ui.inputActions.vehicle.disable_cc.title": "Vakionopeudensäädin pois",
+    "ui.inputActions.vehicle.gear1.description": "Vaihtaa ensimmäiselle vaihteelle",
+    "ui.inputActions.vehicle.gear2.description": "Vaihtaa toiselle vaihteelle",
+    "ui.inputActions.vehicle.gear3.description": "Vaihtaa kolmannelle vaihteelle",
+    "ui.inputActions.vehicle.gear4.description": "Vaihtaa neljännelle vaihteelle",
+    "ui.inputActions.vehicle.gear5.description": "Vaihtaa viidennelle vaihteelle",
+    "ui.inputActions.vehicle.gear6.description": "Vaihtaa kuudennelle vaihteelle",
+    "ui.inputActions.vehicle.gear7.description": "Vaihtaa seitsemännelle vaihteelle",
+    "ui.inputActions.vehicle.gearN.description": "Vaihtaa vapaavaihteelle",
+    "ui.inputActions.vehicle.gearN.title": "Vapaavaihde",
+    "ui.inputActions.vehicle.gear8.description": "Vaihtaa kahdeksannelle vaihteelle"
 }
