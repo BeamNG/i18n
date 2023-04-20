@@ -3131,5 +3131,8 @@
     "ui.stats.distance": "Etäisyys",
     "ui.stats.driftCrashes": "Luisukolarit",
     "ui.stats.frontalCrashes": "Nokkakolarit",
-    "ui.stats.pathAdvance": "Polun seuraus"
+    "ui.stats.pathAdvance": "Polun seuraus",
+    "ui.stats.followPath": "Seuraa polkua",
+    "ui.stats.fuelConsumption": "Polttoaineen kulutus",
+    "ui.stats.maxSpeed": "Suurin nopeus"
 }
