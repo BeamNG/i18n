@@ -3571,5 +3571,9 @@
     "ui.inputActions.cannon.liftUp.title": "Nosta ylös",
     "ui.inputActions.cannon.lowerDown.description": "Laskee piippua alas",
     "ui.inputActions.cannon.lowerDown.title": "Laske alas",
-    "ui.inputActions.cannon.shoot.description": "Ampuu tykinkuulan, tykki pitää nollata ampuaksesi uudelleen"
+    "ui.inputActions.cannon.shoot.description": "Ampuu tykinkuulan, tykki pitää nollata ampuaksesi uudelleen",
+    "ui.inputActions.cannon.shoot.title": "Ammu kuula",
+    "ui.inputActions.caravan.toggle_feet.description": "Nostaa/laskee perävaunun tunkin",
+    "ui.inputActions.caravan.toggle_feet.title": "Perävaunun tunkki",
+    "ui.inputActions.citybus.default_rideHeight.description": "Siirtää ajoneuvon oletuskorkeudelle"
 }
