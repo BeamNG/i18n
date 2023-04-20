@@ -3485,5 +3485,9 @@
     "ui.inputActions.vehicle.set_cc_speed.title": "Aseta vakionopeus",
     "ui.inputActions.vehicle.parkingbrake.title": "Käsijarru",
     "ui.inputActions.vehicle.shiftDown.title": "Vaihde alas",
-    "ui.inputActions.vehicle.shiftUp.description": "Vaihtaa ylemmälle vaihteelle"
+    "ui.inputActions.vehicle.shiftUp.description": "Vaihtaa suuremmalle vaihteelle",
+    "ui.inputActions.vehicle.steer_left.description": "Ohjaa vasemmalle",
+    "ui.inputActions.vehicle.steer_left.title": "Ohjaus (vasen nappi)",
+    "ui.inputActions.vehicle.steer_right.description": "Ohjaa oikealle",
+    "ui.inputActions.vehicle.steer_right.title": "Ohjaus (oikea nappi)"
 }
