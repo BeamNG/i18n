@@ -2611,7 +2611,7 @@
     "ui.controls.steering_wiki": "Saadaksesi laajempaa tietoa rattiohjaimen käyttöön ottamiseen, tutustu erilliseen wikisivuumme: [url=https://wiki.beamng.com/Steering_wheel_setup]https://wiki.beamng.com/Steering_wheel_setup[/url]",
     "ui.radialmenu2.traffic": "Liikenne",
     "ui.radialmenu2.traffic.desc": "Tekoälyliikenteen käyttöönotto.",
-    "ui.radialmenu2.traffic.remove": "Poista liikenne",
+    "ui.radialmenu2.traffic.remove": "Poista aktiivinen liikenne",
     "ui.radialmenu2.traffic.remove.desc": "Poista kaikki liikenneajoneuvot.",
     "ui.radialmenu2.traffic.spawnNormal": "Lisää (normaali)",
     "ui.radialmenu2.traffic.spawnNormal.desc": "Tuo joukon ajoneuvoja.",
