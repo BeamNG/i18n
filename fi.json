@@ -3492,5 +3492,6 @@
     "ui.inputActions.vehicle.steer_right.title": "Ohjaus (oikea nappi)",
     "ui.inputActions.vehicle.shiftUp.title": "Vaihda ylös",
     "ui.inputActions.vehicle.steering.description": "Ohjaa ajoneuvoa akselin mukaisesti (ratit, sauvaohjaimet ym.)",
-    "ui.inputActions.vehicle.steering.title": "Ohjaus (akseli/hiiri)"
+    "ui.inputActions.vehicle.steering.title": "Ohjaus (akseli/hiiri)",
+    "ui.inputActions.vehicle.toggle4WDStatus.description": "Kytkee kiinni tai irti vetoakselit, esimerkiksi takavedon tai nelivedon väliltä"
 }
