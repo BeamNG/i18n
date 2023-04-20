@@ -3663,5 +3663,15 @@
     "ui.inputActions.semi.extend.title": "Pidennä",
     "ui.inputActions.semi.decrease_rideHeight.title": "Laske korkeutta",
     "ui.inputActions.semi.extend.description": "Pidentää lavaa taaksepäin",
-    "ui.inputActions.semi.increase_rideHeight.description": "Vaihtaa ajoneuvon oletuskorkeutta"
+    "ui.inputActions.semi.increase_rideHeight.description": "Vaihtaa ajoneuvon oletuskorkeutta",
+    "ui.inputActions.semi.retract.title": "Lyhennä",
+    "ui.inputActions.semi.increase_rideHeight.title": "Nosta korkeutta",
+    "ui.inputActions.semi.retract.description": "Lyhentää lavaa eteenpäin",
+    "ui.inputActions.semi.tilt.title": "Kallista ylös/alas",
+    "ui.inputActions.semi.tiltDown.title": "Kallista alas",
+    "ui.inputActions.semi.tiltUp.description": "Kallistaa lavaa ylös",
+    "ui.inputActions.semi.tiltUp.title": "Kallista ylös",
+    "ui.inputActions.semi.toggle_discharge_chute.description": "Avaa/sulkee betonin peräpoistorännin",
+    "ui.inputActions.semi.tilt.description": "Kallistaa lavaa",
+    "ui.inputActions.semi.tiltDown.description": "Kallistaa lavaa alas"
 }
