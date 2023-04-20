@@ -3403,5 +3403,8 @@
     "ui.inputActions.vehicle.accelerate.description": "Painaa kaasua",
     "ui.inputActions.vehicle.accelerate.title": "Kaasu",
     "ui.inputActions.vehicle.accelerate_brake.description": "Toimii vain peliohjaimille, sauvaohjaimille ja rateille, joissa yhdistetty poljinakseli",
-    "ui.inputActions.vehicle.accelerate_brake.title": "Yhdistetty kaasu- ja jarruakseli"
+    "ui.inputActions.vehicle.accelerate_brake.title": "Yhdistetty kaasu- ja jarruakseli",
+    "ui.inputActions.vehicle.activateStarterMotor.description": "Ajaa käynnistysmoottoria",
+    "ui.inputActions.vehicle.activateStarterMotor.title": "Käynnistysmoottori",
+    "ui.inputActions.vehicle.brake.description": "Painaa jarrua (peruutus helpotetulla vaihteistolla)"
 }
