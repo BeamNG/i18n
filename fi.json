@@ -3510,7 +3510,7 @@
     "ui.inputActions.vehicle.toggleShifterMode.description": "Vaihtaa vaihdelaatikon tiloja",
     "ui.inputActions.vehicle.toggleShifterMode.title": "Vaihdelaatikon tilan vaihto",
     "ui.inputActions.vehicle.toggleTransbrake.description": "Kytkee voimansiirtoa jarruttavan välitysjarrun päälle/pois",
-    "ui.inputActions.vehicle.toggleTransbrake.title": "Välitysjarru päälle/pois",
+    "ui.inputActions.vehicle.toggleTransbrake.title": "Voimansiirtojarru päälle/pois",
     "ui.inputActions.vehicle.toggleTwoStep.title": "Kaksivaiheinen lähtöavustus päälle/pois",
     "ui.inputActions.vehicle.toggle_foglights.description": "Kytkee sumuvalot päälle/pois",
     "ui.inputActions.vehicle.toggle_foglights.title": "Sumuvalot",
