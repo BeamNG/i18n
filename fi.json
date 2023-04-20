@@ -3652,7 +3652,7 @@
     "ui.inputActions.pickup.retract.description": "Lyhentää lavaa eteenpäin",
     "ui.inputActions.pickup.tiltDown.description": "Kallistaa lavaa alas",
     "ui.inputActions.pigeon.toggle_tailgate.description": "Avaa/sulkee perälaudan",
-    "ui.inputActions.rollover.cycle.title": "Koe",
+    "ui.inputActions.rollover.cycle.title": "Suorita koe",
     "ui.inputActions.rollover.decrease_angle.description": "Laskee kelkan kulmaa",
     "ui.inputActions.rollover.decrease_angle.title": "Laske kelkan kulmaa",
     "ui.inputActions.rollover.increase_angle.description": "Nostaa kelkan kulmaa",
