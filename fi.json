@@ -3191,7 +3191,7 @@
     "ui.inputActions.camera.increase_zoom.description": "Lähentää kameraa",
     "ui.inputActions.camera.increase_zoom_or_freecam_up.description": "Loitontaa kameraa tai vapaakameratilassa liikkuu ylöspäin",
     "ui.inputActions.camera.increase_zoom_or_freecam_up.title": "Loitonna tai vapaakameraa ylös",
-    "ui.inputActions.camera.look_back.description": "Osoittaa kameraa taaksepäin",
+    "ui.inputActions.camera.look_back.description": "Osoita kamera taaksepäin",
     "ui.inputActions.camera.movedown.description": "Siirtää lentävää kameraa alas",
     "ui.inputActions.camera.movedown.title": "Siirrä alas",
     "ui.inputActions.camera.movefast.description": "Siirtää kameraa nopeammin (jos tuettu)",
