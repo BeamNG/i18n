@@ -3270,5 +3270,22 @@
     "ui.inputActions.gameplay.couplersToggle.description": "Lukitsee liitokset tai avaa niiden lukituksen",
     "ui.inputActions.gameplay.couplersToggle.title": "Liitokset: lukitse/irrota",
     "ui.inputActions.gameplay.couplersUnlock.description": "Poistaa kaikkien liitosten lukituksen",
-    "ui.inputActions.gameplay.couplersUnlock.title": "Liitokset: poista kaikki lukitukset"
+    "ui.inputActions.gameplay.couplersUnlock.title": "Liitokset: poista kaikki lukitukset",
+    "ui.inputActions.gameplay.decline.description": "Hylkää eli jättää hyväksymättä nykyisen tehtävän",
+    "ui.inputActions.gameplay.decline.title": "Älä hyväksy tehtävää",
+    "ui.inputActions.gameplay.dropCameraAtPlayer.description": "Siirtää kameran pelaajan kohdalle",
+    "ui.inputActions.gameplay.dropCameraAtPlayer.title": "Kamera pelaajan kohdalle",
+    "ui.inputActions.gameplay.dropPlayerAtCamera.description": "Siirtää pelaajan kameran kohdalle",
+    "ui.inputActions.gameplay.dropPlayerAtCamera.title": "Pelaaja kameran kohdalle",
+    "ui.inputActions.gameplay.funBoom.description": "Räjäyttää ajoneuvon.",
+    "ui.inputActions.gameplay.funBoom.title": "Räjäytä",
+    "ui.inputActions.gameplay.funBreak.description": "Rikkoo kaikki ajoneuvon osat.",
+    "ui.inputActions.gameplay.funBreak.title": "Irrota kaikki osat",
+    "ui.inputActions.gameplay.funExtinguish.description": "Sammuttaa ajoneuvon tulipalot.",
+    "ui.inputActions.gameplay.funFire.description": "Sytyttää ajoneuvon tuleen.",
+    "ui.inputActions.gameplay.funFire.title": "Sytytä tuleen",
+    "ui.inputActions.gameplay.funHinges.description": "Rikkoo kaikki ajoneuvon saranat",
+    "ui.inputActions.gameplay.funHinges.title": "Riko saranat",
+    "ui.inputActions.gameplay.funTires.description": "Puhkoo ajoneuvon renkaat.",
+    "ui.inputActions.gameplay.funTires.title": "Puhko renkaat"
 }
