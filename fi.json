@@ -3315,7 +3315,7 @@
     "ui.inputActions.gameplay.switch_next_vehicle_multiseat.description": "Kohdistaa seuraavaan ajoneuvoon paikallisessa moninpelissä",
     "ui.inputActions.gameplay.reset_physics.description": "Käynnistää skenaarion uudelleen",
     "ui.inputActions.gameplay.switch_next_vehicle_multiseat.title": "Seuraava ajoneuvo (paikallinen moninpeli)",
-    "ui.inputActions.gameplay.switch_previous_vehicle.description": "Kohdistaa edellisen ajoneuvon",
+    "ui.inputActions.gameplay.switch_previous_vehicle.description": "Kohdistaa edelliseen ajoneuvon",
     "ui.inputActions.gameplay.toggleReplayRecording.description": "Aloittaa tai lopettaa uusinnan nauhoituksen",
     "ui.inputActions.gameplay.toggleReplayRecording.title": "Nauhoita uusinta",
     "ui.inputActions.gameplay.switch_previous_vehicle.title": "Edellinen ajoneuvo",
