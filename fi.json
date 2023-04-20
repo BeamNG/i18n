@@ -3764,5 +3764,7 @@
     "ui.campaign.requiresOneController": "Vaatii yhden ohjaimen joka pelaajalle",
     "ui.options.controls.bindings.VehicleDebug": "Virheenkorjaus, ajoneuvo",
     "ui.options.graphics.Lowest": "Matalin",
-    "ui.dragrace.similarOpponent": "Samantasoinen vastustaja"
+    "ui.dragrace.similarOpponent": "Samantasoinen vastustaja",
+    "ui.options.controls.bindings.Gameplay": "Peli",
+    "ui.options.controls.bindings.Editor": "Editori"
 }
