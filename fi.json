@@ -2950,7 +2950,7 @@
     "ui.apps.brake_thermal_debug.brakeType": "Jarrutyyppi",
     "ui.apps.brake_thermal_debug.selectWheels": "Valitse renkaat",
     "ui.apps.absdebug.wheelAcc": "Renkaan kiihtyvyys",
-    "ui.apps.absdebug.action": "Toiminta",
+    "ui.apps.absdebug.action": "Toiminto",
     "ui.apps.absdebug.wheelSpeed": "Renkaan nopeus",
     "ui.apps.absdebug.wheelSlip": "Renkaan luisto",
     "ui.apps.absdebug.phase": "Vaihe",
