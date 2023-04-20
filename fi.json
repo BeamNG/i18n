@@ -3397,5 +3397,10 @@
     "ui.inputActions.slowmotion.jumpFarBack.description": "Kelaa uusintaa paljon taaksepäin",
     "ui.inputActions.slowmotion.jumpFarBack.title": "Paljon taaksepäin",
     "ui.inputActions.slowmotion.slower_motion.description": "Hidastaa aikaa",
-    "ui.inputActions.slowmotion.slower_motion.title": "Hidasta"
+    "ui.inputActions.slowmotion.slower_motion.title": "Hidasta",
+    "ui.inputActions.slowmotion.toggle_slow_motion.description": "Hidastaa aikaa tai palauttaa oletusnopeuden",
+    "ui.inputActions.slowmotion.toggle_slow_motion.title": "Hidastus päälle/pois",
+    "ui.inputActions.vehicle.accelerate.description": "Painaa kaasua",
+    "ui.inputActions.vehicle.accelerate.title": "Kaasu",
+    "ui.inputActions.vehicle.accelerate_brake.description": "Toimii vain peliohjaimille, sauvaohjaimille ja rateille, joissa polkimet"
 }
