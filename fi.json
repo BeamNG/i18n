@@ -2977,7 +2977,7 @@
     "ui.vehicleconfig.searchHelp.notes2": "Hakulauseet yhdistetään termillä AND",
     "ui.vehicleconfig.searchHelp.notes1": "Haku ei ole riippuvainen merkkikoosta",
     "ui.vehicleconfig.searchHelp.notes": "Huomautukset",
-    "ui.vehicleconfig.searchHelp.example7": "Etsii modien nimet, otsikot ja tagit termillä 'super'",
+    "ui.vehicleconfig.searchHelp.example7": "Etsii modien nimiä, otsikoita ja tageja termillä 'super'",
     "ui.vehicleconfig.searchHelp.example6": "Etsii kaikki osat tekijältä 'bob'",
     "ui.vehicleconfig.searchHelp.example5": "Etsii kaikkia osavaihtoehtoja termillä 'pickup_fr'",
     "ui.vehicleconfig.searchHelp.example4": "Etsii kaikkia osapaikkoja termillä '_fr' ja kaikkia nimikkeitä termillä 'vilkku'",
