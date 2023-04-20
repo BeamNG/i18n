@@ -3114,5 +3114,14 @@
     "scenario.customExtensionLoadFailed": "Logiikkalisäosa ei käytössä. Tarkista, onko lokeissa varoituksia lisäosalle {{extName}}",
     "ui.common.simpleVehicles": "Yksinkertaiset ajoneuvot",
     "ui.controls.lockType": "Ohjauslukon tyyppi",
-    "ui.controls.lockType.warningMissingAngle": "Valittu lukon tyyppi tarvitsee lukituskulman asetuksen"
+    "ui.controls.lockType.warningMissingAngle": "Valittu lukon tyyppi tarvitsee lukituskulman asetuksen",
+    "ui.stats.accuracy": "Tarkkuus",
+    "ui.stats.bumpBonus": "Tönäisybonus",
+    "ui.stats.chainCrashes": "Ketjukolarit",
+    "ui.stats.damageDone": "Tehty vaurio",
+    "ui.controls.lockTypes.1": "1:1 (täysi lukitus ei välttämättä mahdollinen)",
+    "ui.controls.lockType.warningAdvice": "lukituskulma on asetettu, joten tyyppiä 1:1 suositellaan",
+    "ui.controls.lockTypes.0": "1:N (täysi lukitus mahdollinen)",
+    "ui.controls.lockTypes.2": "1:1, hybridi (täysi lukitus mahdollinen)",
+    "ui.debug.vehicle.replaceCurrent": "Korvaa nykyinen"
 }
