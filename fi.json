@@ -3180,5 +3180,10 @@
     "quickrace.west_coast_usa.highway_endurance.description": "Tällä radalla on lähes parikymmentä kilometriä suoraa ja nopeita mutkia, joten parasta ajaa korkeilla vaihteilla.",
     "physics.core.staticCollision.outOfMemoryError": "Törmäykset maisemaan on poistettu käytöstä muistin vähäisyyden vuoksi. Tarkista keskusmuistin määrä",
     "ui.inputActions.camera.camera_2.description": "Vaihda kameraan 2",
-    "ui.inputActions.camera.camera_7.description": "Vaihda kameraan 7"
+    "ui.inputActions.camera.camera_7.description": "Vaihda kameraan 7",
+    "ui.inputActions.camera.changeCameraSpeed.description": "Muuttaa kameran nopeutta",
+    "ui.inputActions.camera.changeCameraSpeed.title": "Muuta nopeutta",
+    "ui.inputActions.camera.decrease_zoom.description": "Loitontaa kameraa",
+    "ui.inputActions.camera.decrease_zoom.title": "Loitonna",
+    "ui.inputActions.camera.decrease_zoom_or_freecam_down.description": "Loitontaa kameraa tai vapaakameratilassa siirtää alaspäin"
 }
