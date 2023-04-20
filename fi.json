@@ -3473,7 +3473,7 @@
     "ui.inputActions.vehicle.previousESCMode.title": "Edellinen ajonvakautus/luistonestotila",
     "ui.inputActions.vehicle.reset_cc_speed.title": "Palauta vakionopeus",
     "ui.inputActions.vehicle.set_cc_speed.description": "Asettaa nykyisen nopeuden vakionopeudensäätimen nopeudeksi",
-    "ui.inputActions.vehicle.shiftDown.description": "Vaihtaa alemmalle vaihteelle",
+    "ui.inputActions.vehicle.shiftDown.description": "Vaihtaa pienemmälle vaihteelle",
     "ui.inputActions.vehicle.key_d.title": "D-toiminto",
     "ui.inputActions.vehicle.key_e.title": "E-toiminto",
     "ui.inputActions.vehicle.key_r.title": "R-toiminto",
