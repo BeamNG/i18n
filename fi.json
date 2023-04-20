@@ -3782,5 +3782,7 @@
     "ui.options.translationAutomatic": "Automaattinen",
     "ui.inputActions.vehicle.increase_cc_speed_large.description": "Nostaa vakionopeudensäätimen nopeutta 10 km/h",
     "ui.inputActions.vehicle.increase_cc_speed_large.title": "Nosta vakionopeudensäädintä (10 km/h)",
-    "launchercpp.moveuserfolder_overwrite_msg": "Käytit komentoriviargumenttia käynnistääksesi pelin tietyssä tiedostosijainnissa.\nJos haluat käyttää tätä toimintoa, sinun pitää poistaa kyseinen argumentti."
+    "launchercpp.moveuserfolder_overwrite_msg": "Käytit komentoriviargumenttia, joka käynnistää pelin tietystä tiedostopolusta.\nJos haluat käyttää tätä toimintoa, sinun pitää poistaa kyseinen argumentti.",
+    "launchercpp.main_instruction": "BeamNG.drive käynnistysvalikko",
+    "launchercpp.moveuserfolder_overwrite_title": "Toiminto ei ole mahdollinen"
 }
