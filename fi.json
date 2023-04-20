@@ -3237,7 +3237,7 @@
     "ui.inputActions.debug.cefdev_console_toggle.title": "Konsoli päälle/pois",
     "ui.inputActions.debug.cefdev_reload_ui.description": "Lataa käyttöliittymän tekstuurit uudelleen",
     "ui.inputActions.debug.cefdev_reload_ui.title": "Lataa käyttöliittymä uudelleen",
-    "ui.inputActions.debug.clear_console.description": "Tyhjentää järjestelmän konsolin",
+    "ui.inputActions.debug.clear_console.description": "Tyhjentää järjestelmäkonsolin",
     "ui.inputActions.debug.clear_console.title": "Tyhjennä järjestelmäkonsoli",
     "ui.inputActions.camera.yAxisAbs.description": "Kolmiulotteisen hiiren pitkittäissuunta",
     "ui.inputActions.debug.cefdev_console_toggle.description": "Kytkee Chromium Embedded (CEF)-konsolin päälle tai pois",
