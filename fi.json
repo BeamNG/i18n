@@ -3406,7 +3406,7 @@
     "ui.inputActions.vehicle.accelerate_brake.title": "Yhdistetty kaasu- ja jarruakseli",
     "ui.inputActions.vehicle.activateStarterMotor.description": "Ajaa käynnistysmoottoria",
     "ui.inputActions.vehicle.activateStarterMotor.title": "Käynnistysmoottori",
-    "ui.inputActions.vehicle.brake.description": "Painaa jarrua (peruutus helpotetulla vaihteistolla)",
+    "ui.inputActions.vehicle.brake.description": "Painaa jarrua (ja peruuttaa helpotetulla vaihteistolla)",
     "ui.inputActions.vehicle.brake.title": "Jarru",
     "ui.inputActions.vehicle.clutch.description": "Painaa kytkintä",
     "ui.inputActions.vehicle.clutch.title": "Kytkin",
