@@ -3288,5 +3288,12 @@
     "ui.inputActions.gameplay.funHinges.title": "Riko saranat",
     "ui.inputActions.gameplay.funTires.description": "Puhkoo ajoneuvon renkaat.",
     "ui.inputActions.gameplay.funTires.title": "Puhko renkaat",
-    "ui.inputActions.gameplay.funExtinguish.title": "Sammuta tulipalo"
+    "ui.inputActions.gameplay.funExtinguish.title": "Sammuta tulipalo",
+    "ui.inputActions.gameplay.loadHome.description": "Siirtää ajoneuvon kotisijaintiinsa",
+    "ui.inputActions.gameplay.nodegrabberAction.title": "Riiputa/yhdistä/irrota kärki",
+    "ui.inputActions.gameplay.nodegrabberGrab.description": "Aloittaa/lopettaa kohdistetun kärjen siirtämisen",
+    "ui.inputActions.gameplay.nodegrabberGrab.title": "Tarraa kohdistettuun kärkeen",
+    "ui.inputActions.gameplay.nodegrabberRender.description": "Näyttää tarrattavat kärjet",
+    "ui.inputActions.gameplay.loadHome.title": "Lataa kotisijainti",
+    "ui.inputActions.gameplay.nodegrabberAction.description": "Riiputtaa kärkeä ilmassa tai yhdistää sen toiseen kärkeen"
 }
