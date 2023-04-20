@@ -3373,5 +3373,18 @@
     "ui.inputActions.menu.menu_item_select.title": "Vahvista/aktivoi valikkokohta",
     "ui.inputActions.menu.menu_item_up.description": "Siirtyy valikossa jotakuinkin lähimpään yllä olevaan kohtaan",
     "ui.inputActions.menu.menu_item_up.title": "Ylös valikossa",
-    "ui.inputActions.menu.menu_tab_left.description": " "
+    "ui.inputActions.menu.menu_tab_left.description": " ",
+    "ui.inputActions.menu.menu_tab_left.title": "Vasen välilehti",
+    "ui.inputActions.menu.menu_tab_right.title": "Oikea välilehti",
+    "ui.inputActions.menu.options.description": "Avaa asetusvalikon",
+    "ui.inputActions.menu.options.title": "Asetukset",
+    "ui.inputActions.menu.parts_selector.description": "Avaa ajoneuvon asetusvalikon",
+    "ui.inputActions.menu.parts_selector.title": "Osavalitsin",
+    "ui.inputActions.menu.toggleMenues.description": "Kytkee sivu- ja ympyrävalikon päälle/pois",
+    "ui.inputActions.menu.toggleMenues.title": "Valikot päälle/pois",
+    "ui.inputActions.menu.toggle_help.description": "Kytkee ohjevalikon päälle/pois",
+    "ui.inputActions.menu.vehicle_selector.description": "Avaa ajoneuvon valitsimen",
+    "ui.inputActions.menu.vehicle_selector.title": "Ajoneuvon valinta",
+    "ui.inputActions.slowmotion.faster_motion.description": "Nopeuttaa aikaa",
+    "ui.inputActions.slowmotion.faster_motion.title": "Nopeuta"
 }
