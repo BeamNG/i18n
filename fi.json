@@ -3268,7 +3268,7 @@
     "ui.inputActions.gameplay.couplersLock.description": "lukitsee kaikki liitokset",
     "ui.inputActions.gameplay.couplersLock.title": "LIitokset: Lukitse kaikki",
     "ui.inputActions.gameplay.couplersToggle.description": "Lukitsee liitokset tai avaa niiden lukituksen",
-    "ui.inputActions.gameplay.couplersToggle.title": "Liitokset: lukitse/poista lukitus",
+    "ui.inputActions.gameplay.couplersToggle.title": "Liitokset: lukitse/irrota",
     "ui.inputActions.gameplay.couplersUnlock.description": "Poistaa kaikkien liitosten lukituksen",
     "ui.inputActions.gameplay.couplersUnlock.title": "Liitokset: poista kaikki lukitukset"
 }
