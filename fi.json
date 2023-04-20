@@ -3836,5 +3836,5 @@
     "launchercpp.moveusr_do_registry_err": "Rekisteriarvon luonti tai muuttaminen epäonnistui",
     "launchercpp.supporttool_safemode_txt": "Käynnistää pelin väliaikaisella käyttäjäkansiolla. Käytä tätä virheenkorjaukseen, jos ilmenee ongelmia.\n\nJos peli toimii hyvin vikasietotilassa, jokin modeistasi voi olla ongelmien syynä.\n\nVAROITUS: peliin vikasietotilassa tehtyjä muutoksia ei tallenneta",
     "launchercpp.supporttool_safemode_title": "Vikasietotila",
-    "launchercpp.supporttool_cefnohw_txt": "Tämän tarkoituksena on korjata käyttöliittymän liittyviä ongelmia.\n\nVaihtoehto poistaa käytöstä käyttöliittymän kokeellisen laitteistokiihdytyksen\n\nHuom.: tämä on jo oletuksena pois päältä. Tätä voi käyttää, jos kytkit sen päälle ja ongelmia ilmeni"
+    "launchercpp.supporttool_cefnohw_txt": "Tämän tarkoitus on korjata ongelmia käyttöliittymässä.\n\nTämä asetus poistaa käytöstä käyttöliittymän kokeellisen laitteistokiihdytyksen\n\nHuom.: tämä on jo oletuksena pois päältä. Tätä voi käyttää, jos kytkit sen päälle ja ongelmia ilmeni"
 }
