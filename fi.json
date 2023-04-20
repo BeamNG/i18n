@@ -3575,5 +3575,5 @@
     "ui.inputActions.cannon.shoot.title": "Ammu kuula",
     "ui.inputActions.caravan.toggle_feet.description": "Nostaa/laskee perävaunun tunkin",
     "ui.inputActions.caravan.toggle_feet.title": "Perävaunun tunkki",
-    "ui.inputActions.citybus.default_rideHeight.description": "Siirtää ajoneuvon oletuskorkeudelle"
+    "ui.inputActions.citybus.default_rideHeight.description": "Siirtää ajoneuvon alustan oletuskorkeudelle"
 }
