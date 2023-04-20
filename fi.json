@@ -3440,7 +3440,7 @@
     "ui.inputActions.vehicle.horn.title": "Töötti",
     "ui.inputActions.vehicle.increaseTwoStepRPM.title": "Nosta kaksivaiheisen lähtöavustimen kierroslukua",
     "ui.inputActions.vehicle.increase_cc_speed.description": "Nostaa vakionopeudensäätimen nopeutta 1 km/h",
-    "ui.inputActions.vehicle.increase_cc_speed.title": "Nosta vakionopeutta (1 km/h)",
+    "ui.inputActions.vehicle.increase_cc_speed.title": "Nosta vakionopeundensäädintä (1 km/h)",
     "ui.inputActions.vehicle.highbeam.title": "Väläytä kaukovaloja",
     "ui.inputActions.vehicle.key_e.description": "'E'-näppäimen toiminto (poistetaan käytöstä)",
     "ui.inputActions.vehicle.key_a.description": "'A'-näppäimen toiminto (poistetaan käytöstä)",
