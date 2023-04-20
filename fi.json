@@ -1820,7 +1820,7 @@
     "ui.options.controls": "Kontrollit",
     "ui.options.userInterface.editApps": "Muokkaa UI-sovelluksia",
     "ui.options.availableLanguages": "Käytettävät kielet",
-    "ui.options.detectedLanguage": "Havaitut kielet",
+    "ui.options.detectedLanguage": "Havaittu kieli",
     "ui.options.assistants": "Ajoavustimet",
     "ui.options.gameplay.gearboxSafety": "Vaihdelaatikon turvallisuusapulaite",
     "ui.options.gameplay.gearboxSafety.tooltip": "Jos käytössä, vaihdelaatikko hylkää mahdolliset vahinkoa aiheuttavat vaihteenvaihdot sekä estää tietyt vaihdetilojen muutokset parempaa kisakokemusta varten. (Esimerkiksi, M-tilan pois vaihtaminen onnistuu vasta kun ajat tarpeeksi hitaasti)",
