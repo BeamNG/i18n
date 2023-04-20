@@ -3564,5 +3564,7 @@
     "ui.inputActions.boxutility_large.toggle_tailgate.description": "Avaa/sulkee perälaudan",
     "ui.inputActions.boxutility_large.toggle_tailgate.title": "Perälauta",
     "ui.inputActions.bollard.blocker.title": "Ylös/alas",
-    "ui.inputActions.boxutility.toggle_feet.description": "Nostaa/laskee perävaunun tunkin"
+    "ui.inputActions.boxutility.toggle_feet.description": "Nostaa/laskee perävaunun tunkin",
+    "ui.inputActions.cannon.lift.description": "Nostaa piipun ylös tai alas",
+    "ui.inputActions.cannon.lift.title": "Nostaa/laske"
 }
