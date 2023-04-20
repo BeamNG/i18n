@@ -3836,5 +3836,13 @@
     "launchercpp.moveusr_do_registry_err": "Rekisteriarvon luonti tai muuttaminen epäonnistui",
     "launchercpp.supporttool_safemode_txt": "Käynnistää pelin väliaikaisella käyttäjäkansiolla. Käytä tätä virheenkorjaukseen, jos ilmenee ongelmia.\n\nJos peli toimii hyvin vikasietotilassa, jokin modeistasi voi olla ongelmien syynä.\n\nVAROITUS: peliin vikasietotilassa tehtyjä muutoksia ei tallenneta",
     "launchercpp.supporttool_safemode_title": "Vikasietotila",
-    "launchercpp.supporttool_cefnohw_txt": "Tämän tarkoitus on korjata ongelmia käyttöliittymässä.\n\nTämä asetus poistaa käytöstä käyttöliittymän kokeellisen laitteistokiihdytyksen\n\nHuom.: tämä on jo oletuksena pois päältä. Tätä voi käyttää, jos kytkit sen päälle ja ongelmia ilmeni"
+    "launchercpp.supporttool_cefnohw_txt": "Tämän tarkoitus on korjata ongelmia käyttöliittymässä.\n\nTämä asetus poistaa käytöstä käyttöliittymän kokeellisen laitteistokiihdytyksen\n\nHuom.: tämä on jo oletuksena pois päältä. Tätä voi käyttää, jos kytkit sen päälle ja ongelmia ilmeni",
+    "launchercpp.supporttool_cefnohw_title": "Poista käyttöliittymän laitteistokiihdytys käytöstä",
+    "launchercpp.supporttool_verifyhash_txt": "Tämä työkalu käy läpi pelikansiosi ja tarkistaa, ettei tiedostoja puutu tai ole vioittunut.\n\nTässä voi kestää muutama minuutti.",
+    "launchercpp.supporttool_btn_instruction": "Tukityökalut",
+    "launchercpp.supporttool_btn_safemode": "Vikasietotila\nLuo tilapäisen käyttäjäkansion.",
+    "launchercpp.supporttool_btn_cefnohw": "Poista käyttöliittymän laitteistokiihdytys käytöstä\nKokeile, jos sinulla on ongelmia käyttöliittymän kanssa.",
+    "launchercpp.supporttool_btn_renderdebug": "Ota piirtolokit käyttöön\nKokeile, jos ruudun piirtäminen aiheuttaa kaatumisia.",
+    "launchercpp.supporttool_verifyhash_title": "Tarkista eheys",
+    "launchercpp.supporttool_btn_clearcache": "Tyhjennä välimuisti\nKokeile, jos sinulla on ongelmia tekstuurien kanssa."
 }
