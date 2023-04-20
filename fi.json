@@ -3424,5 +3424,13 @@
     "ui.inputActions.vehicle.gear7.description": "Vaihtaa seitsemännelle vaihteelle",
     "ui.inputActions.vehicle.gearN.description": "Vaihtaa vapaavaihteelle",
     "ui.inputActions.vehicle.gearN.title": "Vapaavaihde",
-    "ui.inputActions.vehicle.gear8.description": "Vaihtaa kahdeksannelle vaihteelle"
+    "ui.inputActions.vehicle.gear8.description": "Vaihtaa kahdeksannelle vaihteelle",
+    "ui.inputActions.vehicle.gear1.title": "1. vaihde",
+    "ui.inputActions.vehicle.gear2.title": "2. vaihde",
+    "ui.inputActions.vehicle.gear3.title": "3. vaihde",
+    "ui.inputActions.vehicle.gear4.title": "4. vaihde",
+    "ui.inputActions.vehicle.gear5.title": "5. vaihde",
+    "ui.inputActions.vehicle.gear6.title": "6. vaihde",
+    "ui.inputActions.vehicle.gear7.title": "7. vaihde",
+    "ui.inputActions.vehicle.gear8.title": "8. vaihde"
 }
