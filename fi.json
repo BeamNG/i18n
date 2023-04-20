@@ -3483,5 +3483,7 @@
     "ui.inputActions.vehicle.parkingbrake.description": "Aktivoi seisontajarrun viisaasti (kuten suditellessa tai pysäköitäessä)",
     "ui.inputActions.vehicle.reset_cc_speed.description": "Palauttaa edellisen nopeuden vakionopeudensäätimen nopeudeksi",
     "ui.inputActions.vehicle.set_cc_speed.title": "Aseta vakionopeus",
-    "ui.inputActions.vehicle.parkingbrake.title": "Käsijarru"
+    "ui.inputActions.vehicle.parkingbrake.title": "Käsijarru",
+    "ui.inputActions.vehicle.shiftDown.title": "Vaihde alas",
+    "ui.inputActions.vehicle.shiftUp.description": "Vaihtaa ylemmälle vaihteelle"
 }
