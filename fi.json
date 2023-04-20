@@ -3623,7 +3623,7 @@
     "ui.inputActions.large_roller.rpm_decrease.title": "Laske RPM:ää",
     "ui.inputActions.large_roller.rpm_increase.title": "Nosta RPM:ää",
     "ui.inputActions.large_roller.toggle_direction.title": "Vaihda suuntaa",
-    "ui.inputActions.large_spinner.rpm_decrease.description": " ",
+    "ui.inputActions.large_spinner.rpm_decrease.description": "",
     "ui.inputActions.flatbed.toggle_doorR.description": "Avaa/sulkee oikeanpuoleisen rahtioven",
     "ui.inputActions.flatbed.toggle_feet.description": "Nostaa/laskee perävaunun jalat",
     "ui.inputActions.large_angletester.lowerDown.description": "Laskee ramppia",
