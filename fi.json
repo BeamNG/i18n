@@ -3353,7 +3353,7 @@
     "ui.inputActions.menu.menu_item_confirm.title": "Vahvista valinta",
     "ui.inputActions.menu.menu_item_dashboard.description": "Palaa kojelautaan mistä tahansa",
     "ui.inputActions.menu.menu_item_dashboard.title": "Kojelauta",
-    "ui.inputActions.menu.menu_item_down.description": "Siirtyy valikossa jotakuinkin alla olevaan kohtaan",
+    "ui.inputActions.menu.menu_item_down.description": "Siirtyy valikossa jotakuinkin lähimpään alla olevaan kohtaan",
     "ui.inputActions.general.quit.title": "Lopeta",
     "ui.inputActions.menu.appedit.title": "UI-sovellusten muokkaus",
     "ui.inputActions.menu.menu_item_down.title": "Alas valikossa",
