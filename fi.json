@@ -2229,7 +2229,7 @@
     "scenarios.busRoutes.exitTggBeforeTimer": "Sinun pitää pysähtyä pysäkin alueelle",
     "scenarios.busRoutes.success": "Saavutit viimeisen pysäkin",
     "scenarios.busRoutes.skip": "Jätit yhden pysäkin väliin",
-    "scenarios.busRoutes.skipRequiredWpDefault": "Ohitit yhden vaadittavan reittipisteen",
+    "scenarios.busRoutes.skipRequiredWpDefault": "Ohitit yhden vaadittavan reittipisteen (default message, define `.failmsg`)",
     "scenarios.busRoutes.alreadyStop": "Pysähdyit jo täällä",
     "scenarios.east_coast_usa.bank_robbery.lost.fail.msg": "Eksyit matkalla pankkiin",
     "scenarios.gridmap.gm_intersection_1.title": "Risteys",
