@@ -3263,5 +3263,10 @@
     "ui.inputActions.gameplay.accept.description": "Hyväksyy nykyisen tehtävän",
     "ui.inputActions.gameplay.cancelReplayRecording.description": "Lopettaa uusinnan nauhoituksen ja hylkää sen",
     "ui.inputActions.gameplay.accept.title": "Hyväksy tehtävä",
-    "ui.inputActions.debug.lua_reload.title": "Lataa Lua uudelleen"
+    "ui.inputActions.debug.lua_reload.title": "Lataa Lua uudelleen",
+    "ui.inputActions.gameplay.cancelReplayRecording.title": "Peru uusinta",
+    "ui.inputActions.gameplay.couplersLock.description": "lukitsee kaikki liitokset",
+    "ui.inputActions.gameplay.couplersLock.title": "LIitokset: Lukitse kaikki",
+    "ui.inputActions.gameplay.couplersToggle.description": "Lukitsee liitokset tai avaa niiden lukituksen",
+    "ui.inputActions.gameplay.couplersToggle.title": "Liitokset: lukitse/poista lukitus"
 }
