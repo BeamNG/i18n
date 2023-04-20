@@ -3849,5 +3849,6 @@
     "launchercpp.supporttool_btn_do": "Tuki\nTarvitsetko apua? Eikö jokin toimi? Voimme auttaa sinua :)",
     "launchercpp.clearcache_msg_title": "Tyhjennä välimuisti",
     "launchercpp.clearcache_msg_normal_txt": "Tämä työkalu poistaa kaikki välimuistikansiot ja siirtää käyttäjäkansion tiedostot oikeille paikoilleen.\n\nVälimuistin tyhjennys voi korjata ongelmia tekstuurien, materiaalien ja vastaavien kanssa.\n\nTässä voi kestää muutama minuutti käyttäjäkansiosi koosta riippuen.",
-    "launchercpp.clearcache_msg_deep_txt": "Olet tyhjentämässä välimuistikansiot perin pohjin!\n\nVain modit ja asetukset säilytetään. Kaikki muut tiedot siirretään varmuuskopiokansioon.\n\nTämä voi ratkaista ongelmia vakioajoneuvojen, kenttien, materiaalien ja vastaavan sisällön kanssa.\n\nTässä voi kestää muutama minuutti käyttäjäkansiosi koosta riippuen.\n\nHaluatko jatkaa?"
+    "launchercpp.clearcache_msg_deep_txt": "Olet tyhjentämässä välimuistikansiot perin pohjin!\n\nVain modit ja asetukset säilytetään. Kaikki muut tiedot siirretään varmuuskopiokansioon.\n\nTämä voi ratkaista ongelmia vakioajoneuvojen, kenttien, materiaalien ja vastaavan sisällön kanssa.\n\nTässä voi kestää muutama minuutti käyttäjäkansiosi koosta riippuen.\n\nHaluatko jatkaa?",
+    "launchercpp.clearcache_btn_normal": "Välimuistin tyhjennys\nPoistaa vanhoja tiedostoja.\nSäilyttää modit, asetukset ja suuren osan tiedostoista."
 }
