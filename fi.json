@@ -2873,7 +2873,7 @@
     "ui.apps.ffb_graph.Rate": "Tahti",
     "ui.apps.ffb_graph.Limit": "Raja",
     "ui.apps.ffb_graph.Atwheel": "Renkaassa",
-    "ui.apps.ffb_graph.Atdriver": "Ajajaan",
+    "ui.apps.ffb_graph.Atdriver": "Kuljettajan luona",
     "ui.apps.ffb_graph.Force": "Voima",
     "ui.apps.escstiffness.maxStiffnessRear": "Max. Takajäykkyys",
     "ui.apps.escstiffness.maxStiffnessFront": "Max. Jäykkyys edessä",
