@@ -3544,5 +3544,6 @@
     "ui.inputActions.vehicle.toggle_right_signal.description": "Kytkee oikean suuntavilkun päälle/pois",
     "ui.inputActions.vehicle_debug.debugmode_nodetext_back.description": "Vaihtaa kärkitestaustilojen välillä",
     "ui.inputActions.vehicle_debug.debugmode_nodevis_fwd.title": "Vaihda kärjen näkyvyystiloja",
-    "ui.inputActions.vehicle_debug.debugmode_skeleton_fwd.description": "Vaihtaa runkorakenteen testaustilojen välillä"
+    "ui.inputActions.vehicle_debug.debugmode_skeleton_fwd.description": "Vaihtaa runkorakenteen testaustilojen välillä",
+    "ui.inputActions.vehicle.toggle_headlights.title": "Ajovalot"
 }
