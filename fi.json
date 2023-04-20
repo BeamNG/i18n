@@ -3322,7 +3322,7 @@
     "ui.inputActions.gameplay.toggleTraffic.description": "Kytkee muiden ajoneuvojen liikennejärjestelmän päälle/pois",
     "ui.inputActions.gameplay.toggleTraffic.title": "Liikenne päälle/pois",
     "ui.inputActions.gameplay.toggleWalkingMode.description": "Astuu sisään ajoneuvoon tai ulos ajoneuvosta",
-    "ui.inputActions.gameplay.toggleWalkingMode.title": "Kävely päälle/pois",
+    "ui.inputActions.gameplay.toggleWalkingMode.title": "Kävelytila päälle/pois",
     "ui.inputActions.gameplay.toggle_minimap.description": "Kytkee pienoiskartan päälle/pois",
     "ui.inputActions.gameplay.toggle_minimap.title": "Pienoiskartta päälle/pois",
     "ui.inputActions.gameplay.toggle_timeTrialsScreen.description": "Avaa määritysvalikon aika-ajoissa",
