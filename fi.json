@@ -3577,5 +3577,6 @@
     "ui.inputActions.caravan.toggle_feet.title": "Perävaunun tunkki",
     "ui.inputActions.citybus.default_rideHeight.description": "Siirtää ajoneuvon alustan oletuskorkeudelle",
     "ui.inputActions.citybus.default_rideHeight.title": "Oletuskorkeus",
-    "ui.inputActions.citybus.max_rideHeight.description": "Siirtää ajoneuvon enimmäiskorkeudelle"
+    "ui.inputActions.citybus.max_rideHeight.description": "Siirtää ajoneuvon enimmäiskorkeudelle",
+    "ui.inputActions.citybus.toggle_doors.description": "Avaa ja sulkee ovet"
 }
