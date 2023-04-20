@@ -3314,5 +3314,5 @@
     "ui.inputActions.gameplay.switch_next_vehicle.title": "Seuraava ajoneuvo",
     "ui.inputActions.gameplay.switch_next_vehicle_multiseat.description": "Kohdistaa seuraavaan ajoneuvoon paikallisessa moninpelissä",
     "ui.inputActions.gameplay.reset_physics.description": "Käynnistää skenaarion uudelleen",
-    "ui.inputActions.gameplay.switch_next_vehicle_multiseat.title": "Seuraava ajoneuvo (moni-istuintila)"
+    "ui.inputActions.gameplay.switch_next_vehicle_multiseat.title": "Seuraava ajoneuvo (paikallinen moninpeli)"
 }
