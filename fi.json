@@ -3367,5 +3367,8 @@
     "ui.inputActions.menu.menu_item_radial_x.description": "Siirtää ympyrävalikon valitsinta (vaakasuuntaan)",
     "ui.inputActions.menu.menu_item_radial_x.title": "Ympyrävalikko (vaaka)",
     "ui.inputActions.menu.menu_item_radial_y.description": "Siirtää ympyrävalikon valitsinta (pystysuuntaan)",
-    "ui.inputActions.menu.menu_item_right.description": "Siirtyy valikossa jotakuinkin oikealla olevaan kohtaan"
+    "ui.inputActions.menu.menu_item_right.description": "Siirtyy valikossa jotakuinkin oikealla olevaan kohtaan",
+    "ui.inputActions.menu.menu_item_right.title": "Oikealle valikossa",
+    "ui.inputActions.menu.menu_item_select.description": "Napsauttaa valittua valikkokohtaa",
+    "ui.inputActions.menu.menu_item_select.title": "Vahvista/valitse valikkokohta"
 }
