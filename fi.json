@@ -3204,12 +3204,13 @@
     "ui.inputActions.camera.moveright.title": "Siirrä oikealle",
     "ui.inputActions.camera.moveup.description": "Siirtää lentävää kameraa ylöspäin",
     "ui.inputActions.camera.moveup.title": "Siirrä ylös",
-    "ui.inputActions.camera.rollAbs.description": "Kolmiulotteisen hiiren kierintäakseli",
+    "ui.inputActions.camera.rollAbs.description": "Kolmiulotteisen hiiren kallistusakseli",
     "ui.inputActions.camera.moveforward.title": "Siirrä eteenpäin",
     "ui.inputActions.camera.moveleft.description": "Siirtää lentävää kameraa vasemmalle",
     "ui.inputActions.camera.moveright.description": "Siirtää lentävää kameraa oikealle",
     "ui.inputActions.camera.rotate_camera_down.description": "Kääntää kameraa alas",
     "ui.inputActions.camera.rotate_camera_down.title": "Käännä kameraa alas",
     "ui.inputActions.camera.rotate_camera_hz_mouse.description": "Kääntää kameraa vasemmalle/oikealle (hiiren oikea painike pohjassa)",
-    "ui.inputActions.camera.rotate_camera_hz_mouse.title": "Käännä kameraa sivuittain (oikea painike)"
+    "ui.inputActions.camera.rotate_camera_hz_mouse.title": "Käännä kameraa sivuittain (oikea painike)",
+    "ui.inputActions.camera.rotate_camera_horizontal.description": "Kääntää kameraa vasemmalle/oikealle"
 }
