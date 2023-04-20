@@ -3134,5 +3134,13 @@
     "ui.stats.pathAdvance": "Polun seuraus",
     "ui.stats.followPath": "Seuraa polkua",
     "ui.stats.fuelConsumption": "Polttoaineen kulutus",
-    "ui.stats.maxSpeed": "Suurin nopeus"
+    "ui.stats.maxSpeed": "Suurin nopeus",
+    "ui.stats.target": "Kohde",
+    "ui.stats.pianosDistroyed": "Tuhotut pianot",
+    "ui.traffic.infractions.racing": "kilpa-ajo",
+    "ui.traffic.infractions.hitTraffic": "kolari",
+    "ui.traffic.infractions.reckless": "huolimaton ajo",
+    "ui.stats.stopDistance": "Pysähdyspituus",
+    "ui.stats.time": "Aikaa",
+    "ui.traffic.infractions.speeding": "ylinopeus"
 }
