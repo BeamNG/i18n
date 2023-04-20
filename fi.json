@@ -3806,5 +3806,8 @@
     "launchercpp.moveusr_do": "Valitse uusi sijainti\nAseta uusi sijainti käyttäjäkansiolle.",
     "launchercpp.moveusr_open": "Avaa resurssienhallinnassa\nAvaa käyttäjäkansion resurssienhallinnassa, josta näkee kansion sisällön ja sijainnin.",
     "launchercpp.ui_cancel": "Peruuta",
-    "launchercpp.ui_error": "Virhe"
+    "launchercpp.ui_error": "Virhe",
+    "launchercpp.moveusr_verif": "Siirrä käyttäjätiedot (paitsi välimuisti ja lokit)",
+    "launchercpp.moveusr_instruction": "Hallinnoi käyttäjäkansiota",
+    "launchercpp.moveusr_current": "Käyttäjäkansion polku nyt: '{0}'\nValitse yksi seuraavista:"
 }
