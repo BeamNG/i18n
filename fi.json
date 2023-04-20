@@ -3173,7 +3173,7 @@
     "ui.inputActions.camera.camera_8.title": "Kamera 8",
     "ui.inputActions.camera.camera_9.description": "Vaihda kameraan 9",
     "ui.inputActions.camera.camera_9.title": "Kamera 9",
-    "ui.inputActions.camera.center_camera.description": "Siirtää kameran keskelle",
+    "ui.inputActions.camera.center_camera.description": "Kääntää kameran keskelle",
     "quickrace.industrial.track_warehouse.title": "Varastokisa",
     "quickrace.industrial.track_container_chaos.title": "Konttikaaos",
     "quickrace.industrial.track_container_perimeter.title": "Konttien ympärysajo",
