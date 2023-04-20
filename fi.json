@@ -3402,5 +3402,6 @@
     "ui.inputActions.slowmotion.toggle_slow_motion.title": "Hidastus päälle/pois",
     "ui.inputActions.vehicle.accelerate.description": "Painaa kaasua",
     "ui.inputActions.vehicle.accelerate.title": "Kaasu",
-    "ui.inputActions.vehicle.accelerate_brake.description": "Toimii vain peliohjaimille, sauvaohjaimille ja rateille, joissa polkimet"
+    "ui.inputActions.vehicle.accelerate_brake.description": "Toimii vain peliohjaimille, sauvaohjaimille ja rateille, joissa yhdistetty poljinakseli",
+    "ui.inputActions.vehicle.accelerate_brake.title": "Yhdistetty kaasu- ja jarruakseli"
 }
