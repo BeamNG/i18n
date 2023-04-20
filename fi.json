@@ -3730,5 +3730,6 @@
     "ui.mainMenu.bus.traffic": "Liikenne",
     "ui.campaign.photoSafari": "Kuvasafari",
     "ui.campaign.failed": "Hylätty",
-    "ui.campaign.closed": "Suljettu"
+    "ui.campaign.closed": "Suljettu",
+    "ui.campaign.Accept": "Hyväksyn"
 }
