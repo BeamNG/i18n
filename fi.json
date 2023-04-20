@@ -3719,5 +3719,9 @@
     "ui.inputActions.tanker.toggle_feet.description": "Nostaa/laskee perävaunun jalat",
     "ui.inputActions.van.toggle_doors.title": "Rahtiovet",
     "ui.inputActions.van.extend.description": "Pidentää lavaa taaksepäin",
-    "ui.inputActions.van.tiltUp.title": "Kallista lavaa ylös"
+    "ui.inputActions.van.tiltUp.title": "Kallista lavaa ylös",
+    "ui.inputActions.shipping_container.toggle_doorL.title": "Vasen ovi",
+    "ui.inputActions.shipping_container.toggle_doorR.title": "Oikea ovi",
+    "ui.inputActions.shipping_container.toggle_doors.description": "Avaa/sulkee ovet",
+    "ui.inputActions.shipping_container.toggle_doors.title": "Kontin ovet"
 }
