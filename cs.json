@@ -728,7 +728,7 @@
     "engine.editor.menu.edit": "Upravit",
     "engine.editor.menu.undo": "Vrátit",
     "engine.editor.menu.redo": "Znovu",
-    "engine.editor.menu.cut": "Vyjmout",
+    "engine.editor.menu.cut": "Střih",
     "engine.editor.menu.copy": "Kopírovat",
     "engine.editor.menu.paste": "Vložit",
     "engine.editor.menu.delete": "Smazat",
