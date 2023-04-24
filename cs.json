@@ -2196,5 +2196,14 @@
     "ui.apps.thumbnail_generator.Stayoncurrentmap": "Zůstat na aktuální mapě",
     "ui.apps.threedexport.EmbedBuffersMessage": "Zabuduje vše do jednoho souboru pokud je zapnuto.",
     "ui.options.camera.slower": "Pomalejší",
-    "BodyStyle": "Styl karoserie"
+    "BodyStyle": "Styl karoserie",
+    "ui.apps.thumbnail_generator.Distance": "Vzdálenost",
+    "ui.apps.traffic.NumberofCars": "Počet vozidel",
+    "ui.apps.traffic.Delete": "Smazat",
+    "ui.apps.traffic.AIMode": "Režim AI",
+    "ui.apps.threedexport.Export": "Exportovat",
+    "ui.options.camera.disabled": "vypnuto",
+    "ui.options.camera.videocam": "videokamera",
+    "ui.options.camera.orbit": "Volná",
+    "ui.options.camera.driver": "Řidič"
 }
