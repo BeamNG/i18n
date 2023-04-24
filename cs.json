@@ -724,7 +724,7 @@
     "vehicle.recovery.recovered": "Vozidlo obnoveno",
     "vehicle.recovery.saveHome": "Pozice vozu aktualizována (použij [action=loadHome] pro obnovení)",
     "engine.nodegrab.fixedwarning": "CTRL + Prostřední tlačítko myši pro uvolnění uzlů",
-    "engine.editor.loading": "Načítání World Editoru...",
+    "engine.editor.loading": "Načítání Světového Editoru...",
     "engine.editor.menu.edit": "Upravit",
     "engine.editor.menu.undo": "Vrátit",
     "engine.editor.menu.redo": "Znovu",
