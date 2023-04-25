@@ -2486,5 +2486,6 @@
     "scenarios.east_coast_usa.bank_robbery.distance.fail.msg": "Podezřelý uprchl",
     "scenarios.east_coast_usa.bank_robbery.title": "Bankovní loupež",
     "scenarios.east_coast_usa.bank_robbery.damage.fail.msg": "Naboural jste své vozidlo",
-    "scenarios.east_coast_usa.bank_robbery.win.msg": "Výborně! Tvůj čas: {{timeLimit}}"
+    "scenarios.east_coast_usa.bank_robbery.win.msg": "Výborně! Tvůj čas: {{timeLimit}}",
+    "scenarios.east_coast_usa.bank_robbery.lost.fail.msg": "Ztratil ses na cestě k bance"
 }
