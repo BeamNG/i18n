@@ -577,7 +577,7 @@
     "ui.options.graphics.GraphicDynReflectionDetail": "Detail",
     "ui.options.graphics.GraphicDynReflectionDistance": "Vzdálenost",
     "ui.options.graphics.GraphicDynReflectionFacesPerupdate": "Tempo obnovování",
-    "ui.options.graphics.GraphicDynReflectionTexsize": "Velikost textury",
+    "ui.options.graphics.GraphicDynReflectionTexsize": "Rozlišení",
     "ui.options.graphics.GraphicLightingQuality": "Kvalita osvětlení",
     "ui.options.graphics.GraphicPostfxQuality": "Kvalita Post Processing efektů",
     "ui.options.graphics.GraphicShaderQuality": "Kvalita vykreslování",
@@ -2442,5 +2442,12 @@
     "scenarios.driver_training.driver_training.training_rwd.title": "Trénink 9: Ovládání pohonu zadních kol",
     "scenarios.driver_training.driver_training.training_rwd.nomove.msg": "Pozor na ty kužely! Pamatuj si, že tohle auto se tak docela nechová jako ta předchozí, která jsem ti svěřil dříve.",
     "scenarios.driver_training.driver_training.training_advanced.title": "Trénink 10: Pokročilé projíždění zatáček",
-    "scenarios.driver_training.driver_training.training_advanced.timeLimit.msg": "Trvá ti to příliš dlouho – vím, že to dokážeš zvládnout lépe."
+    "scenarios.driver_training.driver_training.training_advanced.timeLimit.msg": "Trvá ti to příliš dlouho – vím, že to dokážeš zvládnout lépe.",
+    "ui.options.userInterface.richPresence": "Povolit bohatou prezenci",
+    "ui.options.graphics.GraphicPostfxQualityTooltip": "Kvalita efektů následného zpracování. Vyšší nastavení zajistí lepší a čistší efekty.",
+    "ui.options.graphics.GraphicAnisotropicTooltip": "Kvalita filtrování textur. Vyšší nastavení zajistí čistší textury na dálku s minimálními náklady na výkon.",
+    "ui.options.graphics.GraphicDynReflectionTooltip": "Přepíná odrazy v reálném čase na aktivním vozidle.",
+    "ui.options.graphics.GraphicDynReflectionFacesPerupdateTooltip": "Jak často se aktualizují odrazy světla. Vyšší hodnoty mohou být obzvláště náročné na výkon.",
+    "ui.options.graphics.GraphicDynReflectionDetailTooltip": "Kvalita objektů v odrazech.",
+    "ui.options.graphics.GraphicDynReflectionTexsizeTooltip": "Vyšší nastavení zajistí ostřejší odrazy. Doporučuje se hodnota 1024."
 }
