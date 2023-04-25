@@ -3700,7 +3700,7 @@
     "launchercpp.moveuserfolder_overwrite_msg": "Vous utilisez une fonction de terminal pour lancer le jeu avec un chemin d'accès spécifique d'utilisateur.\nVous avez besoin d'enlever cette fonction de terminal si vous voulez utiliser cette fonctionnalité.",
     "launchercpp.moveuserfolder_overwrite_title": "Action impossible",
     "launchercpp.main_instruction": "Lanceur de BeamNG.drive",
-    "launchercpp.main_content": "Veuillez choisir une des options suivantes:",
+    "launchercpp.main_content": "Veuillez choisir l'une des options suivantes :",
     "launchercpp.main_play": "Démarrer le jeu\nSimplement apprécier BeamNG.drive",
     "launchercpp.main_btn_supporttool": "Outils de support\nOutils permettant de résoudre les problèmes avec le jeu",
     "launchercpp.main_btn_force64": "Démarrer le jeu en mode 64 bits\nForcer le démarrage en 64 Bits",
