@@ -277,7 +277,7 @@
     "ui.apps.engine_damage_app.name": "Aplikace Poškození motoru",
     "ui.apps.engine_debug.name": "Ladění motoru",
     "ui.apps.engine_thermal_debug.name": "Ladění termiky motoru",
-    "ui.apps.esc_desired_yaw_rate_graph.name": "ESC Graf požadované rychlosti změny směru",
+    "ui.apps.esc_desired_yaw_rate_graph.name": "ESC graf požadované rychlosti změny směru",
     "ui.apps.escstiffness.name": "Tuhost ESC",
     "ui.apps.forced_induction_debug.name": "Ladění přeplňování",
     "ui.apps.g-forces.name": "Přetížení",
@@ -1224,7 +1224,7 @@
     "ui.credits.soundtrack": "Soundtrack",
     "ui.apps.generic_profiling_graph.name": "Obecný profilovací graf",
     "ui.apps.ffb_visualizer.name": "Vizualizér FFB",
-    "ui.apps.clutch_thermal_debug.name": "Debug teploty spojky",
+    "ui.apps.clutch_thermal_debug.name": "Ladění teploty spojky",
     "ui.apps.demo_help.name": "Pomoc s demo verzí",
     "ui.appselect.noCockpit": "Skrýt v kokpitu",
     "ui.replay.stop": "Zastavit",
@@ -2651,5 +2651,9 @@
     "ui.photomode.dofMaxBlurFar": "Síla vzdáleného rozmazání",
     "ui.photomode.dofMaxBlurNear": "Síla blízkého rozmazání",
     "ui.apps.engine_thermal_debug.headGasketBlown": "Poškození těsnění hlavy",
-    "ui.photomode.SSAOQualityHigh": "Vysoká"
+    "ui.photomode.SSAOQualityHigh": "Vysoká",
+    "ui.apps.engine_thermal_debug.pistonRingsDamaged": "Poškození pístních kroužků",
+    "ui.apps.engine_thermal_debug.connectingRodBearingsDamaged": "Poškození ojničních ložisek",
+    "ui.apps.escstiffness.targetSpeed": "Cílová rychlost",
+    "ui.apps.escstiffness.targetAngle": "Cílový úhel"
 }
