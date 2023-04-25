@@ -2647,5 +2647,9 @@
     "ui.apps.brake_torque_graph.speed": "Rychlost",
     "ui.apps.brake_thermal_debug.coreCooling": "Chlazení středu",
     "ui.apps.digTacho.engine": "Motor",
-    "ui.photomode.openScreenshotsFolder": "Otevřít složku se snímky obrazovky"
+    "ui.photomode.openScreenshotsFolder": "Otevřít složku se snímky obrazovky",
+    "ui.photomode.dofMaxBlurFar": "Síla vzdáleného rozmazání",
+    "ui.photomode.dofMaxBlurNear": "Síla blízkého rozmazání",
+    "ui.apps.engine_thermal_debug.headGasketBlown": "Poškození těsnění hlavy",
+    "ui.photomode.SSAOQualityHigh": "Vysoká"
 }
