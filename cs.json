@@ -2467,5 +2467,6 @@
     "scenarios.east_coast_usa.car_delivery_2.distance.msg": "Přišel jste o své vozidlo!",
     "scenarios.east_coast_usa.car_delivery_2.damage.msg": "Poškodil jste své vozidlo",
     "scenarios.east_coast_usa.hidden_jump_a.title": "Skrytý skok",
-    "scenarios.east_coast_usa.east_coast_chase_1.title": "Honička na Východním pobřeží 1"
+    "scenarios.east_coast_usa.east_coast_chase_1.title": "Honička na Východním pobřeží 1",
+    "scenarios.east_coast_usa.east_coast_chase_1.description": "Hledaný podezřelý byl spatřen v černém vozidle Gavril Barstow, jedoucím poblíž pily. Dopadni ho!"
 }
