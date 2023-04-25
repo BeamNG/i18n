@@ -154,7 +154,7 @@
     "scenarios.east_coast_usa.jump_course_a.title": "Trať se skokánky na Východním pobřeží",
     "scenarios.east_coast_usa.minimum_speed.fail.msg": "Tvůj náklaďák se rozpadl...",
     "scenarios.east_coast_usa.minimum_speed.title": "Porouchaný náklaďák",
-    "scenarios.east_coast_usa.pessima_test.description": "Krátký závod s Pessimou",
+    "scenarios.east_coast_usa.pessima_test.description": "Zábavná časovka pro představení vozidla Ibishu Pessima z roku 1996.",
     "scenarios.east_coast_usa.pessima_test.title": "Představení Pessimy",
     "scenarios.east_coast_usa.police_patrol.description": "Zastavte rychle jedoucí Hirochi SBR4 ve svém mnohem pomalejším policejním vozidlem Gavril Roamer Sheriff Edition.",
     "scenarios.east_coast_usa.police_patrol.distance.msg": "Podezřelý uprchl ",
@@ -2475,5 +2475,6 @@
     "scenarios.east_coast_usa.deliverytruck_takedown.description": "Ve svém policejním vozidle Gavril Grand Marshal zastavte unikající nákladní vozidlo!",
     "scenarios.east_coast_usa.deliverytruck_takedown.distance.msg": "Vzdálil jste se příliš daleko od podezřelého",
     "scenarios.east_coast_usa.deliverytruck_takedown.damage.msg": "Naboural jste své vozidlo",
-    "scenarios.east_coast_usa.deliverytruck_takedown.wayPointAction.msg": "Zastavte náklaďák"
+    "scenarios.east_coast_usa.deliverytruck_takedown.wayPointAction.msg": "Zastavte náklaďák",
+    "scenarios.east_coast_usa.deliverytruck_takedown.speed.msg": "Výborně! Tvůj čas: {{time}}"
 }
