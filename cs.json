@@ -2657,5 +2657,7 @@
     "ui.apps.escstiffness.targetSpeed": "Cílová rychlost",
     "ui.apps.escstiffness.targetAngle": "Cílový úhel",
     "ui.apps.escstiffness.maxStiffnessFront": "Max. tuhost vepředu",
-    "ui.apps.escstiffness.maxStiffnessRear": "Max. tuhost vzadu"
+    "ui.apps.escstiffness.maxStiffnessRear": "Max. tuhost vzadu",
+    "ui.apps.ffb_graph.Force": "Síla",
+    "ui.apps.ffb_graph.Limit": "Limit"
 }
