@@ -134,8 +134,8 @@
     "scenarios.driver_training.driver_training.training_tightroad.damage.msg": "Ty silnice tu nejsou jen ze srandy, kamaráde!",
     "scenarios.driver_training.driver_training.training_tightroad.nomove.msg": "Trefil jsi tyčku - víš, dal jsem je tam, abys neřezal zatáčky.",
     "scenarios.driver_training.driver_training.training_tightroad.title": "Trénink 3: Úzké silnice",
-    "scenarios.driver_training.safety_training.training_mu_braking.nomove.msg": "Nesraž kužely...",
-    "scenarios.driver_training.safety_training.training_mu_braking.title": "Trénink bezpečné jízdy: μ-brzdění",
+    "scenarios.driver_training.safety_training.training_mu_braking.nomove.msg": "Nenarážej do kuželů",
+    "scenarios.driver_training.safety_training.training_mu_braking.title": "Trénink bezpečné jízdy: u‑brzdění",
     "scenarios.driver_training.safety_training.training_slalom.nomove.msg": "Nesrážej kužely...",
     "scenarios.east_coast_usa.bank_robbery.description": "Právě jste dostali zprávu o probíhajícím přepadení banky ve vašem městě. Zareagujte a vydejte se zastavit unikajícího pachatele dřív, než stihne zmizet z dohledu.",
     "scenarios.east_coast_usa.bank_robbery.onRaceWaypoint.msg": "Zastav lupiče!",
@@ -2454,5 +2454,9 @@
     "scenarios.driver_training.driver_training.training_advanced.damage.msg": "To byla ošklivá nehoda, jsi v pořádku? Vypadá to, že auto je nadobro odepsané.",
     "scenarios.driver_training.driver_training.training_driftB.title": "Trénink 11: Driftování",
     "scenarios.driver_training.driver_training.training_driftB.defaultWin": "Skvělá práce! Vymaloval jsi celou zkušební plochu gumou!",
-    "scenarios.driver_training.driver_training.training_driftB.drift.msg": "Skvělá práce! Vymaloval jsi celou tu zkušební plochu gumou! Tvé skóre: {{score}}"
+    "scenarios.driver_training.driver_training.training_driftB.drift.msg": "Skvělá práce! Vymaloval jsi celou tu zkušební plochu gumou! Tvé skóre: {{score}}",
+    "scenarios.driver_training.safety_training.training_spin_recovery.title": "Trénink bezpečné jízdy: Zvládnutí smyku",
+    "scenarios.driver_training.safety_training.training_spin_recovery.nomove.msg": "Nenarážej do kuželů",
+    "scenarios.east_coast_usa.gm_racetest.description": "Krátká série malých skoků",
+    "scenarios.east_coast_usa.tanker_delivery.description": "Doruč cisternu pomocí tahače Gavril T75 do garáže na opačném konci města."
 }
