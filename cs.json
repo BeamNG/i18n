@@ -2586,5 +2586,8 @@
     "scenarios.port.port_container_race.title": "Zkouška jízdy po kontejnerech v přístavu",
     "scenarios.jungle_rock_island.bus_safari.failed": "Jau! Jak mám obdivovat zvířata, když řídíš tímhle způsobem?",
     "scenarios.port.port_escape.title": "Únik z přístavu",
-    "scenarios.small_island.cop_chase.title": "Honička na ostrově Small Island"
+    "scenarios.small_island.cop_chase.title": "Honička na ostrově Small Island",
+    "scenarios.small_island.cop_chase.distance.msg": "Podezřelý uprchl",
+    "scenarios.small_island.cop_chase.speed.msg": "Výborně! Tvůj čas: {{time}}",
+    "scenarios.small_island.hopping_around.title": "Poskakování po okolí"
 }
