@@ -2655,5 +2655,7 @@
     "ui.apps.engine_thermal_debug.pistonRingsDamaged": "Poškození pístních kroužků",
     "ui.apps.engine_thermal_debug.connectingRodBearingsDamaged": "Poškození ojničních ložisek",
     "ui.apps.escstiffness.targetSpeed": "Cílová rychlost",
-    "ui.apps.escstiffness.targetAngle": "Cílový úhel"
+    "ui.apps.escstiffness.targetAngle": "Cílový úhel",
+    "ui.apps.escstiffness.maxStiffnessFront": "Max. tuhost vepředu",
+    "ui.apps.escstiffness.maxStiffnessRear": "Max. tuhost vzadu"
 }
