@@ -2594,5 +2594,6 @@
     "scenarios.small_island.intro_rally_stage1.description": "Úvodní etapa rallye.",
     "scenarios.small_island.hopping_around.description": "Zajeďte přespolní trasu od jednoho kontrolního bodu k dalšímu v terénním vozidle Ibishu Hopper Custom.",
     "scenarios.small_island.intro_rally_stage2.title": "Rallye Small Island - Etapa 2",
-    "scenarios.small_island.intro_rally_stage3.title": "Rallye Small Island Etapa 3"
+    "scenarios.small_island.intro_rally_stage3.title": "Rallye Small Island Etapa 3",
+    "levels.east_coast_usa.spawnpoints.townIndustrial": "Městská průmyslová zóna"
 }
