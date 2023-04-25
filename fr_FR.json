@@ -3769,10 +3769,11 @@
     "launchercpp.support_missing": "Impossible de démarrer l'outil de support technique (manquant). Veuillez utiliser ce site internet :\nhttps://support.beamng.com\n(Il devrait s'ouvrir tout seul normalement)",
     "launchercpp.chkreq_winver_clipboard": "Version de Windows non supportée",
     "launchercpp.chkreq_winver_txt": "Windows XP n'est pas supporté. Veuillez utiliser le lien \"plus d'informations\" pour en apprendre plus sur ce problème",
-    "launchercpp.chkreq_winver_title": "Ne peut pas démarrer BeamNG.drive : la version de Windows n'est pas supportée",
+    "launchercpp.chkreq_winver_title": "Impossible de démarrer BeamNG.drive : la version de Windows n'est pas supportée",
     "launchercpp.chkreq_winver_nt60_nosp": "Votre système d'exploitation Windows Vista n'est pas mis à jour. La mise à jour \"Pack Service 2\" est recommandée pour lancer BeamNG.drive",
     "launchercpp.chkreq_winver_nt61_nosp": "Votre système d'exploitation Windows 7 n'est pas mis à jour. La mise à jour \"Pack Service 1\" est recommandée pour lancer BeamNG.drive",
     "launchercpp.launchgame_404_txt": "l’exécutable du jeu n'a pas été trouvé :\n",
     "launchercpp.launchgame_404_clipboard": "l'exécutable du jeu n'a pas été trouvé :",
-    "launchercpp.launchgame_fail_txt": "N'a pas pu démarrer le jeu : {0}\n\nErreur : {1}\n\n{2}"
+    "launchercpp.launchgame_fail_txt": "N'a pas pu démarrer le jeu : {0}\n\nErreur : {1}\n\n{2}",
+    "launchercpp.launchgame_404_title": "Impossible de démarrer BeamNG.drive"
 }
