@@ -3742,5 +3742,7 @@
     "launchercpp.moveusr_do_init": "Initialisation...",
     "launchercpp.moveusr_do_index": "Indexation des fichier...",
     "launchercpp.moveusr_do_moving": "Déplacement des fichiers...",
-    "launchercpp.moveusr_do_filefound": "{0} fichiers trouvés"
+    "launchercpp.moveusr_do_filefound": "{0} fichiers trouvés",
+    "launchercpp.moveusr_do_nospace_txt": "Le lecteur de destination ne possède pas assez d'espace libre pour déplacer toutes les données.",
+    "launchercpp.moveusr_do_nospace_title": "Espace libre insuffisant"
 }
