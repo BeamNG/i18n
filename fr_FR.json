@@ -3708,5 +3708,7 @@
     "launchercpp.main_btn_moveuserfolder": "Gérer le Dossier Utilisateur\nTransférer les données utilisateur à un autre endroit.",
     "launchercpp.warn_lavasoft1": "Le logiciel \"Lavasoft Web Compagnon\" est installé et devrait être <A HREF=\"https://go.beamng.com/lavasoft\">désinstallé</a> avant de lancer BeamNG.drive.",
     "launchercpp.warn_lavasoft2": "Le jeu se lancera en mode 32 Bits afin d'éviter les crashs habituels avec le logiciel Lavasoft.",
-    "launchercpp.warn_userpath_defaultfail1": "Le chemin d'accès utilisateur par défaut n'est pas accessible, BeamNG se lancera en utilisant un dossier alternatif."
+    "launchercpp.warn_userpath_defaultfail1": "Le chemin d'accès utilisateur par défaut n'est pas accessible, BeamNG se lancera en utilisant un dossier alternatif.",
+    "launchercpp.errorui_set_clip_title": "BeamNG.drive : définir le presse-papier",
+    "launchercpp.errorui_set_clip_txt": "Définir le presse-papier à : \n\n"
 }
