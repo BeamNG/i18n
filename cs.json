@@ -221,7 +221,7 @@
     "scenarios.jungle_rock_island.jri_rally_port.description": "Drsná šotolinová rally s cílem v přístavu",
     "scenarios.jungle_rock_island.jri_rally_port.title": "Závod do přístavu",
     "scenarios.port.port_container_race.description": "Projeďte obtížnou trať vedoucí na vršcích lodních kontejnerů. Tato terénní verze vozidla Gavril D15 disponuje dostatečným poloměrem zatáčení, ale jen pokud si správně najedete do zatáček.",
-    "scenarios.port.port_escape.description": "Závod na čas skrz přístav",
+    "scenarios.port.port_escape.description": "Časová zkouška tématicky zaměřená na únik skrze přístav ve vozidle Ibishu Pessima.",
     "scenarios.small_island.cop_chase.damage.msg": "Naboural jsi své auto",
     "scenarios.small_island.cop_chase.description": "Zneškodni Pessimu svým policejním Sunburstem.",
     "scenarios.small_island.cop_chase.wayPointAction.wayPointMsg": "Zastav Pessimu!",
@@ -2581,9 +2581,9 @@
     "scenarios.jungle_rock_island.jri_moose.description": "Klasický test nouzové změny jízdního pruhu, který byl navržen pro demonstraci stability ovládání vozidel. Pro tento test vám svěříme vozidlo Hirochi Sunburst RS",
     "scenarios.jungle_rock_island.jri_moose.damage.msg": "Poškodil jste své vozidlo",
     "scenarios.jungle_rock_island.bus_safari.title": "Autobusové safari",
-    "scenarios.jungle_rock_island.bus_safari.description": "Dobrý den, vítáme vás na naší safari projížďce okolo Jungle Rock ostrova! [br] Jmenuji se Claire a budu na tomto výletě vaší průvodkyní. Usaďte se prosím, za okamžik vyrážíme. [br][br] Ahoj! Mohl bys prosím tě převzít řízení? Já budu zaneprázdněna popisováním a předváděním místní fauny. Neboj, je to velmi snadné. Jeď si vlastním tempem a prostě projížděj kontrolními body. [br] A ještě jedna věc – nespadni s námi, prosím tě, dolů z útesu.",
+    "scenarios.jungle_rock_island.bus_safari.description": "Dobrý den, vítáme vás na naší safari projížďce okolo ostrova Jungle Rock! [br] Jmenuji se Claire a budu na tomto výletě vaší průvodkyní. Usaďte se prosím, za okamžik vyrážíme. [br][br] Ahoj! Mohl bys prosím tě převzít řízení? Já budu zaneprázdněna popisováním a předváděním místní fauny. Neboj, je to velmi snadné. Jeď si vlastním tempem a prostě projížděj kontrolními body. [br] A ještě jedna věc – nespadni s námi, prosím tě, dolů z útesu.",
     "scenarios.jungle_rock_island.bus_safari.success": "Dobrá práce! Myslím si, že většině účastníků zájezdu se ten výlet líbil. Těm zvířatům z kartonu se nakonec i někdo zasmál. Hodila by se ti letní brigáda?",
     "scenarios.port.port_container_race.title": "Zkouška jízdy po kontejnerech v přístavu",
     "scenarios.jungle_rock_island.bus_safari.failed": "Jau! Jak mám obdivovat zvířata, když řídíš tímhle způsobem?",
-    "scenarios.port.port_escape.title": "Únik z přístavu"
+    "scenarios.port.port_escape.title": "Únik z přístavu"
 }
