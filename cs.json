@@ -2472,5 +2472,6 @@
     "scenarios.east_coast_usa.east_coast_chase_1.wayPointAction.msg": "Zastavte podezřelého!",
     "scenarios.east_coast_usa.east_coast_chase_1.speed.msg": "Výborně! Tvůj čas: {{time}}",
     "scenarios.east_coast_usa.deliverytruck_takedown.title": "Zneškodnění nákladního vozidla",
-    "scenarios.east_coast_usa.deliverytruck_takedown.description": "Ve svém policejním vozidle Gavril Grand Marshal zastavte unikající nákladní vozidlo!"
+    "scenarios.east_coast_usa.deliverytruck_takedown.description": "Ve svém policejním vozidle Gavril Grand Marshal zastavte unikající nákladní vozidlo!",
+    "scenarios.east_coast_usa.deliverytruck_takedown.distance.msg": "Vzdálil ses příliš daleko od podezřelého"
 }
