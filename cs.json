@@ -2454,7 +2454,7 @@
     "scenarios.driver_training.driver_training.training_advanced.damage.msg": "To byla ošklivá nehoda, jsi v pořádku? Vypadá to, že auto je nadobro odepsané.",
     "scenarios.driver_training.driver_training.training_driftB.title": "Trénink 11: Driftování",
     "scenarios.driver_training.driver_training.training_driftB.defaultWin": "Skvělá práce! Vymaloval jsi celou zkušební plochu gumou!",
-    "scenarios.driver_training.driver_training.training_driftB.drift.msg": "Skvělá práce! Vymaloval jsi celou tu zkušební plochu gumou! Tvé skóre: {{score}}",
+    "scenarios.driver_training.driver_training.training_driftB.drift.msg": "Skvělá práce! Vymaloval jsi celou zkušební plochu gumou! Tvé skóre: {{score}}",
     "scenarios.driver_training.safety_training.training_spin_recovery.title": "Trénink bezpečné jízdy: Zvládnutí smyku",
     "scenarios.driver_training.safety_training.training_spin_recovery.nomove.msg": "Nenarážej do kuželů",
     "scenarios.east_coast_usa.gm_racetest.description": "Krátká série malých skoků",
