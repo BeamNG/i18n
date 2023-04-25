@@ -2479,5 +2479,7 @@
     "scenarios.east_coast_usa.deliverytruck_takedown.speed.msg": "Výborně! Tvůj čas: {{time}}",
     "scenarios.east_coast_usa.destroy_the_car.title": "Zničte Moonhawk",
     "scenarios.east_coast_usa.destroy_the_car.description": "Zničte Bruckell Moonhawk a to za jakoukoliv cenu.",
-    "scenarios.east_coast_usa.destroy_the_car.speed.msg": "Zasekl jste se"
+    "scenarios.east_coast_usa.destroy_the_car.speed.msg": "Zasekl jste se",
+    "scenarios.east_coast_usa.destroy_the_car.damage.msg": "Zničil jsi Moonhawk během {{timeStr}}",
+    "scenarios.east_coast_usa.minimum_speed.description": "Použij starý a rozbitý automíchač Gavril T75 ke zcela poslední dovážce betonu."
 }
