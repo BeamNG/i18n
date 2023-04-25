@@ -142,7 +142,7 @@
     "scenarios.east_coast_usa.bank_robbery.onRaceWaypointReached.msg": "Zastav zloděje!",
     "scenarios.east_coast_usa.car_delivery.description": "Dopravte zbrusu nové Hirochi Sunburst Race Edition jeho novému majiteli na venkově",
     "scenarios.east_coast_usa.car_delivery.distance.msg": "Ztratil si vozidlo!",
-    "scenarios.east_coast_usa.car_delivery_2.description": "Doruč cenné klasické superauto do domu ve městě.",
+    "scenarios.east_coast_usa.car_delivery_2.description": "Pomocí nákladního kamionu Gavril T75 doručte klasický a hodně cenný supersport k domu ve městě. Hlavně ten skvost nepoškoďte.",
     "scenarios.east_coast_usa.car_delivery_2.title": "Doručení vozidla 2",
     "scenarios.east_coast_usa.destroy_the_car.timeLimit.msg": "Tvůj čas vypršel",
     "scenarios.east_coast_usa.east_coast_chase_1.damage.msg": "Naboural jsi své auto",
@@ -156,7 +156,7 @@
     "scenarios.east_coast_usa.minimum_speed.title": "Porouchaný náklaďák",
     "scenarios.east_coast_usa.pessima_test.description": "Krátký závod s Pessimou",
     "scenarios.east_coast_usa.pessima_test.title": "Představení Pessimy",
-    "scenarios.east_coast_usa.police_patrol.description": "Zastavte rychle jedoucí Hirochi SBR4 ve svém o mnoho slabším Gavril Roamer Sheriff Edition",
+    "scenarios.east_coast_usa.police_patrol.description": "Zastavte rychle jedoucí Hirochi SBR4 ve svém mnohem pomalejším policejním vozidlem Gavril Roamer Sheriff Edition.",
     "scenarios.east_coast_usa.police_patrol.distance.msg": "Podezřelý uprchl ",
     "scenarios.east_coast_usa.police_patrol.speed.msg": "Výborně! Tvůj čas: {{time}}",
     "scenarios.east_coast_usa.police_patrol.title": "Policejní hlídka",
@@ -2458,5 +2458,12 @@
     "scenarios.driver_training.safety_training.training_spin_recovery.title": "Trénink bezpečné jízdy: Zvládnutí smyku",
     "scenarios.driver_training.safety_training.training_spin_recovery.nomove.msg": "Nenarážej do kuželů",
     "scenarios.east_coast_usa.gm_racetest.description": "Krátká série malých skoků",
-    "scenarios.east_coast_usa.tanker_delivery.description": "Doruč cisternu pomocí tahače Gavril T75 do garáže na opačném konci města."
+    "scenarios.east_coast_usa.tanker_delivery.description": "Doruč cisternu pomocí tahače Gavril T75 do garáže na opačném konci města.",
+    "scenarios.east_coast_usa.tanker_delivery.damage.msg": "Poškodil jste přívěs",
+    "scenarios.east_coast_usa.jump_course_a.description": "Zajeďte s Bruckell Monhawkem časovou zkoušku... se skokánky! Snažte se zajet rychlý čas, ale zároveň se pokuste auto kompletně nesešrotovat.",
+    "scenarios.east_coast_usa.police_patrol.wayPointAction.msg": "Zastavte piráta silnic",
+    "scenarios.east_coast_usa.police_patrol.damage.msg": "Naboural jste své auto",
+    "scenarios.east_coast_usa.hidden_jump_a.description": "Využijte terenní vozidlo Gavril Roamer a staňte se expertem na skok ukrytý mezi stromy. Pro zvládnutí skoku a úspěšný dojezd ke kontrolnímu bodu je naprosto klíčové pečlivé ovládnutí rychlosti a jízdní dráhy.",
+    "scenarios.east_coast_usa.car_delivery_2.distance.msg": "Přišel jste o své vozidlo!",
+    "scenarios.east_coast_usa.car_delivery_2.damage.msg": "Poškodil jste své vozidlo"
 }
