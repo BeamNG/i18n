@@ -151,7 +151,7 @@
     "scenarios.east_coast_usa.high_speed_highway.description": "Rozpal to na venkovských silnicích s dvěma turby pod kapotou",
     "scenarios.east_coast_usa.intro_road_race.description": "Závod na venkově na východním pobřeží Spojených států",
     "scenarios.east_coast_usa.intro_road_race2.description": "Závod na venkově na východním pobřeží Spojených států",
-    "scenarios.east_coast_usa.jump_course_a.title": "Kurz skoku",
+    "scenarios.east_coast_usa.jump_course_a.title": "Trať se skokánky na Východním pobřeží",
     "scenarios.east_coast_usa.minimum_speed.fail.msg": "Tvůj náklaďák se rozpadl...",
     "scenarios.east_coast_usa.minimum_speed.title": "Porouchaný náklaďák",
     "scenarios.east_coast_usa.pessima_test.description": "Krátký závod s Pessimou",
@@ -2465,5 +2465,7 @@
     "scenarios.east_coast_usa.police_patrol.damage.msg": "Naboural jste své auto",
     "scenarios.east_coast_usa.hidden_jump_a.description": "Využijte terenní vozidlo Gavril Roamer a staňte se expertem na skok ukrytý mezi stromy. Pro zvládnutí skoku a úspěšný dojezd ke kontrolnímu bodu je naprosto klíčové pečlivé ovládnutí rychlosti a jízdní dráhy.",
     "scenarios.east_coast_usa.car_delivery_2.distance.msg": "Přišel jste o své vozidlo!",
-    "scenarios.east_coast_usa.car_delivery_2.damage.msg": "Poškodil jste své vozidlo"
+    "scenarios.east_coast_usa.car_delivery_2.damage.msg": "Poškodil jste své vozidlo",
+    "scenarios.east_coast_usa.hidden_jump_a.title": "Skrytý skok",
+    "scenarios.east_coast_usa.east_coast_chase_1.title": "Honička na Východním pobřeží 1"
 }
