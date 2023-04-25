@@ -2475,5 +2475,5 @@
     "scenarios.east_coast_usa.deliverytruck_takedown.description": "Ve svém policejním vozidle Gavril Grand Marshal zastavte unikající nákladní vozidlo!",
     "scenarios.east_coast_usa.deliverytruck_takedown.distance.msg": "Vzdálil jste se příliš daleko od podezřelého",
     "scenarios.east_coast_usa.deliverytruck_takedown.damage.msg": "Naboural jste své vozidlo",
-    "scenarios.east_coast_usa.deliverytruck_takedown.wayPointAction.msg": "Zastav náklaďák"
+    "scenarios.east_coast_usa.deliverytruck_takedown.wayPointAction.msg": "Zastavte náklaďák"
 }
