@@ -2482,7 +2482,7 @@
     "scenarios.east_coast_usa.destroy_the_car.speed.msg": "Zasekl jste se",
     "scenarios.east_coast_usa.destroy_the_car.damage.msg": "Zničil jsi Moonhawk během {{timeStr}}",
     "scenarios.east_coast_usa.minimum_speed.description": "Použijte starý a rozbitý automíchač Gavril T75 ke zcela poslední dovážce betonu.",
-    "scenarios.east_coast_usa.bank_robbery.distancebtwsceneobject.fail.msg": "Podezřelý se dostal do bezpečí",
+    "scenarios.east_coast_usa.bank_robbery.distancebtwsceneobject.fail.msg": "Podezřelý se dostal do úkrytu",
     "scenarios.east_coast_usa.bank_robbery.distance.fail.msg": "Podezřelý uprchl",
     "scenarios.east_coast_usa.bank_robbery.title": "Bankovní loupež",
     "scenarios.east_coast_usa.bank_robbery.damage.fail.msg": "Naboural jsi své auto",
