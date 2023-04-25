@@ -203,7 +203,7 @@
     "scenarios.jungle_rock_island.drag_race.fail.msg": "Prohrál jsi...",
     "scenarios.jungle_rock_island.drag_race.title": "Letištní závod",
     "scenarios.jungle_rock_island.drag_race.win.msg": "Výborně! Tvůj čas je: {{time}}",
-    "scenarios.jungle_rock_island.intro_jri_hillclimb.description": "Závod do vrchu na úzkých silnicích ostrovní sopky",
+    "scenarios.jungle_rock_island.intro_jri_hillclimb.description": "Závod do vrchu po úzkých silničkách ostrovní sopky.",
     "scenarios.jungle_rock_island.intro_jri_hillclimb.title": "Závod do vrchu",
     "scenarios.jungle_rock_island.intro_jri_mountain_race.description": "Závod kolem vulkánu na Jungle Rock Island",
     "scenarios.jungle_rock_island.intro_jri_mountain_race.title": "Horská rally",
@@ -2579,5 +2579,7 @@
     "vehicle.bdebug.beamVisMode.deformation": "Deformace",
     "vehicle.turbocharger.overheating": "Turbo se přehřívá",
     "scenarios.jungle_rock_island.jri_moose.description": "Klasický test nouzové změny jízdního pruhu, který byl navržen pro demonstraci stability ovládání vozidel. Pro tento test vám svěříme vozidlo Hirochi Sunburst RS",
-    "scenarios.jungle_rock_island.jri_moose.damage.msg": "Poškodil jsi své vozidlo"
+    "scenarios.jungle_rock_island.jri_moose.damage.msg": "Poškodil jsi své vozidlo",
+    "scenarios.jungle_rock_island.bus_safari.title": "Autobusové safari",
+    "scenarios.jungle_rock_island.bus_safari.description": "Dobrý den, vítáme vás na naší safari projížďce okolo ostrova Jungle Rock Island! [br] Jmenuji se Claire a budu na tomto výletě vaší průvodkyní. Už se prosím usaďte, za okamžik vyrážíme. [br][br] Ahoj! Mohl bys prosím tě převzít řízení? Já budu zaneprázdněna popisováním a předváděním místní fauny. Neboj, je to velmi snadné. Jeď si vlastním tempem a prostě projížděj kontrolními body. [br] A ještě jedna věc – nespadni s námi, prosím tě, dolů z útesu."
 }
