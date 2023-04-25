@@ -2634,5 +2634,18 @@
     "launchercpp.launchgame_fail_txt": "Nelze sputit spustitelný soubor hry: {0}\n\nChyba: {1}\n\n{2}",
     "launchercpp.launchgame_fail_clipboard": "{0} Nelze spustit hru - Chyba {1} {2}",
     "levels.west_coast_usa.info.biome": "Pobřeží, městská část, polovyprahlá krajina",
-    "ui.vehicleconfig.searchHelp.example4": "Vyhledá ve všech slotech '_fr' a poté všechny názvy se 'signal'"
+    "ui.vehicleconfig.searchHelp.example4": "Vyhledá ve všech slotech '_fr' a poté všechny názvy se 'signal'",
+    "ui.photomode.steamScreen": "Pořídí snímek obrazovky aplikací Steam",
+    "ui.photomode.colorCorrection": "Filtr",
+    "ui.photomode.tod": "Denní doba",
+    "ui.photomode.SSAOContrast": "Kontrast",
+    "ui.photomode.SSAOQuality": "Kvalita",
+    "ui.photomode.SSAOQualityNormal": "Normální",
+    "ui.apps.absdebug.phase": "Fáze",
+    "ui.apps.brake_thermal_debug.coreTemp": "Vnitřní teplota",
+    "ui.apps.brake_thermal_debug.thermalEfficiency": "Teplotní efektivita",
+    "ui.apps.brake_torque_graph.speed": "Rychlost",
+    "ui.apps.brake_thermal_debug.coreCooling": "Chlazení středu",
+    "ui.apps.digTacho.engine": "Motor",
+    "ui.photomode.openScreenshotsFolder": "Otevřít složku se snímky obrazovky"
 }
