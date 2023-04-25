@@ -3735,5 +3735,12 @@
     "launchercpp.moveusr_do_open_err": "Échec de la création de la boîte de dialogue ouverte.\nContactez le support",
     "launchercpp.moveusr_current": "Chemin utilisateur actuel : '{0}'\nVeuillez choisir l'une des options suivantes :",
     "launchercpp.moveusr_do_invalidrigths": "Droits insuffisants",
-    "launchercpp.moveusr_do_insidedef": "Le jeu devrait déjà utiliser le chemin d'accès par défaut."
+    "launchercpp.moveusr_do_insidedef": "Le jeu devrait déjà utiliser le chemin d'accès par défaut.",
+    "launchercpp.moveusr_do_notempty_txt": "Le nouveau chemin utilisateur doit être un dossier vide.\n\nVous devriez déplacer les données par vous-même et/ou désactiver l'option \"Déplacer les données\"",
+    "launchercpp.moveusr_do_notempty_title": "Le chemin d'accès n'est pas vide",
+    "launchercpp.moveusr_do_tile": "Déplacement des données utilisateur",
+    "launchercpp.moveusr_do_init": "Initialisation...",
+    "launchercpp.moveusr_do_index": "Indexation des fichier...",
+    "launchercpp.moveusr_do_moving": "Déplacement des fichiers...",
+    "launchercpp.moveusr_do_filefound": "{0} fichiers trouvés"
 }
