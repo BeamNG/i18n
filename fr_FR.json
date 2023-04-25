@@ -3704,7 +3704,7 @@
     "launchercpp.main_play": "Démarrer le jeu\nSimplement apprécier BeamNG.drive",
     "launchercpp.main_btn_supporttool": "Outils de support\nOutils permettant de résoudre les problèmes avec le jeu",
     "launchercpp.main_btn_force64": "Démarrer le jeu en mode 64 bits\nForcer le démarrage en 64 Bits",
-    "launchercpp.warn_userpath_defaultfail2": "Merci de suivre les instructions <A HREF=\"https://go.beamng.com/unusualProccessExit/0xE0000004_-_BNGBase::EXIT_ERR_USER_PATH_UNWRITABLE\">ICI</a> pour résoudre le problème.",
+    "launchercpp.warn_userpath_defaultfail2": "Merci de suivre les instructions <A HREF=\"https://go.beamng.com/unusualProccessExit/0xE0000004_-_BNGBase::EXIT_ERR_USER_PATH_UNWRITABLE\">ici pour résoudre</a> le problème.",
     "launchercpp.main_btn_moveuserfolder": "Gérer le Dossier Utilisateur\nTransférer les données utilisateur à un autre endroit.",
     "launchercpp.warn_lavasoft1": "Le logiciel \"Lavasoft Web Compagnon\" est installé et devrait être <A HREF=\"https://go.beamng.com/lavasoft\">désinstallé</a> avant de lancer BeamNG.drive.",
     "launchercpp.warn_lavasoft2": "Le jeu se lancera en mode 32 Bits afin d'éviter les crashs habituels avec le logiciel Lavasoft.",
@@ -3716,5 +3716,9 @@
     "launchercpp.errorui_exit_title": "BeamNG.drive s'est fermé d'une manière inattendue",
     "launchercpp.ui_cancel": "Annuler",
     "launchercpp.ui_error": "Erreur",
-    "launchercpp.moveusr_do": "Choisissez un nouvel emplacement \nDéfinir un nouvel emplacement pour votre dossier utilisateur."
+    "launchercpp.moveusr_do": "Choisissez un nouvel emplacement \nDéfinir un nouvel emplacement pour votre dossier utilisateur.",
+    "launchercpp.errorui_btn_supporttool": "Contacter le support\nBesoin d'aide avec ça ?",
+    "ui.options.controls.bindings.Gameplay": "Gameplay",
+    "launchercpp.errorui_exitcode": "\n\nLe jeu peut continuer de fonctionner contrairement à ce que dit Windows, merci de lui laisser un peu de temps.\n",
+    "launchercpp.moveusr_open": "Ouvrir dans l'explorateur de fichiers\nOuvrir une fenêtre pour montrer le contenu et l'emplacement actuel du dossier utilisateur."
 }
