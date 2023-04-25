@@ -2578,5 +2578,6 @@
     "vehicle.bdebug.nodeTextMode.materials": "Materiály",
     "vehicle.bdebug.beamVisMode.deformation": "Deformace",
     "vehicle.turbocharger.overheating": "Turbo se přehřívá",
-    "scenarios.jungle_rock_island.jri_moose.description": "Klasický test nouzové změny jízdního pruhu, který byl navržen pro demonstraci stability ovládání vozidel. Pro tento test vám svěříme vozidlo Hirochi Sunburst RS"
+    "scenarios.jungle_rock_island.jri_moose.description": "Klasický test nouzové změny jízdního pruhu, který byl navržen pro demonstraci stability ovládání vozidel. Pro tento test vám svěříme vozidlo Hirochi Sunburst RS",
+    "scenarios.jungle_rock_island.jri_moose.damage.msg": "Poškodil jsi své vozidlo"
 }
