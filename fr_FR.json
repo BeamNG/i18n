@@ -3673,5 +3673,10 @@
     "launchercpp.setting_parse_err_txt": "Impossible d'analyser les paramètres du jeu.\nContacter le support",
     "ui.inputActions.gameplay.recover_vehicle_alt.description": "Rembobine la position du véhicule en utilisant le mode alternatif sans le positionnement intelligent",
     "ui.inputActions.vehicle.decrease_cc_speed_large.description": "Diminue le régulateur de vitesse de 10 km/h",
-    "ui.inputActions.vehicle.decrease_cc_speed_large.title": "Diminuer le régulateur de vitesse (10 km/h)"
+    "ui.inputActions.vehicle.decrease_cc_speed_large.title": "Diminuer le régulateur de vitesse (10 km/h)",
+    "ui.inputActions.vehicle.increase_cc_speed_large.description": "Augmente le régulateur de vitesse de 10 km/h",
+    "ui.inputActions.vehicle.increase_cc_speed_large.title": "Augmente le régulateur de vitesse (10 km/h)",
+    "ui.campaign.failed": "Échouée",
+    "ui.campaign.closed": "Fermée",
+    "ui.campaign.rewards": "récompenses"
 }
