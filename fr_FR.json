@@ -3722,5 +3722,6 @@
     "launchercpp.errorui_exitcode": "\n\nLe jeu peut continuer de fonctionner contrairement à ce que dit Windows, merci de lui laisser un peu de temps.\n",
     "launchercpp.moveusr_open": "Ouvrir dans l'explorateur de fichiers\nOuvrir une fenêtre pour montrer le contenu et l'emplacement actuel du dossier utilisateur.",
     "launchercpp.ui_ask_confirm": "Êtes-vous vraiment sûr ?",
-    "launchercpp.moveusr_default": "Rénitialiser la localisation\nMise en place de la remise à zero du fichier utilisateur dans vos documents."
+    "launchercpp.moveusr_default": "Rénitialiser la localisation\nMise en place de la remise à zero du fichier utilisateur dans vos documents.",
+    "launchercpp.moveusr_verif": "Déplacer les Données Utilisateur (excluant le cache et les logs)"
 }
