@@ -3688,5 +3688,8 @@
     "ui.campaign.photoSafari": "Safari Photo",
     "ui.campaign.moreInfo": "Plus d'infos",
     "ui.options.controls.bindings.Vehicle": "Véhicule",
-    "December": "Décembre"
+    "December": "Décembre",
+    "ui.options.controls.bindings.General": "Général",
+    "ui.options.controls.bindings.MenuNavigation": "Navigation dans les menus",
+    "ui.loadingScreen.tips": "ASTUCES"
 }
