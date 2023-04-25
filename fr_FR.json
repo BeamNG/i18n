@@ -3757,5 +3757,6 @@
     "launchercpp.supporttool_cefnohw_title": "Désactiver l'accélération matérielle de l'IU.",
     "launchercpp.integrity_read": "Lecture des fichiers de hachage...",
     "launchercpp.integrity_missing_manifest": "Ne peut pas vérifier l'intégrité, fichier de hachage manquant",
-    "launchercpp.firewall_err_txt": "N'a pas pu ajouter BeamNG.drive à la liste d'exceptions du pare-feu Windows."
+    "launchercpp.firewall_err_txt": "N'a pas pu ajouter BeamNG.drive à la liste d'exceptions du pare-feu Windows.",
+    "launchercpp.firewall_err_title": "Erreur de PARE-FEU"
 }
