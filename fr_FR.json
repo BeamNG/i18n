@@ -3678,5 +3678,12 @@
     "ui.inputActions.vehicle.increase_cc_speed_large.title": "Augmente le régulateur de vitesse (10 km/h)",
     "ui.campaign.failed": "Échouée",
     "ui.campaign.closed": "Fermée",
-    "ui.campaign.rewards": "récompenses"
+    "ui.campaign.rewards": "récompenses",
+    "ui.campaign.Accept": "Accepter",
+    "ui.campaign.Decline": "Refuser",
+    "ui.campaign.distance": "distance",
+    "ui.campaign.description": "description",
+    "ui.options.controls.bindings.VehicleSpecific": "Touches spécifiques au véhicule",
+    "ui.campaign.open": "Ouvrir",
+    "ui.campaign.photoSafari": "Safari Photo"
 }
