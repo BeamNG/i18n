@@ -215,7 +215,7 @@
     "scenarios.jungle_rock_island.jri_drown_the_pigeon.description": "Pomoz bezbrannému žlutému Pigeonu přebrodit několik louží",
     "scenarios.jungle_rock_island.jri_ds_320_rally.description": "Vezmi přiškrcený Bolide na místa, kam by neměl jezdit",
     "scenarios.jungle_rock_island.jri_moose.speed.msg": "Jedete příliš pomalu. Nevjeli jste do začátku testu rychlostí vyšší nebo rovnou 75 km/h",
-    "scenarios.jungle_rock_island.jri_moose.timeLimit.msg": "vyčerpáno víc než {{timeLimit}} sekund",
+    "scenarios.jungle_rock_island.jri_moose.timeLimit.msg": "Jedeš příliš pomalu. Dostat se ke kontrolnímu bodu ti trvalo déle než {{timeLimit}} sekund",
     "scenarios.jungle_rock_island.jri_pessima.title": "Prohlídka ostrova - Pessima",
     "scenarios.jungle_rock_island.jri_portshakedown.title": "Zahřívací jízda přístavem",
     "scenarios.jungle_rock_island.jri_rally_port.description": "Drsná šotolinová rally s cílem v přístavu",
