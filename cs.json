@@ -2568,5 +2568,10 @@
     "ui.inputActions.camera.rotate_camera_vertical.title": "Otočit kameru vertikálně",
     "ui.inputActions.camera.switch_camera_prev.description": "Přepne předchozí kameru",
     "ui.inputActions.camera.xAxisAbs.title": "xOsaAbs",
-    "ui.inputActions.debug.cefdev_reload_ui.description": "Znovu načte UI textury"
+    "ui.inputActions.debug.cefdev_reload_ui.description": "Znovu načte UI textury",
+    "vehicle.bdebug.nodeVisMode.off": "Vypnuto",
+    "vehicle.bdebug.cogMode.off": "Vypnuto",
+    "vehicle.bdebug.cogMode.on": "Zapnuto",
+    "vehicle.bdebug.nodeVisMode.forces": "Síly",
+    "vehicle.bdebug.nodeVisMode.density": "Hustota"
 }
