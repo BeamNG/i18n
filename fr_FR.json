@@ -3696,5 +3696,6 @@
     "ui.options.controls.bindings.SlowMotion": "Ralenti",
     "ui.options.controls.bindings.Editor": "Éditeur",
     "ui.options.controls.bindings.GeneralDebug": "Débogage Général",
-    "ui.options.controls.bindings.VehicleDebug": "Débogage du Véhicule"
+    "ui.options.controls.bindings.VehicleDebug": "Débogage du Véhicule",
+    "launchercpp.moveuserfolder_overwrite_msg": "Vous utilisez une fonction de terminal pour lancer le jeu avec un chemin d'accès spécifique d'utilisateur.\nVous avez besoin d'enlever cette fonction de terminal si vous voulez utiliser cette fonctionnalité."
 }
