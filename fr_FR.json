@@ -3750,7 +3750,7 @@
     "launchercpp.moveusr_do_restart_title": "Redémarrer le launcher",
     "launchercpp.supporttool_safemode_txt": "Lance le jeu en utilisant un dossier utilisateur temporaire. Utilisez ce mode pour établir un diagnostic si vous rencontrez un problème.\n\nSi le jeu fonctionne normalement en mode sans échec, l'un des mods installé pourrait être la cause du problème.\n\nATTENTION : les changements effectué en mode sans échec ne seront pas sauvegardés après la fermeture du jeu.",
     "launchercpp.supporttool_safemode_title": "Mode sans échec",
-    "launchercpp.supporttool_cefnohw_txt": "Destiné au dépannage de l'Interface Utilisateur (IU).\n\nCette option désactivera le support de l'accélération du matériel expérimentale pour l'IU.\n\nNOTE : cette option est déjà désactivée par défaut. Utilisez la seulement si vous l'aviez déjà activée et si vous avez eu des problèmes avec votre IU.",
+    "launchercpp.supporttool_cefnohw_txt": "Destiné au dépannage de l'Interface Utilisateur (IU).\n\nCette option désactivera le support expérimental de l'accélération du matériel pour l'IU.\n\nNOTE : cette option est déjà désactivée par défaut. Utilisez-la seulement si vous l'aviez déjà activée et si vous avez eu des problèmes avec votre IU.",
     "launchercpp.moveusr_do_registry_err": "Échec de la création ou de la modification de la valeur de registre actuelle",
     "launchercpp.moveusr_do_restart_txt": "Vous devez redémarrer le launcher pour appliquer les modifications.",
     "ui.inputActions.gameplay.recover_vehicle_alt.title": "Récupérer le Véhicule (Mode Alternatif)",
