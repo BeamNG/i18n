@@ -3766,5 +3766,8 @@
     "launchercpp.integrity_find_ukn": "Recherche de fichiers inconnus...",
     "launchercpp.integrity_no_problem": "Aucun problème trouvé",
     "launchercpp.integrity_open_log": "Si vous cliquez sur OK, le fichier de log plus détaillé s'ouvrira.",
-    "launchercpp.support_missing": "N'as pas pu démarrer l'outil de support technique (manquant). Veuillez utiliser ce site internet :\nhttps://support.beamng.com\n(Il devrait s'ouvrir tout seul normalement)"
+    "launchercpp.support_missing": "N'as pas pu démarrer l'outil de support technique (manquant). Veuillez utiliser ce site internet :\nhttps://support.beamng.com\n(Il devrait s'ouvrir tout seul normalement)",
+    "launchercpp.chkreq_winver_clipboard": "Version de Windows non supportée",
+    "launchercpp.chkreq_winver_txt": "Windows XP n'est pas supporté. Veuillez utiliser le lien \"plus d'informations\" pour en apprendre plus sur ce problème",
+    "launchercpp.chkreq_winver_title": "Ne peut pas démarrer BeamNG.drive : la version de Windows n'est pas supportée"
 }
