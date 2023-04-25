@@ -2442,7 +2442,7 @@
     "scenarios.driver_training.driver_training.training_rwd.title": "Trénink 9: Ovládání pohonu zadních kol",
     "scenarios.driver_training.driver_training.training_rwd.nomove.msg": "Pozor na ty kužely! Pamatuj si, že tohle auto se tak docela nechová jako ta předchozí, která jsem ti svěřil dříve.",
     "scenarios.driver_training.driver_training.training_advanced.title": "Trénink 10: Pokročilé projíždění zatáček",
-    "scenarios.driver_training.driver_training.training_advanced.timeLimit.msg": "Trvá ti to příliš dlouho – vím, že to dokážeš zvládnout lépe.",
+    "scenarios.driver_training.driver_training.training_advanced.timeLimit.msg": "Trvá ti to příliš dlouho – vím, že to dokážeš zvládnout lépe.",
     "ui.options.userInterface.richPresence": "Povolit bohatou prezenci",
     "ui.options.graphics.GraphicPostfxQualityTooltip": "Kvalita efektů následného zpracování. Vyšší nastavení zajistí lepší a čistší efekty.",
     "ui.options.graphics.GraphicAnisotropicTooltip": "Kvalita filtrování textur. Vyšší nastavení zajistí čistší textury na dálku s minimálními náklady na výkon.",
