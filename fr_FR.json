@@ -3774,7 +3774,7 @@
     "launchercpp.chkreq_winver_nt61_nosp": "Votre système d'exploitation Windows 7 n'est pas mis à jour. La mise à jour \"Pack Service 1\" est recommandée pour lancer BeamNG.drive",
     "launchercpp.launchgame_404_txt": "l’exécutable du jeu n'a pas été trouvé :\n",
     "launchercpp.launchgame_404_clipboard": "l'exécutable du jeu n'a pas été trouvé :",
-    "launchercpp.launchgame_fail_txt": "N'a pas pu démarrer le jeu : {0}\n\nErreur : {1}\n\n{2}",
+    "launchercpp.launchgame_fail_txt": "Impossible de lancer l'exécutable du jeu : {0}\n\nErreur : {1}\n\n{2}",
     "launchercpp.launchgame_404_title": "Impossible de démarrer BeamNG.drive",
     "launchercpp.supporttool_verifyhash_txt": "Cet outil va scanner le dossier du jeu pour vérifier si aucun fichier n'est corrompu ou manquant.\n\nLe processus peut prendre quelques minutes.",
     "launchercpp.supporttool_verifyhash_title": "Vérifier l'intégrité",
@@ -3795,5 +3795,6 @@
     "launchercpp.cleancache_interact_done": "Tous les fichiers inconnus ont été déplacé vers :\n'{0}'\nLe cache a été nettoyé.",
     "launchercpp.clearcache_msg_normal_txt": "Cet outil efface tous les dossiers de cache et déplace les fichiers mal placés de votre dossier utilisateur.\n\nEffacer le cache peut résoudre les problèmes de textures ou éléments manquantes, ou similaires.\n\nLe processus peut prendre quelques minutes, suivant la taille de votre dossier utilisateur.",
     "launchercpp.cleancache_interact_stat": "{0:d} fichiers déplacés sur la sauvegarde, {1:d} fichiers du cache supprimés, {2:d} dossiers explorés",
-    "launchercpp.cleancache_interact_manualreq": "Le chemin d'accès utilisateur est situé dans le dossier du jeu.\nVous devez supprimer les dossiers de cache manuellement."
+    "launchercpp.cleancache_interact_manualreq": "Le chemin d'accès utilisateur est situé dans le dossier du jeu.\nVous devez supprimer les dossiers de cache manuellement.",
+    "launchercpp.launchgame_fail_clipboard": "{0} impossible de démarrer le jeu - Erreur {1} {2}"
 }
