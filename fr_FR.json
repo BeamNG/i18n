@@ -3746,5 +3746,9 @@
     "launchercpp.moveusr_do_nospace_txt": "Le lecteur de destination ne possède pas assez d'espace libre pour déplacer toutes les données.",
     "launchercpp.moveusr_do_nospace_title": "Espace libre insuffisant",
     "launchercpp.moveusr_do_filestat": "Déplacement de {0}/{1} fichiers, {2}/{3}",
-    "launchercpp.moveusr_do_failmove": "N'a pas pu déplacer les fichiers utilisateurs.\nVérifiez le fichier log du launcher.\n\nVous devez finir le transfert de fichier manuellement.\nLe nouveau chemin utilisateur n'a pas été défini"
+    "launchercpp.moveusr_do_failmove": "N'a pas pu déplacer les fichiers utilisateurs.\nVérifiez le fichier log du launcher.\n\nVous devez finir le transfert de fichier manuellement.\nLe nouveau chemin utilisateur n'a pas été défini",
+    "launchercpp.moveusr_do_restart_title": "Redémarrer le launcher",
+    "launchercpp.supporttool_safemode_txt": "Lance le jeu en utilisant un dossier utilisateur temporaire. Utilisez ce mode pour établir un diagnostic si vous rencontrez un problème.\n\nSi le jeu fonctionne normalement en mode sans échec, l'un des mods installé pourrait être la cause du problème.\n\nATTENTION : les changements effectué en mode sans échec ne seront pas sauvegardés après la fermeture du jeu.",
+    "launchercpp.supporttool_safemode_title": "Mode sans échec",
+    "launchercpp.supporttool_cefnohw_txt": "Destiné au dépannage de l'Interface Utilisateur (IU).\n\nCette option désactivera le support de l'accélération du matériel expérimentale pour l'IU.\n\nNOTE : cette option est déjà désactivée par défaut. Utilisez la seulement si vous l'aviez déjà activée et si vous avez eu des problèmes avec votre IU."
 }
