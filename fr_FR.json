@@ -3752,5 +3752,6 @@
     "launchercpp.supporttool_safemode_title": "Mode sans échec",
     "launchercpp.supporttool_cefnohw_txt": "Destiné au dépannage de l'Interface Utilisateur (IU).\n\nCette option désactivera le support de l'accélération du matériel expérimentale pour l'IU.\n\nNOTE : cette option est déjà désactivée par défaut. Utilisez la seulement si vous l'aviez déjà activée et si vous avez eu des problèmes avec votre IU.",
     "launchercpp.moveusr_do_registry_err": "Échec de la création ou de la modification de la valeur de registre actuelle",
-    "launchercpp.moveusr_do_restart_txt": "Vous devez redémarrer le launcher pour appliquer les modifications."
+    "launchercpp.moveusr_do_restart_txt": "Vous devez redémarrer le launcher pour appliquer les modifications.",
+    "ui.inputActions.gameplay.recover_vehicle_alt.title": "Récupérer le Véhicule (Mode Alternatif)"
 }
