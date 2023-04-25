@@ -3686,5 +3686,7 @@
     "ui.options.controls.bindings.VehicleSpecific": "Touches spécifiques au véhicule",
     "ui.campaign.open": "Ouvrir",
     "ui.campaign.photoSafari": "Safari Photo",
-    "ui.campaign.moreInfo": "Plus d'infos"
+    "ui.campaign.moreInfo": "Plus d'infos",
+    "ui.options.controls.bindings.Vehicle": "Véhicule",
+    "December": "Décembre"
 }
