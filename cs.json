@@ -2476,5 +2476,6 @@
     "scenarios.east_coast_usa.deliverytruck_takedown.distance.msg": "Vzdálil jste se příliš daleko od podezřelého",
     "scenarios.east_coast_usa.deliverytruck_takedown.damage.msg": "Naboural jste své vozidlo",
     "scenarios.east_coast_usa.deliverytruck_takedown.wayPointAction.msg": "Zastavte náklaďák",
-    "scenarios.east_coast_usa.deliverytruck_takedown.speed.msg": "Výborně! Tvůj čas: {{time}}"
+    "scenarios.east_coast_usa.deliverytruck_takedown.speed.msg": "Výborně! Tvůj čas: {{time}}",
+    "scenarios.east_coast_usa.destroy_the_car.title": "Znič Moonhawk"
 }
