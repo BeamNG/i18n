@@ -3796,5 +3796,8 @@
     "launchercpp.clearcache_msg_normal_txt": "Cet outil efface tous les dossiers de cache et déplace les fichiers mal placés de votre dossier utilisateur.\n\nEffacer le cache peut résoudre les problèmes de textures ou éléments manquantes, ou similaires.\n\nLe processus peut prendre quelques minutes, suivant la taille de votre dossier utilisateur.",
     "launchercpp.cleancache_interact_stat": "{0:d} fichiers déplacés sur la sauvegarde, {1:d} fichiers du cache supprimés, {2:d} dossiers explorés",
     "launchercpp.cleancache_interact_manualreq": "Le chemin d'accès utilisateur est situé dans le dossier du jeu.\nVous devez supprimer les dossiers de cache manuellement.",
-    "launchercpp.launchgame_fail_clipboard": "{0} impossible de démarrer le jeu - Erreur {1} {2}"
+    "launchercpp.launchgame_fail_clipboard": "{0} impossible de démarrer le jeu - Erreur {1} {2}",
+    "launchercpp.integrity_error": "Erreur d'intégrité",
+    "launchercpp.integrity_chk": "Intégrité vérifiée",
+    "launchercpp.integrity_chking": "Vérification de l'intégrité..."
 }
