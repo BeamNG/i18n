@@ -2479,5 +2479,5 @@
     "scenarios.east_coast_usa.deliverytruck_takedown.speed.msg": "Výborně! Tvůj čas: {{time}}",
     "scenarios.east_coast_usa.destroy_the_car.title": "Zničte Moonhawk",
     "scenarios.east_coast_usa.destroy_the_car.description": "Zničte Bruckell Moonhawk a to za jakoukoliv cenu.",
-    "scenarios.east_coast_usa.destroy_the_car.speed.msg": "Zasekl ses"
+    "scenarios.east_coast_usa.destroy_the_car.speed.msg": "Zasekl jste se"
 }
