@@ -3691,5 +3691,10 @@
     "December": "Décembre",
     "ui.options.controls.bindings.General": "Général",
     "ui.options.controls.bindings.MenuNavigation": "Navigation dans les menus",
-    "ui.loadingScreen.tips": "ASTUCES"
+    "ui.loadingScreen.tips": "ASTUCES",
+    "ui.options.controls.bindings.Camera": "Caméra",
+    "ui.options.controls.bindings.SlowMotion": "Ralenti",
+    "ui.options.controls.bindings.Editor": "Éditeur",
+    "ui.options.controls.bindings.GeneralDebug": "Débogage Général",
+    "ui.options.controls.bindings.VehicleDebug": "Débogage du Véhicule"
 }
