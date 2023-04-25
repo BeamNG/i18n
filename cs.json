@@ -2596,5 +2596,8 @@
     "scenarios.small_island.intro_rally_stage2.title": "Rallye Small Island - Etapa 2",
     "scenarios.small_island.intro_rally_stage3.title": "Rallye Small Island Etapa 3",
     "levels.east_coast_usa.spawnpoints.townIndustrial": "Městská průmyslová zóna",
-    "levels.east_coast_usa.spawnpoints.farmHouse": "Statek"
+    "levels.east_coast_usa.spawnpoints.farmHouse": "Statek",
+    "levels.east_coast_usa.spawnpoints.sawmill": "Pila",
+    "levels.west_coast_usa.info.title": "Západní pobřeží, USA",
+    "levels.west_coast_usa.info.description": "Prozkoumejte západní pobřeží USA. Reprezentace různých oblastí v Kalifornii."
 }
