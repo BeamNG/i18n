@@ -3671,6 +3671,6 @@
     "ui.options.userInterface.richPresence": "Activer Rich Presence (Activité Discord)",
     "ui.options.camera.slower": "Plus lentement",
     "launchercpp.setting_parse_err_txt": "Impossible d'analyser les paramètres du jeu.\nContacter le support",
-    "ui.inputActions.gameplay.recover_vehicle_alt.description": "Rembobine la position du véhicule en utilisant le mode alternatif sans positionnement intelligent",
+    "ui.inputActions.gameplay.recover_vehicle_alt.description": "Rembobine la position du véhicule en utilisant le mode alternatif sans le positionnement intelligent",
     "ui.inputActions.vehicle.decrease_cc_speed_large.description": "Baisse le régulateur de vitese de 10 km/h"
 }
