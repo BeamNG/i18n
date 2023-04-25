@@ -3758,5 +3758,13 @@
     "launchercpp.integrity_read": "Lecture des fichiers de hachage...",
     "launchercpp.integrity_missing_manifest": "Ne peut pas vérifier l'intégrité, fichier de hachage manquant",
     "launchercpp.firewall_err_txt": "N'a pas pu ajouter BeamNG.drive à la liste d'exceptions du pare-feu Windows.",
-    "launchercpp.firewall_err_title": "Erreur de PARE-FEU"
+    "launchercpp.firewall_err_title": "Erreur de PARE-FEU",
+    "launchercpp.integrity_parse_err_manifest": "Ne peut pas analyser le fichier json d'intégrité, vérification avortée",
+    "launchercpp.integrity_corupt": "Les fichiers de BeamNG.drive semblent corrompus. Veuillez réinstaller le jeu.",
+    "launchercpp.integrity_clipboard": "L'installation est corrompue",
+    "launchercpp.integrity_hash": "Hachage des fichiers...",
+    "launchercpp.integrity_find_ukn": "Recherche de fichiers inconnus...",
+    "launchercpp.integrity_no_problem": "Aucun problème trouvé",
+    "launchercpp.integrity_open_log": "Si vous cliquez sur OK, le fichier de log plus détaillé s'ouvrira.",
+    "launchercpp.support_missing": "N'as pas pu démarrer l'outil de support technique (manquant). Veuillez utiliser ce site internet :\nhttps://support.beamng.com\n(Il devrait s'ouvrir tout seul normalement)"
 }
