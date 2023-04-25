@@ -3723,5 +3723,13 @@
     "launchercpp.moveusr_open": "Ouvrir dans l'explorateur de fichiers\nOuvrir une fenêtre pour montrer le contenu et l'emplacement actuel du dossier utilisateur.",
     "launchercpp.ui_ask_confirm": "Êtes-vous vraiment sûr ?",
     "launchercpp.moveusr_default": "Réinitialiser l'emplacement\nRemise à zéro du dossier utilisateur dans votre dossier documents.",
-    "launchercpp.moveusr_verif": "Déplacer les Données Utilisateur (excluant le cache et les logs)"
+    "launchercpp.moveusr_verif": "Déplacer les Données Utilisateur (excluant le cache et les logs)",
+    "launchercpp.moveusr_instruction": "Gérer le Dossier Utilisateur",
+    "launchercpp.moveusr_do_invalidinput": "Entrée Invalide",
+    "launchercpp.moveusr_do_sameold": "Le chemin d'accès que vous avez choisis est le même qu'actuellement.\nAucun changement ne sera effectué.",
+    "launchercpp.moveusr_do_samedefault": "Le chemin d'accès que vous avez choisis est le même que celui par défaut.\nUtilisez le button de rénitialisation du chemin d'accès par défaut à la place.\nAucun changement ne sera effectué.",
+    "launchercpp.moveusr_do_norigths": "Le chemin d'accès que vous avez choisis ne peut pas être modifié.\nVeuillez choisir un dossier dont vous possédez les permissions.\nAucun changement ne sera effectué.",
+    "launchercpp.moveusr_do_insideold": "Le chemin d'accès que vous avez choisis est à l'intérieur du chemin d'accès par défaut ou d'un ancien chemin Utilisateur.\nAucun changement ne sera effectué.",
+    "launchercpp.moveusr_do_insidechildgame": "Le chemin d'accès que vous avez choisis est un sous-dossier du jeu.\nVeuillez choisir un dossier hors du dossier principal du jeu.\nAucun changement ne sera effectué.",
+    "launchercpp.moveusr_do_insideparentgame": "Le chemin d'accès que vous avez choisis est parent au dossier du jeu.\nVeuillez choisir un sous-dossier.\nAucun changement ne sera effectué."
 }
