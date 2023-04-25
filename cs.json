@@ -2471,5 +2471,5 @@
     "scenarios.east_coast_usa.east_coast_chase_1.description": "Hledaný podezřelý byl spatřen v černém vozidle Gavril Barstow, jedoucím poblíž pily. Dopadněte ho!",
     "scenarios.east_coast_usa.east_coast_chase_1.wayPointAction.msg": "Zastavte podezřelého!",
     "scenarios.east_coast_usa.east_coast_chase_1.speed.msg": "Výborně! Tvůj čas: {{time}}",
-    "scenarios.east_coast_usa.deliverytruck_takedown.title": "Zneškodnění nákladního automobilu"
+    "scenarios.east_coast_usa.deliverytruck_takedown.title": "Zneškodnění nákladního vozidla"
 }
