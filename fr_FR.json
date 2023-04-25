@@ -3733,5 +3733,6 @@
     "launchercpp.moveusr_do_insidechildgame": "Le chemin d'accès que vous avez choisis est un sous-dossier du jeu.\nVeuillez choisir un dossier hors du dossier principal du jeu.\nAucun changement ne sera effectué.",
     "launchercpp.moveusr_do_insideparentgame": "Le chemin d'accès que vous avez choisis est parent au dossier du jeu.\nVeuillez choisir un sous-dossier.\nAucun changement ne sera effectué.",
     "launchercpp.moveusr_do_open_err": "Échec de la création de la boîte de dialogue ouverte.\nContactez le support",
-    "launchercpp.moveusr_current": "Chemin utilisateur actuel : '{0}'\nVeuillez choisir l'une des options suivantes :"
+    "launchercpp.moveusr_current": "Chemin utilisateur actuel : '{0}'\nVeuillez choisir l'une des options suivantes :",
+    "launchercpp.moveusr_do_invalidrigths": "Droits insuffisants"
 }
