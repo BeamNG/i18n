@@ -953,7 +953,7 @@
     "ui.apps.engineinfo.name": "Informace o motoru",
     "ui.apps.engine_dynamometer.name": "Dynamometr Motoru",
     "ui.apps.engine_heat_debug_graph.name": "Graf ladění teplot motoru",
-    "ui.apps.esc_activity_graph.name": "Graf aktivity ESC",
+    "ui.apps.esc_activity_graph.name": "Graf činnosti ESC",
     "ui.apps.forcedinduction.name": "Přeplňování",
     "engine.lua.reloaded": "Hlavní instance LUA byla znovu načtena",
     "engine.nodegrab.uncoupling": "Odpojení připojených uzlů",
