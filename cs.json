@@ -2599,5 +2599,7 @@
     "levels.east_coast_usa.spawnpoints.farmHouse": "Statek",
     "levels.east_coast_usa.spawnpoints.sawmill": "Pila",
     "levels.west_coast_usa.info.title": "Západní pobřeží, USA",
-    "levels.west_coast_usa.info.description": "Prozkoumejte západní pobřeží USA. Reprezentace různých oblastí v Kalifornii."
+    "levels.west_coast_usa.info.description": "Prozkoumejte západní pobřeží USA. Reprezentace různých oblastí v Kalifornii.",
+    "levels.east_coast_usa.info.roads": "70% asfalt, 25% hlína, 5% stezky",
+    "levels.east_coast_usa.info.biome": "Mírný pás, pobřeží, les"
 }
