@@ -462,7 +462,7 @@
     "ui.hints.carefulWithOldSportsCars": "Staré sportovní vozy bez elektronických pomůcek může být obtížné kontrolovat a vyžadují jemné zacházení s plynem.",
     "ui.hints.carsBurnFuel": "Vašemu vozidlu může po velmi dlouhé jízdě dojít palivo. Sledujte proto ukazatel paliva!",
     "ui.hints.chooseDefaultVehicle": "Můžete si vybrat a upravit výchozí vozidlo: jen si to namiřte do Garáže!",
-    "ui.hints.chooseShiftingMode": "Výchozí režim zařazování rychlostních stupňů změníte v menu Možnosti > Hratelnost",
+    "ui.hints.chooseShiftingMode": "Výchozí režim zařazování převodových stupňů změníte v nabídce Nastavení > Hratelnost > Asistenty řízení",
     "ui.hints.corneringWithKeyboard": "Při zatáčení pomocí klávesnice opakovaně mačkejte [action=steer_left] nebo [action=steer_right], abyste měli lepší kontrolu nad úhlem zatočení a vyvarovali se nechtěné nedotáčivosti.",
     "ui.hints.countersteerEarly": "Když se vozidlo začne vlnit ze strany na stranu, je zapotřebí jízdu korigovat zatáčením na opačnou stranu pohybu dříve a rychleji. Doporučuje se používat volant nebo gamepad.",
     "ui.hints.customLicensePlate": "V nabídce „Díly“ [action=parts_selector] si můžete upravit text registrační značky.",
