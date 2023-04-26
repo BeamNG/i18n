@@ -480,7 +480,7 @@
     "ui.hints.keepTheEngineUpright": "Provozování motoru vzhůru nohama způsobuje nedostatečné promazání olejem. Po zaplavení válců olejem začne z výfuku vycházet modrý kouř, a může také dojít k selhání ložisek v motoru.",
     "ui.hints.liftOffOversteer": "Náhlé ubrání plynu v rychlé zatáčce může rozhodit vůz a vést ke ztrátě kontroly. Vyvolání přetáčivého smyku tímto způsobem se v angličtině nazývá „lift-off“.",
     "ui.hints.moonGravity": "V nabídce „Prostředí“ můžete nastavit simulaci měsíční gravitace.",
-    "ui.hints.notAllCarsCanRace": "Velké množství vozidel není přizpůsobeno pro ostrou jízdu nebo závodění v jejich základní podobě. Vylepšené poprodejové součástky jsou dostupné ve Výběru dílů [action=parts_selector].",
+    "ui.hints.notAllCarsCanRace": "Velké množství vozidel není v jejich základní podobě přizpůsobeno pro ostrou jízdu nebo závodění. Vylepšené poprodejové součástky jsou dostupné v v nabídce „Díly“ [action=parts_selector].",
     "ui.hints.oldCarsBurn": "Některá stará vozidla jsou po havárii náchylná ke vznícení, zatímco moderní vozidla jsou mnohem bezpečnější.",
     "ui.hints.parkingbrakeForTurning": "Ruční brzdu [action=parkingbrake] můžete použít jako rychlý a nebezpečný způsob zatáčení.",
     "ui.hints.playMultiseat": "Připojte vícero ovladačů a hrajte doma s přáteli některý ze scénářů pro více hráčů.",
