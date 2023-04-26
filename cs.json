@@ -2728,7 +2728,7 @@
     "scenarios.east_coast_usa.offroad_ds_course.description": "Úzká hrbolatá trať se zvyšující se obtížností.",
     "scenarios.east_coast_usa.east_coast_chase_3.distance.msg": "Podezřelý uprchl",
     "scenarios.east_coast_usa.east_coast_chase_2.speed.msg": "Výborně! Tvůj čas: {{time}}",
-    "scenarios.east_coast_usa.east_coast_chase_3.damage.msg": "Naboural jsi své auto",
+    "scenarios.east_coast_usa.east_coast_chase_3.damage.msg": "Naboural jsi své vozidlo",
     "scenarios.east_coast_usa.east_coast_chase_3.description": "Stíhejte upravený Bruckell LeGran ve svém policejním autě Ibishu 200BX s přeplňováním.",
     "scenarios.east_coast_usa.east_coast_chase_3.title": "Honička na Východním pobřeží 3",
     "scenarios.east_coast_usa.east_coast_chase_3.wayPointAction.msg": "Zastav podezřelého!"
