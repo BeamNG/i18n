@@ -498,7 +498,7 @@
     "ui.hints.snapOversteer": "Vozy s větší hmotností na zadní nápravě mohou mít tendenci při sešlápnutí plynu projevovat zpočátku nedotáčivost a pak náhle přetáčivost. Lidově řečeno vůz má tendenci \"utrhnout zadek\".",
     "ui.hints.spatialNavigation": "Můžete se pohybovat v menu pomocí herního ovladače [action=menu_item_left] [action=menu_item_up] [action=menu_item_right] [action=menu_item_down] [action=menu_item_select].",
     "ui.hints.stabilityControlPresent": "Kontrola stability se nachází pouze v nejmodernějších vozidlech. Starší vozidla jsou při jízdě na hranici jejich možností hůře ovladatelná.",
-    "ui.hints.thermalDebugApp": "Pro více informací o simulaci motoru můžete přidat UI aplikaci „Ladění termiky motoru“.",
+    "ui.hints.thermalDebugApp": "Abyste získali více informací o simulaci motoru, přidejte si aplikaci „Ladění termiky motoru“ do uživatelského rozhraní.",
     "ui.hints.tiresBurstOnBumps": "Zdaleka ne všechny pneumatiky jsou vhodné pro rychlou jízdu a zátěž. Některé mohou při silnějších nárazech do nerovností na cestě prasknout.",
     "ui.hints.toggleFogLights": "Je-li vaše vozidlo vybaveno mlhovkami, můžete je zapnout pomocí [action=toggle_foglights].",
     "ui.hints.toggleLightBars": "Majáky na pohotovostních vozidlech můžou být zapnuty pomocí [action=toggle_lightbar_signal].",
