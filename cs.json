@@ -483,7 +483,7 @@
     "ui.hints.notAllCarsCanRace": "Mnoho vozů není přizpůsobeno pro ostrou jízdu nebo závodění. Díly z aftermartketu jsou dostupné v selektoru dílů [action=parts_selector].",
     "ui.hints.oldCarsBurn": "Některá stará vozidla jsou po havárii náchylná ke vznícení, zatímco moderní vozidla jsou mnohem bezpečnější.",
     "ui.hints.parkingbrakeForTurning": "Použíjte ruční brzdu [action=parkingbrake]  jako rychlý a nebezpečný způsob otočení se.",
-    "ui.hints.playMultiseat": "Připojte vícero ovladačů a hrajte doma s přáteli některý ze scénářů pro více hráčů.",
+    "ui.hints.playMultiseat": "Připojte vícero ovladačů a hrajte doma s přáteli některý ze scénářů pro více hráčů.",
     "ui.hints.publishScreenshots": "Máte-li rádi focení vaší jízdy, můžete skrýt uživatelské rozhraní pomocí [action=hide_ui] a poté pomocí [action=publishScreenShot] nahrát obrázek.",
     "ui.hints.quickCameraMovement": "Pro rychlejší pohyb kamery podržte [action=movefast] (není podporováno některými kamerami).",
     "ui.hints.quickSteerResponse": "Pro rychlejší odezvu řízení vyzkoušejte různé filtry pro [action=steer_left] a [action=steer_right].",
