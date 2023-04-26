@@ -464,7 +464,7 @@
     "ui.hints.chooseDefaultVehicle": "Můžete si vybrat a upravit výchozí vozidlo: jen si to namiřte do Garáže!",
     "ui.hints.chooseShiftingMode": "Pro změnu výchozího režimu řazení jděte do Nastavení > Hra",
     "ui.hints.corneringWithKeyboard": "Při zatáčení pomocí klávesnice opakovaně mačkejte [action=steer_left] nebo [action=steer_right] pro lepší kontrolu úhlu zatočení a vyvarování se nechtěné nedotáčivosti.",
-    "ui.hints.countersteerEarly": "Když se vozidlo začne pohybovat ze strany na stranu, je zapotřebí vyrovnávat dříve a rychleji. Doporučuje se používat volant nebo gamepad.",
+    "ui.hints.countersteerEarly": "Když se vozidlo začne vlnit ze strany na stranu, je zapotřebí jízdu korigovat zatáčením na opačnou stranu pohybu dříve a rychleji. Doporučuje se používat volant nebo gamepad.",
     "ui.hints.customLicensePlate": "V nabídce „Díly“ [action=parts_selector] si můžete upravit text registrační značky.",
     "ui.hints.customizeSpecializedBindings": "Specifické ovládání daného vozidla (používá drtič, kanón atd.) lze přizpůsobit po kliknutí na ně v pravém horním rohu obrazovky.",
     "ui.hints.delicateCars": "Některá vozidla nejsou navržena pro náročnou jízdu. Sledujte proto ukazatel teploty!",
