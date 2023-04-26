@@ -2731,5 +2731,7 @@
     "scenarios.east_coast_usa.east_coast_chase_3.damage.msg": "Naboural jsi své vozidlo",
     "scenarios.east_coast_usa.east_coast_chase_3.description": "Stíhejte upravený Bruckell LeGran ve svém policejním autě Ibishu 200BX s přeplňováním.",
     "scenarios.east_coast_usa.east_coast_chase_3.title": "Honička na Východním pobřeží 3",
-    "scenarios.east_coast_usa.east_coast_chase_3.wayPointAction.msg": "Zastav podezřelého!"
+    "scenarios.east_coast_usa.east_coast_chase_3.wayPointAction.msg": "Zastavte podezřelého!",
+    "scenarios.east_coast_usa.east_coast_chase_4.description": "Společnost BeamCom stále neopravila internetové připojení na policejní stanici. Už není na co čekat, je potřeba přesvědčit je osobně. Zastavte tu dodávku.",
+    "scenarios.east_coast_usa.east_coast_chase_4.title": "Honička na Východním pobřeží 4"
 }
