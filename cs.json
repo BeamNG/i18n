@@ -2681,5 +2681,10 @@
     "ui.apps.trip_computer.Range": "Vzdálenost",
     "ui.apps.torquecurve.Power": "Výkon",
     "ui.apps.turbo_activity_graph.Boost": "Boost",
-    "ui.apps.turbo_activity_graph.Wastegate": "Obtokový ventil turbodmychadla"
+    "ui.apps.turbo_activity_graph.Wastegate": "Obtokový ventil turbodmychadla",
+    "ui.apps.hotlapping.close": "zavřít",
+    "ui.apps.hotlapping.Cancelrenaming": "Zrušit přejmenovávání",
+    "ui.apps.hotlapping.ClicktoRename": "Klikněte pro přejmenování",
+    "ui.apps.hotlapping.done": "hotovo",
+    "ui.apps.shift_decision_debug.ShiftupRPM": "Otáčky přeřazení nahoru"
 }
