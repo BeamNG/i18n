@@ -502,7 +502,7 @@
     "ui.hints.tiresBurstOnBumps": "Zdaleka ne všechny pneumatiky jsou vhodné pro rychlou jízdu a zátěž. Některé mohou při silnějších nárazech do nerovností na cestě prasknout.",
     "ui.hints.toggleFogLights": "Je-li vaše vozidlo vybaveno mlhovkami, můžete je zapnout pomocí [action=toggle_foglights].",
     "ui.hints.toggleLightBars": "Majáky na pohotovostních vozidlech můžou být zapnuty pomocí [action=toggle_lightbar_signal].",
-    "ui.hints.towTrailer": "K tažení přívěsu  vaším nákladním vozem: vytvořte oba pomocí [action=vehicle_selector], přibližte se k přívěsu a stiskněte [action=couplersToggle]",
+    "ui.hints.towTrailer": "Abyste mohli zapřáhnout přívěs a táhnout jej tahačem, proveďte následující: vytvořte obě vozidla pomocí [action=vehicle_selector], přibližte se s tahačem k přívěsu a stiskněte [action=couplersToggle]",
     "ui.hints.tuning": "Tlak v pneumatikách, geometrii kol a další nastavení můžete upravit v nabídce „Ladění“ [action=parts_selector].",
     "ui.hints.tweakFOV": "Zorný úhel kamery lze doladit v menu Nastavení > Hratelnost > Ladění zorného úhlu.",
     "ui.hints.useTurnSignals": "Víte, že většina vozidel má funkční směrovky? To platí i v BeamNG.drive! Pro aktivaci použíjte [action=toggle_left_signal] a [action=toggle_right_signal].",
