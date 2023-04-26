@@ -2266,7 +2266,7 @@
     "ui.apps.odometer.CurrentDistance": "Aktuální vzdálenost",
     "ui.apps.performance_timers.Start": "Start",
     "ui.apps.trip_computer.AVGSpeed": "Průměrná rychlost",
-    "ui.apps.trip_computer.AVGFuelConsu": "Průměrná spotřeba",
+    "ui.apps.trip_computer.AVGFuelConsu": "Průměrná Spotřeba",
     "ui.apps.trip_computer.FuelConsumption": "Spotřeba paliva",
     "ui.apps.torquecurve.Torque": "Točivý moment",
     "ui.apps.turbo_activity_graph.TurboRPM": "Turbo otáčky",
