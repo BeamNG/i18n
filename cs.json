@@ -2766,5 +2766,6 @@
     "scenarios.gridmap.gm_skycurve2.title": "Nebeská křivka 2",
     "scenarios.gridmap.gm_skycurve2.description": "Prožeň sporťák Civetta Bolide 390GTR po Nebeské křivce 2!",
     "scenarios.gridmap.gm_intersection_2.title": "Křižovatka 2",
-    "scenarios.gridmap.gm_intersection_2.description": "Odhadni správnou rychlost a pokus se srazit s druhým vozidlem. Tentokrát to bude s překvapením!"
+    "scenarios.gridmap.gm_intersection_2.description": "Odhadni správnou rychlost a pokus se srazit s druhým vozidlem. Tentokrát to bude s překvapením!",
+    "scenarios.gridmap.gm_intersection_2.win.msg": "Výborně! Tvá rychlost: {{speed}} km/h"
 }
