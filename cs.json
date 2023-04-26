@@ -2807,5 +2807,9 @@
     "scenarios.Industrial.industrial_allycross_intro_long.title": "Rallycross s Moonhawkem",
     "scenarios.hirochi_raceway.training_spin_recovery.nomove.msg": "Opustil jsi tréninkovou oblast! Příště zkus dopředu předvídat, jak se bude vozidlo pohybovat, abys nad ním neztratil kontrolu",
     "scenarios.Industrial.industrial_jump_large.description": "Vezmi rallye vozidlo Ibishu Covet a dopřej mu let po kaskádách vyvýšených ramp.",
-    "scenarios.Industrial.industrial_long_jumps.description": "Zajeď s rallye vozidlem Ibishu Covet 2 kola po dráze zahrnující skoky na dlouhou vzdálenost."
+    "scenarios.Industrial.industrial_long_jumps.description": "Zajeď s rallye vozidlem Ibishu Covet 2 kola po dráze zahrnující skoky na dlouhou vzdálenost.",
+    "scenarios.Industrial.autocrosstest.description": "Autocrossový test.",
+    "scenarios.Industrial.industrial_jump_large.title": "Skákání po rampách",
+    "scenarios.Industrial.industrial_long_jumps.title": "Průmyslová dráha se skoky",
+    "scenarios.Industrial.industrial_allycross_intro_long.description": "Zajeď s automobilem Bruckell Moonhawk, který plave jako loď, 3 kola po dráze určené pro rallycross."
 }
