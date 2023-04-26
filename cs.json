@@ -2701,5 +2701,6 @@
     "ui.options.camera.frequentlyTV": "Často TV",
     "ui.options.camera.mostlyTV": "Hlavně TV",
     "ui.options.camera.alwaysTV": "Vždy TV",
-    "ui.options.other.motionSimMessage": "Zapněte, aby hra posílala data pohybové platformě"
+    "ui.options.other.motionSimMessage": "Zapněte, aby hra posílala data pohybové platformě",
+    "ui.options.other.miscLua": "Různá lua"
 }
