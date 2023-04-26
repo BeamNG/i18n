@@ -477,7 +477,7 @@
     "ui.hints.importveFramerate": "Tipy na zvýšení FPS najdete v menu Nápověda > Výkon > Základní zlepšení výkonu",
     "ui.hints.increaseGroundClearance": "Pokud máte potíže s průjezdem řekou, zvyšte světlou výšku vašeho off‑road vozidla.",
     "ui.hints.installRollCage": "Do některých vozidel můžete namontovat bezpečnostní rám: nejen že zvyšuje bezpečnost, ale zvyšuje také tuhost podvozku a ovladatelnost vozidla (použijte [action=parts_selector]).",
-    "ui.hints.keepTheEngineUpright": "Provozování motoru vzhůru nohama způsobuje nedostatečné promazání olejem. Po zaplavení válců olejem začne z‑výfuku vycházet namodralý kouř, a také může dojít k selhání ložisek v motoru.",
+    "ui.hints.keepTheEngineUpright": "Provozování motoru vzhůru nohama způsobuje nedostatečné promazání olejem. Po zaplavení válců olejem začne z výfuku vycházet modrý kouř, a může také dojít k selhání ložisek v motoru.",
     "ui.hints.liftOffOversteer": "Náhlé ubrání plynu v rychlé zatáčce může rozhodit vůz a vést ke ztrátě kontroly. Vyvolání přetáčivého smyku tímto způsobem se v angličtině nazývá „lift-off“.",
     "ui.hints.moonGravity": "V nabídce „Prostředí“ můžete nastavit simulaci měsíční gravitace.",
     "ui.hints.notAllCarsCanRace": "Mnoho vozů není přizpůsobeno pro ostrou jízdu nebo závodění. Díly z aftermartketu jsou dostupné v selektoru dílů [action=parts_selector].",
