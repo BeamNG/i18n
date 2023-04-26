@@ -166,12 +166,12 @@
     "scenarios.east_coast_usa.town_course_short_b.description": "Další krátký rallyesprint okolo městečka.",
     "scenarios.gridmap.corridor.title": "Koridor",
     "scenarios.gridmap.gm_corridor.fail.msg": "Byl jsi zasažen!",
-    "scenarios.gridmap.gm_ds_large_jumps.description": "Vezmi dodávku se zvýšeným podvozkem na pekelnou jízdu",
+    "scenarios.gridmap.gm_ds_large_jumps.description": "Dopřej terénní verzi dodávky Gavril H15 pekelnou jízdu.",
     "scenarios.gridmap.gm_ds_large_jumps.title": "Big Air s dodávkou",
     "scenarios.gridmap.gm_intersection.title": "Křižovatka",
     "scenarios.gridmap.gm_jumps.description": "V této zkoušce budeš mít za úkol překonat sérii malých skoků ve vozidle Ibishu Covet. Správná rychlost je klíčem k úspěchu.",
     "scenarios.gridmap.gm_skycurve1.title": "Nebeská křivka 1",
-    "scenarios.gridmap.gm_suspension_race.description": "Závod na hrbolaté zkušební dráze",
+    "scenarios.gridmap.gm_suspension_race.description": "Tato zkouška tě v terénním vozidle Gavril Roamer provede sem a tam přes 4 různé povrchové překážky pro testování zavěšení. Je to skvělý způsob, jak lze pokazit geometrii.",
     "scenarios.gridmap.hard_parking.description": "Zaparkuj podélně jak nejrychleji to jen půjde vklouznutím mezi dvě vozidla.",
     "scenarios.gridmap.hard_parking.fail.distance.msg": "Nezaparkoval jsi pořádně...",
     "scenarios.gridmap.hard_parking.fail.time.msg": "Trvalo ti to příliš dlouho...",
@@ -2747,7 +2747,7 @@
     "scenarios.gridmap.corridor.description": "Řítí se na tebe nákladní vozidlo a tvé malé vozítko Ibishu Pigeon je uvězněno v úzkém koridoru. Najdi způsob, jak z této šlamastyky vyváznout!",
     "scenarios.gridmap.hard_parking.fail.damage.msg": "Došlo ke kontaktu s jiným autem...",
     "scenarios.gridmap.gm_racetest.title": "Test rychlého závodu na Zkušební mapě",
-    "scenarios.gridmap.gm_skycurve1.description": "Prožeň Hirochi Sunburst RS po Nebeské křivce!",
+    "scenarios.gridmap.gm_skycurve1.description": "Prožeň Hirochi Sunburst RS po Nebeské křivce!",
     "scenarios.gridmap.gm_jumps.title": "Zkouška ze skoků",
     "scenarios.gridmap.hard_parking.win.msg": "Výborně!",
     "scenarios.east_coast_usa.car_delivery.damage.msg": "Poškodil jsi své vozidlo",
@@ -2755,5 +2755,7 @@
     "scenarios.east_coast_usa.high_speed_highway.title": "Vysokorychlostní dálnice",
     "scenarios.east_coast_usa.intro_road_race.title": "Silniční závod",
     "scenarios.east_coast_usa.dirt_hopper.title": "Zablácený Hopper",
-    "scenarios.gridmap.gm_racetest.description": "Krátká série malých skoků."
+    "scenarios.gridmap.gm_racetest.description": "Krátká série malých skoků.",
+    "scenarios.gridmap.gm_ds_offroad_shortcourse.description": "3 offroadové výzvy pro Gavril D15 – zvládne je všechny?",
+    "scenarios.gridmap.gm_intersection_1.description": "Odhadni správnou rychlost průjezdu tunelem a pokus se narazit do druhého vozidla, které právě jede kolem a křižuje jeho ústí."
 }
