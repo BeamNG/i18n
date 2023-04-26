@@ -2686,5 +2686,7 @@
     "ui.apps.hotlapping.Cancelrenaming": "Zrušit přejmenovávání",
     "ui.apps.hotlapping.ClicktoRename": "Klikněte pro přejmenování",
     "ui.apps.hotlapping.done": "hotovo",
-    "ui.apps.shift_decision_debug.ShiftupRPM": "Otáčky přeřazení nahoru"
+    "ui.apps.shift_decision_debug.ShiftupRPM": "Otáčky přeřazení nahoru",
+    "ui.apps.shift_decision_debug.ShiftDownRPM": "Otáčky přeřazení dolů",
+    "ui.apps.traffic.Auto": "Automaticky"
 }
