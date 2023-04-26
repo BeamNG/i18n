@@ -2757,5 +2757,10 @@
     "scenarios.east_coast_usa.dirt_hopper.title": "Zablácený Hopper",
     "scenarios.gridmap.gm_racetest.description": "Krátká série malých skoků.",
     "scenarios.gridmap.gm_ds_offroad_shortcourse.description": "3 offroadové výzvy pro Gavril D15 – zvládne je všechny?",
-    "scenarios.gridmap.gm_intersection_1.description": "Odhadni správnou rychlost průjezdu tunelem a pokus se narazit do druhého vozidla, které právě jede kolem a křižuje jeho ústí."
+    "scenarios.gridmap.gm_intersection_1.description": "Odhadni správnou rychlost průjezdu tunelem a pokus se narazit do druhého vozidla, které právě jede kolem a křižuje jeho ústí.",
+    "scenarios.gridmap.gm_suspension_race.title": "Zkouška zavěšení",
+    "scenarios.gridmap.gm_intersection_1.title": "Křižovatka",
+    "scenarios.gridmap.gm_ds_offroad_shortcourse.title": "Zkouška offroadu",
+    "scenarios.gridmap.gm_intersection_1.fail.msg": "Vedle jak ta jedle!",
+    "scenarios.gridmap.gm_intersection_1.win.msg": "Výborně! Tvá rychlost: {{speed}} km/h"
 }
