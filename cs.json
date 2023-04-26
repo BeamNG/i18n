@@ -2708,5 +2708,6 @@
     "ui.options.graphics.Videoscaled": "Video v měřítku",
     "ui.controls.lockType": "Typ uzamčení řízení",
     "ui.controls.lockType.warningMissingAngle": "Zvolený typ uzamčení potřebuje nastavit úhel uzamčení",
-    "ui.controls.lockType.warningAdvice": "Jelikož je typ uzamčení specifikován, doporučený typ uzamčení je 1:1"
+    "ui.controls.lockType.warningAdvice": "Jelikož je typ uzamčení specifikován, doporučený typ uzamčení je 1:1",
+    "ui.options.graphics.GraphicDynReflectionDistanceTooltip": "Maximální vzdálenost zobrazená v odrazech."
 }
