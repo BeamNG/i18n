@@ -473,7 +473,7 @@
     "ui.hints.driveWithMouse": "Řídit můžeš i myší. Stačí jít do menu Ovládání a přiřadit myši ovládací funkce dle vlastního uvážení.",
     "ui.hints.engineBrakeForDownhill": "Při sjezdu z kopce s naloženým nákladním vozem používejte brzdění motorem, jinak vám můžou selhat brzdy.",
     "ui.hints.funStabilityControl": "Vozidla s kontrolou stability mohou být přepnuta do více nebezpečného (ale zábavného) režimu pomocí [action=toggleESCMode].",
-    "ui.hints.grabVehicleParts": "Držením [action=nodegrabberRender] můžeš uchopovat části vozidla, a poté za ně tahat pomocí myši.",
+    "ui.hints.grabVehicleParts": "Držením [action=nodegrabberRender] můžete uchopovat části vozidla, a poté za ně tahat pomocí myši.",
     "ui.hints.importveFramerate": "Tipy na zvýšení FPS najdete v menu Nápověda > Výkon > Základní zlepšení výkonu",
     "ui.hints.increaseGroundClearance": "Zvyšte světlou výšku vašeho off-road vozidla pokud máte potíže přejet přes řeku.",
     "ui.hints.installRollCage": "Do některých vozidel můžete namontovat ochrannou klec: nejen že je to bezpečnější, ale zlepšuje to tuhost podvozku a ovladatelnost vozidla (použíjte [action=parts_selector]).",
