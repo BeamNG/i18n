@@ -504,7 +504,7 @@
     "ui.hints.toggleLightBars": "Majáky na pohotovostních vozidlech můžou být zapnuty pomocí [action=toggle_lightbar_signal].",
     "ui.hints.towTrailer": "Abyste mohli zapřáhnout přívěs a táhnout jej tahačem, proveďte následující: vytvořte obě vozidla pomocí [action=vehicle_selector], přibližte se s tahačem k přívěsu a stiskněte [action=couplersToggle]",
     "ui.hints.tuning": "Tlak v pneumatikách, geometrii kol a další nastavení můžete upravit v nabídce „Ladění“ [action=parts_selector].",
-    "ui.hints.tweakFOV": "Zorný úhel kamery lze doladit v menu Nastavení > Hratelnost > Ladění zorného úhlu.",
+    "ui.hints.tweakFOV": "Zorné pole kamery lze doladit v menu Možnosti > Hratelnost > Ladění zorného úhlu.",
     "ui.hints.useTurnSignals": "Víte, že většina vozidel má funkční směrovky? To platí i v BeamNG.drive! Pro aktivaci použíjte [action=toggle_left_signal] a [action=toggle_right_signal].",
     "ui.hints.vehicleSkins": "Některá vozidla mají alternativní potisky. Můžete je najít v nabídce „Díly“ [action=parts_selector], pod položkou Potisky.",
     "ui.launcher.test": "ahoj světe!",
