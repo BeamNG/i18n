@@ -107,7 +107,7 @@
     "quickrace.utah.mix_asphalt.description": "Trasa sestávající se z dvouproudové dálnice a úzkých asfaltových vedlejších silnic. Vhodná pro různé typy vozidel.",
     "quickrace.utah.mix_asphalt.title": "Silniční trasa 1",
     "scenarios.Industrial.autocrosstest.title": "Test Autokrosu",
-    "scenarios.Industrial.pessima_autocross.description": "Projeď krkolomnou tratí s Pessimou, která má řízení všech kol",
+    "scenarios.Industrial.pessima_autocross.description": "Vyzkoušej si vozidlo Ibishu Pessima ZX, které zatáčí všemi koly. Pojedeš s ním na trati určené pro testování ovladatelnosti, kde je vyžadována skvělá manévrovatelnost.",
     "scenarios.Industrial.pessima_autocross.title": "Mrštná Pessima",
     "scenarios.derby.fourway_derby.description": "Poslední pohybující se vozidlo vítězí. Zdemoluj vozidla soupeřů, ale dávej pozor na to svoje!",
     "scenarios.derby.regular_derby.title": "Demoliční derby - Obyčejná aréna",
@@ -2802,5 +2802,10 @@
     "scenarios.hirochi_raceway.gm_racetest.title": "Test rychlého závodu na dráze Hirochi",
     "scenarios.hirochi_raceway.training_cornering.title": "Trénink 2: Projíždění zatáček",
     "scenarios.hirochi_raceway.dialog_test.title": "Test dialogů",
-    "scenarios.hirochi_raceway.training_spin_recovery.description": "Zde si natrénuješ, jak předcházet ztrátě kontroly při řízení aut s náhonem zadních kol."
+    "scenarios.hirochi_raceway.training_spin_recovery.description": "Zde si natrénuješ, jak předcházet ztrátě kontroly při řízení aut s náhonem zadních kol.",
+    "scenarios.hirochi_raceway.training_spin_recovery.timeLimit.msg": "Čas vypršel! Zkus to znovu a trošku na to šlápni",
+    "scenarios.Industrial.industrial_allycross_intro_long.title": "Rallycross s Moonhawkem",
+    "scenarios.hirochi_raceway.training_spin_recovery.nomove.msg": "Opustil jsi tréninkovou oblast! Příště zkus dopředu předvídat, jak se bude vozidlo pohybovat, abys nad ním neztratil kontrolu",
+    "scenarios.Industrial.industrial_jump_large.description": "Vezmi rallye vozidlo Ibishu Covet a dopřej mu let po kaskádách vyvýšených ramp.",
+    "scenarios.Industrial.industrial_long_jumps.description": "Zajeď s rallye vozidlem Ibishu Covet 2 kola po dráze zahrnující skoky na dlouhou vzdálenost."
 }
