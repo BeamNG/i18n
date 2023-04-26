@@ -596,7 +596,7 @@
     "ui.options.graphics.postfx": "Správce PostFX",
     "ui.options.graphics.resolution": "Rozlišení",
     "ui.options.graphics.uimaxres": "Maximální rozlišení uživatelského rozhraní",
-    "ui.options.graphics.uimaxresExplanation": "Určuje maximální rozlišení uživatelského rozhraní. Poměr rozlišení/výkon.",
+    "ui.options.graphics.uimaxresExplanation": "Určuje maximální rozlišení uživatelského rozhraní. Vyberte nejlepší poměr rozlišení/výkon.",
     "ui.options.graphics.vsync": "Vertikální synchronizace",
     "ui.options.graphicsGraphicMeshQuality": "Kvalita modelů",
     "ui.options.options": "Nastavení",
