@@ -2702,5 +2702,6 @@
     "ui.options.camera.mostlyTV": "Hlavně TV",
     "ui.options.camera.alwaysTV": "Vždy TV",
     "ui.options.other.motionSimMessage": "Zapněte, aby hra posílala data pohybové platformy",
-    "ui.options.other.miscLua": "Různá lua"
+    "ui.options.other.miscLua": "Různá lua",
+    "0-60 mph": "0-60 mph"
 }
