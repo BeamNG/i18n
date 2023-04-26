@@ -468,7 +468,7 @@
     "ui.hints.customLicensePlate": "V nabídce „Díly“ [action=parts_selector] si můžete upravit text registrační značky.",
     "ui.hints.customizeSpecializedBindings": "Specifické ovládání daného vozidla (používá drtič, kanón atd.) lze přizpůsobit po kliknutí na ně v pravém horním rohu obrazovky.",
     "ui.hints.delicateCars": "Některá vozidla nejsou navržena pro náročnou jízdu. Sledujte proto ukazatel teploty!",
-    "ui.hints.driveAtNight": "Můžete jezdit v noci změnou nastavení v menu \"Prostředí\".",
+    "ui.hints.driveAtNight": "V menu „Prostředí“ můžeš změnit nastavení času a projet se třeba v noci.",
     "ui.hints.driveTheCanon": "Věděl jsi, že můžeš řídit (a střílet!) kanón? Filtruj vozidla v selektoru podle kategorie „Prop“ [action=vehicle_selector].",
     "ui.hints.driveWithMouse": "Řídit můžeš i myší. Stačí jít do menu Ovládání a přiřadit myši ovládací funkce dle vlastního uvážení.",
     "ui.hints.engineBrakeForDownhill": "Při sjezdu z kopce s naloženým nákladním vozem používejte brzdění motorem, jinak vám můžou selhat brzdy.",
