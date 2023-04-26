@@ -205,7 +205,7 @@
     "scenarios.jungle_rock_island.drag_race.win.msg": "Výborně! Tvůj čas je: {{time}}",
     "scenarios.jungle_rock_island.intro_jri_hillclimb.description": "Závod do vrchu po úzkých silničkách ostrovní sopky.",
     "scenarios.jungle_rock_island.intro_jri_hillclimb.title": "Závod do vrchu",
-    "scenarios.jungle_rock_island.intro_jri_mountain_race.description": "Závod kolem vulkánu na Jungle Rock Island",
+    "scenarios.jungle_rock_island.intro_jri_mountain_race.description": "Závod okolo sopky na ostrově Jungle Rock Island.",
     "scenarios.jungle_rock_island.intro_jri_mountain_race.title": "Horská rallye",
     "scenarios.jungle_rock_island.intro_jri_road_race.description": "Závod okolo celého ostrova.",
     "scenarios.jungle_rock_island.intro_jri_road_race.title": "Výlet po ostrově",
@@ -2820,5 +2820,13 @@
     "scenarios.jungle_rock_island.hypermiling.description": "Dostaň se na letiště s pouhou kapkou paliva zbývajícího v nádrži. Dokážeš to s vysoce efektivním vozidlem Ibishu Pessima HX?",
     "scenarios.jungle_rock_island.jri_delivery.description": "Dovez nový automíchač Gavril T75 Cement Mixer do místního přístavu.",
     "scenarios.jungle_rock_island.jri_ds_320_rally.title": "Rallye se supersportem",
-    "scenarios.jungle_rock_island.jri_portshakedown.description": "Prožeň v divoké časové zkoušce výrazně upravený Sunburst uličkami opuštěného přístavu. Smykem obtáčej vozidlo okolo překážek tak, aby tvůj čas byl co nejlepší."
+    "scenarios.jungle_rock_island.jri_portshakedown.description": "Prožeň v divoké časové zkoušce výrazně upravený Sunburst uličkami opuštěného přístavu. Smykem obtáčej vozidlo okolo překážek tak, aby tvůj čas byl co nejlepší.",
+    "scenarios.jungle_rock_island.jri_moose.title": "Losí test",
+    "scenarios.jungle_rock_island.hypermiling.speed.msg": "Buď ses zasekl, nebo ti došlo palivo",
+    "scenarios.small_island.intro_round_circuit.title": "Okruh okolo Small Island",
+    "scenarios.jungle_rock_island.jri_delivery.title": "Dovoz těžké techniky",
+    "scenarios.jungle_rock_island.jri_shortcut.title": "Zkratka",
+    "scenarios.jungle_rock_island.hypermiling.title": "Jízda na výpary",
+    "scenarios.jungle_rock_island.jri_drown_the_pigeon.title": "Pigeon potápník",
+    "scenarios.small_island.intro_reach_hill.title": "Přespolní jízda ostrovem"
 }
