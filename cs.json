@@ -475,7 +475,7 @@
     "ui.hints.funStabilityControl": "Vozidla s kontrolou stability mohou být přepnuta do více nebezpečného (ale zábavného) režimu pomocí [action=toggleESCMode].",
     "ui.hints.grabVehicleParts": "Držením [action=nodegrabberRender] můžete uchopovat části vozidla, a poté za ně tahat pomocí myši.",
     "ui.hints.importveFramerate": "Tipy na zvýšení FPS najdete v menu Nápověda > Výkon > Základní zlepšení výkonu",
-    "ui.hints.increaseGroundClearance": "Zvyšte světlou výšku vašeho off-road vozidla pokud máte potíže přejet přes řeku.",
+    "ui.hints.increaseGroundClearance": "Pokud máte potíže s průjezdem řekou, zvyšte světlou výšku vašeho off‑road vozidla.",
     "ui.hints.installRollCage": "Do některých vozidel můžete namontovat bezpečnostní rám: nejen že zvyšuje bezpečnost, ale zvyšuje také tuhost podvozku a ovladatelnost vozidla (použijte [action=parts_selector]).",
     "ui.hints.keepTheEngineUpright": "Provozování motoru vzhůru nohama způsobuje nedostatečné promazání olejem. Zaplavení válců olejem způsobí modrý kouř z výfuku a také mohou selhat ložiska motoru.",
     "ui.hints.liftOffOversteer": "Náhlé ubrání plynu v rychlé zatáčce může rozhodit vůz a vést ke ztrátě kontroly. Vyvolání přetáčivého smyku tímto způsobem se v angličtině nazývá „lift-off“.",
