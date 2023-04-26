@@ -173,7 +173,7 @@
     "scenarios.gridmap.gm_skycurve1.title": "Nebeská křivka 1",
     "scenarios.gridmap.gm_suspension_race.description": "Závod na hrbolaté zkušební dráze",
     "scenarios.gridmap.hard_parking.description": "Zaparkuj podélně jak nejrychleji to je možné zajetím mezi dvě vozidla.",
-    "scenarios.gridmap.hard_parking.fail.distance.msg": "Nesprávně zaparkováno",
+    "scenarios.gridmap.hard_parking.fail.distance.msg": "Nezaparkoval jsi pořádně...",
     "scenarios.gridmap.hard_parking.fail.time.msg": "Vyčerpal jsi víc než {{time}} sekund",
     "scenarios.gridmap.hard_parking.title": "Složité parkování",
     "scenarios.hirochi_raceway.dialog_test.fail.time.msg": "Trvalo to víc než {{time}} vteřin",
