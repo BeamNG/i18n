@@ -456,7 +456,7 @@
     "ui.goals.position": "Polohování",
     "ui.hints.TrackIRSupported": "BeamNG.drive podporuje snímání pohybu hlavy TrackIR; stačí zapojit a spustit hru!",
     "ui.hints.absWasOptional": "Protiblokovací brzdový systém nebýval vždy povinný. Starší vozidla vyžadují obezřetnější techniku brzdění, aby bylo možné je udržet pod kontrolou.",
-    "ui.hints.adaptToBadRoads": "Výmoly a záplaty na starých silnicích omezují rychlost v zatáčkách. Bude třeba přizpůsobit rychlost daným podmínkám.",
+    "ui.hints.adaptToBadRoads": "Výmoly, záplaty a povrchové nerovnosti na starých silnicích omezují rychlost průjezdu zatáček. Bude třeba přizpůsobit rychlost daným podmínkám na cestách.",
     "ui.hints.blueSmokeIsPistonDamage": "Pokud uvidíte z výfuku vycházet modrý kouř, dochází ke spalování oleje, což značí poškození pístních kroužků.",
     "ui.hints.brakesAndSteeringVary": "Každé vozidlo má odlišné schopnosti brzdění a možnosti zatáčení. Seznamte se s nimi dříve, než začnete jezdit na plný plyn.",
     "ui.hints.carefulWithOldSportsCars": "Staré sportovní vozy bez elektronických pomůcek může být obtížné kontrolovat a vyžadují jemné zacházení s plynem.",
