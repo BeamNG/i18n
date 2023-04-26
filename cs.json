@@ -490,7 +490,7 @@
     "ui.hints.raceBrakesEffectiveness": "Závodní brzdy ztrácí efektivitu, pokud jsou příliš studené.",
     "ui.hints.recoverVehicle": "Pokud vaše vozidlo uvízne, stiskněte [action=recover_vehicle] pro jeho vyproštění.",
     "ui.hints.removeRearSeats": "Zrychlete své vozidlo odstraněním nepotřebných částí, jako jsou například zadní sedadla, v nabídce „Díly“ [action=parts_selector].",
-    "ui.hints.rollPitchApps": "Vyznavačům těžkého terénu se mohou hodit UI aplikace \"Boční náklon\" a \"Podélný náklon\".",
+    "ui.hints.rollPitchApps": "Vyznavačům těžkého terénu se mohou hodit aplikace uživatelského rozhraní „Boční náklon“ a „Podélný náklon“.",
     "ui.hints.saveRestoreVehicleHome": "Domov pro vozidlo můžeš nastavit pomocí [action=saveHome] a později obnovit pomocí [action=loadHome]",
     "ui.hints.showCustomVehicles": "Chceš‑li ve Výběru vozidel zobrazit své vlastní upravené konfigurace vozidel, povol je v menu Možnosti > Uživatelské rozhraní > Zobrazit upravená vozidla.",
     "ui.hints.slowMotionPhysics": "Obdivujte fyziku ve zpomaleném čase použitím [action=toggle_slow_motion] a [action=faster_motion].",
