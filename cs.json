@@ -1602,7 +1602,7 @@
     "ui.hints.photoModeMenu": "Nabídka Fotografického režimu nabízí pokročilé ovládání kamery a možnost přímého nahrávání snímků na servery BeamNG.",
     "ui.hints.startSlow": "Když řídíte vozidlo úplně poprvé, může se snadno stát, že se s ním nevejdete do zatáček. Zpočátku začněte pomalejší jízdou a přidávejte teprve tehdy, když zjistite jak se dané vozidlo chová.",
     "ui.hints.slideBackWithParkingBrake": "Předokolky s těžkým čumákem snadno dostaneš do smyku parkovací brzdou, zejména na nezpevněném povrchu.",
-    "ui.hints.changeBrakePads": "Když pocítíš pokles účinnosti brzd, namontuj lepší brzdové destičky ve Výběru dílů [action=parts_selector].",
+    "ui.hints.changeBrakePads": "Jestliže se vám zdá, že se snižuje účinnost brzd, namontujte lepší brzdové destičky ve Výběru dílů [action=parts_selector].",
     "ui.radialmenu2.ai.flee.desc": "AI se ti bude snažit uniknout.",
     "ui.radialmenu2.ai.desc": "Ovládání různých možností AI (umělé inteligence).",
     "ui.radialmenu2.ai": "AI",
