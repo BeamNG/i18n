@@ -2697,5 +2697,9 @@
     "ui.apps.threedexport.JBeam": "Jbeam",
     "ui.apps.threedexport.VertexColors": "VertexBarvy",
     "ui.options.camera.chase": "uzamčená",
-    "ui.options.camera.pigeon-slow": "Mnohem pomalejší"
+    "ui.options.camera.pigeon-slow": "Mnohem pomalejší",
+    "ui.options.camera.frequentlyTV": "Často TV",
+    "ui.options.camera.mostlyTV": "Hlavně TV",
+    "ui.options.camera.alwaysTV": "Vždy TV",
+    "ui.options.other.motionSimMessage": "Zapněte, aby hra posílala data pohybové platformě"
 }
