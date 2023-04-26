@@ -482,7 +482,7 @@
     "ui.hints.moonGravity": "V nabídce „Prostředí“ můžete nastavit simulaci měsíční gravitace.",
     "ui.hints.notAllCarsCanRace": "Mnoho vozů není přizpůsobeno pro ostrou jízdu nebo závodění. Díly z aftermartketu jsou dostupné v selektoru dílů [action=parts_selector].",
     "ui.hints.oldCarsBurn": "Některá stará vozidla jsou po havárii náchylná ke vznícení, zatímco moderní vozidla jsou mnohem bezpečnější.",
-    "ui.hints.parkingbrakeForTurning": "Použíjte ruční brzdu [action=parkingbrake]  jako rychlý a nebezpečný způsob otočení se.",
+    "ui.hints.parkingbrakeForTurning": "Ruční brzdu [action=parkingbrake] můžete použít jako rychlý a nebezpečný způsob zatáčení.",
     "ui.hints.playMultiseat": "Připojte vícero ovladačů a hrajte doma s přáteli některý ze scénářů pro více hráčů.",
     "ui.hints.publishScreenshots": "Máte-li rádi focení vaší jízdy, můžete skrýt uživatelské rozhraní pomocí [action=hide_ui] a poté pomocí [action=publishScreenShot] nahrát zachycený snímek.",
     "ui.hints.quickCameraMovement": "Pro rychlejší pohyb kamery podržte [action=movefast] (není podporováno některými kamerami).",
