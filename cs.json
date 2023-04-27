@@ -244,7 +244,7 @@
     "scenarios.utah.chapter_1.chapter_1_drag.pass.msg": "Závod dokončen",
     "scenarios.utah.chapter_1.chapter_1_highway.description": "Projeď přes zátaras na silnici.",
     "scenarios.utah.chapter_1.chapter_1_hilldrop.fail.msg": "Nepohnul jsi se do 10 sekund",
-    "scenarios.utah.chapter_1.chapter_1_hilldrop.pass.msg": "Dobrá práce!",
+    "scenarios.utah.chapter_1.chapter_1_hilldrop.pass.msg": "Výborně!",
     "scenarios.utah.chapter_1.chapter_1_hilldrop.title": "Sjezd",
     "scenarios.utah.chapter_1.chapter_1_jump.damage.msg": "Zasáhl jsi vozidlo během {{timeStr}}",
     "scenarios.utah.chapter_1.chapter_1_jump.fail.msg": "Neskočil jsi",
@@ -254,7 +254,7 @@
     "scenarios.utah.chapter_1.chapter_1_ramcliff.title": "Beranidlo",
     "scenarios.utah.chapter_1.chapter_1_rubberband.title": "Gumový pás",
     "scenarios.utah.chapter_1.chapter_1_suspension.timeLimit.msg": " Trvalo ti to déle než {{timeLimit}} sekund",
-    "scenarios.utah.chapter_1.chapter_1_suspension.title": "Odpružení",
+    "scenarios.utah.chapter_1.chapter_1_suspension.title": "Zavěšení",
     "scenarios.utah.chapter_2.chapter_2_0_comics_test.title": "chapter_2_0_comictest",
     "scenarios.utah.chapter_2.chapter_2_3_crawl.title": "Závod v říčním korytu",
     "scenarios.utah.chapter_2.chapter_2_4_delivery.title": "Doručení součástek",
@@ -1976,7 +1976,7 @@
     "scenarios.italy.electricHypermilling.title": "Vyšťavený elektromobil",
     "scenarios.italy.electricHypermilling.description": "Akumulátory ve tvém E‑SBR jsou téměř vybité. Dokážeš dojet k nejbližší nabíjecí stanici v  Castellettu?",
     "scenarios.italy.crestRoadAutobello.description": "Dokážeš jet dostatečně rychle, abys udržel tempo s druhým autem Baja Piccolina ve hrbolatém terénu?",
-    "scenarios.italy.crestRoadAutobello.title": "Přespolní běh",
+    "scenarios.italy.crestRoadAutobello.title": "Polní závod",
     "scenarios.italy.crestRoadAutobello.damage.msg": "Auto bylo příliš poškozeno...",
     "scenarios.italy.crestRoadAutobello.win.msg": "Výborně!",
     "scenarios.italy.crestRoadAutobello.win.overtake.msg": "Výborně! Byl jsi tak rychlý, že jsi dokonce předjel auto, které jsi měl pouze následovat.",
@@ -2835,5 +2835,8 @@
     "scenarios.utah.canyon_jump.pass.msg": "Gratuluji ti ke zvládnutí všech skoků!",
     "scenarios.utah.canyon_jump.description": "Dopadni vždy na všechny čtyři při zdolávání masivních skoků přes unikátní geologické útvary v Utahu. Posadíš se za volant terénní verze vozidla Gavril H15.",
     "scenarios.utah.chapter_1.chapter_1_cannon.description": "Použij starý a silný kanón ke zničení starého orezlého autovraku.",
-    "scenarios.utah.prototype.arrival.portraitText": "Zdar nováčku, konečně jsi přijel sem, do [color=#008000][b]Utahu[/b][/color]. [color=#FFA500][b]Navštiv mě[/b][/color] v mojí dílně [color=#008000][b]AJ Auto Reparation[/b][/color], ať zjistím, jestli za něco stojíš, nebo jestli jsi budižkničemu, který svou káru rozmlátí hnedka, co do ní usedne."
+    "scenarios.utah.prototype.arrival.portraitText": "Zdar nováčku, konečně jsi přijel sem, do [color=#008000][b]Utahu[/b][/color]. [color=#FFA500][b]Navštiv mě[/b][/color] v mojí dílně [color=#008000][b]AJ Auto Reparation[/b][/color], ať zjistím, jestli za něco stojíš, nebo jestli jsi budižkničemu, který svou káru rozmlátí hnedka, co do ní usedne.",
+    "scenarios.utah.chapter_1.chapter_1_bridge.distance.fail.msg": "Vydal ses opačným směrem",
+    "scenarios.utah.chapter_1.chapter_1_bridge.distance.msg": "Dobrý pokus!",
+    "scenarios.utah.chapter_1.chapter_1_bridge.pass": "Dobrý pokus!"
 }
