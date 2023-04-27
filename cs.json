@@ -2841,5 +2841,7 @@
     "scenarios.utah.chapter_1.chapter_1_bridge.pass": "Dobrý pokus!",
     "quickrace.industrial.track_container_chaos.title": "Chaos v kontejnerové oblasti",
     "quickrace.industrial.track_warehouse.title": "Závod ve skladišti",
-    "quickrace.industrial.track_container_perimeter.title": "Obvodový okruh v kontejnérové oblasti"
+    "quickrace.industrial.track_container_perimeter.title": "Obvodový okruh v kontejnérové oblasti",
+    "quickrace.west_coast_usa.drifttrack.title": "Okruh pro driftování",
+    "quickrace.west_coast_usa.drifttrack.description": "Malá, rovná trať, která se nachází na parkovišti hned vedle velké závodní tratě."
 }
