@@ -3029,5 +3029,6 @@
     "levels.driver_training.roads": "Asfalt, mokrý asfalt, speciální povrchy",
     "levels.derby.info.roads": "Nějaké hlinité cesty",
     "levels.driver_training.suitablefor": "Trénink řízení, testování vozidel",
-    "levels.Cliff.info.roads": "Žádné"
+    "levels.Cliff.info.roads": "Žádné",
+    "levels.west_coast_usa.info.roads": "90% dlažděné"
 }
