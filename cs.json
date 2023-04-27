@@ -2856,5 +2856,6 @@
     "quickrace.west_coast_usa.mountain_race.description": "Projeď se po horských silnicích západního pobřeží USA.",
     "quickrace.west_coast_usa.drag_race.title": "Dráha na sprinty",
     "quickrace.west_coast_usa.drag_race.description": "Jak rychle dokážeš zvládnout čtvrt míle (400 metrů)?",
-    "quickrace.west_coast_usa.cell_tower.title": "Mezi dvěma vysílači"
+    "quickrace.west_coast_usa.cell_tower.title": "Mezi dvěma vysílači",
+    "quickrace.west_coast_usa.cell_tower.description": "Dojeď od jednoho vysílače ke druhému. Dávej si pozor, aby ses nezřítil z kopce!"
 }
