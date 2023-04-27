@@ -57,10 +57,10 @@
     "levels.cardealer.info.description": "Prodejna vozidel na východním pobřeží Spojených států.",
     "levels.cardealer.info.roads": "60% rychlý asfalt, 40% šotolina",
     "levels.cardealer.info.suitablefor": "Výběr vozu",
-    "levels.derby.info.features": "arény na demoliční derby: vysutá průmyslová platforma, standardní s rozbláceným trávníkem, betonová a jedna s různými druhy povrchu",
-    "levels.derby.info.title": "Demoliční arény",
+    "levels.derby.info.features": "Derby arény, hlinitý ovál, sklady",
+    "levels.derby.info.title": "Derby arény",
     "levels.driver_training.info.description": "Moderní výcvikové středisko nacházející se v Německu.",
-    "levels.dry_rock_island.info.features": "průmysl, přístav, nezpevněné horské cesty",
+    "levels.dry_rock_island.info.features": "průmyslový areál, přístav, nezpevněné horské cesty",
     "levels.dry_rock_island.info.title": "Dry Rock Island",
     "levels.east_coast_usa.info.description": "Ukázka východního pobřeží USA. Lokace byla inspirována především státy Maine a New Hampshire.",
     "levels.east_coast_usa.info.features": "Malé město, mosty, řeky, pila, odlesněná oblast, staré domy",
@@ -3026,5 +3026,8 @@
     "levels.Cliff.info.biome": "Mírný pás, ostrov, útesy",
     "levels.derby.info.biome": "Mírný pás, travnaté plochy",
     "levels.driver_training.biome": "Mírný pás, les",
-    "levels.driver_training.roads": "Asfalt, mokrý asfalt, speciální povrchy"
+    "levels.driver_training.roads": "Asfalt, mokrý asfalt, speciální povrchy",
+    "levels.derby.info.roads": "Nějaké hlinité cesty",
+    "levels.driver_training.suitablefor": "Trénink řízení, testování vozidel",
+    "levels.Cliff.info.roads": "Žádné"
 }
