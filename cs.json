@@ -2875,5 +2875,7 @@
     "quickrace.west_coast_usa.city_race_1.description": "Pravoúhlé zatáčky a strmé svahy tě budou provázet po celý závod skrze město.",
     "quickrace.west_coast_usa.city_race_2.description": "Projeď se v tomto závodě podél vody přes město a přístav.",
     "quickrace.west_coast_usa.highway_intersection.description": "Závod okolo dálniční křižovatky, kombinující rychlé rovinky a ostré zatáčky.",
-    "quickrace.automation_test_track.outerloop.description": "7,8 kilometrů dlouhý vytrvalostní rallye závod táhnoucí se nahoru a dolů z hory."
+    "quickrace.automation_test_track.outerloop.description": "7,8 kilometrů dlouhý vytrvalostní rallye závod táhnoucí se nahoru a dolů z hory.",
+    "quickrace.automation_test_track.outerloop.title": "Venkovní okruh",
+    "quickrace.automation_test_track.rallyTrack.description": "Větrný štěrkový okruh."
 }
