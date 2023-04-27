@@ -2843,5 +2843,12 @@
     "quickrace.industrial.track_warehouse.title": "Závod ve skladišti",
     "quickrace.industrial.track_container_perimeter.title": "Obvodový okruh v kontejnérové oblasti",
     "quickrace.west_coast_usa.drifttrack.title": "Okruh pro driftování",
-    "quickrace.west_coast_usa.drifttrack.description": "Malá, rovná trať, která se nachází na parkovišti hned vedle velké závodní tratě."
+    "quickrace.west_coast_usa.drifttrack.description": "Malá, rovná trať, která se nachází na parkovišti hned vedle velké závodní tratě.",
+    "quickrace.west_coast_usa.race_track.title": "Dlouhý závodní okruh 1",
+    "quickrace.west_coast_usa.race_track_short.title": "Krátký závodní okruh",
+    "quickrace.west_coast_usa.race_track_chicane.title": "Dlouhý závodní okruh 2",
+    "quickrace.west_coast_usa.race_track_chicane.description": "Velká závodní dráha hned za městem, se zpomalujícím úsekem uprostřed roviny. Ideální pro pomalejší vozidla.",
+    "quickrace.west_coast_usa.race_track.description": "Velká závodní trať hned za městem.",
+    "quickrace.west_coast_usa.race_track_alternative.title": "Alternativní závodní okruh",
+    "quickrace.west_coast_usa.race_track_short.description": "Velká závodní trať hned za městem, krátká verze."
 }
