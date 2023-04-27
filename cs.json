@@ -2980,5 +2980,22 @@
     "campaigns.training.training.training_cornerspeed.title": "Trénink 5: Rychlost projíždění zatáček",
     "campaigns.training.training.training_easycircuit.title": "Trénink 6: Snadný okruh",
     "campaigns.training.training.training_hairpins.title": "Trénink 7: Vlásenky",
-    "campaigns.training.training.training_RWD_handling.title": "Trénink 9: Ovládání pohonu zadních kol"
+    "campaigns.training.training.training_RWD_handling.title": "Trénink 9: Ovládání pohonu zadních kol",
+    "ui.options.graphics.Normal": "Normální",
+    "ui.options.graphics.Custom": "Vlastní",
+    "ui.career.lastMission": "Poslední mise",
+    "ui.career.deletePermanently": "Dvojklikem navždy smažete!",
+    "ui.dragrace.randomOpponent": "Náhodný soupeř",
+    "ui.campaign.requiresOneController": "Vyžaduje ovladač pro každého hráče",
+    "quickrace.automation_test_track.trackcircuit1.title": "Závodní okruh",
+    "quickrace.automation_test_track.trackcircuit3.title": "Starý závodní okruh",
+    "campaigns.west_coast_usa.bus_minichapter.busdriver_stunt_jump.title": "Kaskadérský kousek 2: Hrdinský skok",
+    "campaigns.west_coast_usa.bus_minichapter.busdriver_stunt_crush.title": "Kaskadérský kousek 3: Akční honička",
+    "campaigns.west_coast_usa.bus_minichapter.busdriver_stunt_canal.title": "Kaskadérský kousek 4: Balistický autobus",
+    "campaigns.utah.chapter_1.cannon.title": "Kanón",
+    "quickrace.automation_test_track.trackcircuit2.title": "Krátký závodní okruh",
+    "campaigns.utah.chapter_1.cliffjump.title": "Skok z útesu",
+    "campaigns.west_coast_usa.bus_minichapter.busdriver_stunt_follow.title": "Cesta k místu filmování",
+    "ui.options.graphics.Ultra": "Ultra",
+    "ui.options.graphics.Lowest": "Nejnižší"
 }
