@@ -2829,8 +2829,9 @@
     "scenarios.jungle_rock_island.hypermiling.title": "Jízda na výpary",
     "scenarios.jungle_rock_island.jri_drown_the_pigeon.title": "Pigeon potápník",
     "scenarios.small_island.intro_reach_hill.title": "Přespolní jízda ostrovem",
-    "scenarios.utah.canyon_jump.title": "Skoky v kaňonu",
+    "scenarios.utah.canyon_jump.title": "Skoky v kaňonu",
     "scenarios.utah.canyon_jump.fail.msg": "Nezvládl jsi všechny skoky",
     "scenarios.utah.downhill_rally.description": "Vyzkoušej rally automobil ETK‑I na smíšené etapě napříč Utahem.",
-    "scenarios.utah.canyon_jump.pass.msg": "Gratuluji ti ke zvládnutí všech skoků!"
+    "scenarios.utah.canyon_jump.pass.msg": "Gratuluji ti ke zvládnutí všech skoků!",
+    "scenarios.utah.canyon_jump.description": "Dopadni vždy na všechny čtyři při zdolávání masivních skoků přes unikátní geologické útvary v Utahu. Posadíš se za volant terénní verze vozidla Gavril H15."
 }
