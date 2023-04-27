@@ -3056,5 +3056,12 @@
     "levels.hirochi_raceway.info.biome": "Mírný pás, les",
     "levels.hirochi_raceway.info.features": "Závodní komplex s několika okruhy, opuštěné úseky tratí",
     "levels.industrial.info.title": "Průmyslová oblast",
-    "levels.industrial.info.description": "Pobřežní oblast s průmyslovou zónou, několik malých závodních tratí a pole pro dovádění."
+    "levels.industrial.info.description": "Pobřežní oblast s průmyslovou zónou, několik malých závodních tratí a pole pro dovádění.",
+    "levels.hirochi_raceway.spawnpoints.spawn_parking": "Parkoviště",
+    "levels.hirochi_raceway.spawnpoints.spawn_pitlane": "Boxová ulička",
+    "levels.hirochi_raceway.spawnpoints.spawn_crawl": "Dráha pro jízdu přes kameny",
+    "levels.hirochi_raceway.spawnpoints.spawn_chicane": "Šikana",
+    "levels.hirochi_raceway.spawnpoints.spawn_paddock": "Padok",
+    "levels.hirochi_raceway.spawnpoints.spawn_figure8": "Ovál ve tvaru osmy",
+    "levels.industrial.info.suitablefor": "Časovky, závodění, driftování, demoliční derby"
 }
