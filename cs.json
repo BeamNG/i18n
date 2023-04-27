@@ -3017,5 +3017,14 @@
     "levels.cardealer.info.features": "prodejna vozidel",
     "levels.Cliff.info.description": "Mohutná hora vyčnívající z oceánu. Sraz z jejího vrcholu vozidlo a uvidíš, jak daleko spadne a jak moc se rozmlátí.",
     "levels.derby.info.suitablefor": "Demoliční derby",
-    "levels.dry_rock_island.info.description": "*Po dokončení bude nahrazeno aktualizovanou verzí, ostrovem Jungle Rock* Dlouhý opuštěný průmyslový ostrov."
+    "levels.dry_rock_island.info.description": "*Po dokončení bude nahrazeno aktualizovanou verzí, ostrovem Jungle Rock* Dlouhý opuštěný průmyslový ostrov.",
+    "levels.west_coast_usa.spawnpoints.highway": "Dálnice",
+    "levels.cardealer.info.biome": "mírný pás",
+    "levels.driver_training.spawnpoints.spawn_north": "Sever",
+    "levels.west_coast_usa.spawnpoints.chinatown": "Čínská čtvrť",
+    "levels.Cliff.info.title": "Útes",
+    "levels.Cliff.info.biome": "Mírný pás, ostrov, útesy",
+    "levels.derby.info.biome": "Mírný pás, travnaté plochy",
+    "levels.driver_training.biome": "Mírný pás, les",
+    "levels.driver_training.roads": "Asfalt, mokrý asfalt, speciální povrchy"
 }
