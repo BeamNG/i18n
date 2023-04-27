@@ -3030,7 +3030,7 @@
     "levels.derby.info.roads": "Nějaké hlinité cesty",
     "levels.driver_training.suitablefor": "Trénink řízení, testování vozidel",
     "levels.Cliff.info.roads": "Žádné",
-    "levels.west_coast_usa.info.roads": "90% dlažděné",
+    "levels.west_coast_usa.info.roads": "90% dlaždice",
     "levels.west_coast_usa.spawnpoints.dirttrack": "Hliněny závodní okruh",
     "levels.hirochi_raceway.info.roads": "70 % nový asfalt, 30 % zanedbaný asfalt",
     "levels.west_coast_usa.spawnpoints.racetrack": "Závodní okruh",
@@ -3049,5 +3049,9 @@
     "levels.groundmodeltest.info.suitablefor": "Testování různých úrovní trakce",
     "levels.west_coast_usa.spawnpoints.dragstrip": "Dráha pro sprinty",
     "levels.groundmodeltest.info.description": "Testy modelu povrchu, pro ABS atd",
-    "levels.hirochi_raceway.info.description": "Závodní dráha Hirochi je historická, ale revitalizovaná trať, nacházející se na východním pobřeží USA."
+    "levels.hirochi_raceway.info.description": "Závodní dráha Hirochi je historická, ale revitalizovaná trať, nacházející se na východním pobřeží USA.",
+    "levels.west_coast_usa.spawnpoints.dockyards": "Loděnice",
+    "levels.west_coast_usa.spawnpoints.redwood_forest": "Sekvojový les",
+    "levels.Gridmap.spawnpoints.spawn_oval": "Vysokorychlostní okruh",
+    "levels.hirochi_raceway.info.biome": "Mírný pás, les"
 }
