@@ -2847,9 +2847,14 @@
     "quickrace.west_coast_usa.race_track.title": "Dlouhý závodní okruh 1",
     "quickrace.west_coast_usa.race_track_short.title": "Krátký závodní okruh",
     "quickrace.west_coast_usa.race_track_chicane.title": "Dlouhý závodní okruh 2",
-    "quickrace.west_coast_usa.race_track_chicane.description": "Velká závodní dráha hned za městem, se zpomalujícím úsekem uprostřed roviny. Ideální pro pomalejší vozidla.",
+    "quickrace.west_coast_usa.race_track_chicane.description": "Velká závodní dráha hned za městem, se šikanou uprostřed dlouhé rovinky. Ideální pro pomalejší vozidla.",
     "quickrace.west_coast_usa.race_track.description": "Velká závodní trať hned za městem.",
     "quickrace.west_coast_usa.race_track_alternative.title": "Alternativní závodní okruh",
     "quickrace.west_coast_usa.race_track_short.description": "Velká závodní trať hned za městem, krátká verze.",
-    "quickrace.west_coast_usa.race_track_alternative.description": "Alternativní rozložení velké závodní tratě hned za městem."
+    "quickrace.west_coast_usa.race_track_alternative.description": "Alternativní rozložení velké závodní tratě hned za městem.",
+    "quickrace.west_coast_usa.mountain_race.title": "Horská trať",
+    "quickrace.west_coast_usa.mountain_race.description": "Projeď se po horských silnicích západního pobřeží USA.",
+    "quickrace.west_coast_usa.drag_race.title": "Dráha na sprinty",
+    "quickrace.west_coast_usa.drag_race.description": "Jak rychle dokážeš zvládnout čtvrt míle (400 metrů)?",
+    "quickrace.west_coast_usa.cell_tower.title": "Mezi dvěma vysílači"
 }
