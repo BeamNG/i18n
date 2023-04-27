@@ -70,10 +70,10 @@
     "levels.hirochi_raceway.info.suitablefor": "Závodění, driftování, časové zkoušky, trénink řízení",
     "levels.industrial.info.features": "Malé závodní tratě s různorodými povrchy, průmyslová zóna",
     "levels.industrial.spawnpoints.spawn_drift": "Driftovací dráha",
-    "levels.italy.info.biome": "Středozemský",
+    "levels.italy.info.biome": "Středozemí, ostrov",
     "levels.italy.info.title": "Itálie",
-    "levels.jungle_rock_island.info.biome": "tropické, džungle, ostrov",
-    "levels.jungle_rock_island.info.features": "Průmyslová zóna, přístav, strmé cesty po útesech, spící sopka",
+    "levels.jungle_rock_island.info.biome": "Tropy, džungle, ostrov",
+    "levels.jungle_rock_island.info.features": "Průmyslový areál, přístav, nečinná sopka, maják, observatoř",
     "levels.jungle_rock_island.info.title": "Jungle Rock Island",
     "levels.jungle_rock_island.spawnpoints.spawnsObservatory": "Observatoř",
     "levels.jungle_rock_island.spawnpoints.spawnsPeninsula": "Poloostrov",
@@ -3098,5 +3098,13 @@
     "levels.menu.info.biome": "mírný pás, les, pobřeží",
     "levels.italy.info.description": "Malý italský ostrov s překrásným pobřežím, vesnicemi a vinicemi.",
     "levels.italy.spawnpoints.town_east": "Fastello",
-    "levels.jungle_rock_island.spawnpoints.spawnsHangar": "Hangár"
+    "levels.jungle_rock_island.spawnpoints.spawnsHangar": "Hangár",
+    "levels.industrial.spawnpoints.spawn_docks": "Doky",
+    "levels.industrial.spawnpoints.spawn_tankfarm": "Tanková farma",
+    "levels.industrial.spawnpoints.spawn_port": "Přístav",
+    "levels.industrial.spawnpoints.spawn_containerland": "Skladiště kontejnerů",
+    "levels.italy.spawnpoints.village_mountain": "Città Vecchia",
+    "levels.italy.spawnpoints.city": "Norte",
+    "levels.port.info.roads": "Žádné",
+    "levels.jungle_rock_island.spawnpoints.spawnsIndustrial": "Průmyslový areál"
 }
