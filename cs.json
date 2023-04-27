@@ -3066,5 +3066,7 @@
     "levels.industrial.info.suitablefor": "Časové zkoušky, závodění, driftování, demoliční derby",
     "levels.hirochi_raceway.spawnpoints.spawn_startline": "Startovní čára",
     "levels.industrial.info.roads": "60% hrubý asfalt, 40% hlína",
-    "levels.industrial.info.biome": "Mírný pás, travnaté plochy, pobřeží"
+    "levels.industrial.info.biome": "Mírný pás, travnaté plochy, pobřeží",
+    "levels.industrial.spawnpoints.spawn_industrial1": "Západní průmyslová zóna",
+    "levels.industrial.spawnpoints.spawn_industrial2": "Otevřená průmyslová zóna"
 }
