@@ -2997,5 +2997,14 @@
     "campaigns.utah.chapter_1.cliffjump.title": "Skok z útesu",
     "campaigns.west_coast_usa.bus_minichapter.busdriver_stunt_follow.title": "Cesta k místu filmování",
     "ui.options.graphics.Ultra": "Ultra",
-    "ui.options.graphics.Lowest": "Nejnižší"
+    "ui.options.graphics.Lowest": "Nejnižší",
+    "levels.common.country.germany": "Německo",
+    "campaigns.utah.chapter_1.crawling.title": "Výstup",
+    "scenarios.utah.cinematic_chase.speed.msg": "Výborně! Tvůj čas: {{time}}",
+    "campaigns.west_coast_usa.bus_minichapter.busdriver_stunt_speed.title": "Úvod: Běžný pracovní den",
+    "levels.common.country.usa": "Spojené státy americké",
+    "levels.common.country.italy": "Itálie",
+    "levels.common.country.newzealand": "Nový Zéland",
+    "campaigns.utah.chapter_1.suspension.title": "Zavěšení",
+    "scenarios.utah.cinematic_chase.damage.msg": "Naboural jsi své vozidlo"
 }
