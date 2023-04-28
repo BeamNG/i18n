@@ -3197,5 +3197,6 @@
     "vehicle.drivetrain.deviceBroken": "rozbito",
     "vehicle.drivetrain.engineCatastrophicOverrevDamage": "Poškození z přetížení: Motor uzamčen",
     "vehicle.drivetrain.engineDamaged": "Motor je poškozen",
-    "vehicle.drivetrain.stalledAutoClutch": "Motor je vypnutý, stiskem [action=activateStarterMotor] jej spustíš"
+    "vehicle.drivetrain.stalledAutoClutch": "Motor je vypnutý, stiskem [action=activateStarterMotor] jej spustíš",
+    "vehicle.drivetrain.stalledStarting": "Motor je vypnutý, restartování..."
 }
