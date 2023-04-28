@@ -1523,7 +1523,7 @@
     "ui.options.traffic.trafficAllowMods": "Povolit vytváření módovaných vozidel",
     "ui.apps.vehicleDebug.breakAll": "Zničit všechny destrukční skupiny",
     "ui.debug.vehicle.tireContactPoint": "Ladění styčného bodu pneumatik",
-    "vehicle.bdebug.beamVisMode.breakgroups": "Destrukční skupiny",
+    "vehicle.bdebug.beamVisMode.breakgroups": "Rozbít skupiny",
     "ui.faq.getHelp.a": "Pokud máte s hrou problémy, můžete nás kontaktovat těmito způsoby: [br][br][url=http://www.beamng.com/forums/]Na fóru BeamNG.com[/url] [url=http://support.beamng.com/]Skrze e‑mailovou podporu[/url] [br] Budeme se Vás snažit kontaktovat co nejdříve to bude možné, vydržte ale prosím několik pracovních dnů",
     "ui.faq.getHelp.q": "Kde získám podporu?",
     "ui.debug.renderer.toggleFps": "Přepnout zobrazení FPS",
@@ -3218,5 +3218,6 @@
     "vehicle.engine.radiatorDamaged": "Chladič poškozen",
     "vehicle.bullettime.changeFast": "{{speed}}x rychlejší než skutečný čas",
     "vehicle.bdebug.nodeVisMode.velocities": "Rychlosti",
-    "vehicle.recovery.recovering": "Probíhá obnovení vozidla..."
+    "vehicle.recovery.recovering": "Probíhá obnovení vozidla...",
+    "vehicle.bdebug.beamVisMode.deformgroups": "Deformovat skupiny"
 }
