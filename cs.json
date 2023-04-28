@@ -2701,7 +2701,7 @@
     "ui.options.camera.frequentlyTV": "Často TV",
     "ui.options.camera.mostlyTV": "Hlavně TV",
     "ui.options.camera.alwaysTV": "Vždy TV",
-    "ui.options.other.motionSimMessage": "Zapněte, aby hra posílala data pohybové platformy",
+    "ui.options.other.motionSimMessage": "Zapněte, aby hra posílala data pohybové platformě",
     "ui.options.other.miscLua": "Různá lua",
     "0-60 mph": "0-60 mph",
     "ui.options.graphics.TripleMonitorFov": "Úhel pro více monitorů",
@@ -3787,5 +3787,18 @@
     "ui.apps.thumbnail_generator.Offsets": "Offsety",
     "ui.apps.threedexport.EmbedBuffers": "Vložit vyrovnávací paměť",
     "ui.apps.thumbnail_generator.LicenceText": "Text licence",
-    "ui.apps.threedexport.Normals": "Normály"
+    "ui.apps.threedexport.Normals": "Kolmice",
+    "ui.apps.threedexport.Tangents": "Tečny",
+    "ui.apps.threedexport.TexCoords": "Souřadnice textury",
+    "ui.options.camera.alwaysFan": "Stálý fanoušek",
+    "ui.options.camera.mostlyFan": "Většinou fanoušek",
+    "ui.options.other.interpolateAllAlt": "Interpolovat všechny alt",
+    "ui.options.other.useAlt": "^ použijte alt",
+    "ui.stats.pathAdvance": "Postup cesty",
+    "ui.inputActions.slowmotion.jumpBack.description": "Vyhledává přehrání dozadu v čase",
+    "ui.inputActions.vehicle.toggleTwoStep.title": "Přepnout logiku dvoufázového startu",
+    "ui.controls.filters.1": "Pad",
+    "ui.controls.filters.3": "Tlačítko (drift)",
+    "ui.controls.filters.0": "Tlačítko (záběr)",
+    "ui.apps.vehicleDebug.igniteNodeMin": "Lehce podpálit uzel"
 }
