@@ -3225,5 +3225,7 @@
     "vehicle.bdebug.beamVisMode": "Změněná vizualizace prutu: {{beamVisMode | translate}}",
     "vehicle.bdebug.nodeVisMode": "Změněna vizualizace uzlu: {{nodeVisMode | translate}}",
     "vehicle.bdebug.nodeTextMode.weights": "Hmotnosti",
-    "vehicle.bdebug.beamVisMode.type": "Typ"
+    "vehicle.bdebug.beamVisMode.type": "Typ",
+    "vehicle.bdebug.beamVisMode.stress": "Namáhání",
+    "vehicle.bdebug.beamVisMode.with broken": "S rozbitým"
 }
