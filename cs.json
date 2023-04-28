@@ -3193,7 +3193,7 @@
     "vehicle.drivetrain.cannotShiftSequential": "Právě se používá '{{shifterModeName | translate }}‘ režim chování převodovky (pro změnu použij [action=toggleShifterMode])",
     "vehicle.drivetrain.fuelLeaking": "Vytékání paliva",
     "vehicle.drivetrain.engineDried": "Motor byl vysušen",
-    "vehicle.drivetrain.engineMildOverrevDamage": "Poškození z přetížení: Ventilový rozvod poškozen",
+    "vehicle.drivetrain.engineMildOverrevDamage": "Poškození přepracováním: Ventilový rozvod poškozen",
     "vehicle.drivetrain.deviceBroken": "rozbito",
     "vehicle.drivetrain.engineCatastrophicOverrevDamage": "Poškození z přetížení: Motor uzamčen",
     "vehicle.drivetrain.engineDamaged": "Motor je poškozen",
