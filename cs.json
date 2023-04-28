@@ -717,7 +717,7 @@
     "vehicle.engine.headGasketDamaged": "Těsnění motorové hlavy poškozeno",
     "vehicle.engine.rodBearingsDamaged": "Ojniční ložiska poškozena",
     "vehicle.fire.fuelTankRuptured": "Palivová nádrž proražena",
-    "vehicle.main.instability": "Rozpoznána nestabilita vozidla {{vehicle}}: vozidlo se resetuje a vypíná se fyzika",
+    "vehicle.main.instability": "Byla rozpoznána nestabilita ve vozidle '{{vehicle}}‘. Simulace byla preventivně pozastavena",
     "vehicle.recovery.end": "Vozidlo bylo obnoveno (již se nelze vrátit dále)",
     "vehicle.recovery.loadHome": "Vozidlo navráceno do domovského umístění",
     "vehicle.recovery.quick": "Vozidlo bylo obnoveno (podržením se vráť dále)",
@@ -2577,7 +2577,7 @@
     "vehicle.bdebug.nodeTextMode.numbers": "Čísla",
     "vehicle.bdebug.nodeTextMode.materials": "Materiály",
     "vehicle.bdebug.beamVisMode.deformation": "Deformace",
-    "vehicle.turbocharger.overheating": "Turbo se přehřívá",
+    "vehicle.turbocharger.overheating": "Přehřívání turba",
     "scenarios.jungle_rock_island.jri_moose.description": "Klasický test nouzové změny jízdního pruhu, který byl navržen pro demonstraci stability ovládání vozidel. Pro tento test ti svěříme vozidlo Hirochi Sunburst RS",
     "scenarios.jungle_rock_island.jri_moose.damage.msg": "Poškodil jsi své vozidlo",
     "scenarios.jungle_rock_island.bus_safari.title": "Autobusové safari",
@@ -3228,5 +3228,6 @@
     "vehicle.bdebug.beamVisMode.type": "Typ",
     "vehicle.bdebug.beamVisMode.stress": "Namáhání",
     "vehicle.bdebug.beamVisMode.with broken": "S rozbitým",
-    "vehicle.bdebug.beamVisMode.broken only": "Pouze rozbité"
+    "vehicle.bdebug.beamVisMode.broken only": "Pouze rozbité",
+    "vehicle.core.spawnError": "Toto je často způsobeno nefunkčními mody nebo poškozenými základními soubory. Prosím zkuste použít Nouzový režim: [url=https://documentation.beamng.com/support/support_tools/safe_mode.html][Kliknutím zde získáte instrukce ke spuštění Nouzového režimu][/url] Pokud problém přetrvává, proveďte čistou instalaci: [url=https://documentation.beamng.com/support/support_tools/clean_install.html][Kliknutím ude získáte instrukce k provedení čisté instalace][/url]"
 }
