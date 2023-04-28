@@ -705,7 +705,7 @@
     "vehicle.bdebug.trisOff": "Vykreslování kolizních trojúhelníků vypnuto",
     "vehicle.bdebug.trisOn": "Zobrazení trojúhelníků kolizního systému zapnuto",
     "vehicle.beamstate.beamBroke": "Prut {{id}} praskl: {{id1name}} [{{id1}}] -> {{id2name}} [{{id2}}]",
-    "vehicle.beamstate.tireDeflated": "{{wheelName | translate}} je prázdné",
+    "vehicle.beamstate.tireDeflated": "{{wheelName | translate}} pneumatika je vypuštěná",
     "vehicle.bullettime.change": "{{slowmoTimes}} krát pomalejší než reálný čas",
     "vehicle.bullettime.realtime": "Reálný čas",
     "vehicle.drivetrain.engineDrying": "Voda v motoru vysychá ({{percent}}%)",
@@ -3195,10 +3195,11 @@
     "vehicle.drivetrain.engineDried": "Motor byl vysušen",
     "vehicle.drivetrain.engineMildOverrevDamage": "Poškození přepracováním: Ventilový rozvod poškozen",
     "vehicle.drivetrain.deviceBroken": "rozbito",
-    "vehicle.drivetrain.engineCatastrophicOverrevDamage": "Poškození z přetížení: Motor uzamčen",
+    "vehicle.drivetrain.engineCatastrophicOverrevDamage": "Poškození přepracováním: Motor uzamčen",
     "vehicle.drivetrain.engineDamaged": "Motor je poškozen",
     "vehicle.drivetrain.stalledAutoClutch": "Motor je vypnutý, stiskem [action=activateStarterMotor] jej spustíš",
     "vehicle.drivetrain.stalledStarting": "Motor je vypnutý, restartování...",
     "vehicle.drivetrain.axleBroken": "{{axleName}} náprava byla rozbita",
-    "vehicle.drivetrain.driveshaftBroken": "Hnací hřídel byla rozbita"
+    "vehicle.drivetrain.driveshaftBroken": "Hnací hřídel byla rozbita",
+    "vehicle.drivetrain.engineCatastrophicOverTorqueDamage": "Poškození přetáčením: Motor trvale poškozen"
 }
