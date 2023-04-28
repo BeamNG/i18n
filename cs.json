@@ -3671,5 +3671,6 @@
     "ui.inputActions.large_hamster_wheel.detach.description": "Odpojuje velké kolo od jeho základny",
     "ui.inputActions.large_spinner.toggle_direction.description": "Přepnout mezi směrem hodinových ručiček a proti směru",
     "ui.inputActions.pickup.tiltUp.description": "Nakloní korbu nahoru",
-    "ui.inputActions.pickup.tiltUp.title": "Naklonit korbu nahoru"
+    "ui.inputActions.pickup.tiltUp.title": "Naklonit korbu nahoru",
+    "ui.inputActions.pigeon.toggle_tailgate.description": "Otevře/zavře dveře nákladového prostoru"
 }
