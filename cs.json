@@ -712,7 +712,7 @@
     "vehicle.drivetrain.engineFlooding": "Do motoru se dostává voda ({{percent}}%)",
     "vehicle.drivetrain.engineHydrolocked": "Motor zaplaven",
     "vehicle.drivetrain.shifterModeNameArcade": "Arkádový",
-    "vehicle.drivetrain.stalled": "Motor je vypnut, pro nastartování podržte [action=clutch] a [action=activateStarterMotor]",
+    "vehicle.drivetrain.stalled": "Motor je vypnutý. Pro jeho nastartování přidrž [action=clutch] a stiskni [action=activateStarterMotor]",
     "vehicle.drivetrain.usingHshifter": "Bylo použito H-řazení. Přepíná se chování převodovky...",
     "vehicle.engine.headGasketDamaged": "Těsnění pod hlavou poškozeno",
     "vehicle.engine.rodBearingsDamaged": "Ojniční ložiska jsou poškozena",
@@ -3190,5 +3190,12 @@
     "levels.smallgrid_soundtest.info.biome": "Virtuální realita",
     "levels.smallgrid_soundtest.info.description": "Pouhá mřížka kam až oko dohlédne",
     "vehicle.drivetrain.cannotShiftAuto": "S touto převodovkou nelze přeřadit na režim ‚{{mode}}‘",
-    "vehicle.drivetrain.cannotShiftSequential": "Právě se používá ‚{{shifterModeName | translate }}‘ režim chování převodovky (pro změnu použij [action=toggleShifterMode])"
+    "vehicle.drivetrain.cannotShiftSequential": "Právě se používá '{{shifterModeName | translate }}‘ režim chování převodovky (pro změnu použij [action=toggleShifterMode])",
+    "vehicle.drivetrain.fuelLeaking": "Vytékání paliva",
+    "vehicle.drivetrain.engineDried": "Motor byl vysušen",
+    "vehicle.drivetrain.engineMildOverrevDamage": "Poškození z přetížení: Ventilový rozvod poškozen",
+    "vehicle.drivetrain.deviceBroken": "rozbito",
+    "vehicle.drivetrain.engineCatastrophicOverrevDamage": "Poškození z přetížení: Motor uzamčen",
+    "vehicle.drivetrain.engineDamaged": "Motor je poškozen",
+    "vehicle.drivetrain.stalledAutoClutch": "Motor je vypnutý, stiskem [action=activateStarterMotor] jej spustíš"
 }
