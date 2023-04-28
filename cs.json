@@ -3742,5 +3742,6 @@
     "ui.campaign.failed": "Neúspěch",
     "ui.inputActions.van.toggle_doorL.description": "Otevírá/zavírá levé dveře nákladního prostoru",
     "ui.inputActions.van.extend.description": "Vysunuje korbu dozadu",
-    "ui.campaign.photoSafari": "Fotografické safari"
+    "ui.campaign.photoSafari": "Fotografické safari",
+    "ui.apps.brake_thermal_debug.energyRadiationToAir": "Energie záření do vzduchu"
 }
