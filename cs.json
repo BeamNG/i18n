@@ -3785,5 +3785,7 @@
     "ui.apps.shift_decision_debug.WheelslipDown": "Snížení prokluzování kol",
     "ui.apps.shift_decision_debug.WheelslipUp": "Zvýšení prokluzování kol",
     "ui.apps.thumbnail_generator.Offsets": "Offsety",
-    "ui.apps.threedexport.EmbedBuffers": "Vložit vyrovnávací paměť"
+    "ui.apps.threedexport.EmbedBuffers": "Vložit vyrovnávací paměť",
+    "ui.apps.thumbnail_generator.LicenceText": "Text licence",
+    "ui.apps.threedexport.Normals": "Normály"
 }
