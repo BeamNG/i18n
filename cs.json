@@ -3744,5 +3744,18 @@
     "ui.inputActions.van.extend.description": "Vysunuje korbu dozadu",
     "ui.campaign.photoSafari": "Fotografické safari",
     "ui.apps.brake_thermal_debug.energyRadiationToAir": "Energie záření do vzduchu",
-    "ui.apps.digSpeedo.wheelspeed": "Rychlost kol"
+    "ui.apps.digSpeedo.wheelspeed": "Rychlost kol",
+    "ui.apps.engine_thermal_debug.qtocylinderwall": "Q k stěně válců",
+    "ui.apps.engine_thermal_debug.qcylinderwalltocoolant": "Q ze stěn válců k chladicí kapalině",
+    "ui.apps.engine_thermal_debug.qcoolanttoair": "Q z chladicí kapaliny do vzduchu",
+    "ui.apps.engine_thermal_debug.qcoolanttoblock": "Q z chladicí kapaliny do bloku motoru",
+    "ui.apps.engine_thermal_debug.qcylinderwalltoblock": "Q ze stěn válců do bloku motoru",
+    "ui.apps.engine_thermal_debug.qblocktoair": "Q z bloku motoru do vzduchu",
+    "ui.apps.engine_thermal_debug.qtooil": "Q do oleje",
+    "ui.apps.engine_thermal_debug.qcylinderwalltooil": "Q ze stěn válců do oleje",
+    "ui.apps.engine_thermal_debug.qoilradiatortoair": "Q z radiátoru do vzduchu",
+    "ui.apps.engine_thermal_debug.qoilsumptoair": "Q z olejové vany do vzduchu",
+    "ui.apps.engine_thermal_debug.qtoexhaust": "Q do výfuku",
+    "ui.apps.engine_thermal_debug.qexhausttoair": "Q z výfuku do vzduchu",
+    "ui.apps.ffb_graph.Atdriver": "Na řidiče"
 }
