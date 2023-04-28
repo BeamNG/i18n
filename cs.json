@@ -82,7 +82,7 @@
     "levels.small_island.info.biome": "Mírný pás, ostrov",
     "levels.small_island.info.description": "Tento malý ostrov nedaleko břehů Kalifornie sice nemá příliš mnoho infrastruktury, zato ale má velmi zábavnou pobřežní silnici vinoucí se kolem dokola a spoustu otevřeného terénu k prozkoumání!",
     "levels.small_island.info.title": "Small Island, USA",
-    "levels.smallgrid.info.description": "Pouhá mřížka kam oko dohlédne",
+    "levels.smallgrid.info.description": "Pouhá mřížka kam až oko dohlédne.",
     "levels.smallgrid_aitest.info.roads": "Žádné",
     "levels.smallgrid_lightstest.info.title": "Mřížka, Malé, Test osvětlení",
     "levels.smallgrid_tiretest.info.description": "Hroty na probodávání pneumatik",
@@ -3141,5 +3141,12 @@
     "quickrace.derby.theBigEight.description": "Rychlá trať s klopenými zatáčkami a 2 masivními skoky. Doporučená nájezdová rychlost na skoky je 100 km/h. Na tuto trať je doporučeno vybrat výkonná vozidla s měkkým zavěšením.",
     "levels.smallgrid.info.biome": "Virtuální realita",
     "scenarios.derby.fg-soccer.description": "Zahraj si v tomto scénáři hry pro více hráčů partičku fotbálku proti svému kamarádovi!",
-    "quickrace.italy.throughTheCentre.description": "Hbitá trať skrz centrum města Norte. Doporučujeme obratnost a vyhnout se nízkopodlažním vozidlům."
+    "quickrace.italy.throughTheCentre.description": "Hbitá trať skrz centrum města Norte. Doporučujeme obratnost a vyhnout se nízkopodlažním vozidlům.",
+    "levels.small_island.spawnpoints.spawn_south": "Jižní silnice",
+    "quickrace.derby.ovalTrack.description": "Jednoduchý hlinitý ovál.",
+    "scenarios.derby.fg-soccer.title": "Fotbal",
+    "levels.small_island.spawnpoints.spawn_north": "Severní silnice",
+    "quickrace.derby.theBigEight.title": "Velká osma",
+    "quickrace.derby.ovalTrack.title": "Hlinitý ovál",
+    "levels.smallgrid.info.roads": "Žádné"
 }
