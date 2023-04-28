@@ -3212,5 +3212,10 @@
     "vehicle.engine.coolantOverheating": "Přehřívání chladící kapaliny",
     "vehicle.bullettime.slowmotion": "Zpomalení času aktivováno",
     "vehicle.bdebug.cogMode": "Změněn režim těžiště: {{cogMode | translate}}",
-    "vehicle.bdebug.clear": "Výkres ladění vymazán"
+    "vehicle.bdebug.clear": "Výkres ladění vymazán",
+    "vehicle.bdebug.nodeVisMode.simple": "Jednoduché",
+    "vehicle.bullettime.changeSlow": "{{slowmoTimes}}x pomalejší než skutečný čas",
+    "vehicle.engine.radiatorDamaged": "Chladič poškozen",
+    "vehicle.bullettime.changeFast": "{{speed}}x rychlejší než skutečný čas",
+    "vehicle.bdebug.nodeVisMode.velocities": "Rychlosti"
 }
