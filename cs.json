@@ -3757,7 +3757,7 @@
     "ui.apps.engine_thermal_debug.qoilsumptoair": "Q z olejové vany do vzduchu",
     "ui.apps.engine_thermal_debug.qtoexhaust": "Q do výfuku",
     "ui.apps.engine_thermal_debug.qexhausttoair": "Q z výfuku do vzduchu",
-    "ui.apps.ffb_graph.Atdriver": "Na řidiče",
+    "ui.apps.ffb_graph.Atdriver": "U řidiče",
     "ui.mainMenu.bus.strictStops": "Přesné zastávky",
     "ui.inputActions.testroller.rampDown.description": "Sníží rampu",
     "ui.inputActions.testroller.rampDown.title": "Snížit rampu",
@@ -3780,5 +3780,10 @@
     "ui.campaign.rewards": "odměny",
     "ui.campaign.description": "popis",
     "ui.campaign.moreInfo": "Více informací",
-    "ui.inputActions.van.tiltUp.title": "Naklonit korbu nahoru"
+    "ui.inputActions.van.tiltUp.title": "Naklonit korbu nahoru",
+    "ui.apps.ffb_graph.Atwheel": "U kola",
+    "ui.apps.shift_decision_debug.WheelslipDown": "Snížení prokluzování kol",
+    "ui.apps.shift_decision_debug.WheelslipUp": "Zvýšení prokluzování kol",
+    "ui.apps.thumbnail_generator.Offsets": "Offsety",
+    "ui.apps.threedexport.EmbedBuffers": "Vložit vyrovnávací paměť"
 }
