@@ -3137,5 +3137,9 @@
     "quickrace.italy.mixedCircuit1.title": "Smíšený okruh",
     "quickrace.italy.throughTheCentre.title": "Skrz centrum",
     "campaigns.utah.chapter_1.summaryMessage": "Dokončil jsi první kapitolu, zde se můžeš podívat na svůj výkon v porovnání s ostatními hráči v komunitě",
-    "scenarios.derby.fg-soccer.intro": "Vítáme tě ve fotbale Beam.NG!br><br>Tvým úkolem je dotlačit balón do brány tvého protihráče častěji, než to udělá on.<br>Své vozidlo můžeš kdykoliv bez postihu obnovit.<br>Není zde žádný bodový limit. Hrajte si, jak dlouho budete chtít!<br><br>Bavte se!"
+    "scenarios.derby.fg-soccer.intro": "Vítáme tě ve fotbale Beam.NG!br><br>Tvým úkolem je dotlačit balón do brány tvého protihráče častěji, než to zvládne on.<br>Své vozidlo můžeš kdykoliv bez postihu obnovit.<br>Není zde žádný bodový limit. Hrajte si, jak dlouho budete chtít!<br><br>Bavte se!",
+    "quickrace.derby.theBigEight.description": "Rychlá trať s klopenými zatáčkami a 2 masivními skoky. Doporučená nájezdová rychlost na skoky je 100 km/h. Na tuto trať je doporučeno vybrat výkonná vozidla s měkkým zavěšením.",
+    "levels.smallgrid.info.biome": "Virtuální realita",
+    "scenarios.derby.fg-soccer.description": "Zahraj si v tomto scénáři hry pro více hráčů partičku fotbálku proti svému kamarádovi!",
+    "quickrace.italy.throughTheCentre.description": "Hbitá trať skrz centrum města Norte. Doporučujeme obratnost a vyhnout se nízkopodlažním vozidlům."
 }
