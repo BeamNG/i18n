@@ -3148,5 +3148,8 @@
     "levels.small_island.spawnpoints.spawn_north": "Severní silnice",
     "quickrace.derby.theBigEight.title": "Velká osma",
     "quickrace.derby.ovalTrack.title": "Hlinitý ovál",
-    "levels.smallgrid.info.roads": "Žádné"
+    "levels.smallgrid.info.roads": "Žádné",
+    "levels.small_island.spawnpoints.spawn_industrial": "Průmyslová zóna",
+    "levels.smallgrid_aitest.info.title": "Mřížka, malá, test AI",
+    "levels.smallgrid.info.title": "Mřížka, malá, čistá"
 }
