@@ -3673,7 +3673,7 @@
     "ui.inputActions.pickup.tiltUp.description": "Nakloní korbu nahoru",
     "ui.inputActions.pickup.tiltUp.title": "Naklonit korbu nahoru",
     "ui.inputActions.pigeon.toggle_tailgate.description": "Otevře/zavře dveře nákladového prostoru",
-    "ui.inputActions.semi.toggle_doorR.title": "Pravé nákladové dveře",
+    "ui.inputActions.semi.toggle_doorR.title": "Pravé dveře nákladního prostoru",
     "ui.inputActions.rollover.decrease_angle.description": "Snižuje úhel saní",
     "ui.inputActions.rollover.decrease_angle.title": "Snížit úhel saní",
     "ui.inputActions.rollover.increase_angle.description": "Zvyšuje úhel saní",
@@ -3691,8 +3691,8 @@
     "ui.inputActions.semi.tiltDown.title": "Naklonit dolů",
     "ui.inputActions.semi.tiltUp.description": "Nakloní korbu nahoru",
     "ui.inputActions.semi.tiltUp.title": "Naklonit nahoru",
-    "ui.inputActions.semi.toggle_doorL.description": "Otevírá/zavírá levé nákladové dveře",
-    "ui.inputActions.semi.toggle_doorL.title": "Levé nákladové dveře",
+    "ui.inputActions.semi.toggle_doorL.description": "Otevře/zavře levé dveře nákladního prostoru",
+    "ui.inputActions.semi.toggle_doorL.title": "Levé dveře nákladního prostoru",
     "ui.inputActions.semi.toggle_doorR.description": "Otevírá/zavírá levé nákladové dveře",
     "ui.inputActions.semi.toggle_doors.description": "Otevírá/zavírá oboje dveře nákladního prostoru",
     "ui.inputActions.semi.decrease_rideHeight.title": "Snížit světlou výšku",
@@ -3702,5 +3702,9 @@
     "ui.inputActions.semi.tilt.title": "Naklonit nahoru/dolů",
     "ui.inputActions.semi.toggle_discharge_chute.description": "Otevře/zavře zadní cementovou vypouštěcí skluz",
     "ui.inputActions.semi.toggle_discharge_chute.title": "Vypouštěcí skluz",
-    "ui.inputActions.semi.toggle_doors.title": "Dveře nákladního prostoru"
+    "ui.inputActions.semi.toggle_doors.title": "Dveře nákladního prostoru",
+    "ui.inputActions.shipping_container.toggle_doorL.title": "Levé dveře",
+    "ui.inputActions.shipping_container.toggle_doorR.title": "Pravé dveře",
+    "ui.inputActions.shipping_container.toggle_doors.title": "Dveře kontejneru",
+    "ui.inputActions.tanker.toggle_doorL.title": "Levé dveře nákladního prostoru"
 }
