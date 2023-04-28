@@ -3227,5 +3227,6 @@
     "vehicle.bdebug.nodeTextMode.weights": "Hmotnosti",
     "vehicle.bdebug.beamVisMode.type": "Typ",
     "vehicle.bdebug.beamVisMode.stress": "Namáhání",
-    "vehicle.bdebug.beamVisMode.with broken": "S rozbitým"
+    "vehicle.bdebug.beamVisMode.with broken": "S rozbitým",
+    "vehicle.bdebug.beamVisMode.broken only": "Pouze rozbité"
 }
