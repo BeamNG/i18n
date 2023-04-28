@@ -3178,7 +3178,7 @@
     "levels.template.info.description": "prázdné",
     "levels.glow_city.info.title": "Zářivé město",
     "levels.glow_city.info.suitablefor": "Stavba tratě",
-    "vehicle.drivetrain.shifterModeChanged": "Režim převodovky dočasně změněn na '{{shifterModeName | translate}}‘ chování. <br>Obnoví se při změně vozidla.",
+    "vehicle.drivetrain.shifterModeChanged": "Režim převodovky dočasně změněn na '{{shifterModeName | translate}}‘ režim chování. <br>Obnoví se při změně vozidla.",
     "levels.smallgrid_aitest.info.biome": "Virtuální realita",
     "levels.smallgrid_tiretest.info.biome": "Virtuální realita",
     "levels.utah.info.suitablefor": "Výstup po skalách, objevování, projížďky, časové zkoušky, dovoz, honičky",
