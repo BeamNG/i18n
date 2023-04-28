@@ -3658,7 +3658,7 @@
     "ui.inputActions.pickup.extendFeet.title": "Prodloužit nohu",
     "ui.inputActions.pickup.retractFeet.description": "Zatahuje opěrnou nohu korby",
     "ui.inputActions.pickup.retractFeet.title": "Zatáhnout nohu",
-    "ui.inputActions.pigeon.toggle_tailgate.title": "Zadní dveře",
+    "ui.inputActions.pigeon.toggle_tailgate.title": "Dveře nákladového prostoru",
     "ui.inputActions.boxutility_large.toggle_feet.title": "Zvedák přívěsu",
     "ui.inputActions.cannon.liftUp.description": "Zvedá hlaveň",
     "ui.inputActions.cannon.shoot.description": "Vystřelí dělovou kouli. Před další střelou bude třeba dělo znovu nabít",
@@ -3695,5 +3695,7 @@
     "ui.inputActions.semi.toggle_doorL.title": "Levé nákladové dveře",
     "ui.inputActions.semi.toggle_doorR.description": "Otevírá/zavírá levé nákladové dveře",
     "ui.inputActions.semi.toggle_doors.description": "Otevírá/zavírá oboje dveře nákladního prostoru",
-    "ui.inputActions.semi.decrease_rideHeight.title": "Snížit světlou výšku"
+    "ui.inputActions.semi.decrease_rideHeight.title": "Snížit světlou výšku",
+    "ui.inputActions.rollover.cycle.description": "Zahájí test",
+    "ui.inputActions.rollover.cycle.title": "Zahájit test"
 }
