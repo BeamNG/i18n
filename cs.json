@@ -3207,5 +3207,6 @@
     "vehicle.engine.oilOverheating": "Přehřívání oleje",
     "vehicle.engine.blockMelted": "Blok motoru roztaven",
     "vehicle.beamstate.beamDeformed": "Prut {{id}} byl právě zdeformován: {{id1name}} [{{id1}}]  ->  {{id2name}} [{{id2}}]",
-    "vehicle.engine.starvedOfOil": "Do motoru se nedostává olej"
+    "vehicle.engine.starvedOfOil": "Do motoru se nedostává olej",
+    "vehicle.engine.cylinderWallsMelted": "Stěny válce roztaveny"
 }
