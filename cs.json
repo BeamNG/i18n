@@ -3217,5 +3217,6 @@
     "vehicle.bullettime.changeSlow": "{{slowmoTimes}}x pomalejší než skutečný čas",
     "vehicle.engine.radiatorDamaged": "Chladič poškozen",
     "vehicle.bullettime.changeFast": "{{speed}}x rychlejší než skutečný čas",
-    "vehicle.bdebug.nodeVisMode.velocities": "Rychlosti"
+    "vehicle.bdebug.nodeVisMode.velocities": "Rychlosti",
+    "vehicle.recovery.recovering": "Probíhá obnovení vozidla..."
 }
