@@ -3189,5 +3189,6 @@
     "levels.smallgrid_lightstest.info.biome": "Virtuální realita",
     "levels.smallgrid_soundtest.info.biome": "Virtuální realita",
     "levels.smallgrid_soundtest.info.description": "Pouhá mřížka kam až oko dohlédne",
-    "vehicle.drivetrain.cannotShiftAuto": "S touto převodovkou nelze přeřadit na režim ‚{{mode}}‘"
+    "vehicle.drivetrain.cannotShiftAuto": "S touto převodovkou nelze přeřadit na režim ‚{{mode}}‘",
+    "vehicle.drivetrain.cannotShiftSequential": "Právě se používá ‚{{shifterModeName | translate }}‘ režim chování převodovky (pro změnu použij [action=toggleShifterMode])"
 }
