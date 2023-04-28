@@ -3801,5 +3801,6 @@
     "ui.controls.filters.3": "Tlačítko (drift)",
     "ui.controls.filters.0": "Tlačítko (záběr)",
     "ui.apps.vehicleDebug.igniteNodeMin": "Lehce podpálit uzel",
-    "ui.options.camera.frequentlyFan": "Častý fanoušek"
+    "ui.options.camera.frequentlyFan": "Častý fanoušek",
+    "ui.inputActions.large_cannon.shoot.title": "Střílet"
 }
