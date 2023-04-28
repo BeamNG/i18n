@@ -3160,5 +3160,19 @@
     "levels.glow_city.info.roads": "Žádné",
     "vehicle.drivetrain.shifterModeNameUnknown": "Neznámý režim řazení",
     "levels.utah.spawnpoints.tourist": "Turistická oblast",
-    "levels.smallgrid_lightstest.info.roads": "Žádné"
+    "levels.smallgrid_lightstest.info.roads": "Žádné",
+    "levels.utah.info.roads": "55% asfalt, 45% hlína",
+    "levels.utah_offroad_park.info.description": "Test hloubky terénu",
+    "levels.smallgrid_soundtest.info.title": "Test zvuku malé mřížky",
+    "levels.utah_offroad_park.info.features": "hlína",
+    "levels.the_void.info.features": "...",
+    "levels.smallgrid_lightstest.info.description": "Terén pro testování osvětlení",
+    "levels.utah.info.biome": "Poušť, kaňon, mesa",
+    "levels.glow_city.info.biome": "Město",
+    "levels.glow_city.info.features": "Město",
+    "levels.utah_offroad_park.info.roads": "100% hlína",
+    "levels.smallgrid_tiretest.info.title": "Mřížka pro testování pneumatik",
+    "levels.template.info.title": "template_map",
+    "levels.the_void.info.description": "Prázdno",
+    "levels.the_void.info.biome": "..."
 }
