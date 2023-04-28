@@ -3229,5 +3229,5 @@
     "vehicle.bdebug.beamVisMode.stress": "Namáhání",
     "vehicle.bdebug.beamVisMode.with broken": "S rozbitým",
     "vehicle.bdebug.beamVisMode.broken only": "Pouze rozbité",
-    "vehicle.core.spawnError": "Toto je často způsobeno nefunkčními mody nebo poškozenými základními soubory. Prosím zkuste použít Nouzový režim: [url=https://documentation.beamng.com/support/support_tools/safe_mode.html][Kliknutím zde získáte instrukce ke spuštění Nouzového režimu][/url] Pokud problém přetrvává, proveďte čistou instalaci: [url=https://documentation.beamng.com/support/support_tools/clean_install.html][Kliknutím ude získáte instrukce k provedení čisté instalace][/url]"
+    "vehicle.core.spawnError": "Toto je často způsobeno nefunkčními mody nebo poškozenými základními soubory. Zkuste to ještě v Nouzovém režimu: [url=https://documentation.beamng.com/support/support_tools/safe_mode.html][Kliknutím sem získáte instrukce ke spuštění Nouzového režimu][/url] Pokud problém přetrvává, proveďte Čistou instalaci: [url=https://documentation.beamng.com/support/support_tools/clean_install.html][Kliknutím sem získáte instrukce k provedení Čisté instalace][/url]"
 }
