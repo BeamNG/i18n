@@ -3201,5 +3201,6 @@
     "vehicle.drivetrain.stalledStarting": "Motor je vypnutý, restartování...",
     "vehicle.drivetrain.axleBroken": "{{axleName}} náprava byla rozbita",
     "vehicle.drivetrain.driveshaftBroken": "Hnací hřídel byla rozbita",
-    "vehicle.drivetrain.engineCatastrophicOverTorqueDamage": "Poškození přetáčením: Motor trvale poškozen"
+    "vehicle.drivetrain.engineCatastrophicOverTorqueDamage": "Poškození přetáčením: Motor trvale poškozen",
+    "vehicle.drivetrain.exhaustDamaged": "Výfuk poškozen"
 }
