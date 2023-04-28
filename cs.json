@@ -3544,5 +3544,8 @@
     "ui.inputActions.vehicle.decrease_cc_speed.description": "Sníží cílovou rychlost tempomatu o 1km/h",
     "ui.inputActions.vehicle.gear2.description": "Vybere druhý převodový stupeň",
     "ui.inputActions.vehicle.gear5.description": "Vybere pátý převodový stupeň",
-    "ui.inputActions.vehicle.gear8.description": "Vybere osmý převodový stupeň"
+    "ui.inputActions.vehicle.gear8.description": "Vybere osmý převodový stupeň",
+    "ui.inputActions.general.doBigScreenShot.description": "Pořídí a uloží snímek obrazovky ve vysokém rozlišení",
+    "ui.inputActions.general.doScreenShot.title": "Pořídit snímek obrazovky",
+    "ui.inputActions.general.doHugeScreenShot.title": "Pořídit obrovský snímek obrazovky"
 }
