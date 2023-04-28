@@ -3800,5 +3800,6 @@
     "ui.controls.filters.1": "Pad",
     "ui.controls.filters.3": "Tlačítko (drift)",
     "ui.controls.filters.0": "Tlačítko (záběr)",
-    "ui.apps.vehicleDebug.igniteNodeMin": "Lehce podpálit uzel"
+    "ui.apps.vehicleDebug.igniteNodeMin": "Lehce podpálit uzel",
+    "ui.options.camera.frequentlyFan": "Častý fanoušek"
 }
