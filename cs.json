@@ -3188,5 +3188,6 @@
     "levels.smallgrid_aitest.info.description": "Terén pro testování umělé inteligence",
     "levels.smallgrid_lightstest.info.biome": "Virtuální realita",
     "levels.smallgrid_soundtest.info.biome": "Virtuální realita",
-    "levels.smallgrid_soundtest.info.description": "Pouhá mřížka kam až oko dohlédne"
+    "levels.smallgrid_soundtest.info.description": "Pouhá mřížka kam až oko dohlédne",
+    "vehicle.drivetrain.cannotShiftAuto": "S touto převodovkou nelze přepnout na režim ‚{{mode}}‘"
 }
