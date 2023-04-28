@@ -3130,5 +3130,11 @@
     "quickrace.italy.port_autocross.description": "Těsný a úzky autokros skrz přeplněný přístav",
     "quickrace.italy.mixedHillclimb1.title": "Smíšený výstup",
     "quickrace.italy.mixedCircuit1.description": "Tento 4,4 km dlouhý okruh táhnoucí se kolem italských polí a řeky je tvořen z 50% šotolinou a z 50% asfaltem.",
-    "campaigns.utah.chapter_1.summaryHeading": "Gratulace!"
+    "campaigns.utah.chapter_1.summaryHeading": "Gratulace!",
+    "quickrace.italy.highway1.title": "Dálnice",
+    "quickrace.italy.highway1.description": "Rychlá čtyřproudová silnice na místní dálnici. Ideální pro rychlá vozidla.",
+    "quickrace.italy.islandTour1.title": "Projížďka po ostrově",
+    "quickrace.italy.mixedCircuit1.title": "Smíšený okruh",
+    "quickrace.italy.throughTheCentre.title": "Skrz centrum",
+    "campaigns.utah.chapter_1.summaryMessage": "Dokončil jsi první kapitolu, zde se můžeš podívat na svůj výkon porovnaný s ostatními hráči v komunitě."
 }
