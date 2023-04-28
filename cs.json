@@ -3547,5 +3547,16 @@
     "ui.inputActions.vehicle.gear8.description": "Vybere osmý převodový stupeň",
     "ui.inputActions.general.doBigScreenShot.description": "Pořídí a uloží snímek obrazovky ve vysokém rozlišení",
     "ui.inputActions.general.doScreenShot.title": "Pořídit snímek obrazovky",
-    "ui.inputActions.general.doHugeScreenShot.title": "Pořídit obrovský snímek obrazovky"
+    "ui.inputActions.general.doHugeScreenShot.title": "Pořídit obrovský snímek obrazovky",
+    "ui.dragrace.Decline": "Odmítnout",
+    "ui.mission.type.chase": "Honička",
+    "ui.mission.type.custom": "Vlastní",
+    "ui.mission.type.delivery": "Dovoz",
+    "ui.mission.type.race": "Závod",
+    "ui.options.controls.bindings.Vehicle": "Vozidlo",
+    "ui.options.controls.bindings.General": "Obecné",
+    "ui.options.controls.bindings.Camera": "Kamera",
+    "ui.options.controls.bindings.SlowMotion": "Zpomalení času",
+    "ui.options.controls.bindings.Editor": "Editor",
+    "ui.dragrace.Accept": "Přijmout"
 }
