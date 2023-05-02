@@ -26,7 +26,7 @@
     "campaigns.utah.chapter_2.summaryHeading": "Gratulácia!",
     "campaigns.utah.chapter_2.summaryMessage": "Výborne! Teraz si pripravený pokračovať do ďalšej kapitoly",
     "campaigns.utah.chapter_2.title": "Kamenistý začiatok",
-    "engine.cef.subprocessdied.msg": "Proces používateľského rozhrania neodpovedal včas.\nMôže to byť spôsobené antivírusovým programom, ktorý blokuje aplikáciu BeamNG.drive.ui.exe.\n\nViac informácií nájdete tu:\n\nhttp://wiki.beamng.com/Errors/Unresponsive_UI_Process\n\nChcete teraz prejsť na túto adresu?",
+    "engine.cef.subprocessdied.msg": "Proces používateľského rozhrania neodpovedal včas.\nMôže to byť spôsobené antivírusovým programom, ktorý blokuje aplikáciu BeamNG.drive.ui.exe.\n\nViac informácií nájdete tu:\n\nhttps://documentation.beamng.com/support/troubleshooting/common_exit_codes/#unresponsive-ui-process\n\nChcete teraz prejsť na túto adresu?",
     "engine.cef.subprocessdied.title": "UI proces neodpovedá",
     "engine.cef.subprocessdied.url": "http://wiki.beamng.com/Errors/Unresponsive_UI_Process",
     "engine.editor.loading": "Načítavanie editora mapy...",
