@@ -1777,7 +1777,7 @@
     "ui.fonts.secondary": "Uutiskierros",
     "ui.fonts.fallback": "Roboto",
     "ui.dashboard.replay": "Uusinnat",
-    "ui.dashboard.appedit": "Muokkaa UI-sovelluksia",
+    "ui.dashboard.appedit": "UI-sovellukset",
     "ui.repository.subscribed": "Tilattu: Päivitykset tapahtuvat automaattisesti",
     "ui.repository.no_mods_found": "Modeja ei löydetty",
     "ui.repository.category": "Luokka",
@@ -3916,5 +3916,13 @@
     "ui.apps.hotlapping.StartAi": "Käynnistä AI",
     "ui.apps.hotlapping.StopAi": "Pysäytä AI",
     "ui.common.vehicleOff": "Käynnistys: Pois",
-    "ui.trackbuilder.menus.startTrackBuilderOnGlowCity": "Vaihda Glow Cityyn"
+    "ui.trackbuilder.menus.startTrackBuilderOnGlowCity": "Vaihda Glow Cityyn",
+    "ui.mainmenu.navbar.navigate": "Navigoi",
+    "ui.dashboard.menu": "Päävalikko",
+    "ui.dashboard.bigmap": "Kartta",
+    "ui.dashboard.gameContext": "Tehtävät",
+    "ui.dashboard.performanceGraph": "Avaa suorituskykykuvaaja",
+    "ui.modmanager.updated.title": "BeamNG.drive on päivitetty versioon {{versionStr}}",
+    "ui.modmanager.updated.subtitle": "Kaikki asennetut modit on väliaikaisesti kytketty pois",
+    "ui.modmanager.updated.p1": "Modit saattavat lopettaa normaalin toiminnan tärkeiden pelipäivitysten seurauksena."
 }
