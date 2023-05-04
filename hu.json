@@ -2782,5 +2782,8 @@
     "ui.dashboard.bigmap": "Térkép",
     "ui.dashboard.gameContext": "Küldetések",
     "ui.showAuxiliary": "Tartalmazza a kiegészítő hibakeresési tartalmat",
-    "ui.photomode.steamScreen": "Készít egy Steam képernyőfotót"
+    "ui.photomode.steamScreen": "Készít egy Steam képernyőfotót",
+    "ui.repository.order_direction": "A sorrend irányának megváltoztatása",
+    "ui.trackbuilder.menus.resetTrack": "Pálya visszaállíása",
+    "ui.vehicleconfig.applyPartChangesAutomatically": "Változtatások automatikus alkalmazása"
 }
