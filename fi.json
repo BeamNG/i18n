@@ -3902,5 +3902,17 @@
     "launchercpp.setting_parse_err_txt": "pelin asetuksia ei voitu jäsentää.\nOta tukeen yhteyttä",
     "launchercpp.setting_parse_err_title": "Virheellinen tiedosto",
     "launchercpp.firewall_err_txt": "BeamNG.driveä ei voitu lisätä Windowsin palomuurin poikkeuslistalle.",
-    "launchercpp.firewall_err_title": "Palomuurivirhe"
+    "launchercpp.firewall_err_title": "Palomuurivirhe",
+    "ui.common.property.recommendedVehicle": "Suositeltu ajoneuvo",
+    "ui.common.okay": "Ok",
+    "ui.common.thanks": "Kiitos",
+    "ui.common.back": "Takaisin",
+    "ui.common.low": "Matala",
+    "ui.common.high": "Korkea",
+    "ui.common.vehicleAccessoryOn": "Käynnistys: Vain lisälaitteet",
+    "ui.common.vehicleOn": "Käynnistys: Päällä",
+    "ui.common.vehicleRunning": "Ajoneuvo: Käynnissä",
+    "ui.common.totalSize": "Korkein kansion koko",
+    "ui.apps.hotlapping.StartAi": "Käynnistä AI",
+    "ui.apps.hotlapping.StopAi": "Pysäytä AI"
 }
