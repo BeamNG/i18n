@@ -2785,5 +2785,7 @@
     "ui.photomode.steamScreen": "Készít egy Steam képernyőfotót",
     "ui.repository.order_direction": "A sorrend irányának megváltoztatása",
     "ui.trackbuilder.menus.resetTrack": "Pálya visszaállíása",
-    "ui.vehicleconfig.applyPartChangesAutomatically": "Változtatások automatikus alkalmazása"
+    "ui.vehicleconfig.applyPartChangesAutomatically": "Változtatások automatikus alkalmazása",
+    "ui.trackbuilder.menus.exitWindow": "Ablak bezárása",
+    "ui.trackbuilder.menus.windows": "Ablakok"
 }
