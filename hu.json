@@ -2747,5 +2747,19 @@
     "ui.faq.updatingGame.q": "Hogyan frissíthetem a játékot?",
     "ui.faq.getHelp.a": "Ha játék közben problémába ütköztél, a következő csatornákon kérhetsz segítséget:[br][br] [url=http://www.beamng.com/forums/]A BeamNG.com fórumon[/url] [url=http://support.beamng.com/]E-mailben[/url] [br] Igyekszünk mihamarabb segíteni, de megeshet, hogy csak pár munkanap után tudunk válaszolni.",
     "ui.vehicleconfig.saveThumbnail": "Indexkép készítése mentéskor",
-    "ui.vehicleconfig.loadTooltip": "Konfiguráció betöltése"
+    "ui.vehicleconfig.loadTooltip": "Konfiguráció betöltése",
+    "ui.quickrace.name": "Név",
+    "ui.mainmenu.mods.desciptionUnavailable": "Leírás nem érhető el",
+    "ui.repository.searchClear": "Keresés törlése",
+    "ui.common.simpleVehicles": "Egyszerű járművek",
+    "ui.trackBuilder.toolbar.title": "Eszköztár",
+    "ui.trackbuilder.menus.trackBuilder": "Pályaépítő",
+    "ui.trackbuilder.menus.removeTrack": "Pálya eltávolítása",
+    "ui.trackBuilder.base.test": "Teszt",
+    "ui.repository.applySearch": "Alkalmaz",
+    "ui.quickrace.time": "Idő",
+    "ui.racetime.time": "Idő",
+    "ui.vehicleconfig.deleteTooltip": "Kattintson duplán a konfiguráció végleges törléséhez! Ez a művelet nem visszafordítható!",
+    "ui.vehicleconfig.sourceOfficial": "Hivatalos",
+    "ui.vehicleconfig.sourceUser": "Felhasználó"
 }
