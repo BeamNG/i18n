@@ -2843,7 +2843,7 @@
     "ui.apps.node_beam_info.totalweight": "kokonaismassa",
     "ui.apps.node_beam_info.Nodes": "Nodet",
     "ui.apps.node_beam_info.broken": "rikki",
-    "ui.apps.node_beam_info.deformed": "deformoituneet",
+    "ui.apps.node_beam_info.deformed": "vääntyneet",
     "ui.apps.node_beam_info.Beams": "Beamit",
     "ui.apps.logvehiclestats.name": "Kirjaa ajoneuvon tilastot (tutkimus)",
     "ui.apps.hotlapping.bestLap": "Paras kierros",
