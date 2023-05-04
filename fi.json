@@ -3942,5 +3942,11 @@
     "ui.modmanager.updated.btnOk": "Hyväksyn riskin, laita kaikki modit päälle",
     "ui.modmanager.updated.btnCancel": "Jätä ne toistaiseksi pois päältä",
     "ui.dragTicket.title": "VASTUSTAJA ......... PELAAJA",
-    "ui.options.camera.free": "Vapaa"
+    "ui.options.camera.free": "Vapaa",
+    "ui.modmanager.updated.p5": "Kiitos ymmärtäväisyydestä!",
+    "ui.apps.police.arrest": "Pidätä",
+    "ui.apps.traffic.name": "Liikenne",
+    "ui.apps.traffic.Risk": "Riski",
+    "ui.options.userInterface.showStandalonePcs": "Sisällytä mukautetut .PC-konfiguraatiot",
+    "ui.options.gameplay.steeringStabilizationMultiplier": "Vahvuus"
 }
