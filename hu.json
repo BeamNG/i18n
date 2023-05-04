@@ -2745,5 +2745,7 @@
     "ui.faq.installingMods.q": "Hogyan tölthetek le és telepíthetek modokat?",
     "ui.faq.updatingGame.a": "Látogasd meg a [url=http://wiki.beamng.com/Updating_the_game]Játék frissítése[/url] című angol nyelvű wikioldalunkat!",
     "ui.faq.updatingGame.q": "Hogyan frissíthetem a játékot?",
-    "ui.faq.getHelp.a": "Ha játék közben problémába ütköztél, a következő csatornákon kérhetsz segítséget:[br][br] [url=http://www.beamng.com/forums/]A BeamNG.com fórumon[/url] [url=http://support.beamng.com/]E-mailben[/url] [br] Igyekszünk mihamarabb segíteni, de megeshet, hogy csak pár munkanap után tudunk válaszolni."
+    "ui.faq.getHelp.a": "Ha játék közben problémába ütköztél, a következő csatornákon kérhetsz segítséget:[br][br] [url=http://www.beamng.com/forums/]A BeamNG.com fórumon[/url] [url=http://support.beamng.com/]E-mailben[/url] [br] Igyekszünk mihamarabb segíteni, de megeshet, hogy csak pár munkanap után tudunk válaszolni.",
+    "ui.vehicleconfig.saveThumbnail": "Indexkép készítése mentéskor",
+    "ui.vehicleconfig.loadTooltip": "Konfiguráció betöltése"
 }
