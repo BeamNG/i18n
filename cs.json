@@ -4194,5 +4194,6 @@
     "missions.crawl.starOutroTexts.silverPoints": "Perfektně provedené. Jsi vážně dobrý!",
     "missions.crawl.starOutroTexts.noStarUnlocked": "Pokusil ses. S trochou cviku to zvládneš!",
     "missions.utah.cannon003.title": "Holubi na střeše",
-    "missions.italy.drift007.title": "Vesnický drift"
+    "missions.italy.drift007.title": "Vesnický drift",
+    "ui.controls.filter.tooltip": ""
 }
