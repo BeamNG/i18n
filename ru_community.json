@@ -152,7 +152,7 @@
     "extensions.campaign.exploration.mapHint": "Нажмите [action=toggle_minimap], чтобы отобразить карту с доступными заданиями",
     "extensions.scenario.damageGoal.checkDamage.fail.msg": "Осторожно! Ваша машина повреждена на {{damage}}%",
     "extensions.scenario.damageGoal.checkDamage.win.msg": "{{damage}}% повреждений",
-    "extensions.scenario.damageGoal.fail.msg": "Вы повредили автомобиль",
+    "extensions.scenario.damageGoal.fail.msg": "Вы повредили свой транспорт.",
     "extensions.scenario.damageGoal.win.msg": "Хорошо! Ваше время: {{timeStr}}",
     "extensions.scenario.drift.failedGoal": "Вам нужно как минимум {{minDrift}} очков.",
     "extensions.scenario.drift.passGoal": "Хорошо! Ваш счёт: {{driftPoints}} очков.",
