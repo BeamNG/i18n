@@ -2749,7 +2749,7 @@
     "ui.vehicleconfig.saveThumbnail": "Indexkép készítése mentéskor",
     "ui.vehicleconfig.loadTooltip": "Konfiguráció betöltése",
     "ui.quickrace.name": "Név",
-    "ui.mainmenu.mods.desciptionUnavailable": "Leírás nem érhető el",
+    "ui.mainmenu.mods.desciptionUnavailable": "A leírás nem elérhető",
     "ui.repository.searchClear": "Keresés törlése",
     "ui.common.simpleVehicles": "Egyszerű járművek",
     "ui.trackBuilder.toolbar.title": "Eszköztár",
