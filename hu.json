@@ -2914,5 +2914,6 @@
     "ui.modmanager.actions": "Műveletek",
     "ui.modmanager.deleteTooltip": "Kattintson duplán az összes jelenleg telepített és feliratkozott mod törléséhez! Ez a művelet nem visszafordítható!",
     "ui.environment.environmentalTemperature": "Környezeti hőmérséklet",
-    "ui.vehicleconfig.sourceMod": "Mod"
+    "ui.vehicleconfig.sourceMod": "Mod",
+    "ui.vehicleconfig.openConfigFolder": "Nyissa meg a felhasználói konfigurációk mappát"
 }
