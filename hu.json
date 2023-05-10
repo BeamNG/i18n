@@ -2908,5 +2908,6 @@
     "Years": "Évek",
     "Propulsion": "Hajtás",
     "Fuel Type": "Üzemanyag Típus",
-    "ui.options.traffic.useExtras.warning": "Kísérleti funkció! Ezen opció engedélyezése súlyosan befolyásolhatja a teljesítményt és növelheti a memóriahasználatot."
+    "ui.options.traffic.useExtras.warning": "Kísérleti funkció! Ezen opció engedélyezése súlyosan befolyásolhatja a teljesítményt és növelheti a memóriahasználatot.",
+    "ui.trackbuilder.menus.editorSettings": "Szerkesztő beállításai"
 }
