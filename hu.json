@@ -2910,5 +2910,9 @@
     "Fuel Type": "Üzemanyag Típus",
     "ui.options.traffic.useExtras.warning": "Kísérleti funkció! Ezen opció engedélyezése súlyosan befolyásolhatja a teljesítményt és növelheti a memóriahasználatot.",
     "ui.trackbuilder.menus.editorSettings": "Szerkesztő beállításai",
-    "ui.trackbuilder.menus.onlyOneModifierWindow": "Csak egy módosító ablak"
+    "ui.trackbuilder.menus.onlyOneModifierWindow": "Csak egy módosító ablak",
+    "ui.modmanager.actions": "Műveletek",
+    "ui.modmanager.deleteTooltip": "Kattintson duplán az összes jelenleg telepített és feliratkozott mod törléséhez! Ez a művelet nem visszafordítható!",
+    "ui.environment.environmentalTemperature": "Környezeti hőmérséklet",
+    "ui.vehicleconfig.sourceMod": "Mod"
 }
