@@ -2788,7 +2788,7 @@
     "ui.vehicleconfig.applyPartChangesAutomatically": "Változtatások automatikus alkalmazása",
     "ui.trackbuilder.menus.exitWindow": "Kilépés az ablakból",
     "ui.trackbuilder.menus.windows": "Ablakok",
-    "scenario.customExtensionLoadFailed": "Az egyéni logika nem fut. Ellenőrizze a napló figyelmeztetéseit a következővel: {{extName}}",
+    "scenario.customExtensionLoadFailed": "A testreszabott logika nem működik. Keress {{extName}} figyelmeztetést a logban.",
     "ui.statspage.subtitle": "Játékos statisztikák",
     "ui.career.tutorial.fuel.msg2": "Állj meg a kút mellett. Győződj meg arról, hogy a jármű teljesen a földön lévő narancssárga jelölésen belül van. Hallani fogsz egy csengőhangot, amikor ezen belül vagy.",
     "ui.introPopup.garage.title": "Garázs",
