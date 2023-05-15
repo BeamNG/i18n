@@ -2970,5 +2970,7 @@
     "ui.options.audio.Normal": "Normál (256 hang)",
     "ui.options.audio.AudioMuteOnWindowLoseFocus": "Némítsa el, amikor az ablak nincs fókuszban",
     "ui.controls.angle": "1:1 kormányzási szög",
-    "ui.controls.lockTypes.disabled": "Letiltott"
+    "ui.controls.lockTypes.disabled": "Letiltott",
+    "ui.trackbuilder.menus.openAdvancedPieces": "Haladó részletek megnyitása",
+    "ui.trackBuilder.base.drive": "Vezetés"
 }
