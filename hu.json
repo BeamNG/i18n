@@ -2972,5 +2972,6 @@
     "ui.controls.angle": "1:1 kormányzási szög",
     "ui.controls.lockTypes.disabled": "Letiltott",
     "ui.trackbuilder.menus.openAdvancedPieces": "Haladó részletek megnyitása",
-    "ui.trackBuilder.base.drive": "Vezetés"
+    "ui.trackBuilder.base.drive": "Vezetés",
+    "ui.vehicleconfig.searchHelp.example3": "Megkeres minden nevet a következővel: 'váz'"
 }
