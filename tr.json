@@ -4476,7 +4476,7 @@
     "missions.garage.progressLabels.success": "Başarıyla Teslim Edilen",
     "missions.garage.stars.successiveAmountGold": "Bir {{successiveAmountGold}} ardışık seri elde edin.",
     "missions.garage.stars.kilometersAmountBronze": "Başarılı teslimatlarda {{kilometersAmountBronze | unit: \"length\":2}} sürün.",
-    "missions.garage.outro.successiveAmountSilver": "Harika! Aferin, bu inanılmaz bir ardışık seri!",
+    "missions.garage.outro.successiveAmountSilver": "Harika! Aferin, bu inanılmaz bir ardışık seri!.",
     "missions.garage.outro.kilometersAmountSilver": "Harika! Bu dayanıklılıkla bir kamyon şoförü olabilirsiniz.",
     "missions.aiRace.utah.wildWest.description": "Utah'taki eski ve engebeli patikalarda yarışın!",
     "missions.aiRace.italy.streetTour.description": "Norte'deki bu döngüsel sokak yarışında bazı arkadaşlarla yarışın.",
