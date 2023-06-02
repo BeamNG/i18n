@@ -1032,7 +1032,7 @@
     "engine.fatalError.errMsg": "FATALE FOUT: ",
     "scenario.customExtensionLoadFailed": "Aangepaste logica wordt niet uitgevoerd. Check log voor waarschuwingen met {{extName}}",
     "ui.loadingScreen.tips": "TIPS",
-    "engine.fatalError.experienced2": "\n\n\nEr is een fout opgetreden.",
+    "engine.fatalError.experienced2": "\n\nEr is een fatale fout opgetreden in BeamNG.Drive.",
     "ui.startscreen.warning": "Waarschuwing: Risico voor lichtflitsgevoelige epilepsie",
     "ui.startscreen.warningdetails": "Let op! Dit spel kan mogelijk aanvallen veroorzaken voor mensen met lichtgevoelige epilepsie.",
     "ui.modWizard.skinWizard.right": "De rechterkant van de afbeelding is de \"SkinExample_palette_uv1.dds\". Dit wordt gebruikt om te bepalen welke delen van de skin gekleurd kunnen worden door de kleurenkiezer. Rood is de eerste kleur, groen de tweede en blauw is de derde kleur. Als het doorzichtig is wordt het niet gekleurd worden.",
