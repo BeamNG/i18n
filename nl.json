@@ -673,7 +673,7 @@
     "engine.editor.menu.resetSelScale": "Geselecteerde schaal herstellen",
     "engine.editor.menu.transformSel": "Selectie transformeren...",
     "engine.editor.menu.dropSel": "Selectie opheffen",
-    "engine.editor.menu.makeSelPrefab": "Prefab selectie maken",
+    "engine.editor.menu.makeSelPrefab": "Maak een selectie Prefab",
     "extensions.scenario.onRaceEnd.default.win": "Goed gedaan! Jouw tijd: {{timeStr}}",
     "extensions.scenario.damageGoal.checkDamage.win.msg": "{{schade}}% schade",
     "extensions.scenario.timeLimit.failedGoal": "meer gebruikt dan {{maxTime}}",
