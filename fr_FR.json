@@ -4027,7 +4027,7 @@
     "ui.controls.editBinding.remove": "Marquer la touche pour supprimer",
     "ui.controls.editBinding.removeUndo": "(cliquez pour annuler la suppression)",
     "ui.controls.detectingBinding": "Détection d'une nouvelle touche...",
-    "ui.controls.removeBinding": "Supprimer le contrôle",
+    "ui.controls.removeBinding": "Supprimer la touche",
     "ui.controls.angle": "1:1 Angle de rotation",
     "ui.controls.lockTypes.3": "Désactivé si nécessaire",
     "ui.controls.ffb.isForceEnabled": "Activé",
