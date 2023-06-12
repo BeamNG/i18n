@@ -297,7 +297,7 @@
     "engine.nodegrab.uncoupling": "Délier tous les nodes liés",
     "engine.nodegrab.coupling": "Coupler les deux nodes",
     "engine.fatalError.errMsg": "ERREUR FATALE : ",
-    "engine.fatalError.experienced": "\n\nBeamNG.drive a planté. Cliquez sur OK pour fermer BeamNG.drive et soumettre un rapport de plantage. Veuillez noter que vous ne recevrez pas de réponse si vous envoyez un rapport. Si vous avez besoin d'aide pour résoudre le problème, veuillez contacter notre équipe d'assistance.\n\nhttps://support.beamng.com/",
+    "engine.fatalError.experienced": "\n\nBeamNG.drive a rencontré un problème critique. Cliquer sur \"OK\" fermera BeamNG et créera un rapport d'erreur. Veuillez envoyer ce rapport afin que nous puissions résoudre ce problème.",
     "engine.fatalError.experienced2": "\n\nBeamNG.drive a rencontré une erreur fatale.",
     "engine.editor.loading": "Chargement de l'éditeur de monde...",
     "engine.editor.menu.file": "Fichier",
