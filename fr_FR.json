@@ -4089,5 +4089,6 @@
     "ui.controls.ffbGenericWarning": "Les volants puissants peuvent créer des forces soudaines et dangereuses.\nSuivez les pratiques de sécurité:<list><li> vérifiez les instructions du fabricant du volant pour les directives de sécurité</li><li>Ne reposez jamais vos pouces à l’intérieur de la jante du volant.</li></list>",
     "ui.controls.padLogitechIncorrect": "Mode de l’appareil: votre manette de jeux Logitech est utilisée incorrectement.\nVeuillez vérifier[url=https://go.beamng.com/gamepadLogitech]les notes dans notre documentation [/url].",
     "ui.helpOverlay.title": "Description",
-    "ui.performance.current": "Actuel"
+    "ui.performance.current": "Actuel",
+    "ui.performance.benchmark.realtime": "Temps Réel"
 }
