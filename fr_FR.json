@@ -4103,5 +4103,7 @@
     "ui.radialmenu2.cruiseControl.cancel.desc": "Désactiver le régulateur de vitesse tout en mémorisant la dernière vitesse réglée.",
     "ui.performance.disk.casesensitive": "Sensible à la casse",
     "ui.performance.disk.caseinsensitive": "Insensible à la casse",
-    "ui.hints.switchVehicle": "Appuyez [action=switch_next_vehicle] ou [action=switch_previous_vehicle] pour changer de véhicule"
+    "ui.hints.switchVehicle": "Appuyez [action=switch_next_vehicle] ou [action=switch_previous_vehicle] pour changer de véhicule",
+    "ui.radialmenu2.cruiseControl.plusResume": "Reprendre/Accélérer",
+    "ui.radialmenu2.cruiseControl.plusResume.desc": "Réactiver le régulateur de vitesse à la vitesse précédente ou augmenter la vitesse réglée pendant qu'il est actif."
 }
