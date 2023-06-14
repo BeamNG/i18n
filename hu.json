@@ -170,7 +170,7 @@
     "ui.vehicleconfig.save": "Mentés",
     "ui.vehicleconfig.tuning": "Tuning",
     "ui.vehicleconfig.vehicleconfig": "Jármű Testreszabás",
-    "engine.welcome": "Üdvözöl a magyar BeamNG.drive! :)",
+    "engine.welcome": "Üdvözöl BeamNG.drive magyarul! :)",
     "engine.resourceMissing": "Nem sikerült létrehozni az erőforrást (Hiányzó fájl?): ",
     "engine.invalidUserpath.title": "Érvénytelen felhasználói elérési út",
     "engine.invalidUserpath.msg": "A BeamNG.drive nem tudja elérni a játék könyvtárában lévő startup.ini fájlban megadott UserPath elérési utat! Állítsd át egy érvényes elérési útra: ",
