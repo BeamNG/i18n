@@ -4127,7 +4127,7 @@
     "ui.traffic.suspectEvade": "Le suspect vous a échappé!",
     "ui.stat.vehicle.odometer": "Odomètre",
     "ui.stat.vehicle.total_odometer": "Total conduit",
-    "ui.stat.vehicle.reset": "Réinitialiser",
+    "ui.stat.vehicle.reset": "Réinitialisé",
     "ui.decalsEditor.layersNoun": "Couches | Couches",
     "ui.mapview.labels.custom": "Personnalisé",
     "ui.radialmenu2.cruiseControl.toggle": "Basculer",
@@ -4148,5 +4148,11 @@
     "ui.traffic.policePursuit": "La police vous poursuit!",
     "ui.stat.vehicle.airtime": "Temps d’utilisation",
     "ui.stat.vehicle.switch": "Changement",
-    "ui.stat.vehicle.burnout": "Burnout"
+    "ui.stat.vehicle.burnout": "Burnout",
+    "replay.startRecordingAutoReplay": "Enregistrement d’un nouveau Replay )Allez dans les paramètres de gameplay pour désactiver)",
+    "replay.stopAutoReplayRecording": "Replay automatique sauvegardé (utilise l’app UI Replay pour voir",
+    "replay.stopAutoReplayRecordingAutoplay": "Replay automatique sauvegardé",
+    "replay.cantManualRecording": "Ne peut pas commencer un enregistrement manuel alors qu’un automatique est est en marche",
+    "replay.stopPlayback": "Replay arrêté",
+    "quest.type.distanceDriven.title": "Conduire {{goal |  unit: \"length\"}}."
 }
