@@ -4105,5 +4105,6 @@
     "ui.performance.disk.caseinsensitive": "Insensible à la casse",
     "ui.hints.switchVehicle": "Appuyez [action=switch_next_vehicle] ou [action=switch_previous_vehicle] pour changer de véhicule",
     "ui.radialmenu2.cruiseControl.plusResume": "Reprendre/Accélérer",
-    "ui.radialmenu2.cruiseControl.plusResume.desc": "Réactiver le régulateur de vitesse à la vitesse précédente ou augmenter la vitesse réglée pendant qu'il est actif."
+    "ui.radialmenu2.cruiseControl.plusResume.desc": "Réactiver le régulateur de vitesse à la vitesse précédente ou augmenter la vitesse réglée pendant qu'il est actif.",
+    "ui.radialmenu2.cruiseControl.minusSet": "Régler/Réduire"
 }
