@@ -4090,5 +4090,15 @@
     "ui.controls.padLogitechIncorrect": "Mode de l’appareil: votre manette de jeux Logitech est utilisée incorrectement.\nVeuillez vérifier[url=https://go.beamng.com/gamepadLogitech]les notes dans notre documentation [/url].",
     "ui.helpOverlay.title": "Description",
     "ui.performance.current": "Actuel",
-    "ui.performance.benchmark.realtime": "Temps Réel"
+    "ui.performance.benchmark.realtime": "Temps Réel",
+    "ui.performance.warnings.ubuntuver": "Version non supportée d'Ubuntu",
+    "ui.performance.openUserFolder": "Explorer le dossier utilisateur",
+    "ui.performance.warnings.unsupportedlinuxdist": "Distribution Linux non supportée",
+    "ui.hints.showStandalonePcs": "Pour afficher vos propres configurations de véhicules, activez la case à cocher correspondante dans le panneau de droite.",
+    "ui.radialmenu2.missionAbandon": "Abandonner le défi",
+    "ui.radialmenu2.missionAbandon.desc": "Abandonne le défi actuel.",
+    "ui.radialmenu2.cruiseControl": "Régulateur de vitesse",
+    "ui.radialmenu2.cruiseControl.desc": "Fonctions de réglage ou d'ajustement du régulateur de vitesse",
+    "ui.radialmenu2.cruiseControl.cancel": "Annuler",
+    "ui.radialmenu2.cruiseControl.cancel.desc": "Désactiver le régulateur de vitesse tout en mémorisant la dernière vitesse réglée."
 }
