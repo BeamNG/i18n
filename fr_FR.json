@@ -4100,5 +4100,8 @@
     "ui.radialmenu2.cruiseControl": "Régulateur de vitesse",
     "ui.radialmenu2.cruiseControl.desc": "Fonctions de réglage ou d'ajustement du régulateur de vitesse",
     "ui.radialmenu2.cruiseControl.cancel": "Annuler",
-    "ui.radialmenu2.cruiseControl.cancel.desc": "Désactiver le régulateur de vitesse tout en mémorisant la dernière vitesse réglée."
+    "ui.radialmenu2.cruiseControl.cancel.desc": "Désactiver le régulateur de vitesse tout en mémorisant la dernière vitesse réglée.",
+    "ui.performance.disk.casesensitive": "Sensible à la casse",
+    "ui.performance.disk.caseinsensitive": "Insensible à la casse",
+    "ui.hints.switchVehicle": "Appuyez [action=switch_next_vehicle] ou [action=switch_previous_vehicle] pour changer de véhicule"
 }
