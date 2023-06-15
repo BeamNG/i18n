@@ -2974,5 +2974,18 @@
     "ui.trackbuilder.menus.openAdvancedPieces": "Haladó részletek megnyitása",
     "ui.trackBuilder.base.drive": "Vezetés",
     "ui.vehicleconfig.searchHelp.example3": "Megkeres minden nevet a következővel: 'váz'",
-    "ui.trackbuilder.menus.onlyOnePiecesWindow": "Csak egy darabos ablak"
+    "ui.trackbuilder.menus.onlyOnePiecesWindow": "Csak egy darabos ablak",
+    "ui.modmanager.updated.p4": "Egyes modok talán nem kompatibilisek ezen verzióval még. Kérlek, hagyj időt a mod készítőknek, hogy frissíthessék a modjaikat.",
+    "ui.color.configurations": "Konfigurációk",
+    "ui.color.metallic": "Metál",
+    "ui.color.clearCoat": "Tiszta Réteg",
+    "ui.color.clearCoatRoughness": "Tiszta Réteg Érdessége",
+    "ui.vehicleconfig.searchHelp.example2": "Megkeresi az összes lehetőséget a következőhöz: '_fr'",
+    "ui.vehicleconfig.searchHelp.history": "Keresési előzmények",
+    "ui.photomode.dofMaxBlurNear": "Közeli Elmosódás Erőssége",
+    "ui.photomode.dofMaxBlurFar": "Távoli Elmosódás Erőssége",
+    "ui.apps.aicontrol.RouteSpeed": "Útvonal Sebesség",
+    "ui.apps.aicontrol.AiDebug": "AI Hibakereső",
+    "ui.apps.brake_thermal_debug.surfaceTemp": "Felület Hőmérséklete",
+    "ui.apps.brake_thermal_debug.coreTemp": "Maghőmérséklet"
 }
