@@ -2987,5 +2987,6 @@
     "ui.apps.aicontrol.RouteSpeed": "Útvonal Sebesség",
     "ui.apps.aicontrol.AiDebug": "AI Hibakereső",
     "ui.apps.brake_thermal_debug.surfaceTemp": "Felület Hőmérséklete",
-    "ui.apps.brake_thermal_debug.coreTemp": "Maghőmérséklet"
+    "ui.apps.brake_thermal_debug.coreTemp": "Maghőmérséklet",
+    "ui.vehicleconfig.searchHelp.example1": "Megkeresi az összes alkatrész nevét a 'bal' kifejezésre"
 }
