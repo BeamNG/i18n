@@ -3015,5 +3015,7 @@
     "ui.apps.traffic.SpeedLimit": "Sebességhatár",
     "ui.apps.traffic.Risk": "Rizikó",
     "ui.apps.threedexport.JBeam": "JBeam",
-    "ui.apps.threedexport.Filename": "Fájlnév"
+    "ui.apps.threedexport.Filename": "Fájlnév",
+    "ui.options.steamLanguage": "Steam Nyelve",
+    "ui.options.translationAutomatic": "Automatikus"
 }
