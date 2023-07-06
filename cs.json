@@ -4322,7 +4322,7 @@
     "missions.automation_test_track.aiRace.main1.description": "Závod kolem hlavní trati.",
     "missions.automation_test_track.aiRace.main1.damageFailText": "Závod jsi nezvládl!",
     "missions.automation_test_track.crawl.climb.description": "Vydrápej se na horu.",
-    "missions.automation_test_track.crawl.climb.startScreenText": "Zvládneš tuto stezku až na samotný vrchol?",
+    "missions.automation_test_track.crawl.climb.startScreenText": "Zvládneš tuto stezku vedoucí až na samotný vrchol?",
     "missions.automation_test_track.crawl.climb.title": "Stezka na ledovec",
     "scenarios.busRoutes.startText": "Cílem této výzvy je dokončit celou autobusovou trasu s nejvyšším možným skóre.<p style=\"color:rgb(255, 165, 0);\"><strong> K získání skóre je třeba:</strong></p><ul> <li> Řidit bez poškození.</li><li>Dobře zastavovat na zastávkách.</li><li> Nevynechávat zastávky, kde chtějí cestující nastoupit/vystoupit.</li></ul>Na zastávkách budou čekat cestující na vyzvednutí a naopak cestující, kteří již v autobuse jsou, budou žádat o vystoupení.\n\nNa konci trasy se dozvíte dosažené skóre a můžete si vybrat, zda výzvu ukončíte, nebo budete pokračovat opačnou trasou a zkusíte to znovu.",
     "missions.heistM.italy.startDescription": "Připravte a proveďte loupež na jednom z míst označených šéfy v této úrovni.\nUkradněte vozidlo nacházející se poblíž startu, jeďte na označené místo,\n kde se uskuteční loupež a unikněte na označené místo, které bude sloužit jako únikový bod.\n Po celou dobu mise budete pro policii podezřelý,\n takže se snažte být co nejvíce nenápadní nebo se policii pokuste vyhnout, než budete pokračovat v misi",
