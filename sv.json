@@ -1495,5 +1495,7 @@
     "ui.common.smart": "Smart",
     "ui.common.random": "Slumpmässig",
     "ui.common.randomConfigs": "Slumpmässig (valfri konfiguration)",
-    "ui.trackbuilder.menus.windows": "Fönster"
+    "ui.trackbuilder.menus.windows": "Fönster",
+    "engine.fatalError.experienced2": "\n\nBeamNG.drive har fått ett allvarligt fel",
+    "engine.fatalError.experienced": "\n\nBeamNG.drive har kraschat. Tryck på ok för att stänga av spelet och skicka ett kraschrapport. Vänligen notera att du kommer inte få ett svar om du skickar ett rapport. Om du behöver hjälp att felsöka problemet, snälla kontakta vårt supportteam.\n\nhttps://support.beamng.com/"
 }
