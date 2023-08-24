@@ -265,5 +265,6 @@
     "ui.unit.c": "Grad Celsius",
     "ui.unit.f": "Grad Fahrenheit",
     "ui.unit.mpg": "Mail per Gallon",
-    "ui.unit.bhp": "Brems Rosskroft"
+    "ui.unit.bhp": "Brems Rosskroft",
+    "scenarios.east_coast_usa.gm_racetest.title": "Renntescht"
 }
