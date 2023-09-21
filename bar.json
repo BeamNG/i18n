@@ -266,5 +266,6 @@
     "ui.unit.f": "Grad Fahrenheit",
     "ui.unit.mpg": "Mail per Gallon",
     "ui.unit.bhp": "Brems Rosskroft",
-    "scenarios.east_coast_usa.gm_racetest.title": "Renntescht"
+    "scenarios.east_coast_usa.gm_racetest.title": "Renntescht",
+    "missions.driver_training.safety_training.training_spin_recovery.title": "Sichoheitstraining: Spin-Doholung"
 }
