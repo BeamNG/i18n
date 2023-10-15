@@ -1503,5 +1503,6 @@
     "ui.common.okay": "Okej",
     "ui.common.thanks": "Tack",
     "ui.startscreen.warning": "Varning för: Ljuskänslig Epilepsi",
-    "ui.startscreen.warningdetails": "Detta spelet kan utlösa anfall för människor som har ljuskänsligt epilepsi. Spelarens diskretion rekommenderas."
+    "ui.startscreen.warningdetails": "Detta spelet kan utlösa anfall för människor som har ljuskänsligt epilepsi. Spelarens diskretion rekommenderas.",
+    "ui.options.gameplay.escBehavior": "ESC"
 }
