@@ -4313,7 +4313,7 @@
     "scenarios.gridmapv2.mountain.shortDesc": "Nasbírej s Hopperem 15 označených bodů. Pro nejvyšší možné skóre se pokus použít co nejméně obnovení!",
     "scenarios.gridmapv2.mountain.collectionCount": "Získáno: {{count}}/{{total}}",
     "scenarios.gridmapv2.mountain.collected": "Bod získán!",
-    "scenarios.gridmapv2.mountain.resultSilver": "Dokázal jsi to! Posbíral všechny body a využil k tomu pouze pár obnovení. Vypadá to, že s Hopperem už máš nějaké zkušenosti. Dobrá práce!",
+    "scenarios.gridmapv2.mountain.resultSilver": "Dokázal jsi to! Posbíral jsi všechny body a využil k tomu pouze pár obnovení. Vypadá to, že s Hopperem už máš nějaké zkušenosti. Dobrá práce!",
     "scenarios.gridmapv2.mountain.resultBronze": "Dokázal jsi to! I po použití několika obnovení se ti podařilo nasbírat všechny body. Dobrá práce!",
     "scenarios.gridmapv2.mountain.resultGold": "Dokázal jsi to! Posbíral jsi všechny body bez jediného obnovení. Není pochyb o tom, že jsi králem Hopperu. Výborně!",
     "scenarios.gridmapv2.mountain.resultWood": "Dokázal jsi to! Použil jsi hromadu obnovení, ale i přes to jsi to zvládnul, a že to rozhodně nebyl jednoduchý úkol. Dobrá práce!",
@@ -4407,7 +4407,7 @@
     "ui.inputActions.vehicle_debug.toggleUltrasonic.description": "Vytvoří na aktuálním vozidle několik ultrazvukových senzorů a povolí jejich vizualizace ladění",
     "missions.johnson_valley.collection.Mojave.introText": "Jako nováček v místním zásahovém týmu musíš absolvovat výcvik ve vozidle. Projížděj oblastí a hledej označené body. Při postupu přes větší kameny buď opatrný; hasičské vozidlo je sice silné, ale také velmi těžké. Hodně štěstí a dávej si pozor!",
     "missions.italy.drift007.description": "Jedna z nejobtížnějších tras pro driftování, (a také ne ta nejlegálnější). Vyžaduje dokonalou kontrolu nad vozidlem, abys nenarazil(a) do obrubníků.",
-    "missions.automation_test_track.collection.woods.introText": "Pokus se dnes vydáš do lesů, možná tě tam bude čekat řada překvapení.  Získej beamyNG z lesů.",
+    "missions.automation_test_track.collection.woods.introText": "Pokus se dnes vydáš do lesů, možná tě tam bude čekat řada překvapení. Získej BeamNG z lesů.",
     "missions.automation_test_track.timeTrial.rally1.description": "Realistická délka, smíšený povrch, rallye etapa.",
     "missions.automation_test_track.timeTrial.rally1.title": "Smíšená rallye etapa",
     "missions.automation_test_track.timeTrial.rally1.startScreenText": "Tato rallye etapa prověří i ty nejoddanější jezdce.  Tato trať, využívající skvělých vlastností této mapy, je rychlá, úzká a plná nebezpečí.",
@@ -6571,5 +6571,8 @@
     "vehicle.combustionEngine.engineFlooding": "Do motoru teče voda ({{percent}} %)",
     "ui.radialmenu2.tirePressureControl.title.desc": "Uprav tlak v pneumatikách za chodu.",
     "vehicle.vehicleController.stalled": "Motor je vypnutý; zapneš ho podržením [action=clutch] a [action=activateStarterMotor]",
-    "levels.italy.gasStationPoints.fuel_sparks_norte_center.description": "Dobij své vozidlo a prohlédni si město."
+    "levels.italy.gasStationPoints.fuel_sparks_norte_center.description": "Dobij své vozidlo a prohlédni si město.",
+    "missions.small_island.collection.G500Pollution.title": "Znečištění v docích – {{'ui.names.g500.name' | translate}}",
+    "missions.west_coast_usa.collection.Superhighway.description": "Jeď po dálnici jako o závod a sbírej při tom body.",
+    "missions.west_coast_usa.collection.Superhighway.introText": "Dojeď do cíle a sesbírej při tom co nejvíce bodů dokážeš před tím, než vyprší čas!"
 }
