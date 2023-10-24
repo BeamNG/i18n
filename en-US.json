@@ -1593,6 +1593,7 @@
     "ui.options.graphics.Images": "Images",
     "ui.options.graphics.Imagesscaled": "Images Scaled",
     "ui.options.graphics.openXR": "Virtual Reality (OpenXR)",
+    "ui.options.graphics.openXRhelp": "[url=https://go.beamng.com/vr]VR help available here[/url]",
     "ui.options.graphics.openXRtoggle": "Turn on/off [action=enableHeadset]",
     "ui.options.graphics.openXRcenter": "Center [action=centerHeadset]",
     "ui.options.graphics.openXRhandPoseMultiplier": "Accessibility: hand movement multiplier",
@@ -1620,7 +1621,7 @@
     "ui.options.graphics.openXRwindowViewMode.2": "Reuse left eye",
     "ui.options.graphics.openXRwindowViewMode.3": "Reuse right eye",
     "ui.openXR.welcomeTitle": "Welcome to VR",
-    "ui.openXR.welcomeBody": "VR support is <strong>early access</strong> and <strong>experimental</strong>. Please check these notes before diving in:<ul><li><i>Requirement:</i> Vulkan mode is required, available in Launcher.</li><li><i>Requirement:</i> Windows Mixed Reality headsets do not support Vulkan directly. The usual fix is to use SteamVR.</li><li><i>Issue:</i> VRAM usage will increase when toggling VR repeatedly.</li><li><i>Issue:</i> If audio does not initally switch to the VR audio output, please relaunch.</li><li><i>Issue:</i> Shadows and debug shapes may flicker, and a second sun may render.</li><li><i>Performance:</i> Expect low framerates and high-end GPU/CPU requirements.</li></ul><strong>Tip</strong>: The recentering button [action=centerHeadset] is customizable.\n<strong>Tip</strong>: Speed up your adaptation to VR by stopping as soon as you notice <strong>any</strong> hint of physical discomfort. Retry hours/days later, when fully recovered.",
+    "ui.openXR.welcomeBody": "VR support is <strong>early access</strong> and <strong>experimental</strong>. Please check these notes before diving in:<ul><li><i>Requirement:</i> Vulkan mode is required, available in Launcher.</li><li><i>Requirement:</i> Windows Mixed Reality headsets do not support Vulkan directly. The usual fix is to use SteamVR.</li><li><i>Issue:</i> VRAM usage will increase when toggling VR repeatedly.</li><li><i>Issue:</i> If audio does not initally switch to the VR audio output, please relaunch.</li><li><i>Issue:</i> Shadows and debug shapes may flicker, and a second sun may render.</li><li><i>Performance:</i> Expect low framerates and high-end GPU/CPU requirements.</li></ul><strong>Tip</strong>: The recentering button [action=centerHeadset] is customizable.\n<strong>Tip</strong>: Speed up your adaptation to VR by stopping as soon as you notice <strong>any</strong> hint of physical discomfort. Retry hours/days later, when fully recovered.\n<strong>Tip</strong>: [url=https://go.beamng.com/vr]More VR help is available here[/url]",
     "ui.openXR.buttonOkText": "Understood! [action=enableHeadset]",
     "ui.openXR.buttonNoVulkanText": "Cancel (please click Vulkan in launcher)",
     "ui.openXR.buttonCancelText": "Cancel",
@@ -2549,8 +2550,8 @@
     "missions.italy.timeTrial.Through.title": "Through the Centre",
     "missions.italy.timeTrial.Through.description": "An agility track through the centre of Norte. An agile and not low-sitting vehicle is recommended.",
 
-    "missions.jungle_rock_island.timeTrial.Island.title": "Island Dirt Loop",
-    "missions.jungle_rock_island.timeTrial.Island.description": "A long loop around the island, mostly composed of dirt roads.",
+    "missions.jungle_rock_island.timeTrial.Island1.title": "Island Dirt Loop",
+    "missions.jungle_rock_island.timeTrial.Island1.description": "A long loop around the island, mostly composed of dirt roads.",
 
     "missions.jungle_rock_island.timeTrial.Hillclimb.title": "Hillclimb",
     "missions.jungle_rock_island.timeTrial.Hillclimb.description": "A rough asphalt road to the top of the mountain. Sharp turns and dangerous cliffs all around.",
@@ -2567,8 +2568,8 @@
     "missions.jungle_rock_island.timeTrial.Dirt1.title": "Dirt Stage 1",
     "missions.jungle_rock_island.timeTrial.Dirt1.description": "A rough dirt stage through the overgrown jungles of the island, finishing in the abandoned port.",
 
-    "missions.jungle_rock_island.timeTrial.Island.title": "Island Loop",
-    "missions.jungle_rock_island.timeTrial.Island.description": "A long asphalt loop around the perimeter of the island. Faster and less technical than other routes on the island.",
+    "missions.jungle_rock_island.timeTrial.Island2.title": "Island Loop",
+    "missions.jungle_rock_island.timeTrial.Island2.description": "A long asphalt loop around the perimeter of the island. Faster and less technical than other routes on the island.",
 
     "missions.jungle_rock_island.timeTrial.Dirt2.title": "Dirt Stage 2",
     "missions.jungle_rock_island.timeTrial.Dirt2.description": "This stage covers faster dirt roads alongside the central mountain of the island.",
@@ -4626,7 +4627,7 @@
 
     "missions.delivery.stars.justFinish": "Complete the delivery.",
     "missions.delivery.stars.justFinishTime": "Complete the delivery within {{silverTime | timeSimple}}.",
-    "missions.delivery.stars.justFinishTimeSpare": "Complete the delivery withing {{goldTime | timeSimple}}.",
+    "missions.delivery.stars.justFinishTimeSpare": "Complete the delivery within {{goldTime | timeSimple}}.",
     "missions.delivery.stars.piecesBronze": "Deliver {{bronzeScore}} piece(s).",
     "missions.delivery.stars.piecesSilver": "Deliver {{silverScore}} piece(s).",
     "missions.delivery.stars.piecesGold": "Deliver {{goldScore}} piece(s).",
@@ -6593,8 +6594,8 @@
     "ui.inputActions.camera.camera_9.title": "Camera 9",
     "ui.inputActions.camera.center_camera.description": "Centers the camera",
     "ui.inputActions.camera.center_camera.title": "Center Camera",
-    "ui.inputActions.camera.enableHeadset.title": "Enable headset",
-    "ui.inputActions.camera.centerHeadset.title": "Center headset",
+    "ui.inputActions.camera.enableHeadset.title": "Enable VR headset",
+    "ui.inputActions.camera.centerHeadset.title": "Center VR headset",
     "ui.inputActions.camera.changeCameraSpeed.description": "Increases/decreases the camera speed",
     "ui.inputActions.camera.changeCameraSpeed.title": "Change speed",
     "ui.inputActions.camera.decrease_zoom.description": "Zooms camera out",
