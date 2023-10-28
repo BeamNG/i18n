@@ -6963,8 +6963,8 @@
     "missions.garage.stars.kilometersAmountBronze": "Najezdi {{kilometersAmountBronze | unit: \"length\":2}} v úspěšných doručeních.",
     "missions.garage.stars.kilometersAmountGold": "Najezdi {{kilometersAmountGold | unit: \"length\":2}} v úspěšných doručeních.",
     "missions.timeTrials.progressKeyLabels.rolling": "{{laps}} kol, letmý start",
-    "missions.timeTrials.progressKeyLabels.reverse": "{{laps}} kol, obráceně",
-    "missions.timeTrials.progressKeyLabels.reverseRolling": "{{laps}} kol, obráceně, letmý start",
+    "missions.timeTrials.progressKeyLabels.reverse": "{{laps}} kol(a), obráceně",
+    "missions.timeTrials.progressKeyLabels.reverseRolling": "{{laps}} kol(a), obráceně, letmý start",
     "missions.timeTrials.progressKeyLabels.reverseOneLap": "1 kolo, obráceně",
     "missions.timeTrials.progressKeyLabels.reverseRollingOneLap": "1 kolo, obráceně, letmý start",
     "missions.timeTrials.progressKeyLabels.rollingOneLap": "1 kolo, letmý start",
@@ -7074,5 +7074,11 @@
     "levels.italy.gasStationPoints.fuel_apex_mountainback.description": "Dotankuj své vozidlo se skvělým výhledem na oceán.",
     "levels.italy.gasStationPoints.fuel_apex_norte_harbor": "Apex přístav Norte",
     "levels.italy.gasStationPoints.fuel_apex_norte_harbor.description": "Dotankuj své vozidlo, zatímco se budeš kochat loděmi.",
-    "levels.italy.gasStationPoints.fuel_sparks_norte": "2Sparks Norte"
+    "levels.italy.gasStationPoints.fuel_sparks_norte": "2Sparks Norte",
+    "ui.options.graphics.openXRhelp": "[url=https://go.beamng.com/vr]Pomoc s VR k dispozici zde[/url]",
+    "vehicle.vehicleController.cannotShiftSequential": "Právě se používá: „{{shifterModeName | translate}}“ režim převodovky (pro změnu použij [action=toggleShifterMode])",
+    "levels.west_coast_usa.spawnpoints.quarry.logbookEntry": "<h3>Lom</h3>Lom vlastněný společností Belasco Materials, který se nachází jen kousek od Sekvojového lesa, poskytuje drcený kámen, písek a štěrk a je nepostradatelný pro infrastrukturu a růst v této oblasti.<br><br>Tento lom, založený v roce 1999, zůstává jedním z hlavních zaměstnavatelů v oblasti. Přestože místo zůstává otevřené pro podnikání, stalo se také oblíbeným místem pro improvizované motoristické akce. Tento víceúrovňový lom obsahuje několik záludných skoků a nebezpečí – včetně vodní plochy, která netrpělivě čeká na to, že spolkne tvé vozidlo – a nabízí příležitosti vyzvat jak nové řidiče, tak i veterány.<br><br>Společnost Belasco Materials by ráda připomněla všem potenciálním nadšencům, že používání lomu pro závodění nebo podobné aktivity je přísně zakázáno. Vstup do lomu je na vlastní nebezpečí a společnost nenese žádnou odpovědnost za jakákoliv zranění nebo škody, které mohou nastat.",
+    "missions.jungle_rock_island.timeTrial.Island1.title": "Ostrovní šotolinový okruh",
+    "missions.jungle_rock_island.timeTrial.Island2.title": "Ostrovní okruh",
+    "missions.jungle_rock_island.timeTrial.Island2.description": "Dlouhý asfaltový okruh kolem obvodu ostrova. Rychlejší a méně technický, než ostatní trasy na ostrově."
 }
