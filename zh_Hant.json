@@ -4608,5 +4608,14 @@
     "launchercpp.moveusr_do_moving": "正在移動檔案...",
     "launchercpp.moveusr_do_index": "正在建立索引...",
     "launchercpp.moveusr_do_filefound": "找到{0}個檔案",
-    "launchercpp.moveusr_do_filestat": "正在移動{0}/{1}個檔案，{2}/{3}"
+    "launchercpp.moveusr_do_filestat": "正在移動{0}/{1}個檔案，{2}/{3}",
+    "ui.controls.ffb.isForceEnabled.tooltip": "傳送力回饋資訊至相容的硬體，如方向盤或部分搖桿。",
+    "ui.controls.ffb.isForceInverted.tooltip": "以此反轉方向盤力回饋作用方向。[br][br]在當載具靜止等狀況時，轉向會自行轉動至最左、右最大角度時使用。",
+    "ui.controls.ffb.gforceCoef": "側向加速力道",
+    "ui.controls.ffb.logitechVibrotactileCoef.tooltip": "控制由音訊產生的震動回饋（若您的設備支員Logitech Trueforce）",
+    "ui.controls.ffb.logitechVibrotactileFreqMax.tooltip": "控制將產生震動回饋的最高音訊頻率（若您的設備支員Logitech Trueforce）",
+    "ui.options.graphics.openXRhelp": "[url=https://go.beamng.com/vr]VR相關協助請點此[/url]",
+    "ui.controls.angle.tooltip": "如果您以方向盤進行遊戲，請選擇與所使用設備相同的角度設定（通常為900或1080度）。[br][br]建議您在方向盤的驅動軟體中將轉向角度設定至設備所允許的最大限度後，再於此選單處選擇與其相同的角度。這會使您更能以較寫實的轉向控制多樣載具（不論是奘像速度較快的拉力賽車或較慢的大型車）。[br][br]設定角度：[list][*]允許載具中的方向盤與您的設備角度同步（請見「{{'ui.controls.lockType'|translate}}」選項）。[*]允許「{{'ui.controls.ffb.softlockForce'|translate}}」選項產生作用（需有力回饋）。[*]手動調整「{{'ui.controls.filter'|translate}}」選項至「{{'ui.controls.filters.2'|translate}}」。[/list]注意：若您[b]非[/b]使用方向盤時，請選擇0度。",
+    "ui.controls.ffb.gforceCoef.tooltip": "以載具受到之側向加速度的一定比例增加力回饋力道。此額外力道將與一般力回饋混合，增強車輛動態回饋。[br][br]現實中，此力量為駕駛人在彎道中所受到的側向力道，並非方向機構所傳達的轉向回饋。[br][br]請依偏好選擇是否啟用此選項，因其將導致不同於現實狀況所感受之轉向行為（如非寫實的轉向置中效果等）。",
+    "ui.controls.ffb.lowspeedCoef.tooltip": "幫助抑制載具靜止（或低速滑行）時力回饋造成的轉向振盪。[br][br]若有疑慮，請啟用此設定。若您進行攀岩（或類似的低速操駕）時，或許會偏好停用此選項。[br][br]注意：當方向盤未被抓握、能夠自由轉動時，儘管此選項已經啟用，震盪依然非常可能發生。"
 }
