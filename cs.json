@@ -3515,7 +3515,7 @@
     "ui.inputActions.vehicle.increase_cc_speed.description": "Zvýší cílovou rychlost tempomatu o 10 km/h",
     "ui.inputActions.vehicle.overrideNitrousOxide.description": "Přidržením lze kdykoliv použít systém vstřikování oxidu dusného",
     "ui.inputActions.vehicle.reset_cc_speed.description": "Obnoví předchozí rychlost jako cílovou rychlost tempomatu",
-    "ui.inputActions.vehicle.steering.description": "Zatáčí vozidlo pomocí osy (volanty, ovladače, atd.)",
+    "ui.inputActions.vehicle.steering.description": "Zatáčí vozidlo pomocí analogové osy (ovladače, volanty, myš…)",
     "ui.inputActions.vehicle.toggleLineLock.description": "Přepíná mezi zapnutou a vypnutou uzávěrkou brzdového okruhu",
     "ui.inputActions.vehicle_debug.debugmode_nodetext_back.description": "Prochází režimy ladění uzlů",
     "ui.inputActions.gameplay.dropCameraAtPlayer.description": "Přesune kameru na hráče",
