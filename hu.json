@@ -170,7 +170,7 @@
     "ui.vehicleconfig.save": "Mentés",
     "ui.vehicleconfig.tuning": "Tuning",
     "ui.vehicleconfig.vehicleconfig": "Jármű Testreszabás",
-    "engine.welcome": "Üdvözöl BeamNG.drive magyarul! :)",
+    "engine.welcome": "Üdvözöl a magyar BeamNG.drive! :)",
     "engine.resourceMissing": "Nem sikerült létrehozni az erőforrást (Hiányzó fájl?): ",
     "engine.invalidUserpath.title": "Érvénytelen felhasználói elérési út",
     "engine.invalidUserpath.msg": "A BeamNG.drive nem tudja elérni a játék könyvtárában lévő startup.ini fájlban megadott UserPath elérési utat! Állítsd át egy érvényes elérési útra: ",
@@ -3018,5 +3018,16 @@
     "ui.apps.threedexport.Filename": "Fájlnév",
     "ui.options.steamLanguage": "Steam Nyelve",
     "ui.options.translationAutomatic": "Automatikus",
-    "ui.options.gameplay.steeringSlowdownStartSpeed": "Kezdés itt:"
+    "ui.options.gameplay.steeringSlowdownStartSpeed": "Kezdés itt:",
+    "ui.common.overwrite": "Felülírás",
+    "ui.mainmenu.navbar.scroll": "[action=menu_item_radial_right_x] [action=menu_item_radial_right_y] Görgetés",
+    "ui.mainmenu.navbar.scroll_h": "[action=menu_item_radial_right_x] {{:: 'ui.inputActions.menu.menu_item_radial_right_x.title' | translate}}",
+    "ui.vehicleconfig.searchHelp.example5": "Megkeresi az összes alkatrész opciót a következőhöz: \"pickup_fr\"",
+    "ui.common.close": "Bezárás",
+    "ui.mainmenu.navbar.scroll_v": "[action=menu_item_radial_right_y] {{:: 'ui.inputActions.menu.menu_item_radial_right_y.title' | translate}}",
+    "ui.credits.production": "Gyártás",
+    "ui.color.roughness": "Érdesség",
+    "ui.vehicleconfig.displayNames": "Nevek Megjelenítése",
+    "ui.photomode.SSAORadius": "Sugár",
+    "ui.apps.brake_thermal_debug.surfaceCooling": "Felületi Hűtés"
 }
