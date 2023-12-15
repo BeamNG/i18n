@@ -3033,5 +3033,6 @@
     "ui.credits.research": "Kutatás tervezés",
     "ui.modmanager.listPossiblyBrokenModsBodyGood": "Nem találtunk sérült mod-ot. Vagy úgy van megsérülve a mod, hogy nem tudjuk felismerni, vagy lehet, hogy nincs sérült mod.",
     "ui.credits.formerEmployee": "Korábbi alkalmazottak, gyakornokok és szabadúszók. ",
-    "ui.credits.additionalVehiclePhysics": "Egyéb jármű fizika"
+    "ui.credits.additionalVehiclePhysics": "Egyéb jármű fizika",
+    "ui.trackbuilder.base.banking": "Döntés"
 }
