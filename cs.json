@@ -7340,5 +7340,16 @@
     "vehicle.interaction.pneumatics.trailerAirSupply.setCoef.title": "Nastavení koeficientu přívodu vzduchu do návěsu",
     "vehicle.interaction.pneumatics.trailerAirSupply.setCoef.desc": "Nastaví koeficient přívodu vzduchu do návěsu.",
     "vehicle.interaction.coupling.fifthwheel.decouple.title": "Odpojení točny",
-    "vehicle.interaction.bullbar.tilt.title": "Naklonit přední ochranný rám"
+    "vehicle.interaction.bullbar.tilt.title": "Naklonit přední ochranný rám",
+    "vehicle.interaction.doors.cargoDoorFL.toggle.title": "Otevření/zavření levých zadních nákladových dveří",
+    "ui.radialmenu2.tirePressureControl.startDeflating": "Spustit deflaci",
+    "vehicle.interaction.doors.FL.toggle.desc": "Otevře a zavře levé přední dveře.",
+    "vehicle.interaction.doors.FR.toggle.title": "Otevření/zavření pravých předních dveří",
+    "vehicle.interaction.doors.FL.toggle.title": "Otevření/zavření levých předních dveří",
+    "vehicle.interaction.doors.FR.toggle.desc": "Otevře a zavře pravé přední dveře.",
+    "vehicle.interaction.doors.cargoDoorFR.toggle.title": "Otevření/zavření pravých zadních nákladových dveří",
+    "vehicle.interaction.doors.cargoDoorFL.toggle.desc": "Otevře a zavře levé zadní nákladové dveře.",
+    "vehicle.interaction.doors.cargoDoorFR.toggle.desc": "Otevře a zavře pravé zadní nákladové dveře.",
+    "vehicle.interaction.powertrain.centerDiff.toggle.title": "Přepínání režimu středového diferenciálu",
+    "vehicle.interaction.powertrain.centerDiff.toggle.desc": "Přepíná mezi dostupnými režimy středového diferenciálu."
 }
