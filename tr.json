@@ -5012,5 +5012,6 @@
     "ui.apps.pneumatics_debug.TankPressure": "Tank Basıncı",
     "ui.apps.pneumatics_debug.CompressorState": "Kompresör",
     "ui.apps.pneumatics_debug.CompressorEngaged": "Bağlandı",
-    "ui.apps.pneumatics_debug.CompressorDisengaged": "Ayrıldı"
+    "ui.apps.pneumatics_debug.CompressorDisengaged": "Ayrıldı",
+    "ui.options.camera.cameraOrbitMaxDynamicPitch": "Hızlandıkça değişen kamera açısı"
 }
