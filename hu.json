@@ -3034,5 +3034,10 @@
     "ui.modmanager.listPossiblyBrokenModsBodyGood": "Nem találtunk sérült mod-ot. Vagy úgy van megsérülve a mod, hogy nem tudjuk felismerni, vagy lehet, hogy nincs sérült mod.",
     "ui.credits.formerEmployee": "Korábbi alkalmazottak, gyakornokok és szabadúszók. ",
     "ui.credits.additionalVehiclePhysics": "Egyéb jármű fizika",
-    "ui.trackbuilder.base.banking": "Döntés"
+    "ui.trackbuilder.base.banking": "Döntés",
+    "ui.apps.damage_app_vehicle_simple.component.wheels.tireFL": "Bal első gumiabroncs kidurrant",
+    "ui.apps.damage_app_vehicle_simple.component.energyStorage.mainTank": "Üzemanyagtartály megsérült",
+    "ui.apps.damage_app_vehicle_simple.component.wheels.tireRR": "Jobb hátsó gumiabroncs kidurrant",
+    "ui.apps.damage_app_vehicle_simple.component.wheels.tireRL": "Bal hátsó gumiabroncs kidurrant",
+    "ui.apps.damage_app_vehicle_simple.component.wheels.tireFR": "Jobb első gumiabroncs kidurrant"
 }
