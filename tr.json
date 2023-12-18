@@ -5013,5 +5013,8 @@
     "ui.apps.pneumatics_debug.CompressorState": "Kompresör",
     "ui.apps.pneumatics_debug.CompressorEngaged": "Bağlandı",
     "ui.apps.pneumatics_debug.CompressorDisengaged": "Ayrıldı",
-    "ui.options.camera.cameraOrbitMaxDynamicPitch": "Hızlandıkça değişen kamera açısı"
+    "ui.options.camera.cameraOrbitMaxDynamicPitch": "Hıza karşılık kamera açısı",
+    "ui.options.camera.cameraOrbitMaxDynamicPitchHint": "Hızlandıkça daha büyük açı uygulanır",
+    "ui.options.camera.cameraOrbitMaxDynamicOffset": "Hıza karşılık kamera yüksekliği",
+    "ui.options.camera.cameraOrbitMaxDynamicOffsetHint": "Hızlandıkça daha büyük kamera yüksekliği ofseti uygulanır"
 }
