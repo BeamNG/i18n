@@ -4892,7 +4892,7 @@
     "missions.johnson_valley.crawl.Rinky.title": "Küçük ve Basit",
     "missions.delivery.outro.cargoCount": "Kargo teslim edildi",
     "missions.delivery.outro.timeRemaining": "Kargo teslim edildi",
-    "missions.delivery.outro.contCargo": "Kargoların hepsiyle devam et",
+    "missions.delivery.outro.contCargo": "Yükün hepsiyle devam et",
     "ui.career.logbook.missionUnlockedNamed": "{{missionName | translate}}",
     "missions.missions.general.accept.viewDetails": "Detayları Gör",
     "missions.missions.general.userSettings.navigationMarkers": "Rota İşareti Etkinleştirildi",
