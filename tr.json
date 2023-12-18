@@ -5016,5 +5016,6 @@
     "ui.options.camera.cameraOrbitMaxDynamicPitch": "Hıza karşılık kamera açısı",
     "ui.options.camera.cameraOrbitMaxDynamicPitchHint": "Hızlandıkça daha büyük açı uygulanır",
     "ui.options.camera.cameraOrbitMaxDynamicOffset": "Hıza karşılık kamera yüksekliği",
-    "ui.options.camera.cameraOrbitMaxDynamicOffsetHint": "Hızlandıkça daha büyük kamera yüksekliği ofseti uygulanır"
+    "ui.options.camera.cameraOrbitMaxDynamicOffsetHint": "Hızlandıkça daha büyük kamera yüksekliği ofseti uygulanır",
+    "ui.options.motionSim.translation": "Çeviri"
 }
