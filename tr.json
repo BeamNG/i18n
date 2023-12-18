@@ -5005,5 +5005,6 @@
     "ui.mainmenu.navbar.scroll_h": "[action=menu_item_radial_right_x] {{:: 'ui.inputActions.menu.menu_item_radial_right_x.title' | translate}}",
     "ui.mainmenu.navbar.scroll_v": "[action=menu_item_radial_right_y] {{:: 'ui.inputActions.menu.menu_item_radial_right_y.title' | translate}}",
     "ui.credits.additionalVehicleArt": "Ek Araç Tasarım",
-    "ui.vehicleconfig.displayNames": "İsimleri göster"
+    "ui.vehicleconfig.displayNames": "İsimleri göster",
+    "ui.photomode.azimuth": "Güneş doğrultusu"
 }
