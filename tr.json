@@ -5001,5 +5001,8 @@
     "ui.timespan.month.singular_pastfuture": "ay",
     "ui.timespan.month.plural_1_pastfuture": "ay",
     "ui.timespan.year.plural_1_pastfuture": "yıl",
-    "ui.colorpicker.holdToDel": "Ön ayarı silmek için basın"
+    "ui.colorpicker.holdToDel": "Ön ayarı silmek için basın",
+    "ui.mainmenu.navbar.scroll_h": "[action=menu_item_radial_right_x] {{:: 'ui.inputActions.menu.menu_item_radial_right_x.title' | translate}}",
+    "ui.mainmenu.navbar.scroll_v": "[action=menu_item_radial_right_y] {{:: 'ui.inputActions.menu.menu_item_radial_right_y.title' | translate}}",
+    "ui.credits.additionalVehicleArt": "Ek Araç Tasarım"
 }
