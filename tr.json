@@ -5000,5 +5000,6 @@
     "ui.timespan.month.singular": "ay",
     "ui.timespan.month.singular_pastfuture": "ay",
     "ui.timespan.month.plural_1_pastfuture": "ay",
-    "ui.timespan.year.plural_1_pastfuture": "yıl"
+    "ui.timespan.year.plural_1_pastfuture": "yıl",
+    "ui.colorpicker.holdToDel": "Ön ayarı silmek için basın"
 }
