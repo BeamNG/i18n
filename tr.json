@@ -5316,5 +5316,9 @@
     "ui.mission.action.start": "Başlat",
     "ui.mission.action.locked": "Kilitli",
     "ui.options.controls.bindings.Replay": "Tekrar Oynatma",
-    "ui.options.graphics.vulkanEnabled.warning": "Vulkan işleyici, henüz yapım aşamasında olan bir çalışmadır: masaüstüne çökebilir, bilgisayarınızda mavi ekrana sebep olabilir veya yeniden başlatabilir. Böyle bir durumda Güvenli Modu kullanın. Test ederken riski size aittir!"
+    "ui.options.graphics.vulkanEnabled.warning": "Vulkan işleyici, henüz yapım aşamasında olan bir çalışmadır: masaüstüne çökebilir, bilgisayarınızda mavi ekrana sebep olabilir veya yeniden başlatabilir. Böyle bir durumda Güvenli Modu kullanın. Test ederken riski size aittir!",
+    "ui.hints.coolantVaporizes": "Aşırı ısınan soğutma sıvısı buharlaşarak sıcak motorun uzun süre aşırı ısınmadan sonra soğumasını zorlaştırabilir. [action=recover_vehicle] tuşu ile aracı yenileyerek soğutma sıvısı seviyesini düzeltebilirsiniz.",
+    "ui.hints.showStandalonePcs": "Kendi özel araç konfigürasyonlarınızı görebilmek için sağ paneldeki ilgili onay kutusunu etkinleştirin.",
+    "ui.hints.switchVehicle": "Araçlar arası geçiş yapmak için [action=switch_next_vehicle] veya [action=switch_previous_vehicle] tuşlarını kullanın.",
+    "ui.hints.dontRunIntoTheCar": "Araçlara hızla koşmak iyi bir fikir değildir. Bu sadece gerçek hayat için değil aynı zamanda BeamNG.Drive için de geçerlidir. Bunu yaparken araca zarar vermenize sebep olabilir."
 }
