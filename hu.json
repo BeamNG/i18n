@@ -3039,5 +3039,7 @@
     "ui.apps.damage_app_vehicle_simple.component.energyStorage.mainTank": "Üzemanyagtartály megsérült",
     "ui.apps.damage_app_vehicle_simple.component.wheels.tireRR": "Jobb hátsó gumiabroncs kidurrant",
     "ui.apps.damage_app_vehicle_simple.component.wheels.tireRL": "Bal hátsó gumiabroncs kidurrant",
-    "ui.apps.damage_app_vehicle_simple.component.wheels.tireFR": "Jobb első gumiabroncs kidurrant"
+    "ui.apps.damage_app_vehicle_simple.component.wheels.tireFR": "Jobb első gumiabroncs kidurrant",
+    "ui.apps.engine_heat_debug_graph.block": "Motorblokk",
+    "ui.apps.engine_thermal_debug.block": "Motorblokk"
 }
