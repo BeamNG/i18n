@@ -3479,7 +3479,7 @@
     "vehicle.core.spawnError": "Ce problème est souvent causé par des mods endommagés ou des fichiers corrompus. Vérifiez en mode sans échec [url=https://go.beamng.com/safeMode]][Click here for Safe Mode instructions][/url]Si le problème persiste, effectuez une installation propre[url=https://go.beamng.com/cleanInstall][Click here Clean Install instructions][/url]",
     "scenario.customExtensionLoadFailed": "Environnement personnalisé non activé. Consultez les avertissements du journal avec {{extName}}",
     "ui.startscreen.warning": "Attention : risque de photosensibilité",
-    "ui.startscreen.warningdetails": "Ce jeu est susceptible de provoquer des crises chez les personnes atteintes d'épilepsie photosensible. Consultez votre médecin en cas de doute.",
+    "ui.startscreen.warningdetails": "Cette application est susceptible de provoquer des crises chez les personnes atteintes d'épilepsie photosensible. Consultez votre médecin en cas de doute.",
     "ui.common.simpleVehicles": "Véhicules simples",
     "ui.trackBuilder.toolbar.title": "Barre d'outils",
     "ui.trackbuilder.menus.exitWindow": "Fermer la fenêtre",
@@ -4154,5 +4154,6 @@
     "replay.stopAutoReplayRecordingAutoplay": "Replay automatique sauvegardé",
     "replay.cantManualRecording": "Ne peut pas commencer un enregistrement manuel alors qu’un automatique est est en marche",
     "replay.stopPlayback": "Replay arrêté",
-    "quest.type.distanceDriven.title": "Conduire {{goal |  unit: \"length\"}}."
+    "quest.type.distanceDriven.title": "Conduire {{goal |  unit: \"length\"}}.",
+    "ui.common.close": "Fermer"
 }
