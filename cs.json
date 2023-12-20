@@ -7302,7 +7302,7 @@
     "ui.inputActions.controllerui.move_ud.description": "Pohyb nahoru/dolů",
     "ui.options.graphics.openXRhandPoseMultiplier": "Přístupnost: násobič pohybu ruky",
     "ui.options.graphics.openXRhandPoseDirectionDegrees": "Orientace ovladače (vertikální stupně)",
-    "ui.options.graphics.openXRsnapTurnUnicycle": "Rychlé otočení v '{{'ui.camera.mode.unicycle'|translate}}' režimu kamery",
+    "ui.options.graphics.openXRsnapTurnUnicycle": "Rychlé otočení v režimu kamery „{{'ui.camera.mode.unicycle'|translate}}“",
     "ui.options.graphics.openXRsnapTurnDriver": "Rychlé otočení v '{{'ui.camera.mode.driver'|translate}}' režimu kamery",
     "ui.debug.vehicle.useInclusiveRange": "Použít inkluzivní rozsah",
     "missions.italy.delivery.abseilingfuel.title": "Slaňovací palivo",
@@ -7387,7 +7387,7 @@
     "vehicle.interaction.coupling.pintleHitch.toggle.title": "Ovládat závěsný hák",
     "vehicle.interaction.coupling.pintleHitch.toggle.desc": "Připojí a odpojí závěsný hák.",
     "vehicle.interaction.cablatch.toggle.desc": "Naklápí kabinu dopředu a dozadu.",
-    "vehicle.interaction.cablatch.toggle.title": "Přepínání zápatek kabiny",
+    "vehicle.interaction.cablatch.toggle.title": "Přepínání západek kabiny",
     "vehicle.interaction.upfits.dump.tailgateLock.desc": "Zamyká a odemyká zámek zadních výklopných dveří.",
     "vehicle.interaction.upfits.dump.tailgateLock.title": "Přepnout zámek výklopných dveří",
     "vehicle.interaction.sleeperDoorR.toggle.title": "Přepnout pravé dveře spací kabiny",
@@ -7398,5 +7398,14 @@
     "vehicle.interaction.cabinetDoorR.toggle.desc": "Otevírá a zavírá pravé dveře spacího kabinetu",
     "vehicle.interaction.cabinetDoorL.toggle.title": "Přepnout levé dveře spacího kabinetu",
     "vehicle.interaction.cabinetDoorL.toggle.desc": "Otevírá a zavírá levé dveře spacího kabinetu",
-    "vehicle.bdebug.nodeTextMode.forces": "Síly"
+    "vehicle.bdebug.nodeTextMode.forces": "Síly",
+    "ui.inputActions.vehicle_debug.toggleSecondView.title": "Aktivovat druhé okno",
+    "ui.inputActions.containerTrailer.toggle_feet.description": "Zasouvá/vysouvá nohy přívěsu",
+    "ui.inputActions.tiltdeck.ramp_down.title": "Snížit rampu",
+    "ui.inputActions.tiltdeck.ramp_up.description": "Zvedá rampu",
+    "vehicle.interaction.hoodLatchR.toggle.title": "Přepnout pravou západku kapoty",
+    "vehicle.interaction.hoodLatchL.toggle.title": "Přepnout levou západku kapoty",
+    "vehicle.interaction.hoodLatchR.toggle.desc": "Odemkne a zamkne pravou západku kapoty",
+    "vehicle.interaction.hoodLatchL.toggle.desc": "Odemkne a zamkne levou západku kapoty",
+    "ui.inputActions.tiltdeck.ramp_up.title": "Zvýšit rampu"
 }
