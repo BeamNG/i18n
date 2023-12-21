@@ -5320,5 +5320,14 @@
     "ui.hints.coolantVaporizes": "Aşırı ısınan soğutma sıvısı buharlaşarak sıcak motorun uzun süre aşırı ısınmadan sonra soğumasını zorlaştırabilir. [action=recover_vehicle] tuşu ile aracı yenileyerek soğutma sıvısı seviyesini düzeltebilirsiniz.",
     "ui.hints.showStandalonePcs": "Kendi özel araç konfigürasyonlarınızı görebilmek için sağ paneldeki ilgili onay kutusunu etkinleştirin.",
     "ui.hints.switchVehicle": "Araçlar arası geçiş yapmak için [action=switch_next_vehicle] veya [action=switch_previous_vehicle] tuşlarını kullanın.",
-    "ui.hints.dontRunIntoTheCar": "Araçlara hızla koşmak iyi bir fikir değildir. Bu sadece gerçek hayat için değil aynı zamanda BeamNG.Drive için de geçerlidir. Bunu yaparken araca zarar vermenize sebep olabilir."
+    "ui.hints.dontRunIntoTheCar": "Araçlara hızla koşmak iyi bir fikir değildir. Bu sadece gerçek hayat için değil aynı zamanda BeamNG.Drive için de geçerlidir. Bunu yaparken araca zarar vermenize sebep olabilir.",
+    "missions.chase.stars.bronze": "{{timeBronze | time}} sürenin altında görevi bitir.",
+    "missions.chase.stars.silver": "{{timeSilver | time}} sürenin altında görevi bitir..",
+    "missions.chase.stars.lowDamage": "Aracınız hasarsız veya az hasarlı durumda şüpheliyi yakalayın.",
+    "missions.chase.stars.gold": "{{timeGold | time}} sürenin altında görevi bitir.",
+    "missions.chase.stars.lowDamageSuspect": "Şüpheliyi, aracı hasarsız veya az hasarlı durumda yakalayın.",
+    "missions.chase.stars.highDamageSuspect": "Şüpheliyi, aracı ağır hasarlı durumda yakalayın.",
+    "missions.chase.stars.perfectArrest": "Şüpheliyi, aracı sadece bir kez durmuşken (bir geri sayım ile) yakalayın.",
+    "missions.chase.stars.timedArrest": "Şüpheliyi {{minTimeWindow | time}} ve {{maxTimeWindow | time}} süre aralığında yakalayın.",
+    "missions.chase.stars.completeTraffic": "Şüpheliyi trafik etkinleştirilmiş durumda yakalayın."
 }
