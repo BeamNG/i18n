@@ -6319,7 +6319,7 @@
     "ui.freeroam.refuelMixed.partial": "Tvé vozidlo bylo natankováno/nabito pouze částečně. Tato stanice nenabízí palivo/náboj pro všechny nádrže/baterie ve tvém vozidle.",
     "missions.garage.outro.successiveAmountSilver": "Skvělé! Dobrá práce, to je neuvěřitelná kombinace!",
     "missions.garage.outro.successiveAmountGold": "To je úžasné, něco takového jsem ještě neviděl!",
-    "missions.garage.outro.AmountSilver": "není nic lepšího než pár dodávek, skvělá práce!",
+    "missions.garage.outro.AmountSilver": "není nic lepšího než pár dodávek, skvělá práce!.",
     "ui.mainmenu.navbar.scroll": "[action=menu_item_radial_right_x][action=menu_item_radial_right_y] Posouvejte",
     "ui.mainmenu.navbar.scroll_h": "[action=menu_item_radial_right_x] {{:: 'ui.inputActions.menu.menu_item_radial_right_x.title' | translate}}",
     "ui.mainmenu.navbar.scroll_v": "[action=menu_item_radial_right_y] {{:: 'ui.inputActions.menu.menu_item_radial_right_y.title' | translate}}",
