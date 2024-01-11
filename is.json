@@ -242,7 +242,7 @@
     "ui.modWizard.skinWizard.howTo": "Hvernig á að búa til skin",
     "ui.modWizard.skinWizard.filesGenerated": "Skin skráirnar hafa skapast.",
     "ui.modWizard.skinWizard.viewSkin": "Skoða skin",
-    "engine.cef.subprocessdied.msg": "Það uppkom villa í user interface.\n----\nError data:\n{}\n----\n\nÞú getur fengið aukalega hjálp frá:\nhttps://go.beamng.com/UnresponsiveUIProcess\n\nViltu opna þetta veffang í vafrinum þínum núna?",
+    "engine.cef.subprocessdied.msg": "Það uppkom villa í user interface.\n----\nError data:\n{}\n----\n\nÞú getur fengið aukalega hjálp frá:\nhttps://go.beamng.com/UnresponsiveUIProcess\n\nOpna þetta veffang í vafrinum þínum núna?",
     "engine.editor.menu.saveLevelAs": "Vista borð sem...",
     "engine.editor.menu.exportTerrainHeightmap": "Flytja út landslag Heightmap",
     "engine.editor.menu.placeCameraSelection": "Staðsetja myndavél á vali",
@@ -404,5 +404,7 @@
     "ui.dashboard.vehicles": "Farartæki",
     "ui.dashboard.options": "Valmöguleikar",
     "ui.dashboard.photomode": "Myndahamur",
-    "ui.dashboard.vehicleconfig": "Farartækja Uppsetning"
+    "ui.dashboard.vehicleconfig": "Farartækja Uppsetning",
+    "ui.dashboard.bigmap": "Borð",
+    "ui.dashboard.menu": "Aðal Valmynd"
 }
