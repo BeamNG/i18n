@@ -1029,7 +1029,7 @@
     "ui.modWizard.skinWizard.desc": "Ter demonstratie zullen we SkinExample gebruiken als de naam voor onze kleurstelling. De twee bestanden die je kan bewerken zijn te zien in de afbeelding aan de rechterkant. Zodra je de bestanden van de kleurstelling geopend hebt kun je op volgende drukken om de kleurstelling in de applicatie te laden of om de omgeving te sluiten.",
     "ui.modWizard.skinWizard.left": "De linkerkant van de afbeelding is het bestand \"SkinExample.dds\". Dit is het hoofdbestandsdeel van je skin of kleurstelling. Verf of kleur over de witte delen om je gewenste kleurstelling te maken.",
     "engine.fatalError.experienced": "\n\nBeamNG.drive is gecrasht. Klik op OK om de applicatie te sluiten en een crashrapport in te dienen. Houd er rekening mee dat u geen reactie zal krijgt als u een crashrapport stuurt. Als je hulp nodig hebt bij het oplossen van het probleem, neem dan contact op met ons Support Team.\n\nhttps://support.beamng.com/",
-    "engine.fatalError.errMsg": "FATALE FOUT: ",
+    "engine.fatalError.errMsg": "KRITISCHE FOUT: ",
     "scenario.customExtensionLoadFailed": "Aangepaste logica wordt niet uitgevoerd. Check log voor waarschuwingen met {{extName}}",
     "ui.loadingScreen.tips": "TIPS",
     "engine.fatalError.experienced2": "\n\nEr is een fatale fout opgetreden in BeamNG.Drive.",
