@@ -607,7 +607,7 @@
     "engine.nodegrab.fixedwarning": "CTRL + Middelste Muis Knop om de nodes los te maken",
     "engine.nodegrab.uncoupling": "Alle gekoppelde nodes ontkoppelen",
     "engine.nodegrab.coupling": "De twee nodes koppelen",
-    "engine.editor.loading": "World Editor laden...",
+    "engine.editor.loading": "Wereld Editor aan het laden...",
     "engine.editor.menu.resaveLevel": "Sla alles opnieuw op",
     "engine.editor.menu.edit": "Aanpassen",
     "engine.editor.menu.undo": "Ongedaan maken",
