@@ -623,7 +623,7 @@
     "engine.editor.menu.gameOptions": "Spelinstellingen...",
     "engine.editor.menu.postfxManager": "PostEffect Beheerder",
     "engine.editor.menu.view": "Beeld",
-    "engine.editor.menu.visibilityLayers": "Zichtbaarheid Lagen",
+    "engine.editor.menu.visibilityLayers": "Zichtbaarheidslagen",
     "engine.editor.menu.gridOrtho": "Laat raster zien in orthografische beelden",
     "engine.editor.menu.standartCamera": "Standaard",
     "engine.editor.menu.orbitCamera": "Vrij Roterende Camera",
