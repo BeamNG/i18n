@@ -1242,5 +1242,14 @@
     "ui.environment.tireMarks.save": "Opslaan",
     "vehicle.engine.rodBearingsDamaged": "Drijfstanglagers beschadigd",
     "scenarios.utah.chapter_2.chapter_2_1_ram.title": "Covet Verwijdering",
-    "scenarios.small_island.intro_rally_stage2.title": "Rally Klein Eiland - Etappe 2"
+    "scenarios.small_island.intro_rally_stage2.title": "Rally Klein Eiland - Etappe 2",
+    "ui.common.property.recommendedVehicle": "Aanbevolen voertuig",
+    "ui.common.okay": "Oké",
+    "ui.common.thanks": "Bedankt",
+    "ui.common.back": "Terug",
+    "ui.common.low": "Laag",
+    "ui.common.medium": "Gemiddeld",
+    "ui.common.high": "Hoog",
+    "ui.common.totalSize": "Maximale map grootte",
+    "ui.common.totalCount": "Aantal bestanden"
 }
