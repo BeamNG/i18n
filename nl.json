@@ -1251,5 +1251,10 @@
     "ui.common.medium": "Gemiddeld",
     "ui.common.high": "Hoog",
     "ui.common.totalSize": "Maximale map grootte",
-    "ui.common.totalCount": "Aantal bestanden"
+    "ui.common.totalCount": "Aantal bestanden",
+    "ui.dashboard.menu": "Hoofdmenu",
+    "ui.mainmenu.navbar.navigate": "Navigeren",
+    "ui.dashboard.bigmap": "Kaart",
+    "ui.dashboard.gameContext": "Missies",
+    "ui.dashboard.performanceGraph": "Open prestatie grafiek"
 }
