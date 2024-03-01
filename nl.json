@@ -1183,7 +1183,7 @@
     "ui.modmanager.actions": "Acties",
     "ui.modmanager.deleteAllDesc": "Weet je zeker dat je je abonnement wilt opzeggen en alle Repository mods wilt verwijderen?",
     "ui.modmanager.pack": "Inpakken",
-    "ui.busRoute.stopCount": "Hoeveelheid haltes",
+    "ui.busRoute.stopCount": "Hoeveelheid Haltes",
     "ui.busRoute.strictMode": "Vereist het stoppen, verlagen, en openen van de bus.",
     "ui.busRoute.vehicle": "Voertuig",
     "ui.busRoute.routeSelect": "Selecteer route",
