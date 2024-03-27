@@ -4045,5 +4045,10 @@
     "ui.options.gameplay.steeringAutocenter": "Pidätä ohjausta pienellä nopeudella (vain nappi/näppäin)",
     "ui.options.gameplay.steeringSlowdownMultiplier": "Hidastuksen määrä",
     "ui.options.gameplay.steeringDirect": "Aseta myös painikkeisiin jotka käyttävät suodatinta: {{:: 'ui.controls.filters.2' | translate}}",
-    "ui.options.gameplay.enableMissionReplay": "Nauhoita automaattisesti haasteiden yritykset"
+    "ui.options.gameplay.enableMissionReplay": "Nauhoita automaattisesti haasteiden yritykset",
+    "ui.general.fuelType.kerosine": "Kerosiini",
+    "ui.common.overwrite": "Ylikirjoita",
+    "ui.common.close": "Sulje",
+    "ui.general.fuelType.gasoline": "Bensiini",
+    "ui.introPopup.milestones.title": "Virstanpylväät"
 }
