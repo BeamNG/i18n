@@ -4138,5 +4138,7 @@
     "vehicle.info.Type": "Ajoneuvon tyyppi",
     "vehicle.info.Value": "Arvo",
     "vehicle.info.Weight": "Omamassa",
-    "vehicle.info.Years": "Valmistusvuodet"
+    "vehicle.info.Years": "Valmistusvuodet",
+    "ui.options.traffic.smartSelections": "Ota käyttöön älykäs ajoneuvojen valinta",
+    "ui.options.traffic.smartSelections.tooltip": "Jos tämä asetus on käytössä, ajoneuvot valikoituvat sen mukaan, mitkä autot ovat yleisiä kyseisessä maassa. Jos asetus on pois käytöstä, kaikki ajoneuvot valikoituvat täysin satunnaisesti."
 }
