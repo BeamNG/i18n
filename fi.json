@@ -4164,5 +4164,13 @@
     "vehicle.advancedCouplerControl.fiftwheelSlideLock.locked": "Vetopöydän liukusäädin lukittu",
     "vehicle.advancedCouplerControl.fiftwheelSlideLock.locking": "Vetopöydän liukusäädin lukitaan...",
     "vehicle.pneumatics.trailerAir.enabled": "Perävaunun ilmansyöttö päällä",
-    "vehicle.pneumatics.trailerAir.disabled": "Perävaunun ilmansyöttö pois päältä"
+    "vehicle.pneumatics.trailerAir.disabled": "Perävaunun ilmansyöttö pois päältä",
+    "ui.controls.ffb.isForceEnabled": "Käytössä",
+    "ui.controls.ffb.isForceInverted": "Käänteinen",
+    "ui.controls.ffb.strength": "Voimakkuus",
+    "vehicle.pressureTank.deformationLeak.true": "Painesäiliö vuotaa!",
+    "vehicle.pressureTank.breakLeak.true": "Painesäiliö rikkoutunut!",
+    "vehicle.advancedCouplerControl.fiftwheelTiltLock.unlocked": "Vetopöydän kallistus ei lukittuna",
+    "vehicle.advancedCouplerControl.fiftwheelTiltLock.locked": "Vetopöydän kallistus lukittu",
+    "vehicle.advancedCouplerControl.fiftwheelTiltLock.locking": "Vetopöydän kallistus lukkiutuu..."
 }
