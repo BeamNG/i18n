@@ -4154,5 +4154,15 @@
     "ui.options.gameplay.unfocusedInput": "Salli ohjaimen käyttö ja force feedback kun ikkuna ei ole tarkennettuna",
     "ui.controls.angle": "1:1 ohjauskulma",
     "ui.controls.lockTypes.disabled": "Ei käytössä",
-    "ui.controls.lockTypes.3": "Poistetaan käytöstä tarvittaessa"
+    "ui.controls.lockTypes.3": "Pois käytöstä tarvittaessa",
+    "ui.controls.ffb.isForceInverted.tooltip": "Ota käyttöön, jos ratin voima vääntää päinvastaiseen suuntaan kuin pitäisi.[br][br]Esimerkiksi, jos pysäköidyn ajoneuvon ohjaus kääntyy itsestään täysin vasemmalle tai oikealle.",
+    "ui.controls.ffb.strength.tooltip": "Mitä voimakkaampi rattiohjain, sitä pienempi voimakkuusasetus voidaan valita. Hyvät lähtökohdat voimakkuudelle:[list][*]Perustason ratit joissa 1-3Nm: Voimakkuus 350 - 500[*]Keskitason ratit joissa 3-5Nm: Voimakkuus 200 - 350[*]Korkean tason ratit joissa 5-30Nm: Voimakkuus 50 - 200[/list]Jos valittu voimakkuus on liian korkea, pienet yksityiskohdat tuntuvat paremmin, mutta keskivahvat ja suuret yksityiskohdat ylittävät maksimivoimakkuuden ja menevät erottelukyvyttömäksi, jolloin tuntuman hyöty pienenee. Ilmiöllä on englanninkielinen nimi [i]clipping[/i]. Sitä tapahtuu, kun rattiohjaimelta pyydetään enemmän vääntömomenttia kuin se pystyy tuottamaan.[br][br]Voit tarkistaa clippaamista käyttöliittymäsovelluksilla '{{'ui.apps.steering_position.name'|translate}}' ja '{{'ui.apps.ffb_graph.name'|translate}}'. Suosittelemme pienentämään voimakkuutta sen verran että clipping on harvinaista (tai tapahtuu tilanteissa joissa siitä ei ole haittaa).[br][br]Huom. force feedback on joissain ajoneuvoissa heikompi tai heikompi kuin keskiarvo (kuten modit joita ei testattu ratilla). Voit säätää kyseiset ajoneuvot yksitellen: {{'ui.dashboard.vehicleconfig'|translate}} > {{'ui.vehicleconfig.tuning'|translate}} > Kokoonpanon force feedback kerroin.",
+    "vehicle.advancedCouplerControl.fiftwheelSlideLock.unlocked": "Vetopöydän liukusäädin avattu",
+    "ui.controls.ffb.isForceEnabled.tooltip": "Lähetä force-feedback yhteensopiviin laitteisiin, kuten ratit ja ohjaussauvat.",
+    "ui.controls.ffb.softlockForce": "Ohjauslukon vahvuus",
+    "vehicle.pneumatics.lowAirPressureWarning": "Matala ilmanpaine!",
+    "vehicle.advancedCouplerControl.fiftwheelSlideLock.locked": "Vetopöydän liukusäädin lukittu",
+    "vehicle.advancedCouplerControl.fiftwheelSlideLock.locking": "Vetopöydän liukusäädin lukitaan...",
+    "vehicle.pneumatics.trailerAir.enabled": "Perävaunun ilmansyöttö päällä",
+    "vehicle.pneumatics.trailerAir.disabled": "Perävaunun ilmansyöttö pois päältä"
 }
