@@ -142,7 +142,7 @@
     "engine.editor.menu.xAxis": "X-akseli",
     "engine.editor.menu.yAxis": "Y-akseli",
     "engine.editor.menu.zAxis": "Z-akseli",
-    "engine.engineFail": "Pelin alustus epäonnistui, lopetetaan.",
+    "engine.engineFail": "Sovelluksen alustus epäonnistui, lopetetaan.",
     "engine.invalidUserpath.msg": "BeamNG.drive ei pääse käsiksi UserPathiin, joka on määritelty tiedostossa startup.ini (pelikansio). Valitse toimiva polku: ",
     "engine.invalidUserpath.title": "Väärä käyttäjäpolku",
     "engine.levelModified.msg": "Tasoa on muokattu editorissa. Tallenna?",
