@@ -4150,5 +4150,6 @@
     "ui.options.graphics.fps": "FPS",
     "ui.options.audio.masterVolTooltip": "Yleinen äänenvoimakkuus",
     "ui.replay.warning": "Eri [b]sovellusversion[/b], eri [b]modien[/b] tai eri [b]modi versioiden[/b] käyttö voi tehdä uusinnasta käyttökelvottoman.",
-    "ui.credits.additionalVehicleArt": "Ajoneuvon Lisätaide"
+    "ui.credits.additionalVehicleArt": "Ajoneuvon Lisätaide",
+    "ui.options.gameplay.unfocusedInput": "Salli ohjaimen käyttö ja force feedback kun ikkuna ei ole tarkennettuna"
 }
