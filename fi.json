@@ -4099,5 +4099,7 @@
     "ui.apps.damage_app_vehicle_simple.component.engine.engineDisabled": "Moottori On Pois Käytöstä",
     "ui.apps.damage_app_vehicle_simple.component.engine.impactDamage": "Moottorin Törmäysvaurio",
     "ui.apps.damage_app_vehicle_simple.component.powertrain.driveshaft": "Vetoakseli Rikki",
-    "ui.apps.damage_app_vehicle_simple.component.wheels.brakeRR": "Oikea takajarrut vaurioitunut"
+    "ui.apps.damage_app_vehicle_simple.component.wheels.brakeRR": "Oikea takajarru vaurioitunut",
+    "vehicle.info.0-60 mph": "0-60 mph",
+    "ui.options.steamdeckSupport": "SteamDeck tuki on vielä kokeellinen ominaisuus"
 }
