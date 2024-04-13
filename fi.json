@@ -3924,7 +3924,7 @@
     "ui.dashboard.performanceGraph": "Avaa suorituskykykuvaaja",
     "ui.modmanager.updated.title": "BeamNG.drive on päivitetty versioon {{versionStr}}",
     "ui.modmanager.updated.subtitle": "Kaikki asennetut modit on väliaikaisesti kytketty pois",
-    "ui.modmanager.updated.p1": "Modit saattavat lopettaa normaalin toiminnan tärkeiden pelipäivitysten seurauksena.",
+    "ui.modmanager.updated.p1": "Modit saattavat lopettaa normaalin toiminnan suurien sovelluspäivityksien seurauksena.",
     "ui.common.totalCount": "Tiedostoluku",
     "ui.common.vehSearch": "Näytä/piilota konfiguraatiot tuplaklikkaamalla",
     "ui.common.medium": "Keskitaso",
