@@ -4098,5 +4098,6 @@
     "ui.apps.damage_app_vehicle_simple.component.engine.engineHydrolocked": "Moottori on Hydrolukittu",
     "ui.apps.damage_app_vehicle_simple.component.engine.engineDisabled": "Moottori On Pois Käytöstä",
     "ui.apps.damage_app_vehicle_simple.component.engine.impactDamage": "Moottorin Törmäysvaurio",
-    "ui.apps.damage_app_vehicle_simple.component.powertrain.driveshaft": "Vetoakseli Rikki"
+    "ui.apps.damage_app_vehicle_simple.component.powertrain.driveshaft": "Vetoakseli Rikki",
+    "ui.apps.damage_app_vehicle_simple.component.wheels.brakeRR": "Oikea takajarrut vaurioitunut"
 }
