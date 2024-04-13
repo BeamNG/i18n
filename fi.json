@@ -4148,5 +4148,7 @@
     "ui.options.traffic.allowMods.tooltip": "Jos tämä asetus on käytössä, liikenteeseen voi valikoitua myös ajoneuvoja, jotka ovat modeja.",
     "ui.options.display": "Näyttö",
     "ui.options.graphics.fps": "FPS",
-    "ui.options.audio.masterVolTooltip": "Yleinen äänenvoimakkuus"
+    "ui.options.audio.masterVolTooltip": "Yleinen äänenvoimakkuus",
+    "ui.replay.warning": "[b]Eri sovellusversion[/b], eri [b]modien[/b] tai eri [b]modi versioiden[/b] käyttö voi renderöidä uusinnan käyttökelvottomaksi.",
+    "ui.credits.additionalVehicleArt": "Ajoneuvon Lisätaide"
 }
