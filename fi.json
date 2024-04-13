@@ -4089,5 +4089,14 @@
     "ui.apps.damage_app_vehicle_simple.component.wheels.tireFR": "Oikea eturengas puhki",
     "ui.apps.damage_app_vehicle_simple.component.wheels.tireRL": "Vasen takarengas puhki",
     "ui.apps.damage_app_vehicle_simple.component.wheels.brakeFL": "Vasen etujarru vaurioitunut",
-    "ui.apps.damage_app_vehicle_simple.component.wheels.brakeRL": "Vasen takajarrut vaurioitunut"
+    "ui.apps.damage_app_vehicle_simple.component.wheels.brakeRL": "Vasen takajarrut vaurioitunut",
+    "ui.apps.damage_app_vehicle_simple.component.engine.oilStarvation": "Öljyn puute",
+    "ui.apps.damage_app_vehicle_simple.component.engine.engineIsHydrolocking": "Moottori täyttyy nesteellä",
+    "ui.apps.damage_app_vehicle_simple.component.engine.engineReducedTorque": "Moottorin Vääntömomentti Alennettu",
+    "ui.apps.damage_app_vehicle_simple.component.engine.overTorqueDanger": "Liiallisesta väännöstä johtuva moottorivaurion riski",
+    "ui.apps.damage_app_vehicle_simple.component.engine.catastrophicOverTorqueDamage": "Vakava liiallisesta väännöstä johtuva moottorivaurion riski",
+    "ui.apps.damage_app_vehicle_simple.component.engine.engineHydrolocked": "Moottori on Hydrolukittu",
+    "ui.apps.damage_app_vehicle_simple.component.engine.engineDisabled": "Moottori On Pois Käytöstä",
+    "ui.apps.damage_app_vehicle_simple.component.engine.impactDamage": "Moottorin Törmäysvaurio",
+    "ui.apps.damage_app_vehicle_simple.component.powertrain.driveshaft": "Vetoakseli Rikki"
 }
