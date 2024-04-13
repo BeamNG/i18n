@@ -4089,7 +4089,7 @@
     "ui.apps.damage_app_vehicle_simple.component.wheels.tireFR": "Oikea eturengas puhki",
     "ui.apps.damage_app_vehicle_simple.component.wheels.tireRL": "Vasen takarengas puhki",
     "ui.apps.damage_app_vehicle_simple.component.wheels.brakeFL": "Vasen etujarru vaurioitunut",
-    "ui.apps.damage_app_vehicle_simple.component.wheels.brakeRL": "Vasen takajarrut vaurioitunut",
+    "ui.apps.damage_app_vehicle_simple.component.wheels.brakeRL": "Vasen takajarru vaurioitunut",
     "ui.apps.damage_app_vehicle_simple.component.engine.oilStarvation": "Öljyn puute",
     "ui.apps.damage_app_vehicle_simple.component.engine.engineIsHydrolocking": "Moottori täyttyy nesteellä",
     "ui.apps.damage_app_vehicle_simple.component.engine.engineReducedTorque": "Moottorin Vääntömomentti Alennettu",
