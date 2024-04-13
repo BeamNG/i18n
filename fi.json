@@ -4142,5 +4142,11 @@
     "ui.options.traffic.smartSelections": "Ota käyttöön älykäs ajoneuvojen valinta",
     "ui.options.traffic.smartSelections.tooltip": "Jos tämä asetus on käytössä, ajoneuvot valikoituvat sen mukaan, mitkä autot ovat yleisiä kyseisessä maassa. Jos pois käytöstä, kaikki ajoneuvot valikoituvat satunnaisesti.",
     "ui.options.traffic.simpleVehicles.tooltip": "Jos käytössä, matalalaatuiset ajoneuvot valikoituvat liikenteeseen suorituskyvyn parantamiseksi.",
-    "ui.options.traffic.simpleVehicles": "Käytä yksinkertaisia ajoneuvoja"
+    "ui.options.traffic.simpleVehicles": "Käytä yksinkertaisia ajoneuvoja",
+    "ui.options.graphics.quality": "Laatu",
+    "ui.options.traffic.allowMods": "Salli modien lisääminen liikenteeseen",
+    "ui.options.traffic.allowMods.tooltip": "Jos tämä asetus on käytössä, liikenteeseen voi valikoitua myös ajoneuvoja, jotka ovat modeja.",
+    "ui.options.display": "Näyttö",
+    "ui.options.graphics.fps": "FPS",
+    "ui.options.audio.masterVolTooltip": "Yleinen äänenvoimakkuus"
 }
