@@ -4191,5 +4191,16 @@
     "ui.photomode.toggleNodegrabber": "Kärkitarttuja",
     "ui.photomode.tooltipNodegrabber": "Kytke kärkitarttujan näkyvyys",
     "ui.mainmenu.navbar.scroll": "[action=menu_item_radial_right_x] [action=menu_item_radial_right_y] Selaa",
-    "ui.apps.vehicle_vicinity_app.name": "Näytä läheiset ajoneuvot"
+    "ui.apps.vehicle_vicinity_app.name": "Näytä läheiset ajoneuvot",
+    "ui.options.camera.transitionVehicleHint": "Kuinka kauan kestää ajoneuvon vaihtamisen animaatio millisekunteina",
+    "ui.options.replay": "Uusinta",
+    "ui.options.gameplay.replayTod": "Vuorokaudenaikojen toisto",
+    "ui.options.gameplay.replayClouds": "Pilvien toisto",
+    "ui.options.gameplay.resetAll": "Nollaa kaikki",
+    "ui.options.gameplay.enableMissionReplay.dataCapMode": "Tallennettujen automaattisten uusintojen datanrajoitustila",
+    "ui.options.pleaseChooseTheOptionsAbove": "Valitse jokin yllä olevista asetuksista",
+    "ui.options.camera.transitionVehicleTime": "Siirtymän kesto ajoneuvoa vaihtaessa",
+    "ui.options.traffic.loadForFreeroam": "Aloita vapaa ajo liikenteen kanssa",
+    "ui.options.traffic.useParked": "Ota käyttöön pysäköidyt ajoneuvot",
+    "ui.options.traffic.parkedAmount": "Pysäköityjen ajoneuvojen maksimimäärä"
 }
