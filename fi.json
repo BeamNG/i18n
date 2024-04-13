@@ -4174,9 +4174,16 @@
     "vehicle.advancedCouplerControl.fiftwheelTiltLock.locked": "Vetopöydän kallistus lukittu",
     "vehicle.advancedCouplerControl.fiftwheelTiltLock.locking": "Vetopöydän kallistus lukittuu...",
     "levels.utah.gasStationPoints.gasolin": "Gas ol' In -huoltoasema",
-    "levels.johnson_valley.info.roads": "5% a’svalttia, 15% hiekkatietä, 80% polkuja",
+    "levels.johnson_valley.info.roads": "5% asfalttia, 15% hiekkateitä, 80% polkuja",
     "levels.utah.spawnpoints.airfield": "Lentokenttä",
     "levels.west_coast_usa.gasStationPoints.tyranos_island_KEVee.description": "Lataa ajoneuvosi saaressa.",
     "ui.controls.ffb.logitechVibrotactileFreqMax": "Maksimi",
-    "levels.johnson_valley.info.biome": "Aavikko"
+    "levels.johnson_valley.info.biome": "Aavikko",
+    "levels.johnson_valley.info.features": "Pensaikot, Dyynit, Kiviset vuoret",
+    "levels.johnson_valley.spawnpoints.spawn_highway_north": "Pohjoinen maantie",
+    "levels.johnson_valley.spawnpoints.spawn_highway_south": "Eteläinen maantie",
+    "levels.johnson_valley.spawnpoints.spawn_gas_station": "Huoltoasema",
+    "levels.johnson_valley.spawnpoints.spawn_settlement": "Asutus",
+    "levels.johnson_valley.gasStationPoints.tyrannos": "Tyrannos -huoltoasema",
+    "levels.johnson_valley.spawnpoints.spawn_remote_pits": "Kaukaiset varikot"
 }
