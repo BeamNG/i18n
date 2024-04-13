@@ -4172,5 +4172,8 @@
     "vehicle.pressureTank.breakLeak.true": "Painesäiliö rikkoutunut!",
     "vehicle.advancedCouplerControl.fiftwheelTiltLock.unlocked": "Vetopöydän kallistus ei lukittuna",
     "vehicle.advancedCouplerControl.fiftwheelTiltLock.locked": "Vetopöydän kallistus lukittu",
-    "vehicle.advancedCouplerControl.fiftwheelTiltLock.locking": "Vetopöydän kallistus lukittuu..."
+    "vehicle.advancedCouplerControl.fiftwheelTiltLock.locking": "Vetopöydän kallistus lukittuu...",
+    "levels.utah.gasStationPoints.gasolin": "Gas ol' In -huoltoasema",
+    "levels.johnson_valley.info.roads": "5% a’svalttia, 15% hiekkatietä, 80% polkuja",
+    "levels.utah.spawnpoints.airfield": "Lentokenttä"
 }
