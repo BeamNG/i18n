@@ -4175,5 +4175,8 @@
     "vehicle.advancedCouplerControl.fiftwheelTiltLock.locking": "Vetopöydän kallistus lukittuu...",
     "levels.utah.gasStationPoints.gasolin": "Gas ol' In -huoltoasema",
     "levels.johnson_valley.info.roads": "5% a’svalttia, 15% hiekkatietä, 80% polkuja",
-    "levels.utah.spawnpoints.airfield": "Lentokenttä"
+    "levels.utah.spawnpoints.airfield": "Lentokenttä",
+    "levels.west_coast_usa.gasStationPoints.tyranos_island_KEVee.description": "Lataa ajoneuvosi saaressa.",
+    "ui.controls.ffb.logitechVibrotactileFreqMax": "Maksimi",
+    "levels.johnson_valley.info.biome": "Aavikko"
 }
