@@ -4140,5 +4140,7 @@
     "vehicle.info.Weight": "Omamassa",
     "vehicle.info.Years": "Valmistusvuodet",
     "ui.options.traffic.smartSelections": "Ota käyttöön älykäs ajoneuvojen valinta",
-    "ui.options.traffic.smartSelections.tooltip": "Jos tämä asetus on käytössä, ajoneuvot valikoituvat sen mukaan, mitkä autot ovat yleisiä kyseisessä maassa. Jos asetus on pois käytöstä, kaikki ajoneuvot valikoituvat täysin satunnaisesti."
+    "ui.options.traffic.smartSelections.tooltip": "Jos tämä asetus on käytössä, ajoneuvot valikoituvat sen mukaan, mitkä autot ovat yleisiä kyseisessä maassa. Jos pois käytöstä, kaikki ajoneuvot valikoituvat satunnaisesti.",
+    "ui.options.traffic.simpleVehicles.tooltip": "Jos käytössä, matalalaatuiset ajoneuvot valikoituvat liikenteeseen suorituskyvyn parantamiseksi.",
+    "ui.options.traffic.simpleVehicles": "Käytä yksinkertaisia ajoneuvoja"
 }
