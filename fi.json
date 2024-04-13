@@ -38,7 +38,7 @@
     "campaigns.utah.chapter_2.summaryHeading": "Onneksi olkoon!",
     "campaigns.utah.chapter_2.summaryMessage": "Hyvää työtä! Olet valmis siirtymään seuraavaan vaiheeseen",
     "campaigns.utah.chapter_2.title": "Kivinen alku",
-    "engine.cef.subprocessdied.msg": "Käyttöliittymä ei vastannut ajoissa.\nNäin voi käydä, jos virustorjunta estää BeamNG.drive.ui.exe -sovelluksen.\n\nApua ongelman selättämiseen saat täältä:\n\nhttps://documentation.beamng.com/support/troubleshooting/common_exit_codes/#unresponsive-ui-process\n\nAvataanko linkki selaimessa nyt?",
+    "engine.cef.subprocessdied.msg": "Käyttöliittymässä tapahtui virhe.\n\n----\nVirhe tiedot:\n{}\n----\n\nLisä apua ongelmaan saat täältä:\nhttps://go.beamng.com/UnresponsiveUIProcess\n\nAvataanko linkki selaimessa nyt?",
     "engine.cef.subprocessdied.title": "Käyttöliittymä ei vastaa",
     "engine.cef.subprocessdied.url": "https://documentation.beamng.com/support/troubleshooting/common_exit_codes/#unresponsive-ui-process",
     "engine.editor.loading": "Ladataan karttaeditoria...",
