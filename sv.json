@@ -28,7 +28,7 @@
     "engine.editor.menu.xAxis": "X-axel",
     "engine.editor.menu.zAxis": "Z-axel",
     "engine.engineFail": "Misslyckades att starta spelet, stänger av.",
-    "engine.invalidUserpath.msg": "BeamNG.drive kan inte komma åt UserPath som angetts i \"startup.ini\"-filen (spelmappen). Vänligen byt till en giltig sökväg: ",
+    "engine.invalidUserpath.msg": "BeamNG.drive kan inte komma åt UserPath som angetts i \"startup.ini\"-filen (applikationsmappen). Byt till en giltig sökväg: ",
     "engine.invalidUserpath.title": "Ogiltig användarsökväg",
     "engine.levelModified.msg": "Banan har modifierats i redigeraren. Vill du spara ändringarna?",
     "engine.levelModified.title": "Banan Modifierad",
@@ -1505,5 +1505,10 @@
     "ui.startscreen.warning": "Varning för: Ljuskänslig Epilepsi",
     "ui.startscreen.warningdetails": "Detta spelet kan utlösa anfall för människor som har ljuskänsligt epilepsi. Spelarens diskretion rekommenderas.",
     "ui.options.gameplay.escBehavior": "ESC",
-    "ui.mainmenu.telemetryOnlineHint": "Telemetri kan ej aktiveras utan aktiveringen av online funktioner."
+    "ui.mainmenu.telemetryOnlineHint": "Telemetri kan ej aktiveras utan aktiveringen av online funktioner.",
+    "ui.mainmenu.privacyPolicyHint": "För detaljer om databehandling angående onlinefunktioner och telemetri, vänligen läs vår [url=https://go.beamng.com/privacyPolicy]Privacy Policy[/url]",
+    "ui.common.vehicleAccessoryOn": "Tändning: Endast Tillbehör",
+    "ui.common.vehicleOn": "Tändning: På",
+    "ui.common.vehicleOff": "Tändning: Av",
+    "ui.common.vehicleRunning": "Fordon: Igång"
 }
