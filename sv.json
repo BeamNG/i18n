@@ -1504,5 +1504,6 @@
     "ui.common.thanks": "Tack",
     "ui.startscreen.warning": "Varning för: Ljuskänslig Epilepsi",
     "ui.startscreen.warningdetails": "Detta spelet kan utlösa anfall för människor som har ljuskänsligt epilepsi. Spelarens diskretion rekommenderas.",
-    "ui.options.gameplay.escBehavior": "ESC"
+    "ui.options.gameplay.escBehavior": "ESC",
+    "ui.mainmenu.telemetryOnlineHint": "Telemetri kan ej aktiveras utan aktiveringen av online funktioner."
 }
