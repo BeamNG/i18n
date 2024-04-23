@@ -4373,5 +4373,5 @@
     "lockType.raceOk": "✔️Kilpa-autot kääntyvät realistisen nopeasti.",
     "lockType.raceBad": "❌Kilpa-autot saattavat tarvita suuria ohjausliikkeitä.",
     "ui.introPopup.garage.title": "Autotalli",
-    "ui.introPopup.walkingMode.title": "Kävely Tila"
+    "ui.introPopup.walkingMode.title": "Kävelytila"
 }
