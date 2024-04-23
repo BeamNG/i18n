@@ -1510,5 +1510,6 @@
     "ui.common.vehicleAccessoryOn": "Tändning: Endast Tillbehör",
     "ui.common.vehicleOn": "Tändning: På",
     "ui.common.vehicleOff": "Tändning: Av",
-    "ui.common.vehicleRunning": "Fordon: Igång"
+    "ui.common.vehicleRunning": "Fordon: Igång",
+    "ui.mainmenu.telemetry.header": "Telemetri"
 }
