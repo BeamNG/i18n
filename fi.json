@@ -4446,5 +4446,6 @@
     "missions.driver_training.training_slalom.timeLimit.msg": "Liian hidasta! Pujottelurata on haastava vain nopeudella.",
     "missions.driver_training.training_slalom.nomove.msg": "Hipaisit kartiota tuolla takana, yritä uudellen.",
     "missions.driver_training.training_slalom.damage.msg": "Olisipa pitänyt asettaa esteet kauemmaksi!",
-    "missions.driver_training.training_rwd.title": "Takavetoisen ajoneuvon käsittely"
+    "missions.driver_training.training_rwd.title": "Takavetoisen ajoneuvon käsittely",
+    "missions.driver_training.training_rwd.description": "Koe takavetoisen ajaminen."
 }
