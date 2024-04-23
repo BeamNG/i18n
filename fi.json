@@ -4470,5 +4470,6 @@
     "missions.driver_training.wetcorner.timeLimit.msg": "Et ollut tarpeeksi nopea - Kokeile käyttää kaasua varovaisemmin, jotta ajoneuvosi ei hyppelehdi sinne tänne.",
     "missions.driver_training.wetcorner.nomove.msg": "Osuit kartioon - jos ajoneuvosi luisuu ulos radalta, kokeile vähentää nopeutta ja jarruta kevyesti.",
     "missions.driver_training.drift001.description": "Opettele tekemään yksinkertaisia driftejä.",
-    "missions.driver_training.drift001.wood": "Driftaaminen on vaikeaa. Siinä pitää tietää, milloin käyttää käsijarrua, milloin vapauttaa se ja sama pätee polkimien käyttöön."
+    "missions.driver_training.drift001.wood": "Driftaaminen on vaikeaa. Siinä pitää tietää, milloin käyttää käsijarrua, milloin vapauttaa se ja sama pätee polkimien käyttöön.",
+    "missions.driver_training.drift001.bronze": "Olet menossa oikeaan suuntaan. Yritä saada tiukempi donitsi ja yleisesti ottaen tiukempi kulma."
 }
