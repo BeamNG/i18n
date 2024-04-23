@@ -4218,7 +4218,7 @@
     "ui.options.camera.cameraDriverLookAheadSmoothnessHint": "tasoittaa hitaudesta aiheutuvaa kameran kääntymistä",
     "ui.options.motionSim.translation": "Translaatio:",
     "ui.options.motionSim.rotation": "Rotaatio:",
-    "ui.options.motionSim.absolute": "Absoluuttinen",
+    "ui.options.motionSim.absolute": "Kulma",
     "ui.options.motionSim.velocity": "Nopeus",
     "ui.options.motionSim.acceleration": "Kiihtyvyys",
     "ui.options.motionSim.x": "X",
@@ -4368,5 +4368,6 @@
     "ui.common.new": "Uusi",
     "ui.mirrors.name": "Peilien säätö",
     "ui.mirrors.spot": "Sokea piste",
-    "ui.playmodes.careerModePause": "Ura: Pysäytetty"
+    "ui.playmodes.careerModePause": "Ura: Pysäytetty",
+    "ui.options.protocols_others_enabled": "Muut Protokollat"
 }
