@@ -4371,5 +4371,7 @@
     "ui.playmodes.careerModePause": "Ura: Pysäytetty",
     "ui.options.protocols_others_enabled": "Muut protokollat",
     "lockType.raceOk": "✔️Kilpa-autot kääntyvät realistisen nopeasti.",
-    "lockType.raceBad": "❌Kilpa-autot saattavat tarvita suuria ohjausliikkeitä."
+    "lockType.raceBad": "❌Kilpa-autot saattavat tarvita suuria ohjausliikkeitä.",
+    "ui.introPopup.garage.title": "Autotalli",
+    "ui.introPopup.walkingMode.title": "Kävely Tila"
 }
