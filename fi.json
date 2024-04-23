@@ -4430,5 +4430,8 @@
     "missions.johnson_valley.arrive.outlandervalet.description": "Aja työmaan johtajan Roamer takaisin hänen mökilleen vahingoittamatta sitä.",
     "missions.johnson_valley.arrive.outlandervalet.outroText": "Hyvää työtä!",
     "missions.automation_test_track.delivery.junker.description": "Tuo niin monta esinettä maaliin kuin pystyt.",
-    "missions.driver_training.training_easycircuit.title": "Helppo kilparata."
+    "missions.driver_training.training_easycircuit.title": "Helppo kilparata.",
+    "missions.driver_training.training_easycircuit.timeLimit.msg": "Tuo on vähän liian hidasta – älä pelkää ajaa autoa nopeampaa!",
+    "missions.driver_training.training_easycircuit.description": "Ensimmäinen kilparatasi.",
+    "missions.driver_training.training_easycircuit.nomove.msg": "Ajoit liikennekartioon, tarkkuus on avain ralliin. Yritä uudestaan."
 }
