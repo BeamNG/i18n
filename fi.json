@@ -4433,5 +4433,10 @@
     "missions.driver_training.training_easycircuit.title": "Helppo kilparata",
     "missions.driver_training.training_easycircuit.timeLimit.msg": "Tuo on vähän liian hidasta – älä pelkää ajaa autoa nopeampaa!",
     "missions.driver_training.training_easycircuit.description": "Ensimmäinen kilparatasi.",
-    "missions.driver_training.training_easycircuit.nomove.msg": "Ajoit liikennekartioon, tarkkuus on avain kilpa-ajossa. Yritä uudestaan."
+    "missions.driver_training.training_easycircuit.nomove.msg": "Ajoit liikennekartioon, tarkkuus on avain kilpa-ajossa. Yritä uudestaan.",
+    "missions.driver_training.training_easycircuit.damage.msg": "Tämä ajoneuvo tarvitsee pientä korjausta.",
+    "missions.driver_training.training_hairpins3.5.title": "Hiusneula",
+    "missions.driver_training.training_hairpins3.5.description": "Käännä autosi nopeasti ympäri pienessä tilassa.",
+    "missions.driver_training.training_hairpins3.5.intro": "Miten käännät ajoneuvosi nopeasti ympäri pienessä tilassa? Vedä käsijarrua liukuaksesi tiukassa mutkassa, aivan kuten elokuvissa.",
+    "missions.driver_training.training_hairpins3.5.defaultWin": "Täytyy myöntää, se näytti aika siistiltä!"
 }
