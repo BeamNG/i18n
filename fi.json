@@ -569,8 +569,8 @@
     "scenarios.east_coast_usa.east_coast_chase_2.title": "Itärannikon takaa-ajo #2",
     "scenarios.east_coast_usa.east_coast_chase_2.wayPointAction.msg": "Pysäytä epäilty!",
     "scenarios.east_coast_usa.east_coast_chase_3.damage.msg": "Kolaroit autosi",
-    "scenarios.east_coast_usa.east_coast_chase_3.description": "Jahtaa viritettyä Bruckell LeGrania turboahdetulla Ibishu 200BX-poliisiautollasi.",
-    "scenarios.east_coast_usa.east_coast_chase_3.distance.msg": "Kohde pääsi pakoon",
+    "scenarios.east_coast_usa.east_coast_chase_3.description": "Saimme raportteja vaarallisesti ajavasta kuljettajasta, joka ajaa Muokatulla Bruckell Legranilla. Pysäytä se!",
+    "scenarios.east_coast_usa.east_coast_chase_3.distance.msg": "Epäilty karkasi!",
     "scenarios.east_coast_usa.east_coast_chase_3.speed.msg": "Hyvin meni! Aikasi: {{time}}",
     "scenarios.east_coast_usa.east_coast_chase_3.title": "Itärannikon takaa-ajo #3",
     "scenarios.east_coast_usa.east_coast_chase_3.wayPointAction.msg": "Pysäytä epäilty!",
@@ -4484,5 +4484,13 @@
     "scenarios.east_coast_usa.east_coast_chase_1.arrest.msg": "Mene lähemmäs pidättääksesi",
     "scenarios.east_coast_usa.east_coast_chase_1.getCloser.msg": "Mene lähemmäs!",
     "scenarios.east_coast_usa.east_coast_chase_1.win.msg": "Epäilty kiinni!",
-    "scenarios.east_coast_usa.east_coast_chase_1.win.description": "Erinomaista ajamista!"
+    "scenarios.east_coast_usa.east_coast_chase_1.win.description": "Erinomaista ajamista!",
+    "scenarios.east_coast_usa.east_coast_chase_2.distance.description": "Epäilty pääsi karkuun..",
+    "scenarios.east_coast_usa.east_coast_chase_2.damage.description": "Ajoneuvosi on saanut liikaa vaurioita, et voi jatkaa takaa-ajoa.",
+    "scenarios.east_coast_usa.east_coast_chase_2.arrest.msg": "Mene lähemmäksi pidättääksesi",
+    "scenarios.east_coast_usa.east_coast_chase_2.getCloser.msg": "Mene lähemmäksi!",
+    "scenarios.east_coast_usa.east_coast_chase_2.win.msg": "Epäilty kiinni!",
+    "scenarios.east_coast_usa.east_coast_chase_2.win.description": "Kaikki tämä sipsipussin varastamisesta...",
+    "scenarios.east_coast_usa.east_coast_chase_2.wrongWay.msg": "Väärä suunta! Käänny ympäri",
+    "scenarios.east_coast_usa.east_coast_chase_3.distance.description": "Legran pääsi liian kauas, kadotit sen.."
 }
