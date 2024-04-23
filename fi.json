@@ -2041,7 +2041,7 @@
     "ui.options.gameplay.escBehavior.tooltip": "Muuttaa auton ajonvakautusjärjestelmän toimintaa. Tulee käyttöön uutta autoa lisättäessä.",
     "ui.options.gameplay.traffic": "Ota käyttöön liikenne (kokeellinen - äärimmäisen raskas)",
     "ui.options.gameplay.traffic.tooltip": "Toivotut ajoneuvot pitää lisätä itse",
-    "ui.options.camera.emptyListHint": "(Kameralista on käytettävissä vain pelin sisällä)",
+    "ui.options.camera.emptyListHint": "(Kameralista on käytettävissä vain autoa ajaessa)",
     "ui.options.camera.transitionHint": "Kameran vaihtamiseen kuluva aika millisekunteina",
     "ui.options.camera.fovHint": "Sallii näkökentän koon muuttamisen. Lisää ajoneuvon asetuksiin",
     "ui.options.camera.switchHint": "Napsauta muuttaaksesi",
@@ -3981,7 +3981,7 @@
     "ui.appselect.edit": "Muokkaa sovellukisa",
     "ui.apps.categories.goals": "Tavoitteet",
     "ui.credits.additionalVehiclePhysics": "Ajoneuvon lisäfysiikat",
-    "ui.apps.engine_thermal_debug.oilStarvingSevernessXY": "Öljyvajaus XY",
+    "ui.apps.engine_thermal_debug.oilStarvingSevernessXY": "Öljynpuute XY",
     "ui.apps.aicontrol.AiMode": "AI:n tila",
     "ui.apps.aicontrol.Parameters": "Parametrit",
     "ui.apps.aicontrol.InLane": "Kaistalla:",
@@ -4363,5 +4363,10 @@
     "ui.options.graphics.openXRsnapTurnUnicycleDegrees": "Kulma (asteet)",
     "vehicle.vehicleController.shifterModeNameArcade": "Helpotettu",
     "ui.controls.ffbSafetyUnknown": "Lisää vinkkejä voi tulla saataville ajon aikana kun force feedback on käytössä.",
-    "ui.startscreen.license.personal": "Ykstyinen lisenssi, ei yleiskäyttöön"
+    "ui.startscreen.license.personal": "Ykstyinen lisenssi, ei yleiskäyttöön",
+    "ui.mirrors.position.interior": "Sisätilan peili",
+    "ui.common.new": "Uusi",
+    "ui.mirrors.name": "Peilien säätö",
+    "ui.mirrors.spot": "Sokea piste",
+    "ui.playmodes.careerModePause": "Ura: Pysäytetty"
 }
