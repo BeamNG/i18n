@@ -4376,5 +4376,13 @@
     "ui.introPopup.walkingMode.title": "Kävelytila",
     "ui.general.fuelType.diesel": "Diesel",
     "ui.freeroam.refuel.prompt": "Tankkaa Ajoneuvo",
-    "ui.career.garage.saveCurrent": "Tallenna"
+    "ui.career.garage.saveCurrent": "Tallenna nykyinen",
+    "ui.career.refuelling.modes.fuel.title": "Ajoneuvon tankkaus",
+    "ui.career.refuelling.modes.fuel.ongoing": "Tankkaus",
+    "ui.career.refuelling.modes.charge.title": "Ajoneuvon lataus",
+    "ui.career.refuelling.modes.charge.ongoing": "Lataus",
+    "ui.career.testDrive.endTestDrive": "Koeajon parkkipaikka",
+    "ui.career.testDrive.endTestDriveDesc": "Koeajo lopetetaan täällä",
+    "ui.career.testDrive.stopTestDrive": "Lopeta koeajo",
+    "ui.career.computer.name": "Autotallin tietokone"
 }
