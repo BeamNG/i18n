@@ -4438,5 +4438,10 @@
     "missions.driver_training.training_hairpins3.5.title": "Hiusneula",
     "missions.driver_training.training_hairpins3.5.description": "Käännä autosi nopeasti ympäri pienessä tilassa.",
     "missions.driver_training.training_hairpins3.5.intro": "Miten käännät ajoneuvosi nopeasti ympäri pienessä tilassa? Vedä käsijarrua liukuaksesi tiukassa mutkassa, aivan kuten elokuvissa.",
-    "missions.driver_training.training_hairpins3.5.defaultWin": "Täytyy myöntää, se näytti aika siistiltä."
+    "missions.driver_training.training_hairpins3.5.defaultWin": "Täytyy myöntää, se näytti aika siistiltä.",
+    "missions.driver_training.training_hairpins3.5.timeLimit.msg": "Aika! Sinun pitää ehtiä maaliin nopeammin.",
+    "missions.driver_training.training_hairpins3.5.nomove.msg": "Et ihan onnistunut ajamaan tuota mutkaa puhtaasti – Näen, että osuit esteeseen.",
+    "missions.driver_training.training_hairpins3.5.damage.msg": "Ähh, pitääkö meidän palata ensimmäiselle oppitunnille?",
+    "missions.driver_training.training_slalom.defaultWin": "Hyvin tehty! Väistelit kartioita niinkuin mestari.",
+    "missions.driver_training.training_slalom.timeLimit.msg": "Liian hidasta! Pujottelu rata on haastava vain nopeudella."
 }
