@@ -4429,5 +4429,6 @@
     "missions.east_coast_usa.timeTrial.mixedrally.endScreenText": "Suoritus päättynyt!",
     "missions.johnson_valley.arrive.outlandervalet.description": "Aja työmaan johtajan Roamer takaisin hänen mökilleen vahingoittamatta sitä.",
     "missions.johnson_valley.arrive.outlandervalet.outroText": "Hyvää työtä!",
-    "missions.automation_test_track.delivery.junker.description": "Tuo niin monta esinettä maaliin kuin pystyt."
+    "missions.automation_test_track.delivery.junker.description": "Tuo niin monta esinettä maaliin kuin pystyt.",
+    "missions.driver_training.training_easycircuit.title": "Helppo kilparata."
 }
