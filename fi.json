@@ -575,7 +575,7 @@
     "scenarios.east_coast_usa.east_coast_chase_3.title": "Itärannikon takaa-ajo #3",
     "scenarios.east_coast_usa.east_coast_chase_3.wayPointAction.msg": "Pysäytä epäilty!",
     "scenarios.east_coast_usa.east_coast_chase_4.description": "Beamcom ei ole vieläkään korjannut poliisiaseman nettiä. Odotimme jo tarpeeksi, on aika suostuttaa heitä henkilökohtaisesti. Pysäytä paku.",
-    "scenarios.east_coast_usa.east_coast_chase_4.distance.msg": "Kohde pääsi pakoon",
+    "scenarios.east_coast_usa.east_coast_chase_4.distance.msg": "Epäilty karkasi!",
     "scenarios.east_coast_usa.east_coast_chase_4.speed.msg": "Hyvin meni! Aikasi: {{time}}",
     "scenarios.east_coast_usa.east_coast_chase_4.title": "Itärannikon takaa-ajo #4",
     "scenarios.east_coast_usa.east_coast_chase_4.wayPointAction.msg": "Pysäytä epäilty!",
@@ -4492,5 +4492,9 @@
     "scenarios.east_coast_usa.east_coast_chase_2.win.msg": "Epäilty kiinni!",
     "scenarios.east_coast_usa.east_coast_chase_2.win.description": "Kaikki tämä sipsipussin varastamisesta...",
     "scenarios.east_coast_usa.east_coast_chase_2.wrongWay.msg": "Väärä suunta! Käänny ympäri",
-    "scenarios.east_coast_usa.east_coast_chase_3.distance.description": "Legran pääsi liian kauas, kadotit sen.."
+    "scenarios.east_coast_usa.east_coast_chase_3.distance.description": "Legran pääsi liian kauas, kadotit sen..",
+    "scenarios.east_coast_usa.east_coast_chase_3.damage.description": "Ajoneuvosi on saanut liikaa vaurioita, et voi jatkaa takaa-ajoa.",
+    "scenarios.east_coast_usa.east_coast_chase_3.arrest.msg": "Mene lähemmäs pidättääksesi",
+    "scenarios.east_coast_usa.east_coast_chase_3.getCloser.msg": "Mene lähemmäs!",
+    "scenarios.east_coast_usa.east_coast_chase_3.win.msg": "Epäilty kiinni!"
 }
