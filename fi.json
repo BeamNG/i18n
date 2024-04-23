@@ -4362,5 +4362,6 @@
     "ui.options.graphics.openXRsnapTurnUnicycle": "Napsauskääntyminen '{{'ui.camera.mode.unicycle'|translate}}' kamerassa",
     "ui.options.graphics.openXRsnapTurnUnicycleDegrees": "Kulma (asteet)",
     "vehicle.vehicleController.shifterModeNameArcade": "Helpotettu",
-    "ui.controls.ffbSafetyUnknown": "Lisää vinkkejä voi tulla saataville ajon aikana kun force feedback on käytössä."
+    "ui.controls.ffbSafetyUnknown": "Lisää vinkkejä voi tulla saataville ajon aikana kun force feedback on käytössä.",
+    "ui.startscreen.license.personal": "Ykstyinen Lisenssi, Ei yleiskäyttöön"
 }
