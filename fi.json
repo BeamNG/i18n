@@ -1769,7 +1769,7 @@
     "levels.Gridmap.spawnpoints.spawn_dirtpath": "Hiekkapolku",
     "levels.Gridmap.spawnpoints.spawn_corner": "Nurkka",
     "levels.Gridmap.spawnpoints.spawn_outside": "Ulkopuoli",
-    "engine.nodegrab.fixedwarning": "paina CTRL + hiiren keskinäppäin irrottaaksesi nodet",
+    "engine.nodegrab.fixedwarning": "paina CTRL + hiiren keskinäppäintä irrottaaksesi kärjet",
     "engine.nodegrab.uncoupling": "Irrotetaan kaikki kiinnitetyt nodet",
     "engine.nodegrab.coupling": "Yhdistetään nodet",
     "engine.editor.menu.cameraTranslation": "Kameran siirtymä",
