@@ -4384,5 +4384,12 @@
     "ui.career.testDrive.endTestDrive": "Koeajon parkkipaikka",
     "ui.career.testDrive.endTestDriveDesc": "Koeajo lopetetaan täällä",
     "ui.career.testDrive.stopTestDrive": "Lopeta koeajo",
-    "ui.career.computer.name": "Autotallin tietokone"
+    "ui.career.computer.name": "Autotallin tietokone",
+    "ui.career.garage.saveVehiclePopup": "Ajoneuvo Tallennettu",
+    "ui.debug.vehicle.width": "Leveys",
+    "ui.debug.vehicle.transparency": "Läinäkyvyys",
+    "ui.debug.vehicle.showWheels": "Näytä Renkaat",
+    "ui.career.refueling.action.title": "Tankkaa Ajoneuvo",
+    "ui.career.refueling.action.description": "Tankkaa ajoneuvon",
+    "ui.career.computer.functions.tuning": "Säätö"
 }
