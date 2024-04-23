@@ -2041,7 +2041,7 @@
     "ui.options.gameplay.escBehavior.tooltip": "Muuttaa auton ajonvakautusjärjestelmän toimintaa. Tulee käyttöön uutta autoa lisättäessä.",
     "ui.options.gameplay.traffic": "Ota käyttöön liikenne (kokeellinen - äärimmäisen raskas)",
     "ui.options.gameplay.traffic.tooltip": "Toivotut ajoneuvot pitää lisätä itse",
-    "ui.options.camera.emptyListHint": "(Kameralista on käytettävissä vain autoa ajaessa)",
+    "ui.options.camera.emptyListHint": "(Kameralista on nähtävissä vain autoa ajaessa)",
     "ui.options.camera.transitionHint": "Kameran vaihtamiseen kuluva aika millisekunteina",
     "ui.options.camera.fovHint": "Sallii näkökentän koon muuttamisen. Lisää ajoneuvon asetuksiin",
     "ui.options.camera.switchHint": "Napsauta muuttaaksesi",
