@@ -4370,5 +4370,6 @@
     "ui.mirrors.spot": "Sokea piste",
     "ui.playmodes.careerModePause": "Ura: Pysäytetty",
     "ui.options.protocols_others_enabled": "Muut protokollat",
-    "lockType.raceOk": "✔️Kilpa-autot kääntyvät realistisen nopeasti."
+    "lockType.raceOk": "✔️Kilpa-autot kääntyvät realistisen nopeasti.",
+    "lockType.raceBad": "❌Ralliautot saattavat tarvita suuria ohjaus liikkeitä."
 }
