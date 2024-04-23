@@ -575,7 +575,7 @@
     "scenarios.east_coast_usa.east_coast_chase_3.title": "Itärannikon takaa-ajo #3",
     "scenarios.east_coast_usa.east_coast_chase_3.wayPointAction.msg": "Pysäytä epäilty!",
     "scenarios.east_coast_usa.east_coast_chase_4.description": "Beamcom ei ole vieläkään korjannut poliisiaseman nettiä. Odotimme jo tarpeeksi, on aika suostuttaa heitä henkilökohtaisesti. Pysäytä paku.",
-    "scenarios.east_coast_usa.east_coast_chase_4.distance.msg": "Epäilty karkasi!",
+    "scenarios.east_coast_usa.east_coast_chase_4.distance.msg": "Karkasi!",
     "scenarios.east_coast_usa.east_coast_chase_4.speed.msg": "Hyvin meni! Aikasi: {{time}}",
     "scenarios.east_coast_usa.east_coast_chase_4.title": "Itärannikon takaa-ajo #4",
     "scenarios.east_coast_usa.east_coast_chase_4.wayPointAction.msg": "Pysäytä pakettiauto!",
