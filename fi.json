@@ -4527,5 +4527,5 @@
     "ui.performance.openUserFolder": "Selaa käyttäjän kansioita",
     "ui.performance.warnings.ubuntuver": "Ei tuettu Ubuntu-versio",
     "ui.performance.warnings.unsupportedlinuxdist": "Ei tuettu Linux-jakelu",
-    "ui.hints.showStandalonePcs": "Näyttääksesi omat mukautetut ajoneuvot, ota käyttöön asiaankuuluva valintaruutu oikeassa paneelissa."
+    "ui.hints.showStandalonePcs": "Näyttääksesi omat mukautetut ajoneuvot, ota käyttöön asiaankuuluva valintaruutu paneelista oikealla."
 }
