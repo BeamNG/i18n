@@ -4585,5 +4585,7 @@
     "ui.mapview.labels.crash": "Törmäys",
     "ui.controls.padLogitechIncorrect": "Laitteen tila: Logitech-peliohjainta käytetään väärin. Tarkista [url=https://go.beamng.com/gamepadLogitech]dokumentaatiostamme lisätiedot[/url].",
     "ui.performance.disk.casesensitive": "Erisuuntainen",
-    "ui.performance.disk.caseinsensitive": "Erisuuntaisesti suvaitsevainen"
+    "ui.performance.disk.caseinsensitive": "Erisuuntaisesti suvaitsevainen",
+    "ui.vehicleconfig.applyPartChangesAutomaticallyTooltip": "Muuttaa asetukset automaattisesti liikuttaessasi liukusäätimiä",
+    "ui.vehicleconfig.liveWheelData": "Reaaliaikainen Rengas Data"
 }
