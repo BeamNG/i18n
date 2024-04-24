@@ -4515,5 +4515,5 @@
     "ui.debug.debugSpawnEnabled": "Käynnistä vianmääritystila (Debug Mode) (mahdollistaa \"Node Text: Groups\" -toiminnon käytön)",
     "ui.debug.vehicle.clearSettings": "Nollaa Asetukset",
     "ui.debug.vehicle.partSelected": "Osa Valittu",
-    "ui.debug.vehicle.showOnlySelectedPartMesh": "Näytä vain valitun osan (Mesh)"
+    "ui.debug.vehicle.showOnlySelectedPartMesh": "Näytä vain valitun osan geometria"
 }
