@@ -4579,5 +4579,6 @@
     "ui.camera.mode.onboard.mrbeam": "Herra Beam",
     "ui.camera.mode.external": "Ulkoinen",
     "ui.camera.mode.relative": "Relatiivinen",
-    "ui.camera.mode.topDown": "Ylä Näkymä"
+    "ui.camera.mode.topDown": "Ylänäkymä",
+    "missions.automation_test_track.delivery.junker.title": "Kahvilan roskakuljetus"
 }
