@@ -4587,5 +4587,6 @@
     "ui.performance.disk.casesensitive": "Erisuuntainen",
     "ui.performance.disk.caseinsensitive": "Erisuuntaisesti suvaitsevainen",
     "ui.vehicleconfig.applyPartChangesAutomaticallyTooltip": "Muuttaa asetukset automaattisesti liikuttaessasi liukusäätimiä",
-    "ui.vehicleconfig.liveWheelData": "Reaaliaikainen Rengasdata"
+    "ui.vehicleconfig.liveWheelData": "Reaaliaikainen Rengasdata",
+    "ui.vehicleconfig.liveWheelDataTooltip": "Näytä reaaliaikaiset tietosi rengaskulmista, renkaiden kärkivälistä, sivuttaiskallistuksesta ja SAI: sta"
 }
