@@ -4583,5 +4583,7 @@
     "missions.automation_test_track.delivery.junker.title": "Kahvilan roskakuljetus",
     "ui.controls.ffbUnsafeFrequencyWarning": "Nykyinen force-feedback asetuskonfiguraatio saattaa vaikuttaa ruudunpäivitysnopeuteen:<list><li>Asetettu arvo: {{finalFrequency}} Hz<li>Suositeltu: 'Automaattinen' (nykyinen turvallinen arvio: {{safeFrequency}} Hz tai vähemmän)</list>",
     "ui.mapview.labels.crash": "Törmäys",
-    "ui.controls.padLogitechIncorrect": "Laitteen tila: Logitech-peliohjainta käytetään väärin. Tarkista [url=https://go.beamng.com/gamepadLogitech]dokumentaatiostamme lisätiedot[/url]."
+    "ui.controls.padLogitechIncorrect": "Laitteen tila: Logitech-peliohjainta käytetään väärin. Tarkista [url=https://go.beamng.com/gamepadLogitech]dokumentaatiostamme lisätiedot[/url].",
+    "ui.performance.disk.casesensitive": "Erisuuntainen",
+    "ui.performance.disk.caseinsensitive": "Erisuuntaisesti suvaitsevainen"
 }
