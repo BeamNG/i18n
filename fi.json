@@ -4588,5 +4588,7 @@
     "ui.performance.disk.caseinsensitive": "Erisuuntaisesti suvaitsevainen",
     "ui.vehicleconfig.applyPartChangesAutomaticallyTooltip": "Muuttaa asetukset automaattisesti liikuttaessasi liukusäätimiä",
     "ui.vehicleconfig.liveWheelData": "Reaaliaikainen Rengasdata",
-    "ui.vehicleconfig.liveWheelDataTooltip": "Näytä reaaliaikaiset tietosi rengaskulmista, renkaiden kärkivälistä, sivuttaiskallistuksesta ja SAI: sta"
+    "ui.vehicleconfig.liveWheelDataTooltip": "Näytä reaaliaikaiset camber, auraus, caster ja SAI -kulmat",
+    "ui.controls.ffb.updateType.tooltip": "Antaa valita kahden sisäisen menetelmän väliltä, jotka lähettävät force feedback -pyyntöjä.[list][*]'[i]{{'ui.controls.ffb.updateType.fast'|translate}}[/i]': [b]Jos epäilyttää, käytä tätä[/b].[*]'[i]{{'ui.controls.ffb.updateType.slow'|translate}}[/i]': tämä hidas vaihtoehto voi pienentää kuvataajuutta. Sitä pitäisi käyttää vain poikkeuksellisen bugisissa rattiohjaimissa.[/list]Jos rattiohjaimesi toimii paremmin käyttämällä '[i]{{'ui.controls.ffb.updateType.slow'|translate}}[/i]', etsi päivityksiä laiteohjelmistoon ja ajureihin. Jos ongelma ei ratkea, ota yhteyttä meidän tukeen.",
+    "ui.options.motionSim.smoothing": "Tasoitus (käytössä joissain protokollissa):"
 }
