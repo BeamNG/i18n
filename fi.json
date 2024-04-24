@@ -4554,5 +4554,6 @@
     "ui.radialmenu2.powertrain.regen": "Regeneratiivinen jarrutus",
     "ui.radialmenu2.powertrain.regen.off": "Pois päältä",
     "ui.radialmenu2.powertrain.regen.off.desc": "Poistaa käytöstä regeneratiivisen jarrutuksen: ajoneuvo rullaa normaalisti.",
-    "ui.radialmenu2.powertrain.regen.full": "Täysi (1 Polkimen ajotila)"
+    "ui.radialmenu2.powertrain.regen.full": "Täysi (1 Polkimen ajotila)",
+    "ui.radialmenu2.powertrain.regen.full.desc": "Maksimi regeneratiivisen jarrutuksen voimakkuus + 1-Polkimen ajotila"
 }
