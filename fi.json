@@ -4580,5 +4580,7 @@
     "ui.camera.mode.external": "Ulkoinen",
     "ui.camera.mode.relative": "Relatiivinen",
     "ui.camera.mode.topDown": "Ylänäkymä",
-    "missions.automation_test_track.delivery.junker.title": "Kahvilan roskakuljetus"
+    "missions.automation_test_track.delivery.junker.title": "Kahvilan roskakuljetus",
+    "ui.controls.ffbUnsafeFrequencyWarning": "Nykyinen ratin voimansiirron asetuskonfiguraatio saattaa vaikuttaa ruudunpäivitysnopeuteen:<list><li>Asetettu arvo: {{finalFrequency}} Hz<li>Suositeltu: 'Automaattinen' (nykyinen turvallinen arvio: {{safeFrequency}} Hz tai vähemmän)</list>",
+    "ui.mapview.labels.crash": "Törmäys"
 }
