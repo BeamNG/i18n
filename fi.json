@@ -4511,5 +4511,9 @@
     "scenarios.east_coast_usa.jump_course.completed": "Suoritettu!",
     "scenarios.east_coast_usa.jump_course.gold": "Esiintymisesi oli poikkeuksellisen hyvä, ja sait myös täydet pisteet hyppyjen osalta! Hienoa työtä!",
     "ui.controls.ffbGenericWarning": "Parantaaksesi force feedbackia, alenna asetuksia saavuttaaksesi vähintään 60 kuvaa sekunnissa (fps), mieluiten yli 120 kuvaa sekunnissa.\n\nVoimakkaat rattiohjaimet voivat luoda äkillisiä, vaarallisia voimia. Noudata turvallisuuskäytäntöjä:<list><li>Tarkista ohjauspyörän valmistajan antamat turvallisuusohjeet.</li><li>Älä koskaan nojaa peukaloitasi ohjauspyörän sisäpuolelle.</li></list>",
-    "ui.controls.proLogitechPaddles": "Kytkinvaihtimet: Molempia analogisia vaihtimia voidaan käyttää muuhunkin kuin kytkintarkoitukseen, jos ne on määritetty oikein Logitechin ajureissa."
+    "ui.controls.proLogitechPaddles": "Kytkinvaihtimet: Molempia analogisia vaihtimia voidaan käyttää muuhunkin kuin kytkintarkoitukseen, jos ne on määritetty oikein Logitechin ajureissa.",
+    "ui.debug.debugSpawnEnabled": "Käynnistä vianmääritystila (Debug Mode) (mahdollistaa \"Node Text: Groups\" -toiminnon käytön)",
+    "ui.debug.vehicle.clearSettings": "Nollaa Asetukset",
+    "ui.debug.vehicle.partSelected": "Osa Valittu",
+    "ui.debug.vehicle.showOnlySelectedPartMesh": "Näytä vain valitun osan (Mesh)"
 }
