@@ -7565,5 +7565,8 @@
     "ui.career.motorsport.racing.name": "Závody",
     "ui.career.motorsport.drift.description": "Získávej body klouzáním vozidla bokem po předem definované trati nebo otevřeném prostoru.",
     "ui.career.motorsport.crawl.description": "Dostupné nyní: Vydej se na extrémní jízdu a zdolávej přírodní i umělé překážky. Již brzy: Vyzkoušej si, jak se pohybovat v členitém terénu, a zdolej nejvyšší výzvy v podobě zdolávání terénu na čas. Každá úroveň zvyšuje tvé dovednosti, od manévrování přes jednoduché skalní útvary až po zdolávání speciálně navržených tratí a strmých, náročných výstupů, které vyžadují přesnost, kontrolu a strategické plánování.",
-    "ui.career.motorsport.legacy.name": "Dobové závody"
+    "ui.career.motorsport.legacy.name": "Dobové závody",
+    "ui.career.specialized.name": "Specialista",
+    "ui.career.specialized.enforcement.name": "Prosazování zákona",
+    "ui.career.specialized.police.description": "Pronásleduj a zastav zločince, abys zachoval vládu zákona."
 }
