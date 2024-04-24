@@ -4515,5 +4515,17 @@
     "ui.debug.debugSpawnEnabled": "Käynnistä vianmääritystila (Debug Mode) (mahdollistaa \"Node Text: Groups\" -toiminnon käytön)",
     "ui.debug.vehicle.clearSettings": "Nollaa Asetukset",
     "ui.debug.vehicle.partSelected": "Osa Valittu",
-    "ui.debug.vehicle.showOnlySelectedPartMesh": "Näytä vain valitun osan geometria"
+    "ui.debug.vehicle.showOnlySelectedPartMesh": "Näytä vain valitun osan geometria",
+    "ui.names.g500.name": "Gambler 500",
+    "ui.performance.benchmark.realtime": "Reaaliaikainen",
+    "ui.debug.vehicle.beamText": "Beam-teksti",
+    "ui.debug.vehicle.beamWidth": "Beam-leveys",
+    "ui.names.g500.altName": "Gambler",
+    "ui.names.hx.name": "HooptieX",
+    "ui.names.hx.altName": "GamblerTT",
+    "ui.performance.current": "Nykyinen",
+    "ui.performance.openUserFolder": "Selaa käyttäjän kansioita",
+    "ui.performance.warnings.ubuntuver": "Ei tuettu Ubuntu-versio",
+    "ui.performance.warnings.unsupportedlinuxdist": "Ei tuettu Linux-jakelu",
+    "ui.hints.showStandalonePcs": "Näyttääksesi omat mukautetut ajoneuvot, ota käyttöön asiaankuuluva valintaruutu oikeassa paneelissa."
 }
