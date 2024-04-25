@@ -2690,7 +2690,7 @@
     "ui.faq.troubleShooting.q": "Jokin on rikki, kuinka korjaan sen?",
     "ui.faq.listFAQ.a": "On mahdollista, että kysymyksillesi on vastaus seuraavalla sivulla [url=https://wiki.beamng.com/BeamNG_FAQ]Usein kysytyt kysymykset[/url] Jos ei, voit kysyä foorumeillamme!",
     "ui.faq.listFAQ.q": "Missä voin kysyä asioista?",
-    "ui.faq.installingMods.a": "Modeja on helppo käyttää, ja ne voidaan asentaa eri tavoin: [url=https://wiki.beamng.com/How_to_install_mods]Kuinka asennetaan modeja[/url]",
+    "ui.faq.installingMods.a": "Katso tämä artikkeli, jossa on tietoa modien asentamisesta ja käytöstä: [url=https://go.beamng.com/installMods]. Jos sinulla on ongelmia modin kanssa, tutustu vianmääritysohjeisiin täällä: [br]\n [url=https://go.beamng.com/modsTroubleshooting]Troubleshooting Mods[/url]",
     "ui.faq.installingMods.q": "Kuinka lataan ja asennan modeja?",
     "ui.faq.updatingGame.a": "Löydät tarvittavat ohjeet seuraavalta sivulta [url=http://wiki.beamng.com/Updating_the_game]Sovelluksen päivitys[/url]",
     "ui.faq.updatingGame.q": "Kuinka päivitän sovelluksen?",
