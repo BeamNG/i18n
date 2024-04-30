@@ -3343,7 +3343,7 @@
     "ui.inputActions.general.publishScreenShot.description": "Ottaa kuvakaappauksen ja lataa osoitteeseen media.beamng jakamista varten",
     "ui.inputActions.general.press": "Paina",
     "ui.inputActions.general.publishScreenShot.title": "Ota ja jaa kuvakaappaus",
-    "ui.inputActions.general.quit.description": "Lopettaa pelin",
+    "ui.inputActions.general.quit.description": "Lopettaa sovelluksen",
     "ui.inputActions.general.toggle_fullscreen.description": "Kytkee koko ruudun tilan päälle/pois",
     "ui.inputActions.general.toggle_fullscreen.title": "Koko ruutu päälle/pois",
     "ui.inputActions.menu.appedit.description": "Siirtyy käyttöliittymän sovellusten muokkaustilaan",
