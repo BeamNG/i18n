@@ -4888,5 +4888,11 @@
     "ui.inputActions.gameplay.toggleWalkingMode.enterMessage": "Paina [action=toggleWalkingMode] noustaksesi ajoneuvoon.",
     "ui.inputActions.gameplay.cycleTimeOfDay.title": "Vaihda kellonaikaa",
     "ui.inputActions.general.toggleUi.title": "Piilota Käyttöliittymä",
-    "ui.inputActions.general.pause.binding": "[action=pause]"
+    "ui.inputActions.general.pause.binding": "[action=pause]",
+    "ui.mission.screen.toUnlockMission": "Avataksesi tämän:",
+    "launchercpp.supporttool_btn_vulkan": "Käynnistä (Vulkan)\nTestaa epävakaata Vulkan-renderöintiä.",
+    "launchercpp.main_btn_forceNoVulkan": "Poista Vulkan käytöstä ja käynnistä sitten\nVoidaan käyttää, kun Asetukset-valikkoon ei pääse.",
+    "ui.mission.loading.loading": "Ladataan...",
+    "ui.options.controls.bindings.Replay": "Uusinta",
+    "general.onlyValue": "{{value}}"
 }
