@@ -4891,7 +4891,7 @@
     "ui.inputActions.general.pause.binding": "[action=pause]",
     "ui.mission.screen.toUnlockMission": "Avataksesi tämän:",
     "launchercpp.supporttool_btn_vulkan": "Käynnistä (Vulkan)\nTestaa epävakaata Vulkan-renderöintiä.",
-    "launchercpp.main_btn_forceNoVulkan": "Poista Vulkan käytöstä ja käynnistä sitten\nVoidaan käyttää, kun Asetukset-valikkoon ei pääse.",
+    "launchercpp.main_btn_forceNoVulkan": "Poista Vulkan käytöstä ja käynnistä sitten\nVoidaan käyttää, kun Asetukset-valikkoon ei pääse",
     "ui.mission.loading.loading": "Ladataan...",
     "ui.options.controls.bindings.Replay": "Uusinta",
     "general.onlyValue": "{{value}}"
