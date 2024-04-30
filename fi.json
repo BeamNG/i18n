@@ -4717,5 +4717,8 @@
     "scenarios.busRoutes.endText": "Onneksi olkoon, olet suorittanut linjan!\n\nSinulla on nyt kaksi vaihtoehtoa, voit joko jatkaa reittiä tai levätä ja lopettaa reitti tältä päivältä.",
     "scenarios.busRoutes.passengersAtStop": "Matkustajia pysäkillä: {{value}}",
     "scenarios.busRoutes.passengersAtBus": "Nykyiset matkustajat: {{value}}",
-    "scenarios.busRoutes.waitDrop": "Odota, että {{value}} matkustaja(a) poistuu."
+    "scenarios.busRoutes.waitDrop": "Odota, että {{value}} matkustaja(a) poistuu.",
+    "scenarios.busRoutes.waitPick": "Odota, että {{value}} matkustaja(a) tulee kyytiin.",
+    "scenarios.busRoutes.continueRoute": "Jatka reittiä",
+    "scenarios.busRoutes.skipStop": "Pysäkillä ei ollut ketään eikä kukaan pyytänyt pysähdystä, voit ohittaa tämän pysäkin."
 }
