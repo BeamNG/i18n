@@ -4795,7 +4795,7 @@
     "missions.delivery.johnson_valley.G500Desert.description": "Kuljeta romut varovasti kulkien läpi Johnsonin laakson armottomia syrjäpolkuja!",
     "missions.delivery.johnson_valley.G500Desert.introMessage": "Olet suorittanut tehtäväsi lastata perävaunusi hylätyillä romuilla. Nyt suuntaa takaisin moottoritielle ja toimita romut asutuskeskukseen. Ole kärsivällinen; Saatat joutua ajamaan joillakin osuuksilla todella hitaasti!",
     "missions.arrive.message.keepMoving": "Liikettä! Jos jäät jumiin, paina <span>[action=reset_physics]</span>",
-    "missions.arrive.general.fail": "Valitettavasti, epäonnistuit!",
+    "missions.arrive.general.fail": "Valitettavasti epäonnistuit!",
     "levels.west_coast_usa.spawnpoints.logistics": "Logistiikka",
     "levels.west_coast_usa.spawnpoints.servicestation.description": "Polttoaineaseman ja autotallin ansiosta täällä on kaikki, mitä tarvitset, kun pidät tauon ajamisesta.",
     "missions.arrive.general.complete": "Tervetuloa päämäärään.",
