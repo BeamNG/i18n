@@ -3322,7 +3322,7 @@
     "ui.inputActions.gameplay.toggleTraffic.description": "Kytkee muiden ajoneuvojen liikennejärjestelmän päälle/pois",
     "ui.inputActions.gameplay.toggleTraffic.title": "Liikenne päälle/pois",
     "ui.inputActions.gameplay.toggleWalkingMode.description": "Astuu sisään ajoneuvoon tai ulos ajoneuvosta",
-    "ui.inputActions.gameplay.toggleWalkingMode.title": "Kävelytila päälle/pois",
+    "ui.inputActions.gameplay.toggleWalkingMode.title": "Nouse/Poistu Ajoneuvosta",
     "ui.inputActions.gameplay.toggle_minimap.description": "Kytkee pienoiskartan päälle/pois",
     "ui.inputActions.gameplay.toggle_minimap.title": "Pienoiskartta päälle/pois",
     "ui.inputActions.gameplay.toggle_timeTrialsScreen.description": "Avaa määritysvalikon aika-ajoissa",
@@ -4878,5 +4878,10 @@
     "levels.italy.gasStationPoints.fuel_sparks_norte_harbor.description": "Lataa ajoneuvosi sataman läheisyydessä.",
     "levels.italy.gasStationPoints.fuel_sparks_norte_center.description": "Lataa ajoneuvosi samalla kun katselet kaupunkia.",
     "levels.johnson_valley.info.title": "Johnsonin Laakso",
-    "vehicle.bdebug.nodeTextMode.relativePositions": "Relatiiviset sijainnit"
+    "vehicle.bdebug.nodeTextMode.relativePositions": "Relatiiviset sijainnit",
+    "ui.inputActions.gameplay.toggleAITraffic.title": "Kytke autonominen ajotila päälle/pois",
+    "vehicle.bdebug.nodeTextMode.forces": "Voimat",
+    "vehicle.bdebug.beamVisMode.displacement": "Siirtymä",
+    "vehicle.bdebug.beamVisMode.limiters": "Rajoittimet",
+    "vehicle.bdebug.beamVisMode.frequency": "Taajuus"
 }
