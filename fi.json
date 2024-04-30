@@ -4895,5 +4895,8 @@
     "ui.mission.loading.loading": "Ladataan...",
     "ui.options.controls.bindings.Replay": "Uusinta",
     "general.onlyValue": "{{value}}",
-    "launchercpp.x86bit_title": "32-Bitin Käyttöjärjestelmää ei tueta"
+    "launchercpp.x86bit_title": "32-bittistä käyttöjärjestelmää ei tueta",
+    "ui.timespan.minute.plural_1_pastfuture": "minuuttia",
+    "ui.timespan.minute.plural_234": "minuuttia",
+    "ui.timespan.minute.plural": "minuuttia"
 }
