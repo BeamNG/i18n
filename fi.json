@@ -4830,7 +4830,7 @@
     "levels.west_coast_usa.gasStationPoints.trilobite_garage_KEVee": "Trilobite Latausasema",
     "levels.west_coast_usa.gasStationPoints.trilobite_garage_KEVee.description": "Lataa itsesi ja ajoneuvosi.",
     "levels.west_coast_usa.gasStationPoints.apex": "Apex Huoltoasema",
-    "levels.west_coast_usa.gasStationPoints.apex.description": "Tankkaa ajoneuvosi kanavan vieressä teollisuusalueella.",
+    "levels.west_coast_usa.gasStationPoints.apex.description": "Tankkaa ajoneuvosi kanaalin vieressä teollisuusalueella.",
     "levels.gridmap.info.biome": "Betoni",
     "levels.gridmap.spawnpoints.suspension": "Jousitus",
     "levels.italy.gasStationPoints.fuel_apex_fastello.description": "Tankkaa ajoneuvosi täällä pienessä kylässä lähellä rantaa.",
@@ -4865,5 +4865,7 @@
     "levels.italy.gasStationPoints.fuel_apex_castelletto": "Apex Castelletto",
     "levels.italy.gasStationPoints.fuel_apex_lucera": "Apex Lucera",
     "levels.italy.gasStationPoints.fuel_apex_lucera.description": "Tankkaa ajonuvosi tässä pienessä kylässä.",
-    "levels.italy.gasStationPoints.fuel_apex_mountainside": "Apex Vuorenrinne"
+    "levels.italy.gasStationPoints.fuel_apex_mountainside": "Apex Vuorenrinne",
+    "levels.gridmap.info.title": "Ruutukenttä v2",
+    "levels.Gridmap_v1.info.title": "Ruutukenttä v1"
 }
