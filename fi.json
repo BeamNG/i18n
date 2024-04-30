@@ -4788,5 +4788,12 @@
     "missions.delivery.johnson_valley.camper.description": "Saavun vihdoin leirintäalueelle eksyttyäni väärälle tielle.",
     "missions.delivery.johnson_valley.camper.introMessage": "Näyttää siltä, että olet jossain vaiheessa kääntynyt väärään suuntaan ajaessasi kohti Dunekickerin perusleiriä. Vielä huonompaa on se, että matkailuvaunusi on jotenkin irronnut ja kaatunut. Tarkistettuasi karttasi huomaat, ettet vieläkään ole tarpeeksi fiksu löytääksesi reittiä, mutta tiedät suunnilleen, mihin suuntaan sinun pitää mennä. Pian leirillä on tärkeä tapahtuma, jota et halua missata, joten nyt kannattaa kiirehtiä! Käännä matkailuvaunu takaisin pystyyn ja jatka matkaa!",
     "missions.delivery.johnson_valley.camper.starOutroTexts.justFinish": "Ainakin pääsit turvallisesti perille! Seuraavalla kerralla saat luvan investoida karttaan ja kompassiin..",
-    "missions.delivery.johnson_valley.camper.starOutroTexts.justFinishTime": "Juuri ja juuri ajallaan! Koska kaikki meni loppujen lopuksi hyvin, olet varma, ettet tulevaisuudessakaan tarvitse karttaa tai kompassia."
+    "missions.delivery.johnson_valley.camper.starOutroTexts.justFinishTime": "Juuri ja juuri ajallaan! Koska kaikki meni loppujen lopuksi hyvin, olet varma, ettet tulevaisuudessakaan tarvitse karttaa tai kompassia.",
+    "missions.arrive.general.speedLimit": "Nopeusrajoitus on {{limit}}!",
+    "missions.delivery.johnson_valley.camper.starOutroTexts.justFinishTimeSpare": "Hienoa! Jopa aikaisemmin kuin osasimme odottaa. Tämä antaa meille enemmän aikaa valmistautua.",
+    "missions.delivery.johnson_valley.camper.starOutroTexts.noStarUnlocked": "Jotenkin onnistuit hukkaamaan karavaanin...?",
+    "missions.delivery.johnson_valley.G500Desert.description": "Kuljeta romut varovasti kulkien läpi Johnsonin laakson armottomia syrjäpolkuja!",
+    "missions.delivery.johnson_valley.G500Desert.introMessage": "Olet suorittanut tehtäväsi lastata perävaunusi hylätyillä romuilla. Nyt suuntaa takaisin moottoritielle ja toimita romut asutuskeskukseen. Ole kärsivällinen; Saatat joutua ajamaan joillakin osuuksilla todella hitaasti!",
+    "missions.arrive.message.keepMoving": "Liikettä! Jos jäät jumiin, paina <span>[action=reset_physics]</span>",
+    "missions.arrive.general.fail": "Valitettavasti, epäonnistuit!"
 }
