@@ -4714,5 +4714,8 @@
     "missions.johnson_valley.arrive.outlandervalet.title": "Syrjäinen parkkipalvelu",
     "missions.johnson_valley.arrive.outlandervalet.introTitleText": "Syrjäinen parkkipalvelu",
     "scenarios.busRoutes.startText": "Tämän haasteen tavoitteena on suorittaa koko linja mahdollisimman korkealla pistemäärällä.<p style=\"color:rgb(255, 165, 0);\"><strong>Saat nämä pisteet:</strong></p><ul> <li>Aja ilman vaurioita.</li><li>Pysähdy hyvin pysäkeillä.</li><li>Älä ohita mitään pysäkkiä, jossa matkustajat haluavat nousta tai jäädä pois bussista.</li></ul>Pysäkeillä odottaa matkustajia, jotka haluavat nousta kyytiin, ja matkustajia, jotka haluavat jäädä pois bussista.\n\nReitin lopussa saat saavutetut pisteet ja voit joko lopettaa haasteen tai jatkaa käänteistä reittiä yrittääksesi uudelleen.",
-    "scenarios.busRoutes.endText": "Onneksi olkoon, olet suorittanut linjan!\n\nSinulla on nyt kaksi vaihtoehtoa, voit joko jatkaa reittiä tai levätä ja lopettaa reitti tältä päivältä."
+    "scenarios.busRoutes.endText": "Onneksi olkoon, olet suorittanut linjan!\n\nSinulla on nyt kaksi vaihtoehtoa, voit joko jatkaa reittiä tai levätä ja lopettaa reitti tältä päivältä.",
+    "scenarios.busRoutes.passengersAtStop": "Matkustajia pysäkillä: {{value}}",
+    "scenarios.busRoutes.passengersAtBus": "Nykyiset matkustajat: {{value}}",
+    "scenarios.busRoutes.waitDrop": "Odota, että {{value}} matkustaja(a) jää pois."
 }
