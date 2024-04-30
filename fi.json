@@ -4720,5 +4720,5 @@
     "scenarios.busRoutes.waitDrop": "Odota, että {{value}} matkustaja(a) poistuu.",
     "scenarios.busRoutes.waitPick": "Odota, että {{value}} matkustaja(a) tulee kyytiin.",
     "scenarios.busRoutes.continueRoute": "Jatka reittiä",
-    "scenarios.busRoutes.skipStop": "Pysäkillä ei ollut ketään eikä kukaan pyytänyt pysähdystä, voit ohittaa tämän pysäkin."
+    "scenarios.busRoutes.skipStop": "Pysäkillä ei ollut ketään eikä kukaan pyytänyt pysähdystä, voit ohittaa tämän pysäkin"
 }
