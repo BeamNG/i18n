@@ -4940,5 +4940,15 @@
     "ui.career.adventurer.jumping.name": "Hyppiminen",
     "ui.career.adventurer.havoc.name": "Kaaostila",
     "ui.career.adventurer.miniGames.name": "Minipelit",
-    "ui.career.adventurer.criminal.name": "Rikollinen toiminta"
+    "ui.career.adventurer.criminal.name": "Rikollinen toiminta",
+    "ui.career.modded": "Modattu",
+    "ui.career.rename": "Nimeä uudelleen",
+    "ui.career.lastplayed": "Viimeksi pelattu",
+    "ui.career.profiles": "Profiilit",
+    "ui.career.profile": "Profiili",
+    "ui.career.saveName": "Tallenna nimi",
+    "ui.career.manage": "Hallitse",
+    "ui.career.mods": "Aktivoidut Modit",
+    "ui.career.delete": "Poista",
+    "ui.career.nowplaying": "Pelaa"
 }
