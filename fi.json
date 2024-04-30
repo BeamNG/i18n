@@ -4720,5 +4720,6 @@
     "scenarios.busRoutes.waitDrop": "Odota, että {{value}} matkustaja(a) poistuu.",
     "scenarios.busRoutes.waitPick": "Odota, että {{value}} matkustaja(a) tulee kyytiin.",
     "scenarios.busRoutes.continueRoute": "Jatka reittiä",
-    "scenarios.busRoutes.skipStop": "Pysäkillä ei ollut ketään eikä kukaan pyytänyt pysähdystä, voit ohittaa tämän pysäkin"
+    "scenarios.busRoutes.skipStop": "Pysäkillä ei ollut ketään eikä kukaan pyytänyt pysähdystä, voit ohittaa tämän pysäkin",
+    "missions.automation_test_track.delivery.junker.introMessage": "Kuinka paljon kahvilan siivouksesta voit ohittaa ajamalla vuorelta alas? Nyt selvitetään.     Sinun pitää ajaa soratietä, koska pääreitti on tällä hetkellä suljettu. Aja tehtaan sisäänkäynnille, siellä he ottavat sen vastaan."
 }
