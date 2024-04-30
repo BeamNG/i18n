@@ -4938,5 +4938,6 @@
     "ui.career.adventurer.name": "Seikkailija",
     "ui.career.adventurer.destruction.name": "Tuho",
     "ui.career.adventurer.jumping.name": "Hyppiminen",
-    "ui.career.adventurer.havoc.name": "Kaaostila"
+    "ui.career.adventurer.havoc.name": "Kaaostila",
+    "ui.career.adventurer.miniGames.name": "Mini Pelit"
 }
