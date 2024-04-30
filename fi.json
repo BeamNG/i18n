@@ -4724,5 +4724,12 @@
     "missions.automation_test_track.delivery.junker.introMessage": "Kuinka paljon kahvilan siivousjätteestä voit saada vuorelta alas yhdellä kertaa? Nyt selvitetään.  Sinun pitää ajaa soratietä, koska pääreitti on tällä hetkellä suljettu. Aja tehtaan sisäänkäynnille, siellä he ottavat sen vastaan.",
     "missions.west_coast_usa.delivery.obstructionjunction.title": "Esteinen risteys",
     "missions.west_coast_usa.delivery.obstructionjunction.description": "Aja varovasti erittäin esteisen tien läpi rekan kanssa.",
-    "missions.west_coast_usa.delivery.obstructionjunction.introMessage": "Tie on tällä hetkellä raskaan työn alla, mutta sinun on saatava tarvikkeet sairaalaan, koska he ovat tekemässä uudelleenjärjestelyjä.  Navigoi varovaisesti tietyömaan läpi sairaalaan."
+    "missions.west_coast_usa.delivery.obstructionjunction.introMessage": "Tie on tällä hetkellä raskaan työn alla, mutta sinun on saatava tarvikkeet sairaalaan, koska he ovat tekemässä uudelleenjärjestelyjä.  Navigoi varovaisesti tietyömaan läpi sairaalaan.",
+    "missions.gridmap_v2.timeTrial.Easy.description": "Nauti maisemista keinuen tämän radan lempeiden mutkien läpi.",
+    "missions.gridmap_v2.timeTrial.Easy.title": "Helppo taivaskaari",
+    "missions.gridmap_v2.timeTrial.Fast.title": "Nopea Taivaskaari",
+    "missions.gridmap_v2.timeTrial.Medium.title": "Keskitason Taivaskaari",
+    "missions.east_coast_usa.timeTrial.Backroads.title": "Sivuteiden Reitti",
+    "missions.east_coast_usa.timeTrial.Offroad.title": "Maastoajo Reitti 1",
+    "missions.east_coast_usa.timeTrial.Asphalt1.title": "Asfaltti Reitti 1"
 }
