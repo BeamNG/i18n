@@ -4957,5 +4957,6 @@
     "ui.career.deletePrompt": "Haluatko todellakin poistaa tämän profiilin?",
     "ui.career.exitPrompt": "Haluatko tallentaa? (Viimeinen tallennus {{lastSave | timeSpan : null : 2 : true}})",
     "ui.career.openGarageTitle": "Avaa Autotalli",
-    "ui.career.experimentalWarning": "BeamNG.drive Uratila - Työn alla"
+    "ui.career.experimentalWarning": "BeamNG.drive Uratila - Työn alla",
+    "ui.career.experimentalTitle": "Ura Tila - Kokeilu"
 }
