@@ -2823,7 +2823,7 @@
     "ui.apps.torquecurve.Torque": "Vääntö",
     "ui.apps.trip_computer.Range": "Toimintasäde",
     "ui.apps.trip_computer.FuelConsumption": "Polttoainekulutus",
-    "ui.apps.trip_computer.AVGFuelConsu": "Keskikulutus",
+    "ui.apps.trip_computer.AVGFuelConsu": "Keskikulutus.",
     "ui.apps.trip_computer.AVGSpeed": "Keskinopeus",
     "ui.apps.trip_computer.TotalDistance": "Kokonaismatka",
     "ui.apps.performance_timers.Distance": "Matka",
@@ -4712,5 +4712,7 @@
     "insurance.history.event.coverageChanged.name": "Kattavuus muutettu",
     "insurance.history.event.policyRenewed.name": "Sopimus uusittu",
     "missions.johnson_valley.arrive.outlandervalet.title": "Syrjäinen parkkipalvelu",
-    "missions.johnson_valley.arrive.outlandervalet.introTitleText": "Syrjäinen parkkipalvelu"
+    "missions.johnson_valley.arrive.outlandervalet.introTitleText": "Syrjäinen parkkipalvelu",
+    "scenarios.busRoutes.startText": "Tämän haasteen tavoitteena on suorittaa koko linja mahdollisimman korkealla pistemäärällä.<p style=\"color:rgb(255, 165, 0);\"><strong>Saat nämä pisteet:</strong></p><ul> <li>Aja ilman vaurioita.</li><li>Pysähdy hyvin pysäkeillä.</li><li>Älä ohita mitään pysäkkiä, jossa matkustajat haluavat nousta tai jäädä pois bussista.</li></ul>Pysäkeillä odottaa matkustajia, jotka haluavat nousta kyytiin, ja matkustajia, jotka haluavat jäädä pois bussista.\n\nReitin lopussa saat saavutetut pisteet ja voit joko lopettaa haasteen tai jatkaa käänteistä reittiä yrittääksesi uudelleen.",
+    "scenarios.busRoutes.endText": "Onneksi olkoon, olet suorittanut linjan!\n\nSinulla on nyt kaksi vaihtoehtoa, voit joko Jatkaa reittiä tai levätä ja lopettaa reitti tältä päivältä."
 }
