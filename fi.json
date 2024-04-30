@@ -4755,5 +4755,10 @@
     "missions.driver_training.training_tightroad.damage.msg": "Tiet eivät ole ehdotuksia, kaveri!",
     "missions.driver_training.training_lanechange.title": "Kaistan Vaihtaminen",
     "missions.driver_training.training_lanechange.description": "Vaihda kaistoja nopealla vauhdilla.",
-    "missions.driver_training.training_lanechange.timeLimit.msg": "Sinun on tarkoitus ajaa moottoritienopeuksilla, eikö niin?"
+    "missions.driver_training.training_lanechange.timeLimit.msg": "Sinun on tarkoitus ajaa moottoritienopeuksilla, eikö niin?",
+    "missions.driver_training.training_lanechange.damage.msg": "Vakuutusyhtiömme ei tule olemaan tästä iloinen.",
+    "missions.east_coast_usa.precisionParking.fire.title": "Paloasema",
+    "missions.east_coast_usa.precisionParking.street.title": "Päätie",
+    "missions.east_coast_usa.precisionParking.sawmill.title": "Saha",
+    "missions.precisionParking.west_coast_usa.docks.title": "Laituri parkkeeraus"
 }
