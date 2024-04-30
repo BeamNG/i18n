@@ -4636,7 +4636,7 @@
     "ui.stat.drift.maxDriftTime": "Pisin driftiaika",
     "ui.stat.drift.maxDriftDistance": "Suurin driftikantama",
     "ui.stat.drift.crashes": "Kolarit",
-    "ui.stat.drift.spinOuts": "Pyörähtämiset ympäri",
+    "ui.stat.drift.spinOuts": "Ympäriluisut",
     "ui.stat.drift.totalScore": "Kokonaispisteet",
     "replay.startRecordingAutoReplay": "Tallennetaan uutta automaattista uusintaa (Mene pelaamisasetuksiin laittaaksesi pois päältä)",
     "replay.stopAutoReplayRecording": "Automaattinen uusinta tallennettu (käytä uusinnan käyttöliittymäsovellusta katsoaksesi)",
@@ -5006,5 +5006,5 @@
     "ui.introPopup.partShopping.title": "Osien Hallinta",
     "ui.statspage.generalTitle": "Yleistilastot",
     "ui.statspage.switchMode.toCareer": "Vaihda Uratilastoihin",
-    "ui.statspage.switchMode.toGeneral": "Vaihda Yleis tilastoihin"
+    "ui.statspage.switchMode.toGeneral": "Vaihda Yleistilastoihin"
 }
