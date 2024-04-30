@@ -4884,5 +4884,9 @@
     "vehicle.bdebug.beamVisMode.displacement": "Siirtymä",
     "vehicle.bdebug.beamVisMode.limiters": "Rajoittimet",
     "vehicle.bdebug.beamVisMode.frequency": "Taajuus",
-    "ui.inputActions.gameplay.cycleTimeOfDay.description": "Vaihtaa kellonaikaa päivän, yön ja auringonnousun välillä"
+    "ui.inputActions.gameplay.cycleTimeOfDay.description": "Vaihtaa kellonaikaa päivän, yön ja auringonnousun välillä",
+    "ui.inputActions.gameplay.toggleWalkingMode.enterMessage": "Paina [action=toggleWalkingMode] noustaksesi ajoneuvoon.",
+    "ui.inputActions.gameplay.cycleTimeOfDay.title": "Vaihda kellonaikaa",
+    "ui.inputActions.general.toggleUi.title": "Piilota Käyttöliittymä",
+    "ui.inputActions.general.pause.binding": "[action=pause]"
 }
