@@ -4813,5 +4813,10 @@
     "missions.arrive.italy.blancoAuto.title": "Blanco-Kuljetus",
     "missions.arrive.italy.blancoAuto.description": "Ota matkaasi pieni paketti ja nakkaa se toiselle puolelle saarta varastokopillemme.",
     "missions.arrive.italy.blancoAuto.startScreenTitle": "Blanco-Kuljetus",
-    "levels.west_coast_usa.spawnpoints.servicestation": "Huoltoasema"
+    "levels.west_coast_usa.spawnpoints.servicestation": "Huoltoasema",
+    "levels.west_coast_usa.spawnpoints.quarry.logbookEntry": "<h3>Louhos</h3>On vain hieman Puna-metsän ulkopuolella, Belasco Materials Yrityksen omistama louhos tarjoaa murskattua kiveä, hiekkaa ja soraa, ja se on korvaamaton alueen infrastruktuurille ja kasvulle.<br><br>Perustettu vuonna 1999, tämä louhos on edelleen yksi alueen tärkeimmistä työllistäjistä. Vaikka louhos on avoinna liiketoiminnalle, siitä on tullut myös suosittu paikka spontaanien moottoriurheilutapahtumien järjestämiseen. Tämä monitasoinen louhos sisältää useita haastavia hyppyjä ja vaaran paikkoja – mukaan lukien vesialueen, joka vain odottaa nielaistakseen ajoneuvosi – ja se tarjoaa mahdollisuuksia sekä uusille että kokeneille kuljettajille haastaa itsensä.<br><br>Belasco Materials Yritys haluaa muistuttaa mahdollisia harrastajia, että louhoksen käyttö kilpa-ajoihin tai muuhun vastaavaan toimintaan on ehdottomasti kielletty. Pääsy tapahtuu omalla vastuulla, eikä yhtiö ota vastuuta mahdollisista loukkaantumisista tai vahingoista, joita saattaa tapahtua.",
+    "levels.west_coast_usa.spawnpoints.refinery": "Jalostamo",
+    "levels.west_coast_usa.spawnpoints.refinery.description": "Teollinen öljynjalostamo.",
+    "levels.west_coast_usa.spawnpoints.quarry": "Louhos",
+    "levels.west_coast_usa.spawnpoints.quarry.description": "Kivet ja soratiet tekevät tästä alueesta erinomaisen kivillä ryömimiseen tai maastoajoon."
 }
