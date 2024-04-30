@@ -3322,7 +3322,7 @@
     "ui.inputActions.gameplay.toggleTraffic.description": "Kytkee muiden ajoneuvojen liikennejärjestelmän päälle/pois",
     "ui.inputActions.gameplay.toggleTraffic.title": "Liikenne päälle/pois",
     "ui.inputActions.gameplay.toggleWalkingMode.description": "Astuu sisään ajoneuvoon tai ulos ajoneuvosta",
-    "ui.inputActions.gameplay.toggleWalkingMode.title": "Nouse/Poistu Ajoneuvosta",
+    "ui.inputActions.gameplay.toggleWalkingMode.title": "Nouse/Poistu ajoneuvosta",
     "ui.inputActions.gameplay.toggle_minimap.description": "Kytkee pienoiskartan päälle/pois",
     "ui.inputActions.gameplay.toggle_minimap.title": "Pienoiskartta päälle/pois",
     "ui.inputActions.gameplay.toggle_timeTrialsScreen.description": "Avaa määritysvalikon aika-ajoissa",
@@ -4883,5 +4883,6 @@
     "vehicle.bdebug.nodeTextMode.forces": "Voimat",
     "vehicle.bdebug.beamVisMode.displacement": "Siirtymä",
     "vehicle.bdebug.beamVisMode.limiters": "Rajoittimet",
-    "vehicle.bdebug.beamVisMode.frequency": "Taajuus"
+    "vehicle.bdebug.beamVisMode.frequency": "Taajuus",
+    "ui.inputActions.gameplay.cycleTimeOfDay.description": "Vaihtaa kellonaikaa päivän, yön ja auringonnousun välillä"
 }
