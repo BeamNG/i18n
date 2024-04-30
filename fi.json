@@ -4761,5 +4761,7 @@
     "missions.east_coast_usa.precisionParking.street.title": "Päätie",
     "missions.east_coast_usa.precisionParking.sawmill.title": "Saha",
     "missions.precisionParking.west_coast_usa.docks.title": "Laituripysäköinti",
-    "missions.precisionParking.west_coast_usa.docks.description": "Testaa pysäköintitaitojasi tällä avoimella alueella."
+    "missions.precisionParking.west_coast_usa.docks.description": "Testaa pysäköintitaitojasi tällä avoimella alueella.",
+    "missions.precisionParking.west_coast_usa.zigzag.title": "Eteen ja Taakse",
+    "missions.delivery.west_coast_usa.movingAssistance.title": "Muutto Apua"
 }
