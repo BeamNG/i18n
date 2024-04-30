@@ -4950,5 +4950,12 @@
     "ui.career.manage": "Hallitse",
     "ui.career.mods": "Aktivoidut Modit",
     "ui.career.delete": "Poista",
-    "ui.career.nowplaying": "Pelataan"
+    "ui.career.nowplaying": "Pelataan",
+    "ui.career.exitToMenu": "Poistu Päävalikkoon",
+    "ui.career.exitToFreeroam": "Poistu Vapaa-ajoon",
+    "ui.career.exitToDesktop": "Poistu Työpöydälle",
+    "ui.career.deletePrompt": "Haluatko todellakin poistaa tämän profiilin?",
+    "ui.career.exitPrompt": "Haluatko tallentaa? (Viimeinen tallennus {{lastSave | timeSpan : null : 2 : true}})",
+    "ui.career.openGarageTitle": "Avaa Autotalli",
+    "ui.career.experimentalWarning": "BeamNG.drive Ura tila - Työn alla"
 }
