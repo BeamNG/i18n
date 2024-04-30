@@ -4745,5 +4745,7 @@
     "missions.heistM.abandonNo": "PALAA",
     "missions.driver_training.training_beginning.title": "Alku",
     "missions.driver_training.training_beginning.time.msg": "Sinun pitää liikkua, tiedäthän?",
-    "missions.driver_training.training_acceleration_braking1.5.title": "Kiihdytys ja Jarrutus"
+    "missions.driver_training.training_acceleration_braking1.5.title": "Kiihdytys ja Jarrutus",
+    "missions.driver_training.training_acceleration_braking1.5.description": "Kiihdytä ja pysähdy kokonaan.",
+    "missions.driver_training.training_acceleration_braking1.5.position.msg": "Ohitit jarrutus alueen"
 }
