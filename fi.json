@@ -4898,5 +4898,20 @@
     "launchercpp.x86bit_title": "32-bittistä käyttöjärjestelmää ei tueta",
     "ui.timespan.minute.plural_1_pastfuture": "minuuttia",
     "ui.timespan.minute.plural_234": "minuuttia",
-    "ui.timespan.minute.plural": "minuuttia"
+    "ui.timespan.minute.plural": "minuuttia",
+    "ui.timespan.second.plural": "sekunnit",
+    "supporttool.ui_title": "BeamNG.support",
+    "supporttool.ui_privacy_policy": "Tietosuojakäytäntö",
+    "supporttool.main_title": "Asiakaspalvelu",
+    "ui.timespan.minute.singular": "minuutti",
+    "ui.timespan.minute.singular_pastfuture": "minuutti",
+    "ui.timespan.hour.singular": "tunti",
+    "ui.timespan.hour.singular_pastfuture": "tunti",
+    "ui.timespan.hour.plural_1_pastfuture": "tunnit",
+    "ui.timespan.hour.plural_234": "tunnit",
+    "ui.timespan.hour.plural": "tunnit",
+    "ui.timespan.day.singular": "päivä",
+    "ui.timespan.day.singular_pastfuture": "päivä",
+    "ui.timespan.day.plural_1_pastfuture": "päivät",
+    "ui.timespan.day.plural_234": "päivät"
 }
