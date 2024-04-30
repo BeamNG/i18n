@@ -4894,5 +4894,6 @@
     "launchercpp.main_btn_forceNoVulkan": "Poista Vulkan käytöstä ja käynnistä sitten\nVoidaan käyttää, kun Asetukset-valikkoon ei pääse",
     "ui.mission.loading.loading": "Ladataan...",
     "ui.options.controls.bindings.Replay": "Uusinta",
-    "general.onlyValue": "{{value}}"
+    "general.onlyValue": "{{value}}",
+    "launchercpp.x86bit_title": "32-Bitin Käyttöjärjestelmää ei tueta"
 }
