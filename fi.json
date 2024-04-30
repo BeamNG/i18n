@@ -4924,5 +4924,19 @@
     "ui.timespan.year.plural_1_pastfuture": "vuotta",
     "ui.timespan.year.plural_234": "vuotta",
     "ui.timespan.year.plural": "vuotta",
-    "ui.career.adventurer.control.name": "Ohjaus"
+    "ui.career.adventurer.control.name": "Ohjaus",
+    "ui.career.adventurer.description": "Rohkeista stunttihypyistä nopeusansoihin ja muihin erittäin riskialttiisiin aktiviteetteihin. Seikkailijahaara tarjoaa pelottavaa intensiteettiä, draamaa ja luontaista vaaraa, jotka saavat pelaajat palaamaan takaisin.",
+    "ui.timespan.week.singular": "viikko",
+    "ui.timespan.week.singular_pastfuture": "viikko",
+    "ui.timespan.month.singular": "kuukausi",
+    "ui.timespan.month.singular_pastfuture": "kuukausi",
+    "ui.timespan.year.singular": "vuosi",
+    "ui.timespan.year.singular_pastfuture": "vuosi",
+    "ui.career.lvl": "Taso",
+    "ui.career.level": "Taso",
+    "ui.career.lvlLabel": "Taso {{lvl}}",
+    "ui.career.adventurer.name": "Seikkailija",
+    "ui.career.adventurer.destruction.name": "Tuho",
+    "ui.career.adventurer.jumping.name": "Hyppiminen",
+    "ui.career.adventurer.havoc.name": "Hävitystila"
 }
