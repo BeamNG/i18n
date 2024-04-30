@@ -4751,5 +4751,9 @@
     "missions.driver_training.training_cornering2.5.damage.msg": "Nurmikolta pois pysyminen voisi olla hyvä aloitus.",
     "missions.driver_training.training_tightroad.timeLimit.msg": "Jos oikeasti ajattelit kulkea noin hitaasti, niin ajoneuvoa siihen ei tarvitse.",
     "missions.driver_training.training_acceleration_braking1.5.damage.msg": "Minne olet menossa? Testialue on toisessa suunnassa!",
-    "missions.driver_training.training_cornering2.5.timeLimit.msg": "Haluan, että ajat nopeampaa."
+    "missions.driver_training.training_cornering2.5.timeLimit.msg": "Haluan, että ajat nopeampaa.",
+    "missions.driver_training.training_tightroad.damage.msg": "Tiet eivät ole ehdotuksia, kaveri!",
+    "missions.driver_training.training_lanechange.title": "Kaistan Vaihtaminen",
+    "missions.driver_training.training_lanechange.description": "Vaihda kaistoja nopealla vauhdilla.",
+    "missions.driver_training.training_lanechange.timeLimit.msg": "Sinun on tarkoitus ajaa moottoritie nopeuksilla, eikö niin?"
 }
