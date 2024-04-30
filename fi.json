@@ -5004,5 +5004,6 @@
     "ui.introPopup.computer.title": "Autotallin Tietokone",
     "ui.introPopup.tuning.title": "Ajoneuvon Ohjelmointi",
     "ui.introPopup.partShopping.title": "Osien Hallinta",
-    "ui.statspage.generalTitle": "Yleistilastot"
+    "ui.statspage.generalTitle": "Yleistilastot",
+    "ui.statspage.switchMode.toCareer": "Vaihda Ura tilastoihin"
 }
