@@ -4818,5 +4818,15 @@
     "levels.west_coast_usa.spawnpoints.refinery": "Jalostamo",
     "levels.west_coast_usa.spawnpoints.refinery.description": "Teollinen öljynjalostamo.",
     "levels.west_coast_usa.spawnpoints.quarry": "Louhos",
-    "levels.west_coast_usa.spawnpoints.quarry.description": "Kivet ja soratiet tekevät tästä alueesta erinomaisen kivillä ryömimiseen tai maastoajoon."
+    "levels.west_coast_usa.spawnpoints.quarry.description": "Kivet ja soratiet tekevät tästä alueesta erinomaisen kivillä ryömimiseen tai maastoajoon.",
+    "levels.west_coast_usa.gasStationPoints.trilobite_city_KEVee": "Trilobite Latausasema",
+    "levels.west_coast_usa.gasStationPoints.trilobite_city.description": "Tankkaa itsesi ja ajoneuvosi.",
+    "levels.west_coast_usa.garagePoints.servicestation": "Belasco Kaupungin Autotalli",
+    "levels.west_coast_usa.garagePoints.servicestation.description": "Täällä voit muokata, korjata tai vaihtaa ajoneuvoasi.",
+    "levels.west_coast_usa.gasStationPoints.trilobite_city": "Trilobite Huoltoasema",
+    "levels.west_coast_usa.gasStationPoints.trilobite_city_KEVee.description": "Lataa itsesi ja ajoneuvosi.",
+    "levels.west_coast_usa.gasStationPoints.trilobite_garage": "Trilobite Huoltoasema",
+    "levels.west_coast_usa.gasStationPoints.trilobite_garage.description": "Tankkaa itsesi ja ajoneuvosi.",
+    "levels.west_coast_usa.gasStationPoints.trilobite_garage_KEVee": "Trilobite Latausasema",
+    "levels.west_coast_usa.gasStationPoints.trilobite_garage_KEVee.description": "Lataa itsesi ja ajoneuvosi"
 }
