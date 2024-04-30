@@ -4958,7 +4958,7 @@
     "ui.career.exitPrompt": "Haluatko tallentaa? (Viimeinen tallennus {{lastSave | timeSpan : null : 2 : true}})",
     "ui.career.openGarageTitle": "Avaa Autotalli",
     "ui.career.experimentalWarning": "BeamNG.drive Uratila - Työn alla",
-    "ui.career.experimentalTitle": "Ura Tila - Kokeilu",
+    "ui.career.experimentalTitle": "Uratila - Kokeilu",
     "ui.introPopup.later": "Muistuta minua myöhemmin",
     "ui.career.garage.exitPrompt": "Haluatko todellakin poistua autotallista? Ajoneuvon muutoksia ei tallenneta.",
     "ui.career.experimentalAgree": "Kyllä, Vyöt kiinni ja valmiina lähtöön!",
