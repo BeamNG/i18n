@@ -4797,7 +4797,7 @@
     "missions.arrive.message.keepMoving": "Liikettä! Jos jäät jumiin, paina <span>[action=reset_physics]</span>",
     "missions.arrive.general.fail": "Valitettavasti epäonnistuit!",
     "levels.west_coast_usa.spawnpoints.logistics": "Logistiikka",
-    "levels.west_coast_usa.spawnpoints.servicestation.description": "Polttoaineaseman ja autotallin ansiosta täällä on kaikki, mitä tarvitset, kun pidät tauon ajamisesta.",
+    "levels.west_coast_usa.spawnpoints.servicestation.description": "Polttoaineaseman ja autotallin ansiosta täällä on kaikki mitä tarvitset, kun pidät tauon ajamisesta.",
     "missions.arrive.general.complete": "Tervetuloa päämäärään.",
     "missions.arrive.general.pass": "Tarpeeksi hyvä...",
     "missions.arrive.general.arriveOnTime": "Täydellistä, saavuit tänne ajoissa.",
