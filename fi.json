@@ -4871,11 +4871,12 @@
     "vehicle.advancedCouplerControl.releaseHoodFirstInterior": "Avaa konepelti ensin sisältä ennen kuin yrität avata sitä ulkopuolelta",
     "vehicle.advancedCouplerControl.openOtherSideFirst": "Avaa ensin toinen puoli, ennen kuin yrität avata tätä puolta",
     "levels.italy.gasStationPoints.fuel_apex_norte_harbor": "Apex Norten Satama",
-    "vehicle.advancedCouplerControl.portaPotty": "Varattu. Avaa ovi sisäpuolelta ennen avaamista.",
+    "vehicle.advancedCouplerControl.portaPotty": "Varattu. Avaa ovi sisäpuolelta ennen avaamista",
     "levels.johnson_valley.gasStationPoints.tyrannos.description": "Tankkaa ajoneuvosi moottoritien varrella.",
     "levels.italy.gasStationPoints.fuel_apex_norte_harbor.description": "Tankkaa ajoneuvosi samalla kun katselet veneitä.",
     "levels.italy.gasStationPoints.fuel_sparks_norte.description": "Tankkaa ajoneuvosi kaupungissa.",
     "levels.italy.gasStationPoints.fuel_sparks_norte_harbor.description": "Lataa ajoneuvosi sataman läheisyydessä.",
     "levels.italy.gasStationPoints.fuel_sparks_norte_center.description": "Lataa ajoneuvosi samalla kun katselet kaupunkia.",
-    "levels.johnson_valley.info.title": "Johnsonin Laakso"
+    "levels.johnson_valley.info.title": "Johnsonin Laakso",
+    "vehicle.bdebug.nodeTextMode.relativePositions": "Relatiiviset sijainnit"
 }
