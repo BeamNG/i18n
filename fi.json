@@ -5005,5 +5005,6 @@
     "ui.introPopup.tuning.title": "Ajoneuvon Ohjelmointi",
     "ui.introPopup.partShopping.title": "Osien Hallinta",
     "ui.statspage.generalTitle": "Yleistilastot",
-    "ui.statspage.switchMode.toCareer": "Vaihda Uratilastoihin"
+    "ui.statspage.switchMode.toCareer": "Vaihda Uratilastoihin",
+    "ui.statspage.switchMode.toGeneral": "Vaihda Yleis tilastoihin"
 }
