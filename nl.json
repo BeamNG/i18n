@@ -1449,5 +1449,6 @@
     "ui.apps.shift_point_debug.name": "Schakelpunt foutopsporing",
     "ui.apps.thumbnail_generator.message1": "Deze app maakt thumbnails van je huidige voertuig en de configuraties ervan.",
     "ui.apps.tacho2.name": "Toerenteller2",
-    "ui.apps.thumbnail_generator.name": "Thumbnail Generator"
+    "ui.apps.thumbnail_generator.name": "Thumbnail Generator",
+    "ui.apps.thumbnail_generator.message2": "Wees geduldig terwijl de miniatuur weergaves van je modificatie worden gemaakt."
 }
