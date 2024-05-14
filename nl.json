@@ -1478,7 +1478,7 @@
     "ui.apps.traffic.DebugMode": "Foutopsporing modus",
     "ui.apps.traffic.AwarenessMode": "Bewustzijn modus",
     "ui.apps.threedexport.EmbedBuffers": "Buffers insluiten",
-    "ui.apps.threedexport.EmbedBuffersMessage": "Sluit alles in één enkel bestand in indien ingeschakeld",
+    "ui.apps.threedexport.EmbedBuffersMessage": "Sluit alles in één enkel bestand in indien ingeschakeld.",
     "ui.apps.threedexport.Tangents": "Raaklijnen",
     "ui.apps.threedexport.VertexColors": "Vertex kleuren",
     "ui.apps.threedexport.JBeam": "JBeam",
