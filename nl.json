@@ -1306,5 +1306,8 @@
     "ui.apps.digSpeedoAir.airspeed": "Lucht snelheid",
     "ui.apps.digTacho.engine": "Motor",
     "ui.photomode.SSAOQualityNormal": "Normaal",
-    "ui.photomode.dofFocusRange": "Focusafstand"
+    "ui.photomode.dofFocusRange": "Focusafstand",
+    "ui.apps.engineinfo.flywheelTorque": "Koppel op het vliegwiel",
+    "ui.apps.engineinfo.rpm": "Toeren",
+    "ui.apps.engineinfo.gear": "Versnelling"
 }
