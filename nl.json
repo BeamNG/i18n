@@ -1310,5 +1310,5 @@
     "ui.apps.engineinfo.flywheelTorque": "Vliegwiel koppel",
     "ui.apps.engineinfo.rpm": "Toeren",
     "ui.apps.engineinfo.gear": "Versnelling",
-    "ui.apps.engineinfo.wheelTorque": "Koppel op de wielen"
+    "ui.apps.engineinfo.wheelTorque": "Wiel koppel"
 }
