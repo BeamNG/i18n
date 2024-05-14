@@ -1695,5 +1695,6 @@
     "vehicle.main.instability": "Instabiliteit gedetecteerd in '{{vehicle}}'. Simulatie uit voorzorg gepauzeerd",
     "launchercpp.integrity_parse_err_manifest": "kon integriteit json bestand niet lezen, controleren afgebroken",
     "launchercpp.integrity_corupt": "The geïnstalleerde bestanden lijken corrupt te zijn. Herinstalleer alsjeblieft de applicatie.",
-    "ui.introPopup.missions.title": "Gameplay Uitdagingen"
+    "ui.introPopup.missions.title": "Gameplay Uitdagingen",
+    "launchercpp.firewall_err_title": "Firewall error"
 }
