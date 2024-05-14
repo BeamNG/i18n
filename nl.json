@@ -146,7 +146,7 @@
     "scenarios.hirochi_raceway.training_hairpins.description": "Hier leer je hoe je snel door een smalle haarspeldbocht rijdt.",
     "scenarios.hirochi_raceway.training_hairpins.nomove.msg": "Je hebt iets geraakt",
     "scenarios.hirochi_raceway.training_hairpins.position.msg": "Je bent niet in het remgebied",
-    "scenarios.hirochi_raceway.training_hairpins.timeLimit.msg": "meer dan {{timeLimit}} seconden over gedaan",
+    "scenarios.hirochi_raceway.training_hairpins.timeLimit.msg": "meer dan {{timeLimit}} seconden gebruikt",
     "scenarios.hirochi_raceway.training_hairpins.title": "Training 3: Haarspeldbochten",
     "scenarios.hirochi_raceway.training_slalom_FWD.description": "Deze training test je rijkwaliteiten met een voorwielaangedreven auto.",
     "scenarios.hirochi_raceway.training_slalom_FWD.timeLimit.msg": "De tijd is om! Probeer het nog eens met wat meer snelheid",
@@ -1568,7 +1568,14 @@
     "scenarios.east_coast_usa.police_patrol.title": "Politie patrouille",
     "scenarios.east_coast_usa.police_patrol.speed.msg": "Goed gedaan! Je tijd: {{time}}",
     "scenarios.east_coast_usa.deliverytruck_takedown.speed.msg": "Goed gedaan! Je tijd: {{time}}",
-    "scenarios.east_coast_usa.bank_robbery.win.msg": "Goed gedaan! Uw tijd: {{timeLimit}}",
+    "scenarios.east_coast_usa.bank_robbery.win.msg": "Goed gedaan! Je tijd: {{timeLimit}}",
     "scenarios.east_coast_usa.destroy_the_car.title": "Vernietig de Moonhawk",
-    "scenarios.east_coast_usa.minimum_speed.title": "Kapotte Truck"
+    "scenarios.east_coast_usa.minimum_speed.title": "Kapotte Truck",
+    "scenarios.hirochi_raceway.dialog_test.fail.time.msg": "Meer dan {{time}} seconden gebruikt",
+    "scenarios.utah.chapter_1.chapter_1_bridge.description": "Probeer over een gammele brug te rijden tijdens een zandstorm.",
+    "scenarios.small_island.cop_chase.description": "Neutraliseer de Pessima met je Sunburst politieauto.",
+    "scenarios.small_island.cop_chase.damage.msg": "Je hebt je auto gecrasht",
+    "scenarios.utah.chapter_1.chapter_1_cannon.timeLimit.msg": "Je gebruikte meet dan {{timeLimit}} seconden",
+    "scenarios.east_coast_usa.east_coast_chase_2.damage.msg": "Vernietigd!",
+    "scenarios.hirochi_raceway.ai_race.title": "AI Race Test"
 }
