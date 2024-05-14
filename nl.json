@@ -1655,5 +1655,13 @@
     "vehicle.bdebug.nodeVisMode.velocities": "Snelheden",
     "levels.smallgrid_lightstest.info.roads": "Geen",
     "levels.east_coast_usa.spawnpoints.highway": "Snelweg",
-    "vehicle.bdebug.cogMode.off": "Uit"
+    "vehicle.bdebug.cogMode.off": "Uit",
+    "vehicle.bdebug.nodeTextMode.names": "Namen",
+    "vehicle.bdebug.beamVisMode.broken only": "Enkel gebroken",
+    "vehicle.bdebug.nodeTextMode.numbers": "Getallen",
+    "vehicle.bdebug.nodeTextMode.names+numbers": "Namen en getallen",
+    "vehicle.bdebug.nodeTextMode.weights": "Gewichten",
+    "vehicle.bdebug.beamVisMode.off": "Uit",
+    "vehicle.fire.fuelTankRuptured": "Brandstoftank is beschadigd",
+    "vehicle.bdebug.nodeTextMode.off": "Uit"
 }
