@@ -1305,5 +1305,6 @@
     "ui.apps.brake_thermal_debug.thermalEfficiency": "Thermische efficiëntie",
     "ui.apps.digSpeedoAir.airspeed": "Lucht snelheid",
     "ui.apps.digTacho.engine": "Motor",
-    "ui.photomode.SSAOQualityNormal": "Normaal"
+    "ui.photomode.SSAOQualityNormal": "Normaal",
+    "ui.photomode.dofFocusRange": "Focusafstand"
 }
