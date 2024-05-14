@@ -1263,5 +1263,7 @@
     "ui.startscreen.license.personal": "Persoonlijke, niet-commerciële licentie",
     "ui.common.new": "Nieuw",
     "ui.common.vehicleOn": "Ontsteking: Aan",
-    "ui.common.overwrite": "Overschrijven"
+    "ui.common.overwrite": "Overschrijven",
+    "ui.common.vehicleRunning": "Voertuig: Loopt",
+    "ui.common.size": "Automatische herhalingsmapgrootte"
 }
