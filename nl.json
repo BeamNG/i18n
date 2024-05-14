@@ -1499,5 +1499,11 @@
     "ui.options.officialTranslations": "Officiële vertalingen",
     "ui.options.translationAutomatic": "Automatisch",
     "ui.options.vehicleBehavior": "Gedrag van het voertuig",
-    "ui.options.gameplay.escBehavior": "ESC"
+    "ui.options.gameplay.escBehavior": "ESC",
+    "ui.options.gameplay.useSteamName.tooltip": "Indien ingeschakeld wordt jouw Steam naam gebruikt voor de kentekenplaat van je voertuig",
+    "ui.options.gameplay.removeOtherVehicles": "Verwijder andere",
+    "ui.options.gameplay.removeCurrentVehicle": "Verwijder huidige",
+    "ui.options.gameplay.loadDefaultVehicle": "Laad standaard",
+    "ui.options.gameplay.cloneCurrentVehicle": "Kloon huidige",
+    "ui.options.gameplay.useSteamName": "Gebruik Steam naam voor kentekenplaat"
 }
