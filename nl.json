@@ -1526,5 +1526,6 @@
     "ui.garage.tabs.paint": "Verf",
     "ui.garage.tabs.photo": "Foto",
     "ui.garage.tune.name": "Naam",
-    "ui.garage.paint.customize": "Kleur aanpassen"
+    "ui.garage.paint.customize": "Kleur aanpassen",
+    "ui.scenarios.end.requirements": "Vereisten"
 }
