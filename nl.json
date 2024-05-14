@@ -1631,5 +1631,8 @@
     "vehicle.bdebug.nodeVisMode.weights": "Gewichten",
     "levels.cardealer.info.biome": "gematigd",
     "levels.utah.spawnpoints.buildingSite": "Bouwterrein",
-    "vehicle.bdebug.nodeVisMode.off": "Uit"
+    "vehicle.bdebug.nodeVisMode.off": "Uit",
+    "levels.small_island.spawnpoints.spawn_north": "Noordelijke Weg",
+    "campaigns.utah.chapter_1.hilldrop.title": "Heuvel daling",
+    "levels.smallgrid_aitest.info.description": "AI Test terrein"
 }
