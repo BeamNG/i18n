@@ -1581,5 +1581,12 @@
     "scenarios.hirochi_raceway.training_RWD_handling.title": "Training 4: RWD Handling",
     "scenarios.hirochi_raceway.training_slalom_FWD.title": "Training 8: Voorwielaangedreven slalom",
     "scenarios.east_coast_usa.rallycross_nd_long_a1.title": "Rallycross Lang Parkoers",
-    "scenarios.utah.chapter_1.chapter_1_cannon.damage.msg": "Je vernielde de wagen in {{timeStr}}"
+    "scenarios.utah.chapter_1.chapter_1_cannon.damage.msg": "Je vernielde de wagen in {{timeStr}}",
+    "scenarios.east_coast_usa.bank_robbery.distance.fail.msg": "De verdachte is ontsnapt",
+    "scenarios.utah.chapter_1.chapter_1_cannon.description": "Gebruik een oude krachtig kannon om een oud roestig voertuig te vernielen.",
+    "scenarios.east_coast_usa.town_course_short_b.title": "Stad parkoer Kort B",
+    "scenarios.east_coast_usa.intro_road_race.title": "Straatrace",
+    "scenarios.jungle_rock_island.jri_rally_port.title": "Rally naar de haven",
+    "scenarios.utah.chapter_1.chapter_1_bridge.distance.msg": "Goede poging!",
+    "scenarios.utah.chapter_1.chapter_1_cannon.pass.msg": "Goeie treffer!"
 }
