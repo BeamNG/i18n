@@ -1663,5 +1663,6 @@
     "vehicle.bdebug.nodeTextMode.weights": "Gewichten",
     "vehicle.bdebug.beamVisMode.off": "Uit",
     "vehicle.fire.fuelTankRuptured": "Brandstoftank is beschadigd",
-    "vehicle.bdebug.nodeTextMode.off": "Uit"
+    "vehicle.bdebug.nodeTextMode.off": "Uit",
+    "campaigns.utah.chapter_1.jump.title": "Spring"
 }
