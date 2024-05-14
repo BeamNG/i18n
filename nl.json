@@ -351,7 +351,7 @@
     "ui.environment.uranus": "Uranus",
     "ui.environment.venus": "Venus",
     "ui.environment.weather": "Weer",
-    "ui.environment.windSpeed": "Wolksnelheid",
+    "ui.environment.windSpeed": "Wolk snelheid",
     "ui.environment.zeroGravity": "Geen zwaartekracht",
     "ui.faq": "Help / Snelle Links",
     "ui.faq.changeCamera.a": "Druk op [action=switch_camera] om van camera te wisselen, of [action=toggleCamera] om de vrije camera te gebruiken.",
