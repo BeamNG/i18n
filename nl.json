@@ -1337,7 +1337,7 @@
     "ui.apps.engine_thermal_debug.radiatorFanActive": "Radiator ventilator actief",
     "ui.apps.engine_thermal_debug.engineEfficiency": "Motor efficiëntie",
     "ui.apps.engine_thermal_debug.qtocylinderwall": "Q tot zuigerwand",
-    "ui.apps.engine_thermal_debug.qcylinderwalltocoolant": "Q van zuigerwand naar koelvloeistof",
+    "ui.apps.engine_thermal_debug.qcylinderwalltocoolant": "Q zuigerwand tot koelvloeistof",
     "ui.apps.engine_thermal_debug.connectingRodBearingsDamaged": "Drijfstang lager schade",
     "ui.apps.forcedinduction.name": "Geforceerde inductie",
     "ui.apps.ffb_graph.name": "FFB grafiek",
@@ -1377,5 +1377,9 @@
     "ui.apps.hotlapping.HideAdvanced": "Verberg geavanceerd",
     "ui.apps.hotlapping.SkipLap": "Ronde overslaan",
     "ui.apps.hotlapping.ToggleDetail": "Details aan/uit schakelen",
-    "ui.apps.hotlapping.ResetSize": "Groote resetten"
+    "ui.apps.hotlapping.ResetSize": "Groote resetten",
+    "ui.apps.escstiffness.targetAngle": "Gewenste Hoek",
+    "ui.apps.escstiffness.targetSpeed": "Gewenste Snelheid",
+    "ui.apps.hotlapping.AddCheckpoint": "Checkpoint toevoegen",
+    "ui.apps.hotlapping.StopTimer": "Stop Timer"
 }
