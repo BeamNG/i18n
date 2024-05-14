@@ -109,7 +109,7 @@
     "scenarios.east_coast_usa.jump_course_a.description": "Een korte race met sprongen. Probeer je aandrijfas niet te slopen!",
     "scenarios.east_coast_usa.jump_course_a.title": "Jump Course",
     "scenarios.east_coast_usa.offroad_ds_course.title": "Oostkust offroad parkoers",
-    "scenarios.east_coast_usa.pessima_test.title": "Pessima-introductie",
+    "scenarios.east_coast_usa.pessima_test.title": "Pessima Introductie",
     "scenarios.east_coast_usa.police_patrol.description": "Stop de te snel rijdende Hirochi SBR4 met je veel tragere Gavril Roamer Sherrif Edition.",
     "scenarios.east_coast_usa.police_patrol.distance.msg": "De verdachte is ontsnapt ",
     "scenarios.east_coast_usa.police_patrol.wayPointAction.msg": "Stop de snelheidsmaniak",
@@ -1567,5 +1567,5 @@
     "scenarios.derby.regular_derby.title": "Demolition Derby- Standaard Arena",
     "scenarios.east_coast_usa.police_patrol.title": "Politie patrouille",
     "scenarios.east_coast_usa.police_patrol.speed.msg": "Goed gedaan! Je tijd: {{time}}",
-    "scenarios.east_coast_usa.deliverytruck_takedown.speed.msg": "Goed gedaan! Uw tijd: {{time}}"
+    "scenarios.east_coast_usa.deliverytruck_takedown.speed.msg": "Goed gedaan! Je tijd: {{time}}"
 }
