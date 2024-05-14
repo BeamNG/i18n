@@ -1566,5 +1566,6 @@
     "ui.trackBuilder.reversible": "Omkeerbaar",
     "scenarios.derby.regular_derby.title": "Demolition Derby- Standaard Arena",
     "scenarios.east_coast_usa.police_patrol.title": "Politie patrouille",
-    "scenarios.east_coast_usa.police_patrol.speed.msg": "Goed gedaan! Je tijd: {{time}}"
+    "scenarios.east_coast_usa.police_patrol.speed.msg": "Goed gedaan! Je tijd: {{time}}",
+    "scenarios.east_coast_usa.deliverytruck_takedown.speed.msg": "Goed gedaan! Uw tijd: {{time}}"
 }
