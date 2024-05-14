@@ -1600,5 +1600,15 @@
     "scenarios.utah.chapter_1.chapter_1_walljump.title": "Muur Sprong",
     "scenarios.utah.chapter_2.chapter_2_2_mixed.fail.msg": "Is dat alles wat je hebt?",
     "scenarios.utah.chapter_2.chapter_2_6_canyon.description": "Een lastige race door een smalle kloof.",
-    "campaigns.utah.chapter_1.description": "Deel 1: Een montage van vernieling over Utah"
+    "campaigns.utah.chapter_1.description": "Deel 1: Een montage van vernieling over Utah",
+    "campaigns.utah.chapter_1.highway.title": "Snelweg",
+    "levels.cardealer.info.title": "Autohandelaar",
+    "campaigns.utah.chapter_1.summaryHeading": "Gefeliciteerd!",
+    "levels.autotest.info.description": "leeg",
+    "levels.east_coast_usa.info.title": "Oostkust, VS",
+    "levels.smallgrid_soundtest.info.title": "Smallgrid geluidstest",
+    "campaigns.training.training.training_tightroad.title": "Training 3: Krappe straatcircuit",
+    "levels.jungle_rock_island.spawnpoints.spawnsHill": "Heuvel",
+    "levels.smallgrid_lightstest.info.biome": "VR",
+    "vehicle.bdebug.beamVisMode": "Beam visualisatie veranderd: {{beamVisMode | translate}}"
 }
