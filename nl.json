@@ -1599,5 +1599,6 @@
     "scenarios.utah.chapter_2.chapter_2_1_ram.playerfall.fail.msg": "Ho! Alles ok daar? Het is niet de bedoeling om jezelf er af te gooien, opletten!",
     "scenarios.utah.chapter_1.chapter_1_walljump.title": "Muur Sprong",
     "scenarios.utah.chapter_2.chapter_2_2_mixed.fail.msg": "Is dat alles wat je hebt?",
-    "scenarios.utah.chapter_2.chapter_2_6_canyon.description": "Een lastige race door een smalle kloof."
+    "scenarios.utah.chapter_2.chapter_2_6_canyon.description": "Een lastige race door een smalle kloof.",
+    "campaigns.utah.chapter_1.description": "Deel 1: Een montage van vernieling over Utah"
 }
