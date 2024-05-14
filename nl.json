@@ -1577,5 +1577,8 @@
     "scenarios.small_island.cop_chase.damage.msg": "Je hebt je auto gecrasht",
     "scenarios.utah.chapter_1.chapter_1_cannon.timeLimit.msg": "Je gebruikte meet dan {{timeLimit}} seconden",
     "scenarios.east_coast_usa.east_coast_chase_2.damage.msg": "Vernietigd!",
-    "scenarios.hirochi_raceway.ai_race.title": "AI Race Test"
+    "scenarios.hirochi_raceway.ai_race.title": "AI Race Test",
+    "scenarios.hirochi_raceway.training_RWD_handling.title": "Training 4: RWD Handling",
+    "scenarios.hirochi_raceway.training_slalom_FWD.title": "Training 8: Voorwielaangedreven slalom",
+    "scenarios.east_coast_usa.rallycross_nd_long_a1.title": "Rallycross Lang Parkoers"
 }
