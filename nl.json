@@ -174,14 +174,14 @@
     "scenarios.utah.canyon_race.title": "Ravijn Race",
     "scenarios.utah.chapter_1.chapter_1_bridge.title": "Brug",
     "scenarios.utah.chapter_1.chapter_1_cliffjump.description": "Bereik de bodem van de klif zo snel mogelijk.",
-    "scenarios.utah.chapter_1.chapter_1_cliffjump.timeLimit.msg": "Je hebt de top niet verlaten binnen {{failureTime}} seconden!",
+    "scenarios.utah.chapter_1.chapter_1_cliffjump.timeLimit.msg": "Je hebt het bovenste gebied niet verlaten binnen {{failureTime}} seconden!",
     "scenarios.utah.chapter_1.chapter_1_cliffjump.title": "Klifafdaling",
     "scenarios.utah.chapter_1.chapter_1_crawl.damage.msg": "Je hebt het voertuig in {{timeStr}} vernietigd",
     "scenarios.utah.chapter_1.chapter_1_crawl.timeLimit.msg": "Je hebt er meer dan {{timeLimit}} seconden erover gedaan",
     "scenarios.utah.chapter_1.chapter_1_drag.pass.msg": "Race voltooid",
     "scenarios.utah.chapter_1.chapter_1_drag.title": "Dragrace",
     "scenarios.utah.chapter_1.chapter_1_highway.description": "Passeer een blokkade op de weg.",
-    "scenarios.utah.chapter_1.chapter_1_hilldrop.title": "Bergaf",
+    "scenarios.utah.chapter_1.chapter_1_hilldrop.title": "Bergafwaarts",
     "scenarios.utah.chapter_1.chapter_1_jump.damage.msg": "Je raakte het voertuig in {{timeStr}}",
     "scenarios.utah.chapter_1.chapter_1_jump.fail.msg": "Het is je niet gelukt om te springen",
     "scenarios.utah.chapter_1.chapter_1_jump.title": "Spring",
@@ -1588,7 +1588,8 @@
     "scenarios.east_coast_usa.intro_road_race.title": "Straatrace",
     "scenarios.jungle_rock_island.jri_rally_port.title": "Rally naar de haven",
     "scenarios.utah.chapter_1.chapter_1_bridge.distance.msg": "Goede poging!",
-    "scenarios.utah.chapter_1.chapter_1_cannon.pass.msg": "Goeie treffer!",
+    "scenarios.utah.chapter_1.chapter_1_cannon.pass.msg": "Goede treffer!",
     "scenarios.hirochi_raceway.training_corner_speeds.title": "Training 6: Bochtsnelheden",
-    "scenarios.gridmap.gm_intersection_2.description": "Kalibreer je snelheid en probeer de andere auto te raken. Dit keer met een twist!"
+    "scenarios.gridmap.gm_intersection_2.description": "Kalibreer je snelheid en probeer de andere auto te raken. Dit keer met een twist!",
+    "scenarios.utah.chapter_1.chapter_1_hilldrop.pass.msg": "Goed gedaan!"
 }
