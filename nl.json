@@ -1647,5 +1647,13 @@
     "vehicle.bdebug.beamVisMode.deformation": "Vervorming",
     "vehicle.turbocharger.overheating": "Turbo raakt oververhit",
     "vehicle.bdebug.nodeVisMode.forces": "Krachten",
-    "vehicle.bdebug.beamVisMode.simple": "Eenvoudig"
+    "vehicle.bdebug.beamVisMode.simple": "Eenvoudig",
+    "levels.dry_rock_island.info.roads": "40% asfalt, 30% zandweg, 30% paden en industriële wegen",
+    "levels.italy.info.title": "Italië",
+    "levels.menu.info.description": "Oud achterhaald menuscherm, moet verwijderd worden",
+    "vehicle.bdebug.nodeVisMode.simple": "Simpel",
+    "vehicle.bdebug.nodeVisMode.velocities": "Snelheden",
+    "levels.smallgrid_lightstest.info.roads": "Geen",
+    "levels.east_coast_usa.spawnpoints.highway": "Snelweg",
+    "vehicle.bdebug.cogMode.off": "Uit"
 }
