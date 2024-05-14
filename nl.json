@@ -1591,5 +1591,7 @@
     "scenarios.utah.chapter_1.chapter_1_cannon.pass.msg": "Goede treffer!",
     "scenarios.hirochi_raceway.training_corner_speeds.title": "Training 6: Bochtsnelheden",
     "scenarios.gridmap.gm_intersection_2.description": "Kalibreer je snelheid en probeer de andere auto te raken. Dit keer met een twist!",
-    "scenarios.utah.chapter_1.chapter_1_hilldrop.pass.msg": "Goed gedaan!"
+    "scenarios.utah.chapter_1.chapter_1_hilldrop.pass.msg": "Goed gedaan!",
+    "scenarios.utah.chapter_1.chapter_1_ramcliff.fail.msg": "Je hebt beide voertuigen niet beneden de berg gekregen",
+    "scenarios.utah.chapter_1.chapter_1_hilldrop.fail.msg": "Je hebt niet bewogen in 10 seconden"
 }
