@@ -1634,5 +1634,18 @@
     "vehicle.bdebug.nodeVisMode.off": "Uit",
     "levels.small_island.spawnpoints.spawn_north": "Noordelijke Weg",
     "campaigns.utah.chapter_1.hilldrop.title": "Heuvel daling",
-    "levels.smallgrid_aitest.info.description": "AI Test terrein"
+    "levels.smallgrid_aitest.info.description": "AI Test terrein",
+    "vehicle.bullettime.changeSlow": "{{slowmoTimes}} keer langzamer dan normaal",
+    "vehicle.bullettime.changeFast": "{{speed}} keer sneller dan normaal",
+    "vehicle.bullettime.slowmotion": "Slow Motion geactiveerd",
+    "vehicle.bdebug.beamVisMode.stress": "Belasting",
+    "levels.smallgrid_tiretest.info.biome": "VR",
+    "vehicle.bdebug.cogMode.on": "Aan",
+    "vehicle.bdebug.nodeVisMode.density": "Dichtheid",
+    "vehicle.bdebug.nodeTextMode.materials": "Materialen",
+    "vehicle.bdebug.beamVisMode.type": "Type",
+    "vehicle.bdebug.beamVisMode.deformation": "Vervorming",
+    "vehicle.turbocharger.overheating": "Turbo raakt oververhit",
+    "vehicle.bdebug.nodeVisMode.forces": "Krachten",
+    "vehicle.bdebug.beamVisMode.simple": "Eenvoudig"
 }
