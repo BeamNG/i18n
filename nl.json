@@ -1691,5 +1691,6 @@
     "launchercpp.launchgame_404_title": "Kon BeamNG.drive niet starten",
     "launchercpp.launchgame_404_clipboard": "game toepassing niet gevonden:",
     "launchercpp.launchgame_fail_txt": "Kon toepassing niet starten: {0}\n\nError: {1}\n\n{2}",
-    "launchercpp.launchgame_fail_clipboard": "{0} kon game niet opstarten - Error {1} {2}"
+    "launchercpp.launchgame_fail_clipboard": "{0} kon game niet opstarten - Error {1} {2}",
+    "vehicle.main.instability": "Instabiliteit gedetecteerd in '{{vehicle}}'. Simulatie uit voorzorg gepauzeerd"
 }
