@@ -1272,5 +1272,6 @@
     "ui.modmanager.updated.subtitle": "Alle geïnstalleerde mods zijn tijdelijk gedeactiveerd",
     "ui.modmanager.updated.p1": "Mods functioneren mogelijk niet meer correct als gevolg van grote applicatie-updates.",
     "ui.modmanager.updated.p2": "Mods kunnen crashes, instabiliteiten, kapotte inhoud/functies en soortgelijke problemen veroorzaken.",
-    "ui.modmanager.updated.p3": "Wij doen ons best om dit te voorkomen, maar helaas is dit niet altijd mogelijk."
+    "ui.modmanager.updated.p3": "Wij doen ons best om dit te voorkomen, maar helaas is dit niet altijd mogelijk.",
+    "ui.vehicleconfig.simpleTree": "Eenvoudige Structuur"
 }
