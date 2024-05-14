@@ -1232,7 +1232,7 @@
     "ui.environment.tireMarks.reset": "Opschonen",
     "ui.environment.tireMarks": "Remsporen",
     "ui.environment.environmentalTemperature": "Omgevingstemperatuur",
-    "ui.modmanager.addDownload": "Toevoegen aan download-lijst",
+    "ui.modmanager.addDownload": "Voeg toe aan Download-lijst",
     "ui.modmanager.updateAllMissing": "Alles downloaden",
     "ui.modmanager.missing_tooltip": "Mods waarop je bent geabonneerd maar die niet aanwezig zijn op deze computer",
     "ui.modmanager.missing": "Abonnement ontbreekt",
