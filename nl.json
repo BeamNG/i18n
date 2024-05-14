@@ -1563,5 +1563,7 @@
     "ui.options.online": "Online functies",
     "ui.trackBuilder.rightTurn": "Bocht segment naar rechts toevoegen",
     "ui.trackBuilder.drive": "Rijden!",
-    "ui.trackBuilder.reversible": "Omkeerbaar"
+    "ui.trackBuilder.reversible": "Omkeerbaar",
+    "scenarios.derby.regular_derby.title": "Demolition Derby- Standaard Arena",
+    "scenarios.east_coast_usa.police_patrol.title": "Politie patrouille"
 }
