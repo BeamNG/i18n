@@ -1519,5 +1519,6 @@
     "ui.garage.tabs.parts": "Onderdelen",
     "ui.garage.tabs.save": "Auto opslaan",
     "ui.loading.spawn.forest": "Groeien van bomen",
-    "ui.loading.spawn.vehicles": "Motors voorbereiden"
+    "ui.loading.spawn.vehicles": "Motors voorbereiden",
+    "ui.options.graphics.DisplayShadows": "Schaduwen weergeven"
 }
