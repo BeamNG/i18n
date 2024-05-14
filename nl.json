@@ -1512,5 +1512,12 @@
     "ui.garage.tabs.load": "Mijn Auto's",
     "scenarios.derby.derby_test.title": "Demolition Derby - Interne Test",
     "scenarios.east_coast_usa.tanker_delivery.distance.msg": "Je hebt de aanhangwagen verloren!",
-    "ui.loading.spawn.static": "Gebouwen bouwen"
+    "ui.loading.spawn.static": "Gebouwen bouwen",
+    "scenarios.east_coast_usa.gm_racetest.title": "Racetest",
+    "ui.garage.photo.special": "Speciale spullen",
+    "ui.loading.spawn.water": "Water uitgieten",
+    "ui.garage.tabs.parts": "Onderdelen",
+    "ui.garage.tabs.save": "Auto opslaan",
+    "ui.loading.spawn.forest": "Groeien van bomen",
+    "ui.loading.spawn.vehicles": "Motors voorbereiden"
 }
