@@ -761,7 +761,7 @@
     "ui.apps.pitch.name": "Helling",
     "ui.apps.speedometer.name": "Snelheidsmeter",
     "ui.apps.steering_position.name": "Stuur Positie",
-    "ui.apps.powertrain_debug.name": "Aandrijflijn Weergave",
+    "ui.apps.powertrain_debug.name": "Aandrijflijn Visualisatie",
     "ui.options.communityTranslations": "Community vertalingen",
     "ui.options.communityTranslationsAgree": "Accepteren & Activeren",
     "ui.options.gameplay.defaultGearboxBehavior": "Standaard versnellingsbakgedrag",
@@ -1377,7 +1377,7 @@
     "ui.apps.hotlapping.HideAdvanced": "Verberg geavanceerd",
     "ui.apps.hotlapping.SkipLap": "Ronde overslaan",
     "ui.apps.hotlapping.ToggleDetail": "Details aan/uit schakelen",
-    "ui.apps.hotlapping.ResetSize": "Groote resetten",
+    "ui.apps.hotlapping.ResetSize": "Grootte resetten",
     "ui.apps.escstiffness.targetAngle": "Gewenste Hoek",
     "ui.apps.escstiffness.targetSpeed": "Gewenste Snelheid",
     "ui.apps.hotlapping.AddCheckpoint": "Checkpoint toevoegen",
@@ -1448,5 +1448,6 @@
     "ui.apps.shift_decision_debug.WheelslipUp": "Wielslip verhogen",
     "ui.apps.shift_point_debug.name": "Schakelpunt foutopsporing",
     "ui.apps.thumbnail_generator.message1": "Deze app maakt miniatuur weergaves van je huidige voertuig en de configuratie ervan.",
-    "ui.apps.tacho2.name": "Toerenteller2"
+    "ui.apps.tacho2.name": "Toerenteller2",
+    "ui.apps.thumbnail_generator.name": "Thumbnail Generator"
 }
