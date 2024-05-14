@@ -1598,5 +1598,6 @@
     "scenarios.utah.chapter_1.chapter_1_rubberband.description": "Rubberband - statistieken: schade opgelopen, tijd genomen, hoe ver je door de rivier geraakt bent, score: hoe ver je door de rivier geraakt bent, gefaald: rubber band niet geactiveerd, eerste wegpunt niet bereikt, Nota: heeft een knop nodig dat een rubber band effect dat jouw wagen verbindt met de zijkant van de weg verbindt voor de tijd je knop indrukt, bij activeren dit gooit jouw over de rivier",
     "scenarios.utah.chapter_2.chapter_2_1_ram.playerfall.fail.msg": "Ho! Alles ok daar? Het is niet de bedoeling om jezelf er af te gooien, opletten!",
     "scenarios.utah.chapter_1.chapter_1_walljump.title": "Muur Sprong",
-    "scenarios.utah.chapter_2.chapter_2_2_mixed.fail.msg": "Is dat alles wat je hebt?"
+    "scenarios.utah.chapter_2.chapter_2_2_mixed.fail.msg": "Is dat alles wat je hebt?",
+    "scenarios.utah.chapter_2.chapter_2_6_canyon.description": "Een lastige race door een smalle kloof."
 }
