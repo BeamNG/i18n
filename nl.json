@@ -1256,5 +1256,12 @@
     "ui.mainmenu.navbar.navigate": "Navigeren",
     "ui.dashboard.bigmap": "Kaart",
     "ui.dashboard.gameContext": "Missies",
-    "ui.dashboard.performanceGraph": "Open prestatie grafiek"
+    "ui.dashboard.performanceGraph": "Open prestatie grafiek",
+    "ui.common.close": "Sluit",
+    "ui.common.vehicleOff": "Ontsteking: Uit",
+    "ui.common.vehicleAccessoryOn": "Ontsteking: Alleen Accessoires",
+    "ui.startscreen.license.personal": "Persoonlijke, niet-commerciële licentie",
+    "ui.common.new": "Nieuw",
+    "ui.common.vehicleOn": "Ontsteking:  Aan",
+    "ui.common.overwrite": "Overschrijven"
 }
