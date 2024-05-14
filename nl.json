@@ -1696,5 +1696,18 @@
     "launchercpp.integrity_parse_err_manifest": "kon integriteit json bestand niet lezen, controleren afgebroken",
     "launchercpp.integrity_corupt": "The geïnstalleerde bestanden lijken corrupt te zijn. Herinstalleer alsjeblieft de applicatie.",
     "ui.introPopup.missions.title": "Gameplay Uitdagingen",
-    "launchercpp.firewall_err_title": "Firewall error"
+    "launchercpp.firewall_err_title": "Firewall error",
+    "ui.introPopup.ok": "Oké",
+    "ui.introPopup.later": "Herinner me later",
+    "ui.introPopup.prev": "Vorige pagina",
+    "ui.introPopup.next": "Volgende pagina",
+    "ui.introPopup.welcome.title": "BeamNG Carrière Modus",
+    "ui.introPopup.bigmap.title": "Kaart weergave",
+    "ui.introPopup.milestones.title": "Mijlpalen",
+    "ui.introPopup.garage.title": "Garage",
+    "ui.statspage.careerTitle": "Carrière statistieken",
+    "ui.statspage.generalTitle": "Algemene statistieken",
+    "ui.statspage.switchMode.toCareer": "Schakel over naar carrière statistieken",
+    "ui.statspage.switchMode.toGeneral": "Schakel over naar Algemene statistieken",
+    "ui.statspage.subtitle": "Speler Statistieken"
 }
