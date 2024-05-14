@@ -775,7 +775,7 @@
     "ui.faq.updateGame.a": "Steam installeert automatisch updates wanneer je verbonden bent met het internet.[br] Voor meer informatie, bezoek onze wiki-pagina [url=http://wiki.beamng.com/Updating_the_game] 2http://wiki.beamng.com/Updating_the_game[/url]",
     "ui.faq.findMods.q": "Waar kan ik mods vinden?",
     "ui.faq.findMods.a": "je kan mods downloaden van de bibliotheek: [url=http://www.beamng.com/resources/]Beamng.drive repository[/url] Als je bent ingelogd, klik dan op de groene Installeer Mod knop op de mods pagina.",
-    "ui.performance": "Prestatie",
+    "ui.performance": "Prestaties",
     "ui.performance.orBetter": "of beter",
     "ui.performance.benchmark.testVehicle": "Test Voertuig",
     "ui.performance.benchmark.run": "Voer Fysica Benchmark uit",
