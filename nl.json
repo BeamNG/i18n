@@ -261,8 +261,8 @@
     "ui.credits.assistantenvArtists": "Assistent-Omgeving Ontwerpers",
     "ui.credits.conceptArtists2D": "Concept Ontwerpers - 2D",
     "ui.credits.customerSupport": "Support",
-    "ui.credits.environmentArtists": "Omgeving Ontwerpers",
-    "ui.credits.madePossibleWith": "Mede-Mogelijk Gemaakt Met",
+    "ui.credits.environmentArtists": "Omgevingskunst",
+    "ui.credits.madePossibleWith": "Mede mogelijk gemaakt door",
     "ui.credits.organization": "Organisatie",
     "ui.credits.ourAwesomeCommunity": "Onze Geweldige Community",
     "ui.credits.programmers": "Ontwikkeling",
@@ -745,7 +745,7 @@
     "ui.modmanager.filesize": "Bestandsgrootte",
     "ui.color.colors": "Kleuren",
     "ui.color.colorPalette": "Kleurenpalet {{id}}",
-    "ui.color.chrominess": "Chrome",
+    "ui.color.chrominess": "Hoeveelheid chrome",
     "ui.vehicleconfig.licensePlate": "Nummerplaat",
     "ui.apps.brake_torque_graph.name": "Remkracht Grafiek",
     "ui.apps.cruise_control.name": "Cruise Control",
@@ -941,7 +941,7 @@
     "ui.modmanager.creationDate": "Datum aangemaakt",
     "ui.modmanager.id": "Uniek ID",
     "ui.modmanager.author": "Auteur",
-    "ui.modmanager.openModFolderInExplorer": "Open in Mod map",
+    "ui.modmanager.openModFolderInExplorer": "Open de Mod map",
     "ui.modmanager.local": "Lokaal",
     "ui.modmanager.show": "Laat zien",
     "ui.modmanager.install_on": "Geïnstalleerd op",
@@ -1265,5 +1265,5 @@
     "ui.common.vehicleOn": "Ontsteking: Aan",
     "ui.common.overwrite": "Overschrijven",
     "ui.common.vehicleRunning": "Voertuig: Loopt",
-    "ui.common.size": "Automatische herhalingsmapgrootte"
+    "ui.common.size": "Automatische replay mapgrootte"
 }
