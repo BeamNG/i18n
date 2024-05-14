@@ -1276,5 +1276,13 @@
     "ui.vehicleconfig.simpleTree": "Eenvoudige Structuur",
     "ui.photomode.dofMaxBlurNear": "Near Blur sterkte",
     "ui.photomode.dofMaxBlurFar": "Far Blur sterkte",
-    "ui.apps.absdebug.wheelAcc": "Wiel Acc"
+    "ui.apps.absdebug.wheelAcc": "Wiel Acc",
+    "ui.photomode.SSAOControls": "Ambient Occlusion besturing",
+    "ui.apps.brake_thermal_debug.energyToBrakeSurface": "Energie naar rem oppervlak",
+    "ui.apps.categories.utility": "Utiliteit",
+    "ui.apps.brake_thermal_debug.name": "Thermische rem debug",
+    "ui.photomode.dofAperture": "Aperture",
+    "ui.photomode.SSAOQuality": "Kwaliteit",
+    "ui.apps.absdebug.wheelSlip": "Wiel slip",
+    "ui.apps.brake_thermal_debug.coreTemp": "Middelste Temp"
 }
