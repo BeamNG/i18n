@@ -1588,5 +1588,7 @@
     "scenarios.east_coast_usa.intro_road_race.title": "Straatrace",
     "scenarios.jungle_rock_island.jri_rally_port.title": "Rally naar de haven",
     "scenarios.utah.chapter_1.chapter_1_bridge.distance.msg": "Goede poging!",
-    "scenarios.utah.chapter_1.chapter_1_cannon.pass.msg": "Goeie treffer!"
+    "scenarios.utah.chapter_1.chapter_1_cannon.pass.msg": "Goeie treffer!",
+    "scenarios.hirochi_raceway.training_corner_speeds.title": "Training 6: Bochtsnelheden",
+    "scenarios.gridmap.gm_intersection_2.description": "Kalibreer je snelheid en probeer de andere auto te raken. Dit keer met een twist!"
 }
