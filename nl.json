@@ -1336,5 +1336,6 @@
     "ui.apps.engine_thermal_debug.radiatorAirSpeed": "Luchtsnelheid radiator",
     "ui.apps.engine_thermal_debug.radiatorFanActive": "Radiator ventilator actief",
     "ui.apps.engine_thermal_debug.engineEfficiency": "Motor efficiëntie",
-    "ui.apps.engine_thermal_debug.qtocylinderwall": "Q tot zuigerwand"
+    "ui.apps.engine_thermal_debug.qtocylinderwall": "Q tot zuigerwand",
+    "ui.apps.engine_thermal_debug.qcylinderwalltocoolant": "Q van zuigerwand naar koelvloeistof"
 }
