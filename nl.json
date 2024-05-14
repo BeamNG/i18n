@@ -1447,5 +1447,6 @@
     "ui.apps.shift_decision_debug.WheelslipDown": "Wielslip verlagen",
     "ui.apps.shift_decision_debug.WheelslipUp": "Wielslip verhogen",
     "ui.apps.shift_point_debug.name": "Schakelpunt foutopsporing",
-    "ui.apps.thumbnail_generator.message1": "Deze app maakt miniatuur weergaves van je huidige voertuig en de configuratie ervan."
+    "ui.apps.thumbnail_generator.message1": "Deze app maakt miniatuur weergaves van je huidige voertuig en de configuratie ervan.",
+    "ui.apps.tacho2.name": "Toerenteller2"
 }
