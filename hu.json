@@ -2747,7 +2747,7 @@
     "ui.faq.updatingGame.q": "Hogyan frissíthetem a játékot?",
     "ui.faq.getHelp.a": "Ha játék közben problémába ütköztél, a következő csatornákon kérhetsz segítséget:[br][br] [url=http://www.beamng.com/forums/]A BeamNG.com fórumon[/url] [url=http://support.beamng.com/]E-mailben[/url] [br] Igyekszünk mihamarabb segíteni, de megeshet, hogy csak pár munkanap után tudunk válaszolni.",
     "ui.vehicleconfig.saveThumbnail": "Indexkép készítése mentéskor",
-    "ui.vehicleconfig.loadTooltip": "Konfiguráció betöltése",
+    "ui.vehicleconfig.loadTooltip": "Töltse be ezt a konfigurációt",
     "ui.quickrace.name": "Név",
     "ui.mainmenu.mods.desciptionUnavailable": "Leírás nem elérhető",
     "ui.repository.searchClear": "Keresés törlése",
