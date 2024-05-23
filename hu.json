@@ -2988,7 +2988,7 @@
     "ui.apps.aicontrol.AiDebug": "AI Hibakereső",
     "ui.apps.brake_thermal_debug.surfaceTemp": "Felület Hőmérséklete",
     "ui.apps.brake_thermal_debug.coreTemp": "Maghőmérséklet",
-    "ui.vehicleconfig.searchHelp.example1": "Megkeresi az összes alkatrész nevét a 'bal' kifejezésre",
+    "ui.vehicleconfig.searchHelp.example1": "Megkeresi az összes alkatrész nevét a 'bal' kifejezéssel",
     "ui.apps.engine_thermal_debug.coolantMass": "Hűtőfolyadék Tömege",
     "ui.apps.engine_thermal_debug.coolantEfficiency": "Hűtőfolyadék Hatékonysága",
     "ui.apps.escstiffness.progress": "Fejlődés",
