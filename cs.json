@@ -7568,5 +7568,19 @@
     "ui.career.motorsport.legacy.name": "Dobové závody",
     "ui.career.specialized.name": "Specialista",
     "ui.career.specialized.enforcement.name": "Prosazování zákona",
-    "ui.career.specialized.police.description": "Pronásleduj a zastav zločince, abys zachoval vládu zákona."
+    "ui.career.specialized.police.description": "Pronásleduj a zastav zločince, abys zachoval vládu zákona.",
+    "vehicle.interaction.hydraulics.idleRaise.enable.desc": "Zapne ruční zvýšení volnoběhu.",
+    "vehicle.interaction.hydraulics.idleRaise.disable.desc": "Vypne ruční zvýšení volnoběhu.",
+    "vehicle.interaction.hydraulics.idleRaise.set.title": "Chvilkové ruční zvýšení volnoběhu",
+    "ui.controls.ffbGenericWarning": "Chcete-li zlepšit zpětnou silovou vazbu, snižte nastavení tak, abyste dosáhli alespoň 60 snímků za sekundu, nejlépe >120 snímků za sekundu.\n\nSilné volanty mohou vytvářet náhlé a nebezpečné síly. Dodržujte bezpečnostní postupy:<list><li>Bezpečnostní pokyny naleznete v pokynech výrobce volantu.</li><li>Nikdy neopírejte palce o věnec volantu.</li></list>",
+    "missions.west_coast_usa.evade.escape.title": "Vysadit a ponořit",
+    "missions.west_coast_usa.evade.escape.startTitle": "Ponořit a vysadit",
+    "missions.west_coast_usa.evade.escape.description": "Vyber si jedno ze tří aut ve kterém povezeš lup, uprchni a proveď výsadek.",
+    "missions.west_coast_usa.evade.escape.startText": "Uprchni policajtům, pak popadni lup a odvez jej do skrýše s penězi.",
+    "missions.west_coast_usa.evade.escape.dropOffText": "Výsadek hotov, teď odsuď zmiz a zbav se policajtů!",
+    "vehicle.interaction.hydraulics.idleRaise.disable.title": "Zakázat ruční zvyšování volnoběhu",
+    "vehicle.interaction.hydraulics.idleRaise.enable.title": "Povolit ruční zvýšení volnoběhu",
+    "vehicle.interaction.hydraulics.idleRaise.toggle.desc": "Zapíná a vypíná ruční zvýšení volnoběhu.",
+    "vehicle.interaction.hydraulics.idleRaise.toggle.title": "Přepínání ručního zvyšování volnoběhu",
+    "vehicle.interaction.hydraulics.idleRaise.set.desc": "Na okamžik zapne ruční zvýšení volnoběhu."
 }
