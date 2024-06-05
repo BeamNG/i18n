@@ -2826,7 +2826,7 @@
     "ui.credits.comms": "Kommunikáció & Marketing",
     "ui.vehicleconfig.applyLicensePlate": "Alkalmazd a rendszámtáblát",
     "ui.vehicleconfig.searchHelp.notes": "Jegyzetek",
-    "ui.vehicleconfig.searchHelp.historyClear": "Az előzményeket törölni a CTRL+K billentyűkkel tudod.",
+    "ui.vehicleconfig.searchHelp.historyClear": "Az előzményeket törölni a CTRL+K billentyűkombinációval tudod.",
     "ui.photomode.openScreenshotsFolder": "Nyisd meg a képernyőfotók mappáját",
     "ui.photomode.dofFocusRange": "Fókusztávolság",
     "ui.photomode.SSAOContrast": "Kontraszt",
@@ -3041,5 +3041,7 @@
     "ui.apps.damage_app_vehicle_simple.component.wheels.tireRL": "Bal hátsó gumiabroncs kidurrant",
     "ui.apps.damage_app_vehicle_simple.component.wheels.tireFR": "Jobb első gumiabroncs kidurrant",
     "ui.apps.engine_heat_debug_graph.block": "Motorblokk",
-    "ui.apps.engine_thermal_debug.block": "Motorblokk"
+    "ui.apps.engine_thermal_debug.block": "Motorblokk",
+    "ui.photomode.bloom": "Csillogás",
+    "ui.apps.aicontrol.InLane": "Sávban:"
 }
