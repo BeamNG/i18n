@@ -3043,5 +3043,6 @@
     "ui.apps.engine_heat_debug_graph.block": "Motorblokk",
     "ui.apps.engine_thermal_debug.block": "Motorblokk",
     "ui.photomode.bloom": "Csillogás",
-    "ui.apps.aicontrol.InLane": "Sávban:"
+    "ui.apps.aicontrol.InLane": "Sávban:",
+    "ui.apps.absdebug.wheelSlip": "Kerék Megcsúszása"
 }
