@@ -2943,7 +2943,7 @@
     "ui.apps.aicontrol.Drivability": "Minimum Vezethetőség:",
     "ui.apps.brake_thermal_debug.brakeType": "Fék típusa",
     "ui.apps.brake_thermal_debug.thermalEfficiency": "Termikus hatékonyság",
-    "ui.apps.engineinfo.gear": "Sebesség",
+    "ui.apps.engineinfo.gear": "Fokozat",
     "ui.apps.engineinfo.flywheelTorque": "Lendkerék nyomatéka",
     "ui.apps.engineinfo.wheelTorque": "Keréknyomaték",
     "ui.options.graphics.effects": "Effektek",
@@ -3044,5 +3044,15 @@
     "ui.apps.engine_thermal_debug.block": "Motorblokk",
     "ui.photomode.bloom": "Csillogás",
     "ui.apps.aicontrol.InLane": "Sávban:",
-    "ui.apps.absdebug.wheelSlip": "Kerék Megcsúszása"
+    "ui.apps.absdebug.wheelSlip": "Kerék Megcsúszása",
+    "ui.apps.damage_app_vehicle_simple.component.body.FL": "Bal Első",
+    "ui.apps.engine_thermal_debug.coolantThermostat": "Hűtőfolyadék termosztát",
+    "ui.apps.damage_app_vehicle_simple.component.body.FR": "Jobb Első",
+    "ui.apps.damage_app_vehicle_simple.component.body.ML": "Bal Középső",
+    "ui.apps.damage_app_vehicle_simple.component.body.MR": "Jobb Középső",
+    "ui.apps.damage_app_vehicle_simple.component.body.RL": "Bal Hátsó",
+    "ui.apps.damage_app_vehicle_simple.component.body.RR": "Jobb Hátsó",
+    "ui.apps.damage_app_vehicle_simple.component.engine.oilStarvation": "Olajéhség",
+    "ui.apps.damage_app_vehicle_simple.component.engine.coolantHot": "Hűtőfolyadék túlmelegedés",
+    "ui.apps.damage_app_vehicle_simple.component.engine.oilHot": "Olaj túlmelegedés"
 }
