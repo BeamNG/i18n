@@ -5301,7 +5301,7 @@
     "missions.delivery.west_coast_usa.fuel.starOutroTexts.justFinishTime": "Právě včas! Díky moc.",
     "missions.delivery.west_coast_usa.tower.starOutroTexts.piecesGold": "Díky za doručení.",
     "missions.delivery.west_coast_usa.tower.starOutroTexts.piecesGoldTime": "Díky za dodání všech těch zásob!",
-    "missions.arrive.goals.noDamage": "Nepoškozuj vozidlo.",
+    "missions.arrive.goals.noDamage": "Nepoškoď vozidlo.",
     "missions.arrive.goals.speedLimit": "Udržuj rychlost pod {{limit}}.",
     "missions.arrive.general.speedLimit": "Maximální povolená rychlost je {{limit}}!",
     "missions.chase.italy.superSpeed.title": "Vysoká rychlost",
