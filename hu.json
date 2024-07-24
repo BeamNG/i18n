@@ -1168,13 +1168,13 @@
     "scenarios.east_coast_usa.town_course_short_b.title": "Rövid kisvárosi pálya B",
     "scenarios.east_coast_usa.town_course_short_b.description": "Egy másik rövid, a kisvárost átszelő raliszakasz.",
     "scenarios.east_coast_usa.east_coast_chase_2.title": "Keleti parti hajsza 2",
-    "scenarios.east_coast_usa.east_coast_chase_2.description": "Kapd el a Bruckell Moonhawkot a veterán Burnside Special járőrautóddal.",
+    "scenarios.east_coast_usa.east_coast_chase_2.description": "Valaki éppen kirabolta a helyi benzinkútat. Szemtanúk látták őt menekülni egy Soliad Wendover-el. Találd meg és tartóztasd le!",
     "scenarios.east_coast_usa.east_coast_chase_2.distance.msg": "Elmenekült!",
     "scenarios.east_coast_usa.east_coast_chase_2.damage.msg": "Összetörted az autódat",
     "scenarios.east_coast_usa.east_coast_chase_2.wayPointAction.msg": "Állítsd meg a gyanúsítottat!",
     "scenarios.east_coast_usa.east_coast_chase_2.speed.msg": "Szép munka! Az időd: {{time}}",
     "scenarios.east_coast_usa.east_coast_chase_3.title": "Keleti parti hajsza 3",
-    "scenarios.east_coast_usa.east_coast_chase_3.description": "Állíts meg egy tuningolt Bruckell LeGrant a turbófeltöltős Ibishu 200BX elfogóddal.",
+    "scenarios.east_coast_usa.east_coast_chase_3.description": "Jelentéseket kaptunk egy felelőtlen vezetőről egy Bruckell Legrannel. Állítsd meg!",
     "scenarios.east_coast_usa.east_coast_chase_3.distance.msg": "Elmenekült!",
     "scenarios.east_coast_usa.east_coast_chase_3.damage.msg": "Összetört!",
     "scenarios.east_coast_usa.east_coast_chase_3.wayPointAction.msg": "Állítsd meg a gyanúsítottat!",
@@ -3091,5 +3091,6 @@
     "ui.apps.engine_thermal_debug.cylinderlWall": "Hengerfal",
     "ui.apps.engine_thermal_debug.exhaustManifold": "Kipufogócsonk",
     "ui.apps.engine_thermal_debug.airRegulator": "Levegőszabályozó",
-    "ui.apps.engine_thermal_debug.oilThermostat": "Olaj Termosztát"
+    "ui.apps.engine_thermal_debug.oilThermostat": "Olaj Termosztát",
+    "ui.options.audio.collisionVolTooltip": "Csapódások, üvegtörés és karcolások"
 }
