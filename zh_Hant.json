@@ -4779,5 +4779,7 @@
     "ui.radialmenu2.powertrain.regen.off.desc": "停用再生制軔：載具將正常滑行。",
     "ui.radialmenu2.powertrain.regen.full": "最強（單踏板駕駛模式）",
     "ui.radialmenu2.powertrain.regen.full.desc": "最強再生制軔+單踏板駕駛模式",
-    "ui.radialmenu2.powertrain.regen.level.desc": "{{percent | number: 0}}%再生制軔強度"
+    "ui.radialmenu2.powertrain.regen.level.desc": "{{percent | number: 0}}%再生制軔強度",
+    "ui.scenarios.end.playAgain": "再玩一次",
+    "ui.garage.tabs.decals": "貼圖"
 }
