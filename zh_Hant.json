@@ -4775,5 +4775,6 @@
     "ui.debug.vehicle.partSelected": "已選擇的零件",
     "ui.debug.vehicle.beamText": "Beam 文字",
     "ui.debug.vehicle.railsSlideNodesVis": "Rails + Slidenodes 視覺化",
-    "ui.radialmenu2.powertrain.regen.desc": "調整再生煞車的強度和開關單踏板駕駛模式"
+    "ui.radialmenu2.powertrain.regen.desc": "調整再生煞車的強度和開關單踏板駕駛模式",
+    "ui.radialmenu2.powertrain.regen.off.desc": "關閉再生制動：車輛會正常滑行。"
 }
