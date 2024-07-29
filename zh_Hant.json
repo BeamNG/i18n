@@ -4803,5 +4803,5 @@
     "ui.stat.drift.totalScore": "總分",
     "ui.fsError.title": "安裝錯誤",
     "quest.type.timePlayed.description": "在遊戲中多待一下！此里程碑進度在您進行生涯模式中的任何遊戲時累計，不論是進行<em>挑戰</em>或<em>自由漫遊</em>。",
-    "quest.type.starsEarned.description": "完成挑戰獲得<em>星星</em>。每顆星星僅能獲得一次。"
+    "quest.type.starsEarned.description": "完成挑戰以獲得星星。每個星星只能獲得一次。"
 }
