@@ -4770,5 +4770,7 @@
     "lockType.syncBad": "❌現實方向盤設備與遊戲內方向盤角度不同步。",
     "ui.controls.ffb.softlockForce.tooltip": "當您的方向盤設備角度超過載具的可用轉向幅度時，此設定會以一定力道將您的方向盤拉回載具的可用轉向範圍內。[br][br]需要正確的「{{'ui.controls.angle'|translate}}」設定。[br][br]使用較高幀數搭配較低「{{'ui.controls.ffb.softlockForce'|translate}}」能產生較平滑的效果。",
     "ui.controls.ffb.updateType": "更新方式",
-    "ui.controls.ffb.responseCorrected": "使用反應校正曲線"
+    "ui.controls.ffb.responseCorrected": "使用反應校正曲線",
+    "ui.debug.vehicle.showOnlySelectedPartMesh": "只顯示已選擇零件的網格",
+    "ui.debug.vehicle.partSelected": "已選擇的零件"
 }
