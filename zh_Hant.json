@@ -4726,5 +4726,13 @@
     "ui.career.computer.functions.vehicleShop": "載具商店",
     "ui.career.computer.functions.vehicleInventory": "載具庫",
     "ui.career.computer.functions.partInventory": "零件庫",
-    "ui.introPopup.delivery.title": "運輸遊戲"
+    "ui.introPopup.delivery.title": "運輸遊戲",
+    "ui.startscreen.license.personal": "自用，非營業執照",
+    "ui.vehicleconfig.applyPartChangesAutomaticallyTooltip": "移動滑桿時自動套用變更",
+    "ui.vehicleconfig.liveWheelDataTooltip": "即時顯示車輪的外傾角、前束角、後傾角、SAI",
+    "ui.common.new": "新的",
+    "ui.vehicleconfig.liveWheelData": "即時車輪資料",
+    "ui.mirrors.name": "後視鏡調整",
+    "ui.mirrors.position.left": "左後視鏡",
+    "ui.mirrors.position.right": "右後視鏡"
 }
