@@ -4818,5 +4818,6 @@
     "quest.type.reachBranchLevel.succeed": "你已達到{{branch}}分支等級{{level}}！",
     "quest.type.questOfQuests.title": "完成所有的子挑戰。",
     "quest.type.questOfQuests.succeed": "你已完成所有的子挑戰！",
-    "quest.type.questOfQuests.progressBarLabel": "你已完成{{count}}/{{goal}}個子挑戰。"
+    "quest.type.questOfQuests.progressBarLabel": "你已完成{{count}}/{{goal}}個子挑戰。",
+    "quest.type.money.title": "累積至少{{goal}}金錢。"
 }
