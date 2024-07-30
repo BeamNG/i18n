@@ -4814,5 +4814,6 @@
     "ui.debug.vehicle.useInclusiveRange": "使用 Inclusive Range",
     "ui.debug.vehicle.visRangeMin": "範圍最小值",
     "ui.debug.vehicle.visRangeMax": "範圍最大值",
-    "quest.type.reachBranchLevel.title": "在{{branch}}分支達到等級{{goal}}。"
+    "quest.type.reachBranchLevel.title": "在{{branch}}分支達到等級{{goal}}。",
+    "quest.type.reachBranchLevel.succeed": "你已達到{{branch}}等級{{level}}！"
 }
