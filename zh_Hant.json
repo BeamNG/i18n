@@ -1616,7 +1616,7 @@
     "ui.vehicleconfig.simpleTree": "簡易樹狀結構",
     "ui.vehicleconfig.mouseOverUi": "請在輸入文字時將滑鼠游標保持在UI範圍內，以確保能夠順利輸入內容。",
     "ui.photomode.takeScreen": "擷取螢幕畫面",
-    "ui.photomode.takebigScreen": "擷取完整螢幕畫面（將花費數秒）",
+    "ui.photomode.takebigScreen": "擷取完整螢幕畫面（需時數秒）",
     "ui.photomode.uploadScreen": "上傳螢幕擷取畫面至BeamNG媒體伺服器（將在外部瀏覽器開啟）",
     "ui.photomode.quitPhotoMode": "退出照相模式",
     "ui.photomode.advancedImgSettings": "開啟進階設定",
