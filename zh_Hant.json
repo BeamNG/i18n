@@ -4807,5 +4807,6 @@
     "ui.controls.ffbUnsafeTypeWarning": "目前的設定可能對幀數有較大影響。若「{{'ui.controls.ffb.updateType.fast'|translate}}」模式無法使用或無法正常運作，請考慮更新您的方向盤設備韌體。請僅在上述方法無法解決問題、且切換選項後有明顯改善時選用「{{'ui.controls.ffb.updateType.slow'|translate}}」模式。",
     "ui.controls.ffb.responseCorrected.tooltip": "允許自訂方向盤設備對於不同扭力訊號的反應。[br][br]如提升設備對低扭力訊號的反應並降低對高扭力訊號的反應，使設備以非線性力道補償回饋細節等等。[br][br][b]更多詳情請查閱BeamNG Documentation網站上的Steering Wheel Setup主題。[/b][br][br]快速指南：在啟用並套用此選項後，將一曲線檔案置入您遊戲使用者資料夾中的[code]settings/inputmaps/[/code]位址、按下<code>ctrl+L</code>、點擊<code>套用</code>，最後重新打開此選項頁面。位址內的<code>.diff</code>檔案將自動被更新為新的曲線檔案。[br][br]可用檔案：[list][*]wheel.csv（通用格式，每行當中有一對數值<code>force</code>和<code>response</code>；表格首行忽略不計，可輸入任何數值，數值將自動地受到平衡、平滑化）[*]wheel.lut（與《Assetto Corsa&trade;》的<code>ff_post_process</code>曲線相容）[*]wheel.log（與《iRacing&trade;》使用<code>log-2</code>選項的WheelCheck csv 檔案相容）[*]wheel.fcm （與《Project Cars&trade;》使用<code>linear force response</code>選項匯出的Force Curve Modifier檔案相容）[/list]",
     "ui.controls.ffbUnsafeFrequencyWarning": "the current force-feedback configuration may be impacting your framerate:<list><li>Configured value: {{finalFrequency}} Hz<li>Recommended: 'Automatic' (current safe estimate: {{safeFrequency}} Hz or less)</list>",
-    "ui.controls.padLogitechIncorrect": "裝置模式：您的Logitech控制器以不正確的方式運作。請查閱[url=https://go.beamng.com/gamepadLogitech]我們網站中的註記[/url]。"
+    "ui.controls.padLogitechIncorrect": "裝置模式：您的Logitech控制器以不正確的方式運作。請查閱[url=https://go.beamng.com/gamepadLogitech]我們網站中的註記[/url]。",
+    "ui.controls.proLogitechPaddles": "離合器踏板：如在Logitech驅動軟體中正確設定，則兩個類比踏板可以做為非離合器踏板使用。"
 }
