@@ -4811,5 +4811,8 @@
     "ui.controls.proLogitechPaddles": "離合器踏板：您能在Logitech驅動程式中將設備上的兩個踏板設為離合器以外的功能。",
     "quest.type.reachBranchLevel.description": "遊玩「{{branch | translate}}」分支下的挑戰獲得<em>分支XP</em>達到下個等級。每個等級將解鎖一些<em>新的挑戰</em>！<br><br>{{branchDescription | translate}}",
     "ui.debug.debugSpawnEnabled": "以除錯模式生成（使「Node 文字：群組」有效）",
-    "ui.debug.vehicle.useInclusiveRange": "使用 Inclusive Range"
+    "ui.debug.vehicle.useInclusiveRange": "使用 Inclusive Range",
+    "ui.debug.vehicle.visRangeMin": "範圍最小值",
+    "ui.debug.vehicle.visRangeMax": "範圍最大值",
+    "quest.type.reachBranchLevel.title": "在{{branch}}分支達到等級{{goal}}。"
 }
