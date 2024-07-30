@@ -4822,5 +4822,6 @@
     "quest.type.money.title": "累積至少{{goal}}金錢。",
     "quest.type.money.progressBarLabel": "您已累積{{count}}/{{goal}}金錢！",
     "quest.type.money.succeed": "你已累積{{goal}}金錢至少一次！",
-    "quest.type.discoverQuicktravelPoints.progressBarLabel": "已經發現了{{count}}/{{goal}}個傳送點"
+    "quest.type.discoverQuicktravelPoints.progressBarLabel": "已經發現了{{count}}/{{goal}}個傳送點",
+    "quest.type.goToLocation.title": "前往{{goal}}地點。"
 }
