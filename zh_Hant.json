@@ -436,7 +436,7 @@
     "Fuel Type": "燃料種類",
     "Induction Type": "進氣類型",
     "engine.welcome": "歡迎來到繁體中文版 BeamNG.drive :)",
-    "engine.lua.reloaded": "已重新載入 Main LUA instance",
+    "engine.lua.reloaded": "已重新載入主要 LUA 執行個體",
     "engine.cef.subprocessdied.title": "UI程序沒有回應",
     "engine.cef.subprocessdied.msg": "使用者介面發生錯誤。\n\n----\n錯誤資訊：\n{}\n----\n\n您可在以下網址得到更多協助：\nhttps://go.beamng.com/UnresponsiveUIProcess\n\n要立即以瀏覽器開啟該網址嗎？",
     "engine.cef.subprocessdied.url": "https://documentation.beamng.com/support/troubleshooting/common_exit_codes/#unresponsive-ui-process",
