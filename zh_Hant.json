@@ -5058,5 +5058,9 @@
     "missions.industrial.timeTrial.West1.title": "西側競速環道",
     "missions.industrial.timeTrial.Warehouse.title": "倉庫競速",
     "missions.industrial.timeTrial.Warehouse.description": "一條穿過廢棄工業區建築的技術性賽道。",
-    "missions.west_coast_usa.timeTrial.Highway3.title": "高速公路直線賽車道"
+    "missions.west_coast_usa.timeTrial.Highway3.title": "高速公路直線賽車道",
+    "missions.gridmap_v2.timeTrial.Halfpipes1.description": "又細又直的路段和特技跳台，讓這條困難賽道與有著良好操控性與超強加速的車輛十分相配。",
+    "missions.gridmap_v2.timeTrial.Halfpipes1.title": "半管 - 屋頂",
+    "missions.gridmap_v2.timeTrial.Halfpipes2.description": "在這條簡短但充滿挑戰性的賽道上來回奔馳。",
+    "missions.gridmap_v2.timeTrial.Halfpipes3.title": "半管 - 隧道"
 }
