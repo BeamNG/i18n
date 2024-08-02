@@ -5444,5 +5444,11 @@
     "missions.johnson_valley.collection.Dusty.description": "盡快收集所有路標。",
     "missions.johnson_valley.collection.Dusty.introText": "這場緊湊的沙漠收集挑戰將測試你的機動性。",
     "missions.johnson_valley.collection.Fortune.description": "收集山丘上的黃金。",
-    "missions.johnson_valley.collection.Fortune.introText": "在山谷中收集路標，並試著在復原次數用完前將它們全數收集。別忘了使用差速器鎖定和低速檔，以幫助你橫越此地型。"
+    "missions.johnson_valley.collection.Fortune.introText": "在山谷中收集路標，並試著在復原次數用完前將它們全數收集。別忘了使用差速器鎖定和低速檔，以幫助你橫越此地型。",
+    "missions.johnson_valley.chase.chase1.description": "追上並攔下搶案嫌犯。",
+    "missions.johnson_valley.collection.Fuel.title": "搜索燃料",
+    "missions.johnson_valley.collection.Fuel.description": "盡快取得所有燃料桶。",
+    "missions.johnson_valley.collection.Fuel.introText": "賽事的新員工忘記綁緊一批燃料桶，桶子從他的卡車上掉了下來，散落在這一區。回到場地之點後他才發現這危險的錯誤。所幸有人從遠方看到這個情況，並且打了電話通知。最糟糕的是，燃料是為了下個小時要開始的賽事所準備的！我們得趕快收集這些燃料，才能及時供給賽事使用！祝你好運，快開始進行吧！",
+    "missions.johnson_valley.chase.chase1.title": "維修站搶匪",
+    "missions.johnson_valley.chase.chase1.startTitle": "維修站搶匪"
 }
