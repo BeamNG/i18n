@@ -3047,7 +3047,7 @@
     "scenarios.italy.pizzaDelivery1.fail_stop": "你沒有停在顧客家門口！",
     "scenarios.italy.pizzaDelivery1.success_fast": "嘿，送些披薩給那些抗議者吧，說不定他們會願意閉嘴！",
     "scenarios.italy.pizzaDelivery1.success_slow": "你真的是把外送的時間卡得很緊耶！",
-    "scenarios.italy.pizzaDelivery1.customer1": "多謝、少年吔！",
+    "scenarios.italy.pizzaDelivery1.customer1": "謝啦、少年吔！",
     "scenarios.italy.pizzaDelivery1.customer2": "你總算來了。",
     "scenarios.italy.pizzaDelivery1.tip_horn": "按下 <span>[action=horn]</span> 表示感謝。",
     "scenarios.italy.pizzaDelivery1.tip_stop": "在下一個路標點停車",
@@ -5597,5 +5597,10 @@
     "levels.johnson_valley.gasStationPoints.tyrannos.description": "在高速公路旁為車輛加油。",
     "levels.utah.gasStationPoints.gasolin": "加油加油站",
     "levels.utah.gasStationPoints.gasolin.description": "在高速公路附近為車輛加油。一旁也有維修廠。",
-    "levels.utah.gasStationPoints.canyon": "峽谷加油站"
+    "levels.utah.gasStationPoints.canyon": "峽谷加油站",
+    "missions.johnson_valley.timeTrial.rally2.description": "有一段長直線的技術性高速越野計時賽段。",
+    "missions.johnson_valley.timeTrial.rally2.startScreenText": "你能駕馭此賽道的速度嗎？你當然可以！",
+    "missions.johnson_valley.timeTrial.rally2.endScreenText": "做得好，你可以再開快一點嗎？",
+    "missions.gridmapv2.climbforlife.description": "如果想抵達山坡頂端，你一定要有穩固的車輛。去找四輪驅動的重型車輛吧，因為你絕對躲不過所有落石",
+    "missions.gridmapv2.climbforlife.title": "攀爬求生"
 }
