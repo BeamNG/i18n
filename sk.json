@@ -3277,7 +3277,7 @@
     "ui.mainmenu.navbar.scroll_v": "[action=menu_item_radial_right_y] {{:: 'ui.inputActions.menu.menu_item_radial_right_y.title' | translate}}",
     "ui.dashboard.menu": "Hlavné menu",
     "ui.modmanager.updated.subtitle": "Všetky nainštalované módy boli dočasné deaktivované",
-    "ui.modmanager.updated.p1": "V dôsledku velkých aktualizácií hry môžu módy prestať správne fungovať.",
+    "ui.modmanager.updated.p1": "V dôsledku veľkých aktualizácií môžu módy prestať správne fungovať.",
     "ui.modmanager.updated.title": "BeamNG.drive bolo aktualizované na verziu {{versionStr}}",
     "ui.dashboard.bigmap": "Mapa",
     "ui.dashboard.gameContext": "Misie",
