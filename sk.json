@@ -3264,6 +3264,6 @@
     "ui.common.vehicleRunning": "Vozidlo: naštartované",
     "ui.common.replayCount": "Počet súborov spätného prehrávania",
     "ui.common.size": "Automatická veľkosť adresára spätného prehrávania",
-    "ui.common.totalSize": "Maximálna veľkosť priečinku",
+    "ui.common.totalSize": "Maximálna veľkosť adresára",
     "ui.common.totalCount": "Počet súborov"
 }
