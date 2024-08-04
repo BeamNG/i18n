@@ -3266,5 +3266,14 @@
     "ui.common.size": "Automatická veľkosť adresára spätného prehrávania",
     "ui.common.totalSize": "Maximálna veľkosť adresára",
     "ui.common.totalCount": "Počet súborov",
-    "ui.trackbuilder.menus.startTrackBuilderOnGlowCity": "Prepnúť na Glow City"
+    "ui.trackbuilder.menus.startTrackBuilderOnGlowCity": "Prepnúť na Glow City",
+    "ui.mainmenu.navbar.navigate": "Navigovať",
+    "ui.mainmenu.navbar.tab_left": "[action=menu_tab_left] {{:: 'ui.inputActions.menu.menu_tab_left.title' | translate}}",
+    "ui.mainmenu.navbar.select": "[action=menu_item_select] {{:: 'ui.inputActions.menu.menu_item_select.title' | translate}}",
+    "ui.mainmenu.navbar.back": "[action=menu_item_back] {{:: 'ui.inputActions.menu.menu_item_back.title' | translate}}",
+    "ui.mainmenu.navbar.tab_right": "[action=menu_tab_right] {{:: 'ui.inputActions.menu.menu_tab_right.title' | translate}}",
+    "ui.mainmenu.navbar.scroll": "[action=menu_item_radial_right_x] [action=menu_item_radial_right_y] Posúvať",
+    "ui.mainmenu.navbar.scroll_h": "[action=menu_item_radial_right_x] {{:: 'ui.inputActions.menu.menu_item_radial_right_x.title' | translate}}",
+    "ui.mainmenu.navbar.scroll_v": "[action=menu_item_radial_right_y] {{:: 'ui.inputActions.menu.menu_item_radial_right_y.title' | translate}}",
+    "ui.dashboard.menu": "Hlavné Menu"
 }
