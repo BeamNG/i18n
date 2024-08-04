@@ -2173,7 +2173,7 @@
     "ui.trackBuilder.trackSettings.defaultLaps": "Predvolené kolá",
     "ui.trackBuilder.trackSettings.positionTrackBeforeCam": "Umiestniť trať pred kameru",
     "ui.mainmenu.onlineConsent": "Povoliť online funkcie",
-    "ui.mainmenu.telemetryConsent": "Súhlasím so zbieraním dát o mojom hraní firmou[br] BeamNG GmbH (klikni [url=https://go.beamng.com/privacyPolicy]sem[/url] pre typy zbieraných dát).",
+    "ui.mainmenu.telemetryConsent": "Súhlasím so zbieraním údajov o mojom hraní firmou[br] BeamNG GmbH (klikni [url=https://go.beamng.com/privacyPolicy]sem[/url] pre typy zbieraných údajov).",
     "ui.trackBuilder.settings.cameraFollowDistance": "Vzdialenosť kamery",
     "ui.mainmenu.onlineFeatures.header": "Online funkcie",
     "ui.mainmenu.telemetryOnlineHint": "Telemetria nemôže byť aktívna bez aktivovaných online funkcií.",
