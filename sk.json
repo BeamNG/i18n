@@ -1987,7 +1987,7 @@
     "quickrace.small_island.intro_round_circuit.title": "Ostrovná slučka",
     "quickrace.small_island.intro_round_circuitB.title": "Ostrovná alternatívna slučka",
     "quickrace.industrial.track_ri_sprint.description": "Krátke, točité rozloženie v priemyselnej oblasti.",
-    "ui.modWizard.skinWizard.desc": "Pre demonštračné účely budeme používať ako meno nášho skinu SkinExample. Dva súbory, ktoré môžu byť upravované boli skombinované do obrázku napravo. Keď otvoríš súbory skinu, môžeš kliknúť ďalej, aby si načítal skin alebo dokončiť pre skončenie sprievodcu.",
+    "ui.modWizard.skinWizard.desc": "Pre demonštračné účely budeme používať ako meno nášho skinu SkinExample. Dva súbory, ktoré môžu byť upravované, boli skombinované do obrázku napravo. Keď otvoríš súbory skinu, môžeš kliknúť ďalej, aby si načítal skin alebo dokončiť pre skončenie sprievodcu.",
     "ui.common.off": "Vypnuté",
     "ui.modWizard.skinWizard.right": "Pravá časť obrázku je \"SkinExample_palette_uv1.dds\". Tento obrázok sa používa pre určenie ktoré časti tvojho skinu môžu byť zafarbené pomocou selektoru farieb v hre. Červená je prvá farba, zelená je druhá a modrá je tretia. Ak je to priehľadné, nebude to zafarbené.",
     "ui.modmanager.local": "Lokálne",
