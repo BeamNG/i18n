@@ -87,7 +87,7 @@
     "engine.editor.menu.yAxis": "OS Y",
     "engine.editor.menu.zAxis": "OS Z",
     "engine.engineFail": "Nepodarilo sa inicializovať aplikáciu, prebieha vypínanie.",
-    "engine.invalidUserpath.msg": "BeamNG.drive sa nemôže dostať k UserPath definovanej v startup.ini (v adresári hry). Zmeňte ju na platnú cestu: ",
+    "engine.invalidUserpath.msg": "BeamNG.drive sa nemôže dostať k UserPath definovanej v startup.ini (v adresári aplikácie). Zmeňte ju na platnú cestu: ",
     "engine.invalidUserpath.title": "Nesprávna používateľská cesta",
     "engine.levelModified.msg": "Úroveň bola zmenená editorom. Uložiť?",
     "engine.levelModified.title": "Úroveň upravená",
@@ -3284,5 +3284,7 @@
     "ui.dashboard.performanceGraph": "Otvoriť graf výkonu",
     "ui.showAuxiliary": "Zahŕňať pomocný obsah pre ladenie",
     "ui.modmanager.updated.p3": "Snažíme sa tomu predísť, ale bohužial to nie je vždy možné.",
-    "ui.modmanager.updated.p2": "Módy môžu spôsobiť pády, nestabilitu, pokazený obsah/funkcie a podobné problémy."
+    "ui.modmanager.updated.p2": "Módy môžu spôsobiť pády, nestabilitu, pokazený obsah/funkcie a podobné problémy.",
+    "ui.modmanager.updated.p5": "Ďakujeme za pochopenie!",
+    "ui.modmanager.updated.p4": "Nejaké módy zatiaľ nemusia byť s touto verziou aplikácie kompatibilné. Dajte prosím tvorcom módov čas na aktualizáciu módov :)"
 }
