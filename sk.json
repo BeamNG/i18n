@@ -3275,7 +3275,7 @@
     "ui.mainmenu.navbar.scroll": "[action=menu_item_radial_right_x] [action=menu_item_radial_right_y] Posúvať",
     "ui.mainmenu.navbar.scroll_h": "[action=menu_item_radial_right_x] {{:: 'ui.inputActions.menu.menu_item_radial_right_x.title' | translate}}",
     "ui.mainmenu.navbar.scroll_v": "[action=menu_item_radial_right_y] {{:: 'ui.inputActions.menu.menu_item_radial_right_y.title' | translate}}",
-    "ui.dashboard.menu": "Hlavné Menu",
+    "ui.dashboard.menu": "Hlavné menu",
     "ui.modmanager.updated.subtitle": "Všetky nainštalované módy boli dočasné deaktivované",
     "ui.modmanager.updated.p1": "V dôsledku velkých aktualizácií hry môžu módy prestať správne fungovať.",
     "ui.modmanager.updated.title": "BeamNG.drive bolo aktualizované na verziu {{versionStr}}",
