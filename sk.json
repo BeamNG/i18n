@@ -3262,5 +3262,6 @@
     "ui.common.vehicleAccessoryOn": "Zapaľovanie: iba príslušenstvo",
     "ui.common.vehicleOn": "Zapaľovanie: zapnuté",
     "ui.common.vehicleRunning": "Vozidlo: naštartované",
-    "ui.common.replayCount": "Počet súborov spätného prehrávania"
+    "ui.common.replayCount": "Počet súborov spätného prehrávania",
+    "ui.common.size": "Automatická veľkosť priečinku spätného prehrávania"
 }
