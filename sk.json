@@ -3249,5 +3249,14 @@
     "levels.utah.spawnpoints.campsite": "Kemp",
     "ui.common.vehSearch": "Dva krát kliknite pre prepnutie konfigurácií",
     "ui.common.property.recommendedVehicle": "Odporúčané Vozidlo",
-    "ui.common.close": "Zatvoriť"
+    "ui.common.close": "Zatvoriť",
+    "ui.common.medium": "Stredné",
+    "ui.common.high": "Vysoké",
+    "ui.common.okay": "Dobre",
+    "ui.common.low": "Nízke",
+    "ui.common.vehicleOff": "Zapalovanie: vypnuté",
+    "ui.common.thanks": "Ďakujem",
+    "ui.common.back": "Späť",
+    "ui.common.new": "Nové",
+    "ui.common.overwrite": "Prepísať"
 }
