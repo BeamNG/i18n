@@ -3258,5 +3258,6 @@
     "ui.common.thanks": "Ďakujem",
     "ui.common.back": "Späť",
     "ui.common.new": "Nové",
-    "ui.common.overwrite": "Prepísať"
+    "ui.common.overwrite": "Prepísať",
+    "ui.common.vehicleAccessoryOn": "Zaplalovanie: Iba príslušenstvo"
 }
