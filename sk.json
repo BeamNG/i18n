@@ -2177,7 +2177,7 @@
     "ui.trackBuilder.settings.cameraFollowDistance": "Vzdialenosť kamery",
     "ui.mainmenu.onlineFeatures.header": "Online funkcie",
     "ui.mainmenu.telemetryOnlineHint": "Telemetria nemôže byť aktívna bez aktivovaných online funkcií.",
-    "ui.mainmenu.privacyPolicyHint": "Pre podrobnosti o spracovaní dát ohľadne online možností a telemetrie si prečítaj naše [url=https://go.beamng.com/privacyPolicy]beamng.com/PrivacyPolicy.pdf]Podmienky súkromia[/url]",
+    "ui.mainmenu.privacyPolicyHint": "Pre podrobnosti o spracovaní údajov týkajúcich sa online funkcií a telemetrie si prečítaj naše [url=https://go.beamng.com/privacyPolicy]beamng.com/PrivacyPolicy.pdf]Zásady ochrany osobných údajov[/url]",
     "ui.mainmenu.telemetry.featureDescription": "Chceli by sme zhromažďovať údaje o hraní, ako je napríklad dĺžka hry, zahrané scenáre a to, či máš povolené určité herné funkcie, s cieľom identifikovať oblasti pre budúci vývoj hry a zlepšenie herného zážitku. Tieto údaje sa odosielajú na naše servery, kde sú anonymizované a uložené spôsobom, ktorý neumožňuje identifikáciu jednotlivcov. Tieto informácie nebudeme používať na marketingové ani reklamné účely. Zoznam zhromaždených typov údajov a tvojich práv nájdeš kliknutím [url=https://beamng.com/PrivacyPolicy.pdf]sem[/url].",
     "ui.mainmenu.telemetry.header": "Telemetria",
     "ui.levelselect.chooseSpawnpoint": "Vyber si začiatočný bod",
