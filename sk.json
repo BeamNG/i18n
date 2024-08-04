@@ -3282,5 +3282,7 @@
     "ui.dashboard.bigmap": "Mapa",
     "ui.dashboard.gameContext": "Misie",
     "ui.dashboard.performanceGraph": "Otvoriť graf výkonu",
-    "ui.showAuxiliary": "Zahŕňať pomocný obsah pre ladenie"
+    "ui.showAuxiliary": "Zahŕňať pomocný obsah pre ladenie",
+    "ui.modmanager.updated.p3": "Snažíme sa tomu zabrániť, ale bohužial to nie je vždy možné.",
+    "ui.modmanager.updated.p2": "Módy môžu spôsobiť pády, nestabilitu, pokazený obsah/funkcie a podobné problémy."
 }
