@@ -86,7 +86,7 @@
     "engine.editor.menu.xAxis": "OS X",
     "engine.editor.menu.yAxis": "OS Y",
     "engine.editor.menu.zAxis": "OS Z",
-    "engine.engineFail": "Nepodarilo sa inicializovať hru, vypínanie.",
+    "engine.engineFail": "Nepodarilo sa inicializovať aplikáciu, vypínanie.",
     "engine.invalidUserpath.msg": "BeamNG.drive sa nemôže dostať k UserPath definovanej v startup.ini (v adresári hry). Zmeňte ju na platnú cestu: ",
     "engine.invalidUserpath.title": "Nesprávna používateľská cesta",
     "engine.levelModified.msg": "Úroveň bola zmenená editorom. Uložiť?",
