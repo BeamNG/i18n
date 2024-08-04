@@ -26,7 +26,7 @@
     "campaigns.utah.chapter_2.summaryHeading": "Gratulácia!",
     "campaigns.utah.chapter_2.summaryMessage": "Výborne! Teraz si pripravený pokračovať do ďalšej kapitoly",
     "campaigns.utah.chapter_2.title": "Kamenistý začiatok",
-    "engine.cef.subprocessdied.msg": "V použivateľskom rozohraní nastala chyba.\n\n----\nDáta chyby:\n{}\n----\n\nDodatočnú pomoc môžete nájsť na:\nhttps://go.beamng.com/UnresponsiveUIProcess\n\nOtvoriť v prehliadači?",
+    "engine.cef.subprocessdied.msg": "V použivateľskom rozhraní nastala chyba.\n\n----\nDáta chyby:\n{}\n----\n\nDodatočnú pomoc môžete nájsť na:\nhttps://go.beamng.com/UnresponsiveUIProcess\n\nOtvoriť v prehliadači?",
     "engine.cef.subprocessdied.title": "UI proces neodpovedá",
     "engine.cef.subprocessdied.url": "http://wiki.beamng.com/Errors/Unresponsive_UI_Process",
     "engine.editor.loading": "Načítavanie editora mapy...",
