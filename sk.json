@@ -97,7 +97,7 @@
     "engine.windowedModeReq.msgEditor": "Prosím ukončite editor misií pre prepnutie do režimu celej obrazovky.",
     "engine.windowedModeReq.msgGUI": "Prosím ukončite editor grafického používateľského rozhrania pre prepnutie do režimu celej obrazovky.",
     "engine.windowedModeReq.title": "Režim v okne vyžadovaný",
-    "extensions.campaign.exploration.mapHint": "Stlač [action=toggle_minimap] pre zobrazenie mapy s dostupnými misiami",
+    "extensions.campaign.exploration.mapHint": "Stlač [action=toggle_minimap] pre zobrazenie mapy s dostupnými výzvami",
     "extensions.scenario.damageGoal.checkDamage.fail.msg": "Opatrne! Tvoje auto je na {{damage}}% poškodené",
     "extensions.scenario.damageGoal.checkDamage.win.msg": "{{damage}}% poškodenie",
     "extensions.scenario.damageGoal.fail.msg": "Poškodil si si auto",
@@ -1853,7 +1853,7 @@
     "quickrace.driver_training.procTrack.bigBasic.title": "Veľká základná trať",
     "levels.italy.info.description": "Malý talianský ostrov s nádherným pobrežím, dedinkami a vinicami.",
     "vehicle.beamstate.tireDeflated": "{{wheelName | translate}} koleso vyfučané",
-    "engine.editor.menu.gameCamera": "Herná kamera",
+    "engine.editor.menu.gameCamera": "Normálna kamera",
     "ui.modWizard.skinWizard.intro": "Vitaj v sprievodcovi vytvárania skinov. Nasledujúce kroky ti dajú prehľad ako vytvoriť skin pre akékoľvek oficiálne auto BeamNG.Drive.",
     "ui.modWizard.skinWizard.selectVehicle": "Vyber prosím vozidlo",
     "ui.modWizard.skinWizard.skinName": "Vyber názov pre tvoj skin, prosím",
@@ -2137,8 +2137,8 @@
     "engine.fatalError.experienced": "\n\nV aplikácii BeamNG.drive sa vyskytla kritická chyba. Kliknutím na OK zatvoríte aplikáciu a vytvoríte správu o zlyhaní. Zašlite nám túto správu, aby sme mohli problém vyriešiť .",
     "ui.startscreen.warning": "Upozornenie: riziko pre fotosenzitívnych",
     "ui.fonts.filename": "segoeui.ttf",
-    "engine.fatalError.experienced2": "\n\n\nV BeamNG.drive nastala kritická chyba.",
-    "ui.startscreen.warningdetails": "Táto hra môže vyvolať záchvaty u ľudí s fotosenzitívnou epilepsiou. Zvážte možné riziká.",
+    "engine.fatalError.experienced2": "\n\nV BeamNG.drive nastala kritická chyba.",
+    "ui.startscreen.warningdetails": "Táto aplikácia môže vyvolať záchvaty u ľudí s fotosenzitívnou epilepsiou. Zvážte možné riziká.",
     "ui.common.action.resume": "Pokračovať",
     "ui.common.continue": "Pokračovať",
     "ui.common.action.load": "Načítať",
@@ -3246,5 +3246,6 @@
     "scenarios.italy.crestRoadAutobello.win.overtake.msg": "Výborne! Bol si tak rýchly, že si predbehol auto, ktoré si mal len sledovať.",
     "scenarios.italy.fg-gravity.title": "Gravitačné palivo",
     "scenarios.italy.fg-gravity.description": "Nemáš palivo. Spusti sa dolu kopcom a zožeň nejaké, a vráť sa k pickupu, aby si doručil vozidlo!",
-    "levels.utah.spawnpoints.campsite": "Kemp"
+    "levels.utah.spawnpoints.campsite": "Kemp",
+    "ui.common.vehSearch": "Dva krát kliknite pre potvrdenie konfigurácií"
 }
