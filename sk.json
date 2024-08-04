@@ -1631,7 +1631,7 @@
     "levels.hirochi_raceway.info.title": "Hirochi Raceway",
     "levels.hirochi_raceway.info.description": "Hirochi Raceway je historická, ale zrevitalizovaná trať na východnom pobreží USA.",
     "ui.dashboard.replay": "Záznamy",
-    "ui.dashboard.appedit": "Upraviť aplikácie UI",
+    "ui.dashboard.appedit": "Aplikácie UI",
     "ui.repository.subscribed": "Odoberané: Dostávaš automatické aktualizácie",
     "engine.nodegrab.coupling": "Spájanie dvoch uzlov",
     "engine.nodegrab.uncoupling": "Odpájanie všetkých pripojených uzlov",
@@ -3275,5 +3275,12 @@
     "ui.mainmenu.navbar.scroll": "[action=menu_item_radial_right_x] [action=menu_item_radial_right_y] Posúvať",
     "ui.mainmenu.navbar.scroll_h": "[action=menu_item_radial_right_x] {{:: 'ui.inputActions.menu.menu_item_radial_right_x.title' | translate}}",
     "ui.mainmenu.navbar.scroll_v": "[action=menu_item_radial_right_y] {{:: 'ui.inputActions.menu.menu_item_radial_right_y.title' | translate}}",
-    "ui.dashboard.menu": "Hlavné Menu"
+    "ui.dashboard.menu": "Hlavné Menu",
+    "ui.modmanager.updated.subtitle": "Všetky nainštalované módy boli dočasné deaktivované",
+    "ui.modmanager.updated.p1": "V dôsledku velkých aktualizácií hry môžu módy prestať správne fungovať.",
+    "ui.modmanager.updated.title": "BeamNG.drive bolo aktualizované na verziu {{versionStr}}",
+    "ui.dashboard.bigmap": "Mapa",
+    "ui.dashboard.gameContext": "Misie",
+    "ui.dashboard.performanceGraph": "Otvoriť graf výkonu",
+    "ui.showAuxiliary": "Zahŕňať pomocný obsah pre ladenie"
 }
