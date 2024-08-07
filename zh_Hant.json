@@ -6385,7 +6385,7 @@
     "missions.aiRace.italy.scenicCoast.title": "宜人海岸",
     "missions.aiRace.italy.scenicCoast.description": "在義大利外環道路上一段又長又困難的衝刺競速，祝你好運！",
     "missions.aiRace.italy.damCrossing.title": "穿越大壩",
-    "missions.aiRace.italy.damCrossing.description": "在狹窄山道中競速並穿越水壩，但在超車時請小心。",
+    "missions.aiRace.italy.damCrossing.description": "在狹窄山道上競速並橫越水壩，超車時得格外謹慎。",
     "missions.timeTrial.utah.G500Sunshine.title": "日落衝刺 - {{'ui.names.g500.name' | translate}}",
     "missions.arrive.wcusa.bastionExperience003.startScreenText": "Bruckell 最有力的車輛之一剛被送來保養。客戶週末不在，因此要求我們之後把它送回位對方於鄉間小丘的家。<br><br>到那邊最簡單的路線就是走高速公路。在經銷商前的路口左轉或右轉，挑其中一條順著走就行了。<br><br>小心駕駛，這輛車馬力十足！<br><br>這個挑戰無法使用 GPS 的路線標記，你需要自己找到通項目的地的路線！",
     "missions.arrive.wcusa.bastionExperience004.startScreenText": "全新的警用款式完工了，把它開到市區的警局，讓他們好好欣賞一下我們的手藝！<br><br>這個挑戰無法使用 GPS 的路線標記，你需要自己找到通項目的地的路線！",
@@ -6400,5 +6400,14 @@
     "missions.hirochi_raceway.aiRace.Medium.description": "在 Hirochi 賽車場的中長度賽道上和有著運動配置的其他車輛競速。",
     "missions.hirochi_raceway.aiRace.Long.startText": "在 Hirochi 賽車場的長賽道上和 AI 競速。",
     "missions.aiRace.industrial.ILoop.description": "在這場競速中，你將面對隨機對手。環線中有幾段高速直線，謹慎留意煞車區路標。",
-    "missions.aiRace.industrial.G500Dirty.start": "在這條緊湊的賽道上繞圈，試著超越其他人。你將要面對很多泥巴和塵土。"
+    "missions.aiRace.industrial.G500Dirty.start": "在這條緊湊的賽道上繞圈，試著超越其他人。你將要面對很多泥巴和塵土。",
+    "missions.aiRace.ecusa.theOne.title": "單挑",
+    "missions.aiRace.ecusa.theOne.description": "有人發出挑戰要你參加一場道路賽，願最強的車手獲勝！",
+    "missions.aiRace.ecusa.theOne.start": "有人提出挑戰！你能在這場緊張的對決中拔得頭籌嗎？",
+    "missions.aiRace.ecusa.speedSense.title": "速度感官",
+    "missions.aiRace.ecusa.speedSense.description": "在這條快速但危險的路線上展現你的技巧和速度。",
+    "missions.aiRace.ecusa.throughTown.title": "穿越小鎮",
+    "missions.aiRace.ecusa.throughTown.description": "在平靜的小鎮中和吵鬧的青少年們競速！",
+    "missions.aiRace.italy.damCrossing.start": "在這個美麗但棘手的賽道上爭奪第一。急轉彎和窄道將考驗你的駕駛技術。別太急躁。",
+    "missions.aiRace.ecusa.speedSense.start": "對抗徹底調教過其他賽車，體驗真正的速度！這個賽道十分刁鑽、危險。如果開得過快、過於粗心，會有苦頭吃的。"
 }
