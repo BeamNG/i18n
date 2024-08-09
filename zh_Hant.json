@@ -6533,5 +6533,17 @@
     "missions.west_coast_usa.crawl.Helter.starOutroTexts.noStarUnlocked": "繼續努力！",
     "missions.chase.italy.pastaMaster.start": "有人發現一名無恥的罪犯闖進了熱門餐廳的儲藏室，偷走了一大堆義大利麵。在廂型車抵達安全屋之前，追上並將它攔下！",
     "missions.chase.wcusa.dangerousSpeeds.start": "有一位大膽的車手正準備出發，並打算讓你嚐嚐揚起的車後塵土。高速駕駛、精準撞擊，並試著別落後了。",
-    "missions.chase.wcusa.unpaidFines.start": "你追蹤到一位因未支付多項罰鍰而遭到通緝的駕駛。強迫車輛停止以逮捕他們！接著，把他們困住，直到他們的時間用完為止。"
+    "missions.chase.wcusa.unpaidFines.start": "你追蹤到一位因未支付多項罰鍰而遭到通緝的駕駛。強迫車輛停止以逮捕他們！接著，把他們困住，直到他們的時間用完為止。",
+    "missions.east_coast_usa.crawl.PCTA.description": "挑戰火木製造公司車輛考驗賽的 A 賽道。",
+    "missions.east_coast_usa.crawl.PCTA.startScreenText": "沿著檢查點穿過考驗賽道，挑戰時限。記得替自己留下足夠的轉彎空間，並使用手煞車來幫助通過急彎。祝你好運。",
+    "missions.east_coast_usa.crawl.PCTB.title": "製造公司車輛考驗賽道 B",
+    "missions.east_coast_usa.crawl.PCTB.description": "挑戰火木製造公司車輛考驗賽的 B 賽道。",
+    "missions.small_island.crawl.CTrialsA.title": "車輛考驗",
+    "missions.small_island.crawl.CTrialsA.description": "這場車輛考驗是個完全不同等級的攀爬挑戰。駕著前驅車上泥土路，把慣性當作你的好朋友。",
+    "missions.small_island.crawl.CTrialsA.startScreenText": "這場車輛考驗是個完全不同等級的攀爬挑戰。駕著前驅車上泥土路，把慣性當作你的好朋友。",
+    "missions.small_island.knockAway.Downhill.title": "下坡掃蕩",
+    "missions.small_island.knockAway.Downhill.description": "衝下山丘同時把桶子撞倒。",
+    "missions.west_coast_usa.crawl.freeformintro.title": "自由形式攀爬介紹 01（路線）",
+    "missions.east_coast_usa.crawl.PCTB.startScreenText": "駕駛 Bolide 穿越這條刁鑽的森林考驗路線。試著避免在斜坡上橫向駕駛，並在急彎使用手煞車。",
+    "missions.small_island.knockAway.Downhill.introText": "沿著佈滿桶子的路線前進，盡可能的撞倒它們吧！"
 }
