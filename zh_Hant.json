@@ -6711,5 +6711,18 @@
     "missions.knockAway.west_coast_usa.knockAway001downhill.description": "貝拉斯可市在進行重大施工！趁著沒有人注意的時候，來撞倒一些牌子吧！你有 45 秒可以抵達山丘底部的木板路。在下山時，盡可能撞飛最多防撞柱！",
     "missions.knockAway.driver_training.introCones.silverMessage": "做得好！再快一點就能獲得金牌了。",
     "missions.knockAway.west_coast_usa.introCones.goldMessage": "幹得好！看來你是個天生好手。",
-    "missions.knockAway.west_coast_usa.introCones.bronzeMessage": "試著以車側一次撞倒多個路障，同時別打滑失控。"
+    "missions.knockAway.west_coast_usa.introCones.bronzeMessage": "試著以車側一次撞倒多個路障，同時別打滑失控。",
+    "missions.knockAway.west_coast_usa.knockAway001downhill.introText": "盡可能撞飛最多交通路障！道路十分陡峭，你得把車輛控制好！",
+    "missions.knockAway.west_coast_usa.mudCatcher.title": "泥桶 - 賽道",
+    "missions.knockAway.west_coast_usa.mudCatcher.description": "在時間到之前，盡可能撞倒最多的桶子！",
+    "missions.knockAway.west_coast_usa.mudCatcherAlt.description": "在時間到之前，盡可能撞倒最多的桶子！",
+    "missions.knockAway.west_coast_usa.mudCatcher.introText": "撞倒所有桶子！但是小心，他們裡面裝滿[b]機油[/b]，所以十分沉重。試著避免正面撞擊，而是用車輛側面撞倒它們。",
+    "missions.knockAway.west_coast_usa.mudCatcherAlt.title": "泥桶 - 山丘",
+    "missions.knockAway.west_coast_usa.mudCatcherAlt.introText": "撞倒所有桶子！但是小心，他們裡面裝滿[b]機油[/b]，所以十分沉重。查看車輛的差速器和副變速箱功能，好更輕鬆地翻越山丘。",
+    "missions.knockAway.west_coast_usa.circle.title": "快速桶子 - 繞圈",
+    "missions.knockAway.west_coast_usa.circle.description": "敏捷迅速地盡快撞倒所有路障。",
+    "missions.knockAway.west_coast_usa.circle.introText": "是時候展現你的車輛控制技巧了。全部的桶子都是[b]空的[/b]，能輕而易舉地被推開。你有辦法一次撞倒所有路障嗎？動作快，在這裡，時間就是分數。",
+    "missions.knockAway.west_coast_usa.star.title": "快速桶子 - 彎道",
+    "missions.knockAway.west_coast_usa.star.description": "敏捷迅速地盡快撞倒所有路障。",
+    "missions.knockAway.west_coast_usa.star.introText": "Wigeon 配置非常有力且快速，如果你在轉彎時不翻車的話。全部的桶子都是[b]空的[/b]。這個區域有四組桶子，一組四個。快速將它們路障，時間就是分數！"
 }
