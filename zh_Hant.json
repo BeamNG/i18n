@@ -5779,7 +5779,7 @@
     "missions.west_coast_usa.evade.escape.startText": "逃離警方追捕，拿走戰利品並將放到現金堆。",
     "missions.hirochi_raceway.crawl001.description": "Hirochi 的主要攀爬賽道。不長，也不會太危險。不過你還是有有機會輕易翻車。",
     "scenarios.industrial.portEscape.description": "沒時間解釋了！你必須盡快離開此地區！\n\n到碼頭的渡船上去！",
-    "missions.knockAway.industrial.barrels.intro": "我在泥土路線上放了一些桶子！這輛破卡車連桶子都沒轍，所以捲起褲管，把他們全部撞倒吧！你只有一分鐘左右時間。\n\n注意了，可別受損太嚴重，有些可惡桶子躲在沼澤地和該死的灌木叢裡！別看熱鬧了，快辦正事！",
+    "missions.knockAway.industrial.barrels.intro": "我在泥土路線上放了一些桶子！這輛破卡車連桶子都沒轍，所以捲起褲管，把他們全部撞倒吧！你只有一分鐘左右時間。\n\n注意了，可別受損太嚴重，有些可惡的桶子躲在沼澤地和該死的灌木叢裡！別看熱鬧了，快辦正事！",
     "missions.cannon.general.explain": "使用 {{up}} 和 {{down}} 來調整大砲的瞄準高度，並使用 {{fire}} 開火。以 {{switch}} 切換至下一門大砲。若要調整橫向角度，你就需要駕駛並移動大砲。",
     "missions.cannon.general.bronze": "擊中的目標正好足夠得到 1 顆星，做得好，再試一次，提升你的分數！",
     "missions.cannon.general.bronzeStopTargets": "使用 {{cannonThirdStar}} 門以下的大砲來摧毀目標。",
@@ -6650,5 +6650,18 @@
     "missions.knockAway.intro.description.a": "<br><ul><li>在 <b>{{time}} 秒</b>內<b>撞飛</b>越多目標越好。</li><li>每個目標 <b>{{pointsPerTarget}} 分</b>。</li><li>如果你在時間結束前完成，獲得剩餘時間每秒 <b>1 分</b>，最多 {{maxTimePoints}} 分。</li>",
     "missions.knockAway.defaultOutroTexts.bronze": "試著全程保持你對車輛的掌控。",
     "missions.knockAway.intro.description.b1": "<li>你最多能<b>扶正</b>你的車輛<b> {{flipLimit}}次</b>，但每次都會損失 {{penaltyPoints}} 分。</li><li>",
-    "missions.knockAway.intro.tipOnly": "目標必須<b>被推倒</b>才算數。"
+    "missions.knockAway.intro.tipOnly": "目標必須<b>被推倒</b>才算數。",
+    "missions.knockAway.stars.silver": "至少取得 {{silverPoints}} 分。",
+    "missions.knockAway.stars.gold": "至少取得 {{goldPoints}} 分。",
+    "missions.knockAway.stars.bonusKnocks": "推倒至少 {{bonusKnocks}} 個目標。",
+    "missions.knockAway.industrial.barrels.title": "撞飛：桶子撞擊者",
+    "missions.knockAway.industrial.barrels.description": "撞飛藏躲在草叢中的木桶！",
+    "missions.knockAway.industrial.barrels.resultMedium": "那些桶子躲得比你找得厲害！",
+    "missions.knockAway.industrial.barrels.resultBad": "表現不太優...",
+    "missions.knockAway.industrial.road.resultBad": "表現不太優...",
+    "missions.knockAway.gmv2.suspension.resultBad": "表現不太優...",
+    "missions.knockAway.utah.blockedRoad.resultBad": "表現不太優...",
+    "missions.knockAway.gmv2.suspension.intro": "在懸吊區域中的簡單挑戰裡測試你的車輛。在時限內撞飛所有的路障！",
+    "missions.knockAway.industrial.barrels.resultGood": "你真的很會！要是你一出發就大腳踩下油門，就有可能會比我預估的一分鐘還要快！ ",
+    "missions.knockAway.gmv2.suspension.description": "撞飛放置在懸吊測試區的桶子。"
 }
