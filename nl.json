@@ -1711,5 +1711,6 @@
     "ui.statspage.switchMode.toGeneral": "Schakel over naar Algemene statistieken",
     "ui.statspage.subtitle": "Speler Statistieken",
     "ui.modmanager.updated.p4": "Sommige mods werken mogelijk niet met deze versie van de applicatie. Geef de modmakers graag wat tijd omd de mods te updaten :)",
-    "ui.modmanager.updated.p5": "Dankjewel voor je begrip!"
+    "ui.modmanager.updated.p5": "Dankjewel voor je begrip!",
+    "ui.modmanager.updated.btnOk": "Ik accepteer de risico's , heractiveer alle mods"
 }
