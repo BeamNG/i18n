@@ -1709,5 +1709,6 @@
     "ui.statspage.generalTitle": "Algemene statistieken",
     "ui.statspage.switchMode.toCareer": "Schakel over naar carrière statistieken",
     "ui.statspage.switchMode.toGeneral": "Schakel over naar Algemene statistieken",
-    "ui.statspage.subtitle": "Speler Statistieken"
+    "ui.statspage.subtitle": "Speler Statistieken",
+    "ui.modmanager.updated.p4": "Sommige mods werken mogelijk niet met deze versie van de applicatie. geef de modmakers graag wat tijd omd de mods te updaten :)"
 }
