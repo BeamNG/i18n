@@ -3574,7 +3574,7 @@
     "vehicle.drivetrain.engineCatastrophicOverTorqueDamage": "扭力過高造成損傷：對引擎造成永久損害",
     "vehicle.drivetrain.exhaustDamaged": "排氣管受損",
     "vehicle.beamstate.tireDeflated": "{{wheelName | translate}} 輪胎已洩氣",
-    "vehicle.beamstate.beamBroke": "車樑 {{id}} 剛才受損了： {{id1name}} [{{id1}}] -> {{id2name}} [{{id2}}]",
+    "vehicle.beamstate.beamBroke": "Beam {{id}} 損壞： {{id1name}} [{{id1}}] -> {{id2name}} [{{id2}}]",
     "vehicle.beamstate.beamDeformed": "車樑 {{id}} 剛才變形了：{{id1name}} [{{id1}}] -> {{id2name}} [{{id2}}]",
     "vehicle.engine.starvedOfOil": "引擎缺乏機油",
     "vehicle.engine.cylinderWallsMelted": "汽缸壁融化",
