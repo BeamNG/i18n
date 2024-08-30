@@ -7620,5 +7620,7 @@
     "ui.inputActions.controllerui.focus_d.description": "Posuň aktuální zaměření dolů na nejbližší položku",
     "ui.inputActions.controllerui.focus_l.description": "Posuň aktuální zaměření doleva na nejbližší položku",
     "ui.inputActions.controllerui.focus_l.title": "Zaměřit doleva",
-    "ui.inputActions.controllerui.focus_ud.description": "Přesun zaměření nebo vybrané položky kruhové nabídky nahoru/dolů"
+    "ui.inputActions.controllerui.focus_ud.description": "Přesun zaměření nebo vybrané položky kruhové nabídky nahoru/dolů",
+    "vehicle.bdebug.aeroMode.combined": "Kombinovaný",
+    "ui.radialmenu2.tirePressureControl.startInflating": "Zahájení nahuštění"
 }
