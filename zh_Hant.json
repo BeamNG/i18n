@@ -1847,7 +1847,7 @@
     "ui.options.camera.cameraFanVsTV": "外部模式",
     "ui.options.camera.cameraTVSpeed": "電視模式平移速度",
     "ui.options.camera.cameraTVSpeedTooltip": "並不強制使用某個固定速度，而比較像是對動態選擇的速度進行調整。",
-    "ui.options.camera.cameraExternalControls": "變更 TV 角度：[br][br]拉近/拉遠： ",
+    "ui.options.camera.cameraExternalControls": "改變 TV 視角位置：[br][br]拉近/拉遠： ",
     "ui.options.camera.cameraExternalControls2": "[action=center_camera][br][br][action=increase_zoom]/[action=decrease_zoom]",
     "ui.options.utilities": "公用程式",
     "ui.options.utilities.outgaugeSupport": "OutGauge UDP 協定",
