@@ -7041,7 +7041,7 @@
     "missions.dragRace.gameplay.return": "返回起跑線",
     "missions.dragRace.gameplay.break": "減速！",
     "missions.dragRace.gameplay.restart": "你確定要重新開始？",
-    "missions.dragRace.stars.justFinish": "快完成挑戰吧。",
+    "missions.dragRace.stars.justFinish": "完成挑戰。",
     "missions.dragRace.stars.bronzeWin": "擊敗任何對手並取得低於 {{bronzeTime | time}} 的時間。",
     "missions.collect.intro.survivalTimeLimited": "<ul><li>此遊戲模式為<b>時間生存賽</b>。</li><li>盡可能收集最多的標記物品。你有 {{survivalTime | time}}。</li><li>你最多只能扶正車輛 {{survivalRecoveries}} 次。</li></ul>",
     "missions.collect.intro.attackRecovery": "<ul><li>此遊戲模式為<b>復原挑戰</b>。</li><li>收集所有的標記物品並盡可能降低自己扶正車輛的次數。</li><li>沒有時間限制。</li></ul>",
