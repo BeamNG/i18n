@@ -7642,7 +7642,7 @@
     "vehicle.interaction.doors.exitWindowFL.toggle.description": "開啟或關上左前方緊急出口窗戶。",
     "vehicle.interaction.doors.emergencyHatchR.push.desc": "推、拉後方緊急出口艙門。",
     "ui.controls.ffb.torqueDesired": "安全扭力值",
-    "ui.controls.ffb.torque.tooltip": "「{{'ui.controls.ffb.torqueCurrent'|translate}}」和「{{'ui.controls.ffb.torqueDesired'|translate}}」選項允許遊戲在載具發生碰撞等極端情況下限制力回饋量。[br]進行設定：[list][*]開啟您方向盤設備的設定軟體。[*]找出目前所選擇的扭力值為多少牛頓米。 [br][i]註：您能在部分方向盤設備上將此數值設為其最大值，這或許會使力回饋的反應更佳。[/i][*]返回選單中的此選項，並將「{{'ui.controls.ffb.torqueCurrent'|translate}}」滑桿調整至與您的設備所使用的相同數值。[*]最後，選擇一個您覺得最舒適的「{{'ui.controls.ffb.torqueDesired'|translate}}」數值。選擇一個高於「{{'ui.controls.ffb.torqueCurrent'|translate}}」的值，相當於選擇「{{'ui.controls.ffb.torqueCurrent'|translate}}」。[br][i]Note: high values can pose a risk for your hands and wrists (around 4Nm for adults, 1Nm for children). Be cautious and try low values first.[/i][/list]If correctly configured, the simulator will not exceed the specified '{{'ui.controls.ffb.torqueDesired'|translate}}'.\n\n[br]設定力回饋：[list][*]開啟方向盤的設定軟體。[*]找出目前選擇的扭力有多少牛頓米。[br][i]注意：您可以將此值增加到最大值。在某些方向盤上，這可能會解鎖更佳的力回饋。[/i][*]返回此選項選單，然後在「{{'ui.controls.ffb.torqueCurrent'|translate}}」滑桿選擇相同的值。[*]最後，選擇一個你喜歡的「{{'ui.controls.ffb.torqueDesired'|translate}}」。選擇一個高於「{{'ui.controls.ffb.torqueCurrent'|translate}}」的值，相當於選擇「{{'ui.controls.ffb.torqueCurrent'|translate}}」。[br][i]注意：數值高可能會對您的手和手腕造成風險（成人約 4Nm，兒童約 1Nm）。請小心並先嘗試較低的數值。[/i][/list]如果配置正確，模擬器將不會超出指定的「{{'ui.controls.ffb.torqueDesired'|translate}}」。",
+    "ui.controls.ffb.torque.tooltip": "「{{'ui.controls.ffb.torqueCurrent'|translate}}」和「{{'ui.controls.ffb.torqueDesired'|translate}}」選項允許遊戲在載具發生碰撞等極端情況下限制力回饋量。[br]進行設定：[list][*]開啟您方向盤設備的設定軟體。[*]找出目前所選擇的扭力值為多少牛頓米。 [br][i]註：您能在部分方向盤設備上將此數值設為其最大值，這或許會使力回饋的反應更佳。[/i][*]返回選單中的此選項，並將「{{'ui.controls.ffb.torqueCurrent'|translate}}」滑桿調整至與您的設備所使用的相同數值。[*]最後，選擇一個您覺得最舒適的「{{'ui.controls.ffb.torqueDesired'|translate}}」數值。當所選數值高於「{{'ui.controls.ffb.torqueCurrent'|translate}}」的值將相當於選擇與「{{'ui.controls.ffb.torqueCurrent'|translate}}」同樣的數值。[br][i]注意：較高數值（成人約 4Nm；兒童約 1Nm）對於手掌、手腕有更高風險。請先自較低的數值開始謹慎嘗試調整。[/i][/list]若正確調整，此模擬器將不會使用超出「{{'ui.controls.ffb.torqueDesired'|translate}}」所指定的數值。",
     "ui.debug.vehicle.showOnlySelectedPartsMesh": "僅顯示所選零件模型",
     "ui.options.graphics.GraphicDynMirrorsTooltip": "切換相容載具上的精確位置鏡面反射。\n\n[b][*]GPU：[/b]中等需求[b][*]VRAM：[/b]中等需求[b][*]CPU：[/b]中等需求",
     "ui.debug.vehicle.partsSelected": "所選零件",
@@ -7693,5 +7693,11 @@
     "vehicle.interaction.mixer_drum.start.desc": "使攪拌筒轉動",
     "vehicle.interaction.mixer_drum.stop.title": "停止攪拌筒馬達",
     "vehicle.interaction.powertrain.transfercase.toggle.desc": "切換可用的分動箱模式。",
-    "vehicle.interaction.powertrain.transfercase.toggle.title": "切換分動箱模式"
+    "vehicle.interaction.powertrain.transfercase.toggle.title": "切換分動箱模式",
+    "vehicle.interaction.doors.compartmentR.toggle.desc": "開啟或關上後方廂門。",
+    "vehicle.interaction.doors.compartmentR.toggle.title": "切換後方廂門",
+    "vehicle.interaction.doors.compartmentF.toggle.desc": "開啟或關上前方廂門。",
+    "vehicle.interaction.doors.compartmentF.toggle.title": "切換前方廂門",
+    "vehicle.interaction.doors.batteryBox.toggle.desc": "開啟或關上電池盒門。",
+    "vehicle.interaction.doors.batteryBox.toggle.title": "切換電池盒門"
 }
