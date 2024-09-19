@@ -7622,5 +7622,15 @@
     "ui.inputActions.controllerui.focus_l.title": "Zaměřit doleva",
     "ui.inputActions.controllerui.focus_ud.description": "Přesun zaměření nebo vybrané položky kruhové nabídky nahoru/dolů",
     "vehicle.bdebug.aeroMode.combined": "Kombinovaný",
-    "ui.radialmenu2.tirePressureControl.startInflating": "Zahájení nahuštění"
+    "ui.radialmenu2.tirePressureControl.startInflating": "Zahájení nahuštění",
+    "ui.photomode.replaySpeed": "Aktuální rychlost přehrávání",
+    "ui.options.graphics.PostFXSSAOGeneralQualityTooltip": "Funkce zastínění okolím vytváří realistické stíny kolem objektů.\n\n[b][*]GPU:[/b] Mírné[b][*]VRAM:[/b] Minor[b][*]CPU:[/b] Žádné",
+    "ui.controls.ffb.torqueCurrent": "Aktuální točivý moment",
+    "ui.controls.ffb.torqueDesired": "Bezpečnostní točivý moment",
+    "ui.debug.vehicle.maxDist": "Maximální vzdálenost",
+    "ui.options.traffic.restrictForCareer.tooltip": "Pokud je tato funkce zapnuta, v režimu kariéry se objeví pouze několik dopravních vozidel. Cílem je zrychlit načítání a zvýšit výkon.",
+    "ui.options.traffic.restrictForCareer": "Omezit zatížení provozu pro režim kariéry",
+    "ui.options.graphics.PostFXSSAOGeneralQuality": "Kvalita zastínění okolím",
+    "ui.options.graphics.GraphicShadowsQuality": "Rozlišení stínů",
+    "ui.debug.vehicle.partsSelected": "Vybrané díly"
 }
