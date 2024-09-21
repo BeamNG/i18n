@@ -1540,7 +1540,7 @@
     "ui.modmanager.addDownload": "新增至下載清單",
     "ui.environment.environment": "環境",
     "ui.environment.timeOfDay": "當日時間",
-    "ui.environment.play": "遊玩",
+    "ui.environment.play": "時間推移",
     "ui.environment.time": "時間",
     "ui.environment.day": "日間",
     "ui.environment.scale": "比例",
