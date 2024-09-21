@@ -5131,7 +5131,7 @@
     "missions.utah.timeTrial.G500Gambler.description": "混合了多重地表的限時環道競速。",
     "missions.utah.timeTrial.G500Gambler.endScreenText": "競速完成。",
     "missions.small_island.collection.G500Pollution.title": "港口污染 - {{'ui.names.g500.name' | translate}}",
-    "missions.small_island.collection.G500Pollution.description": "港口區域內需要技術才能的垃圾袋收集任務。",
+    "missions.small_island.collection.G500Pollution.description": "港口區域內的技術性垃圾袋收集任務。",
     "missions.small_island.collection.G500Pollution.introText": "港口的垃圾已經收集並裝袋完畢，準備好上車了。不過動作快，一場船隻展覽緊接著就要開始。",
     "missions.industrial.timeTrial.G500Catwalk.title": "維修道跳躍 - {{'ui.names.g500.name' | translate}}",
     "missions.hirochi_raceway.timeTrial.mediumcourse.description": "Hirochi 賽車場的中型配置，包含了緊湊的雙急轉彎。",
