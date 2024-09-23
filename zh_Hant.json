@@ -6061,7 +6061,7 @@
     "missions.delivery.intro.noTimeLimit": "<br>本次運送無時間限制。<br>",
     "missions.delivery.intro.timeLimit": "<br>運送的時間限制為 {{time | timeSimple}}。如果時間用完，挑戰就結束了。<br>",
     "missions.delivery.intro.cargo": "<br>你必須送 <b>{{cargoCount}} 件貨物</b>至目的地。",
-    "missions.delivery.intro.simple": "<br>你必須將貨物運送抵目的地。",
+    "missions.delivery.intro.simple": "<br>你必須將貨物送抵目的地。",
     "missions.delivery.stars.justFinish": "完成運送。",
     "missions.delivery.stars.justFinishTime": "在 {{silverTime | timeSimple}} 內完成運送。",
     "missions.delivery.stars.justFinishTimeSpare": "在 {{goldTime | timeSimple}} 內完成運送。",
