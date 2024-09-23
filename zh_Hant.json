@@ -5925,7 +5925,7 @@
     "missions.wcusa.garage.offroad.description": "在美國西岸運送越野車輛！",
     "missions.garage.deliverTo": "將車輛運送至 {{destination}}。（{{distance}}）",
     "missions.garage.description": "在車庫間運送各類車輛！",
-    "missions.garage.instructions.todaysJob": "今天的任務：",
+    "missions.garage.instructions.todaysJob": "這是今天的工作內容：",
     "missions.garage.instructions.delivery": "你要將一輛 <b>{{vehicle}}</b> 從 <b>{{origin}}</b> 運送至 <b>{{destination}}</b>。",
     "missions.garage.instructions.distance": "目的地距離大約為 <b>{{distance}}</b>。",
     "missions.garage.instructions.noReset": "留意你<b>將無法重置</b>車輛。",
