@@ -5927,7 +5927,7 @@
     "missions.garage.description": "在車庫間運送各類車輛！",
     "missions.garage.instructions.todaysJob": "今天的任務：",
     "missions.garage.instructions.delivery": "你要將一輛 <b>{{vehicle}}</b> 從 <b>{{origin}}</b> 運送至 <b>{{destination}}</b>。",
-    "missions.garage.instructions.distance": "距離你的目的地大約有 <b>{{distance}}</b>。",
+    "missions.garage.instructions.distance": "你的目的地大約距離為 <b>{{distance}}</b>。",
     "missions.garage.instructions.noReset": "記住，你<b>不能重設</b>你的車輛。",
     "missions.garage.instructions.ignoreDamage": "車輛損傷<b>不會影響分數</b>。重要的是必需<b>抵達目的地</b>。",
     "missions.garage.instructions.trafficNone": "今天路上<b>不會</b>有車流。",
