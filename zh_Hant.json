@@ -3944,7 +3944,7 @@
     "ui.options.gameplay.steeringAutocenter": "低速時維持轉向角度（僅在以按鍵、按鈕操作時有效）",
     "ui.options.gameplay.steeringDirect": "一併套用至使用此過濾方式的操作綁定： {{:: 'ui.controls.filters.2' | translate}}",
     "ui.options.gameplay.enableMissionReplay": "自動在進行挑戰時錄製重播",
-    "ui.options.gameplay.enableMissionReplay.dataCapMode": "已儲存的自動重播資料限制模式",
+    "ui.options.gameplay.enableMissionReplay.dataCapMode": "自動重播儲存資料限制模式",
     "ui.options.gameplay.replayTod": "啟用當日時間重播",
     "ui.options.gameplay.replayClouds": "啟用雲朵狀態重播",
     "ui.options.gameplay.unfocusedInput": "允許控制器和力回饋在遊戲失焦時正常運作",
