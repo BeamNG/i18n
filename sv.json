@@ -27,7 +27,7 @@
     "engine.editor.menu.unlockSelection": "Lås upp val",
     "engine.editor.menu.xAxis": "X-axel",
     "engine.editor.menu.zAxis": "Z-axel",
-    "engine.engineFail": "Misslyckades att starta spelet, stänger av.",
+    "engine.engineFail": "Misslyckades att starta applikationen, stänger av.",
     "engine.invalidUserpath.msg": "BeamNG.drive kan inte komma åt UserPath som angetts i \"startup.ini\"-filen (applikationsmappen). Byt till en giltig sökväg: ",
     "engine.invalidUserpath.title": "Ogiltig användarsökväg",
     "engine.levelModified.msg": "Banan har modifierats i redigeraren. Vill du spara ändringarna?",
