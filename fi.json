@@ -5009,5 +5009,6 @@
     "ui.statspage.switchMode.toGeneral": "Vaihda Yleistilastoihin",
     "scenarios.busRoutes.getDamage": "Ole varovainen! Älä kolaroi bussilla.",
     "missions.west_coast_usa.arrive.Gas.outroText": "Hyvää työtä.",
-    "missions.west_coast_usa.timeTrial.gearsplitclimb.endScreenText": "Hyvä aika-ajo!"
+    "missions.west_coast_usa.timeTrial.gearsplitclimb.endScreenText": "Hyvä aika-ajo!",
+    "ui.photomode.replaySpeed": "Nykyinen uusinnan nopeus"
 }
