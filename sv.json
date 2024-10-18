@@ -1480,7 +1480,7 @@
     "ui.fonts.mono": "Roboto Mono",
     "ui.common.action.load": "Ladda",
     "ui.common.action.start": "Starta",
-    "engine.fatalError.errMsg": "ALLVARLIGT FEL: ",
+    "engine.fatalError.errMsg": "Allvarligt Fel ",
     "ui.options.camera.current": "Nuvarande kamera",
     "ui.options.camera.resetConfiguration": "Återställ ordning",
     "ui.options.camera.defaultMode": "Standardläge",
