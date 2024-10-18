@@ -1502,7 +1502,7 @@
     "ui.common.property.recommendedVehicle": "Rekommenderat Fordon",
     "ui.common.okay": "Okej",
     "ui.common.thanks": "Tack",
-    "ui.startscreen.warning": "Varning för: Ljuskänslig Epilepsi",
+    "ui.startscreen.warning": "Varning till ljuskänsliga",
     "ui.startscreen.warningdetails": "Den här applikationen kan utlösa epileptiska anfall för människor som har ljuskänslig epilepsi. Spelarens diskretion rekommenderas.",
     "ui.options.gameplay.escBehavior": "ESC",
     "ui.mainmenu.telemetryOnlineHint": "Telemetri kan ej aktiveras utan aktiveringen av online funktioner.",
