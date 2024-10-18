@@ -1145,7 +1145,7 @@
     "engine.editor.menu.editorSettings": "Editorinställningar...",
     "engine.editor.menu.snapOptions": "Fästalternativ...",
     "engine.editor.menu.gridOrtho": "Visa Rutnät i Ortho-Vy",
-    "engine.editor.menu.gameCamera": "Normalkamera",
+    "engine.editor.menu.gameCamera": "Normal kamera",
     "engine.editor.menu.placeCameraSelection": "Placera kameran på valt objekt",
     "engine.editor.menu.cameraTranslation": "Kamera-tranformering",
     "engine.editor.menu.fitViewSelection": "Anpassa Vy till Valt Objekt",
