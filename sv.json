@@ -1553,5 +1553,6 @@
     "ui.dashboard.gameContext": "Uppdrag",
     "ui.trackBuilder.base.drive": "Kör",
     "ui.mainmenu.navbar.navigate": "Navigera",
-    "ui.introPopup.bigmap.title": "Karta"
+    "ui.introPopup.bigmap.title": "Kartvy",
+    "ui.introPopup.refueling.title": "Tankning & Laddning"
 }
