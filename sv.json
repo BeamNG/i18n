@@ -1517,7 +1517,7 @@
     "ui.common.medium": "Medium",
     "ui.common.high": "Hög",
     "ui.trackbuilder.menus.removeTrack": "Ta bort bana",
-    "scenario.customExtensionLoadFailed": "Ampassad logik körs inte. Kontrollera loggen för varningar med {{extName}}",
+    "scenario.customExtensionLoadFailed": "Anpassad logik körs inte. Kontrollera loggen för varningar med {{extName}}",
     "ui.startscreen.license.personal": "Personlig, icke-kommersiell användning",
     "ui.common.new": "Ny",
     "ui.common.replayCount": "Antal automatiska reprisfiler",
