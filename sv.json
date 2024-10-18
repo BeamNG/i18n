@@ -1554,5 +1554,6 @@
     "ui.trackBuilder.base.drive": "Kör",
     "ui.mainmenu.navbar.navigate": "Navigera",
     "ui.introPopup.bigmap.title": "Kartvy",
-    "ui.introPopup.refueling.title": "Tankning & Laddning"
+    "ui.introPopup.refueling.title": "Tankning & Laddning",
+    "ui.introPopup.dealership.title": "Bilhandlare"
 }
