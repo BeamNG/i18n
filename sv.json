@@ -1532,5 +1532,7 @@
     "ui.trackbuilder.menus.editorSettings": "Redigerarinställningar",
     "ui.common.overwrite": "Skriv över",
     "ui.common.close": "Stäng",
-    "ui.trackbuilder.menus.resetTrack": "Återställ Bana"
+    "ui.trackbuilder.menus.resetTrack": "Återställ Bana",
+    "ui.mainmenu.telemetryConsent": "Jag samtycker till insamling av data om mina spelsessioner av[br] BeamNG GmbH (klicka [url=https://go.beamng.com/privacyPolicy]här[/url] för insamlade datatyper).",
+    "ui.dashboard.performanceGraph": "Öppna prestandadiagram"
 }
