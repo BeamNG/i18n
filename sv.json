@@ -1550,5 +1550,6 @@
     "ui.mainmenu.navbar.scroll_h": "[action=menu_item_radial_right_x] {{:: 'ui.inputActions.menu.menu_item_radial_right_x.title' | translate}}",
     "ui.dashboard.menu": "Huvudmeny",
     "ui.dashboard.bigmap": "Karta",
-    "ui.dashboard.gameContext": "Uppdrag"
+    "ui.dashboard.gameContext": "Uppdrag",
+    "ui.trackBuilder.base.drive": "Kör"
 }
