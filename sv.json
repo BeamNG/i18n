@@ -1043,7 +1043,7 @@
     "engine.editor.menu.camera.back": "Bakifrån",
     "engine.editor.menu.atCamera": "vid kamera",
     "extensions.scenario.speedGoal.fail.msg": "Din hastighet är inte den krävda hastigheten",
-    "extensions.campaign.exploration.mapHint": "Tryck på [action=toggle_minimap] för att visa kartan med tillgängliga uppdrag",
+    "extensions.campaign.exploration.mapHint": "Tryck på [action=toggle_minimap] för att visa kartan med tillgängliga utmaningar",
     "ui.common.delete": "Radera",
     "ui.common.error": "Fel",
     "ui.unit.imperial": "Brittiska systemet",
