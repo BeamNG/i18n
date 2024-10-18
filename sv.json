@@ -1534,5 +1534,21 @@
     "ui.common.close": "Stäng",
     "ui.trackbuilder.menus.resetTrack": "Återställ Bana",
     "ui.mainmenu.telemetryConsent": "Jag samtycker till insamling av data om mina spelsessioner av[br] BeamNG GmbH (klicka [url=https://go.beamng.com/privacyPolicy]här[/url] för insamlade datatyper).",
-    "ui.dashboard.performanceGraph": "Öppna prestandadiagram"
+    "ui.dashboard.performanceGraph": "Öppna prestandadiagram",
+    "ui.mainmenu.onlineConsent": "Sätt på online-funktioner",
+    "ui.mainmenu.onlineFeatures.header": "Online-funktioner",
+    "ui.mainmenu.telemetry.featureDescription": "Vi skulle vilja samla in programsessionsdata som till exempel längden på sessioner, scenarier som spelas och om du har vissa simulationsfunktioner aktiverade i syfte att identifiera områden för framtida utveckling och förbättring av spelarupplevelsen. Dessa uppgifter skickas till våra servrar, där de anonymiseras och lagras på ett sätt som inte tillåter identifiering av individer. Vi kommer inte att använda denna information i marknadsförings- eller reklamsyfte. För listan över insamlade datatyper och dina rättigheter klicka [url=https://go.beamng.com/privacyPolicy]här[/url].",
+    "ui.mainmenu.navbar.tab_right": "[action=menu_tab_right] {{:: 'ui.inputActions.menu.menu_tab_right.title' | translate}}",
+    "ui.mainmenu.navbar.scroll_v": "[action=menu_item_radial_right_y] {{:: 'ui.inputActions.menu.menu_item_radial_right_y.title' | translate}}",
+    "ui.mainmenu.navbar.select": "[action=menu_item_select] {{:: 'ui.inputActions.menu.menu_item_select.title' | translate}}",
+    "ui.mainmenu.navbar.back": "[action=menu_item_back] {{:: 'ui.inputActions.menu.menu_item_back.title' | translate}}",
+    "ui.trackbuilder.menus.onlyOnePiecesWindow": "Endast ett fönster för delar",
+    "ui.trackbuilder.menus.onlyOneModifierWindow": "Endast ett fönster för modifieringar",
+    "ui.trackBuilder.base.test": "Testa",
+    "ui.mainmenu.navbar.tab_left": "[action=menu_tab_left] {{:: 'ui.inputActions.menu.menu_tab_left.title' | translate}}",
+    "ui.mainmenu.navbar.scroll": "[action=menu_item_radial_right_x] [action=menu_item_radial_right_y] Skrolla",
+    "ui.mainmenu.navbar.scroll_h": "[action=menu_item_radial_right_x] {{:: 'ui.inputActions.menu.menu_item_radial_right_x.title' | translate}}",
+    "ui.dashboard.menu": "Huvudmeny",
+    "ui.dashboard.bigmap": "Karta",
+    "ui.dashboard.gameContext": "Uppdrag"
 }
