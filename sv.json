@@ -1531,5 +1531,6 @@
     "ui.trackbuilder.base.banking": "Lutning",
     "ui.trackbuilder.menus.editorSettings": "Redigerarinställningar",
     "ui.common.overwrite": "Skriv över",
-    "ui.common.close": "Stäng"
+    "ui.common.close": "Stäng",
+    "ui.trackbuilder.menus.resetTrack": "Återställ Bana"
 }
