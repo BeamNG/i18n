@@ -33,7 +33,7 @@
     "engine.levelModified.msg": "Banan har modifierats i redigeraren. Vill du spara ändringarna?",
     "engine.levelModified.title": "Banan Modifierad",
     "engine.msgboxErrorTitle": "Fel",
-    "engine.resourceMissing": "Kunde inte skapa resurs (är filen borta?): ",
+    "engine.resourceMissing": "Kunde inte skapa resursen (saknas filen?): ",
     "engine.welcome": "Välkommen till BeamNG.drive på Svenska :)",
     "engine.windowedModeReq.msgEditor": "Lämna Uppdragsredigeraren för att byta till fullskärm.",
     "engine.windowedModeReq.msgGUI": "Lämna GUI-redigeraren för att byta till fullskärm.",
