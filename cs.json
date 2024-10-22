@@ -7624,7 +7624,7 @@
     "vehicle.bdebug.aeroMode.combined": "Kombinovaný",
     "ui.radialmenu2.tirePressureControl.startInflating": "Zahájení nahuštění",
     "ui.photomode.replaySpeed": "Aktuální rychlost přehrávání",
-    "ui.options.graphics.PostFXSSAOGeneralQualityTooltip": "Funkce zastínění okolím vytváří realistické stíny kolem objektů.\n\n[b][*]GPU:[/b] Mírné[b][*]VRAM:[/b] Minor[b][*]CPU:[/b] Žádné",
+    "ui.options.graphics.PostFXSSAOGeneralQualityTooltip": "Funkce zastínění okolím vytváří realistické stíny kolem objektů.\n\n[b][*]GPU:[/b] Mírné[b][*]VRAM:[/b] Menší[b][*]CPU:[/b] Žádné",
     "ui.controls.ffb.torqueCurrent": "Aktuální točivý moment",
     "ui.controls.ffb.torqueDesired": "Bezpečnostní točivý moment",
     "ui.debug.vehicle.maxDist": "Maximální vzdálenost",
