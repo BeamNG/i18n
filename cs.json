@@ -8026,5 +8026,10 @@
     "vehicle.interaction.powertrain.splitter.setOverdrive.title": "Nastavit rozdělovač na rychloběh",
     "vehicle.interaction.powertrain.splitter.setDirect.desc": "Přepne rozdělovač do přímého režimu.",
     "vehicle.interaction.powertrain.transfercase.toggle.title": "Přepnout režim převodovky",
-    "vehicle.interaction.powertrain.transfercase.set2hi.title": "Nastavit převodovku na 2WD vysoký převod"
+    "vehicle.interaction.powertrain.transfercase.set2hi.title": "Nastavit převodovku na 2WD vysoký převod",
+    "vehicle.interaction.powertrain.transfercase.set2hi.desc": "Přepíná převodovku do režimu 2WD vysoký převod.",
+    "vehicle.interaction.powertrain.transfercase.set4hi.title": "Nastavit převodovku na 4WD vysoký převod",
+    "vehicle.interaction.powertrain.transfercase.set4hi.desc": "Přepíná převodovku do režimu 4WD vysoký převod.",
+    "vehicle.interaction.powertrain.transfercase.set4lo.title": "Nastavit převodovku na 4WD nízký převod",
+    "vehicle.interaction.powertrain.transfercase.set4lo.desc": "Přepíná převodovku do režimu 4WD nízký převod."
 }
