@@ -8031,5 +8031,7 @@
     "vehicle.interaction.powertrain.transfercase.set4hi.title": "Nastavit převodovku na 4WD vysoký převod",
     "vehicle.interaction.powertrain.transfercase.set4hi.desc": "Přepíná převodovku do režimu 4WD vysoký převod.",
     "vehicle.interaction.powertrain.transfercase.set4lo.title": "Nastavit převodovku na 4WD nízký převod",
-    "vehicle.interaction.powertrain.transfercase.set4lo.desc": "Přepíná převodovku do režimu 4WD nízký převod."
+    "vehicle.interaction.powertrain.transfercase.set4lo.desc": "Přepíná převodovku do režimu 4WD nízký převod.",
+    "ui.controls.ffb.isForceInverted.tooltip": "Použij toto nastavení, jestliže se volant otáčí na opačnou stranu než by měl.[br][br]Například toto použij, když má zaparkované vozidlo tendenci zatáčet do plného rejdu doleva nebo doprava.",
+    "vehicle.bdebug.beamTextMode.ids": "ID"
 }
