@@ -1722,6 +1722,6 @@
     "ui.common.vehSearch": "Dubbelklik om tussen configuraties te schakelen",
     "ui.dragTicket.title": "TEGENSTANDER ......... SPELER",
     "ui.modmanager.listPossiblyBrokenModsBodyConfirm": "Analyseren van gebroken mods kan enkele seconden duren. Doorgaan?",
-    "ui.modmanager.listPossiblyBrokenModsBodyBad": "Deze mods overschrijven andere bestanden, die de applicatie en andere mods kunnen breken (zeker na updates). Overschrijven van applicatiebestanden is tegen onze repo modding richtlijnen",
+    "ui.modmanager.listPossiblyBrokenModsBodyBad": "Deze mods overschrijven andere bestanden, die de applicatie en andere mods kunnen breken (zeker na updates). Overschrijven van applicatiebestanden is tegen onze repo modding richtlijnen.",
     "ui.busRoute.stopRequested": "Stop aangevraagd"
 }
