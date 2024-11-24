@@ -1720,5 +1720,5 @@
     "ui.mainmenu.navbar.tab_left": "[action=menu_tab_left] {{:: 'ui.inputActions.menu.menu_tab_left.title' | translate}}",
     "ui.modmanager.updated.p6": "Als je enige problemen ondervindt met de applicatie, gelieve [url=https://go.beamng.com/support]ons support team te contacteren[/url].",
     "ui.common.vehSearch": "Dubbelklik om tussen configuraties te schakelen",
-    "ui.dragTicket.title": "FOE ......... SPELER"
+    "ui.dragTicket.title": "TEGENSTANDER ......... SPELER"
 }
