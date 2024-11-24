@@ -93,9 +93,9 @@
     "scenarios.east_coast_usa.bank_robbery.countdown": "{{countdown}}...",
     "scenarios.east_coast_usa.bank_robbery.description": "Je hebt een melding van een bankoverval in het dorp gekregen. Reageer op die melding en stop de vluchtende verdachte voor hij zijn schuilplaats kan bereiken.",
     "scenarios.east_coast_usa.bank_robbery.onRaceWaypoint.msg": "Houdt de dief!",
-    "scenarios.east_coast_usa.car_delivery.description": "Je hebt een dure sportwagen op je Gavril T75 geladen, breng hem naar de nieuwe eigenaar op het platteland.",
+    "scenarios.east_coast_usa.car_delivery.description": "Je hebt een dure sportwagen op je Gavril T-Series geladen, breng hem naar de nieuwe eigenaar op het platteland.",
     "scenarios.east_coast_usa.car_delivery.distance.msg": "Je bent de auto verloren!",
-    "scenarios.east_coast_usa.car_delivery_2.description": "Gebruik je Gavril T75 om een paar klassieke supercars af te leveren bij een huis in de stad. Wat je ook doet, beschadig de voertuigen niet.",
+    "scenarios.east_coast_usa.car_delivery_2.description": "Gebruik je Gavril T-Series om een paar klassieke supercars af te leveren bij een huis in de stad. Wat je ook doet, beschadig de voertuigen niet.",
     "scenarios.east_coast_usa.car_delivery_2.title": "Autolevering 2",
     "scenarios.east_coast_usa.destroy_the_car.timeLimit.msg": "Je hebt geen tijd meer",
     "scenarios.east_coast_usa.east_coast_chase_1.damage.msg": "Vernietigd!",
@@ -1715,5 +1715,7 @@
     "ui.modmanager.updated.btnOk": "Ik accepteer het risico, heractiveer alle mods",
     "ui.modmanager.updated.btnCancel": "Laat ze voor nu uitgeschakeld",
     "ui.modmanager.listPossiblyBrokenModsTitle": "Mogelijk gebroken mods",
-    "ui.modmanager.listPossiblyBrokenModsButton": "Mogelijk gebroken mods opsommen"
+    "ui.modmanager.listPossiblyBrokenModsButton": "Mogelijk gebroken mods opsommen",
+    "ui.mainmenu.navbar.select": "[action=menu_item_select] {{:: 'ui.inputActions.menu.menu_item_select.title' | translate}}",
+    "ui.mainmenu.navbar.tab_left": "[action=menu_tab_left] {{:: 'ui.inputActions.menu.menu_tab_left.title' | translate}}"
 }
