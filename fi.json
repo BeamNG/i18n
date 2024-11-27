@@ -5013,5 +5013,6 @@
     "ui.photomode.replaySpeed": "Nykyinen uusinnan nopeus",
     "ui.options.graphics.PostFXMotionBlurEnabledTooltip": "Liikesumennus lisää sumennusta liikkuviin objekteihin parantaakseen nopeuden tunnetta.\n\n[b][*]GPU:[/b] Pieni[b][*]VRAM:[/b] Ei yhtään[b][*]CPU:[/b] Ei yhtään",
     "ui.options.graphics.GraphicShadowsQuality": "Varjojen resoluutio",
-    "ui.options.graphics.GraphicShadowsQualityTooltip": "Vaikuttaa varjojen resoluutioon.\n\n[b][*]GPU:[/b] Kohtalainen[b][*]VRAM:[/b] Kohtalainen[b][*]CPU:[/b] Pieni"
+    "ui.options.graphics.GraphicShadowsQualityTooltip": "Vaikuttaa varjojen resoluutioon.\n\n[b][*]GPU:[/b] Kohtalainen[b][*]VRAM:[/b] Kohtalainen[b][*]CPU:[/b] Pieni",
+    "ui.options.graphics.skipgenerationlicenceplateTooltip": "Ohittaa rekisterikilpien generaation."
 }
