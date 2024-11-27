@@ -3107,7 +3107,7 @@
     "ui.options.graphics.GraphicDynReflectionTexsizeTooltip": "Korkeat asetukset tuovat tarkemmat heijastukset. Suositeltava arvo on 1024.",
     "ui.options.graphics.GraphicDynReflectionTooltip": "Kytkee reaaliaikaiset heijastukset aktiiviseen ajoneuvoon.",
     "ui.options.graphics.postfxReset": "Nollaa PostFX-asetukset",
-    "ui.options.graphics.GraphicAnisotropicTooltip": "Vaikuttaa tekstuurien suodatuken laatuun.",
+    "ui.options.graphics.GraphicAnisotropicTooltip": "Vaikuttaa tekstuurien suodatuksen laatuun.",
     "ui.options.graphics.GraphicPostfxQualityTooltip": "Vaikuttaa jälkikäsittelyefektien laatuun.",
     "ui.options.graphics.GraphicShaderQualityTooltip": "Vaikuttaa shaderien kokonaislaatuun.",
     "ui.options.graphics.GraphicLightingQualityTooltip": "Vaikuttaa valaistusominaisuuksiin ja varjojen resoluutioon.",
