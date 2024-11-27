@@ -4240,7 +4240,7 @@
     "ui.options.graphics.PostFXMotionBlurEnabled": "Liikkeen sumennus",
     "ui.options.graphics.PostFXMotionBlurStrength": "Sumennuksen voimakkuus",
     "ui.options.graphics.PostFXMotionBlurPlayerVehicle": "Liikesumennus nykyiselle ajoneuvolle",
-    "ui.options.graphics.GraphicDisableShadowsTooltip": "Vaikuttaa varjojen resoluutioon.",
+    "ui.options.graphics.GraphicDisableShadowsTooltip": "Vaikuttaa varjojen määrään.\n\n[b][*]GPU:[/b] Suuri[b][*]VRAM:[/b] Kohtalainen[b][*]CPU:[/b] Suuri",
     "ui.options.graphics.skipgenerationlicenceplate": "Ohita rekisterikilpien generoiminen",
     "ui.options.graphics.GraphicDynMirrors": "Yksityiskohtaiset peilit (vain tuetut ajoneuvot)",
     "ui.options.graphics.Ultra.warning": "Korkein asetus on kokeellinen vaihtoehto!",
@@ -5013,5 +5013,5 @@
     "ui.photomode.replaySpeed": "Nykyinen uusinnan nopeus",
     "ui.options.graphics.PostFXMotionBlurEnabledTooltip": "Liikesumennus lisää sumennusta liikkuviin objekteihin parantaakseen nopeuden tunnetta.\n\n[b][*]GPU:[/b] Pieni[b][*]VRAM:[/b] Ei yhtään[b][*]CPU:[/b] Ei yhtään",
     "ui.options.graphics.GraphicShadowsQuality": "Varjojen resoluutio",
-    "ui.options.graphics.GraphicShadowsQualityTooltip": "Vaikuttaa varjojen resoluutioon."
+    "ui.options.graphics.GraphicShadowsQualityTooltip": "Vaikuttaa varjojen resoluutioon.\n\n[b][*]GPU:[/b] Kohtalainen[b][*]VRAM:[/b] Kohtalainen[b][*]CPU:[/b] Pieni"
 }
