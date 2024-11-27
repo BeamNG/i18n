@@ -5015,5 +5015,5 @@
     "ui.options.graphics.GraphicShadowsQuality": "Varjojen resoluutio",
     "ui.options.graphics.GraphicShadowsQualityTooltip": "Vaikuttaa varjojen resoluutioon.\n\n[b][*]GPU:[/b] Kohtalainen[b][*]VRAM:[/b] Kohtalainen[b][*]CPU:[/b] Pieni",
     "ui.options.graphics.skipgenerationlicenceplateTooltip": "Ohittaa rekisterikilpien generoinnin.\n\n[b][*]GPU:[/b] Ei yhtään[b][*]VRAM:[/b] Pieni[b][*]CPU:[/b] Kohtalainen",
-    "ui.options.graphics.GraphicMaxDecalCountTooltip": "Rajaa suurimman määrän näkyvistä renkaanjäljistä."
+    "ui.options.graphics.GraphicMaxDecalCountTooltip": "Rajoittaa rengasjälkien enimmäismäärää.\n\n[b][*]GPU:[/b] Suuri[b][*]VRAM:[/b] Ei yhtään[b][*]CPU:[/b] Kesitaso"
 }
