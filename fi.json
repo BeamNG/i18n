@@ -3107,7 +3107,7 @@
     "ui.options.graphics.GraphicDynReflectionTexsizeTooltip": "Korkeat asetukset tuovat tarkemmat heijastukset. Suositeltava arvo on 1024.",
     "ui.options.graphics.GraphicDynReflectionTooltip": "Kytkee reaaliaikaiset heijastukset aktiiviseen ajoneuvoon.",
     "ui.options.graphics.postfxReset": "Nollaa PostFX-asetukset",
-    "ui.options.graphics.GraphicAnisotropicTooltip": "Vaikuttaa tekstuurien suodatuksen laatuun.",
+    "ui.options.graphics.GraphicAnisotropicTooltip": "Vaikuttaa tekstuurien suodatuksen laatuun.\n\n[b][*]GPU:[/b] Pieni[b][*]VRAM:[/b] Ei yhtään[b][*]CPU:[/b] Ei yhtään",
     "ui.options.graphics.GraphicPostfxQualityTooltip": "Vaikuttaa jälkikäsittelyefektien laatuun.",
     "ui.options.graphics.GraphicShaderQualityTooltip": "Vaikuttaa shaderien kokonaislaatuun.",
     "ui.options.graphics.GraphicLightingQualityTooltip": "Vaikuttaa valaistusominaisuuksiin ja varjojen resoluutioon.",
@@ -5015,5 +5015,12 @@
     "ui.options.graphics.GraphicShadowsQuality": "Varjojen resoluutio",
     "ui.options.graphics.GraphicShadowsQualityTooltip": "Vaikuttaa varjojen resoluutioon.\n\n[b][*]GPU:[/b] Kohtalainen[b][*]VRAM:[/b] Kohtalainen[b][*]CPU:[/b] Pieni",
     "ui.options.graphics.skipgenerationlicenceplateTooltip": "Ohittaa rekisterikilpien generoinnin.\n\n[b][*]GPU:[/b] Ei yhtään[b][*]VRAM:[/b] Pieni[b][*]CPU:[/b] Kohtalainen",
-    "ui.options.graphics.GraphicMaxDecalCountTooltip": "Rajoittaa rengasjälkien enimmäismäärää.\n\n[b][*]GPU:[/b] Suuri[b][*]VRAM:[/b] Ei yhtään[b][*]CPU:[/b] Kesitaso"
+    "ui.options.graphics.GraphicMaxDecalCountTooltip": "Rajoittaa rengasjälkien enimmäismäärää.\n\n[b][*]GPU:[/b] Suuri[b][*]VRAM:[/b] Ei yhtään[b][*]CPU:[/b] Kesitaso",
+    "ui.options.graphics.PostFXBloomGeneralEnabledTooltip": "Hehkumisefekti ylivalottuneiden kappaleiden ympärillä.\n\n[b][*]GPU:[/b] Pieni[b][*]VRAM:[/b] Ei yhtään[b][*]CPU:[/b] Ei yhtään",
+    "ui.options.graphics.PostFXSSAOGeneralQuality": "Ambient Occlusionin laatu",
+    "ui.options.graphics.PostFXSSAOGeneralQualityTooltip": "Ambient Occlusion tekee realistiset varjostukset kappaleiden ympärille.\n\n[b][*]GPU:[/b] Kohtalainen[b][*]VRAM:[/b] Pieni[b][*]CPU:[/b] Ei yhtään",
+    "ui.options.graphics.PostFXLightRaysEnabledTooltip": "Aurinkoa osittain peittävät kappaleet saavat valonsäteitä ympärilleen.\n\n[b][*]GPU:[/b] Pieni[b][*]VRAM:[/b] Ei yhtään[b][*]CPU:[/b] Ei yhtään",
+    "ui.options.graphics.PostFXDOFGeneralEnabledTooltip": "Syväterävyys simuloi kameran linssin ilmiötä, jossa tarkentamattomat kappaleet sumentuvat.\n\n[b][*]GPU:[/b] Pieni[b][*]VRAM:[/b] Ei yhtään[b][*]CPU:[/b] Ei yhtään",
+    "ui.options.graphics.GraphicGrassDensityTooltip": "Säätää näkyvien ruohotuppojen määrää maastossa.\n\n[b][*]GPU:[/b] Pieni[b][*]VRAM:[/b] Keskitaso[b][*]CPU:[/b] Ei yhtään",
+    "ui.options.graphics.GraphicDynMirrorsTooltip": "Käyttää tuetuissa ajoneuvoissa peilien oikeaa sijaintia peiliheijastuksissa.\n\n[b][*]GPU:[/b] Keskitaso[b][*]VRAM:[/b] Keskitaso[b][*]CPU:[/b] Keskitaso"
 }
