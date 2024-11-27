@@ -5011,5 +5011,5 @@
     "missions.west_coast_usa.arrive.Gas.outroText": "Hyvää työtä.",
     "missions.west_coast_usa.timeTrial.gearsplitclimb.endScreenText": "Hyvä aika-ajo!",
     "ui.photomode.replaySpeed": "Nykyinen uusinnan nopeus",
-    "ui.options.graphics.PostFXMotionBlurEnabledTooltip": "Liikesumennus lisää sumennusta liikkuviin objekteihin parantaakseen nopeuden tunnetta."
+    "ui.options.graphics.PostFXMotionBlurEnabledTooltip": "Liikesumennus lisää sumennusta liikkuviin objekteihin parantaakseen nopeuden tunnetta.\n\n[b][*]GPU:[/b] Pieni[b][*]VRAM:[/b] Ei yhtään[b][*]CPU:[/b] Ei yhtään"
 }
