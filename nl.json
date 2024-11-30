@@ -1723,5 +1723,11 @@
     "ui.dragTicket.title": "TEGENSTANDER ......... SPELER",
     "ui.modmanager.listPossiblyBrokenModsBodyConfirm": "Analyseren van gebroken mods kan enkele seconden duren. Doorgaan?",
     "ui.modmanager.listPossiblyBrokenModsBodyBad": "Deze mods overschrijven andere bestanden, die de applicatie en andere mods kunnen breken (zeker na updates). Overschrijven van applicatiebestanden is tegen onze repo modding richtlijnen.",
-    "ui.busRoute.stopRequested": "Stop aangevraagd"
+    "ui.busRoute.stopRequested": "Stop aangevraagd",
+    "ui.credits.vehiclePhysics": "Voertuig fysica",
+    "ui.modmanager.noMods": "Er zijn op dit moment nog geen mods geïnstalleerd, Klik hier om dat te veranderen.",
+    "ui.credits.vehicleArt": "Voertuig kunst",
+    "ui.credits.production": "Productie",
+    "ui.color.configurations": "Configuraties",
+    "ui.color.metallic": "Metallisch"
 }
