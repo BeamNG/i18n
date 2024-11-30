@@ -1729,5 +1729,7 @@
     "ui.credits.vehicleArt": "Voertuig kunst",
     "ui.credits.production": "Productie",
     "ui.color.configurations": "Configuraties",
-    "ui.color.metallic": "Metallisch"
+    "ui.color.metallic": "Metallisch",
+    "ui.vehicleconfig.applyLicensePlate": "Nummerbord toevoegen",
+    "ui.color.roughness": "Ruwheid"
 }
