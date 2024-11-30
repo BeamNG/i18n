@@ -1731,5 +1731,6 @@
     "ui.color.configurations": "Configuraties",
     "ui.color.metallic": "Metaalachtig",
     "ui.vehicleconfig.applyLicensePlate": "Nummerbord Toepassen",
-    "ui.color.roughness": "Ruwheid"
+    "ui.color.roughness": "Ruwheid",
+    "scenarios.east_coast_usa.bank_robbery.title": "Bank beroving"
 }
