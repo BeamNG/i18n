@@ -1209,7 +1209,7 @@
     "ui.modWizard.skinWizard.desc": "I demonstrativt syfte använder vi SkinExample som namn på vårat skin. De två filerna som kan redigeras har kombinerats i högra bilden. När du har öppnat skin-filerna kan du antingen klicka på nästa för att att ladda ditt skin i spelet eller klicka på färdig för att avsluta.",
     "ui.modWizard.skinWizard.left": "Den vänstra sidan av bilden är \"SkinExample.dds\". Här kommer huvuddelen av ditt skin kommer att skapas. Måla över de vita delarna med den design du vill ha.",
     "ui.modWizard.skinWizard.right": "Den högra sidan av bilden är \"SkinExample_palette_uv1.dds\". Den här bilden visar vilka del av ditt skin som kan bli ommålade med färgväljaren i spelet. Röd är den första färgen, grön är den andra färgen och blå är den tredje färgen. Om den är transparent kommer den inte att bli färgad.",
-    "ui.trackBuilder.menus.advancedModifiers": "Avancerade Modifikationer",
+    "ui.trackBuilder.menus.advancedModifiers": "Avancerade Modifierare",
     "ui.trackBuilder.menus.advancedPieces": "Avancerade Delar",
     "ui.trackBuilder.menus.trackShape": "Banform",
     "ui.trackBuilder.menus.wallsCeiling": "Väggar och Tak",
