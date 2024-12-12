@@ -174,6 +174,7 @@
     "ui.common.action.stop": "Stop",
     "ui.common.action.start": "Start",
     "ui.common.okay": "Okay",
+    "ui.common.understood": "Understood!",
     "ui.common.yes": "Yes",
     "ui.common.no": "No",
     "ui.common.thanks": "Thanks",
@@ -273,11 +274,17 @@
     "ui.mainmenu.exit": "Exit to Main Menu",
     "ui.mainmenu.credits": "Credits",
     "ui.mainmenu.mods": "Mods",
+    "ui.mainmenu.mod": "Mod",
     "ui.mainmenu.repo": "Repository",
     "ui.mainmenu.news": "News",
     "ui.mainmenu.addmods": "Add mods",
+    "ui.mainmenu.addons": "Addons",
+    "ui.mainmenu.extras": "Extras",
     "ui.mainmenu.background.back": "Main menu",
     "ui.mainmenu.warningdetails": "Click here for details and to acknowledge",
+    "ui.mainmenu.more": "More...",
+    "ui.mainmenu.oldmenu": "Old main menu",
+    "ui.mainmenu.newmenu": "New main menu",
 
     "ui.mainmenu.mods.desciptionUnavailable": "Description Unavailable",
 
@@ -406,7 +413,10 @@
     "ui.trackbuilder.menus.onlyOneModifierWindow": "Only one Modifier Window",
     "ui.trackBuilder.base.drive": "Drive",
     "ui.trackBuilder.base.test": "Test",
-
+    "ui.rally.experimentalWarning": "Rally Mode - WIP",
+    "ui.rally.menus.chooseVehicle": "Choose Vehicle",
+    "ui.rally.experimentalTitle": "Rally mode - Experimental feature",
+    "ui.rally.experimentalPrompt": " <div style=\"text-align:center;vertical-align:top\"> <div style=\"display:flex;flex-flow: row;flex-wrap: wrap;align-items: stretch;justify-content: space-around; margin-bottom:2em\"> <div style=\"flex: 0 0 30%;margin:0em 0.5em;\"> <div style=\"background-image:url('/ui/modules/rallyselect/right-47.svg'); background-size: contain; height:8em;background-repeat: no-repeat; background-position: center;\"> </div> <span>This is an extremely early preview still under heavy development. It doesn't reflect our final vision.</span> </div> <div style=\"flex: 0 0 30%;margin:0em 0.5em;\"> <div style=\"background-image:url('/ui/modules/rallyselect/right-30.svg'); background-size: contain; height:8em;background-repeat: no-repeat; background-position: center;\"> </div> <span>Early feedback is welcome: visit this <a href=\"http-external://go.beamng.com/rallyThread\">forum thread</a> and help us shape the future of rally mode!</span> </div> <div style=\"flex: 0 0 30%;margin:0em 0.5em;\"> <div style=\"background-image:url('/ui/modules/rallyselect/left-68.svg'); background-size: contain; height:8em;background-repeat: no-repeat; background-position: center;\"> </div> <span>Mods, stages, settings and progress from this version may not be compatible with future updates.</span> </div> </div> <span style=\"width:100%;\"><span style=\"font-weight:800;\">Tip:</span> A new 'Rally Stage' section is now available in the Map menu on freeroam.</span> <div>",
     "ui.mainmenu.telemetryConsent": "I consent to the collection of data about my play sessions by[br] BeamNG GmbH (click [url=https://go.beamng.com/privacyPolicy]here[/url] for collected data types).",
     "ui.mainmenu.onlineConsent": "Enable online features",
     "ui.mainmenu.onlineFeatures.header": "Online Features",
@@ -575,7 +585,7 @@
     "ui.quickrace.tod.sunset": "Sunset",
     "ui.quickrace.setting": "Settings",
     "ui.quickrace.laps": "Laps",
-    "ui.quickrace.tod": "Time",
+    "ui.quickrace.tod.time": "Time",
     "ui.quickrace.country": "Country",
     "ui.quickrace.brand": "Brand",
     "ui.quickrace.derby": "Derby Class",
@@ -754,6 +764,8 @@
     "ui.vehicleconfig.searchHelp.notes3": "Supports history saving. Try up/down arrows",
     "ui.vehicleconfig.searchHelp.history": "Search history",
     "ui.vehicleconfig.searchHelp.historyClear": "You can clear the history with CTRL+K",
+    "ui.vehicleconfig.gotoold": "To old UI",
+    "ui.vehicleconfig.gotonew": "To new UI",
 
     "ui.mirrors.name": "Mirrors adjustment",
     "ui.mirrors.position.left": "Left mirror",
@@ -827,6 +839,7 @@
     "ui.apps.categories.vehicle_info": "Vehicle Info",
     "ui.apps.categories.utility": "Utility",
     "ui.apps.categories.racing": "Racing",
+    "ui.apps.categories.rally": "Rally",
     "ui.apps.categories.goals": "Goals",
 
     "ui.apps.absdebug.name": "AbsDebug",
@@ -1099,6 +1112,7 @@
     "ui.apps.checkpoint_time_comparison.name": "Checkpoint Time Comparison",
     "ui.apps.race_check_points.name": "Race Check Points",
     "ui.apps.racecountdown.name": "RaceCountdown",
+    "ui.apps.driftFlashMessages.name": "Drift Flash Messages",
     "ui.apps.racelaps.name": "RaceLaps",
     "ui.apps.racing_position.name": "Racing Position",
     "ui.apps.race_realtime_display.name": "Race Realtime Display",
@@ -1234,7 +1248,9 @@
     "ui.playmodes.bus": "Bus Routes",
     "ui.playmodes.lightRunner": "Light Runner",
     "ui.playmodes.trackBuilder": "Track Builder",
+    "ui.playmodes.rally": "Rally",
     "ui.playmodes.comingSoon": "Coming soon",
+    "ui.playmodes.legacy": "Legacy",
     "ui.playmodes.careerModePause": "Career: Paused",
 
     "ui.options.options": "Options",
@@ -1280,7 +1296,7 @@
     "ui.options.userInterface.externalUi": "Enable browser UI",
     "ui.options.userInterface.richPresence": "Enable Rich Presence",
     "ui.options.userInterface.richPresenceDiscord": "Enable Discord Rich Presence",
-    "ui.options.userInterface.showMissionMarkers": "Show challenge markers",
+
 
     "ui.options.language": "Language",
     "ui.options.steamLanguage": "Steam Language",
@@ -1360,9 +1376,15 @@
     "ui.options.gameplay.useSteamName.tooltip": "If enabled, your Steam username may be used for your vehicle's license plate.",
     "ui.options.gameplay.showFilters": "Toggle Filters",
     "ui.options.gameplay.showConfigurations": "Expand configurations",
-    "ui.options.gameplay.enableGasStationsInFreeroam": "Enable gas stations in freeroam",
     "ui.options.gameplay.autoReplayWarning": "Enabling automatic recording will prevent manual recording during challenge attempts. Reminder : Recording has a hit on performance.",
     "ui.options.steamdeckSupport": "SteamDeck support is still experimental",
+
+    "ui.options.gameplay.gameplayMarkers": "Freeroam Gameplay Markers",
+    "ui.options.gameplay.gameplayMarkersTooltip": "Enables individual gameplay systems in freeroam. A checked option will add visible or invisible markers in freeroam that let you interact with these systems.",
+    "ui.options.userInterface.showMissionMarkers": "Challenges",
+    "ui.options.gameplay.enableDragRaceInFreeroam": "Drag Racing",
+    "ui.options.gameplay.enableDriftInFreeroam": "Drift Areas",
+    "ui.options.gameplay.enableGasStationsInFreeroam": "Gas Stations",
 
     "vehicle.info.0-100 km/h": "0-100 km/h",
     "vehicle.info.0-60 mph": "0-60 mph",
@@ -2215,6 +2237,8 @@
     "ui.radialmenu2.Save.desc": "Save vehicle in its current form.",
     "ui.radialmenu2.Load": "Load",
     "ui.radialmenu2.Load.desc": "Load a previously saved vehicle.",
+    "ui.radialmenu2.Mirrors": "Adjust mirrors",
+    "ui.radialmenu2.Mirrors.desc": "Adjust the mirrors of your current vehicle.",
     "ui.radialmenu2.bus.kneel.desc": "Kneel",
     "ui.radialmenu2.bus.kneel": "Lower the bus",
     "ui.radialmenu2.bus.doors.desc": "Open the doors",
@@ -2561,6 +2585,7 @@
 
     "ui.scenarios.ready": "Ready...",
     "ui.scenarios.go": "GO!",
+    "ui.scenarios.finish": "Finish! Stop the car.",
 
     "scenarios.busRoutes.stop": "Stop the bus",
     "scenarios.busRoutes.kneel": "Kneel the bus <span>[action=citybus__toggle_kneel]</span>",
@@ -2634,21 +2659,21 @@
     "insurance.history.event.coverageChanged.name": "Coverage changed",
     "insurance.history.event.policyRenewed.name": "Policy renewed",
 
+    "missions.west_coast_usa.arrive.Tutorial.title": "Your First Challenge!",
+    "missions.west_coast_usa.arrive.Tutorial.description": "This demonstration challenge is simple: Arrive at the destination!",
+    "missions.west_coast_usa.arrive.Tutorial.introText": "Tutorial Challenge: <br><br>For your first challenge we're keeping it simple. Your primary goal: Reach the destination!<br><br>Keep in mind that this isn't a race, so watch out for obstacles like curbs and barriers – they're unforgiving!<br><br>Objectives and their rewards are listed in order of stars in the lower right corner.",
+
     "missions.utah.timeTrial.rallystage.title": "Prospector's Return",
     "missions.utah.timeTrial.rallystage.description": "A technical rally stage that features the mine system.",
     "missions.utah.timeTrial.rallystage.startScreenText": "This is a long technical stage that takes you through a mine shaft section, watch out for the jump.",
-    "missions.utah.timeTrial.rallystage.endScreenText": "Run Complete!",
 
     "missions.east_coast_usa.timeTrial.mixedrally.title": "Mixed Surface Rally Stage",
     "missions.east_coast_usa.timeTrial.mixedrally.description": "A rally stage with asphalt and gravel road sections.",
     "missions.east_coast_usa.timeTrial.mixedrally.startScreenText": "This long technical stage will test all of your rally driving skills.  Good luck!",
-    "missions.east_coast_usa.timeTrial.mixedrally.endScreenText": "Run complete!",
 
     "missions.johnson_valley.arrive.outlandervalet.title": "Outlander Valet",
     "missions.johnson_valley.arrive.outlandervalet.description": "Drive the site manager's Roamer back to his cabin without damaging it.",
-    "missions.johnson_valley.arrive.outlandervalet.introTitleText": "Outlander Valet",
     "missions.johnson_valley.arrive.outlandervalet.introText": "The site manager got a bit excited after a few malt drinks last night and decided to go rock crawling in his wife's Roamer.  Luckily, some of the staff managed to get him out of the car before he got it stuck.  They got him home to bed and left the Roamer out in the desert.  Your job this morning is to get it back to the site manager's house, but do not damage it. Remember, it's his wife's car. You will not be popular if you damage it.",
-    "missions.johnson_valley.arrive.outlandervalet.outroText": "Great job!",
 
     "missions.automation_test_track.delivery.junker.title": "Cafe Dump Run",
     "missions.automation_test_track.delivery.junker.description": "Get as many items to the finish as you can.",
@@ -2661,18 +2686,14 @@
     "missions.west_coast_usa.timeTrial.gearsplitclimb.title": "Gear Split Climb",
     "missions.west_coast_usa.timeTrial.gearsplitclimb.description": "Climb to the top of the hill as fast as you can.",
     "missions.west_coast_usa.timeTrial.gearsplitclimb.startScreenText": "Get to the top of the hill as quickly as you can.  You will need to make good use of the gearbox and drivetrain to get the fastest time.  The key is to avoid hitting the rev limiter at all times.",
-    "missions.west_coast_usa.timeTrial.gearsplitclimb.endScreenText": "Nice run!",
 
     "missions.west_coast_usa.arrive.Gas.title": "Gas Runner",
     "missions.west_coast_usa.arrive.Gas.description": "Deliver some contaminated fuel to the refinery.",
-    "missions.west_coast_usa.arrive.Gas.introTitleText": "Gas Runner",
     "missions.west_coast_usa.arrive.Gas.introText": "This gas station was given some bad petroleum and it needs taking back to the refinery.",
-    "missions.west_coast_usa.arrive.Gas.outroText": "Good job.",
 
     "missions.johnson_valley.timeTrial.desertstage.title": "Desert Rally Stage",
     "missions.johnson_valley.timeTrial.desertstage.description": "A fast route across the desert in a rally car.",
     "missions.johnson_valley.timeTrial.desertstage.startScreenText": "Keep your foot down and charge to the end of the route, located on the highway.",
-    "missions.johnson_valley.timeTrial.desertstage.endScreenText": "Run complete!",
 
     "missions.automation_test_track.delivery.Cafesupplies.title": "Cafe Supplies",
     "missions.automation_test_track.delivery.Cafesupplies.description": "Deliver the shopfit supplies to the top of the hill.",
@@ -2966,7 +2987,6 @@
     "missions.industrial.timeTrial.PortTT.title": "Dockside Dart",
     "missions.industrial.timeTrial.PortTT.description": "A tight time trial around the port.",
     "missions.industrial.timeTrial.PortTT.startScreenText": "Keep on your toes for this technical course through the port.",
-    "missions.industrial.timeTrial.PortTT.endScreenText": "Run complete!",
 
     "missions.west_coast_usa.collection.downtownrush.title": "Downtown Rush",
     "missions.west_coast_usa.collection.downtownrush.description": "Collect all the cash bags from around the downtown area.",
@@ -2974,9 +2994,7 @@
 
     "missions.derby.aiRace.Flag.title": "Flag Pole Derby",
     "missions.derby.aiRace.Flag.description": "An oval race with an inloop.",
-    "missions.derby.aiRace.Flag.startTitle": "AI Race",
     "missions.derby.aiRace.Flag.startText": "Race against some speedy opponents!",
-    "missions.derby.aiRace.Flag.damageFailText": "You got wrecked!",
 
     "missions.utah.collection.G500Campsite.title": "Campsite Cleanup - {{'ui.names.g500.name' | translate}}",
     "missions.utah.collection.G500Campsite.description": "Collection across the desert from the camp site.",
@@ -2985,7 +3003,6 @@
     "missions.utah.timeTrial.G500Gambler.title": "{{'ui.names.hx.name' | translate}} Utah - {{'ui.names.g500.name' | translate}}",
     "missions.utah.timeTrial.G500Gambler.description": "A timed circuit race on mixed surfaces.",
     "missions.utah.timeTrial.G500Gambler.startScreenText": "In this timed run you will need to make two laps of the circuit. There is a section of fast asphalt, so prepare for some varied traction.",
-    "missions.utah.timeTrial.G500Gambler.endScreenText": "Run complete.",
 
     "missions.small_island.collection.G500Pollution.title": "Pollution at the Dock - {{'ui.names.g500.name' | translate}}",
     "missions.small_island.collection.G500Pollution.description": "A technical collection of trash bags at the port.",
@@ -2994,12 +3011,10 @@
     "missions.industrial.timeTrial.G500Catwalk.title": "Catwalk Capers - {{'ui.names.g500.name' | translate}}",
     "missions.industrial.timeTrial.G500Catwalk.description": "A technical time trial circuit with a twist, turns and a jump.",
     "missions.industrial.timeTrial.G500Catwalk.startScreenText": "Will you take on the catwalk? This course will take you through the tank farm without ease.",
-    "missions.industrial.timeTrial.G500Catwalk.endScreenText": "Run finished.",
 
     "missions.small_island.timeTrial.G500Gambler.title": "{{'ui.names.hx.name' | translate}} Small Island - {{'ui.names.g500.name' | translate}}",
     "missions.small_island.timeTrial.G500Gambler.description": "A dirt circuit time trial.",
     "missions.small_island.timeTrial.G500Gambler.startScreenText": "Two laps of the inner loop here on the island is order of the day. Maintaining speed as much as possible will be imperative to a good result.",
-    "missions.small_island.timeTrial.G500Gambler.endScreenText": "Run finished.",
 
     "missions.industrial.collection.G500Race.title": "Race Day Renovations - {{'ui.names.g500.name' | translate}}",
     "missions.industrial.collection.G500Race.description": "A high speed collection, spanned over two neighboring race tracks.",
@@ -3012,12 +3027,10 @@
     "missions.east_coast_usa.timeTrial.G500Cuckoo.title": "Cuckoo Sprint - {{'ui.names.g500.name' | translate}}",
     "missions.east_coast_usa.timeTrial.G500Cuckoo.description": "A short, technical run through the woods in the Poogeon.",
     "missions.east_coast_usa.timeTrial.G500Cuckoo.startScreenText": "This run will give you wings, if you are brave enough.",
-    "missions.east_coast_usa.timeTrial.G500Cuckoo.endScreenText": "Run complete.",
 
     "missions.small_island.timeTrial.G500Rough.title": "Rough Road Test - {{'ui.names.g500.name' | translate}}",
     "missions.small_island.timeTrial.G500Rough.description": "A short, technical and rocky hotlap spot.",
     "missions.small_island.timeTrial.G500Rough.startScreenText": "Although not long, this route will fight back if you aren't prepared for some tight gaps and large bumps.",
-    "missions.small_island.timeTrial.G500Rough.endScreenText": "Run finished!",
 
     "missions.small_island.scatterPickup.G500Trash.title": "Litter Liberator - {{'ui.names.g500.name' | translate}}",
     "missions.small_island.scatterPickup.G500Trash.description": "Pick up trash that's been left over the island.",
@@ -3030,7 +3043,6 @@
     "missions.johnson_valley.timeTrial.G500Track.title": "Track Day - {{'ui.names.g500.name' | translate}}",
     "missions.johnson_valley.timeTrial.G500Track.description": "A timed run on the shortcourse circuit.",
     "missions.johnson_valley.timeTrial.G500Track.startScreenText": "Take the car to edge of traction and get it around the course as fast as you can.",
-    "missions.johnson_valley.timeTrial.G500Track.endScreenText": "Run finished.",
 
     "missions.industrial.delivery.G500Motor.title": "Motor Head - {{'ui.names.g500.name' | translate}}",
     "missions.industrial.delivery.G500Motor.description": "Deliver a dangerous load of junk.",
@@ -3043,23 +3055,18 @@
     "missions.johnson_valley.timeTrial.G500Toughmans.title": "Toughmans Trail - {{'ui.names.g500.name' | translate}}",
     "missions.johnson_valley.timeTrial.G500Toughmans.description": "A long stage on the toughest roads of the desert.",
     "missions.johnson_valley.timeTrial.G500Toughmans.startScreenText": "This route will be very tough on the car. A mix of focus and mechanical sympathy will be important here.",
-    "missions.johnson_valley.timeTrial.G500Toughmans.endScreenText": "Run complete!",
 
     "missions.jungle_rock_island.timeTrial.G500Tropical.title": "Tropical Toboggan - {{'ui.names.g500.name' | translate}}",
     "missions.jungle_rock_island.timeTrial.G500Tropical.description": "Get to the bottom of the muddy slope.",
     "missions.jungle_rock_island.timeTrial.G500Tropical.startScreenText": "This stage is not for the faint of heart. Wrestle the Covet to the bottom of the hill on very slippery roads.",
-    "missions.jungle_rock_island.timeTrial.G500Tropical.endScreenText": "Run finished!",
 
     "missions.jungle_rock_island.aiRace.G500jungle.title": "Jungle Rumble - {{'ui.names.g500.name' | translate}}",
     "missions.jungle_rock_island.aiRace.G500jungle.description": "An end to end race through tough jungle terrain.",
-    "missions.jungle_rock_island.aiRace.G500jungle.startTitle": "Jungle Rumble",
     "missions.jungle_rock_island.aiRace.G500jungle.startText": "Battle your way through the jungle and down the beach.",
-    "missions.jungle_rock_island.aiRace.G500jungle.damageFailText": "You got wrecked!",
 
     "missions.jungle_rock_island.timeTrial.G500Pottyshaker.title": "Potty Shaker - {{'ui.names.g500.name' | translate}}",
     "missions.jungle_rock_island.timeTrial.G500Pottyshaker.description": "A rough road with the Poogeon.",
     "missions.jungle_rock_island.timeTrial.G500Pottyshaker.startScreenText": "Rocks, mud and trees make this route very technical. Carrying speed is the key to a good time.",
-    "missions.jungle_rock_island.timeTrial.G500Pottyshaker.endScreenText": "Run finished.",
 
     "missions.jungle_rock_island.delivery.G500Enginious.title": "Enginious - {{'ui.names.g500.name' | translate}}",
     "missions.jungle_rock_island.delivery.G500Enginious.description": "Deliver a bunch of old engines.",
@@ -3068,7 +3075,6 @@
     "missions.west_coast_usa.timeTrial.Spearloop.title": "Spearleaf Loop",
     "missions.west_coast_usa.timeTrial.Spearloop.description": "A route around the outside of Spearleaf Island.",
     "missions.west_coast_usa.timeTrial.Spearloop.startScreenText": "Keep your speed up for this technical ring road.",
-    "missions.west_coast_usa.timeTrial.Spearloop.endScreenText": "Run complete!",
 
     "missions.west_coast_usa.collection.Stolensteel.title": "Stolen Steel",
     "missions.west_coast_usa.collection.Stolensteel.description": "Collect all the steel parts from around the foundry.",
@@ -3087,7 +3093,6 @@
 
     "missions.heistM.italy.title": "Il furto di Castelleto",
     "missions.heistM.italy.description": "Prepare and carry out a heist mission in one of the spots marked. Steal a vehicle, go to the marked spot and escape.",
-    "missions.heistM.italy.startTitle": "Il furto di Castelleto",
     "missions.heistM.italy.startDescription": "Prepare and carry out a robbery in one of the points marked by the bosses in this level.\nSteal a vehicle located near the start, go to the marked place\n where the robbery will take place and escape to the place marked as the escape point.\n Throughout the mission you will be a suspect for the police,\n so try to be as discreet as possible or evade the police before continuing with the mission",
 
     "missions.heistM.attemptTitle": "Heist at {{heist}}.",
@@ -3405,10 +3410,28 @@
     "scenarios.gridmapv2.mountain.resultBronze": "You did it! Even after using a handful of resets, you managed to collect all markers. Well done!",
     "scenarios.gridmapv2.mountain.resultWood": "You did it! You used a lot of retries, but still made it to the top, which is by itself already very difficult. Well done!",
 
+    "missions.jungle_rock_island.rallyStage.ss-howler-pass.title": "SS Howler Pass",
+    "missions.jungle_rock_island.rallyStage.ss-howler-pass.description": "A demanding, narrow stage that leaves no room for errors. Bumpy sections along a dirt trail, with some muddy patches, require drivers to prioritize risk management over outright pace. You can pick your vehicle on the mission start screen.",
+    "missions.italy.rallyStage.ss-fastello-norte.title": "SS Fastello-Norte",
+    "missions.italy.rallyStage.ss-fastello-norte.description": "An all-tarmac stage starting in the streets of Fastello before flowing onto a coastal road, where the expertise of locals in cutting corners can make all the difference. The final section rewards drivers with a chance to unleash top speed.",
+    "missions.automation_test_track.rallyStage.ss-clyde-peak.title": "SS Clyde Peak",
+    "missions.automation_test_track.rallyStage.ss-clyde-peak.description": "Cold tarmac transitions into icy roads and snow-lined corners on this climb to the dam, where gutters tempt uphill specialists with potential gains but risk wreaking havoc on the running gear.",
+
+    "missions.small_island.delivery.vintagehauler.title": "Vintage Hauler",
+    "missions.small_island.delivery.vintagehauler.description": "Pick up a trailer from the hill and deliver it to the research station.",
+    "missions.small_island.delivery.vintagehauler.introMessage": "Take the load of logs to the Research Center, but pick up the trailer from the hill on the way. Drive carefully though, since this amount of weight will be a struggle for the old Nine.  It's a cold foggy morning so keep your whits about you.",
+
+    "missions.utah.chase.moonshinerunner.title": "Bootleg Runner",
+    "missions.utah.chase.moonshinerunner.description": "Chase down the bootlegger and recover the stash!",
+    "missions.utah.chase.moonshinerunner.startText": "A bootlegger thought we were clueless about their stash location. We just had to bide our time until they showed up with the goods, and now’s the moment to strike. Try to keep their vehicle intact—there might be more evidence inside.",
+
+    "missions.east_coast_usa.aiRace.hotrodclub.title": "Hotrod Club",
+    "missions.east_coast_usa.aiRace.hotrodclub.description": "Race in the Hotrod Club event on a technical street course.",
+    "missions.east_coast_usa.aiRace.hotrodclub.startText": "Take on the club on this technical street course.",
+
     "missions.johnson_valley.timeTrial.Auratatestday.title": "Aurata Test Day",
     "missions.johnson_valley.timeTrial.Auratatestday.description": "You are invited to test out the Aurata on a tough trail.",
     "missions.johnson_valley.timeTrial.Auratatestday.startScreenText": "Attempt to successfully navigate this Sports Turbo spec Aurata UTV to the trail's end. Take special care in the middle section of the trial. For an added challenge, experiment with the reverse configuration.",
-    "missions.johnson_valley.timeTrial.Auratatestday.endScreenText": "",
 
     "missions.west_coast_usa.collection.Superhighway.title": "Superhighway Sweep",
     "missions.west_coast_usa.collection.Superhighway.description": "Race down the highway collecting markers.",
@@ -3417,7 +3440,6 @@
     "missions.jungle_rock_island.timeTrial.Mudslide.title": "Mudslide Gladiator",
     "missions.jungle_rock_island.timeTrial.Mudslide.description": "A long and very muddy trail in the Wild Aurata.",
     "missions.jungle_rock_island.timeTrial.Mudslide.startScreenText": "Is mud your thing?  This long, challenging trail in the Aurata may change your mind.",
-    "missions.jungle_rock_island.timeTrial.Mudslide.endScreenText": "Run complete!",
 
     "missions.automation_test_track.collection.woods.title": "Forest Fumble",
     "missions.automation_test_track.collection.woods.description": "Collect the goodies from the dark woods.",
@@ -3426,13 +3448,10 @@
     "missions.automation_test_track.timeTrial.rally1.title": "Mixed Rally Stage",
     "missions.automation_test_track.timeTrial.rally1.description": "A realistic length, mixed surface, rally stage.",
     "missions.automation_test_track.timeTrial.rally1.startScreenText": "This rally stage will test the most dedicated of drivers.  Taking advantage of the great features on this map, this route is fast, tight and full of danger.",
-    "missions.automation_test_track.timeTrial.rally1.endScreenText": "Congratulations! How much time can you take off next time?",
 
     "missions.automation_test_track.aiRace.main1.title": "BeamNG Sports Race",
     "missions.automation_test_track.aiRace.main1.description": "Race around the main course.",
-    "missions.automation_test_track.aiRace.main1.startTitle": "Sports Model Race",
     "missions.automation_test_track.aiRace.main1.startText": "Take on the field of sports models for the showdown of the best.",
-    "missions.automation_test_track.aiRace.main1.damageFailText": "You failed the race!",
 
     "missions.automation_test_track.collection.factoryfetcher.title": "Factory Fetcher",
     "missions.automation_test_track.collection.factoryfetcher.description": "Collect the engine parts.",
@@ -3441,12 +3460,11 @@
     "missions.automation_test_track.crawl.climb.title": "Trail Glacier",
     "missions.automation_test_track.crawl.climb.description": "Climb the mountain.",
     "missions.automation_test_track.crawl.climb.startScreenText": "Can you make this trail to the top?",
-    "missions.automation_test_track.crawl.climb.introText": "<br><br>Your goal is to reach the end of the crawling course. If you leave the area for 5 seconds, you will fail the mission.<br>Reaching a [color=#ffff00][b]yellow checkpoint [/color][/b] will create a new recovery position. Use [action=reset_physics] or the Menu to recover to your latest recovery position. You can restart the mission by resetting again after recovery, or using the Menu.",
+    "missions.automation_test_track.crawl.climb.introText": "Your goal is to reach the end of the crawling course. If you leave the area for 5 seconds, you will fail the mission.<br>Reaching a [color=#ffff00][b]yellow checkpoint[/b][/color] will create a new recovery position. Use [action=reset_physics] or the Menu to recover to your latest recovery position. You can restart the mission by resetting again after recovery, or using the Menu.",
 
     "missions.automation_test_track.timeTrial.dirt1.title": "Hill top Test Course",
     "missions.automation_test_track.timeTrial.dirt1.description": "Hill top dirt track.",
     "missions.automation_test_track.timeTrial.dirt1.startScreenText": "Take on this technical hill top test track.",
-    "missions.automation_test_track.timeTrial.dirt1.endScreenText": "You finished the hilltop run.",
 
     "missions.johnson_valley.crawl.Van.title": "Van der Waals' Vertigo",
     "missions.johnson_valley.crawl.Van.description": "Can you make the Geko stick?",
@@ -3490,7 +3508,7 @@
 
     "missions.johnson_valley.collection.Mojave.title": "Mojave Mosey",
     "missions.johnson_valley.collection.Mojave.description": "Collect all the markers before the timer runs out!",
-    "missions.johnson_valley.collection.Mojave.introText": "As a new recruit for the local emergency response team, you must pass the vehicle training exercise. Traverse the area in search of the markers. Be careful when you advance through the larger rocks; the fire truck may be powerful, but it is also very heavy. Good luck and watch out!",
+    "missions.johnson_valley.collection.Mojave.introText": "As a new recruit for the local emergency response team, you must pass the vehicle training exercise. Traverse the area in search of the markers. Be careful when you advance through the larger rocks; the fire truck may be powerful, but it is also very heavy.",
 
     "missions.johnson_valley.collection.Dusty.title": "Dusty Dash",
     "missions.johnson_valley.collection.Dusty.description": "Collect all the markers as fast as possible.",
@@ -3506,27 +3524,18 @@
 
     "missions.johnson_valley.chase.chase1.title": "Pit Robber",
     "missions.johnson_valley.chase.chase1.description": "Chase down the suspect robber.",
-    "missions.johnson_valley.chase.chase1.startTitle": "Pit Robber",
     "missions.johnson_valley.chase.chase1.startText": "There has been a report of someone rooting through the remote pit station.  Go check it out.",
-    "missions.johnson_valley.chase.chase1.timeFailText": "You ran out of time!",
-    "missions.johnson_valley.chase.chase1.distanceWarnText": "You're falling behind!",
-    "missions.johnson_valley.chase.chase1.distanceFailText": "You lost track of the suspect!",
-    "missions.johnson_valley.chase.chase1.damageFailText": "You got too much damage to continue!",
-    "missions.johnson_valley.chase.chase1.hideoutFailText": "The suspect arrived at their secret hideout!",
 
     "missions.johnson_valley.aiRace.smallshortcourse.title": "Short Course Race - Small Config",
     "missions.johnson_valley.aiRace.smallshortcourse.description": "Short Course Race - Small config",
-    "missions.johnson_valley.aiRace.smallshortcourse.startTitle": "Short Course Race",
     "missions.johnson_valley.aiRace.smallshortcourse.startText": "Race the AI on the small config of the short course.",
 
     "missions.johnson_valley.aiRace.bigshortcourse.title": "Short Course Race - Large Config",
     "missions.johnson_valley.aiRace.bigshortcourse.description": "Short Course Race - Large config",
-    "missions.johnson_valley.aiRace.bigshortcourse.startTitle": "Short Course Race",
     "missions.johnson_valley.aiRace.bigshortcourse.startText": "We're ready to start the race!",
 
     "missions.johnson_valley.aiRace.race1.title": "Sunset Sprint",
     "missions.johnson_valley.aiRace.race1.description": "Last one back to the paddock has to buy the food!",
-    "missions.johnson_valley.aiRace.race1.startTitle": "Sunset Sprint",
     "missions.johnson_valley.aiRace.race1.startText": "The gang wants to race back to the paddock. Apparently, last one back has to buy the chili dogs.",
 
     "missions.johnson_valley.hypermiling.middleofnowhere.title": "Middle of Nowhere",
@@ -3550,32 +3559,26 @@
     "missions.johnson_valley.timeTrial.enduro.title": "Orbital Expedition",
     "missions.johnson_valley.timeTrial.enduro.description": "Can you survive the deep desert?",
     "missions.johnson_valley.timeTrial.enduro.startScreenText": "Take the ring road around the Johnson Valley area. You will need to traverse the desert but you will not encounter many rocks.",
-    "missions.johnson_valley.timeTrial.enduro.endScreenText": "Did the sand get everywhere?",
 
     "missions.johnson_valley.timeTrial.Broken.title": "Broken Arrow",
     "missions.johnson_valley.timeTrial.Broken.description": "A high-speed blast down the main road.",
     "missions.johnson_valley.timeTrial.Broken.startScreenText": "Make a high-speed run down the main road.",
-    "missions.johnson_valley.timeTrial.Broken.endScreenText": "Great job!",
 
     "missions.johnson_valley.timeTrial.rally1.title": "Calamity Peak Sprint",
     "missions.johnson_valley.timeTrial.rally1.description": "Take this fearsome route to the center of the map. You will need some serious kit if you want to achieve a respectable time.",
     "missions.johnson_valley.timeTrial.rally1.startScreenText": "Calamity Peak is a treacherous mountain, but that doesn't mean it can't be conquered! Weave your way through exhilarating desert race track around the mountain and get to the checkpoints as quick as you can.",
-    "missions.johnson_valley.timeTrial.rally1.endScreenText": "Congratulations! You've conquered the Calamity Sprint!",
 
     "missions.johnson_valley.timeTrial.dunerace.title": "Dune Rally",
     "missions.johnson_valley.timeTrial.dunerace.description": "Find your way to the checkpoints as fast as you can!",
     "missions.johnson_valley.timeTrial.dunerace.startScreenText": "Run this open desert event where you just need to get to the checkpoints as fast as you can, with no set route.",
-    "missions.johnson_valley.timeTrial.dunerace.endScreenText": "You made it!",
 
     "missions.johnson_valley.aiRace.baja1.title": "Tumbleweed Tussle",
     "missions.johnson_valley.aiRace.baja1.description": "Show the locals how it's done!",
-    "missions.johnson_valley.aiRace.baja1.startTitle": "Tumbleweed Tussle",
     "missions.johnson_valley.aiRace.baja1.startText": "The locals like this spot for baja style sprint racing. Show them how it's done!",
 
     "missions.johnson_valley.timeTrial.rally2.title": "Crankshaft Pass",
     "missions.johnson_valley.timeTrial.rally2.description": "A high speed offroad time trail with a long straight and technical sections.",
     "missions.johnson_valley.timeTrial.rally2.startScreenText": "Can you handle the speed of this course? Of course you can!",
-    "missions.johnson_valley.timeTrial.rally2.endScreenText": "Well done, can you go faster?",
 
     "missions.gridmapv2.climbforlife.title": "A Climb For Life",
     "missions.gridmapv2.climbforlife.description": "To arrive up the hill, a sturdy machine is a must. Grab a four wheel-drive and heavy vehicle because there is no way to avoid all of the falling debris",
@@ -3688,19 +3691,19 @@
     "missions.crawl.general.win": "You've made it!",
     "missions.crawl.general.introTipsGoodluck": "Good Luck!",
 
-    "missions.crawl.general.introTipsPointsAndRecovery": "<br><br>Your goal is to reach the end of the course and to get the least penalty points. You start with 0 penalty points, and gain points for the following infractions:<ul><li>Using reverse: +1 point</li><li>Touching a prop: +5 points</li><li>Rollover or damaging the vehicle: +5 points</li><li>Using a recovery checkpoint: +10 points</li><li>Leaving the area: +10 points</li><ul><br>If you leave the area for 5 seconds, you will fail the challenge.<br>Reaching a [color=#ffff00][b]yellow checkpoint [/color][/b] will create a new recovery position and subtract 10 penalty points. Use [action=reset_physics] or the Menu to recover to your latest recovery position. You can restart the challenge by resetting again after recovery, or using the Menu.",
+    "missions.crawl.general.introTipsPointsAndRecovery": "Your goal is to reach the end of the course and to get the least penalty points. You start with 0 penalty points, and gain points for the following infractions:<ul><li>Using reverse: +1 point</li><li>Touching a prop: +5 points</li><li>Rollover or damaging the vehicle: +5 points</li><li>Using a recovery checkpoint: +10 points</li><li>Leaving the area: +10 points</li></ul><br>If you leave the area for 5 seconds, you will fail the challenge.<br>Reaching a [color=#ffff00][b]yellow checkpoint[/b][/color] will create a new recovery position and subtract 10 penalty points. Use [action=reset_physics] or the Menu to recover to your latest recovery position. You can restart the challenge by resetting again after recovery, or using the Menu.",
 
-    "missions.crawl.general.introTipsPointsOnly": "<br><br>Your goal is to reach the end of the course and to get the least penalty points. You start with 0 penalty points, and gain points for the following infractions:<ul><li>Using reverse: +1 point</li><li>Touching a prop: +5 points</li><li>Rollover or damaging the vehicle: +5 points</li><li>Leaving the area: +10 points</li><ul><br>If you leave the area for 5 seconds, you will fail the challenge.",
+    "missions.crawl.general.introTipsPointsOnly": "Your goal is to reach the end of the course and to get the least penalty points. You start with 0 penalty points, and gain points for the following infractions:<ul><li>Using reverse: +1 point</li><li>Touching a prop: +5 points</li><li>Rollover or damaging the vehicle: +5 points</li><li>Leaving the area: +10 points</li></ul><br>If you leave the area for 5 seconds, you will fail the challenge.",
 
-    "missions.crawl.general.introTipsRecoveryOnly": "<br><br>Your goal is to reach the end of the crawling course. If you leave the area for 5 seconds, you will fail the challenge.<br>Reaching a [color=#ffff00][b]yellow checkpoint [/color][/b] will create a new recovery position. Use [action=reset_physics] or the Menu to recover to your latest recovery position. You can restart the challenge by resetting again after recovery, or using the Menu.",
+    "missions.crawl.general.introTipsRecoveryOnly": "Your goal is to reach the end of the crawling course. If you leave the area for 5 seconds, you will fail the challenge.<br>Reaching a [color=#ffff00][b]yellow checkpoint[/b][/color] will create a new recovery position. Use [action=reset_physics] or the Menu to recover to your latest recovery position. You can restart the challenge by resetting again after recovery, or using the Menu.",
 
     "missions.crawl.general.introTipsNoPointsNoRecovery": "<br><br>Your goal is to reach the end of the crawling course. If you leave the area for 5 seconds, you will fail the challenge.",
 
     "missions.crawl.general.introTipsNoPoints": "<br>Good Luck!",
     "missions.crawl.general.resetFull": "Out of Bounds! Press [action=reset_physics] to restart the challenge.",
-    "missions.crawl.general.resetCheckpoint": "Out of Bounds! Press [action=reset_physics] to reset back to your last [color=#ffff00][b]Recovery Checkpoint[/color][/b].",
+    "missions.crawl.general.resetCheckpoint": "Out of Bounds! Press [action=reset_physics] to reset back to your last [color=#ffff00][b]Recovery Checkpoint[/b][/color].",
     "missions.crawl.general.restart": "Reset again to restart the race.",
-    "missions.crawl.general.recoveryReached": "[color=#ffff00][b]Recovery Checkpoint [/color][/b] Reached!",
+    "missions.crawl.general.recoveryReached": "[color=#ffff00][b]Recovery Checkpoint[/b][/color] Reached!",
 
     "missions.crawl.general.outOfBounds": "Out of bounds!",
     "missions.crawl.general.returnToArea": "Out of boundaries, you have {{timer}} seconds to return to the race.",
@@ -3744,12 +3747,7 @@
 
     "missions.west_coast_usa.evade.escape.title": "Drop n Dive",
     "missions.west_coast_usa.evade.escape.description": "Choose from three cars to take the loot, get away and make the drop.",
-    "missions.west_coast_usa.evade.escape.startTitle": "Dive n Drop",
     "missions.west_coast_usa.evade.escape.startText": "Get away from the constabulary then take the loot and drop it off at the cash stash.",
-    "missions.west_coast_usa.evade.escape.hideoutFailText": "You need to lose the cops first!",
-    "missions.west_coast_usa.evade.escape.dropOffText": "Drop done, now get out of here and lose the tail!",
-    "missions.west_coast_usa.evade.escape.arrestFailText": "You're under arrest!",
-    "missions.west_coast_usa.evade.escape.damageFailText": "Your vehicle got destroyed!",
 
     "scenarios.hirochi_raceway.gm_racetest.title": "Hirochi Quickrace Test",
     "scenarios.hirochi_raceway.gm_racetest.description": "A short series of small jumps.",
@@ -3812,7 +3810,7 @@
     "missions.hirochi_raceway.crawl001.description": "The main crawl course of Hirochi. This one is not too long, and not too risky. However you can easily tip yourself over.",
     "missions.hirochi_raceway.crawl001.startScreen": "Welcome! <br><br> This course is around 10 minutes long, a bit technical but not so much! <br><br> Have fun!",
 
-    "missions.hirochi_raceway.drift.Pro.title": "Drift exhibition",
+    "missions.hirochi_raceway.drift.Pro.title": "Drift Exhibition",
     "missions.hirochi_raceway.drift.Pro.description": "Take on the championship drift stage at Hirochi Raceway.",
     "missions.hirochi_raceway.drift.Pro.starOutroTexts.bronze": "Keep practicing!",
     "missions.hirochi_raceway.drift.Pro.starOutroTexts.silver": "Great run keep trying and go for the gold!",
@@ -3837,6 +3835,15 @@
     "missions.hirochi_raceway.drift.grandopendrift.title": "Grand Open Drift",
     "missions.hirochi_raceway.drift.grandopendrift.description": "Score as many points using the entire race facility.",
 
+    "missions.drift.west_coast_usa.singleSwing.title": "Single swing",
+    "missions.drift.west_coast_usa.singleSwing.description": "Welcome to the introductory drift series! For your first drift challenge you have to perform one single right drift through 2 gates. Achieve this to gain access to the next drift challenge.",
+    "missions.drift.west_coast_usa.singleSwing.intro": "Remain in second gear during your entire drift, keep the drift angle as little as possible to avoid spining around, and do not hesitate to decelerate when needed.",
+
+    "missions.drift.west_coast_usa.stuntZones.title": "Corkscrew",
+    "missions.drift.west_coast_usa.stuntZones.description": "In this second drift challenge, you will be introduced to the other stunt zones types. In order to qualify, you will have to go through one gate, one donut zone, and strike a pylon mid-drift.",
+    "missions.drift.west_coast_usa.stuntZones.intro": "You can engage the handbrake or do a clutch kick to initiate a drift. <br> Don't forget that you have to hit all three stunt zones (The gate, the donut zone, the pole to hit) in order to qualify",
+
+
     "missions.drift.west_coast_usa.bridge.title": "Highway Bend",
     "missions.drift.west_coast_usa.bridge.description": "We placed custom bumpers on your vehicle so the damages don't come up to be too expensive. You only have to drift through one tight bend.",
     "missions.drift.west_coast_usa.bridge.tip": "If you are using the default vehicle, be gentle with the throttle. This vehicle tends to oversteer quickly. <br><br>",
@@ -3851,134 +3858,93 @@
     "missions.johnson_valley.crawl.Hard.title": "Hard Rocker",
     "missions.johnson_valley.crawl.Hard.description": "Take the offroad capable MD-Series around a formidable route through some rock gardens.",
     "missions.johnson_valley.crawl.Hard.startScreenText": "Take this beast out on a trail that will push it's capabilities to the limit.",
-    "missions.johnson_valley.crawl.Hard.introText": "<br><br>Your goal is to reach the end of the crawling course. If you leave the area for 5 seconds, you will fail the challenge.<br>Reaching a [color=#ffff00][b]yellow checkpoint [/color][/b] will create a new recovery position. Use [action=reset_physics] or the Menu to recover to your latest recovery position. You can restart the challenge by resetting again after recovery, or using the Menu.",
+    "missions.johnson_valley.crawl.Hard.introText": "Your goal is to reach the end of the crawling course. If you leave the area for 5 seconds, you will fail the challenge.<br>Reaching a [color=#ffff00][b]yellow checkpoint[/b][/color] will create a new recovery position. Use [action=reset_physics] or the Menu to recover to your latest recovery position. You can restart the challenge by resetting again after recovery, or using the Menu.",
 
     "missions.industrial.arrive.Platform.title": "Platform Jump",
     "missions.industrial.arrive.Platform.description": "Take an Ibishu Covet rally car on a flying journey over a series of raised platforms.",
-    "missions.industrial.arrive.Platform.introTitleText": "Platform Jump",
     "missions.industrial.arrive.Platform.introText": "Take an Ibishu Covet rally car on a flying journey over a series of raised platforms.",
-    "missions.industrial.arrive.Platform.outroText": "You Did It!",
 
     "missions.cliff.arrive.Get.title": "Get Down",
     "missions.cliff.arrive.Get.description": "Try to control the descent of your Gavril D15 and reach the beach checkpoint. Or, just hurtle off the cliff and hope for the best.",
-    "missions.cliff.arrive.Get.introTitleText": "Get Down",
     "missions.cliff.arrive.Get.introText": "Try to control the descent of your Gavril D15 and reach the beach checkpoint. Or, just hurtle off the cliff and hope for the best.",
-    "missions.cliff.arrive.Get.outroText": "You Did It!",
 
     "missions.east_coast_usa.arrive.Hidden.title": "Hidden Jump",
     "missions.east_coast_usa.arrive.Hidden.description": "Master a hidden jump through the trees in a Gavril Roamer. Careful control of speed and placement is required to survive the jump and make it to the checkpoint.",
-    "missions.east_coast_usa.arrive.Hidden.introTitleText": "Hidden Jump",
     "missions.east_coast_usa.arrive.Hidden.introText": "Master a hidden jump through the trees in a Gavril Roamer. Careful control of speed and placement is required to survive the jump and make it to the checkpoint.",
-    "missions.east_coast_usa.arrive.Hidden.outroText": "You Did It!",
 
     "missions.jungle_rock_island.arrive.Heavy.title": "Heavy Machinery Delivery",
-    "missions.jungle_rock_island.arrive.Heavy.description": "Deliver a new Gavril T-Series Cement Mixer to the local port. There has been a big storm recently that brought a lot of trees down onto the roads, so you will need to follow the specified route to te destination.",
-    "missions.jungle_rock_island.arrive.Heavy.introTitleText": "Heavy Machinery Delivery",
+    "missions.jungle_rock_island.arrive.Heavy.description": "Deliver a new Gavril T-Series Cement Mixer to the local port. There has been a big storm recently that brought a lot of trees down onto the roads, so you will need to follow the specified route to the destination.",
     "missions.jungle_rock_island.arrive.Heavy.introText": "Deliver a new Gavril T-Series Cement Mixer to the local port.",
-    "missions.jungle_rock_island.arrive.Heavy.outroText": "You Did It!",
 
     "missions.east_coast_usa.arrive.Pessima.title": "Pessima Introduction",
     "missions.east_coast_usa.arrive.Pessima.description": "A fun time trial to introduce the 1996 Ibishu Pessima.",
-    "missions.east_coast_usa.arrive.Pessima.introTitleText": "Pessima Introduction",
     "missions.east_coast_usa.arrive.Pessima.introText": "A fun time trial to introduce the 1996 Ibishu Pessima.",
-    "missions.east_coast_usa.arrive.Pessima.outroText": "You Did It!",
 
     "missions.chase.east_coast_usa.Police.title": "Police Pursuit",
     "missions.chase.east_coast_usa.Police.description": "Stop the speeding Hirochi SBR4 with your slower Gavril Grand Marshal Police Interceptor.",
-    "missions.chase.east_coast_usa.Police.startTitle": "Police Pursuit",
     "missions.chase.east_coast_usa.Police.startText": "Stop the speeding Hirochi SBR4 with your slower Gavril Grand Marshal Police Interceptor.",
-    "missions.chase.east_coast_usa.Police.distanceWarnText": "You are falling behind!",
-    "missions.chase.east_coast_usa.Police.distanceFailText": "You lost them.",
 
     "missions.small_island.chase.Small.title": "Small Island Pursuit",
     "missions.small_island.chase.Small.description": "Neutralize the Pessima with your police car.  You can choose from a selection of police cars on the mission setup screen when accessing this mission from freeroam mode.",
-    "missions.small_island.chase.Small.startTitle": "Small Island Pursuit",
     "missions.small_island.chase.Small.startText": "Neutralize the Pessima with your police car.",
-    "missions.small_island.chase.Small.distanceWarnText": "They are getting away!",
-    "missions.small_island.chase.Small.distanceFailText": "They got away.",
 
     "missions.east_coast_usa.chase.Delivery.title": "Delivery Truck Takedown",
     "missions.east_coast_usa.chase.Delivery.description": "Stop the fleeing delivery truck in your Soliad Wendover police car!",
-    "missions.east_coast_usa.chase.Delivery.startTitle": "Delivery Truck Takedown",
     "missions.east_coast_usa.chase.Delivery.startText": "Stop the fleeing delivery truck in your Soliad Wendover police car!",
-    "missions.east_coast_usa.chase.Delivery.distanceWarnText": "They are getting away!",
 
     "missions.east_coast_usa.chase.Destroy.title": "Destroy the Moonhawk",
     "missions.east_coast_usa.chase.Destroy.description": "Destroy the Bruckell Moonhawk, no matter what it takes.",
-    "missions.east_coast_usa.chase.Destroy.startTitle": "Destroy the Moonhawk",
     "missions.east_coast_usa.chase.Destroy.startText": "Destroy the Bruckell Moonhawk, no matter what it takes.",
-    "missions.east_coast_usa.chase.Destroy.distanceWarnText": "You are falling behind!",
-    "missions.east_coast_usa.chase.Destroy.distanceFailText": "You lost them.",
 
     "missions.east_coast_usa.chase.Bank.title": "Bank Robbery",
     "missions.east_coast_usa.chase.Bank.description": "You got a report about a bank robbery in your local town. Respond to the report and stop the fleeing suspect before he reaches his hideout.",
-    "missions.east_coast_usa.chase.Bank.startTitle": "Bank Robbery",
     "missions.east_coast_usa.chase.Bank.startText": "You got a report about a bank robbery in your local town. Respond to the report and stop the fleeing suspect before he reaches his hideout.",
 
     "missions.utah.timeTrial.Downhill.title": "Downhill Rally",
     "missions.utah.timeTrial.Downhill.description": "A mixed surface stage across Utah.",
     "missions.utah.timeTrial.Downhill.startScreenText": "A mixed surface stage across Utah.",
-    "missions.utah.timeTrial.Downhill.endScreenText": "Run complete!",
 
     "missions.east_coast_usa.chase.Muscle.title": "Muscle Pursuit",
     "missions.east_coast_usa.chase.Muscle.description": "A wanted individual has been spotted near the sawmill in a Gavril Barstow. Drive to the location, and stop them!",
-    "missions.east_coast_usa.chase.Muscle.startTitle": "Muscle Pursuit",
     "missions.east_coast_usa.chase.Muscle.startText": "A wanted individual has been spotted in the sawmill in a Gavril Barstow. Drive to the sawmill, and stop them!",
 
     "missions.east_coast_usa.chase.Fuel.title": "Fuel Thief",
     "missions.east_coast_usa.chase.Fuel.description": "The thief just left the gas station. Witnesses say they turned left twice whilst making their escape. Bring them to justice.",
-    "missions.east_coast_usa.chase.Fuel.startTitle": "Fuel Thief",
     "missions.east_coast_usa.chase.Fuel.startText": "The thief just left the gas station. Witnesses say they turned left twice whilst making their escape. Bring them to justice.",
 
     "missions.east_coast_usa.chase.Sporty.title": "Sporty Speeder",
     "missions.east_coast_usa.chase.Sporty.description": "We received reports of a reckless driver in a custom Bruckell Legran. Stop it!",
-    "missions.east_coast_usa.chase.Sporty.startTitle": "Sporty Speeder",
     "missions.east_coast_usa.chase.Sporty.startText": "We received reports of a reckless driver in a custom Bruckell Legran. Stop it!",
-    "missions.east_coast_usa.chase.Sporty.distanceWarnText": "You're falling behind!",
-    "missions.east_coast_usa.chase.Sporty.distanceFailText": "You lost track of the suspect!",
 
     "missions.east_coast_usa.chase.Ran.title": "Ran in a Van",
     "missions.east_coast_usa.chase.Ran.description": "BeamCom still hasn't fixed the internet at the police station. No more waiting on hold, it's time to convince them in person. Stop the van.",
-    "missions.east_coast_usa.chase.Ran.startTitle": "Ran in a Van",
     "missions.east_coast_usa.chase.Ran.startText": "BeamCom still hasn't fixed the internet at the police station. No more waiting on hold, it's time to convince them in person. Stop the van.",
-    "missions.east_coast_usa.chase.Ran.distanceWarnText": "You're falling behind!",
-    "missions.east_coast_usa.chase.Ran.distanceFailText": "You lost track of the suspect!",
 
     "missions.east_coast_usa.chase.Bungled.title": "Bungled Burglar",
     "missions.east_coast_usa.chase.Bungled.description": "A local burglar has been caught in the act. Get to the street where they were spotted and bring them in!",
-    "missions.east_coast_usa.chase.Bungled.startTitle": "Bungled Burglar",
     "missions.east_coast_usa.chase.Bungled.startText": "A local burglar has been caught in the act. Get to the street where they were spotted and bring them in!",
-    "missions.east_coast_usa.chase.Bungled.distanceWarnText": "You're falling behind!",
-    "missions.east_coast_usa.chase.Bungled.distanceFailText": "You lost track of the suspect!",
 
     "missions.east_coast_usa.chase.Vintage.title": "Vintage Interceptor",
     "missions.east_coast_usa.chase.Vintage.description": "Chase down the suspect in the Burnside cop car. Only the best drivers in the precinct are trusted with this old girl.",
-    "missions.east_coast_usa.chase.Vintage.startTitle": "Vintage Interceptor",
     "missions.east_coast_usa.chase.Vintage.startText": "Chase down the suspect in the Burnside cop car. Only the best drivers in the precinct are trusted with this old girl.",
-    "missions.east_coast_usa.chase.Vintage.distanceWarnText": "You're falling behind!",
-    "missions.east_coast_usa.chase.Vintage.distanceFailText": "You lost track of the suspect!",
 
     "missions.utah.crawl.Climbing.title": "Climbing Utah",
     "missions.utah.crawl.Climbing.description": "Crawl through a difficult path to reach the top of the cliff. You'll be at the wheel of a very capable Ibishu Hopper.",
     "missions.utah.crawl.Climbing.startScreenText": "Crawl through a difficult path to reach the top of the cliff. You'll be at the wheel of a very capable Ibishu Hopper.",
-    "missions.utah.crawl.Climbing.introText": "<br><br>Your goal is to reach the end of the crawling course. If you leave the area for 5 seconds, you will fail the challenge.<br>Reaching a [color=#ffff00][b]yellow checkpoint [/color][/b] will create a new recovery position. Use [action=reset_physics] or the Menu to recover to your latest recovery position. You can restart the challenge by resetting again after recovery, or using the Menu.",
+    "missions.utah.crawl.Climbing.introText": "Your goal is to reach the end of the crawling course. If you leave the area for 5 seconds, you will fail the challenge.<br>Reaching a [color=#ffff00][b]yellow checkpoint[/b][/color] will create a new recovery position. Use [action=reset_physics] or the Menu to recover to your latest recovery position. You can restart the challenge by resetting again after recovery, or using the Menu.",
 
     "missions.utah.chase.Cinematic.title": "Cinematic Chase",
     "missions.utah.chase.Cinematic.description": "A high speed battle in the desert between two modern ETK luxury cars.",
-    "missions.utah.chase.Cinematic.startTitle": "Cinematic Chase",
     "missions.utah.chase.Cinematic.startText": "A high speed battle in the desert between two modern ETK luxury cars.",
-    "missions.utah.chase.Cinematic.distanceWarnText": "You're falling behind!",
-    "missions.utah.chase.Cinematic.distanceFailText": "You lost track of the suspect!",
 
     "missions.small_island.crawl.Hopping.title": "Hopping Around",
     "missions.small_island.crawl.Hopping.description": "Drive cross country from checkpoint to checkpoint in a capable Ibishu Hopper.",
     "missions.small_island.crawl.Hopping.startScreenText": "Drive cross country from checkpoint to checkpoint in an Ibishu Hopper Custom.",
-    "missions.small_island.crawl.Hopping.introText": "<br><br>Your goal is to reach the end of the crawling course. If you leave the area for 5 seconds, you will fail the challenge.<br>Reaching a [color=#ffff00][b]yellow checkpoint [/color][/b] will create a new recovery position. Use [action=reset_physics] or the Menu to recover to your latest recovery position. You can restart the challenge by resetting again after recovery, or using the Menu.",
+    "missions.small_island.crawl.Hopping.introText": "Your goal is to reach the end of the crawling course. If you leave the area for 5 seconds, you will fail the challenge.<br>Reaching a [color=#ffff00][b]yellow checkpoint[/b][/color] will create a new recovery position. Use [action=reset_physics] or the Menu to recover to your latest recovery position. You can restart the challenge by resetting again after recovery, or using the Menu.",
 
     "missions.east_coast_usa.timeTrial.Mud.title": "Mud Clump Alley",
     "missions.east_coast_usa.timeTrial.Mud.description": "Take this tricky offroad route through the countryside.",
     "missions.east_coast_usa.timeTrial.Mud.startScreenText": "Take this tricky offroad route through the countryside.",
-    "missions.east_coast_usa.timeTrial.Mud.endScreenText": "Run complete!",
 
     "missions.utah.delivery.Guinea.title": "Guinea Pig Preparations",
     "missions.utah.delivery.Guinea.description": "Transport a scrap vehicle to the top of a cliff in preparation for an upcoming stunt. Take the Ibishu Hopper, it has the towing capacity.",
@@ -3986,42 +3952,34 @@
 
     "missions.west_coast_usa.aiRace.Mountain.title": "Mountain Race",
     "missions.west_coast_usa.aiRace.Mountain.description": "Compete for victory on the twisty mountain roads of West Coast USA.",
-    "missions.west_coast_usa.aiRace.Mountain.startTitle": "Mountain Race",
     "missions.west_coast_usa.aiRace.Mountain.startText": "Compete for victory on the twisty mountain roads of West Coast USA.",
-    "missions.west_coast_usa.aiRace.Mountain.damageFailText": "You got wrecked!",
 
     "missions.west_coast_usa.aiRace.Asphalt.title": "Asphalt Derby Race",
     "missions.west_coast_usa.aiRace.Asphalt.description": "A 5-lap race in the pit lane parking lot.",
-    "missions.west_coast_usa.aiRace.Asphalt.startTitle": "Asphalt Derby Race",
     "missions.west_coast_usa.aiRace.Asphalt.startText": "A 5-lap race in the pit lane parking lot.",
-    "missions.west_coast_usa.aiRace.Asphalt.damageFailText": "You got wrecked!",
 
-    "missions.west_coast_usa.arrive.Picolina.title": "Autobello Piccolina showcase",
+    "missions.west_coast_usa.arrive.Picolina.title": "Autobello Piccolina Showcase",
     "missions.west_coast_usa.arrive.Picolina.description": "A technical time trial around Belasco City showcasing the Autobello Piccolina.",
-    "missions.west_coast_usa.arrive.Picolina.introTitleText": "Autobello Piccolina showcase",
     "missions.west_coast_usa.arrive.Picolina.introText": "A technical time trial around Belasco City showcasing the Autobello Piccolina. Look out for the part where you have to reverse the car in order to make it out of the obstacle.",
-    "missions.west_coast_usa.arrive.Picolina.outroText": "You Did It!",
 
     "missions.small_island.arrive.Island.title": "Island Cross",
     "missions.small_island.arrive.Island.description": "Find your own way to an abandoned structure, then to the top of the mountain. Play it safe by taking the roads, or go cross country for a shorter path. You'll be driving a Gavril Roamer.",
-    "missions.small_island.arrive.Island.introTitleText": "Island Cross",
     "missions.small_island.arrive.Island.introText": "Find your own way to an abandoned structure, then to the top of the mountain. Play it safe by taking the roads, or go cross country for a shorter path. You'll be driving a Gavril Roamer.",
-    "missions.small_island.arrive.Island.outroText": "You Did It!",
 
     "missions.utah.crawl.Leap.title": "Leap of Faith",
     "missions.utah.crawl.Leap.description": "A really challenging crawling track. Down and up the cliffs, finishing with a courageous leap onto a rock pillar!",
     "missions.utah.crawl.Leap.startScreenText": "A really challenging crawling track. Down and up the cliffs, finishing with a courageous leap onto a rock pillar!",
-    "missions.utah.crawl.Leap.introText": "<br><br>Your goal is to reach the end of the crawling course. If you leave the area for 5 seconds, you will fail the challenge.<br>Reaching a [color=#ffff00][b]yellow checkpoint [/color][/b] will create a new recovery position. Use [action=reset_physics] or the Menu to recover to your latest recovery position. You can restart the challenge by resetting again after recovery, or using the Menu.",
+    "missions.utah.crawl.Leap.introText": "Your goal is to reach the end of the crawling course. If you leave the area for 5 seconds, you will fail the challenge.<br>Reaching a [color=#ffff00][b]yellow checkpoint[/b][/color] will create a new recovery position. Use [action=reset_physics] or the Menu to recover to your latest recovery position. You can restart the challenge by resetting again after recovery, or using the Menu.",
 
     "missions.utah.crawl.Dried.title": "Dried Up River Bed",
     "missions.utah.crawl.Dried.description": "In this crawling track, you'll drive up a dried-up river bed, around the bend and back again!",
     "missions.utah.crawl.Dried.startScreenText": "In this crawling track, you'll drive up a dried-up river bed, around the bend and back again!",
-    "missions.utah.crawl.Dried.introText": "<br><br>Your goal is to reach the end of the crawling course. If you leave the area for 5 seconds, you will fail the challenge.<br>Reaching a [color=#ffff00][b]yellow checkpoint [/color][/b] will create a new recovery position. Use [action=reset_physics] or the Menu to recover to your latest recovery position. You can restart the challenge by resetting again after recovery, or using the Menu.",
+    "missions.utah.crawl.Dried.introText": "Your goal is to reach the end of the crawling course. If you leave the area for 5 seconds, you will fail the challenge.<br>Reaching a [color=#ffff00][b]yellow checkpoint[/b][/color] will create a new recovery position. Use [action=reset_physics] or the Menu to recover to your latest recovery position. You can restart the challenge by resetting again after recovery, or using the Menu.",
 
     "missions.utah.crawl.Around.title": "Around the Bend",
     "missions.utah.crawl.Around.description": "This is the first of three crawling tracks. Up a steep rise, then around a cliff bend. Watch for loose rocks!",
     "missions.utah.crawl.Around.startScreenText": "This is the first of three crawling tracks. Up a steep rise, then around a cliff bend. Watch for loose rocks!",
-    "missions.utah.crawl.Around.introText": "<br><br>Your goal is to reach the end of the crawling course. If you leave the area for 5 seconds, you will fail the challenge.<br>Reaching a [color=#ffff00][b]yellow checkpoint [/color][/b] will create a new recovery position. Use [action=reset_physics] or the Menu to recover to your latest recovery position. You can restart the challenge by resetting again after recovery, or using the Menu.",
+    "missions.utah.crawl.Around.introText": "Your goal is to reach the end of the crawling course. If you leave the area for 5 seconds, you will fail the challenge.<br>Reaching a [color=#ffff00][b]yellow checkpoint[/b][/color] will create a new recovery position. Use [action=reset_physics] or the Menu to recover to your latest recovery position. You can restart the challenge by resetting again after recovery, or using the Menu.",
 
     "missions.italy.delivery.Tasti.title": "TastiCola Delivery",
     "missions.italy.delivery.Tasti.description": "Deliver a trailer of TastiCola to the Citta Vecchia shops.",
@@ -4041,16 +3999,11 @@
 
     "missions.industrial.arrive.Nimble.title": "Nimble Pessima",
     "missions.industrial.arrive.Nimble.description": "Try out the Ibishu Pessima ZX with All-Wheel Steering. You'll be taking it through a handling course that requires great maneuverability.",
-    "missions.industrial.arrive.Nimble.introTitleText": "Nimble Pessima",
     "missions.industrial.arrive.Nimble.introText": "Try out the Ibishu Pessima ZX with All-Wheel Steering. You'll be taking it through a handling course that requires great maneuverability.",
-    "missions.industrial.arrive.Nimble.outroText": "You Did It!",
 
     "missions.west_coast_usa.chase.Goliath.title": "Goliath",
     "missions.west_coast_usa.chase.Goliath.description": "A semi truck is causing havoc on the highway.\n\nWe must stop it at all costs! That won't be easy, but you don't have to worry about damaging your vehicle.",
-    "missions.west_coast_usa.chase.Goliath.startTitle": "Goliath",
     "missions.west_coast_usa.chase.Goliath.startText": "A semi truck is causing havoc on the highway.\n\nWe must stop it at all costs! That won't be easy, but you don't have to worry about damaging your vehicle.",
-    "missions.west_coast_usa.chase.Goliath.distanceWarnText": "You're falling behind!",
-    "missions.west_coast_usa.chase.Goliath.distanceFailText": "You lost track of the suspect!",
 
     "missions.gridmap_v2.collection.Collect.title": "Collect Mountain",
     "missions.gridmap_v2.collection.Collect.description": "Collect 15 markers with a Hopper. Use as few resets as possible for the highest score!",
@@ -4115,7 +4068,6 @@
     "missions.italy.timeTrial.peak.title": "Peak Performance",
     "missions.italy.timeTrial.peak.description": "A mixed surface circuit at the top of a hill.",
     "missions.italy.timeTrial.peak.startScreenText": "This course is not for the faint of heart. Are you scared of heights?",
-    "missions.italy.timeTrial.peak.endScreenText": "Great job! You are at peak performance!",
 
     "missions.italy.drift001.title": "Slithery Drift",
     "missions.italy.drift001.description": "The road is very narrow and will require you to be precise with your controls.",
@@ -4418,7 +4370,6 @@
     "missions.west_coast_usa.timeTrial.Alleyway.title": "Alleyway Hillclimb",
     "missions.west_coast_usa.timeTrial.Alleyway.description": "A hillclimb with a twist",
     "missions.west_coast_usa.timeTrial.Alleyway.startScreenText": "Take the difficult route through the center to the top of the course.",
-    "missions.west_coast_usa.timeTrial.Alleyway.endScreenText": "You reached the top!",
 
     "missions.west_coast_usa.collection.Lot.title": "Lot Lunacy",
     "missions.west_coast_usa.collection.Lot.description": "Grab the markers!",
@@ -4762,7 +4713,6 @@
     "missions.small_island.timeTrial.Small.title": "Small Island Sprint",
     "missions.small_island.timeTrial.Small.description": "Race around the beaches of the island.  Be careful not to get stuck in the cave!",
     "missions.small_island.timeTrial.Small.startScreenText": "Take to the sand! Watch out for the cave section though, don't get stuck!",
-    "missions.small_island.timeTrial.Small.endScreenText": "Run finished!",
 
     "missions.utah.targetjump.bridge.description": "Jump down the cliffside and hit the targets.",
     "missions.utah.targetjump.bridge.title": "Target Jump: Bridge",
@@ -4847,7 +4797,6 @@
 
     "missions.hirochi_raceway.aiRace.derby1.title": "Derby Race",
     "missions.hirochi_raceway.aiRace.derby1.description": "A Figure-8 race in derby configurations.",
-    "missions.hirochi_raceway.aiRace.derby1.startTitle": "Get ready to rumble at the figure-8 derby race.",
     "missions.hirochi_raceway.aiRace.derby1.startText": "Keep your eyes peeled and you may just survive!",
 
     "quickrace.industrial.track_rc_eight.title": "Figure Eight Mixed Circuit",
@@ -5301,93 +5250,63 @@
 
     "missions.arrive.italy.blancoAuto.title": "Blanco Delivery",
     "missions.arrive.italy.blancoAuto.description": "Take a little package and drop it off across the island at our storage shack.",
-    "missions.arrive.italy.blancoAuto.startScreenTitle": "Blanco Delivery",
     "missions.arrive.italy.blancoAuto.startScreenText": "Take this small package and deliver it across the island. <br> <br>It's sensitive so don't get carried away and start playing bumper cars, but we need it there pronto you got it?<br><br> Just show up to the shack and we'll take care of it, don't ask any questions.",
-    "missions.arrive.italy.blancoAuto.endScreenText": "You got it here in one piece, good job, now scram!",
 
     "missions.arrive.italy.escursionismo.title": "Escursionismo",
     "missions.arrive.italy.escursionismo.description": "Treacherous drive along the tops of the Italian mountain ridges!",
-    "missions.arrive.italy.escursionismo.startScreenTitle": "Escursionismo",
     "missions.arrive.italy.escursionismo.startScreenText": "Head down the narrow dirt path to the paved road and take it across the top of the mountain range to finish on a dirt road on the other side. Be careful there are a lot of blind corners and there are fatal cliffsides on all sides!",
-    "missions.arrive.italy.escursionismo.endScreenText": "You survived, great job!",
 
     "missions.arrive.italy.freewayA.title": "Freeway Run 'Route A'",
     "missions.arrive.italy.freewayA.description": "A fun (possibly highspeed!) run along the freeway from one end to the other! You will be driving whichever vehicle you enter the challenge with.",
-    "missions.arrive.italy.freewayA.startScreenTitle": "Freeway Run 'Route A'",
     "missions.arrive.italy.freewayA.startScreenText": "Traverse the entire freeway with light traffic. You have three minutes, but take caution: Damage is being tracked and you will fail if you damage your vehicle too much!",
-    "missions.arrive.italy.freewayA.endScreenText": "Congratulations, you've proven that you can drive on a freeway without destroying your vehicle!",
 
     "missions.arrive.italy.freewayB.title": "Freeway Run 'Route B'",
     "missions.arrive.italy.freewayB.description": "A fun (possibly highspeed!) run along the freeway from one end to the other! ",
-    "missions.arrive.italy.freewayB.startScreenTitle": "Freeway Run 'Route B'",
     "missions.arrive.italy.freewayB.startScreenText": "Traverse the entire freeway with light traffic. You have three minutes, but take caution: Damage is being tracked and you will fail if you damage your vehicle too much!",
-    "missions.arrive.italy.freewayB.endScreenText": "Congratulations, you've proven that you can drive on a freeway without destroying your vehicle!",
 
     "missions.arrive.italy.villaVIP.title": "Villa VIP Delivery",
     "missions.arrive.italy.villaVIP.description": "Drive a VIP to their Villa!",
-    "missions.arrive.italy.villaVIP.startScreenTitle": "Villa VIP Delivery",
     "missions.arrive.italy.villaVIP.startScreenText": "Drive the VIP to their villa, please drive with care and do not speed or you will fail!",
-    "missions.arrive.italy.villaVIP.endScreenText": "You did it!",
 
     "missions.arrive.italy.airport001.title": "Airport Chauffeur - Castle",
     "missions.arrive.italy.airport001.description": "Chauffeur your passenger to the castle.",
-    "missions.arrive.italy.airport001.startScreenTitle": "Castle Chauffeur ",
     "missions.arrive.italy.airport001.startScreenText": "You've picked up a passenger at the airport, they would like a lift to Castelletto!",
-    "missions.arrive.italy.airport001.endScreenText": "It's even more beautiful in person, thanks for the lift!",
 
     "missions.arrive.italy.airport002.title": "Airport Ambulance",
     "missions.arrive.italy.airport002.description": "Deliver a patient to the hospital.",
-    "missions.arrive.italy.airport002.startScreenTitle": "Ambulance",
     "missions.arrive.italy.airport002.startScreenText": "The passenger has been overcome by illness on the flight here. <br><br>Deliver them to the hospital to get them the care they need! ",
-    "missions.arrive.italy.airport002.endScreenText": "The patient thanks you and says that they feel better already!",
 
     "missions.arrive.italy.airport003.title": "Airport Chauffeur - Marina",
     "missions.arrive.italy.airport003.description": "Chauffeur your passenger to the marina.",
-    "missions.arrive.italy.airport003.startScreenTitle": "My Marina",
     "missions.arrive.italy.airport003.startScreenText": "Your customer has landed and has asked to be delivered to their marina.",
-    "missions.arrive.italy.airport003.endScreenText": "Beautiful day to go sailing, thank you!",
 
-    "missions.arrive.italy.airport004.title": "Airport Chauffeur - vehicle Dealership",
+    "missions.arrive.italy.airport004.title": "Airport Chauffeur - Vehicle Dealership",
     "missions.arrive.italy.airport004.description": "Chauffeur your passenger to their new vehicle dealership.",
-    "missions.arrive.italy.airport004.startScreenTitle": "Vehicle Pickup",
     "missions.arrive.italy.airport004.startScreenText": "Your customer has just landed and wants to pickup their new vehicle! <br><br>Deliver them to the dealership.",
-    "missions.arrive.italy.airport004.endScreenText": "Thank you for the lift!",
 
     "missions.arrive.italy.airport005.title": "Airport Chauffeur - Interceptor Delivery",
     "missions.arrive.italy.airport005.description": "Deliver the brand new police interceptor to the police station.",
-    "missions.arrive.italy.airport005.startScreenTitle": "Polizia Delivery",
     "missions.arrive.italy.airport005.startScreenText": "A brand-new police vehicle has arrived, deliver it to the police station. <br><br>Take extreme caution not to damage it en route or you will fail!",
-    "missions.arrive.italy.airport005.endScreenText": "Thank you for the delivery!",
 
     "missions.arrive.italy.portinoTour.title": "Portino to the Top",
     "missions.arrive.italy.portinoTour.description": "A nice and long drive out of Portino to the castle with traffic.",
-    "missions.arrive.italy.portinoTour.startScreenTitle": "Portino Italy ",
     "missions.arrive.italy.portinoTour.startScreenText": "Follow the ground markers around and up the back side of Italy, you will arrive at the gas station near the castle! <br><br>This drive is longer than usual, the Miramar provides a luxurious though possibly treacherous driving experience on this route! Have fun!",
-    "missions.arrive.italy.portinoTour.endScreenText": "You did it!",
 
     "missions.arrive.wcusa.bastionExperience001.title": "Bastion Experience: Certification",
     "missions.arrive.wcusa.bastionExperience001.description": "Bring the Bastion out to the shop near the motorsports park.",
-    "missions.arrive.wcusa.bastionExperience001.startScreenTitle": "Certification",
     "missions.arrive.wcusa.bastionExperience001.startScreenText": "This lightly used Bastion needs to be re-certified! Our guys are too busy fixing all these old Bruckells, so bring it out to the Belasco City Garage near the track so they can give it a look over! <br><br>Don't forget the motorsports park is between here and there, so you need to take a route around it.<br><br> GPS road markers are not activated for this challenge, you'll have to find your own way to your destination!",
-    "missions.arrive.wcusa.bastionExperience001.endScreenText": "Let's get this thing certified and up for sale again!",
 
     "missions.arrive.wcusa.bastionExperience002.title": "Bastion Experience: Drop-off",
     "missions.arrive.wcusa.bastionExperience002.description": "Drop-off a recently-serviced customer vehicle downtown!",
-    "missions.arrive.wcusa.bastionExperience002.startScreenTitle": "Drop-off",
     "missions.arrive.wcusa.bastionExperience002.startScreenText": "A customer has requested that we drop off their Bastion once we have finished servicing it. Bring it out to their downtown residence. <br><br> GPS road markers are not activated for this challenge, you'll have to find your own way to your destination!",
-    "missions.arrive.wcusa.bastionExperience002.endScreenText": "Nothing beats Bruckell's customer service!",
 
     "missions.arrive.wcusa.bastionExperience003.title": "Bastion Experience: Special Drop-off",
     "missions.arrive.wcusa.bastionExperience003.description": "Take the wild Bruckell Bastion Battlehawk out to the countryside!",
-    "missions.arrive.wcusa.bastionExperience003.startScreenTitle": "Special Drop-off",
     "missions.arrive.wcusa.bastionExperience003.startScreenText": "One of Bruckell's most powerful vehicles has just been in for service.  The client is away for the weekend and asked us to drop it off to their countryside home in the hills. <br><br>The easiest way to get there is over the highway. You can turn either left or right on the big intersection in front of the dealership and follow that road.<br><br>Drive with care, this vehicle means business! <br><br> GPS road markers are not activated for this challenge, you'll have to find your own way to your destination!",
-    "missions.arrive.wcusa.bastionExperience003.endScreenText": "Keys are in the mailbox, hopefully nobody notices!",
 
     "missions.arrive.wcusa.bastionExperience004.title": "Bastion Experience: Police Drop-off",
     "missions.arrive.wcusa.bastionExperience004.description": "Drop-off the new Police variant!",
-    "missions.arrive.wcusa.bastionExperience004.startScreenTitle": "Police Drop-off",
     "missions.arrive.wcusa.bastionExperience004.startScreenText": "The new Police Variant has been finished, bring it by the police station downtown to let them admire our work! <br><br> GPS road markers are not activated for this challenge, you'll have to find your own way to your destination!",
-    "missions.arrive.wcusa.bastionExperience004.endScreenText": "People will try to get pulled over by this, just to get a closer look at it!",
 
     "missions.aiRace.general.intro.flips.unlimited": "You can <b>flip</b> your car upright <b>as often as you want</b>. ",
     "missions.aiRace.general.intro.flips.limited": "You can <b>flip</b> your car upright <b>up to {{flipLimit}} times</b>. ",
@@ -5407,8 +5326,11 @@
     "missions.aiRace.general.rank": "Position",
     "missions.aiRace.general.start": "Race with your opponents and try to get ahead of them before the finish line!",
     "missions.aiRace.general.finish": "Finish! Your result:",
-    "missions.aiRace.general.complete": "Well done!",
-    "missions.aiRace.general.pass": "Ah well, it was a great run!",
+    "missions.aiRace.general.finishFirst": "1st place! You are the champion of this race!",
+    "missions.aiRace.general.finishSecond": "2nd place! That was an intense competition!",
+    "missions.aiRace.general.finishThird": "3rd place! Good run, you never gave up!",
+    "missions.aiRace.general.complete": "Great race!",
+    "missions.aiRace.general.pass": "Ah well, nice try!",
     "missions.aiRace.general.damageFail": "You took too much damage to complete the race!",
     "missions.aiRace.general.disqualified": "You got disqualified from the race!",
 
@@ -5443,27 +5365,19 @@
 
     "missions.hirochi_raceway.aiRace.Short.title": "Short Course Race",
     "missions.hirochi_raceway.aiRace.Short.description": "Race against sporty configs around the short course at Hirochi Raceway.",
-    "missions.hirochi_raceway.aiRace.Short.startTitle": "Short Course Race",
     "missions.hirochi_raceway.aiRace.Short.startText": "Race the AI around the short course at Hirochi Raceway.",
-    "missions.hirochi_raceway.aiRace.Short.damageFailText": "You got wrecked!",
 
     "missions.hirochi_raceway.aiRace.Medium.title": "Medium Course Race",
     "missions.hirochi_raceway.aiRace.Medium.description": "Race against sporty configs around the medium course at Hirochi Raceway.",
-    "missions.hirochi_raceway.aiRace.Medium.startTitle": "Medium Course Race",
     "missions.hirochi_raceway.aiRace.Medium.startText": "Race the AI around the medium course at Hirochi Raceway.",
-    "missions.hirochi_raceway.aiRace.Medium.damageFailText": "You got wrecked!",
 
     "missions.hirochi_raceway.aiRace.Long.title": "Long Course Race",
     "missions.hirochi_raceway.aiRace.Long.description": "Race against sporty configs around the long course at Hirochi Raceway.",
-    "missions.hirochi_raceway.aiRace.Long.startTitle": "Long Course Race",
     "missions.hirochi_raceway.aiRace.Long.startText": "Race the AI around the long course at Hirochi Raceway.",
-    "missions.hirochi_raceway.aiRace.Long.damageFailText": "You got wrecked!",
 
     "missions.aiRace.industrial.ILoop.title": "Industrial Loop Race",
     "missions.aiRace.industrial.ILoop.description": "In this race you will face a totally random grid of opponents. The loop consists of some high speed straights, so watch out for the braking zone markers.",
-    "missions.aiRace.industrial.ILoop.startTitle": "Industrial Loop Race",
     "missions.aiRace.industrial.ILoop.startText": "Take on the Loop race here at Industrial site.  Have you got what it takes?",
-    "missions.aiRace.industrial.ILoop.raceFailText": "Your vehicle is totaled!",
 
     "missions.aiRace.industrial.G500Dirty.title": "Dirty Tires - {{'ui.names.g500.name' | translate}}",
     "missions.aiRace.industrial.G500Dirty.description": "Time to get dirty in this short course through the marsh!",
@@ -5507,27 +5421,19 @@
 
     "missions.small_island.aiRace.irxca.title": "Rallycross Club Race A",
     "missions.small_island.aiRace.irxca.description": "No need for a powerful vehicle in this stage. You'll quickly see that the narrow and dirty paths don't give many opportunities for overtakes.",
-    "missions.small_island.aiRace.irxca.startTitle": "Rallycross event",
     "missions.small_island.aiRace.irxca.startText": "These hills and tight turns won't make it easy! Be careful not to break the vehicle too much or you might get some fender-benders.",
-    "missions.small_island.aiRace.irxca.damageFailText": "Your vehicle is totaled!",
 
     "missions.small_island.aiRace.ring.title": "Ring Road Race",
     "missions.small_island.aiRace.ring.description": "Race the locals around the Small Island ring road. The legend has it that no one from outside the island has ever managed to finish in first place.",
-    "missions.small_island.aiRace.ring.startTitle": "Ring Road race event",
     "missions.small_island.aiRace.ring.startText": "Tight roads, ruthless locals, it's your turn now. Many have tried to beat them.",
-    "missions.small_island.aiRace.ring.damageFailText": "Your vehicle is totaled!",
 
     "missions.small_island.aiRace.irxcb.title": "Rallycross Club Race B",
     "missions.small_island.aiRace.irxcb.description": "This one is a fast loop through gravel and dirt. Make sure to keep the vehicle on the track as a little mistake can cost you a lot!",
-    "missions.small_island.aiRace.irxcb.startTitle": "Rallycross Club Race B",
     "missions.small_island.aiRace.irxcb.startText": "The locals are back at it! Show them what you have.  Good luck",
-    "missions.small_island.aiRace.irxcb.damageFailText": "You totaled your vehicle!",
 
     "missions.small_island.aiRace.irxcc.title": "Rallycross Club Race C",
     "missions.small_island.aiRace.irxcc.description": "Race C is a mixed track against the pro grid. These guys have fast rally cars.",
-    "missions.small_island.aiRace.irxcc.startTitle": "Rallycross Club Race C",
     "missions.small_island.aiRace.irxcc.startText": "Keep it professional out there.",
-    "missions.small_island.aiRace.irxcc.damageFailText": "Your vehicle is totaled!",
 
     "missions.aiRace.wcusa.circuit1.title": "West Coast Circuit 1",
     "missions.aiRace.wcusa.circuit1.description": "Race with some competitors on the main circuit.",
@@ -5562,14 +5468,11 @@
 
     "missions.industrial.aiRace.RXOval.title": "RallyCross Oval",
     "missions.industrial.aiRace.RXOval.description": "Take on the locals at the rallycross oval.",
-    "missions.industrial.aiRace.RXOval.startTitle": "RallyCross Oval",
     "missions.industrial.aiRace.RXOval.startText": "Take on the locals at the rallycross oval.",
-    "missions.industrial.aiRace.RXOval.damageFailText": "You wrecked your car!",
 
     "missions.industrial.timeTrial.track_rally.title": "Industrial Rally Stage",
     "missions.industrial.timeTrial.track_rally.description": "This long stage will give you a taste of a bit of everything that this map has to offer. Some sections require some careful negotiation.",
     "missions.industrial.timeTrial.track_rally.startScreenText": "This long stage will give you a taste of a bit of everything that this map has to offer.",
-    "missions.industrial.timeTrial.track_rally.endScreenText": "Well done! Can you go faster?",
 
     "missions.industrial.drift.Tire.title": "Tire Wear House",
     "missions.industrial.drift.Tire.description": "An indoor gymkhana at the warehouse.",
@@ -5582,10 +5485,7 @@
 
     "missions.east_coast_usa.evade.Boxed.title": "Boxed Out",
     "missions.east_coast_usa.evade.Boxed.description": "Take the van from the gas station and evade capture.",
-    "missions.east_coast_usa.evade.Boxed.startTitle": "Boxed Out",
     "missions.east_coast_usa.evade.Boxed.startText": "Take the box truck from the gas station and get out of there!  Try to keep the police away from your air tanks or you will be stopped fast.",
-    "missions.east_coast_usa.evade.Boxed.arrestFailText": "You're under arrest!",
-    "missions.east_coast_usa.evade.Boxed.damageFailText": "Your vehicle got destroyed!",
 
     "missions.chase.general.start": "Chase the suspect, and bring the vehicle to a stop!",
     "missions.chase.general.complete": "Great job! Justice has been served.",
@@ -5599,6 +5499,12 @@
     "missions.chase.general.damageFail": "You took too much damage to complete the job!",
     "missions.chase.general.hideoutFail": "The suspect arrived at their secure hideout!",
     "missions.chase.general.suspectDamageFail": "The suspect's vehicle got badly damaged!",
+
+    "missions.chase.intro.timeLimit": "Stop and arrest the suspect within the time limit of {{timeLimit | timeSimple}}.<br>",
+    "missions.chase.intro.noTimeLimit": "Stop and arrest the suspect.<br>",
+    "missions.chase.intro.suspectHideout": "<br>Prevent the suspect from reaching the target destination.<br>",
+    "missions.chase.intro.damageLimit": "<br>Avoid damaging your vehicle too much.<br>",
+    "missions.chase.intro.suspectDamageLimit": "<br>Avoid damaging the suspect vehicle too much.<br>",
 
     "missions.chase.stars.bronze": "Win in under {{timeBronze | time}}.",
     "missions.chase.stars.silver": "Win in under {{timeSilver | time}}.",
@@ -5717,6 +5623,12 @@
     "missions.evade.general.pass": "What a struggle! You definitely ended up on the news for this.",
     "missions.evade.general.arrestFail": "You're under arrest!",
     "missions.evade.general.damageFail": "Your vehicle got wrecked!",
+
+    "missions.evade.intro.destinationSimple": "Flee from the police and arrive at the marked destination.<br>",
+    "missions.evade.intro.destinationStrict": "Dodge police and arrive at the marked destination. If the police are too close to there, lead them away before going back again.<br>",
+    "missions.evade.intro.destinationEscape": "Dodge police and arrive at the marked destination. After stopping there, keep driving and evade the police completely.<br>",
+    "missions.evade.intro.noDestination": "Flee from the police until they lose track of you.<br>",
+    "missions.evade.intro.damageLimit": "<br>Avoid damage during the escape.<br>",
 
     "missions.evade.stars.lowDamage": "Evade the police and remain undamaged or lightly damaged.",
     "missions.evade.stars.longTime": "Evade the police in a long pursuit lasting at least {{longTime | time}}.",
@@ -5926,9 +5838,7 @@
 
     "missions.driver_training.aiRace.Circle.title": "Circle Race",
     "missions.driver_training.aiRace.Circle.description": "Take on the other test drivers in this all ETK circle race on the test pan.",
-    "missions.driver_training.aiRace.Circle.startTitle": "Circle Race",
     "missions.driver_training.aiRace.Circle.startText": "Take on the other test drivers in this all ETK circle race on the test pan.",
-    "missions.driver_training.aiRace.Circle.damageFailText": "You got wrecked!",
 
     "missions.hypermilling.intro.general": "The goal is to drive <b>as far as possible</b> with a <b>limited amount</b> of fuel.</li><li>You can drive <b>any route</b> you want.</li><li>There are different leaderboards for gas, diesel, and electric cars.",
     "missions.hypermilling.intro.generalDestination": "The goal is to drive <b>to the destination</b> with a <b>limited amount</b> of fuel.</li><li>Try to take the shortest route possible to there, to save precious fuel.</li><li>There are different leaderboards for gas, diesel, and electric cars.",
@@ -5941,6 +5851,10 @@
     "missions.hypermilling.general.flipped": "Press [action=reset_physics] to flip your vehicle upright.",
     "missions.hypermilling.outro.distance": "Distance",
     "missions.hypermilling.general.fuel": "Fuel",
+    "missions.hypermilling.general.complete": "Impressive! You're very adept at fuel management.",
+    "missions.hypermilling.general.completeFast": "Impressive! You're a very skilled driver even with limited fuel!",
+    "missions.hypermilling.general.pass": "Not bad. Do you think you can go further?",
+    "missions.hypermilling.general.fail": "Unfortunately, you didn't make it to the destination.",
     "missions.hypermilling.outro.distanceDriven": "You drove {{distance | unit: \"length\"}}!",
     "missions.hypermilling.outro.distanceSuccess": "You drove {{distance | unit: \"length\"}}, and you arrived at the destination. Well done!",
     "missions.hypermilling.outro.distanceFail": "You drove {{distance | unit: \"length\"}}, but you didn't go all the way to the destination...",
@@ -6015,42 +5929,34 @@
     "missions.timeTrial.west_coast_usa.wcusa_tt_city_001.title": "Steep Bolt",
     "missions.timeTrial.west_coast_usa.wcusa_tt_city_001.description": "Sharp turns, elevation changes, blind corners, and chicanes!",
     "missions.timeTrial.west_coast_usa.wcusa_tt_city_001.startScreenText": "This retro-game-themed layout provides a mix of blind corners, elevation challenges, and chicanes. <br><br>Don't forget to pay attention to your vehicles weight transfer when entering and exiting corners, as every corner on this track takes place on an elevation change requiring unique racing lines depending on your drivetrain: FWD/RWD/AWD!",
-    "missions.timeTrial.west_coast_usa.wcusa_tt_city_001.endScreenText": "",
 
     "missions.timeTrial.west_coast_usa.wcusa_tt_city_002.title": "Cathedral Hill",
     "missions.timeTrial.west_coast_usa.wcusa_tt_city_002.description": "Up, around the cathedral, and down!",
     "missions.timeTrial.west_coast_usa.wcusa_tt_city_002.startScreenText": "Off-camber cornering mixed with some very fun and high-speed sweeping curves will have you up to the cathedral and back, and as long as you pay attention to those downhill corners, you should remain in one piece! <br><br>Brakes and suspension are put to the test on this otherwise simple course layout!",
-    "missions.timeTrial.west_coast_usa.wcusa_tt_city_002.endScreenText": "",
 
     "missions.timeTrial.west_coast_usa.wcusa_tt_city_003.title": "Belasco Core",
     "missions.timeTrial.west_coast_usa.wcusa_tt_city_003.description": "High-speeds in the downtown core!",
     "missions.timeTrial.west_coast_usa.wcusa_tt_city_003.startScreenText": "While primarily focused around the grid-like downtown Belasco City, this course provides elevation changes mixed with medium-speed right-angle cornering! <br><br>A quick trip going from downtown to the hills and back, this is one of those courses that rewards risk as quickly as it punishes it!",
-    "missions.timeTrial.west_coast_usa.wcusa_tt_city_003.endScreenText": "",
 
     "missions.timeTrial.west_coast_usa.wcusa_tt_city_004.title": "Fog Hill Shilly-Shally",
     "missions.timeTrial.west_coast_usa.wcusa_tt_city_004.description": "Up the Fog Hill Fire Station and back!",
     "missions.timeTrial.west_coast_usa.wcusa_tt_city_004.startScreenText": "Bringing you up to the Fog Hill Fire Station, this course provides a fun hairpin and some great off-camber corners thanks to constant elevation changes! <br><br>Although you might be tempted to cut corners and hop the curb in some places, it's recommended to err on the side of caution with this track; those road-side trees and poles can do a real number on your vehicle!",
-    "missions.timeTrial.west_coast_usa.wcusa_tt_city_004.endScreenText": "",
 
     "missions.timeTrial.west_coast_usa.wcusa_tt_city_005.title": "Palisade Point",
     "missions.timeTrial.west_coast_usa.wcusa_tt_city_005.description": "Up to the Palisades and back with some tricky corners!",
     "missions.timeTrial.west_coast_usa.wcusa_tt_city_005.startScreenText": "Although simple from overhead, this course offers some off-camber downhill corners, and an incredibly tricky hairpin section near the end of the lap! <br><br>Race up to the Palisades and back, watch those curbs, and remember: the brake pedal is your friend!",
-    "missions.timeTrial.west_coast_usa.wcusa_tt_city_005.endScreenText": "",
 
     "missions.timeTrial.west_coast_usa.wcusa_tt_industrial_002.title": "Solar Circuit",
     "missions.timeTrial.west_coast_usa.wcusa_tt_industrial_002.description": "Simple, old-school industrial fun!",
     "missions.timeTrial.west_coast_usa.wcusa_tt_industrial_002.startScreenText": "This is a classic course designed to really test your self-control! With a couple of right-angle turns and a decreasing-radius corner directly leading into a mild curve, this track will really exercise when and how you apply the throttle. <br><br>Don't get carried away otherwise you'll quickly find that the curbs can be very unforgiving!",
-    "missions.timeTrial.west_coast_usa.wcusa_tt_industrial_002.endScreenText": "",
 
     "missions.timeTrial.west_coast_usa.wcusa_tt_residential_001.title": "Estates Express",
     "missions.timeTrial.west_coast_usa.wcusa_tt_residential_001.description": "Mega high-speeds circling the residential area!",
     "missions.timeTrial.west_coast_usa.wcusa_tt_residential_001.startScreenText": "A very high-speed course that brings you around the perimeter of Belasco's suburbs.  <br><br>From freeway to highway with tricky on-ramp and off-ramp sections, this course will put your ability to judge braking distances to the test: Wait too long and it will be catastrophic, brake too soon, and lose precious seconds!",
-    "missions.timeTrial.west_coast_usa.wcusa_tt_residential_001.endScreenText": "",
 
     "missions.timeTrial.west_coast_usa.wcusa_tt_residential_003.title": "Horizon Sprint",
     "missions.timeTrial.west_coast_usa.wcusa_tt_residential_003.description": "High-speeds and grip-driving mixed together!",
     "missions.timeTrial.west_coast_usa.wcusa_tt_residential_003.startScreenText": "Starting off on the highway outside of the residential area, this is a nice mix of high-speed and technical driving bringing you off of the highway and into the suburbs and back to the highway again.  <br><br>Watch those curbs, they will tweak your steering, or worse!",
-    "missions.timeTrial.west_coast_usa.wcusa_tt_residential_003.endScreenText": "",
 
     "missions.timeTrial.west_coast_usa.Quarry4.title": "Quarry: Triple Threat",
     "missions.timeTrial.west_coast_usa.Quarry4.description": "This course will take you through the quarry, the forest and part of the highway.",
@@ -6083,25 +5989,29 @@
     "missions.missions.general.end.continueWithCurrent": "Continue with current vehicle",
     "missions.missions.general.end.continueWithPrevious": "Continue with previous vehicle",
     "missions.missions.general.end.continue": "Continue",
-    "missions.missions.general.end.continueHere": "Continue here",
-    "missions.missions.general.end.continueAtStart": "Continue at challenge Start",
+    "missions.missions.general.end.continueHere": "Continue Here",
+    "missions.missions.general.end.continueAtStart": "Continue at Challenge Start",
     "missions.missions.general.accept.viewDetails": "View Details",
     "missions.missions.general.accept.nMissionsHere": "{{n}} Challenges Here",
     "missions.missions.general.accept.close": "Close",
     "missions.missions.general.objectives": "Objectives",
     "missions.missions.general.rewards": "Rewards",
+    "missions.missions.general.rules": "Rules",
     "missions.missions.general.unlockedMissions": "Unlocked Missions",
     "missions.missions.general.recentAttempts": "Recent Attempts",
     "missions.missions.general.leaderboard": "Leaderboard",
     "missions.missions.stars.justFinish": "Finish the challenge successfully.",
 
     "missions.missions.general.userSettings.useProposedCar": "Use Proposed Vehicle",
+    "missions.missions.general.userSettings.playerVehicle": "Player Vehicle",
     "missions.missions.general.userSettings.laps": "Laps",
     "missions.missions.general.userSettings.practice": "Practice",
     "missions.missions.general.userSettings.side": "Side",
     "missions.missions.general.userSettings.trafficEnabled": "Traffic Enabled",
     "missions.missions.general.userSettings.trafficLevel": "Traffic Level",
     "missions.missions.general.userSettings.navigationMarkers": "Route Markers Enabled",
+    "missions.missions.general.userSettings.timeOfDay": "Time of Day",
+    "missions.missions.general.userSettings.weather": "Weather",
 
     "missions.missions.general.checkpoint": "Checkpoint",
     "missions.missions.general.lap": "Lap",
@@ -6220,6 +6130,7 @@
     "bigMap.progressLabels.status": "Status",
     "bigMap.progressLabels.time": "Time",
     "bigMap.progressLabels.bestTime": "Best Time",
+    "bigMap.progressLabels.bestLap": "Best Lap",
     "bigMap.progressLabels.remainingTime": "Remaining Time",
     "bigMap.progressLabels.bestRemainingTime": "Best Remaining Time",
     "bigMap.progressLabels.points": "Points",
@@ -6306,9 +6217,33 @@
     "missions.timeTrials.progressKeyLabels.reverseRollingOneLap": "1 Lap, Reversed, Rolling Start",
 
     "missions.timeTrials.stars.justFinish": "Complete the Trial.",
+
     "missions.timeTrials.stars.bronzeTime": "Finish in {{bronzeTime | time}}.",
+    "missions.timeTrials.stars.bronzeTime2": "Finish in {{bronzeTime2 | time}}.",
+    "missions.timeTrials.stars.bronzeTime3": "Finish in {{bronzeTime3 | time}}.",
     "missions.timeTrials.stars.silverTime": "Finish in {{silverTime | time}}.",
+    "missions.timeTrials.stars.silverTime2": "Finish in {{silverTime2 | time}}.",
+    "missions.timeTrials.stars.silverTime3": "Finish in {{silverTime3 | time}}.",
     "missions.timeTrials.stars.goldTime": "Finish in {{goldTime | time}}.",
+    "missions.timeTrials.stars.goldTime2": "Finish in {{goldTime2 | time}}.",
+    "missions.timeTrials.stars.goldTime3": "Finish in {{goldTime3 | time}}.",
+
+    "missions.timeTrials.stars.bronzeTimeLaps": "Finish {{bronze1Laps}} laps in {{bronzeTime | time}}.",
+    "missions.timeTrials.stars.bronzeTime2Laps": "Finish {{bronze2Laps}} laps in {{bronzeTime2 | time}}.",
+    "missions.timeTrials.stars.bronzeTime3Laps": "Finish {{bronze3Laps}} laps in {{bronzeTime3 | time}}.",
+    "missions.timeTrials.stars.silverTimeLaps": "Finish {{silver1Laps}} laps in {{silverTime | time}}.",
+    "missions.timeTrials.stars.silverTime2Laps": "Finish {{silver2Laps}} laps in {{silverTime2 | time}}.",
+    "missions.timeTrials.stars.silverTime3Laps": "Finish {{silver3Laps}} laps in {{silverTime3 | time}}.",
+    "missions.timeTrials.stars.goldTimeLaps": "Finish {{gold1Laps}} laps in {{goldTime | time}}.",
+    "missions.timeTrials.stars.goldTime2Laps": "Finish {{gold2Laps}} laps in {{goldTime2 | time}}.",
+    "missions.timeTrials.stars.goldTime3Laps": "Finish {{gold3Laps}} laps in {{goldTime3 | time}}.",
+
+    "missions.timeTrials.stars.lapTime1": "Complete a lap under {{lapTime1 | time}}",
+    "missions.timeTrials.stars.lapTime2": "Complete a lap under {{lapTime2 | time}}",
+    "missions.timeTrials.stars.lapTime3": "Complete a lap under {{lapTime3 | time}}",
+    "missions.timeTrials.stars.lapTime4": "Complete a lap under {{lapTime4 | time}}",
+    "missions.timeTrials.stars.lapTime5": "Complete a lap under {{lapTime5 | time}}",
+
     "missions.timeTrials.stars.justFinishPenalty": "Complete the Trial with at most {{justFinishPenalty | time}} penalty time.",
     "missions.timeTrials.stars.bronzePenalty": "Finish in {{bronzeTimeTotal | time}} with at most {{bronzeTimePenalty | time}} penalty time.",
     "missions.timeTrials.stars.silverPenalty": "Finish in {{silverTimeTotal | time}} with at most {{silverTimePenalty | time}} penalty time.",
@@ -6361,17 +6296,20 @@
     "missions.dragRace.johnson_valley.description": "Compete in the Highway Drag Race! Your goal is to complete a quarter mile in the shortest time possible.",
     "missions.dragRace.johnson_valley.milesStarted": "Quarter mile started!",
 
-    "missions.dragRaceNewSystem.wcusa.title_400": "Alder Drag Race Pro Tree",
-    "missions.dragRaceNewSystem.wcusa.description_400": "Welcome to Alder Drag Strip! This Drag Race uses the Pro style tree. There is a random, short pause after fully staging. Then you will see the amber lights all light up at once for 0.4 seconds, before the green light. Familiarize yourself with your vehicle's launch capabilities to get the best launch possible.",
+    "missions.dragStripRace.wcusa.title_400": "Alder Drag Race Pro Tree",
+    "missions.dragStripRace.wcusa.description_400": "Welcome to Alder Drag Strip! This Drag Race uses the Pro style tree. There is a random, short pause after fully staging. Then you will see the amber lights all light up at once for 0.4 seconds, before the green light. Familiarize yourself with your vehicle's launch capabilities to get the best launch possible.",
 
-    "missions.dragRaceNewSystem.wcusa.title_500": "Alder Drag Race Sportsman Tree",
-    "missions.dragRaceNewSystem.wcusa.description_500": "Welcome to Alder Drag Strip! This Drag Race uses the Sportsman style tree. You will see the amber lights sequentially light up, progressing downwards, before the green light. Familiarize yourself with your vehicle's launch capabilities to get the best launch possible.",
+    "missions.dragStripRace.wcusa.title_500": "Alder Drag Race Sportsman Tree",
+    "missions.dragStripRace.wcusa.description_500": "Welcome to Alder Drag Strip! This Drag Race uses the Sportsman style tree. You will see the amber lights sequentially light up, progressing downwards, before the green light. Familiarize yourself with your vehicle's launch capabilities to get the best launch possible.",
 
-    "missions.dragRaceNewSystem.gmv2.title_400": "GridmapV2 Pro Drag Race",
-    "missions.dragRaceNewSystem.gmv2.description_400": "Welcome to the GridmapV2 Drag Strip. This Drag Race uses the Pro style tree. There is a random, short pause after fully staging. Then you will see the amber lights all light up at once for 0.4 seconds, before the green light. Familiarize yourself with your vehicle's launch capabilities to get the best launch possible.",
+    "missions.dragStripRace.wcusa.title_500_bracket": "Alder Bracket Race",
+    "missions.dragStripRace.wcusa.description_500_bracket": "Welcome to Alder Drag Strip! This Bracket Race uses the Sportsman style tree. You will see the amber lights sequentially light up, progressing downwards, before the green light. Familiarize yourself with your vehicle's launch capabilities to get the best launch possible.",
 
-    "missions.dragRaceNewSystem.gmv2.title_500": "GridmapV2 Sportsman Drag Race",
-    "missions.dragRaceNewSystem.gmv2.description_500": "Welcome to the GridmapV2 Drag Strip. This Drag Race uses the Sportsman style tree. You will see the amber lights sequentially light up, progressing downwards, before the green light. Familiarize yourself with your vehicle's launch capabilities to get the best launch possible.",
+    "missions.dragStripRace.gmv2.title_400": "GridmapV2 Pro Drag Race",
+    "missions.dragStripRace.gmv2.description_400": "Welcome to the GridmapV2 Drag Strip. This Drag Race uses the Pro style tree. There is a random, short pause after fully staging. Then you will see the amber lights all light up at once for 0.4 seconds, before the green light. Familiarize yourself with your vehicle's launch capabilities to get the best launch possible.",
+
+    "missions.dragStripRace.gmv2.title_500": "GridmapV2 Sportsman Drag Race",
+    "missions.dragStripRace.gmv2.description_500": "Welcome to the GridmapV2 Drag Strip. This Drag Race uses the Sportsman style tree. You will see the amber lights sequentially light up, progressing downwards, before the green light. Familiarize yourself with your vehicle's launch capabilities to get the best launch possible.",
 
 
 
@@ -6397,8 +6335,8 @@
     "missions.dragRace.gameplay.restartButton": "Restart",
     "missions.dragRace.gameplay.declineButton": "Continue",
 
-    "missions.dragRace.gameplay.retryFoe": "Retry with same foe",
-    "missions.dragRace.gameplay.retry": "Retry with different foe",
+    "missions.dragRace.gameplay.retryFoe": "Retry with same opponent",
+    "missions.dragRace.gameplay.retry": "Retry with different opponent",
     "missions.dragRace.gameplay.exit": "Exit",
     "missions.dragRace.gameplay.selectOpponent": "Select Opponent Vehicle",
 
@@ -6419,13 +6357,17 @@
     "missions.dragRace.stars.thresholdSilver": "Beat the opponent's time and also beat them with a threshold of {{silverThreshold | time}}.",
     "missions.dragRace.stars.thresholdGold": "Beat the opponent's time and also beat them with a threshold of {{goldThreshold | time}}.",
 
+    "missions.dragRace.stars.dialBronze": "Approach the dial you set by a margin of {{bronzeDial | time}}.",
+    "missions.dragRace.stars.dialSilver": "Approach the dial you set by a margin of {{silverDial | time}}.",
+    "missions.dragRace.stars.dialGold": "Approach the dial you set by a margin of {{goldDial | time}}.",
+
     "missions.dragRace.stars.outroBronze": "Good job dragster! Keep it up!",
     "missions.dragRace.stars.outroSilver": "What a nice race! Congratulations, but there's still work to do!",
     "missions.dragRace.stars.outroGold": "Amazing! This is what I call a drag race! What a spectacle!",
     "missions.dragRace.stars.outroNoStars": "Nice Race! But I'm sure you can do better!",
 
     "missions.collect.general.title": "Collection",
-    "missions.collect.intro.survivalRecovery": "<ul><li>The gamemode is <b>Recovery Survival</b>.</li><li>Try to collect as many markers as you can</b>.</li><li>You can flip your car upright at most {{survivalRecoveries}} time(s).</li></ul>",
+    "missions.collect.intro.survivalRecovery": "<ul><li>The gamemode is <b>Recovery Survival</b>.</li><li>Try to collect as many markers as you can.</li><li>You can flip your car upright at most {{survivalRecoveries}} time(s).</li></ul>",
     "missions.collect.intro.survivalTime": "<ul><li>The gamemode is <b>Time Survival</b>.</li><li>Try to collect as many markers as you can. You have {{survivalTime | time}}.</li><li>You can flip your car upright as many times as you want.</li></ul>",
     "missions.collect.intro.survivalTimeLimited": "<ul><li>The gamemode is <b>Time Survival</b>.</li><li>Try to collect as many markers as you can. You have {{survivalTime | time}}.</li><li>You can flip your car upright at most {{survivalRecoveries}} time(s).</li></ul>",
     "missions.collect.intro.attackRecovery": "<ul><li>The gamemode is <b>Recovery Attack</b>.</li><li>Collect all markers and flip your car upright the fewest amount of times as you can.</li><li>You have unlimited time.</li></ul>",
@@ -6926,6 +6868,8 @@
     "vehicle.advancedCouplerControl.wigeonDoors": "Close the canopy before closing doors",
     "vehicle.advancedCouplerControl.closeHatch": "Close the hatch first before pulling it down",
     "vehicle.advancedCouplerControl.pushHatch": "Push up the hatch from the interior first before opening it",
+    "vehicle.advancedCouplerControl.unlockDoorFirstInterior": "Unlock the door in the interior first before trying to open it",
+    "vehicle.advancedCouplerControl.closeBothDoorsFirst": "Close both doors first before using the lock",
 
     "vehicle.advancedCouplerControl.lowerBullbar": "Lower the bullbar before tilting the cab",
     "vehicle.advancedCouplerControl.lowerCab": "Lower the cab before raising the bullbar",
@@ -6990,6 +6934,15 @@
     "vehicle.interaction.coupling.pintleHitch.toggle.title": "Actuate Pintle Hitch",
     "vehicle.interaction.coupling.pintleHitch.toggle.desc": "Attaches and detaches the pintle hitch.",
 
+    "vehicle.interaction.domelight.rear.toggle.title": "Toggle Rear Dome Lights",
+    "vehicle.interaction.domelight.rear.toggle.desc": "Turns the rear dome lights on and off.",
+    "vehicle.interaction.domelight.left.toggle.title": "Toggle Left Dome Lights",
+    "vehicle.interaction.domelight.left.toggle.desc": "Turns the left dome lights on and off.",
+    "vehicle.interaction.domelight.right.toggle.title": "Toggle Right Dome Lights",
+    "vehicle.interaction.domelight.right.toggle.desc": "Turns the right dome lights on and off.",
+    "vehicle.interaction.domelight.driver.toggle.title": "Toggle Driver Dome Light",
+    "vehicle.interaction.domelight.driver.toggle.desc": "Turns the driver dome light on and off.",
+
     "vehicle.interaction.doors.FL.toggle.title": "Toggle Front Left Door",
     "vehicle.interaction.doors.FL.toggle.desc": "Opens and closes the front left door.",
     "vehicle.interaction.doors.FR.toggle.title": "Toggle Front Right Door",
@@ -7027,6 +6980,11 @@
     "vehicle.interaction.doors.exitWindowRR.toggle.description": "Opens and closes the rear right emergency exit window.",
     "vehicle.interaction.doors.exitWindowRL.toggle.title": "Toggle Rear Left Emergency Exit Window",
     "vehicle.interaction.doors.exitWindowRL.toggle.description": "Opens and closes the rear left emergency exit window.",
+
+    "vehicle.interaction.doors.gateF.toggle.title": "Toggle Front Gate",
+    "vehicle.interaction.doors.gateF.toggle.description": "Opens and closes the front interior gate.",
+    "vehicle.interaction.doors.gateR.toggle.title": "Toggle Rear Gate",
+    "vehicle.interaction.doors.gateR.toggle.description": "Opens and closes the rear interior gate.",
 
     "vehicle.interaction.bullbar.tilt.title": "Tilt Bullbar",
     "vehicle.interaction.bullbar.tilt.desc": "Tilts the bullbar.",
@@ -7079,10 +7037,10 @@
 
     "vehicle.interaction.powertrain.splitter.toggle.title": "Toggle Splitter Mode",
     "vehicle.interaction.powertrain.splitter.toggle.desc": "Switches between available splitter modes.",
-    "vehicle.interaction.powertrain.splitter.setDirect.title": "Set Splitter To Direct",
-    "vehicle.interaction.powertrain.splitter.setDirect.desc": "Switches the splitter to direct mode.",
-    "vehicle.interaction.powertrain.splitter.setOverdrive.title": "Set Splitter To Overdrive",
-    "vehicle.interaction.powertrain.splitter.setOverdrive.desc": "Switches the splitter to overdrive mode.",
+    "vehicle.interaction.powertrain.splitter.setLow.title": "Set Splitter To Low",
+    "vehicle.interaction.powertrain.splitter.setLow.desc": "Switches the splitter to low mode.",
+    "vehicle.interaction.powertrain.splitter.setHigh.title": "Set Splitter To High",
+    "vehicle.interaction.powertrain.splitter.setHigh.desc": "Switches the splitter to high mode.",
     "vehicle.interaction.powertrain.splitter.set.title": "Set Splitter Mode",
     "vehicle.interaction.powertrain.splitter.set.desc": "Sets the splitter mode from an axis input.",
 
@@ -7223,6 +7181,8 @@
     "vehicle.bdebug.beamVisMode.deformgroups": "Deform groups",
     "vehicle.bdebug.beamVisMode.partOrigin": "Part Origin",
     "vehicle.bdebug.beamVisMode.limiters": "Limiters",
+    "vehicle.bdebug.beamVisMode.boundedBeamBounds": "Bounded Beam Bounds",
+    "vehicle.bdebug.beamVisMode.supportBeamBounds": "Support Beam Bounds",
     "vehicle.bdebug.beamVisMode.frequency": "Frequency",
     "vehicle.bdebug.beamVisMode.beamDamp": "Beam Damp",
     "vehicle.bdebug.beamVisMode.beamDampFast": "Beam Damp Fast",
@@ -7257,6 +7217,7 @@
     "vehicle.bdebug.beamTextMode.liveLength": "Live Length",
     "vehicle.bdebug.torsionBarVisMode.off": "Off",
     "vehicle.bdebug.torsionBarVisMode.simple": "Simple",
+    "vehicle.bdebug.torsionBarVisMode.type": "Type",
     "vehicle.bdebug.torsionBarVisMode.withoutBroken": "Without Broken",
     "vehicle.bdebug.torsionBarVisMode.withBroken": "With Broken",
     "vehicle.bdebug.torsionBarVisMode.brokenOnly": "Broken Only",
@@ -7272,6 +7233,14 @@
     "vehicle.bdebug.railsSlideNodesVisMode.withoutBroken": "Without Broken",
     "vehicle.bdebug.railsSlideNodesVisMode.withBroken": "With Broken",
     "vehicle.bdebug.railsSlideNodesVisMode.brokenOnly": "Broken Only",
+    "vehicle.bdebug.collisionTriangleVisMode.off": "Off",
+    "vehicle.bdebug.collisionTriangleVisMode.simple": "Simple",
+    "vehicle.bdebug.collisionTriangleVisMode.type": "Type",
+    "vehicle.bdebug.collisionTriangleVisMode.withoutBroken": "Without Broken",
+    "vehicle.bdebug.collisionTriangleVisMode.withBroken": "With Broken",
+    "vehicle.bdebug.collisionTriangleVisMode.brokenOnly": "Broken Only",
+    "vehicle.bdebug.collisionTriangleVisMode.collideableOnly": "Collideable Only",
+    "vehicle.bdebug.collisionTriangleVisMode": "Changed collision triangle visualization: {{collisionTriangleVisMode | translate}}",
     "vehicle.bdebug.disabled": "Debug drawing disabled",
     "vehicle.bdebug.enabled": "Debug drawing enabled",
     "vehicle.fire.fuelTankRuptured": "Fuel tank ruptured",
@@ -7706,8 +7675,8 @@
     "ui.inputActions.vehicle_debug.debugmode_skeleton_fwd.title": "Cycle Physics Skeleton",
     "ui.inputActions.vehicle_debug.debugmode_toggle.description": "Toggles debug mode",
     "ui.inputActions.vehicle_debug.debugmode_toggle.title": "Toggle Debug Mode",
-    "ui.inputActions.vehicle_debug.debugmode_toggle_coltris.description": "Shows collision triangle debug",
-    "ui.inputActions.vehicle_debug.debugmode_toggle_coltris.title": "Toggle Collision Triangle Debug",
+    "ui.inputActions.vehicle_debug.debugmode_coltris_fwd.description": "Cycles through collision triangle debug modes",
+    "ui.inputActions.vehicle_debug.debugmode_coltris_fwd.title": "Cycle Collision Triangle",
     "ui.inputActions.vehicle_debug.reload_all_vehicles.description": "Reloads all vehicles files from disk",
     "ui.inputActions.vehicle_debug.reload_all_vehicles.title": "Reload All Vehicles",
     "ui.inputActions.vehicle_debug.reload_vehicle.description": "Reloads vehicle files from disk",
@@ -7841,12 +7810,6 @@
     "ui.inputActions.rollover.increase_angle.title": "Increase sled angle",
     "ui.inputActions.rollover.prepare.description": "Previews the tilt angle",
     "ui.inputActions.rollover.prepare.title": "Preview angle",
-    "ui.inputActions.schoolbus.warninglights_on.description": "Turns on amber warning lights if the door is closed",
-    "ui.inputActions.schoolbus.warninglights_on.title": "Amber Warning Lights On",
-    "ui.inputActions.schoolbus.warninglights_off.description": "Turns off all warning lights regardless of door state",
-    "ui.inputActions.schoolbus.warninglights_off.title": "All Warning Lights Off",
-    "ui.inputActions.schoolbus.toggle_door.description": "Opens door changing warning lights to red, or closes door turning off warning lights",
-    "ui.inputActions.schoolbus.toggle_door.title": "Toggle Door",
     "ui.inputActions.semi.decrease_rideHeight.description": "Decreases the ride height for the vehicle",
     "ui.inputActions.semi.decrease_rideHeight.title": "Decrease suspension height",
     "ui.inputActions.semi.extend.description": "Extends the bed back",
@@ -7944,13 +7907,13 @@
     "ui.inputActions.weightpad.setTare.description": "Reset the scale to zero",
     "ui.inputActions.weightpad.setTare.title": "Reset to zero",
 
-    "ui.inputActions.controllerui.focus_u.title": "Focus up",
+    "ui.inputActions.controllerui.focus_u.title": "Up",
     "ui.inputActions.controllerui.focus_u.description": "Move the current focus up to the nearest item",
-    "ui.inputActions.controllerui.focus_r.title": "Focus right",
+    "ui.inputActions.controllerui.focus_r.title": "Right",
     "ui.inputActions.controllerui.focus_r.description": "Move the current focus right to the nearest item",
-    "ui.inputActions.controllerui.focus_d.title": "Focus down",
+    "ui.inputActions.controllerui.focus_d.title": "Down",
     "ui.inputActions.controllerui.focus_d.description": "Move the current focus down to the nearest item",
-    "ui.inputActions.controllerui.focus_l.title": "Focus left",
+    "ui.inputActions.controllerui.focus_l.title": "Left",
     "ui.inputActions.controllerui.focus_l.description": "Move the current focus left to the nearest item",
 
     "ui.inputActions.controllerui.pause.title": "Pause/unpause",
@@ -8004,7 +7967,7 @@
     "ui.inputActions.controllerui.rotate_h_cam.title": "Scroll menu horizontally / Rotate camera X",
     "ui.inputActions.controllerui.rotate_h_cam.description": "Scroll active menu horizontally, or rotate camera on horizontal axis",
 
-    "ui.inputActions.controllerui.ok.title": "Select/OK",
+    "ui.inputActions.controllerui.ok.title": "OK / Primary action",
     "ui.inputActions.controllerui.ok.description": "Accept/take the currently selected menu item",
     "ui.inputActions.controllerui.cancel.title": "Cancel",
     "ui.inputActions.controllerui.cancel.description": "Cancel/Decline action/menu",
@@ -8057,8 +8020,8 @@
     "ui.options.controls.bindings.General": "General",
     "ui.options.controls.bindings.Gameplay": "Gameplay",
     "ui.options.controls.bindings.Camera": "Camera",
-    "ui.options.controls.bindings.MenuNavigation": "Menu/UI Navigation",
-    "ui.options.controls.bindings.MenuNavigationNew": "[WIP] Menu/UI Navigation",
+    "ui.options.controls.bindings.MenuNavigation": "Menu Navigation",
+    "ui.options.controls.bindings.MenuNavigationExtra": "Menu Navigation (extra)",
     "ui.options.controls.bindings.SlowMotion": "Slow Motion",
     "ui.options.controls.bindings.Replay": "Replay",
     "ui.options.controls.bindings.Editor": "Editor",
@@ -8306,38 +8269,22 @@
     "ui.career.lvlLabel": "level {{lvl}}",
 
     "ui.career.adventurer.name": "Adventurer",
-    "ui.career.adventurer.description": "From daring stunt jumps, to speed traps and other highly-reckless activities, the Adventurer Branch offers menacing intensity, drama, and an innate danger that keeps players coming back for more.",
-    "ui.career.adventurer.control.name": "Control",
-    "ui.career.adventurer.control.description": "The Control Skill is all about precision maneuvers.",
-    "ui.career.adventurer.destruction.name": "Destruction",
-    "ui.career.adventurer.destruction.description": "In the Destruction Skill, you'll be turning and shiny cars into heaps of scrap.",
-    "ui.career.adventurer.jumping.name": "Jumping",
-    "ui.career.adventurer.jumping.description": "Reach new heights and reach new distances in the Jumping Skill.",
-
-    "ui.career.adventurer.havoc.name": "Havoc Mode",
-    "ui.career.adventurer.havoc.description": "Coming soon: Unleash chaos in Havoc Mode, a premium game feature where destruction meets adrenaline. Using bonus stars for access, players race through the streets causing mayhem, from crashing into vehicles to outrunning police, all while building combo scores for extended play and unlocking explosive abilities. This mode challenges players to create chaos, offering retries for newcomers and bonus loot access, ensuring every player gets to experience the thrill of havoc.",
+    "ui.career.adventurer.description": "From daring stunt jumps, to other highly-reckless activities, the Adventurer Branch offers menacing intensity, drama, and an innate danger that keeps players coming back for more.",
 
     "ui.career.adventurer.miniGames.name": "Mini Games",
-    "ui.career.adventurer.miniGames.description": "Coming soon: Embark on a thrilling journey through a dynamic collection of driving and crashing challenges, including Vehicular Darts, Vehicular Soccer, and more, tailored for players seeking action-packed vehicle gameplay. With possibilities for continuous expansion, this game mode offers exciting objectives and a diverse array of vehicles, ensuring a unique blend of strategy, skill, and chaos with every play.",
-    "ui.career.adventurer.criminal.name": "Criminal Activities",
-    "ui.career.adventurer.derbies.name": "Crash Derbies",
-    "ui.career.adventurer.derbies.description": "Coming soon: Rev up for a thrilling ride through destruction derby style rampage, where players climb the ranks from battling in basic arenas to mastering vehicular combat against larger, meaner opponents amidst a chaotic backdrop of jumps, hazards, and more. From honing collision tactics in Collision Course to surviving the ultimate Last Car Standing Championship, gear up for an adrenaline-pumping journey to earn trophy vehicles for Havoc Mode and more, where strategy, skill, and sheer will to survive dictate your path to victory.",
+    "ui.career.adventurer.miniGames.description": "Coming soon: Embark on a thrilling journey through a dynamic collection of driving and crashing challenges tailored for players seeking action-packed vehicle gameplay. With possibilities for endless game style expansion, this game mode offers exciting objectives and a diverse array of vehicles, ensuring a unique blend of strategy, skill, and chaos with every play.",
 
     "ui.career.labourer.name": "Laborer",
-    "ui.career.labourer.description": "Whether you're interested in vehicle recovery, delivering heavy machinery, cargo, or people; the Laborer Branch offers a wide variety of fulfilling-yet-daunting task-oriented challenges to overcome.",
+    "ui.career.labourer.description": "The Laborer Branch offers a wide variety of fulfilling cargo-delivery challenges to overcome.",
     "ui.career.labourer.delivery.name": "Cargo Delivery",
     "ui.career.labourer.delivery.description": "Progress through five levels of delivery gameplay, starting with small packages and advancing to complex fluid transport using large tanker trailers. Each level introduces new challenges, from navigating with trailers to managing hazardous materials.",
     "ui.career.labourer.vehicleDelivery.name": "Car Jockey",
-    "ui.career.labourer.vehicleDelivery.description": "Advance through five levels within Car Jockey gameplay, starting with delivering low-value junker vehicles to perfecting the art of transporting exotic and high-value vehicles. Each level upscales the challenge, from maintaining the condition of used vehicles to ensuring the pristine delivery of new and exotic cars.",
-    "ui.career.labourer.towing.name": "Towing",
-    "ui.career.labourer.towing.description": "Coming soon: Embark on a journey from rescuing stranded vehicles to owning a thriving tow truck empire in the immersive Towing gameplay. Progress through levels, upgrading your fleet to handle everything from normal tows to the heavy-duty challenges of transporting tankers and hazardous materials, all while navigating procedural missions for endless engaging opportunities.",
-    "ui.career.labourer.taxi.name": "Taxi",
-    "ui.career.labourer.taxi.description": "Coming soon: Navigate the bustling streets, starting as a rookie driver learning the ropes of urban navigation to becoming a Taxi Mogul with your own fleet. Progress through levels mastering customer service, adapting to varied fare requests, and evading pursuers, all towards the ultimate goal of owning the taxi company. Along the way, enjoy the transition from fulfilling specific passenger needs to strategic company management, where you can earn 100% profit and hire any vehicle for taxi service, including your own, for passive income.",
+    "ui.career.labourer.vehicleDelivery.description": "Advance through five levels of Car Jockey gameplay, starting with delivering low-value junker vehicles to perfecting the art of transporting exotic and high-value vehicles. Each level upscales the challenge, from delivering used vehicles to ensuring the pristine delivery of new and exotic cars.",
 
     "ui.career.motorsport.name": "Motorsports",
-    "ui.career.motorsport.description": "The passion of racing against the clock and opponents on the drag-strip, race track, city streets, and offroad is undeniably alluring. The Motorsports Branch tests your skills through various challenges.",
+    "ui.career.motorsport.description": "The passion of racing against the clock and opponents at the drag-strip or on the race track, city streets, and offroad is undeniably alluring. The Motorsports Branch tests your skills through various challenges.",
     "ui.career.motorsport.crawl.name": "Rock Crawling",
-    "ui.career.motorsport.crawl.description": "Now: Take your driving to the extreme and tackle natural and artificial obstacle courses. Coming soon: Ascend through the ranks of the Rock Crawling Skill Progression, starting with mastering the basics of navigating rugged terrains to tackling the ultimate challenge of timed hill climbs. Each level elevates your skills, from maneuvering through simple rock formations to conquering custom-designed courses and steep, demanding ascents, all demanding precision, control, and strategic planning.",
+    "ui.career.motorsport.crawl.description": "Take your driving to the extreme and tackle natural and artificial obstacle courses.",
     "ui.career.motorsport.drift.name": "Drifting",
     "ui.career.motorsport.drift.description": "Earn points by sliding your vehicle sideways along a predefined course or open area.",
     "ui.career.motorsport.racing.name": "Racing",
@@ -8346,26 +8293,16 @@
     "ui.career.motorsport.timeTrial.description": "Race against the clock to set the best times and highest scores.",
 
     "ui.career.motorsport.apex.name": "Apex Racing",
-    "ui.career.motorsport.apex.description": "Now: Race against the clock and AI opponents. Coming soon: Discover the ultimate racing journey where every tier unlocks a new realm of competition, from Time Trials and Drag Racing to the endurance-testing challenges of long-distance racing. Dive into the strategic depth of using personal vehicles, rewarding your investment and customization skills with higher rewards. This comprehensive racing career will ensure continuous engagement, while rewarding mastery and personalization at every turn.",
-    "ui.career.motorsport.legacy.name": "Legacy Racing",
-    "ui.career.motorsport.legacy.description": "Embark on a timeless racing journey with 'Through the Decades,'' where you'll start behind the wheel of classic vehicles and accelerate through history to modern-day marvels. Each tier will challenge you with iconic cars and evolving courses, inviting you to master the art of racing across eras, from the elegance of the classics to the raw power of millennium milestones.",
-
+    "ui.career.motorsport.apex.description": "Race against AI opponents.",
     "ui.career.specialized.name": "Specialized",
-    "ui.career.specialized.description": "From action-packed police operations and emergency rescues to highly specialized and exclusive deliveries and escorts, the Specialized Branch offers players a chance to step into the big leagues and thrive.",
-    "ui.career.specialized.criminal.name": "Criminal",
-    "ui.career.specialized.criminal.description": "Now: Evade the police and reach your hideout in time. Coming soon: Step into the shadowy world of Criminal Activities gameplay, where you navigate the adrenaline-fueled life of a lawbreaker. From high-stakes getaway missions to audacious vehicle heists, test your skills in evading the police, mastering vehicle theft, and pulling off daring robberies, all while climbing the ranks to become the ultimate criminal mastermind.",
+    "ui.career.specialized.description": "Action-packed police pursuits and evasions.",
+    "ui.career.specialized.criminal.name": "Evasion",
+    "ui.career.specialized.criminal.description": "Evade the police and reach your hideout in time.",
     "ui.career.specialized.police.name": "Police",
     "ui.career.specialized.police.description": "Chase after and stop criminals to preserve the rule of law.",
 
-    "ui.career.specialized.enforcement.name": "Law Enforcement",
-    "ui.career.specialized.enforcement.description": "Now: Chase after and stop criminals to preserve the rule of law. Coming soon: Beginning with EVOC training, players gain foundational police driving skills necessary for high-speed chases and emergency situations, advancing through more complex techniques and a broader selection of police vehicles with a mix of practical and theoretical learning. Progressing through Law Enforcement ranks unlocks further levels of EVOC training and access to an extensive vehicle lineup, eventually achieving the 'Bounty Hunter' status, which allows for personalized vehicle selection and more independent challenge engagement.",
-    "ui.career.specialized.paramedics.name": "Paramedics",
-    "ui.career.specialized.paramedics.description": "Coming soon: Embark on a journey from mastering the basics of ambulance navigation to becoming a veteran in life-saving missions with our upcoming Paramedic gameplay. Rise through the ranks, unlock specialized rescue skills, and face challenges that will test your limits and define your legacy as a hero on the streets.",
-    "ui.career.specialized.privateSecurity.name": "Private Security",
-    "ui.career.specialized.privateSecurity.description": "Coming soon: Dive into the high-stakes world of secure transport with our upcoming gameplay, where you'll navigate the thrilling demands of VIP Transport, Convoy Escort, and more. Experience the adrenaline of protecting high-profile clients, valuable assets, and even prisoners, against chases and attacks, ensuring safety through every twist and turn.",
-    "ui.career.specialized.stunt.name": "Stunt Driver",
-    "ui.career.specialized.stunt.description": "Coming soon: Launch into the thrill-packed career of a stunt driver, starting as a rookie and climbing the ranks to become a renowned stunt icon in blockbuster Lens Flare Studios productions. Master a variety of high-octane challenges, from precision driving to daring stunts, while earning fame and honing your skills in a dynamic world of cinematic adrenaline and stunt showcases.",
-
+    "ui.career.specialized.enforcement.name": "Pursuit",
+    "ui.career.specialized.enforcement.description": "Chase after and stop criminals to preserve the rule of law.",
     "ui.career.landingPage.name": "Progress",
     "ui.career.landingPage.description": "Track your progression through the game's main branches and their specific skills. Delve into each branch and plan your path toward expertise in your preferred driving style.",
     "ui.career.progress": "Progress",
@@ -8437,8 +8374,10 @@
     "ui.career.refueling.action.description": "Refuels the vehicle",
     "ui.career.refuelling.modes.fuel.title": "Vehicle refuel",
     "ui.career.refuelling.modes.fuel.ongoing": "Fueling",
+    "ui.career.refuelling.modes.fuel.start": "Pump fuel",
     "ui.career.refuelling.modes.charge.title": "Vehicle recharge",
     "ui.career.refuelling.modes.charge.ongoing": "Charging",
+    "ui.career.refuelling.modes.charge.start": "Charge",
 
     "ui.career.testDrive.endTestDrive": "Test drive parking spot",
     "ui.career.testDrive.endTestDriveDesc": "Current test drive will be ended here",
@@ -8517,6 +8456,7 @@
     "ui.introPopup.garage.title": "Garage",
     "ui.introPopup.garage.text": "",
 
+    "ui.statspage.title": "Stats",
     "ui.statspage.careerTitle": "Career Stats",
     "ui.statspage.generalTitle": "General Stats",
     "ui.statspage.switchMode.toCareer": "Switch to Career stats",
