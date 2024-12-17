@@ -530,8 +530,7 @@
     "ui.repository.loading": "Loading ...",
     "ui.repository.loadingTimedOut": "This is taking longer than usual. If the problem persists please contact our ",
     "ui.repository.support": "support",
-    "ui.repository.notOnline": "Connection to the server could not be established. If this problem persists please take a look ",
-    "ui.repository.notOnline_here": "here",
+    "ui.repository.notOnline": "Unable to connect to the mod repository. If this problem persists please [url=https://go.beamng.com/repositoryTroubleshooting]read this[/url].",
     "ui.repository.modmgrnotready": "The mod manager isn't ready yet. All action are queued until it can be executed. If it takes too much time please contact support.",
 
     "ui.repository.subToMod": "Subscribe to mod",
