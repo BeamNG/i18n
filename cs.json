@@ -1176,7 +1176,7 @@
     "ui.modmanager.openForumDiscussion": "Otevřít diskuzní vlákno",
     "ui.repository.scheduled_upd": "Aktualizovat mody",
     "ui.repository.support": "podporu",
-    "ui.repository.notOnline": "Nepodařilo se navázat spojení se serverem. Pokud problém přetrvává, podívejte se prosím ",
+    "ui.repository.notOnline": "Připojení do repozitáře s mody se nezdařilo. Pokud tento problém přetrvává, tak si prosím [url=https://go.beamng.com/repositoryTroubleshooting]přečtěte toto[/url].",
     "ui.repository.modmgrnotready": "Správce modifikací ještě není připraven. Všechny akce jsou řazeny do fronty, dokud nebude možné je vykonat. Pokud to trvá příliš dlouho, kontaktuj prosím podporu.",
     "ui.repository.notOnline_here": "sem",
     "ui.quickrace.selectTrack": "Vybrat konfiguraci",
@@ -8131,5 +8131,6 @@
     "missions.timeTrials.stars.silverTime3Laps": "Dokonči {{silver3Laps}} kol za {{silverTime3 | time}}.",
     "missions.timeTrials.stars.goldTimeLaps": "Dokonči {{gold1Laps}} kol za {{goldTime | time}}.",
     "missions.timeTrials.stars.goldTime2Laps": "Dokonči {{gold2Laps}} kol za {{goldTime2 | time}}.",
-    "missions.timeTrials.stars.goldTime3Laps": "Dokonči {{gold3Laps}} kol za {{goldTime3 | time}}."
+    "missions.timeTrials.stars.goldTime3Laps": "Dokonči {{gold3Laps}} kol za {{goldTime3 | time}}.",
+    "vehicle.bdebug.collisionTriangleVisMode.off": "Vyp."
 }
