@@ -1441,7 +1441,7 @@
     "ui.repository.scheduled_upd": "更新模組",
     "ui.repository.scheduled_conflicts": "衝突",
     "ui.repository.scheduled_no_conflict": "沒有衝突",
-    "ui.modmanager.openForumDiscussion": "開啟討論串",
+    "ui.modmanager.openForumDiscussion": "開啟討論主題",
     "ui.repository.loading": "載入中...",
     "ui.repository.loadingTimedOut": "這比平常需要花上更多時間。若問題持續存在，請聯絡我們的",
     "ui.repository.support": "客服",
@@ -8024,5 +8024,10 @@
     "vehicle.interaction.domelight.rear.toggle.title": "切換後室內燈",
     "vehicle.bdebug.torsionBarVisMode.type": "類型",
     "vehicle.bdebug.collisionTriangleVisMode.brokenOnly": "僅限已損壞",
-    "vehicle.bdebug.collisionTriangleVisMode.withBroken": "包含已損壞"
+    "vehicle.bdebug.collisionTriangleVisMode.withBroken": "包含已損壞",
+    "missions.italy.rallyStage.ss-fastello-norte.description": "一個全柏油路面賽段，起點位於法斯特洛的街道，之後駛上一條沿海道路，在此能如當地人般淋漓盡致地切西瓜將左右賽事成績。路線最後將讓車手有機會發揮最高速度。",
+    "ui.rally.experimentalPrompt": " <div style=\"text-align:center;vertical-align:top\"> <div style=\"display:flex;flex-flow: row;flex-wrap: wrap;align-items: stretch;justify-content: space-around; margin-bottom:2em\"> <div style=\"flex: 0 0 30%;margin:0em 0.5em;\"> <div style=\"background-image:url('/ui/modules/rallyselect/right-47.svg'); background-size: contain; height:8em;background-repeat: no-repeat; background-position: center;\"> </div> <span>此為仍在持續開發中的非常初步預覽，並非我們的最終願景。</span> </div> <div style=\"flex: 0 0 30%;margin:0em 0.5em;\"> <div style=\"background-image:url('/ui/modules/rallyselect/right-30.svg'); background-size: contain; height:8em;background-repeat: no-repeat; background-position: center;\"> </div> <span>歡迎提供初步回饋：請至<a href=\"http-external://go.beamng.com/rallyThread\">此討論主題</a>協助我們使拉力賽模式在未來成形！</span> </div> <div style=\"flex: 0 0 30%;margin:0em 0.5em;\"> <div style=\"background-image:url('/ui/modules/rallyselect/left-68.svg'); background-size: contain; height:8em;background-repeat: no-repeat; background-position: center;\"> </div> <span>目前版本的相關模組、賽段、設定、進度可能無法相容未來版本。</span> </div> </div> <span style=\"width:100%;\"><span style=\"font-weight:800;\">提示：</span>自由漫遊中的地圖選單新增了新的「拉力賽段」類別。</span> <div>",
+    "missions.jungle_rock_island.rallyStage.ss-howler-pass.title": "SS 呼嘯山口",
+    "missions.italy.rallyStage.ss-fastello-norte.title": "SS 法斯特洛 - 諾特",
+    "missions.jungle_rock_island.rallyStage.ss-howler-pass.description": "一個嚴苛、狹窄、不容許失誤的賽段。顛簸的泥土小徑和泥濘四散，需要駕駛者將風險管理放在第一位，而非完全的速度。您可以在任務開始畫面選擇載具。"
 }
