@@ -1167,7 +1167,7 @@
     "ui.mainmenu.telemetryOnlineHint": "Telemetrie werkt niet zonder online functies geactiveerd.",
     "ui.mainmenu.telemetry.featureDescription": "We willen graag data verzamelen zoals de duur van sessies, gespeelde scenario's, en of bepaalde sim functies zijn ingeschakeld, met als doel gebieden te identificeren voor toekomstige ontwikkeling en verbetering van de spelerservaring. Deze gegevens worden verzonden naar onze server, waar het wordt geanonimiseerd en opgeslagen op een manier die identificatie van individuen niet mogelijk is. We zullen deze informatie niet gebruiken voor marketing- of advertentiedoeleinden. Voor de lijst met verzamelde gegevenstypen en uw rechten, klik [url=https://go.beamng.com/privacyPolicy]hier[/url].",
     "ui.mainmenu.telemetry.header": "Telemetrie",
-    "ui.repository.notOnline": "Verbinding met de server kon niet tot stand gebracht worden. Als dit probleem zich voor blijft doen raadpleeg ",
+    "ui.repository.notOnline": "Kan niet met de online mods verbinden. Als dit probleem blijft bestaan, [url=https://go.beamng.com/repositoryTroubleshooting]lees dit[/url].",
     "ui.repository.cat_terrain": "Terreinen, levels, Mappen",
     "ui.repository.filter_latest": "Nieuwste",
     "ui.repository.order_direction": "Verander sortering",
