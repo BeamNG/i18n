@@ -5040,5 +5040,7 @@
     "ui.options.gameplay.enableDragRaceInFreeroam": "Kiihdytyskisa",
     "ui.options.gameplay.enableDriftInFreeroam": "Drift-alueet",
     "ui.options.traffic.restrictForCareer": "Rajoita liikenteen lataus uratilassa",
-    "ui.options.traffic.restrictForCareer.tooltip": "Jos käytössä, vain muutama ajoneuvo ladataan uratilassa. Tämän tarkoitus on nopeuttaa latausaikoja ja suorityskykyä."
+    "ui.options.traffic.restrictForCareer.tooltip": "Jos käytössä, vain muutama ajoneuvo ladataan uratilassa. Tämän tarkoitus on nopeuttaa latausaikoja ja suorityskykyä.",
+    "ui.controls.ffb.torqueCurrent": "Nykyinen vääntö",
+    "ui.controls.ffb.torqueDesired": "Turvallisuus vääntö"
 }
