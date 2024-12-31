@@ -5038,5 +5038,6 @@
     "ui.apps.categories.rally": "Ralli",
     "ui.playmodes.rally": "Ralli",
     "ui.options.gameplay.enableDragRaceInFreeroam": "Kiihdytyskisa",
-    "ui.options.gameplay.enableDriftInFreeroam": "Drift-alueet"
+    "ui.options.gameplay.enableDriftInFreeroam": "Drift-alueet",
+    "ui.options.traffic.restrictForCareer": "Rajoita liikenneen lataus ura tilalle"
 }
