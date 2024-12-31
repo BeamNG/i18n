@@ -5047,5 +5047,11 @@
     "ui.debug.vehicle.partsSelected": "Valitut osat",
     "ui.debug.vehicle.syncSelectedPartsWithPartsList": "Synkronoi osalistan kanssa",
     "ui.debug.vehicle.sync": "Synkronoi",
-    "ui.debug.vehicle.steeringGeometry": "Ohjausgeometrian virheenkorjaus"
+    "ui.debug.vehicle.steeringGeometry": "Ohjausgeometrian virheenkorjaus",
+    "ui.scenarios.finish": "Maali! Pysäytä auto.",
+    "missions.west_coast_usa.arrive.Tutorial.title": "Ensimmäinen Haasteesi!",
+    "ui.debug.vehicle.steeringGeometryLineLength": "Viivan Pituus",
+    "ui.radialmenu2.Mirrors": "Säädä peilejä",
+    "missions.west_coast_usa.arrive.Tutorial.description": "Tämä havannoilistamis haaste on yksinkertainen: Saavu määränpäähän!",
+    "ui.radialmenu2.Mirrors.desc": "Säädä nykyisen ajoneuvosi peilejä."
 }
