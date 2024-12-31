@@ -5044,5 +5044,5 @@
     "ui.controls.ffb.torqueCurrent": "Nykyinen vääntö",
     "ui.controls.ffb.torqueDesired": "Turvavääntö",
     "ui.debug.vehicle.maxDist": "Maksimietäisyys",
-    "ui.debug.vehicle.partsSelected": "Osat Valittu"
+    "ui.debug.vehicle.partsSelected": "Valitut osat"
 }
