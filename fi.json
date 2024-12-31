@@ -5035,5 +5035,8 @@
     "ui.apps.driftFlashMessages.name": "Drift Flash-viestit",
     "ui.quickrace.tod.time": "Aika",
     "ui.vehicleconfig.gotoold": "Vanhaan käyttöliittymään",
-    "ui.apps.categories.rally": "Ralli"
+    "ui.apps.categories.rally": "Ralli",
+    "ui.playmodes.rally": "Ralli",
+    "ui.options.gameplay.enableDragRaceInFreeroam": "Kiihdytyskisa",
+    "ui.options.gameplay.enableDriftInFreeroam": "Drift alueet"
 }
