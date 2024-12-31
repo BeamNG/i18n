@@ -5043,5 +5043,6 @@
     "ui.options.traffic.restrictForCareer.tooltip": "Jos käytössä, vain muutama ajoneuvo ladataan uratilassa. Tämän tarkoitus on nopeuttaa latausaikoja ja suorityskykyä.",
     "ui.controls.ffb.torqueCurrent": "Nykyinen vääntö",
     "ui.controls.ffb.torqueDesired": "Turvavääntö",
-    "ui.debug.vehicle.maxDist": "Maksimietäisyys"
+    "ui.debug.vehicle.maxDist": "Maksimietäisyys",
+    "ui.debug.vehicle.partsSelected": "Osat Valittu"
 }
