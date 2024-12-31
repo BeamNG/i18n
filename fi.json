@@ -2589,7 +2589,7 @@
     "ui.options.gameplay.useSteamName": "Käytä Steam-nimeä rekisterikilvessä",
     "ui.options.gameplay.useSteamName.tooltip": "Jos käytössä, Steam-käyttäjänimesi voi näkyä ajoneuvosi rekisterikilvessä.",
     "ui.options.traffic": "Liikenne",
-    "ui.options.traffic.amount": "Maksimimäärä ajoneuvoja",
+    "ui.options.traffic.amount": "Maksimimäärä liikenneajoneuvoja",
     "ui.options.traffic.amount.tooltip": "Määrää kartan suurimman sallitun ajoneuvomäärän (suuremmat määrät tarvitsevat enemmän CPU:n suoritustehoa).",
     "ui.options.traffic.trafficSetup": "Liikenteen ajoneuvovalinnat",
     "ui.options.traffic.trafficSetup.tooltip": "Määrää ajoneuvot, jotka tuodaan liikenteeseen (älykäs tila käyttää maakohtaisia ajoneuvoja useammin)",
@@ -5022,5 +5022,10 @@
     "ui.options.graphics.PostFXLightRaysEnabledTooltip": "Aurinkoa osittain peittävät kappaleet saavat valonsäteitä ympärilleen.\n\n[b][*]GPU:[/b] Pieni[b][*]VRAM:[/b] Ei yhtään[b][*]CPU:[/b] Ei yhtään",
     "ui.options.graphics.PostFXDOFGeneralEnabledTooltip": "Syväterävyys simuloi kameran linssin ilmiötä, jossa tarkentamattomat kappaleet sumentuvat.\n\n[b][*]GPU:[/b] Pieni[b][*]VRAM:[/b] Ei yhtään[b][*]CPU:[/b] Ei yhtään",
     "ui.options.graphics.GraphicGrassDensityTooltip": "Säätää näkyvien ruohotuppojen määrää maastossa.\n\n[b][*]GPU:[/b] Pieni[b][*]VRAM:[/b] Keskitaso[b][*]CPU:[/b] Ei yhtään",
-    "ui.options.graphics.GraphicDynMirrorsTooltip": "Käyttää tuetuissa ajoneuvoissa peilien oikeaa sijaintia peiliheijastuksissa.\n\n[b][*]GPU:[/b] Keskitaso[b][*]VRAM:[/b] Keskitaso[b][*]CPU:[/b] Keskitaso"
+    "ui.options.graphics.GraphicDynMirrorsTooltip": "Käyttää tuetuissa ajoneuvoissa peilien oikeaa sijaintia peiliheijastuksissa.\n\n[b][*]GPU:[/b] Keskitaso[b][*]VRAM:[/b] Keskitaso[b][*]CPU:[/b] Keskitaso",
+    "ui.common.understood": "Ymmärretty!",
+    "ui.mainmenu.addons": "Lisäosat",
+    "ui.mainmenu.oldmenu": "Vanha päävalikko",
+    "ui.mainmenu.newmenu": "Uusi päävalikko",
+    "ui.rally.experimentalWarning": "Ralli tila - WIP"
 }
