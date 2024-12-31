@@ -4558,7 +4558,7 @@
     "ui.radialmenu2.powertrain.regen.full.desc": "Maksimi regeneratiivisen jarrutuksen voimakkuus + 1 Polkimen ajotila",
     "ui.decalsEditor.layersNoun": "kerros | kerrokset",
     "ui.camera.mode.orbit": "Kiertävä",
-    "ui.camera.mode.driver": "Kuljetttaja",
+    "ui.camera.mode.driver": "Kuljettaja",
     "ui.camera.mode.chase": "Jahtaava",
     "ui.radialmenu2.powertrain.regen.level": "Taso {{level | number: 0}}",
     "ui.radialmenu2.powertrain.regen.level.desc": "{{percent | number:0}} % täydestä regeneratiivisen jarrutuksen voimakkuudesta",
