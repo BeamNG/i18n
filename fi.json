@@ -5046,5 +5046,6 @@
     "ui.debug.vehicle.maxDist": "Maksimietäisyys",
     "ui.debug.vehicle.partsSelected": "Valitut osat",
     "ui.debug.vehicle.syncSelectedPartsWithPartsList": "Synkronoi osalistan kanssa",
-    "ui.debug.vehicle.sync": "Synkronoi"
+    "ui.debug.vehicle.sync": "Synkronoi",
+    "ui.debug.vehicle.steeringGeometry": "Ohjausgeometrian virheenkorjaus"
 }
