@@ -3865,5 +3865,6 @@
     "launchercpp.integrity_error": "Помилка цілісності",
     "launchercpp.integrity_chk": "Перевірка цілісності",
     "launchercpp.integrity_chking": "Перевіряється цілісність...",
-    "launchercpp.integrity_missing_manifest": "неможливо перевірити цілісність, геш-файл відсутній"
+    "launchercpp.integrity_missing_manifest": "неможливо перевірити цілісність, геш-файл відсутній",
+    "ui.common.property.recommendedVehicle": "Рекомендований автомобіль"
 }
