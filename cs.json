@@ -8132,5 +8132,19 @@
     "missions.timeTrials.stars.goldTimeLaps": "Dokonči {{gold1Laps}} kol za {{goldTime | time}}.",
     "missions.timeTrials.stars.goldTime2Laps": "Dokonči {{gold2Laps}} kol za {{goldTime2 | time}}.",
     "missions.timeTrials.stars.goldTime3Laps": "Dokonči {{gold3Laps}} kol za {{goldTime3 | time}}.",
-    "vehicle.bdebug.collisionTriangleVisMode.off": "Vyp."
+    "vehicle.bdebug.collisionTriangleVisMode.off": "Vyp.",
+    "ui.inputActions.vehicle_debug.debugmode_coltris_fwd.title": "Procházet kolizní trojúhelník",
+    "ui.inputActions.vehicle_debug.debugmode_coltris_fwd.description": "Prochází režimy ladění kolizního trojúhelníku",
+    "vehicle.bdebug.collisionTriangleVisMode": "Změněna vizualizace kolizního trojúhelníku: {{collisionTriangleVisMode | translate}}",
+    "vehicle.bdebug.collisionTriangleVisMode.withBroken": "S rozbitými",
+    "vehicle.interaction.mixer_chute_lock.toggle.desc": "Zablokuje či odblokuje otáčení žlabu míchačky betonu",
+    "ui.controls.ffbUnsafeFrequencyWarning": "Aktuální konfigurace zpětné vazby může mít vliv na tvou snímkovou frekvenci:<list><li>Konfigurovaná hodnota: {{finalFrequency}} Hz<li>Doporučeno: 'Automaticky' (aktuální bezpečný odhad: {{safeFrequency}} Hz nebo nižší)</list>",
+    "ui.controls.ffbUnsafeTypeWarning": "Aktuální konfigurace může mít velký vliv na snímkovou frekvenci. Pokud '{{'ui.controls.ffb.updateType.fast'|translate}}' nefunguje vůbec nebo špatně, zvažte prosím aktualizaci ovladačů a firmwaru vašeho volantu. '{{'ui.controls.ffb.updateType.slow'|translate}}' použijte pouze jako poslední možnost a to jen v případě, že zaznamenáte zlepšení.",
+    "ui.rally.experimentalPrompt": " <div style=\"text-align:center;vertical-align:top\"> <div style=\"display:flex;flex-flow: row;flex-wrap: wrap;align-items: stretch;justify-content: space-around; margin-bottom:2em\"> <div style=\"flex: 0 0 30%;margin:0em 0.5em;\"> <div style=\"background-image:url('/ui/modules/rallyselect/right-47.svg'); background-size: contain; height:8em;background-repeat: no-repeat; background-position: center;\"> </div> <span>Jedná se o velmi ranou ukázku, na které se stále intenzivně pracuje. Neodráží naši konečnou vizi.</span> </div> <div style=\"flex: 0 0 30%;margin:0em 0.5em;\"> <div style=\"background-image:url('/ui/modules/rallyselect/right-30.svg'); background-size: contain; height:8em;background-repeat: no-repeat; background-position: center;\"> </div> <span>Vítáme jakoukoliv zpětnou vazbu: navštivte tento web <a href=\"http-external://go.beamng.com/rallyThread\">forum thread</a> a pomozte nám utvářet budoucnost režimu rallye!!</span> </div> <div style=\"flex: 0 0 30%;margin:0em 0.5em;\"> <div style=\"background-image:url('/ui/modules/rallyselect/left-68.svg'); background-size: contain; height:8em;background-repeat: no-repeat; background-position: center;\"> </div> <span>Mody, etapy, nastavení a postup z této verze hry nemusí být kompatibilní s budoucími aktualizacemi.</span> </div> </div> <span style=\"width:100%;\"><span style=\"font-weight:800;\">Tip:</span> V nabídce mapy v režimu volné jízdy je nyní k dispozici nová sekce „Rallye etapy“.</span> <div>",
+    "vehicle.bdebug.collisionTriangleVisMode.type": "Typ",
+    "vehicle.bdebug.collisionTriangleVisMode.brokenOnly": "Pouze rozbité",
+    "vehicle.bdebug.collisionTriangleVisMode.withoutBroken": "Bez rozbitých",
+    "vehicle.bdebug.collisionTriangleVisMode.collideableOnly": "Pouze kolizní",
+    "vehicle.bdebug.torsionBarVisMode.type": "Typ",
+    "vehicle.bdebug.collisionTriangleVisMode.simple": "Jednoduchý"
 }
