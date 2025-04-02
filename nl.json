@@ -1669,7 +1669,7 @@
     "launchercpp.cleancache_interact_manualreq": "Het gebruikerspad is in de game folder.\nU zult handmatig de cache folders moeten verwijderen.",
     "launchercpp.setting_parse_err_txt": "Kon game instellingen niet verwerken.\nZoek contact op met support",
     "launchercpp.firewall_err_txt": "BeamNG.drive kon niet worden toegevoegd aan de Windows firewall uitzonderingen lijst.",
-    "launchercpp.cleancache_interact_stat": "{0:d} bestanden verplaatst naar de backup, {1:d} bestanden in de cache verwijderd, {2:d} folders verkend",
+    "launchercpp.cleancache_interact_stat": "{0:d} bestanden verplaatst naar de backup, {1:d} bestanden in de cache verwijderd",
     "launchercpp.cleancache_interact_rmempty": "Lege folders verwijderen...",
     "launchercpp.cleancache_interact_done": "Alle onbekenden bestanden in het gebruikersfolder zijn verplaatst naar:\n'{0}'\nCache is gewist.",
     "launchercpp.integrity_error": "Integriteit error",
