@@ -4169,7 +4169,7 @@
     "ui.radialmenu2.funstuff.LatchesOpen": "Otevřít západky",
     "ui.radialmenu2.funstuff.LatchesOpen.desc": "Pokusí se otevřít všechny západky.",
     "ui.radialmenu2.funstuff.LatchesClose": "Zavřít západky",
-    "ui.radialmenu2.powertrain.regen.off": "Vypnuto",
+    "ui.radialmenu2.powertrain.regen.off": "Regenerativní brzdění vypnuto",
     "ui.radialmenu2.powertrain.regen.desc": "Změnit sílu rekuperačního brzdění a zapnout nebo vypnout jízdu s jedním pedálem",
     "ui.radialmenu2.powertrain.regen": "Rekuperační brzdění",
     "ui.radialmenu2.powertrain.regen.full": "Plný (pohon 1 pedálu)",
