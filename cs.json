@@ -8192,5 +8192,7 @@
     "ui.career.performance.quarterMileScore": "1/4 míle",
     "ui.career.certification.time_1_4": "Čas na 1/4 míle",
     "ui.career.certification.velAt_1_4": "Rychlost na 1/4 míle",
-    "ui.career.certification.time_0_60": "Čas 0–60 mil/h (100 km/h)"
+    "ui.career.certification.time_0_60": "Čas 0–60 mil/h (100 km/h)",
+    "ui.options.rally.textCompositor.voice": "Hlas spolujezdce",
+    "ui.options.rally.textCompositor.voice.tooltip": "Výběr hlasu spolujezdce."
 }
