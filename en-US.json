@@ -6566,8 +6566,8 @@
     "missions.dragRace.gameplay.restartButton": "Restart",
     "missions.dragRace.gameplay.declineButton": "Continue",
 
-    "missions.dragRace.gameplay.retryFoe": "Retry with same foe",
-    "missions.dragRace.gameplay.retry": "Retry with different foe",
+    "missions.dragRace.gameplay.retryFoe": "Retry same opponent",
+    "missions.dragRace.gameplay.retry": "New opponent",
     "missions.dragRace.gameplay.exit": "Exit",
     "missions.dragRace.gameplay.selectOpponent": "Select Opponent Vehicle",
 
