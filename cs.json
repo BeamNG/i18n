@@ -8278,5 +8278,13 @@
     "ui.career.motorsports_bmra.dragracing.name": "Závody v akceleraci vozidel",
     "ui.career.motorsport.dragracing.name": "Závody v akceleraci vozidel",
     "ui.career.motorsports_apm.drift.name": "Driftování",
-    "ui.career.motorsports_bmra.drift.name": "Driftování"
+    "ui.career.motorsports_bmra.drift.name": "Driftování",
+    "levels.west_coast_usa.gasStationPoints.apex_commercial.title": "Čerpací stanice Apex",
+    "vehicle.vehicleController.shifterModeCurrent": "Aktuální režim převodovky: „{{shifterModeName | translate}}“",
+    "levels.west_coast_usa.gasStationPoints.apex_commercial.description": "Zde můžeš doplnit palivo velkým a komerčním vozidlům.",
+    "levels.west_coast_usa.gasStationPoints.apex_commercial_KEVee.title": "Dobíjecí stanice Apex",
+    "launchercpp.moveusr_move_content_msg": "Stará složka uživatele obsahovala {0} souborů ({1}).\n\nChceš je přenést do nového umístění?",
+    "launchercpp.manage_backup_restore_confirm": "UPOZORNĚNÍ: Obnovením této zálohy do tvé aktuální složky uživatele dojde k přepsání některých souborů.\n\nChceš pokračovat?\n\n{0}",
+    "ui.career.rewards.branchMultiplier": "{{branch | contextTranslate}} Násobič",
+    "ui.career.bmra.name": "BMRA"
 }
