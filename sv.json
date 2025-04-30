@@ -1628,5 +1628,11 @@
     "ui.rally.menus.chooseVehicle": "Välj Fordon",
     "ui.modmanager.updated.btnCancel": "Lämna dem avstängda för tillfället",
     "ui.quickrace.tod.time": "Tid",
-    "ui.modmanager.listPossiblyBrokenModsTitle": "Eventuellt trasiga mods"
+    "ui.modmanager.listPossiblyBrokenModsTitle": "Eventuellt trasiga mods",
+    "ui.vehicleconfig.sourceMod": "Mod",
+    "ui.repository.searchClear": "Rensa Sökning",
+    "ui.repository.applySearch": "Tillämpa",
+    "ui.quickrace.name": "Namn",
+    "ui.quickrace.time": "Tid",
+    "ui.racetime.time": "Tid"
 }
