@@ -1687,5 +1687,6 @@
     "ui.options.graphics.High": "Hög",
     "ui.photomode.screenshotNormal": "Normal",
     "ui.apps.categories.goals": "Mål",
-    "ui.introPopup.ok": "Okej"
+    "ui.introPopup.ok": "Okej",
+    "ui.apps.hotlapping.close": "nära"
 }
