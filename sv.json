@@ -1634,5 +1634,6 @@
     "ui.repository.applySearch": "Tillämpa",
     "ui.quickrace.name": "Namn",
     "ui.quickrace.time": "Tid",
-    "ui.racetime.time": "Tid"
+    "ui.racetime.time": "Tid",
+    "ui.environment.tireMarks": "Däckmärken"
 }
