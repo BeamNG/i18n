@@ -1562,5 +1562,9 @@
     "ui.introPopup.tuning.title": "Fordonsinställningar",
     "ui.introPopup.milestones.title": "Milstolpar",
     "ui.introPopup.garage.title": "Garage",
-    "ui.statspage.subtitle": "Spelarstatistik"
+    "ui.statspage.subtitle": "Spelarstatistik",
+    "ui.environment.tireMarks.save": "Spara",
+    "ui.modmanager.updateAllMissing": "Ladda ner alla",
+    "ui.environment.tireMarks.reset": "Rensa",
+    "ui.environment.tireMarks.load": "Ladda"
 }
