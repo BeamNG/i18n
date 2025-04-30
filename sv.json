@@ -1617,5 +1617,16 @@
     "ui.credits.additionalVehiclePhysics": "Ytterligare Fordonsfysik",
     "ui.credits.additionalVehicleArt": "Ytterligare Fordonskonst",
     "ui.color.configurations": "Konfigurationer",
-    "ui.options.rally.codriverTiming": "Codriver Tidtagning"
+    "ui.options.rally.codriverTiming": "Codriver Tidtagning",
+    "ui.common.understood": "Förstått!",
+    "ui.common.clear": "Rensa",
+    "ui.mainmenu.mod": "Mod",
+    "ui.modmanager.updated.title": "BeamNG.drive har uppdaterats till version {{versionStr}}",
+    "ui.common.expand": "Expandera",
+    "ui.mainmenu.addons": "Tillägg",
+    "ui.mainmenu.more": "Mer...",
+    "ui.rally.menus.chooseVehicle": "Välj Fordon",
+    "ui.modmanager.updated.btnCancel": "Lämna dem avstängda för tillfället",
+    "ui.quickrace.tod.time": "Tid",
+    "ui.modmanager.listPossiblyBrokenModsTitle": "Eventuellt trasiga mods"
 }
