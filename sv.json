@@ -1684,5 +1684,7 @@
     "ui.mission.action.start": "Starta",
     "ui.options.graphics.Normal": "Normal",
     "ui.options.graphics.Low": "Låg",
-    "ui.options.graphics.High": "Hög"
+    "ui.options.graphics.High": "Hög",
+    "ui.photomode.screenshotNormal": "Normal",
+    "ui.apps.categories.goals": "Mål"
 }
