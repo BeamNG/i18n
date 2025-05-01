@@ -1824,5 +1824,10 @@
     "missions.missions.general.userSettings.timeOfDay": "Tid på Dagen",
     "missions.missions.general.userSettings.weather": "Väder",
     "ui.photomode.openScreenshotsFolder": "Öppna Skärmdumpsmappen",
-    "ui.vehicleconfig.searchHelp.history": "Sökhistorik"
+    "ui.vehicleconfig.searchHelp.history": "Sökhistorik",
+    "ui.traffic.infractions.racing": "racing",
+    "ui.apps.categories.rally": "Rally",
+    "ui.playmodes.rally": "Rally",
+    "ui.options.rally": "Rally",
+    "ui.career.motorsport.racing.name": "Racing"
 }
