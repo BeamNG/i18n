@@ -1823,5 +1823,6 @@
     "ui.performance.benchmark.realtime": "Realtid",
     "missions.missions.general.userSettings.timeOfDay": "Tid på Dagen",
     "missions.missions.general.userSettings.weather": "Väder",
-    "ui.photomode.openScreenshotsFolder": "Öppna Skärmdumpsmappen"
+    "ui.photomode.openScreenshotsFolder": "Öppna Skärmdumpsmappen",
+    "ui.vehicleconfig.searchHelp.history": "Sökhistorik"
 }
