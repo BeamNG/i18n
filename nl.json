@@ -24,7 +24,7 @@
     "engine.editor.menu.saveLevelAs": "Level opslaan als...",
     "engine.editor.menu.unlockSelection": "Selectie ontgrendelen",
     "engine.engineFail": "Er is een fout opgetreden, de applicatie sluit af.",
-    "engine.invalidUserpath.msg": "BeamNG.drive heeft geen toegang tot het UserPath gedefinieerd in startup.ini (applicatie map). Wijzig deze naar een geldig pad: ",
+    "engine.invalidUserpath.msg": "BeamNG.drive heeft geen toegang tot het UserPath dat is opgegeven in startup.ini (toepassingsmap). Wijzig dit naar een geldig pad: ",
     "engine.invalidUserpath.title": "Ongeldig gebruikerspad",
     "engine.levelModified.msg": "Level is bewerkt in de Editor. Wil je het opslaan?",
     "engine.levelModified.title": "Level gewijzigd",
