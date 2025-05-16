@@ -5066,5 +5066,7 @@
     "missions.west_coast_usa.arrive.Gas.description": "Toimita saastunutta bensaa jalostamolle",
     "missions.johnson_valley.timeTrial.desertstage.description": "Nopea reitti aavikon läpi ralliautossa.",
     "missions.automation_test_track.delivery.Cafesupplies.title": "Kahvilatarvikkeet",
-    "missions.utah.delivery.desertdriver.title": "Aavikko Kuski"
+    "missions.utah.delivery.desertdriver.title": "Aavikko Kuski",
+    "missions.west_coast_usa.drift.BelascoDrift1.title": "Manji Vuori",
+    "missions.italy.timeTrial.Cliff.title": "Kallio tie"
 }
