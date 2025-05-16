@@ -5061,5 +5061,8 @@
     "ui.playmodes.legacy": "vanha",
     "ui.options.gameplay.gameplayMarkers": "vapaa-ajon pelimerkit",
     "ui.debug.vehicle.showOnlySelectedPartsMesh": "Näytä vain valitun osan geometria",
-    "missions.west_coast_usa.arrive.Gas.title": "Bensa Juoksu"
+    "missions.west_coast_usa.arrive.Gas.title": "Bensa Juoksu",
+    "missions.west_coast_usa.arrive.Gas.introText": "Tämä huoltoasema sai huonoa maaöljyä ja se tarvitsee vientiä takaisin jalostamolle",
+    "missions.west_coast_usa.arrive.Gas.description": "Toimita saastunutta bensaa jalostamolle",
+    "missions.johnson_valley.timeTrial.desertstage.description": "Nopea reitti aavikon läpi ralli autossa."
 }
