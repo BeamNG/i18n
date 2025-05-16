@@ -3105,7 +3105,7 @@
     "ui.options.graphics.GraphicDynReflectionDetailTooltip": "Objektien laatu heijastuksissa.",
     "ui.options.graphics.GraphicDynReflectionFacesPerupdateTooltip": "Kuinka usein heijastukset päivittyvät. Korkeat arvot ovat poikkeuksellisen raskaita suorituskyvylle.",
     "ui.options.graphics.GraphicDynReflectionTexsizeTooltip": "Korkeat asetukset tuovat tarkemmat heijastukset. Suositeltava arvo on 1024.",
-    "ui.options.graphics.GraphicDynReflectionTooltip": "Kytkee reaaliaikaiset heijastukset aktiiviseen ajoneuvoon.",
+    "ui.options.graphics.GraphicDynReflectionTooltip": "Kytkee reaaliaikaiset heijastukset aktiiviseen ajoneuvoon.\n[b][*]GPU:[/b] Kohtalainen[b][*]VRAM:[/b] Mitätön[b][*]CPU:[/b] Kohtalainen",
     "ui.options.graphics.postfxReset": "Nollaa PostFX-asetukset",
     "ui.options.graphics.GraphicAnisotropicTooltip": "Vaikuttaa tekstuurien suodatuksen laatuun.\n\n[b][*]GPU:[/b] Pieni[b][*]VRAM:[/b] Ei yhtään[b][*]CPU:[/b] Ei yhtään",
     "ui.options.graphics.GraphicPostfxQualityTooltip": "Vaikuttaa jälkikäsittelyefektien laatuun.",
