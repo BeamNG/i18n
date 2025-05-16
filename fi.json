@@ -3110,7 +3110,7 @@
     "ui.options.graphics.GraphicAnisotropicTooltip": "Vaikuttaa tekstuurien suodatuksen laatuun.\n\n[b][*]GPU:[/b] Pieni[b][*]VRAM:[/b] Ei yhtään[b][*]CPU:[/b] Ei yhtään",
     "ui.options.graphics.GraphicPostfxQualityTooltip": "Vaikuttaa jälkikäsittelyefektien laatuun.",
     "ui.options.graphics.GraphicShaderQualityTooltip": "Vaikuttaa shaderien kokonaislaatuun.",
-    "ui.options.graphics.GraphicLightingQualityTooltip": "Vaikuttaa valaistusominaisuuksiin ja varjojen resoluutioon.\n[b][*]GPU:[/b] Suuri[b][*]VRAM:[/b] Suuri[b][*]CPU:[/b] Mitätön",
+    "ui.options.graphics.GraphicLightingQualityTooltip": "Vaikuttaa valaistusominaisuuksiin ja varjojen suodatukseen.\n\n[b][*]GPU:[/b] Suuri[b][*]VRAM:[/b] Suuri[b][*]CPU:[/b] Kohtalainen",
     "scenario.customExtensionLoadFailed": "Logiikkalisäosa ei käytössä. Tarkista, onko lokeissa varoituksia lisäosalle {{extName}}",
     "ui.common.simpleVehicles": "Yksinkertaiset ajoneuvot",
     "ui.controls.lockType": "1:1 käytös",
