@@ -3018,7 +3018,7 @@
     "ui.trackbuilder.menus.exitWindow": "Sulje ikkuna",
     "ui.trackBuilder.toolbar.title": "Työkalupalkki",
     "ui.mainmenu.mods.desciptionUnavailable": "Kuvaus ei saatavilla",
-    "ui.options.graphics.GraphicAntialiasTypeTooltip": "Reunojenpehmennys vähentää kuvan reunojen porrasmaisuutta. SMAA:ta suositellaan.",
+    "ui.options.graphics.GraphicAntialiasTypeTooltip": "Reunojenpehmennys vähentää kuvan reunojen porrasmaisuutta. SMAA:ta suositellaan.\n\n[b][*]GPU:[/b] Minor[b][*]VRAM:[/b] Minor[b][*]CPU:[/b] None",
     "ui.options.graphics.other": "Muut asetukset",
     "ui.options.graphics.effects": "Tehosteet",
     "ui.options.graphics.graphics": "Grafiikka-asetukset",
