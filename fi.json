@@ -3103,8 +3103,8 @@
     "ui.options.graphics.TripleMonitorEnable": "Käytä usean näytön renderöintiä",
     "ui.options.graphics.GraphicDynReflectionDistanceTooltip": "Heijastuksien renderöinnin maksimietäisyys.\n\n[b][*]GPU:[/b] Kohtalainen[b][*]VRAM:[/b] Mitätön[b][*]CPU:[/b] Kohtalainen",
     "ui.options.graphics.GraphicDynReflectionDetailTooltip": "Objektien laatu heijastuksissa.\n\n[b][*]GPU:[/b] Kohtalainen[b][*]VRAM:[/b] Mitätön[b][*]CPU:[/b] Kohtalainen",
-    "ui.options.graphics.GraphicDynReflectionFacesPerupdateTooltip": "Kuinka usein heijastukset päivittyvät. Korkeat arvot ovat poikkeuksellisen raskaita suorituskyvylle.",
-    "ui.options.graphics.GraphicDynReflectionTexsizeTooltip": "Korkeat asetukset tuovat tarkemmat heijastukset. Suositeltava arvo on 1024.",
+    "ui.options.graphics.GraphicDynReflectionFacesPerupdateTooltip": "Kuinka usein heijastukset päivittyvät. Korkeat arvot ovat poikkeuksellisen raskaita suorituskyvylle.\n\n[b][*]GPU:[/b] Kohtalainen[b][*]VRAM:[/b] Kohtalainen[b][*]CPU:[/b] Suuri",
+    "ui.options.graphics.GraphicDynReflectionTexsizeTooltip": "Korkeat asetukset tuovat tarkemmat heijastukset.\n\n[b][*]GPU:[/b] Kohtalainen[b][*]VRAM:[/b] Kohtalainen[b][*]CPU:[/b] Mitätön",
     "ui.options.graphics.GraphicDynReflectionTooltip": "Kytkee reaaliaikaiset heijastukset aktiiviseen ajoneuvoon.\n\n[b][*]GPU:[/b] Suuri[b][*]VRAM:[/b] Kohtalainen[b][*]CPU:[/b] Kohtalainen",
     "ui.options.graphics.postfxReset": "Nollaa PostFX-asetukset",
     "ui.options.graphics.GraphicAnisotropicTooltip": "Vaikuttaa tekstuurien suodatuksen laatuun.\n\n[b][*]GPU:[/b] Pieni[b][*]VRAM:[/b] Ei yhtään[b][*]CPU:[/b] Ei yhtään",
@@ -5081,5 +5081,6 @@
     "ui.rally.codriverTiming": "Kartanlukijan ajoitus",
     "ui.vehicleconfig.highlight": "Korosta",
     "ui.options.rally": "Ralli",
-    "ui.debug.vehicle.partsSelectedSearchText": "Hae osaa..."
+    "ui.debug.vehicle.partsSelectedSearchText": "Hae osaa...",
+    "ui.condition.needsRepair": "Tarvitsee korjausta"
 }
