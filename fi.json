@@ -3089,7 +3089,7 @@
     "ui.apps.threedexport.TexCoords": "Tekstuurikoordinaatit",
     "ui.apps.threedexport.Tangents": "Tangentit",
     "ui.apps.threedexport.Normals": "Normaalit",
-    "ui.options.graphics.GraphicMeshQualityTooltip": "Vaikuttaa objektien laatuun suuremmilla etäisyyksillä.",
+    "ui.options.graphics.GraphicMeshQualityTooltip": "Vaikuttaa objektien laatuun suuremmilla etäisyyksillä.\n[b][*]GPU:[/b] Major[b][*]VRAM:[/b] None[b][*]CPU:[/b] Moderate",
     "ui.options.graphics.GraphicTextureQualityTooltip": "Vaikuttaa tekstuurien laatuun ja resoluutioon.",
     "ui.options.audio.Low": "Matala (64 Ääntä)",
     "ui.options.audio.Normal": "Normaali (128 Ääntä)",
