@@ -3090,7 +3090,7 @@
     "ui.apps.threedexport.Tangents": "Tangentit",
     "ui.apps.threedexport.Normals": "Normaalit",
     "ui.options.graphics.GraphicMeshQualityTooltip": "Vaikuttaa objektien laatuun suuremmilla etäisyyksillä.\n\n[b][*]GPU:[/b] Suuri[b][*]VRAM:[/b] Ei yhtään[b][*]CPU:[/b] Kohtalainen",
-    "ui.options.graphics.GraphicTextureQualityTooltip": "Vaikuttaa tekstuurien laatuun ja resoluutioon.\n\n[b][*]GPU:[/b] Mitätätön[b][*]VRAM:[/b] Suuri[b][*]CPU:[/b] Mitätön",
+    "ui.options.graphics.GraphicTextureQualityTooltip": "Vaikuttaa tekstuurien laatuun ja resoluutioon.\n\n[b][*]GPU:[/b] Mitätön[b][*]VRAM:[/b] Suuri[b][*]CPU:[/b] Mitätön",
     "ui.options.audio.Low": "Matala (64 Ääntä)",
     "ui.options.audio.Normal": "Normaali (128 Ääntä)",
     "ui.options.audio.High": "Korkea (256 Ääntä)",
