@@ -5060,5 +5060,5 @@
     "ui.rally.menus.chooseVehicle": "Valitse ajoneuvo",
     "ui.playmodes.legacy": "vanha",
     "ui.options.gameplay.gameplayMarkers": "vapaa-ajon pelimerkit",
-    "ui.debug.vehicle.showOnlySelectedPartsMesh": "Näytä vain valitut osat verkko"
+    "ui.debug.vehicle.showOnlySelectedPartsMesh": "Näytä vain valitun osan geometria"
 }
