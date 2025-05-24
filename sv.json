@@ -490,16 +490,16 @@
     "ui.hints.engineBrakeForDownhill": "Använd motorbromsning när du kör neråt med tunga fordon. Annars kan bromsarna ge upp.",
     "ui.hints.funStabilityControl": "Bilar med stabilitetskontroll kan byta till farligare (men roliga) lägen med [action=toggleESCMode].",
     "ui.hints.grabVehicleParts": "Du kan ta tag i olika delar av fordonet genom att hålla [action=nodegrabberRender] och sedan dra med musen.",
-    "ui.hints.importveFramerate": "För att förbättra din prestanda, kolla på tipsen under Hjälp > Prestanda > Grundläggande Prestanda Förbättringar",
+    "ui.hints.importveFramerate": "För att förbättra din bildfrekvens, kolla tipsen under Hjälp > Prestanda > Grundläggande Prestandaförbättringar",
     "ui.hints.increaseGroundClearance": "Öka den markfrigången på ditt terrängfordon om du har problem att korsa en flod.",
     "ui.hints.installRollCage": "Du kan installera skyddsburar i vissa fordon: det är inte bara säkrare, utan förbättrar också chassits styvhet och fordonshanteringen (använd [action=parts_selector]).",
     "ui.hints.keepTheEngineUpright": "Att köra en motor upp och ner orsakar oljebrist. Blå avgaser uppstår när olja täcker cylindrarna, då kan motorlagrena gå sönder.",
     "ui.hints.moonGravity": "Du kan simulera mångravitation i menyn \"Miljö\".",
     "ui.hints.notAllCarsCanRace": "Många fordon är inte anpassade för snabb körning eller racing i ordinarie utförande. Uppgraderingar finns i Delväljaren [action=parts_selector].",
     "ui.hints.oldCarsBurn": "Vissa gamla bilar är benägna att fatta eld efter en krasch, men moderna bilar är mycket säkrare.",
-    "ui.hints.photoModeMenu": "Fotoläget förser dig med avancerad kontroll över kameran och en möjlighet att direkt ladda upp bilder till BeamNG:s servrar.",
+    "ui.hints.photoModeMenu": "Fotoläge-menyn ger avancerade kamerakontroller och en möjlighet för direkt bilduppladdning till BeamNG-servrar.",
     "ui.hints.playMultiseat": "Koppla in flera kontroller och spela med vänner hemma genom att öppna ett av Flerspelarlägesscenarierna.",
-    "ui.hints.publishScreenshots": "Om du gillar att ta kort av ditt fordon så kan du använda [action=hide_ui] för att gömma användargränssnittet och sedan [action=publishScreenShot] för att ladda upp bilden.",
+    "ui.hints.publishScreenshots": "Om du gillar att ta bilder på ditt fordon kan du använda [action=toggleUi] för att dölja UI:t och sedan [action=publishScreenShot] för att ladda upp bilden.",
     "ui.hints.quickCameraMovement": "Håll [action=movefast] för snabbare kamerarörelser (stöds inte av alla kameror).",
     "ui.hints.quickSteerResponse": "För snabbare styrningsrespons, prova olika filter för [action=steer_left] och [action=steer_right].",
     "ui.hints.raceBrakesEffectiveness": "Racingbromsar förlorar effekt när de är för kalla.",
@@ -2775,5 +2775,6 @@
     "ui.performance.warnings.ubuntuver": "Ostödd version av Ubuntu",
     "ui.performance.warnings.unsupportedlinuxdist": "Ostödd Linux-distribution",
     "ui.hints.cruiseControlApp": "För långa, avslappnade turer på motorvägen kan du lägga till UI-appen \"Farthållare\". Den fungerar för alla bilar!",
-    "ui.hints.toggleMods": "Du kan snabbt inaktivera och aktivera alla mods genom att klicka på \"Aktivera alla mods\"/\"Avaktivera alla mods\" i Modhanteraren."
+    "ui.hints.toggleMods": "Du kan snabbt inaktivera och aktivera alla mods genom att klicka på \"Aktivera alla mods\"/\"Avaktivera alla mods\" i Modhanteraren.",
+    "ui.inputActions.menu.parts_selector.title": "Fordonskonfigureraren"
 }
