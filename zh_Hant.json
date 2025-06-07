@@ -7255,7 +7255,7 @@
     "vehicle.interaction.powertrain.splitter.setOverdrive.title": "切換副變速器至超速檔",
     "vehicle.interaction.powertrain.splitter.setOverdrive.desc": "切換副變速器至超速檔模式。",
     "vehicle.interaction.powertrain.splitter.set.title": "設定半檔切換器模式",
-    "vehicle.interaction.powertrain.splitter.set.desc": "設定軸輸入副變速器模式。",
+    "vehicle.interaction.powertrain.splitter.set.desc": "以軸輸入設定半檔切換器模式。",
     "vehicle.interaction.trailer.feet.up.title": "抬起腳架",
     "vehicle.interaction.trailer.feet.up.desc": "抬起拖車腳架。",
     "vehicle.interaction.trailer.feet.down.title": "放下腳架",
