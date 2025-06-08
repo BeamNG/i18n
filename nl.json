@@ -1750,7 +1750,7 @@
     "ui.rally.experimentalTitle": "Rallymodus – Experimentele functie",
     "ui.rally.codriverTiming": "Timing van de bijrijder",
     "ui.mainmenu.navbar.back": "[action=menu_item_back] {{:: 'ui.inputActions.menu.menu_item_back.title' | translate}}",
-    "ui.mainmenu.navbar.scroll": "[action=menu_item_radial_right_x] [action=menu_item_radial_right_y] Rol",
+    "ui.mainmenu.navbar.scroll": "[action=menu_item_radial_right_x] [action=menu_item_radial_right_y] Scrollen",
     "ui.mainmenu.navbar.scroll_v": "[action=menu_item_radial_right_y] {{:: 'ui.inputActions.menu.menu_item_radial_right_y.title' | translate}}",
     "ui.quickrace.tod.time": "Tijd",
     "ui.credits.comms": "Communicatie & Marketing",
@@ -1783,5 +1783,9 @@
     "ui.mirrors.position.mid": "Achteruitkijk spiegel",
     "ui.mirrors.position.interior": "Binnenspiegel",
     "ui.photomode.replaySpeed": "Huidige afspeelsnelheid",
-    "ui.photomode.azimuth": "Zon richting"
+    "ui.photomode.azimuth": "Zon richting",
+    "ui.color.clearCoatRoughness": "Blanke Lak Ruwheid",
+    "ui.photomode.bloom": "Bloom",
+    "ui.photomode.toggleNodegrabber": "Nodegrijper",
+    "ui.vehicleconfig.displayNames": "Namen weergeven"
 }
