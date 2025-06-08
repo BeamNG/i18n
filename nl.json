@@ -1739,5 +1739,7 @@
     "ui.mainmenu.more": "Meer...",
     "ui.mainmenu.oldmenu": "Klassiek hoofdmenu",
     "ui.mainmenu.extras": "Extra's",
-    "ui.common.expand": "Uitbreiden"
+    "ui.common.expand": "Uitbreiden",
+    "ui.common.clear": "Wissen",
+    "ui.common.collapse": "Inklappen"
 }
