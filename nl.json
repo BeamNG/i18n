@@ -1789,7 +1789,7 @@
     "ui.photomode.toggleNodegrabber": "Nodegrijper",
     "ui.vehicleconfig.displayNames": "Namen weergeven",
     "ui.photomode.toggleSmooth": "Soepele beweging",
-    "ui.replay.warning": "Een [b]andere versie van de game[/b], [b]andere actieve mods[/b] of [b]andere modversies[/b] kunnen ervoor zorgen dat een herhaling [b]niet kan worden afgespeeld[/b].",
+    "ui.replay.warning": "Een [b]andere versie van de applicatie[/b], andere [b]actieve mods[/b] of andere [b]modversies[/b] kunnen ervoor zorgen dat een herhaling niet kan worden afgespeeld.",
     "ui.photomode.screenshotNormal": "Normaal",
     "ui.photomode.screenshotHuge": "Enorm",
     "ui.photomode.screenshotBig": "Groot",
