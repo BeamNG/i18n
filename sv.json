@@ -4543,5 +4543,9 @@
     "scenarios.utah.chapter_1.chapter_1_suspension.description": "Kör över svår terräng och utmana fjädringen.",
     "bigMap.missionLabels.dragRace": "Dragrace",
     "scenarios.utah.chapter_1.chapter_1_suspension.pass.msg": "Banan slutförd",
-    "campaigns.utah.chapter_1.walljump.title": "Vägghopp"
+    "campaigns.utah.chapter_1.walljump.title": "Vägghopp",
+    "scenarios.utah.chapter_1.chapter_1_walljump.description": "Hoppa över ett gap och genom en tegelvägg.",
+    "scenarios.utah.chapter_2.chapter_2_0_comics_test.description": "chapter_2_0_comictest - serietest.",
+    "scenarios.utah.chapter_2.chapter_2_0_comics_test.title": "chapter_2_0_comictest",
+    "scenarios.utah.chapter_1.chapter_1_walljump.win.msg": "Väggträff"
 }
