@@ -1768,7 +1768,7 @@
     "ui.mirrors.spot": "Blinde hoek",
     "ui.photomode.bloomThreshold": "Drempelwaarde",
     "ui.photomode.reflections": "Reflecties",
-    "ui.photomode.tooltipNodegrabber": "Nodegrabber zichtbaar maken/verbergen",
+    "ui.photomode.tooltipNodegrabber": "Nodegrijperr zichtbaar maken/verbergen",
     "ui.photomode.toggleDoF": "DoF",
     "ui.mainmenu.navbar.scroll_h": "[action=menu_item_radial_right_x] {{:: 'ui.inputActions.menu.menu_item_radial_right_x.title' | translate}}",
     "ui.credits.conceptArtists": "Concept Art",
@@ -1787,5 +1787,6 @@
     "ui.color.clearCoatRoughness": "Blanke Lak Ruwheid",
     "ui.photomode.bloom": "Bloom",
     "ui.photomode.toggleNodegrabber": "Nodegrijper",
-    "ui.vehicleconfig.displayNames": "Namen weergeven"
+    "ui.vehicleconfig.displayNames": "Namen weergeven",
+    "ui.photomode.toggleSmooth": "Soepele beweging"
 }
