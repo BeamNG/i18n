@@ -31,8 +31,8 @@
     "engine.msgboxErrorTitle": "Fout",
     "engine.resourceMissing": "Fout bij creëren bestand (bestand ontbreekt?): ",
     "engine.welcome": "Welkom bij BeamNG.drive in het Nederlands :)",
-    "engine.windowedModeReq.msgEditor": "Verlaat de Mission Editor om op volledig scherm te kunnen spelen.",
-    "engine.windowedModeReq.msgGUI": "Verlaat alsjeblieft de GUI Editor om op volledig scherm te kunnen spelen.",
+    "engine.windowedModeReq.msgEditor": "Sluit de Missie-editor om over te schakelen naar volledig scherm.",
+    "engine.windowedModeReq.msgGUI": "Sluit alsjeblieft de GUI Editor om over te schakelen naar volledig scherm.",
     "engine.windowedModeReq.title": "Venstermodus verplicht",
     "extensions.scenario.damageGoal.checkDamage.fail.msg": "Voorzichtig! Je voertuig is {{damage}}% beschadigd",
     "extensions.scenario.damageGoal.fail.msg": "Je hebt je voertuig beschadigd",
@@ -1735,5 +1735,9 @@
     "scenarios.east_coast_usa.bank_robbery.title": "Bankoverval",
     "ui.common.understood": "Begrepen!",
     "ui.mainmenu.mod": "Modificatie",
-    "ui.mainmenu.addons": "Uitbreidingen"
+    "ui.mainmenu.addons": "Uitbreidingen",
+    "ui.mainmenu.more": "Meer...",
+    "ui.mainmenu.oldmenu": "Klassiek hoofdmenu",
+    "ui.mainmenu.extras": "Extra's",
+    "ui.common.expand": "Uitbreiden"
 }
