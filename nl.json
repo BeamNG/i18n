@@ -1819,10 +1819,10 @@
     "ui.apps.aicontrol.Target": "Doel",
     "scenarios.gridmap.gm_intersection_2.win.msg": "Goed gedaan! Je snelheid: {{speed}} km/u",
     "scenarios.hirochi_raceway.training_slalom_FWD.nomove.msg": "Je hebt een pion aangereden! Probeer een constante snelheid aan te houden en soepel te sturen",
-    "scenarios.jungle_rock_island.jri_rally_port.description": "Zware offroad rally deze eindigt bij de haven.",
+    "scenarios.jungle_rock_island.jri_rally_port.description": "Lastige offroad rally die eindigt bij de haven.",
     "scenarios.hirochi_raceway.intro_shortcircuit.title": "Kort Circuit",
     "scenarios.hirochi_raceway.intro_shortcircuit.description": "De kleinere configuratie van Hirochi Raceway.",
     "scenarios.Industrial.industrial_jump_large.description": "Maak een vliegende rit met een Ibishu Covet rallywagen over een reeks verhoogde platforms.",
     "scenarios.hirochi_raceway.training_advanced_braking.description": "Dit scenario zal je leren hoe je drempelremmen kunt toepassen en de straal van bochten kunt verkleinen.",
-    "scenarios.hirochi_raceway.training_advanced_braking.timeLimit.msg": "De tijd is om! Probeer het opnieuw, maar dan met iets meer snelheid."
+    "scenarios.hirochi_raceway.training_advanced_braking.timeLimit.msg": "De tijd is om! Probeer het opnieuw, maar dan met iets meer snelheid"
 }
