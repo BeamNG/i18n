@@ -1741,5 +1741,14 @@
     "ui.mainmenu.extras": "Extra's",
     "ui.common.expand": "Uitbreiden",
     "ui.common.clear": "Wissen",
-    "ui.common.collapse": "Inklappen"
+    "ui.common.collapse": "Inklappen",
+    "ui.mainmenu.navbar.tab_right": "[action=menu_tab_right] {{:: 'ui.inputActions.menu.menu_tab_right.title' | translate}}",
+    "ui.mainmenu.newmenu": "Nieuw hoofdmenu",
+    "ui.rally.experimentalWarning": "Rallymodus – In ontwikkeling",
+    "ui.rally.finish": "Klaar! Ga verder naar de stopcontrole.",
+    "ui.rally.menus.chooseVehicle": "Kies Voertuig",
+    "ui.rally.experimentalTitle": "Rallymodus – Experimentele functie",
+    "ui.rally.codriverTiming": "Timing van de bijrijder",
+    "ui.mainmenu.navbar.back": "[action=menu_item_back] {{:: 'ui.inputActions.menu.menu_item_back.title' | translate}}",
+    "ui.mainmenu.navbar.scroll": "[action=menu_item_radial_right_x] [action=menu_item_radial_right_y] Rol"
 }
