@@ -1818,7 +1818,7 @@
     "ui.apps.aicontrol.RouteSpeedMode": "Modus:",
     "ui.apps.aicontrol.Target": "Doel",
     "scenarios.gridmap.gm_intersection_2.win.msg": "Goed gedaan! Je snelheid: {{speed}} km/u",
-    "scenarios.hirochi_raceway.training_slalom_FWD.nomove.msg": "Je hebt een pion aangereden! Probeer een constante snelheid aan te houden en soepel te sturen.",
+    "scenarios.hirochi_raceway.training_slalom_FWD.nomove.msg": "Je hebt een pion aangereden! Probeer een constante snelheid aan te houden en soepel te sturen",
     "scenarios.jungle_rock_island.jri_rally_port.description": "Zware offroad rally deze eindigt bij de haven.",
     "scenarios.hirochi_raceway.intro_shortcircuit.title": "Kort Circuit",
     "scenarios.hirochi_raceway.intro_shortcircuit.description": "De kleinere configuratie van Hirochi Raceway.",
