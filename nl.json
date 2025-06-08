@@ -1593,7 +1593,7 @@
     "scenarios.gridmap.gm_intersection_2.description": "Kalibreer je snelheid en probeer de andere auto te raken. Dit keer met een twist!",
     "scenarios.utah.chapter_1.chapter_1_hilldrop.pass.msg": "Goed gedaan!",
     "scenarios.utah.chapter_1.chapter_1_ramcliff.fail.msg": "Je hebt niet beide voertuigen beneden de berg gekregen",
-    "scenarios.utah.chapter_1.chapter_1_hilldrop.fail.msg": "Je hebt niet bewogen in 10 seconden",
+    "scenarios.utah.chapter_1.chapter_1_hilldrop.fail.msg": "Je hebt 10 seconden niet bewogen.",
     "scenarios.utah.chapter_1.chapter_1_highway.fail.msg": "Je moet de wegversperring passeren",
     "scenarios.utah.chapter_1.chapter_1_rubberband.description": "Rubberband - statistieken: schade opgelopen, tijd genomen, hoe ver je door de rivier geraakt bent, score: hoe ver je door de rivier geraakt bent, gefaald: rubber band niet geactiveerd, eerste wegpunt niet bereikt, Nota: heeft een knop nodig dat een rubber band effect dat jouw wagen verbindt met de zijkant van de weg verbindt voor de tijd je knop indrukt, bij activeren dit gooit jouw over de rivier",
     "scenarios.utah.chapter_2.chapter_2_1_ram.playerfall.fail.msg": "Ho! Alles ok daar? Het is niet de bedoeling om jezelf er af te gooien, opletten!",
@@ -1824,5 +1824,6 @@
     "scenarios.hirochi_raceway.intro_shortcircuit.description": "De kleinere configuratie van Hirochi Raceway.",
     "scenarios.Industrial.industrial_jump_large.description": "Maak een vliegende rit met een Ibishu Covet rallywagen over een reeks verhoogde platforms.",
     "scenarios.hirochi_raceway.training_advanced_braking.description": "Dit scenario zal je leren hoe je drempelremmen kunt toepassen en de straal van bochten kunt verkleinen.",
-    "scenarios.hirochi_raceway.training_advanced_braking.timeLimit.msg": "De tijd is om! Probeer het opnieuw, maar dan met iets meer snelheid"
+    "scenarios.hirochi_raceway.training_advanced_braking.timeLimit.msg": "De tijd is om! Probeer het opnieuw, maar dan met iets meer snelheid",
+    "scenarios.jungle_rock_island.jri_moose.title": "Uitwijktest"
 }
