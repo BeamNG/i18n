@@ -4541,5 +4541,7 @@
     "scenarios.utah.chapter_1.chapter_1_drag.fail.msg": "Du slutförde inte loppet",
     "scenarios.utah.chapter_1.chapter_1_hilldrop.description": "Kör en semitrailer nerför en kulle och så långt som möjligt genom kanjonen på 20 sekunder.",
     "scenarios.utah.chapter_1.chapter_1_suspension.description": "Kör över svår terräng och utmana fjädringen.",
-    "bigMap.missionLabels.dragRace": "Dragrace"
+    "bigMap.missionLabels.dragRace": "Dragrace",
+    "scenarios.utah.chapter_1.chapter_1_suspension.pass.msg": "Banan slutförd",
+    "campaigns.utah.chapter_1.walljump.title": "Vägghopp"
 }
