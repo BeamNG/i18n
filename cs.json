@@ -8382,5 +8382,10 @@
     "missions.general.replay.enableMissionRecording": "Nahrát záznam mise",
     "missions.general.replay.temporaryAreNotPermanent": "Záznamy, které nejsou označeny jako oblíbené budou po nějaké době smazány.",
     "missions.missions.dragRace.userSettings.randomOpponent.trueLabel": "Náhodný",
-    "missions.missions.dragRace.userSettings.randomOpponent.falseLabel": "Vlastní"
+    "missions.missions.dragRace.userSettings.randomOpponent.falseLabel": "Vlastní",
+    "ui.experiences.missions.tasticolaRestock.description": "Doruč veliký přívěs plně naložený TastiColou do určeného umístění.",
+    "ui.experiences.missions.ringRoad.title": "Silniční závod",
+    "ui.experiences.missions.ringRoad.description": "Závoď s různými řidiči na okruhu kolem Small Islandu.",
+    "ui.experiences.missions.barrelKnocker.title": "Srážení sudů",
+    "ui.experiences.missions.barrelKnocker.description": "Získávej body za srážení sudů na cestě."
 }
