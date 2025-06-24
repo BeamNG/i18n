@@ -8296,5 +8296,12 @@
     "missions.drift.stats.maxDriftAngle": "最大飄移角度",
     "missions.drift.stats.totalIndividualDrifts": "飄移總次數",
     "missions.drift.stats.maxDriftCombo": "最高連續飄移數",
-    "missions.drift.stats.totalDriftDist": "飄移總距離"
+    "missions.drift.stats.totalDriftDist": "飄移總距離",
+    "ui.experiences.leisurelyDrive.description": "熟悉駕駛操作並穿過義大利街頭。",
+    "ui.experiences.leisurelyDrive.task.subtext": "沿著路線或使用地圖 [action=toggleBigMap] 為自己設下目的地。",
+    "ui.experiences.johnsonValley.description": "在強森谷的岩石和沙丘上體驗幾輛不同載具。",
+    "ui.experiences.johnsonValley.task.subtext": "有多輛載具供你試駕。使用圓形選單 [action=toggleRadialMenuMulti] 更換載具。",
+    "ui.experiences.trackday.task1.subtext": "有多輛載具供你試駕。使用圓形選單 [action=toggleRadialMenuMulti] 更換載具。",
+    "ui.experiences.trackday.description": "駕駛幾輛不同高性能車輛在 Hirochi 賽車場上繞繞。",
+    "ui.experiences.trackday.task1.label": "駕駛這些車輛上場繞繞！"
 }
