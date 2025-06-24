@@ -5073,7 +5073,7 @@
     "missions.utah.timeTrial.Old.description": "一條沿著四周台地和峽谷而行的碎石環道，起點在老舊工廠。",
     "missions.west_coast_usa.collection.downtownrush.description": "收集市區內的所有錢袋。",
     "missions.small_island.timeTrial.IRS3.description": "這個極長賽段將考驗你沿著狹窄泥土道路通過島上中部岩石地形的能力。",
-    "missions.derby.aiRace.Flag.description": "一個迴圈的環道競速。",
+    "missions.derby.aiRace.Flag.description": "離金牌就差一點點了，繼續嘗試，面對風險。",
     "missions.utah.collection.G500Campsite.title": "打掃營地 - {{'ui.names.g500.name' | translate}}",
     "missions.utah.collection.G500Campsite.introText": "營地附近剛將大量垃圾裝袋，我們得在露營者來臨之前快快收集各處的垃圾袋。",
     "levels.gridmap.spawnpoints.halfpipes": "半管",
@@ -8291,5 +8291,10 @@
     "missions.east_coast_usa.evade.miramarmenace.title": "Miramar 威脅",
     "missions.east_coast_usa.evade.miramarmenace.description": "駕駛偷來的 Miramar 遠離警方並躲藏一陣子。",
     "missions.east_coast_usa.evade.miramarmenace.startText": "逃離警察！",
-    "missions.east_coast_usa.evade.miramarmenace.arrestFailText": "你被逮捕了！"
+    "missions.east_coast_usa.evade.miramarmenace.arrestFailText": "你被逮捕了！",
+    "missions.crashTest.general.nextStep": "下一步",
+    "missions.drift.stats.maxDriftAngle": "最大飄移角度",
+    "missions.drift.stats.totalIndividualDrifts": "飄移總次數",
+    "missions.drift.stats.maxDriftCombo": "最高連續飄移數",
+    "missions.drift.stats.totalDriftDist": "飄移總距離"
 }
