@@ -8387,5 +8387,6 @@
     "ui.experiences.missions.ringRoad.title": "Silniční závod",
     "ui.experiences.missions.ringRoad.description": "Závoď s různými řidiči na okruhu kolem Small Islandu.",
     "ui.experiences.missions.barrelKnocker.title": "Srážení sudů",
-    "ui.experiences.missions.barrelKnocker.description": "Získávej body za srážení sudů na cestě."
+    "ui.experiences.missions.barrelKnocker.description": "Získávej body za srážení sudů na cestě.",
+    "ui.mainmenu.navbar.scroll_label": "Posunout"
 }
