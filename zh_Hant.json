@@ -8303,5 +8303,8 @@
     "ui.experiences.johnsonValley.task.subtext": "有多輛載具供你試駕。使用圓形選單 [action=toggleRadialMenuMulti] 更換載具。",
     "ui.experiences.trackday.task1.subtext": "有多輛載具供你試駕。使用圓形選單 [action=toggleRadialMenuMulti] 更換載具。",
     "ui.experiences.trackday.description": "駕駛幾輛不同高性能車輛在 Hirochi 賽車場上繞繞。",
-    "ui.experiences.trackday.task1.label": "駕駛這些車輛上場繞繞！"
+    "ui.experiences.trackday.task1.label": "駕駛這些車輛上場繞繞！",
+    "ui.experiences.propDestruction.description": "用你的車撞擊各種道具將它們摧毀。",
+    "ui.experiences.trackday.task2.subtext": "去賽車場和當中的直線加速賽道上看看，使用地圖 [action=toggleBigMap] 設定導航路線。",
+    "ui.experiences.propDestruction.task.label": "使車輛瞄準道具撞向它們。"
 }
