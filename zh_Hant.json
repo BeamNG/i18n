@@ -8161,7 +8161,7 @@
     "launchercpp.manage_backup_open": "開啟備份資料夾\n{0}",
     "launchercpp.manage_backup_delete_confirm": "確定要刪除此備份資料夾？\n\n{0}",
     "launchercpp.backups_manager_no_backups_title": "未找到任何備份",
-    "launchercpp.backups_manager_content": "[Page {0} / {1}]\n選擇備份資料夾並檢視、復原或刪除",
+    "launchercpp.backups_manager_content": "[頁 {0} / {1}]\n選擇備份資料夾並檢視、復原或刪除",
     "launchercpp.manage_backup_restore_confirm": "警告：將此備份復原至目前使用者資料夾將使部分現存檔案遭到覆蓋。\n\n是否繼續？\n\n{0}",
     "ui.mainmenu.navbar.scroll_label": "捲動",
     "ui.experiences.ramplow.title": "交通大混亂",
