@@ -5769,5 +5769,6 @@
     "missions.evade.general.timeSilver": "Utmärkt körning. Det var en hisnande och lysande flykt.",
     "missions.evade.intro.destinationStrict": "Undvik polisen och anländ till den markerade målplatsen. Om polisen är för nära där, led dem bort innan du återvänder.<br>",
     "missions.evade.stars.roadblocks": "Passera minst {{goalRoadblocks}} vägspärrar.",
-    "missions.west_coast_usa.crawl.easyCrawl001.title": "Introduktion till friformskrypning 02 (Krypning)"
+    "missions.west_coast_usa.crawl.easyCrawl001.title": "Introduktion till friformskrypning 02 (Krypning)",
+    "missions.evade.stars.perfectEscape": "Genomför en perfekt flykt (ingen nedräkning)."
 }
