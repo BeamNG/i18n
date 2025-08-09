@@ -267,5 +267,11 @@
     "ui.unit.mpg": "Mail per Gallon",
     "ui.unit.bhp": "Brems Rosskroft",
     "scenarios.east_coast_usa.gm_racetest.title": "Renntescht",
-    "missions.driver_training.safety_training.training_spin_recovery.title": "Sichoheitstraining: Spin-Doholung"
+    "missions.driver_training.safety_training.training_spin_recovery.title": "Sichoheitstraining: Spin-Doholung",
+    "ui.inputActions.menu.options.title": "Optionen",
+    "missions.west_coast_usa.chase.Goliath.title": "Goliat",
+    "ui.inputActions.menu.menu_item_select.title": "auswähl",
+    "ui.inputActions.menu.toggleMenues.title": "Meni",
+    "ui.inputActions.slowmotion.faster_motion.description": "Bischlainig Zait",
+    "ui.inputActions.menu.toggle_help.title": "Hilfe"
 }
