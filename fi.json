@@ -4785,7 +4785,7 @@
     "missions.delivery.west_coast_usa.trailerIntro.introMessage": "Täällä voit harjoitella, miten perävaunu kiinnitetään ja miten sillä ajetaan. Perävaunu on jo lastattu noin 200 kilon kuormalla. Älä kuitenkaan huoli, kuorma on kiinnitetty perävaunuun eikä se putoa sieltä.<br><br>Olen asettanut merkkejä auttamaan sinua perävaunun kiinnittämisessä: Käänny ensin oikealle ja kohdista rekka parkkipaikan kanssa, sitten peruuta hitaasti perävaunuun. Paina [action=couplersToggle] kiinnittääksesi perävaunun. Odota, että ajoneuvo kiinnittyy, ja olet valmis!<br><br>Voit ajaa vapaasti ympäriinsä ja totutella ajamiseen perävaunun kanssa. Kun olet valmis, aja sillan yli ja mene toiselle parkkipaikalle. Ota niin paljon aikaa kuin tarvitset!",
     "missions.delivery.west_coast_usa.trailerIntro.starOutroTexts.justFinish": "Hienoa! Tämän harjoittelu auttaa sinua varmasti tulevissa toimituksissa.",
     "missions.delivery.johnson_valley.camper.title": "Karavaanarin Kömmähdys",
-    "missions.delivery.johnson_valley.camper.description": "Saavun vihdoin leirintäalueelle eksyttyäni väärälle tielle.",
+    "missions.delivery.johnson_valley.camper.description": "Hae kaatunut asuntoauto ja aja se leirintäalueelle.",
     "missions.delivery.johnson_valley.camper.introMessage": "Näyttää siltä, että olet jossain vaiheessa kääntynyt väärään suuntaan ajaessasi kohti Dunekickerin perusleiriä. Vielä huonompaa on se, että matkailuvaunusi on jotenkin irronnut ja kaatunut. Tarkistettuasi karttasi huomaat, ettet vieläkään ole tarpeeksi fiksu löytääksesi reittiä, mutta tiedät suunnilleen, mihin suuntaan sinun pitää mennä. Pian leirillä on tärkeä tapahtuma, jota et halua missata, joten nyt kannattaa kiirehtiä! Käännä matkailuvaunu takaisin pystyyn ja jatka matkaa!",
     "missions.delivery.johnson_valley.camper.starOutroTexts.justFinish": "Ainakin pääsit turvallisesti perille! Seuraavalla kerralla saat luvan investoida karttaan ja kompassiin..",
     "missions.delivery.johnson_valley.camper.starOutroTexts.justFinishTime": "Juuri ja juuri ajallaan! Koska kaikki meni loppujen lopuksi hyvin, olet varma, ettet tulevaisuudessakaan tarvitse karttaa tai kompassia.",
@@ -5109,5 +5109,6 @@
     "ui.options.graphics.lowFovDetailEnabledTooltip": "Nostaa geometrian renderöintietäisyyttä alle 30 asteen of näkökentässä.\n\n\n[b][*]GPU:[/b] Kohtalainen[b][*]VRAM:[/b] Mitätön[b][*]CPU:[/b] Kohtalainen",
     "ui.options.graphics.fpsLimitBackgroundEnabled": "Rajoita kuvataajuus, kun ikkuna ei ole päällimmäinen",
     "ui.options.audio.intercomVol": "Kommunikaatio - rallinuotit",
-    "ui.options.audio.AudioFmodEnableDebugLogging": "FMOD debug-loki päälle (pitää uudellenkäynnistää)"
+    "ui.options.audio.AudioFmodEnableDebugLogging": "FMOD debug-loki päälle (pitää uudellenkäynnistää)",
+    "ui.experiences.johnsonValley.description": "Kokeile muutamaa eri kulkuneuvoa Johnsson Valleyn kivikoilla ja dyyneillä."
 }
