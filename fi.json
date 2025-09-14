@@ -5110,5 +5110,5 @@
     "ui.options.graphics.fpsLimitBackgroundEnabled": "Rajoita kuvataajuus, kun ikkuna ei ole päällimmäinen",
     "ui.options.audio.intercomVol": "Kommunikaatio - rallinuotit",
     "ui.options.audio.AudioFmodEnableDebugLogging": "FMOD debug-loki päälle (pitää uudellenkäynnistää)",
-    "ui.experiences.johnsonValley.description": "Kokeile muutamaa eri kulkuneuvoa Johnsson Valleyn kivikoilla ja dyyneillä."
+    "ui.experiences.johnsonValley.description": "Kokeile muutamaa eri kulkuneuvoa Johnson Valleyn kivikoilla ja dyyneillä."
 }
