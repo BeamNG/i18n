@@ -6415,5 +6415,16 @@
     "missions.dragRaceAPM.stars.time": "Få en 1/4 mil tid under {{targetTime | time}}",
     "missions.dragRaceAPM.stars.threshold": "Vinn med en marginal på minst {{targetTime | time}}",
     "missions.dragRaceAPM.stars.dial": "Närma dig den dial du ställt in med ett marginal på {{targetTime | time}}",
-    "missions.dragRace.stars.reaction": "Slå motståndarens 1/4 mil-tid och få en reaktionstid under {{targetTime | time}}"
+    "missions.dragRace.stars.reaction": "Slå motståndarens 1/4 mil-tid och få en reaktionstid under {{targetTime | time}}",
+    "missions.dragRace.stars.time": "Slå motståndarens 1/4 mil-tid och få en 1/4 mil-tid på under {{targetTime | time}}",
+    "missions.dragRace.stars.threshold": "Slå motståndarens 1/4 mil-tid och slå dem dessutom med ett marginal på {{targetTime | time}}",
+    "missions.dragRace.stars.dial": "Slå motståndarens 1/4 mil-tid och närma dig den dial du ställt in med en marginal på {{targetTime | time}}",
+    "missions.dragRace.stars.justFinish": "Slutför bara Drag Racet.",
+    "missions.dragRace.stars.justWin": "Slå motståndarens 1/4 mil-tid.",
+    "missions.dragRace.stars.outroBronze": "Bra jobbat dragster! Fortsätt så!",
+    "missions.dragRace.stars.outroSilver": "Vilket härligt lopp! Grattis, men det finns fortfarande arbete kvar!",
+    "missions.dragRace.stars.outroGold": "Fantastiskt! Det här kallar jag ett drag race! Vilket skådespel!",
+    "missions.dragRace.stars.outroNoStars": "Trevligt lopp! Men jag är säker på att du kan göra bättre ifrån dig!",
+    "missions.collect.general.title": "Insamling",
+    "missions.collect.intro.survivalRecovery": "<ul><li>Spelläget är <b>Återställningsöverlevnad</b>.</li><li>Försök samla så många markörer som möjligt.</li><li>Du kan vända din bil upprätt högst {{survivalRecoveries}} gång(er).</li></ul>"
 }
