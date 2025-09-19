@@ -8876,5 +8876,6 @@
     "ui.performance.linux.windowingSystem": "視窗系統",
     "insurance.history.event.insuranceScoreDecreased.name": "保險分數已降低",
     "missions.crashTest.general.seeEndScreen": "查看統計資料",
-    "missions.gridmap_v2.delivery.obstaclecourse.title": "旋轉門考驗"
+    "missions.gridmap_v2.delivery.obstaclecourse.title": "旋轉門考驗",
+    "missions.gridmap_v2.delivery.obstaclecourse.description": "具有大型旋轉裝置的危險障礙賽道。"
 }
