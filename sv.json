@@ -1858,7 +1858,7 @@
     "ui.apps.aicontrol.Drivability": "Min Körtbarhet:",
     "ui.apps.aicontrol.TargetMap": "Karta:",
     "ui.apps.aicontrol.TargetVehicle": "Fordon:",
-    "ui.apps.aicontrol.AiDebug": "AI Felsökning",
+    "ui.apps.aicontrol.AiDebug": "AI-felsökning",
     "ui.apps.brake_thermal_debug.selectWheels": "Välj Hjul",
     "ui.apps.brake_thermal_debug.energyToBrakeSurface": "Energi Till Bromsyta",
     "ui.apps.brake_thermal_debug.energySurfaceToCore": "Ytenergi Till Kärna",
