@@ -8877,5 +8877,6 @@
     "insurance.history.event.insuranceScoreDecreased.name": "保險分數已降低",
     "missions.crashTest.general.seeEndScreen": "查看統計資料",
     "missions.gridmap_v2.delivery.obstaclecourse.title": "旋轉門考驗",
-    "missions.gridmap_v2.delivery.obstaclecourse.description": "具有大型旋轉裝置的危險障礙賽道。"
+    "missions.gridmap_v2.delivery.obstaclecourse.description": "具有大型旋轉裝置的危險障礙賽道。",
+    "missions.gridmap_v2.delivery.obstaclecourse.introMessage": "穿越由三個危險房間組成的障礙挑戰賽道，其中有著設計用來阻礙你運送行動的巨大旋轉障礙物。<br><br>你的任務是盡快將空桶送到終點。速度和精準度操駕在此非常關鍵。<br><br>在最後的房間得將油門踩到底並精準換檔，才有機會讓桶子以足夠的速度越過終點線。<br><br>重要提示：是讓桶子抵達終點，不是卡車。<br><br>提示：在開始之前調整好傳動系統設定，將成功機率最大化。<br><br>若抵達終點任務卻尚未完成，那就代表桶子並未好好抵達終點。重新開始再試一次！"
 }
