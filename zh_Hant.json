@@ -8878,5 +8878,18 @@
     "missions.crashTest.general.seeEndScreen": "查看統計資料",
     "missions.gridmap_v2.delivery.obstaclecourse.title": "旋轉門考驗",
     "missions.gridmap_v2.delivery.obstaclecourse.description": "具有大型旋轉裝置的危險障礙賽道。",
-    "missions.gridmap_v2.delivery.obstaclecourse.introMessage": "穿越由三個危險房間組成的障礙挑戰賽道，其中有著設計用來阻礙你運送行動的巨大旋轉障礙物。<br><br>你的任務是盡快將空桶送到終點。速度和精準度操駕在此非常關鍵。<br><br>在最後的房間得將油門踩到底並精準換檔，才有機會讓桶子以足夠的速度越過終點線。<br><br>重要提示：是讓桶子抵達終點，不是卡車。<br><br>提示：在開始之前調整好傳動系統設定，將成功機率最大化。<br><br>若抵達終點任務卻尚未完成，那就代表桶子並未好好抵達終點。重新開始再試一次！"
+    "missions.gridmap_v2.delivery.obstaclecourse.introMessage": "穿越由三個危險房間組成的障礙挑戰賽道，其中有著設計用來阻礙你運送行動的巨大旋轉障礙物。<br><br>你的任務是盡快將空桶送到終點。速度和精準度操駕在此非常關鍵。<br><br>在最後的房間得將油門踩到底並精準換檔，才有機會讓桶子以足夠的速度越過終點線。<br><br>重要提示：是讓桶子抵達終點，不是卡車。<br><br>提示：在開始之前調整好傳動系統設定，將成功機率最大化。<br><br>若抵達終點任務卻尚未完成，那就代表桶子並未好好抵達終點。重新開始再試一次！",
+    "missions.aiRace.gridmap_v2.001-grindergrandprix.title": "絞肉機大獎賽",
+    "missions.aiRace.gridmap_v2.001-grindergrandprix.description": "垂直設置了兩座裝上晃蕩物品旋轉裝置的小型賽道。",
+    "missions.aiRace.gridmap_v2.001-grindergrandprix.startText": "你能完成這場混亂又講求運氣的競速嗎？這條「狗骨頭」賽道雖短，卻會使所有選手面臨巨大的危險，因為有兩個裝有流星錘的裝置在賽道上瘋狂旋轉。你的好運能帶你躲過幾次障礙，拔得頭籌？",
+    "missions.gridmap_v2.collection.blenderbowl.title": "攪拌碗",
+    "missions.gridmap_v2.collection.blenderbowl.description": "試著在車輛被攪拌之前收集完所有物品。",
+    "missions.gridmap_v2.collection.blenderbowl.introText": "在被攪拌之前收集完所有物品！",
+    "missions.west_coast_usa.precisionParking.limoparking.title": "超重要停車",
+    "missions.west_coast_usa.precisionParking.limoparking.description": "一場加長禮車停車挑戰。在警局停車場不同樓層中停進指定位置，最後停進路邊的車位作為收尾。",
+    "missions.arrive.general.gForceWarning": "警告，G力過高！",
+    "missions.arrive.general.gForceFail": "你的駕駛不夠平穩！",
+    "missions.arrive.goals.gForceLimit": "平穩駕駛，別讓瞬間G力過高。",
+    "missions.precisionParking.stars.noDamage": "完全不受到損傷。",
+    "bigMap.missionLabels.rallyStage": "拉力賽段"
 }
