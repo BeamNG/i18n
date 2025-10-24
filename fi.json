@@ -5173,5 +5173,7 @@
     "ui.photomode.toggleExtraFeatures": "Lisäominaisuudet",
     "ui.experiences.johnsonValley.title": "Maastopolut",
     "ui.photomode.dontReset": "Älä Nollaa Asetuksia Poistuessa",
-    "ui.photomode.cleanTiremarks": "Pyyhi Renkaanjäljet"
+    "ui.photomode.cleanTiremarks": "Pyyhi Renkaanjäljet",
+    "ui.color.paint.select": "Valitse maali",
+    "ui.color.paint.selectAll": "Valitse kaikki maalit"
 }
