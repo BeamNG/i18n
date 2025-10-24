@@ -4571,7 +4571,7 @@
     "ui.garage.decals.notAvailableForVehicle": "Tämä ajoneuvo ei ole yhteensopiva tarranmuokkausohjelman kanssa!",
     "ui.decalsEditor.title": "Ulkonäköeditori",
     "ui.garage2.lights.west": "Valot vasemmalla",
-    "ui.garage2.lights.middle": "Keskivalot",
+    "ui.garage2.lights.middle": "Valot keskitaso",
     "ui.garage2.lights.east": "Valot oikealla",
     "ui.garage2.features": "Autotallin ominaisuudet",
     "ui.camera.mode.unicycle": "Kävely",
@@ -5114,5 +5114,9 @@
     "ui.experiences.trackday.title": "Avaa Ratapäivä",
     "ui.experiences.johnsonValley.task.subtext": "Käytä Radiaalista Valikkoa [action=toggleRadialMenuMulti] vaihtaakesi ajoneuvoja. Lähesty reittimerkkiä ja hyväksy [action=toggleMenues] aloittaakesi reitin.",
     "ui.experiences.leisurelyDrive.task.subtext": "Seuraa reittiä tai käytä Karttaa [action=toggleBigMap] asettaaksesi määränpääsi.",
-    "ui.experiences.leisurelyDrive.description": "Totuttaudu auton hallintaan ja aja läpi Italian katujen."
+    "ui.experiences.leisurelyDrive.description": "Totuttaudu auton hallintaan ja aja läpi Italian katujen.",
+    "ui.experiences.leisurelyDrive.title": "Leppoisa Ajelu",
+    "ui.photomode.dofAutofocus": "Älykäs Automaattitarkennus",
+    "ui.colorpicker.noPresets": "Esivalintoja ei löytynyt, paina tästä lisätäksesi",
+    "ui.color.paint.selectOne": "Valitse maali {indeksi}"
 }
