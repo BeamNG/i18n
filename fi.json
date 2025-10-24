@@ -5118,5 +5118,7 @@
     "ui.experiences.leisurelyDrive.title": "Leppoisa Ajelu",
     "ui.photomode.dofAutofocus": "Älykäs Automaattitarkennus",
     "ui.colorpicker.noPresets": "Esivalintoja ei löytynyt, paina tästä lisätäksesi",
-    "ui.color.paint.selectOne": "Valitse maali {indeksi}"
+    "ui.color.paint.selectOne": "Valitse maali {indeksi}",
+    "ui.color.custom": "Mukautettu",
+    "ui.modmanager.disabledMods": "Käytöstä Poistetut Modit"
 }
