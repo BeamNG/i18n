@@ -5127,5 +5127,8 @@
     "ui.common.resetVehicle": "Nollaa ajoneuvo",
     "ui.common.ignition": "Sytytys",
     "ui.common.search.unknownArgument": "Tuntematon haku argumentti",
-    "ui.common.search.invalidFormat": "Virheellinen haku muoto"
+    "ui.common.search.invalidFormat": "Virheellinen haku muoto",
+    "ui.common.search.someHidden": "Jotkut tulokset eivät saata olla näkyviä",
+    "ui.common.search.noResults": "Tuloksia ei löytynyt",
+    "ui.color.paint.unnamed": "Maali {indeksi}"
 }
