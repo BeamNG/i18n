@@ -5126,5 +5126,6 @@
     "ui.consent.confirmation": "Tarkastele valintojasi",
     "ui.common.resetVehicle": "Nollaa ajoneuvo",
     "ui.common.ignition": "Sytytys",
-    "ui.common.search.unknownArgument": "Tuntematon haku argumentti"
+    "ui.common.search.unknownArgument": "Tuntematon haku argumentti",
+    "ui.common.search.invalidFormat": "Virheellinen haku muoto"
 }
