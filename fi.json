@@ -5113,5 +5113,6 @@
     "ui.experiences.johnsonValley.description": "Kokeile muutamaa eri kulkuneuvoa Johnson Valleyn kivikoilla ja dyyneillä.",
     "ui.experiences.trackday.title": "Avaa Ratapäivä",
     "ui.experiences.johnsonValley.task.subtext": "Käytä Radiaalista Valikkoa [action=toggleRadialMenuMulti] vaihtaakesi ajoneuvoja. Lähesty reittimerkkiä ja hyväksy [action=toggleMenues] aloittaakesi reitin.",
-    "ui.experiences.leisurelyDrive.task.subtext": "Seuraa reittiä tai käytä Karttaa [action=toggleBigMap] asettaaksesi määränpääsi."
+    "ui.experiences.leisurelyDrive.task.subtext": "Seuraa reittiä tai käytä Karttaa [action=toggleBigMap] asettaaksesi määränpääsi.",
+    "ui.experiences.leisurelyDrive.description": "Totuttaudu auton hallintaan ja aja läpi Italian katujen."
 }
