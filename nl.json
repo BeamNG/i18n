@@ -2046,5 +2046,20 @@
     "ui.traffic.infractions.title": "Overtredingen:",
     "ui.traffic.infractions.speeding": "te hard rijden",
     "ui.traffic.infractions.racing": "racen",
-    "ui.scenarios.ready": "Maak je klaar..."
+    "ui.scenarios.ready": "Maak je klaar...",
+    "ui.common.search.noResults": "Geen resultaten gevonden",
+    "ui.common.search.results": "Zoekresultaten",
+    "ui.common.search.someHidden": "Sommige resultaten zijn mogelijk niet zichtbaar",
+    "ui.common.search.queryTooShort": "Zoekopdracht is te kort",
+    "ui.common.search.invalidFormat": "Ongeldig zoekformaat",
+    "ui.rally.experimentalPrompt": " <div style=\"text-align:center;vertical-align:top\"> <div style=\"display:flex;flex-flow: row;flex-wrap: wrap;align-items: stretch;justify-content: space-around; margin-bottom:2em\"> <div style=\"flex: 0 0 30%;margin:0em 0.5em;\"> <div style=\"background-image:url('/ui/modules/rallyselect/right-47.svg'); background-size: contain; height:8em;background-repeat: no-repeat; background-position: center;\"> </div> <span>Dit is een zeer vroege preview die nog volop in ontwikkeling is. Het weerspiegelt niet onze uiteindelijke visie.</span> </div> <div style=\"flex: 0 0 30%;margin:0em 0.5em;\"> <div style=\"background-image:url('/ui/modules/rallyselect/right-30.svg'); background-size: contain; height:8em;background-repeat: no-repeat; background-position: center;\"> </div> <span>Vroege feedback is welkom: bezoek deze <a href=\"http-external://go.beamng.com/rallyThread\">forumthread</a> en help ons de toekomst van de rallymodus vorm te geven!</span> </div> <div style=\"flex: 0 0 30%;margin:0em 0.5em;\"> <div style=\"background-image:url('/ui/modules/rallyselect/left-68.svg'); background-size: contain; height:8em;background-repeat: no-repeat; background-position: center;\"> </div> <span>Mods, parcours, instellingen en voortgang uit deze versie zijn mogelijk niet compatibel met toekomstige updates.</span> </div> </div> <span style=\"width:100%;\"><span style=\"font-weight:800;\">Tip:</span> A new 'Rally Stage' section is now available in the Map menu on freeroam.</span> <div>",
+    "ui.consent.confirmation": "Bekijk je keuzes",
+    "ui.mainmenu.navbar.scroll_label": "Scroll",
+    "ui.modmanager.activeMods": "Actieve Mods",
+    "ui.modmanager.disabledMods": "Uitgeschakelde Mods",
+    "ui.color.custom": "Custom",
+    "ui.playmodes.mission": "Uitdaging",
+    "ui.playmodes.new": "Nieuw!",
+    "ui.options.other.highPerformancePlanMessage": "Dit zal je pc forceren om het energieplan ‘Hoge prestaties’ van je besturingssysteem bij het opstarten in te schakelen.",
+    "ui.options.other.motionSimMessage": "Schakel dit in om de simulator gegevens naar het motionplatform te laten versturen."
 }
