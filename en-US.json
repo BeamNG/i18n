@@ -1,5 +1,5 @@
 {
-    "engine.welcome": "Welcome to the BeamNG simulator in US English :)",
+    "engine.welcome": "Welcome to BeamNG simulator :)",
     "engine.lua.reloaded": "Main LUA instance reloaded",
     "engine.cef.subprocessdied.title": "Unresponsive UI Process",
     "engine.cef.subprocessdied.msg": "An error occurred in the user interface.\n\n----\nError data:\n{}\n----\n\nYou can find additional help at:\nhttps://go.beamng.com/UnresponsiveUIProcess\n\nOpen in browser now?",
@@ -191,6 +191,7 @@
     "ui.common.fooOrBar": "{{ foo }} or {{ bar }}",
     "ui.common.showDetails": "Show Details",
     "ui.common.default": "Default",
+    "ui.common.custom": "Custom",
     "ui.common.info": "Info",
     "ui.common.back": "Back",
     "ui.common.new": "New",
@@ -199,7 +200,9 @@
     "ui.common.collapse": "Collapse",
 
     "ui.common.enable": "Enable",
+    "ui.common.enabled": "Enabled",
     "ui.common.disable": "Disable",
+    "ui.common.disabled": "Disabled",
     "ui.common.low": "Low",
     "ui.common.medium": "Medium",
     "ui.common.high": "High",
@@ -217,6 +220,9 @@
     "ui.common.overwrite": "Overwrite",
 
     "ui.common.unknown": "Unknown",
+
+    "ui.common.loading": "Loading...",
+    "ui.common.loading.short": "One moment...",
 
     "ui.common.exit": "Exit",
     "ui.common.test": "Test",
@@ -241,6 +247,7 @@
     "ui.common.size": "Automatic replay folder size",
     "ui.common.totalSize": "Maximum folder size",
     "ui.common.totalCount": "Files count",
+
 
     "ui.actions.enter": "Enter Panel",
     "ui.actions.exit": "Exit Panel",
@@ -429,7 +436,7 @@
     "ui.rally.finish": "Finished! Proceed to Stop Control.",
     "ui.rally.menus.chooseVehicle": "Choose Vehicle",
     "ui.rally.experimentalTitle": "Rally mode - Experimental feature",
-    "ui.rally.experimentalPrompt": " <div style=\"text-align:center;vertical-align:top\"> <div style=\"display:flex;flex-flow: row;flex-wrap: wrap;align-items: stretch;justify-content: space-around; margin-bottom:2em\"> <div style=\"flex: 0 0 30%;margin:0em 0.5em;\"> <div style=\"background-image:url('/ui/modules/rallyselect/right-47.svg'); background-size: contain; height:8em;background-repeat: no-repeat; background-position: center;\"> </div> <span>This is an extremely early preview still under heavy development. It doesn't reflect our final vision.</span> </div> <div style=\"flex: 0 0 30%;margin:0em 0.5em;\"> <div style=\"background-image:url('/ui/modules/rallyselect/right-30.svg'); background-size: contain; height:8em;background-repeat: no-repeat; background-position: center;\"> </div> <span>Early feedback is welcome: visit this <a href=\"http-external://go.beamng.com/rallyThread\">forum thread</a> and help us shape the future of rally mode!</span> </div> <div style=\"flex: 0 0 30%;margin:0em 0.5em;\"> <div style=\"background-image:url('/ui/modules/rallyselect/left-68.svg'); background-size: contain; height:8em;background-repeat: no-repeat; background-position: center;\"> </div> <span>Mods, stages, settings and progress from this version may not be compatible with future updates.</span> </div> </div> <span style=\"width:100%;\"><span style=\"font-weight:800;\">Tip:</span> A new 'Rally Stage' section is now available in the Map menu on freeroam.</span> <div>",
+    "ui.rally.experimentalPrompt": " <div style=\"text-align:center;vertical-align:top\"> <div style=\"display:flex;flex-flow: row;flex-wrap: wrap;align-items: stretch;justify-content: space-around; margin-bottom:2em\"> <div style=\"flex: 0 0 30%;margin:0em 0.5em;\"> <div style=\"background-image:url('/ui/modules/rallyselect/right-47.svg'); background-size: contain; height:8em;background-repeat: no-repeat; background-position: center;\"> </div> <span>This is an extremely early preview still under heavy development. It doesn't reflect our final vision.</span> </div> <div style=\"flex: 0 0 30%;margin:0em 0.5em;\"> <div style=\"background-image:url('/ui/modules/rallyselect/right-30.svg'); background-size: contain; height:8em;background-repeat: no-repeat; background-position: center;\"> </div> <span>Early feedback is welcome: visit this <a href=\"http-external://go.beamng.com/rallyThread\">forum thread</a> and help us shape the future of rally mode!</span> </div> <div style=\"flex: 0 0 30%;margin:0em 0.5em;\"> <div style=\"background-image:url('/ui/modules/rallyselect/left-68.svg'); background-size: contain; height:8em;background-repeat: no-repeat; background-position: center;\"> </div> <span>Mods, stages, settings and progress from this version may not be compatible with future updates.</span> </div> </div> <span style=\"width:100%;\"><span style=\"font-weight:800;\">Tip:</span> A new 'Rally Loop' section is now available in the Map menu on freeroam.</span> <div>",
     "ui.rally.codriverTiming": "Codriver timing",
 
     "ui.mainmenu.telemetryConsent": "I consent to the collection of data about my play sessions by[br] BeamNG GmbH (click [url=https://go.beamng.com/privacyPolicy]here[/url] for collected data types).",
@@ -558,14 +565,9 @@
     "ui.repository.modUnpacked": "Unpacked mod",
     "ui.repository.modDownloaded": "Mod downloaded",
 
-    "ui.modmanager.updated.title": "The BeamNG application has been updated to version {{versionStr}}",
-    "ui.modmanager.updated.subtitle": "All installed mods have been temporarily deactivated",
-    "ui.modmanager.updated.p1": "Mods may stop functioning correctly as a result of major application updates.",
-    "ui.modmanager.updated.p2": "Mods can cause crashes, instabilities, broken content/features and similar problems.",
-    "ui.modmanager.updated.p3": "We do our best to prevent this but unfortunately, it is not always possible.",
-    "ui.modmanager.updated.p4": "Some mods might be not compatible with this version of the application yet. Please allow some time for the mod creators to update the mods :)",
-    "ui.modmanager.updated.p5": "Thank you for understanding!",
-    "ui.modmanager.updated.p6": "If you encounter any issues with the application, please [url=https://go.beamng.com/support]contact our support team[/url].",
+    "ui.modmanager.updated.title": "ℹ️ {{productStr}} has updated to version {{versionStr}}",
+    "ui.modmanager.updated.body1": "To ensure a smoother update:<li><strong>Mods were disabled.</strong><li>Unsaved data was moved <i>(backup available in {{'launchercpp.main_instruction'|translate}} > {{'launchercpp.moveusr_instruction'|translate}})</i>.",
+    "ui.modmanager.updated.body2": "Since {{productStr}} is constantly evolving, <strong>mods can break after an update</strong>. This is normal.<br><br>Please allow the amazing modders some time to check and update their mods before you reactivate them 🧡.",
     "ui.modmanager.updated.btnOk": "I accept the risk, reactivate all mods",
     "ui.modmanager.updated.btnCancel": "Leave them disabled for now",
 
@@ -674,6 +676,8 @@
 
     "ui.environment.environment": "Environment",
     "ui.environment.timeOfDay": "Time Of Day",
+    "ui.environment.timeOfDayPlay": "Day/Night Cycle Speed",
+    "ui.environment.timeOfDay.notSupported": "Time of Day is not supported on this level.",
     "ui.environment.play": "Play",
     "ui.environment.time": "Time",
     "ui.environment.day": "Day",
@@ -889,6 +893,15 @@
     "ui.experiences.missions.dragStripRace.title": "Drag Strip Race",
     "ui.experiences.missions.dragStripRace.description": "Race against random opponents on the drag strip of Hirochi Raceway.",
 
+    "ui.experiences.missions.038_quarrycapers.description" : "Race the 5 opponents around the road and quarry site, in a lap that will test your mettle.",
+    "ui.experiences.missions.038_blockTruck.description" : "Rotate trailers between the two cutting sites. Take the empty one up and bring the loaded one back to the end zone.",
+    "ui.experiences.missions.038_marbleHaul1.description" : "Deliver two nineteen-ton blocks of marble to the cutting area.",
+    "ui.experiences.missions.038_quarrytt1.description" : "How fast can you lap the quarry loop?",
+    "ui.experiences.missions.038_quarryG2G.title" : "Garage to Garage at the Italian Quarry",
+    "ui.experiences.missions.038_quarryG2G.description" : "Transport heavy machinery around the Italian quarry.",
+    "ui.experiences.missions.038_quarryRace.description" : "Race work pickup trucks around a course inside the Italian quarry.",
+    "ui.experiences.missions.038_blockTruck2.description" : "Retrieve the loaded trailer and take it down to the finishing zone via the coastal road.",
+
     "ui.experiences.general.quickStart": "Quick-Start: discover a small selection of experiences",
     "ui.experiences.general.timeTag": "{{time}} min",
     "ui.experiences.general.explore": "Explore the area!",
@@ -906,6 +919,38 @@
     "ui.experiences.discover_037.destructiveProps.task.label": "Destroy the cars!",
     "ui.experiences.discover_037.destructiveProps.task.subtext": "You can switch to the props using [action=switch_next_vehicle]. Some props can be operated using [action=toggleWalkingMode] walking mode.",
 
+
+
+    "ui.experiences.discover_038.title": "Heavy Metal",
+    "ui.experiences.discover_038.description": "Put the Hirochi HT-55 Haul Truck and the Hirochi WL-40 Wheel Loader through their paces by hauling around marble blocks and rocks in the new Quarry area in Italy. We've also added some new missions designed to showcase their power.",
+
+    "ui.experiences.discover_038.generic.hydraulicPressure": "Hydraulic Pressure",
+
+
+    "ui.experiences.discover_038.forklift.title": "Forklift Folly",
+    "ui.experiences.discover_038.forklift.description": "Try out the forklift by trying to stack some old cars.",
+    "ui.experiences.discover_038.forklift.task.hydraulicPressure.subText": "The arm is powered by hydraulics which requires the engine to run. Hydraulic speed is directly proportional to the engines RPM.",
+    "ui.experiences.discover_038.forklift.task.controls.subText": "Use [action=wl40__wloader_liftArm] and [action=wl40__wloader_tiltArm] to control the arm and fork attachment.",
+    "ui.experiences.discover_038.forklift.task.blockHandlerForks.label": "Block Handler Forks",
+    "ui.experiences.discover_038.forklift.task.blockHandlerForks.subText": "Try to lift the cars and stack them.",
+
+
+    "ui.experiences.discover_038.logLoader.title": "Logging Around",
+    "ui.experiences.discover_038.logLoader.description": "Use the log sorting grapple to load logs into the trailer.",
+    "ui.experiences.discover_038.logLoader.task.controls.subText": "Use [action=wl40__wloader_liftArm] and [action=wl40__wloader_tiltArm] to control the arm, and [action=wl40__wloader_aux] to control the thumb.",
+    "ui.experiences.discover_038.logLoader.task.hydraulicPressure.subText": "The arm and thumb are powered by hydraulics which requires the engine to run. Hydraulic speed is directly proportional to the engines RPM.",
+    "ui.experiences.discover_038.logLoader.task.logSortingGrapple.label": "Log Sorting Grapple",
+    "ui.experiences.discover_038.logLoader.task.logSortingGrapple.subText": "Try to load the logs onto the truck.",
+
+    "ui.experiences.discover_038.rockslide.title": "\"Accidental\" Rockslide",
+    "ui.experiences.discover_038.rockslide.description": "Drop a bunch of rocks on unsuspecting vehicles.",
+    "ui.experiences.discover_038.rockslide.task.getIntoPlace.label": "Get into place",
+    "ui.experiences.discover_038.rockslide.task.getIntoPlace.subText": "Enter the vehicle with [action=toggleWalkingMode] or the Radial Menu [action=toggleRadialMenuMulti], then carefully reverse the truck to the edge of the cliff.",
+    "ui.experiences.discover_038.rockslide.task.dropTheRocks.label": "Drop the rocks",
+    "ui.experiences.discover_038.rockslide.task.dropTheRocks.subText": "When you are at the edge of the cliff, raise the bed by pressing [action=dumptruck__PTOAxis].",
+
+    "ui.experiences.discover_038.quarry.title": "Heavy Machinery",
+    "ui.experiences.discover_038.quarry.description": "Try out the new Hirochi HT‑55 haul truck and WL‑40 wheel loader. Move around large chunks of marble and rocks in the new Quarry area in Italy.",
 
 
     "ui.replay.play": "Play",
@@ -935,6 +980,16 @@
     "ui.apps.categories.racing": "Racing",
     "ui.apps.categories.rally": "Rally",
     "ui.apps.categories.goals": "Goals",
+
+    "ui.apps.selector.displaySize": "Display size:",
+    "ui.apps.selector.allApps": "All Apps",
+    "ui.apps.selector.addToLayout": "Add to layout",
+    "ui.apps.selector.type": "Type",
+    "ui.apps.selector.version": "Version",
+
+    "ui.apps.selector.interactivity.label": "Interactivity",
+    "ui.apps.selector.interactivity.optional": "Optional Interactive controls",
+    "ui.apps.selector.interactivity.required": "Required mouse to use",
 
     "ui.apps.absdebug.name": "AbsDebug",
     "ui.apps.absdebug.phase": "Phase",
@@ -1316,6 +1371,7 @@
     "ui.apps.thumbnail_generator.GenerateThumbnails": "Generate Thumbnails",
 
     "ui.apps.traffic.name": "Traffic",
+
     "ui.apps.traffic.NumberofCars": "Number of Cars",
     "ui.apps.traffic.Spawn": "Spawn",
     "ui.apps.traffic.Delete": "Delete",
@@ -1326,6 +1382,10 @@
     "ui.apps.traffic.AIMode": "AI Mode",
     "ui.apps.traffic.DebugMode": "Debug Mode",
     "ui.apps.traffic.AwarenessMode": "Awareness Mode",
+    "ui.apps.traffic.mode": "Mode",
+    "ui.apps.traffic.parkedOnly": "Parked Only",
+    "ui.apps.traffic.normal": "Normal",
+    "ui.apps.traffic.police": "Police",
 
     "ui.apps.threedexport.name": "GLTF 3D Exporter",
     "ui.apps.threedexport.EmbedBuffers": "EmbedBuffers",
@@ -1346,6 +1406,7 @@
 
     "ui.apps.gameplayApps.name": "Gameplay Apps (Drag racing, Drift, Rally, etc.)",
     "ui.apps.gameplayApps.description": "An app for displaying one of the gameplay apps, based on the gameplay context: Drift, Drag Tree, Rally Pacenotes",
+    "ui.apps.messagesTasksApps.name": "Messages & Tasks",
 
     "ui.playmodes.campaigns": "Campaigns",
     "ui.playmodes.scenarios": "Scenarios",
@@ -1411,6 +1472,10 @@
     "ui.options.userInterface.richPresenceDiscord": "Enable Discord Rich Presence",
     "ui.options.userInterface.clearRecentActions": "Clear Recent Radial Menu Actions",
     "ui.options.userInterface.resetDynamicSlotSettings": "Reset Radial Menu Dynamic Slot Settings",
+    "ui.options.userInterface.freeroamSetupDefaultStep": "Freeroam Setup Default Step",
+    "ui.options.userInterface.freeroamSetupDefaultStep.level": "Location",
+    "ui.options.userInterface.freeroamSetupDefaultStep.vehicle": "Vehicle",
+    "ui.options.userInterface.freeroamSetupDefaultStep.options": "Options",
 
     "ui.options.minimap.title": "Minimap",
     "ui.options.minimap.mode.label": "Shape",
@@ -1588,8 +1653,10 @@
 
     "ui.options.camera.cameraDriverPhysics": "Inertia strength",
     "ui.options.camera.cameraDriverPhysicsHint": "Allows the camera to slightly move around, in response to physics inertia",
-    "ui.options.camera.cameraDriverStableHorizon": "Lock to horizon",
+    "ui.options.camera.cameraDriverStableHorizon": "Lock roll to horizon",
     "ui.options.camera.cameraDriverStableHorizonHint": "Ties the camera rotation to the world horizon rather than the vehicle. Can reduce discomfort in big wide screen setups",
+    "ui.options.camera.cameraDriverStablePitch": "Lock pitch to horizon",
+    "ui.options.camera.cameraDriverStablePitchHint": "Stabilizes camera pitch relative to the horizon. Reduces camera tilting during loops and steep inclines",
     "ui.options.camera.cameraDriverLookAheadAngle": "Look-ahead angle",
     "ui.options.camera.cameraDriverLookAheadAngleHint": "Limits inertia-based camera rotation",
     "ui.options.camera.cameraDriverLookAheadSmoothness": "Look-ahead smoothness",
@@ -1639,6 +1706,8 @@
     "ui.options.physics.noCollisions": "Simplified collision physics",
 
     "ui.options.rally": "Rally",
+    "ui.options.rallySingleStages": "Rally: Single Stages",
+    "ui.options.rallyLoop": "Rally: Loop",
     "ui.options.rally.textCompositor.voice": "Codriver Voice",
     "ui.options.rally.textCompositor.voice.tooltip": "Select the codriver's voice.",
     "ui.options.rally.textCompositor.voices.spanish_spain_male": "Spanish (Spain), Male",
@@ -1650,8 +1719,17 @@
     "ui.options.rally.visualPacenotes.tooltip": "Enable or disable visual pacenotes.",
     "ui.options.rally.audioPacenotes": "Audio Pacenotes",
     "ui.options.rally.audioPacenotes.tooltip": "Enable or disable audio pacenotes.",
+    "ui.options.rally.preCountdownAudio": "Pre-countdown Audio",
+    "ui.options.rally.preCountdownAudio.tooltip": "Enable or disable pre-countdown audio.",
     "ui.options.rally.codriverTiming": "Codriver Timing",
     "ui.options.rally.codriverTiming.tooltip": "How many seconds ahead of the next pacenote the codriver will speak. Default is 3 seconds.",
+    "ui.options.rally.presets.Casual": "Casual",
+    "ui.options.rally.presets.Sport": "Enthusiast",
+    "ui.options.rally.presets.NGRC": "Hardcore",
+    "ui.options.rallyLoop.resetBudget": "Reset Budget",
+    "ui.options.rallyLoop.resetBudget.tooltip": "Number of allowed resets during a loop.",
+    "ui.options.rallyLoop.enableFalseStarts": "False Starts",
+    "ui.options.rallyLoop.enableFalseStarts.tooltip": "Disabling false starts will freeze the vehicle at the start line.",
 
     "ui.options.rally.voices.british_english_male_relaxed": "British English Male - Relaxed",
     "ui.options.rally.voices.british_english_male_intense": "British English Male - Intense",
@@ -1823,6 +1901,8 @@
     "ui.options.graphics.openXRsnapTurnUnicycle": "Snap turn in '{{'ui.camera.mode.unicycle'|translate}}' camera",
     "ui.options.graphics.openXRsnapTurnUnicycleDegrees": "Angle (degrees)",
     "ui.options.graphics.openXRsnapTurnDriver": "Snap turn in '{{'ui.camera.mode.driver'|translate}}' camera",
+    "ui.options.graphics.openXRhorizonLockDriver": "Force horizon lock in '{{'ui.camera.mode.driver'|translate}}' camera",
+    "ui.options.graphics.openXRhorizonLockDriverVR": "Force horizon lock in VR",
     "ui.options.graphics.openXRimguiEnabled": "Enable debug imgui menu",
     "ui.options.graphics.openXRdebugEnabled": "Enable debug mode (reduced framerate, will restart OpenXR)",
     "ui.options.graphics.openXRapidumpEnabled": "Enable dump mode (reduced framerate, will restart OpenXR)",
@@ -1862,7 +1942,7 @@
     "ui.openXR.errors.missingExtensions": "Some Vulkan extensions aren't loaded. Restart to attempt loading them.",
     "ui.openXR.errors.disconnected": "Please ensure that:<br>- The VR headset is actively connected<br>-A default <a href=\"http-external://go.beamng.com/vr\">OpenXR runtime is set</a>",
     "ui.openXR.errors.wrongDevice": "The VR headset is connected to a different graphics card than the simulator is using.",
-    "ui.openXR.errors.generic": "An error occurred. Some information is available in the logs. You can contact our <a href=\"http-external://go.beamng.com/support>support team</a>.",
+    "ui.openXR.errors.generic": "An error occurred. Some information is available in the logs. You can contact our <a href=\"http-external://go.beamng.com/support\">support team</a>.",
 
     "ui.options.audio": "Audio",
     "ui.options.audio.resetAll": "Reset all",
@@ -1924,6 +2004,10 @@
     "ui.controls.editBinding.removeUndo": "Click to undo removal",
     "ui.controls.editBinding.axisDirection": "Axis direction",
     "ui.controls.editBinding.axisDirection.tooltip": "Use if the binding does the opposite than it should.[br][br]For example when turning left moves the car to the right.",
+    "ui.controls.editBinding.analogOrButtonUpPrompt": "Use analog axis or press key for UP",
+    "ui.controls.editBinding.buttonDownPrompt": "Press key for DOWN",
+    "ui.controls.editBinding.analogOrButtonLeftPrompt": "Use analog axis or press key for LEFT",
+    "ui.controls.editBinding.buttonRightPrompt": "Press key for RIGHT",
     "ui.controls.unassignedBinding": "unassigned",
     "ui.controls.detectingBinding": "Detecting new binding...",
     "ui.controls.removeBinding": "Remove binding",
@@ -1959,6 +2043,10 @@
     "ui.controls.ffb.feedbackMode.tooltip": "Set the feedback type between force feedback and vibration.",
     "ui.controls.ffb.feedbackMode.forceFeedback": "Steering Wheel Force Feedback",
     "ui.controls.ffb.feedbackMode.vibration": "Gamepad Vibration",
+    "ui.controls.ffb.enableThrottleForceFeedback": "Enable Throttle Trigger Vibration",
+    "ui.controls.ffb.enableThrottleForceFeedback.tooltip": "Enable vibration for the throttle in gamepad vibration mode (if the gamepad supports it).",
+    "ui.controls.ffb.enableBrakeForceFeedback": "Enable Brake Trigger Vibration",
+    "ui.controls.ffb.enableBrakeForceFeedback.tooltip": "Enable vibration for the brake in gamepad vibration mode (if the gamepad supports it).",
     "ui.controls.ffb.isForceInverted": "Inverted",
     "ui.controls.ffb.isForceInverted.tooltip": "Use this if your wheel force is turning the opposite direction to which it should.[br][br]For example, use this if a parked vehicle tends to steer by itself into full lock left or full lock right.",
     "ui.controls.ffb.torqueCurrent": "Current torque",
@@ -1994,9 +2082,6 @@
     "ui.controls.ffb.responseCorrected.tooltip": "Allows to customize how the steering wheel will respond to various torque requests.[br][br]For example, increasing response of lower torques and decreasing response of higher torques, compensating for a non-linear response, etc.[br][br][b]Please check the Steering Wheel Setup documentation page for details.[/b][br][br]Quick guide: once this setting is enabled and applied, place a curve file in your [code]settings/inputmaps/[/code] directory, press <code>ctrl+L</code>, click <code>Apply</code> and reopen this menu. The inputmap <code>.diff</code> file will be automatically updated with the new curve data.[br][br]Accepted filenames:[list][*]wheel.csv (universal format, each line having a <code>force</code>,<code>response</code> pair of values; header lines are ignored, and any numeric scale can be used, as it will be automatically normalized and sanitized)[*]wheel.lut (compatible with Assetto Corsa&trade; <code>ff_post_process</code> curves)[*]wheel.log (compatible with iRacing&trade; WheelCheck csv files using <code>log-2</code> option)[*]wheel.fcm (compatible with Project Cars&trade; Force Curve Modifier exported files using <code>linear force response</code> option)[/list]",
     "ui.controls.ffbTips": "Tips",
     "ui.controls.ffbGenericWarning": "To improve force feedback, lower your settings to reach at least 60fps, preferably >120fps.\n\nPowerful steering wheels can create sudden, dangerous forces. Follow safety practices:<list><li>Check the wheel manufacturer instructions for safety guidelines.</li><li>Never rest your thumbs inside the steering rim.</li></list>",
-    "ui.controls.ffbUnsafeFrequencyWarning": "the current force-feedback configuration may be impacting your framerate:<list><li>Configured value: {{finalFrequency}} Hz<li>Recommended: 'Automatic' (current safe estimate: {{safeFrequency}} Hz or less)</list>",
-    "ui.controls.ffbUnsafeTypeWarning": "current configuration might heavily impact the framerate. If '{{'ui.controls.ffb.updateType.fast'|translate}}' does not work, or works incorrectly, please consider updating the drivers and firmware of your steering wheel. Use '{{'ui.controls.ffb.updateType.slow'|translate}}' only as a last resort, and only if an improvement can be noticed.",
-    "ui.controls.ffbSafetyUnknown": "More tips may become available while driving if force feedback is used.",
     "ui.controls.padLogitechIncorrect": "Device mode: your Logitech gamepad is being used incorrectly. Please check [url=https://go.beamng.com/gamepadLogitech]the notes in our documentation[/url].",
     "ui.controls.proLogitechPaddles": "Clutch paddles: the two analog paddles can be used for non-clutch purposes if you configure them appropriately in Logitech drivers.",
     "ui.controls.steering_wiki": "Steering wheel setup help: [url=https://go.beamng.com/steeringWheelSetup]https://go.beamng.com/steeringWheelSetup[/url]\nTroubleshooting wizard: [url=https://go.beamng.com/inputTroubleshootingGuide]https://go.beamng.com/inputTroubleshootingGuide[/url]",
@@ -2050,6 +2135,7 @@
     "ui.debug.vehicle.showInf": "Show Infinity Values (FLT_MAX)",
     "ui.debug.vehicle.width": "Width",
     "ui.debug.vehicle.transparency": "Transparency",
+    "ui.debug.vehicle.showHighlighted": "Show Highlighted",
     "ui.debug.vehicle.maxDist": "Max Distance",
     "ui.debug.vehicle.showWheels": "Show Wheels",
 
@@ -2145,7 +2231,7 @@
     "ui.performance.benchmark.isRunningNote": "Please wait: The benchmark is running.[br]This will take a minute.",
     "ui.performance.benchmark.notavailable": "The benchmark can only be run from the main menu.",
     "ui.performance.score": "Score",
-    "ui.performance.acknowledge": "Acknowledge",
+    "ui.performance.acknowledge": "Acknowledge and hide warning",
     "ui.performance.acknowledged": "Acknowledged",
     "ui.performance.maxRealtimeVehicles": "Max. Realtime Vehicles",
     "ui.performance.improvements": "Basic Performance Improvements",
@@ -2158,36 +2244,14 @@
     "ui.performance.laptopGPU": "How to use Dedicated Graphics on laptops?",
     "ui.performance.laptopGPU.msg": "If your laptop is equipped with a Dedicated Graphics, you can switch from your Video Control Panel: [url=https://go.beamng.com/dedicatedGraphics]Instructions[/url]",
 
-    "ui.performance.warnings.oldwin7": "Not running 64 Bit version: OS is older than Win7 Service Pack 1: Please update windows",
-    "ui.performance.warnings.missing64binary": "Not running 64 Bit version: 64 Bit version missing: Please reinstall",
-    "ui.performance.warnings.toolessmemoryfor64bit": "Not running 64 Bit version: System has 4 GB of memory or less",
-    "ui.performance.warnings.thirdpartysoftware": "Not running 64 Bit version: Lavasoft software detected. More information & solution here: [url=http://go.beamng.com/Lavasoft]go.beamng.com/Lavasoft[/url]",
-    "ui.performance.warnings.xinput": "XInput (used for gamepads) is not available, please reinstall DirectX 9: [url=https://go.beamng.com/DirectXInstallation]go.beamng.com/DirectXInstallation[/url]",
-    "ui.performance.warnings.dinput": "Direct Input (used for devices like steering wheels, joysticks, pads...) is not available, please reinstall DirectX 9: [url=https://go.beamng.com/DirectXInstallation]go.beamng.com/DirectXInstallation[/url]",
-    "ui.performance.warnings.lowmem": "16 GB RAM is recommended",
-    "ui.performance.warnings.minmem": "Less than 4GB of memory: Not enough system memory to load some levels",
-    "ui.performance.warnings.memused": "Over 80% of your system memory is used up. Consider closing applications or reboot.",
-    "ui.performance.warnings.freememlow": "Below 2 GB of free physical memory. Consider closing applications or reboot.",
-    "ui.performance.warnings.cpuonecore": "This application will not run well on only one physical core",
-    "ui.performance.warnings.cpuquadcore": "Optimal performance on a quadcore",
-    "ui.performance.warnings.cpulowclock": "Your clock speed is below 2GHz",
-    "ui.performance.warnings.cpu64bits": "64Bit CPU recommended",
-    "ui.performance.warnings.remotedesktop": "You are using Remote Desktop",
+    "ui.performance.warnings.minmem": "System memory is below the minimum requirements ({{amount}} GB RAM)![br][br]Attempting to load detailed maps or vehicles may cause the application to exit unexpectedly.[br][br]",
+    "ui.performance.warnings.freememlow": "Low system memory![br][br]This may affect performance, consider closing other applications or rebooting.[br][br]",
     "ui.performance.warnings.intelgpu": "You are using an Intel GPU. Make sure your dedicated GPU is used instead.",
-    "ui.performance.warnings.geforcemin": "At least a GeForce 550 is required",
-    "ui.performance.warnings.amdhd": "At least a AMD Radeon HD XXX is recommended",
-    "ui.performance.warnings.amdradeon": "At least an AMD Radeon R8 is required",
-    "ui.performance.warnings.gpulowmem": "Your GPU has less than 512 of video memory",
-    "ui.performance.warnings.gpurecmem": "At least 2048MB memory is recommended",
-    "ui.performance.warnings.os32bits": "You have a 64 Bit CPU but only a 32 Bit Operating system",
-    "ui.performance.warnings.oswin8": "Windows 8 recommended: running in x86 compatibility mode right now",
-    "ui.performance.warnings.app32": "64 bit version of the application recommended: running in x86 compatibility mode right now",
 
     "ui.performance.warnings.powerdisconnected": "Power not connected",
 
     "ui.performance.warnings.batterylow": "Battery level low",
     "ui.performance.warnings.batterycritical": "Battery level critical",
-    "ui.performance.warnings.win8rec": "Windows 8 is recommended",
     "ui.performance.mods.title": "Number of Mods",
     "ui.performance.mods.stat": "Zipped mods: {{zip}}  |  Unpacked mods: {{unpacked}}",
     "ui.performance.mods.lt": "Less than:  {{zip}} Zipped mods  |   {{unpacked}} Unpacked mods",
@@ -2204,12 +2268,10 @@
     "ui.performance.warnings.lowfreespace": "There's less than 1GB of free space in either the user folder or application folder drive.",
     "ui.performance.warnings.rootmodified": "The application folder is modified or corrupted. Use the launcher or Steam to check the integrity of the files.",
     "ui.performance.warnings.onedrive": "The user folder is synchronized with a cloud service (for example OneDrive). [url=https://https://go.beamng.com/Userfolder]Please change user folder location[/url] to avoid unexpected behavior.",
-    "ui.performance.warnings.toomanycache": "Cache files from older versions have been found. You may want to use the Launcher to free up space",
     "ui.performance.disk.run": "Calculate used space",
     "ui.performance.disk.casesensitive": "Case sensitive",
     "ui.performance.disk.caseinsensitive": "Case insensitive",
     "ui.performance.warnings.ubuntuver": "Unsupported version of Ubuntu",
-    "ui.performance.warnings.unsupportedlinuxdist": "Unsupported Linux distribution",
 
     "ui.changelog": "Changelog",
 
@@ -2309,6 +2371,7 @@
     "ui.radialmenu2.couplers.toggle.desc": "Toggle the coupler between the on/off state.",
     "ui.radialmenu2.couplers.detach_all": "Detach All Couplers",
     "ui.radialmenu2.couplers.detach_all.desc": "Detach all currently attached couplers.",
+    "ui.radialmenu2.fifthwheel.detach": "Detach Fifthwheel",
     "ui.radialmenu2.cruiseControl": "Cruise Control",
     "ui.radialmenu2.cruiseControl.desc": "Functions for setting or adjusting Cruise Control",
     "ui.radialmenu2.cruiseControl.cancel": "Cancel Cruise Control",
@@ -2683,6 +2746,7 @@
     "ui.trackBuilder.reversibleToolTip": "Allows the track to be reversed in Time Trials",
     "ui.trackBuilder.notClosedTooltip": "Open tracks cannot have multiple laps",
 
+    "ui.apps.traffic.notSupported": "Traffic is not supported on this level.",
     "ui.traffic.spawnLoad": "Please wait, spawning vehicles...",
     "ui.traffic.spawnLimit": "Maximum amount of vehicles reached! To use more, please adjust the amount of vehicles in Options > Gameplay.",
     "ui.traffic.policePursuit": "The police are pursuing you!",
@@ -2709,6 +2773,9 @@
     "ui.freeroam.speedTrap.newRecord": "New Record!\n{{recordedSpeed | unit: \"speed\":2}} (Previous: {{previousSpeed | unit: \"speed\":2}})",
     "ui.freeroam.speedTrap.newRecordNoOld": "New Record!\n{{recordedSpeed | unit: \"speed\":2}}",
     "ui.freeroam.speedTrap.noNewRecord": "Speed: {{recordedSpeed | unit: \"speed\":2}} (Record: {{recordSpeed | unit: \"speed\":2}})",
+
+    "ui.career.speedTrap.speedingMessage": "Traffic Violation: \n - \"{{licensePlate}}\" | Fine {{fine}} $\n - {{recordedSpeed | unit: \"speed\":0}} | ({{speedLimit | unit: \"speed\":0}})",
+    "ui.career.speedTrap.noLicensePlateMessage": "Traffic Violation: \n - No license plate detected | Fine could not be issued\n - {{recordedSpeed | unit: \"speed\":0}} | ({{speedLimit | unit: \"speed\":0}})",
 
     "ui.stat.vehicle.odometer": "Odometer",
     "ui.stat.vehicle.total_odometer": "Total driven",
@@ -2849,6 +2916,47 @@
     "scenarios.derby.derby_test.title": "Demolition Derby - Test Internal",
     "scenarios.derby.derby_test.description": "Template scenario, not in public versions. Last vehicle moving wins. Wreck your friends' cars while taking care of your own!",
 
+    "insurance.policies.dailyDriver1.name": "Everyday Insure",
+    "insurance.policies.dailyDriver1.slogan": "For the everyday journey.",
+    "insurance.policies.dailyDriver2.name": "Drive Guard",
+    "insurance.policies.dailyDriver2.slogan": "Protection that moves with you.",
+    "insurance.policies.dailyDriver3.name": "Road Ease",
+    "insurance.policies.dailyDriver3.slogan": "Simple coverage for simple rides.",
+    "insurance.policies.prestige1.name": "Grand Shield",
+    "insurance.policies.prestige1.slogan": "For those who expect the best.",
+    "insurance.policies.prestige2.name": "Vantage Guard",
+    "insurance.policies.prestige2.slogan": "Driven by excellence.",
+    "insurance.policies.prestige3.name": "Crown Line",
+    "insurance.policies.prestige3.slogan": "Luxury covered. Confidence delivered.",
+    "insurance.policies.commercial1.name": "Fleet Pro",
+    "insurance.policies.commercial1.slogan": "Pro coverage for pro drivers.",
+    "insurance.policies.commercial2.name": "Haul Sure",
+    "insurance.policies.commercial2.slogan": "Built for the long haul.",
+    "insurance.policies.commercial3.name": "Work Wheels",
+    "insurance.policies.commercial3.slogan": "Coverage that keeps business rolling.",
+
+    "insurance.classes.dailyDriver.name": "Daily driver",
+    "insurance.classes.dailyDriver.description": "Most common vehicles",
+    "insurance.classes.commercial.name": "Commercial",
+    "insurance.classes.commercial.description": "Buses, large trucks & trailers etc",
+    "insurance.classes.prestige.name": "Prestige",
+    "insurance.classes.prestige.description": "The finest vehicles",
+
+    "insurance.perks.freeTowing.intro": "Free road assistance",
+    "insurance.perks.freeTowing.description": "Towing your vehicle is free.",
+    "insurance.perks.accidentForgivenessAtRenewal.intro": "accidents forgivenesses",
+    "insurance.perks.accidentForgivenessAtRenewal.description": "Free accident forgivenesses at renewal.",
+    "insurance.perks.instantRepair.intro": "Free instant repair",
+    "insurance.perks.instantRepair.description": "Instant repair now costs as much as a regular repair.",
+    "insurance.perks.fuelDiscount.intro": "fuel discount",
+    "insurance.perks.fuelDiscount.description": "Save money on fuel and charging.",
+    "insurance.perks.freeRefuelDuringRepair.intro": "Free refueling when repairing",
+    "insurance.perks.freeRefuelDuringRepair.description": "Vehicle is refueled for free during repair.",
+    "insurance.perks.reduceDeductible.intro": "on your deductible",
+    "insurance.perks.reduceDeductible.description": "It is cheaper to repair your vehicle.",
+    "insurance.perks.freeRepaintDuringRepair.intro": "Free repainting",
+    "insurance.perks.freeRepaintDuringRepair.description": "Panels repainted for free during repair.",
+
     "insurance.policies.basic.name": "Tutorial",
     "insurance.policies.basic.description": "This basic insurance policy is as starter policy just enough to drive around with simple vehicles. You cannot customize its coverage much.",
     "insurance.policies.daily_driver.name": "Daily driver",
@@ -2868,6 +2976,10 @@
     "insurance.perks.roadsideAssistance.description": "Allows you to have free roadside assistance such as towing your vehicle, flipping your vehicle",
     "insurance.perks.paintRepair.name": "Apply paint when repairing",
     "insurance.perks.paintRepair.description": "When repairing your vehicle, new parts will be properly painted.",
+    "insurance.perks.refueling.name": "Refuel vehicle when repairing",
+    "insurance.perks.refueling.description": "When repairing your vehicle, the vehicle will be refueled.",
+    "insurance.perks.repairTimeDiscount.intro": "repair time cost discount",
+    "insurance.perks.repairTimeDiscount.description": "Repair time cost is reduced.",
 
     "insurance.repairOptions.normalRepair.name": "Standard repair",
     "insurance.repairOptions.quickRepair.name": "Quick repair",
@@ -2895,12 +3007,12 @@
     "missions.west_coast_usa.arrive.Tutorial.introText": "Tutorial Challenge: <br><br>For your first challenge we're keeping it simple. Your primary goal: Reach the destination!<br><br>Keep in mind that this isn't a race, so watch out for obstacles like curbs and barriers – they're unforgiving!<br><br>Objectives and their rewards are listed in order of stars in the lower right corner.",
 
     "missions.utah.timeTrial.rallystage.title": "Prospector's Return",
-    "missions.utah.timeTrial.rallystage.description": "A technical rally stage that features the mine system.",
-    "missions.utah.timeTrial.rallystage.startScreenText": "This is a long technical stage that takes you through a mine shaft section, watch out for the jump in the mine shaft.",
+    "missions.utah.timeTrial.rallystage.description": "A technical route that features the mine system.",
+    "missions.utah.timeTrial.rallystage.startScreenText": "This is a long technical stage that takes you through a mine shaft section, watch out for the jump!",
 
-    "missions.east_coast_usa.timeTrial.mixedrally.title": "Mixed Surface Rally Stage",
-    "missions.east_coast_usa.timeTrial.mixedrally.description": "A rally type stage with asphalt and gravel road sections.",
-    "missions.east_coast_usa.timeTrial.mixedrally.startScreenText": "This long technical stage will test all of your rally driving skills. Good luck!",
+    "missions.east_coast_usa.timeTrial.mixedrally.title": "Mixed Surface Stage",
+    "missions.east_coast_usa.timeTrial.mixedrally.description": "A route with asphalt and gravel road sections.",
+    "missions.east_coast_usa.timeTrial.mixedrally.startScreenText": "This long technical stage will test all of your driving skills. Good luck!",
 
     "missions.johnson_valley.arrive.outlandervalet.title": "Outlander Valet",
     "missions.johnson_valley.arrive.outlandervalet.description": "Drive the site manager's Roamer back to his cabin without damaging it.",
@@ -2922,7 +3034,7 @@
     "missions.west_coast_usa.arrive.Gas.description": "Deliver some contaminated fuel to the refinery.",
     "missions.west_coast_usa.arrive.Gas.introText": "This gas station was given some bad petroleum. It needs taking back to the refinery.",
 
-    "missions.johnson_valley.timeTrial.desertstage.title": "Desert Rally Stage",
+    "missions.johnson_valley.timeTrial.desertstage.title": "Desert Oversteer",
     "missions.johnson_valley.timeTrial.desertstage.description": "A fast route across the desert in a rally car.",
     "missions.johnson_valley.timeTrial.desertstage.startScreenText": "Keep your foot down and charge to the end of the route, located on the highway.",
 
@@ -3212,8 +3324,8 @@
     "missions.utah.timeTrial.Old.title": "Old Mill Loop",
     "missions.utah.timeTrial.Old.description": "A Gravel loop around mesas and canyons, starting at the old mill.",
 
-    "missions.utah.timeTrial.River.title": "River Rally",
-    "missions.utah.timeTrial.River.description": "A fast-paced rally like route along the river featuring many water crossings.",
+    "missions.utah.timeTrial.River.title": "River Route",
+    "missions.utah.timeTrial.River.description": "A fast-paced route along the river featuring many water crossings.",
 
     "missions.industrial.timeTrial.PortTT.title": "Dockside Dart",
     "missions.industrial.timeTrial.PortTT.description": "A tight time trial around the port.",
@@ -3516,7 +3628,7 @@
     "scenarios.east_coast_usa.offroad_ds_course.title": "East Coast Off-Road Course",
     "scenarios.east_coast_usa.offroad_ds_course.description": "Narrow bumpy track progressing in difficulty.",
     "scenarios.east_coast_usa.town_course_short_b.title": "Town Course Short B",
-    "scenarios.east_coast_usa.town_course_short_b.description": "Another short rally sprint around the town.",
+    "scenarios.east_coast_usa.town_course_short_b.description": "Another short sprint around the town.",
 
     "scenarios.east_coast_usa.east_coast_chase_1.title": "East Coast Chase #1",
     "scenarios.east_coast_usa.east_coast_chase_1.description": "A wanted individual has been spotted near the sawmill in a Gavril Barstow.\n\nDrive to the location, and stop it!",
@@ -3580,7 +3692,7 @@
     "scenarios.east_coast_usa.rallycross_nd_long_a1.title": "Rallycross Long Course",
     "scenarios.east_coast_usa.rallycross_nd_long_a1.description": "A Rallycross course with a mix of asphalt and dirty roads.",
     "scenarios.east_coast_usa.town_course_short_a.title": "Town Course Short A",
-    "scenarios.east_coast_usa.town_course_short_a.description": "A short rally sprint around the town.",
+    "scenarios.east_coast_usa.town_course_short_a.description": "A short sprint around the town.",
     "scenarios.east_coast_usa.intro_road_race.title": "Road Race",
     "scenarios.east_coast_usa.intro_road_race.description": "A race through the countryside of the east coast of the United States.",
     "scenarios.east_coast_usa.car_delivery.title": "Car Delivery",
@@ -3651,6 +3763,12 @@
     "missions.italy.rallyStage.norte.startScreenText": "Hit the tarmac in Fastello’s lively streets, then follow the asphalt toward a breathtaking coastal stretch. Mastering the racing line is everything here, especially where crafty local knowledge can shave precious seconds. Keep your foot down in the final dash, and savor the rush of unbridled speed!",
     "missions.italy.rallyStage.norte.endScreenText": "Stage finished",
 
+    "missions.italy.rallyLoop.ngrc2025.startScreenText": "[Duration: 30-45min] This rally loop aims to immerse you in a realistic rally experience: Start at the service park and drive three stages without repairs, navigate public roads and respect speed limits during liaisons, bring your Time Card to marshalls on time, and most importantly: demonstrate you can handle the pressure of driving fast without crashing. (note: liaison traffic not yet available)",
+    "missions.italy.rallyLoop.ngrc2025.endScreenText": "Congratulations on completing the NGRC Rally Norte 2025!",
+
+    "missions.italy.rallyLoop.oneStage.startScreenText": "Good luck on the one stage Rally Loop!",
+    "missions.italy.rallyLoop.oneStage.endScreenText": "Congratulations on completing the one stage Rally Loop!",
+
     "missions.automation_test_track.rallyStage.alpineclimb.title": "SS Clyde Peak",
     "missions.automation_test_track.rallyStage.alpineclimb.description": "Cold tarmac transitions into icy roads and snow-lined corners on this climb to the dam, where gutters tempt uphill specialists with potential gains but risk wreaking havoc on the running gear.",
     "missions.automation_test_track.rallyStage.alpineclimb.startScreenText": "Buckle up for a frosty ascent toward the dam, where winter roads and snowdrifts are only half the battle. Brave the gutters to shave off crucial seconds—but one miscalculation could leave your running gear in tatters. Stay sharp and keep the car on a knife’s edge!",
@@ -3699,9 +3817,9 @@
     "missions.automation_test_track.collection.woods.description": "Collect the goodies from the dark woods.",
     "missions.automation_test_track.collection.woods.introText": "If you go into the woods today, you may find and array of surprises. Retrieve as many of the BeamNG markers from the woods as you can.",
 
-    "missions.automation_test_track.timeTrial.rally1.title": "Mixed Rally Stage",
-    "missions.automation_test_track.timeTrial.rally1.description": "A realistic length, mixed surface, rally style route.",
-    "missions.automation_test_track.timeTrial.rally1.startScreenText": "This rally style route will test the most dedicated of drivers. Taking advantage of the great features on this map, this route is fast, tight and full of danger.",
+    "missions.automation_test_track.timeTrial.rally1.title": "Kiwi Lane",
+    "missions.automation_test_track.timeTrial.rally1.description": "A mixed surface route through the lower parts of the map.",
+    "missions.automation_test_track.timeTrial.rally1.startScreenText": "This route will test the most dedicated of drivers. Taking advantage of the great features on this map, this route is fast, tight and full of danger.",
 
     "missions.automation_test_track.aiRace.main1.title": "BeamNG Sports Race",
     "missions.automation_test_track.aiRace.main1.description": "Race around the main course.",
@@ -3721,7 +3839,7 @@
     "missions.automation_test_track.timeTrial.dirt1.startScreenText": "Take on this technical hill top test track.",
 
     "missions.johnson_valley.crawl.Van.title": "Van der Waals' Vertigo",
-    "missions.johnson_valley.crawl.Van.description": "A tough crawl trail in a very capable offroader. Can you make the Geko stick?",
+    "missions.johnson_valley.crawl.Van.description": "A tough crawl trail in a very capable offroader. Can you make the Gecko stick?",
     "missions.johnson_valley.crawl.Van.startScreenText": "Take this route to the top and back. Try to keep it on all four wheels!",
 
     "missions.johnson_valley.crawl.Bootleggers.title": "Bootlegger's Revenge",
@@ -3822,7 +3940,7 @@
     "missions.johnson_valley.timeTrial.rally1.description": "Take this fearsome route to the center of the map and back. You will need some serious kit if you want to achieve a respectable time.",
     "missions.johnson_valley.timeTrial.rally1.startScreenText": "Calamity Peak is a treacherous mountain, but that doesn't mean it can't be conquered! Weave your way through exhilarating desert race track around the mountain and get to the checkpoints as quickly as you can.",
 
-    "missions.johnson_valley.timeTrial.dunerace.title": "Dune Rally",
+    "missions.johnson_valley.timeTrial.dunerace.title": "Dune Scramble",
     "missions.johnson_valley.timeTrial.dunerace.description": "Find your way to the checkpoints in the dunes as fast as you can!",
     "missions.johnson_valley.timeTrial.dunerace.startScreenText": "Run this open desert event where you just need to get to the checkpoints as fast as you can, with no set route.",
 
@@ -3833,6 +3951,30 @@
     "missions.johnson_valley.timeTrial.rally2.title": "Crankshaft Pass",
     "missions.johnson_valley.timeTrial.rally2.description": "A high speed offroad time trail with a long straight and technical sections.",
     "missions.johnson_valley.timeTrial.rally2.startScreenText": "Can you handle the speed of this course? Of course you can!",
+
+    "missions.italy.aiRace.quarryRace.title": "Worksite Wheeler",
+    "missions.italy.aiRace.quarryRace.description": "Race work trucks around the quarry circuit.",
+    "missions.italy.aiRace.quarryRace.startText": "Race against some they other site workers.",
+
+    "missions.italy.aiRace.quarrycapers.title": "Quarry Capers",
+    "missions.italy.aiRace.quarrycapers.description": "Race in small rally cars around the quarry loop.",
+    "missions.italy.aiRace.quarrycapers.startText": "This large lap along the coastal road and through the quarry is a real test for you and your opponents.",
+
+    "missions.italy.delivery.marbleHaul1.title": "Marble March",
+    "missions.italy.delivery.marbleHaul1.description": "Drive the haul truck loaded with two marble blocks to the main cutting area of the quarry.",
+    "missions.italy.delivery.marbleHaul1.introMessage": "Get this load to the main cutting area for treatment. <br>Tip: Use the hill assist to help with a careful, controlled descent.",
+
+    "missions.italy.delivery.blockTruck1.title": "Trailer Ferry",
+    "missions.italy.delivery.blockTruck1.description": "Ferry marble site trailers with a T-Series truck.",
+    "missions.italy.delivery.blockTruck1.introMessage": "Take an empty trailer up to the cutting point and leave it with them. Then, bring back a loaded trailer to the finishing zone and park it under the loading gantry.",
+
+    "missions.italy.delivery.blockTruck2.title": "Switchback Shuffle",
+    "missions.italy.delivery.blockTruck2.description": "Take a marble load to the finishing zone via the switchback hill and coastal road.",
+    "missions.italy.delivery.blockTruck2.introMessage": "Drive to the loaded trailer and hook up.  Then follow the route down the switchbacks and onto the coastal road, remember to use the Compression Brake to control your speed when driving down the hills.  Drive around to the finishing area and park the loaded trailer under the gantry loading spot.",
+
+    "missions.italy.timeTrial.quarrytt1.title": "Quarry Loop",
+    "missions.italy.timeTrial.quarrytt1.description": "A lap around the quarry and coastal road.",
+    "missions.italy.timeTrial.quarrytt1.startScreenText": "How fast can you lap the quarry?",
 
     "missions.gridmapv2.climbforlife.title": "A Climb For Life",
     "missions.gridmapv2.climbforlife.description": "To arrive up the hill, a sturdy machine is a must. Grab a four wheel-drive and heavy vehicle because there is no way to avoid all of the falling debris",
@@ -4157,7 +4299,7 @@
     "missions.industrial.arrive.Platform.introText": "Take a Hirochi Aurata Sport Turbo on a flying journey over a series of raised platforms and trampolines.",
 
     "missions.cliff.arrive.Get.title": "Get Down",
-    "missions.cliff.arrive.Get.description": "Fall down the cliff to the beach.",
+    "missions.cliff.arrive.Get.description": "Make it to the coastline (vehicle survival not guaranteed).",
     "missions.cliff.arrive.Get.introText": "Try to control the descent of your Gavril D15 and reach the beach checkpoint, or just hurtle off the cliff and hope for the best.",
 
     "missions.east_coast_usa.arrive.Hidden.title": "Hidden Jump",
@@ -4192,9 +4334,9 @@
     "missions.east_coast_usa.chase.Bank.description": "Catch the bank robber.",
     "missions.east_coast_usa.chase.Bank.startText": "You got a report about a bank robbery in your local town. Respond to the report and stop the fleeing suspect before he reaches his hideout.",
 
-    "missions.utah.timeTrial.Downhill.title": "Downhill Rally",
-    "missions.utah.timeTrial.Downhill.description": "A mixed surface stage across Utah.",
-    "missions.utah.timeTrial.Downhill.startScreenText": "A mixed surface stage across Utah.",
+    "missions.utah.timeTrial.Downhill.title": "Downhill Run",
+    "missions.utah.timeTrial.Downhill.description": "A mixed surface route across Utah.",
+    "missions.utah.timeTrial.Downhill.startScreenText": "A mixed surface route across Utah.",
 
     "missions.east_coast_usa.chase.Muscle.title": "Muscle Pursuit",
     "missions.east_coast_usa.chase.Muscle.description": "Catch the Barstow.",
@@ -4806,15 +4948,20 @@
     "scenarios.italy.supercarTransport.fail.text": "That is going to be hard to explain to the client..",
     "scenarios.italy.supercarTransport.dist": "To destination: {{distance}}",
 
-    "missions.italy.garage.cittaVecchia.title": "Garage to garage at Citta Vecchia",
+    "missions.italy.garage.cittaVecchia.title": "Garage to Garage at Citta Vecchia",
     "missions.italy.garage.cittaVecchia.description": "Deliver old vehicles from Citta Vecchia.",
     "missions.italy.garage.cittaVecchia.intro": "In this challenge, you will be delivering old vehicles from Citta Vecchia to another point at Italy.<br>\nThere is no time limit, but you will only get one attempt per vehicle!<br>\nYou can damage the vehicle as much as you want, as long as it can still get to the destination.<br>\nBefore each job, you will get some info about the location, the traffic situation and other stuff.<br>\nThere will be navigation aids, but you can choose your own route.<br>\nHappy delivering!",
-    "missions.italy.garage.concaAzzura.title": "Garage to garage at Conca Azzura",
+    "missions.italy.garage.concaAzzura.title": "Garage to Garage at Conca Azzura",
     "missions.italy.garage.concaAzzura.description": "Deliver race and rally vehicles from Conca Azzura!",
     "missions.italy.garage.concaAzzura.intro": "In this challenge, you will be delivering race and rally vehicles from Conca Azzura to another point at Italy.<br>\nThere is no time limit, but you will only get one attempt per vehicle!<br>\nYou can damage the vehicle as much as you want, as long as it can still get to the destination.<br>\nBefore each job, you will get some info about the location, the traffic situation and other stuff.<br>\nThere will be navigation aids, but you can choose your own route.<br>\nHappy delivering!",
-    "missions.italy.garage.portino.title": "Garage to garage at Portino",
+    "missions.italy.garage.portino.title": "Garage to Garage at Portino",
     "missions.italy.garage.portino.description": "Deliver Mod-Only vehicles from Portino!",
     "missions.italy.garage.portino.intro": "In this challenge, you will be delivering various modded vehicles from Portino to another point at Italy.<br>\nThere is no time limit, but you will only get one attempt per vehicle!<br>\nYou can damage the vehicle as much as you want, as long as it can still get to the destination.<br>\nBefore each job, you will get some info about the location, the traffic situation and other stuff.<br>\nThere will be navigation aids, but you can choose your own route.<br>\nHappy delivering!",
+
+    "missions.italy.garage.quarry.title": "Garage to Garage in the Quarry",
+    "missions.italy.garage.quarry.description": "Deliver worksite vehicles for the Italian quarry.",
+    "missions.italy.garage.quarry.intro": "In this challenge, you will be delivering various worksite vehicles around the quarry.<br>\nThere is no time limit, but you will only get one attempt per vehicle!<br>\nYou can damage the vehicle as much as you want, as long as it can still get to the destination.<br>\nBefore each job, you will recieve some intel on the task at hand.<br>\nThere are navigation aids, but you can choose to take your own route to the destination.<br>\nHappy delivering!",
+
 
     "missions.italy.garage.description": "Deliver various vehicles all over Italy!",
 
@@ -4826,12 +4973,12 @@
     "missions.jungle.garage.industrialSite.intro": "In this challenge, you will be delivering various Off-Road vehicles from Industrial Site to another point at the island.<br>\nThere is no time limit, but you will only get one attempt per vehicle!<br>\nYou can damage the vehicle as much as you want, as long as it can still get to the destination.<br>\nBefore each job, you will get some info about the location, the traffic situation and other stuff.<br>\nThere will be navigation aids, but you can choose your own route.<br>\nHappy delivering!",
     "missions.jungle.garage.industrialSite.description": "Deliver various Off-Road vehicles in Jungle Rock Island!",
 
-    "missions.utah.garage.autoRepair.title": "Garage to garage at Auto Repair",
+    "missions.utah.garage.autoRepair.title": "Garage to Garage at Auto Repair",
     "missions.utah.garage.autoRepair.description": "Deliver old vehicles from Auto Repair.",
     "missions.utah.garage.autoRepair.intro": "In this challenge, you will be delivering various vehicles from Auto Repair to another point of Utah.<br>\nThere is no time limit, but you will only get one attempt per vehicle!<br>\nYou can damage the vehicle as much as you want, as long as it can still get to the destination.<br>\nBefore each job, you will get some info about the location, the traffic situation and other stuff.<br>\nThere will be navigation aids, but you can choose your own route.<br>\nHappy delivering!",
-    "missions.utah.garage.autoCanyon.title": "Garage to garage at Auto Canyon",
+    "missions.utah.garage.autoCanyon.title": "Garage to Garage at Auto Canyon",
     "missions.utah.garage.autoCanyon.intro": "In this challenge, you will be delivering various new vehicles from Auto Canyon to another point of Utah.<br>\nThere is no time limit, but you will only get one attempt per vehicle!<br>\nYou can damage the vehicle as much as you want, as long as it can still get to the destination.<br>\nBefore each job, you will get some info about the location, the traffic situation and other stuff.<br>\nThere will be navigation aids, but you can choose your own route.<br>\nHappy delivering!",
-    "missions.utah.garage.airfield.title": "Garage to garage at the Airfield",
+    "missions.utah.garage.airfield.title": "Garage to Garage at the Airfield",
     "missions.utah.garage.airfield.intro": "In this challenge, you will be delivering various Off-Road vehicles from the Airfield to another point of Utah.<br>\nThere is no time limit, but you will only get one attempt per vehicle!<br>\nYou can damage the vehicle as much as you want, as long as it can still get to the destination.<br>\nBefore each job, you will get some info about the location, the traffic situation and other stuff.<br>\nThere will be navigation aids, but you can choose your own route.<br>\nHappy delivering!",
     "missions.utah.garage.airfield.description": "Deliver Off-Road vehicles from Airfield.",
 
@@ -4854,9 +5001,9 @@
     "missions.utah.crawl003.startScreen": "Welcome, I hope you brought some water, because this trail is not only difficult, but very lengthy too.<br><br> There will be checkpoints on your trail to guide you, but keep an eye on the terrain at all times. Don't forget to have fun though!",
 
     "missions.ecusa.garage.title": "Garage to Garage Delivery: East Coast USA",
-    "missions.ecusa.garage.townArea.title": "Garage to garage at the Town Area",
+    "missions.ecusa.garage.townArea.title": "Garage to Garage at the Town Area",
     "missions.ecusa.garage.townArea.intro": "In this challenge, you will be delivering various vehicles from the Town Area to another point of the East Coast.<br>\nThere is no time limit, but you will only get one attempt per vehicle!<br>\nYou can damage the vehicle as much as you want, as long as it can still get to the destination.<br>\nBefore each job, you will get some info about the location, the traffic situation and other stuff.<br>\nThere will be navigation aids, but you can choose your own route.<br>\nHappy delivering!",
-    "missions.ecusa.garage.dockArea.title": "Garage to garage at the Dock Area",
+    "missions.ecusa.garage.dockArea.title": "Garage to Garage at the Dock Area",
     "missions.ecusa.garage.dockArea.intro": "In this challenge, you will be delivering various vehicles from the Dock Area to another point of the East Coast.<br>\nThere is no time limit, but you will only get one attempt per vehicle!<br>\nYou can damage the vehicle as much as you want, as long as it can still get to the destination.<br>\nBefore each job, you will get some info about the location, the traffic situation and other stuff.<br>\nThere will be navigation aids, but you can choose your own route.<br>\nHappy delivering!",
 
     "missions.ecusa.garage.description": "Deliver various vehicles along the East Coast of the USA.",
@@ -4866,15 +5013,15 @@
     "missions.ecusa.garage.modded.description": "Deliver modded vehicles in East Coast.",
 
     "missions.wcusa.garage.title": "Garage to Garage Delivery: West Coast USA",
-    "missions.wcusa.garage.downtown.title": "Garage to garage at the Downtown Belasco City",
+    "missions.wcusa.garage.downtown.title": "Garage to Garage at the Downtown Belasco City",
     "missions.wcusa.garage.downtown.intro": "In this challenge, you will be delivering various vehicles from the Downtown to another point of the West Coast.<br>\nThere is no time limit, but you will only get one attempt per vehicle!<br>\nYou can damage the vehicle as much as you want, as long as it can still get to the destination.<br>\nBefore each job, you will get some info about the location, the traffic situation and other stuff.<br>\nThere will be navigation aids, but you can choose your own route.<br>\nHappy delivering!",
-    "missions.wcusa.garage.residential.title": "Garage to garage at the Residential Area",
+    "missions.wcusa.garage.residential.title": "Garage to Garage at the Residential Area",
     "missions.wcusa.garage.residential.intro": "In this challenge, you will be delivering various vehicles from the Residential Area to another point of the West Coast.<br>\nThere is no time limit, but you will only get one attempt per vehicle!<br>\nYou can damage the vehicle as much as you want, as long as it can still get to the destination.<br>\nBefore each job, you will get some info about the location, the traffic situation and other stuff.<br>\nThere will be navigation aids, but you can choose your own route.<br>\nHappy delivering!",
-    "missions.wcusa.garage.dockyard.title": "Garage to garage at the Dockyard",
+    "missions.wcusa.garage.dockyard.title": "Garage to Garage at the Dockyard",
     "missions.wcusa.garage.dockyard.intro": "In this challenge, you will be delivering various vehicles from the Dockyard to another point of the West Coast.<br>\nThere is no time limit, but you will only get one attempt per vehicle!<br>\nYou can damage the vehicle as much as you want, as long as it can still get to the destination.<br>\nBefore each job, you will get some info about the location, the traffic situation and other stuff.<br>\nThere will be navigation aids, but you can choose your own route.<br>\nHappy delivering!",
-    "missions.wcusa.garage.mount.title": "Garage to garage at the Mount Wallis",
+    "missions.wcusa.garage.mount.title": "Garage to Garage at the Mount Wallis",
     "missions.wcusa.garage.mount.intro": "In this challenge, you will be delivering various vehicles from the Mount Wallis to another point of the West Coast.<br>\nThere is no time limit, but you will only get one attempt per vehicle!<br>\nYou can damage the vehicle as much as you want, as long as it can still get to the destination.<br>\nBefore each job, you will get some info about the location, the traffic situation and other stuff.<br>\nThere will be navigation aids, but you can choose your own route.<br>\nHappy delivering!",
-    "missions.wcusa.garage.racetrack.title": "Garage to garage at the Racetrack",
+    "missions.wcusa.garage.racetrack.title": "Garage to Garage at the Racetrack",
     "missions.wcusa.garage.racetrack.intro": "In this challenge, you will be delivering various vehicles from the Racetrack to another point of the West Coast.<br>\nThere is no time limit, but you will only get one attempt per vehicle!<br>\nYou can damage the vehicle as much as you want, as long as it can still get to the destination.<br>\nBefore each job, you will get some info about the location, the traffic situation and other stuff.<br>\nThere will be navigation aids, but you can choose your own route.<br>\nHappy delivering!",
 
     "missions.wcusa.garage.description": "Deliver various vehicles along the West Coast of the USA.",
@@ -4887,7 +5034,7 @@
     "missions.garage.title": "Garage to Garage Delivery",
     "missions.italy.garage.title": "Garage to Garage Delivery: Italy",
     "missions.garage.intro": "In this scenario, you will be delivering various vehicles from one place to another.<br>\nThere is no time limit, but you will only get one attempt per vehicle!<br>\nYou can damage the vehicle as much as you want, as long as it can still get to the destination.<br>\nBefore each job, you will get some info about the location, the traffic situation and other stuff.<br>\nThere will be navigation aids, but you can choose your own route.<br>\nHappy delivering!",
-    "missions.garage.deliverTo": "Deliver the vehicle to {{destination}}. ({{distance}})",
+    "missions.garage.deliverTo": "Deliver the vehicle to {{destination}}.",
     "missions.garage.description": "Deliver various vehicles between garages.",
 
     "missions.garage.instructions.todaysJob": "This is today's job:",
@@ -5020,7 +5167,7 @@
 
     "missions.gridmap_v2.delivery.obstaclecourse.title": "Turnstile Trial",
     "missions.gridmap_v2.delivery.obstaclecourse.description": "A dangerous obstacle course featuring large spinners.",
-    "missions.gridmap_v2.delivery.obstaclecourse.introMessage": "Navigate your way through a challenging obstacle course made up of three perilous rooms, featuring massive spinning hazards designed to thwart your delivery.<br><br>Your mission is to deliver an empty barrel to the end zone as quickly as possible. Speed and precision are key.<br><br>The final room demands full throttle and precise gear shifting to build enough speed to get the barrel across the finish line.<br><br>Important: Only the barrel needs to reach the end zone, not your truck.<br><br>Tip: Adjust your drivetrain settings before starting to maximize your chances of success.<br><br>If the mission doesn't complete when you reach the end, this meas that the barrel has not made it to the end zone somehow. Restart and try again!",
+    "missions.gridmap_v2.delivery.obstaclecourse.introMessage": "Navigate your way through a challenging obstacle course made up of three perilous rooms, featuring massive spinning hazards designed to thwart your delivery.<br><br>Your mission is to deliver an empty barrel to the end zone as quickly as possible. Speed and precision are key.<br><br>The final room demands full throttle and precise gear shifting to build enough speed to get the barrel across the finish line.<br><br>Important: Only the barrel needs to reach the end zone, not your truck.<br><br>Tip: Adjust your drivetrain settings before starting to maximize your chances of success.<br><br>If the mission doesn't complete when you reach the end, this means that the barrel has not made it to the end zone somehow. Restart and try again!",
 
     "missions.aiRace.gridmap_v2.001-grindergrandprix.title": "Grinder Grand Prix",
     "missions.aiRace.gridmap_v2.001-grindergrandprix.description": "A small race track with two vertically mounted flail spinners to contend with.",
@@ -5391,7 +5538,7 @@
     "missions.delivery.industrial.garbageLegran.failMessage": "You know, you're supposed to bring your trash here, not scatter it over the countryside!",
 
     "missions.delivery.italy.mattresses.title": "Mattress Cleaning",
-    "missions.delivery.italy.mattresses.description": "The castles mattresses need to be brought to the cleaning place.",
+    "missions.delivery.italy.mattresses.description": "The castle's mattresses need to be brought to the cleaning place.",
     "missions.delivery.italy.mattresses.introMessage": "These old mattresses need to be deep-cleaned. There's a special cleaning place we usually bring them to, just outside of town. Oh, you can take all of them at once, right?",
     "missions.delivery.italy.mattresses.goldMessage": "I'll get right to work, these mattresses will be cleaned in no time!",
     "missions.delivery.italy.mattresses.silverMessage": "Ah, the mattresses I expected. I'll clean them for you now.",
@@ -5437,7 +5584,7 @@
     "missions.delivery.italy.scintilla.title": "Scintilla Delivery",
     "missions.delivery.italy.scintilla.description": "Deliver three Civetta Scintillas on a flatbed truck.",
     "missions.delivery.italy.scintilla.introMessage": "A group of super-rich investors are doing a private race on their island. You're in charge of delivering three special Civetta Scintillas that have just been flown in by plane to the port so they can be shipped over. Make sure you don't drop or damage any of them!",
-    "missions.delivery.italy.scintilla.goldMessage": "You did it! Everything is in pristine condition. You might even get a tip.",
+    "missions.delivery.italy.scintilla.goldMessage": "You did it! If everything is in pristine condition, you might get a tip.",
     "missions.delivery.italy.scintilla.silverMessage": "Looks like you dropped one of them! Oh well. I guess they have enough money to buy another one.",
     "missions.delivery.italy.scintilla.bronzeMessage": "How are we supposed to do a race with only one car?",
     "missions.delivery.italy.scintilla.failMessage": "No Cars? Your manager will hear about this",
@@ -5627,7 +5774,7 @@
     "missions.arrive.general.arriveOnTime": "Perfect, you arrived here on time.",
 
     "missions.arrive.goals.arriveMarker": "Arrive at the target destination.",
-    "missions.arrive.goals.arriveMarkerStop": "Arrive at the target destination and stop your vehicle.",
+    "missions.arrive.goals.arriveMarkerStop": "Park your vehicle at the destination.",
     "missions.arrive.goals.followMarkers": "Follow the blue navigation markers to the destination to complete the challenge.",
     "missions.arrive.goals.noDamage": "Do not damage the vehicle.",
     "missions.arrive.goals.speedLimit": "Keep your speed below {{limit}}.",
@@ -5860,7 +6007,7 @@
     "missions.industrial.aiRace.RXOval.description": "Take on the locals at the rallycross oval.",
     "missions.industrial.aiRace.RXOval.startText": "Take on the locals at the rallycross oval.",
 
-    "missions.industrial.timeTrial.track_rally.title": "Industrial Rally Stage",
+    "missions.industrial.timeTrial.track_rally.title": "Industrial Stage",
     "missions.industrial.timeTrial.track_rally.description": "This long stage will give you a taste of a bit of everything that this map has to offer.",
     "missions.industrial.timeTrial.track_rally.startScreenText": "This long stage will give you a taste of a bit of everything that this map has to offer. Some sections require some careful negotiation.",
 
@@ -6541,6 +6688,8 @@
     "bigMap.missionLabels.policePursuit": "Police Pursuit",
     "bigMap.missionLabels.precisionParking": "Precision Parking",
     "bigMap.missionLabels.rallyStage": "Rally Stage",
+    "bigMap.missionLabels.rallyRoadSection": "Rally Road Section",
+    "bigMap.missionLabels.rallyLoop": "Rally Loop",
     "bigMap.missionLabels.training": "Training",
     "bigMap.missionLabels.targetjump": "Targetjump",
     "bigMap.missionLabels.timeTrial": "Time Trial",
@@ -7205,6 +7354,7 @@
     "levels.italy.spawnpoints.runway": "Runway",
     "levels.italy.spawnpoints.town_east": "Fastello",
     "levels.italy.spawnpoints.small_village": "Portino",
+    "levels.italy.spawnpoints.quarry_parking": "Quarry",
 
     "levels.italy.gasStationPoints.fuel_apex_fastello.title": "Apex Fastello",
     "levels.italy.gasStationPoints.fuel_apex_fastello.description": "Refuel your vehicle in this small town near the coast.",
@@ -7484,6 +7634,19 @@
     "vehicle.interaction.hydraulics.suspension.raise_RR.title": "Lowrider: Raise Rear Right",
     "vehicle.interaction.hydraulics.suspension.raise_RR.desc": "Extend the rear right hydraulic cylinder.",
 
+    "vehicle.interaction.hydraulics.hydraulicPumpBrake.frontBrakeCutoff.toggle.title": "Toggle Front Brake Cutoff",
+    "vehicle.interaction.hydraulics.hydraulicPumpBrake.frontBrakeCutoff.toggle.desc": "Toggles front brake cutoff on and off when clicking the button.",
+    "vehicle.interaction.hydraulics.hydraulicPumpBrake.frontBrakeCutoff.set.title": "Set Front Brake Cutoff",
+    "vehicle.interaction.hydraulics.hydraulicPumpBrake.frontBrakeCutoff.set.desc": "Toggles front brake cutoff on and off when holding and releasing the button.",
+    "vehicle.interaction.hydraulics.hydraulicPumpBrake.hillAssist.inc.title": "Hill Assist Brake Coef Up",
+    "vehicle.interaction.hydraulics.hydraulicPumpBrake.hillAssist.inc.desc": "Increases hill assist brake coefficient by 10%.",
+    "vehicle.interaction.hydraulics.hydraulicPumpBrake.hillAssist.dec.title": "Hill Assist Brake Coef Down",
+    "vehicle.interaction.hydraulics.hydraulicPumpBrake.hillAssist.dec.desc": "Decreases hill assist brake coefficient by 10%.",
+    "vehicle.interaction.hydraulics.hydraulicPumpBrake.hillAssist.set.title": "Set Hill Assist Brake Coef",
+    "vehicle.interaction.hydraulics.hydraulicPumpBrake.hillAssist.set.desc": "Sets hill assist brake coefficient with axis input.",
+    "vehicle.interaction.hydraulics.hydraulicPumpBrake.hillAssist.dis.title": "Disable Hill Assist",
+    "vehicle.interaction.hydraulics.hydraulicPumpBrake.hillAssist.dis.desc": "Sets hill assist brake coefficient to 0%.",
+
     "vehicle.interaction.controller.spikestrip.toggleOperationMode.title": "Toggle Operation Mode",
     "vehicle.interaction.controller.spikestrip.toggleOperationMode.desc": "Switches the spike strip operation mode between automatic and manual.",
     "vehicle.interaction.controller.spikestrip.toggleManualExtension.title": "Toggle Manual Extension",
@@ -7635,6 +7798,20 @@
     "vehicle.interaction.doors.lid_F2.toggle.desc": "Opens and closes the second front lid.",
     "vehicle.interaction.doors.lid_R2.toggle.title": "Toggle Second Rear Lid",
     "vehicle.interaction.doors.lid_R2.toggle.desc": "Opens and closes the second rear lid.",
+
+    "vehicle.interaction.doors.railing.toggle.title": "Toggle Railing Door",
+    "vehicle.interaction.doors.railing.toggle.desc": "Opens and closes the door on the railing.",
+
+    "vehicle.interaction.doors.accessPanelFL.toggle.title": "Toggle Front Left Access Panel",
+    "vehicle.interaction.doors.accessPanelFL.toggle.desc": "Opens and closes the front left access panel.",
+    "vehicle.interaction.doors.accessPanelFR.toggle.title": "Toggle Front Right Access Panel",
+    "vehicle.interaction.doors.accessPanelFR.toggle.desc": "Opens and closes the front right access panel.",
+    "vehicle.interaction.doors.accessPanelRL.toggle.title": "Toggle Rear Left Access Panel",
+    "vehicle.interaction.doors.accessPanelRL.toggle.desc": "Opens and closes the rear left access panel.",
+    "vehicle.interaction.doors.accessPanelRR.toggle.title": "Toggle Rear Right Access Panel",
+    "vehicle.interaction.doors.accessPanelRR.toggle.desc": "Opens and closes the rear right access panel.",
+    "vehicle.interaction.doors.accessPanelT.toggle.title": "Toggle Top Access Panel",
+    "vehicle.interaction.doors.accessPanelT.toggle.desc": "Opens and closes the top access panel.",
 
     "vehicle.interaction.doors.portaPotty.toggle.title": "Toggle Porta Potty Door",
     "vehicle.interaction.doors.portaPotty.toggle.desc": "Opens and closes the door of the porta potty prop, if it's unlocked.",
@@ -7804,12 +7981,47 @@
     "vehicle.interaction.schoolbus.ambersPolice.title": "Toggle Police Warning Lights",
     "vehicle.interaction.schoolbus.ambersPolice.desc": "Turns the police flashing lights on/off",
 
+    "vehicle.interaction.loader.liftArm.ax.title": "Lift Arm Axis",
+    "vehicle.interaction.loader.liftArm.ax.desc": "Controls the lift arm with an axis input.",
+    "vehicle.interaction.loader.tiltArm.ax.title": "Tilt Arm Axis",
+    "vehicle.interaction.loader.tiltArm.ax.desc": "Controls the tilt arm with an axis input.",
+    "vehicle.interaction.loader.aux.ax.title": "Auxiliary Hydrauliucs Control Axis",
+    "vehicle.interaction.loader.aux.ax.desc": "Controls the auxiliary hydraulics input with an axis.",
+    "vehicle.interaction.loader.rimPull.title": "Rimpull",
+    "vehicle.interaction.loader.rimPull.desc": "Presses the rimpull pedal",
+
+    "vehicle.interaction.steeringLockPin.toggle.title": "Toggle Steering Lock Pin",
+    "vehicle.interaction.steeringLockPin.toggle.desc": "Toggles steering lock pin on and off.",
+
     "vehicle.interaction.shipping_container.couplers.H_bot.desc": "Attaches/detaches the lower horizontal container couplers",
     "vehicle.interaction.shipping_container.couplers.H_bot.title": "Lower Horizontal Container Couplers",
     "vehicle.interaction.shipping_container.couplers.H_top.desc": "Attaches/detaches the upper horizontal container couplers",
     "vehicle.interaction.shipping_container.couplers.H_top.title": "Upper Horizontal Container Couplers",
     "vehicle.interaction.shipping_container.couplers.V_top.desc": "Attaches/detaches the vertical container couplers",
     "vehicle.interaction.shipping_container.couplers.V_top.title": "Vertical Container Couplers",
+
+    "vehicle.interaction.walking.walkLeftRight.title": "Walk Left/Right",
+    "vehicle.interaction.walking.walkLeftRight.desc": "Uses axis to walk left or right",
+    "vehicle.interaction.walking.walkLeft.title": "Walk Left",
+    "vehicle.interaction.walking.walkLeft.desc": "Uses button to walk left",
+    "vehicle.interaction.walking.walkRight.title": "Walk Right",
+    "vehicle.interaction.walking.walkRight.desc": "Uses button to walk right",
+    "vehicle.interaction.walking.walkUpDown.title": "Walk Forwards/Backwards",
+    "vehicle.interaction.walking.walkUpDown.desc": "Uses axis to walk forwards or backwards",
+    "vehicle.interaction.walking.walkUp.title": "Walk Forwards",
+    "vehicle.interaction.walking.walkUp.desc": "Uses button to walk forwards",
+    "vehicle.interaction.walking.walkDown.title": "Walk Backwards",
+    "vehicle.interaction.walking.walkDown.desc": "Uses button to walk backwards",
+    "vehicle.interaction.walking.sprintHold.title": "Sprint (Hold)",
+    "vehicle.interaction.walking.sprintHold.desc": "Toggles sprint on and off when holding and releasing the button",
+    "vehicle.interaction.walking.sprintToggle.title": "Sprint (Toggle)",
+    "vehicle.interaction.walking.sprintToggle.desc": "Toggles sprint on and off when clicking the button",
+    "vehicle.interaction.walking.jump.title": "Jump",
+    "vehicle.interaction.walking.jump.desc": "Jumps when button is clicked and the character is on the ground",
+    "vehicle.interaction.walking.crouch.title": "Crouch (Hold)",
+    "vehicle.interaction.walking.crouch.desc": "Toggles crouch on and off when holding and releasing the button",
+    "vehicle.interaction.walking.crouchToggle.title": "Crouch (Toggle)",
+    "vehicle.interaction.walking.crouchToggle.desc": "Toggles crouch on and off when clicking the button",
 
     "vehicle.vehicleController.shifterModeNameArcade": "Arcade",
     "vehicle.vehicleController.shifterModeNameRealistic": "Realistic",
@@ -7848,6 +8060,9 @@
     "vehicle.tirePressureControl.message.inflatingActiveGroups": "Inflating active pressuregroups...",
     "vehicle.tirePressureControl.message.deflatingActiveGroups": "Deflating active pressuregroups...",
     "vehicle.tirePressureControl.message.stoppingActiveGroups": "Stopping pressure change...",
+
+    "vehicle.hydraulicPumpBrake.hillAssist": "Hill assist: {{coef}}",
+    "vehicle.hydraulicPumpBrake.frontBrakeLockOut": "Front brake lock out: {{enabled}}",
 
     "vehicle.beamstate.tireDeflated": "{{wheelName | translate}} tire deflated",
     "vehicle.beamstate.beamBroke": "Beam {{id}} just broke: {{id1name}} [{{id1}}]  ->  {{id2name}} [{{id2}}]",
@@ -7897,6 +8112,8 @@
     "vehicle.bdebug.nodeVisMode.velocities": "Velocities",
     "vehicle.bdebug.nodeVisMode.forces": "Forces",
     "vehicle.bdebug.nodeVisMode.density": "Density",
+    "vehicle.bdebug.nodeVisMode.clusters": "Clusters",
+    "vehicle.bdebug.nodeVisMode.mainCluster": "Main Cluster",
     "vehicle.bdebug.nodeVisMode": "Changed node visualization: {{nodeVisMode | translate}}",
     "vehicle.bdebug.nodeTextMode.off": "Off",
     "vehicle.bdebug.nodeTextMode.names": "Names",
@@ -8164,6 +8381,8 @@
     "ui.inputActions.gameplay.reset_all_physics.title": "Reset all vehicle physics",
     "ui.inputActions.gameplay.reset_physics.description": "Restarts the current mission or resets the vehicle back to its initial state",
     "ui.inputActions.gameplay.reset_physics.title": "Restart current mission or vehicle",
+    "ui.inputActions.gameplay.gameplay_interact.description": "Allows you to interact with certain gameplay elements depending on the context",
+    "ui.inputActions.gameplay.gameplay_interact.title": "Interact with gameplay",
     "ui.inputActions.gameplay.start_drag.description": "Start drag race",
     "ui.inputActions.gameplay.start_drag.title": "Drag Accept",
     "ui.inputActions.gameplay.switch_next_vehicle.description": "Switches focus to next vehicle",
@@ -8337,7 +8556,7 @@
     "ui.inputActions.vehicle.horn.title": "Horn",
     "ui.inputActions.vehicle.increaseTwoStepRPM.description": "",
     "ui.inputActions.vehicle.increaseTwoStepRPM.title": "Increase Two-Step launch RPM",
-    "ui.inputActions.vehicle.increase_cc_speed.description": "Increases the cruise control target speed by 10 km/h",
+    "ui.inputActions.vehicle.increase_cc_speed.description": "Increases the cruise control target speed by 1 km/h",
     "ui.inputActions.vehicle.increase_cc_speed.title": "Increase Cruise Control Speed (1 km/h)",
     "ui.inputActions.vehicle.increase_cc_speed_large.description": "Increases the cruise control target speed by 10 km/h",
     "ui.inputActions.vehicle.increase_cc_speed_large.title": "Increase Cruise Control Speed (10 km/h)",
@@ -8709,8 +8928,8 @@
     "ui.inputActions.controllerui.pause.title": "Pause/unpause",
     "ui.inputActions.controllerui.pause.description": "Pause/unpause (Start)",
 
-    "ui.inputActions.controllerui.menu.title": "Menu/Select",
-    "ui.inputActions.controllerui.menu.description": "Show/hide menu, or select",
+    "ui.inputActions.controllerui.menu.title": "Menu",
+    "ui.inputActions.controllerui.menu.description": "Show/hide menu",
     "ui.inputActions.controllerui.back.title": "Back",
     "ui.inputActions.controllerui.back.description": "Cancels or returns back to previous screen",
     "ui.inputActions.controllerui.details.title": "Details",
@@ -8846,8 +9065,8 @@
     "launchercpp.moveuserfolder_overwrite_title": "Action not possible",
     "launchercpp.main_instruction": "Launcher",
     "launchercpp.main_content": "Welcome",
-    "launchercpp.main_play_BeamNG.drive": "Launch\nSimply enjoy BeamNG.drive",
-    "launchercpp.main_play_BeamNG.tech": "Launch\nRun BeamNG.tech simulator",
+    "launchercpp.main_play_BeamNG_drive": "Launch\nSimply enjoy BeamNG.drive",
+    "launchercpp.main_play_BeamNG_tech": "Launch\nRun BeamNG.tech simulator",
     "launchercpp.supporttool_btn_vulkan": "Launch (Vulkan)\nTest the upcoming Vulkan renderer.",
     "launchercpp.main_btn_moveuserfolder": "Manage User Folder\nTransfer user data to another location.",
     "launchercpp.main_btn_supporttool": "Support tools\nTools for troubleshooting problems with the application",
@@ -8871,7 +9090,6 @@
     "launchercpp.moveusr_open_current": "Open user folder\n{0}",
     "launchercpp.moveusr_move_custom": "Move to custom location\nAnd optionally move your files",
     "launchercpp.moveusr_move_default": "Move to default location\nAnd optionally move your files",
-    "launchercpp.moveusr_custom": "Pick a custom location",
     "launchercpp.moveusr_instruction": "Manage User Folder",
     "launchercpp.moveusr_move_content_title": "User folder correctly changed!",
     "launchercpp.moveusr_move_content_msg": "The old user folder had {0} files ({1}).\n\nBring them to the new location?",
@@ -8884,7 +9102,6 @@
     "launchercpp.moveusr_do_insideold": "The path you chose is inside the default or old user path.\nNo changes will be made.",
     "launchercpp.moveusr_do_insideparentgame": "Cannot continue: the application install folder would end up inside your chosen location.\nPlease choose a different location",
     "launchercpp.moveusr_do_insidechildgame": "Cannot continue: your chosen location is inside the application install folder.\nPlease choose a different location.",
-    "launchercpp.moveusr_do_insidedef": "The user folder is already in the default location.",
     "launchercpp.moveusr_do_notempty_txt": "The new location already contains {0} files ({1}).\n\nAny files with matching names will be overwritten.\n\nContinue anyway?",
     "launchercpp.moveusr_do_notempty_title": "New user folder not empty!",
     "launchercpp.moveusr_do_tile": "Moving user files",
@@ -8898,7 +9115,6 @@
     "launchercpp.moveusr_do_failmove": "Failed to move user files.\nCheck launcher log.\n\nYou need to finish the file transfer manually.\nThe new userpath has not been set",
     "launchercpp.moveusr_do_restart_txt": "The user folder was successfully changed.",
     "launchercpp.moveusr_do_restart_title": "Finished",
-    "launchercpp.moveusr_do_registry_err": "Failed to store the new user folder path in windows registry",
     "launchercpp.moveusr_do_ini_err": "Failed to store the new user folder path in INI file",
 
     "launchercpp.manage_backup_title": "Manage Backup",
@@ -8925,8 +9141,6 @@
 
     "launchercpp.supporttool_safemode_txt": "Launches the application with a temporary user folder. Use this mode for diagnostic purposes if you encounter any issues. \n\nIf it runs normally in Safe Mode, one of the installed mods may be the cause of the issue.\n\nWARNING: Changes made while in Safe Mode will not be saved after the exiting",
     "launchercpp.supporttool_safemode_title": "Safe mode",
-    "launchercpp.supporttool_cefnohw_txt": "Intended to troubleshoot issues with the User Interface.\n\nThis option will disable the experimental 'Hardware Acceleration' support for UI\n\nNOTE: This option is disabled by default already. Use if you enabled it previously and have issues with your UI",
-    "launchercpp.supporttool_cefnohw_title": "Disable UI hardware acceleration",
     "launchercpp.supporttool_verifyhash_txt": "This tool will scan your application folder to ensure that no files are corrupted or missing.\n\nThe process can take a few minutes.",
     "launchercpp.supporttool_verifyhash_title": "Verify Integrity",
 
@@ -8978,13 +9192,9 @@
     "launchercpp.launchgame_404_clipboard": "application executable not found:",
     "launchercpp.launchgame_fail_txt": "Could not launch application executable: {0}\n\nError: {1}\n\n{2}",
     "launchercpp.launchgame_fail_clipboard": "{0} unable to start application - Error {1} {2}",
-    "launchercpp.setting_parse_err_txt": "unable to parse the application settings.\nContact support",
-    "launchercpp.setting_parse_err_title": "Invalid file",
     "launchercpp.firewall_err_txt": "Failed to add the BeamNG application to the Windows firewall exception list.",
     "launchercpp.firewall_err_title": "Firewall error",
 
-    "launchercpp.upgrade_title": "Update preparations",
-    "launchercpp.upgrade_text": "{} has been updated to version {}\n\nFor a smoother experience we will now:\n - Disable mods\n - Cleanup user folder\n - Move unknown files\n\nContinue?",
     "launchercpp.migration_title": "BeamNG Launcher - Data Migration",
     "launchercpp.migration_failed_get_disk_space": "We failed to obtain the free space for disk {}\\. We can't guarantee that the migration will succeed.\n\nDo you wish to proceed?",
     "launchercpp.migration_failed_disk_space2": "There is not enough free space on disk {}\\ (required={:02f} MB free={:02f} MB) in order to migrate your data.",
@@ -9004,7 +9214,6 @@
 
     "launchercpp.language_system": "System/OS",
     "launchercpp.language_selector_title": "Languages",
-    "launchercpp.language_selector_content": "Select the language you want to use in the launcher.",
     "launchercpp.language_current": "Current language is",
     "launchercpp.language_restart_txt": "You need to start the launcher again to apply the new language.",
 
@@ -9176,7 +9385,9 @@
     "ui.career.arl.description": "The ARL pairs professional test drivers with cutting-edge AI research vehicles, blending intense competition with technological innovation in the industry's most prestigious racing series.",
 
     "ui.career.logistics.delivery.name": "Cargo Delivery",
-    "ui.career.logistics.delivery.description": "Progress through five levels of delivery gameplay, starting with small packages and advancing to large tanker trailers. Each level introduces new challenges, from navigating with trailers to managing hazardous materials.",
+    "ui.career.logistics.delivery.description": "Progress through five levels of delivery gameplay, starting with small packages and advancing to large tanker trailers. Each level introduces new challenges.",
+    "ui.career.logistics.materials.name": "Bulk Materials",
+    "ui.career.logistics.materials.description": "Learn how to transport goods on a larger scale, with materials like sand, water, and other bulk materials.",
     "ui.career.logistics.vehicleDelivery.name": "Car Jockey",
     "ui.career.logistics.vehicleDelivery.description": "Specialize in vehicle transportation, progressing from basic used cars and trucks delivery to handling rare and exotic vehicles with perfect care.",
 
@@ -9214,6 +9425,7 @@
     "ui.career.tutorialOffDesc": "Recommended for experienced players. Skip the tutorial and jump right into your career.",
     "ui.career.withTutorial": "With Tutorial",
     "ui.career.withoutTutorial": "Without Tutorial",
+    "ui.career.insurance.noInsurance": "No insurance",
 
     "ui.career.notification.saved": "Career progress saved",
     "ui.career.notification.loaded": "Career progress loaded",
@@ -9295,6 +9507,7 @@
     "ui.career.performance.brakingGForceScore": "Braking",
     "ui.career.performance.speedProgressionScore": "Acceleration",
 
+    "ui.career.performance.title": "Performance Class",
     "ui.career.performance.classS": "Class S",
     "ui.career.performance.classA": "Class A",
     "ui.career.performance.classB": "Class B",
@@ -9308,13 +9521,13 @@
     "ui.crawl.gateReached": "Gate reached!",
     "ui.crawl.startedCrawl": "Started Crawl",
     "ui.crawl.disqualified": "You left the crawl area.",
-    "ui.crawl.tooMuchZAcc": "Too much Z-axis acceleration! {{penaltyPoints}} penalty points",
     "ui.crawl.drivingBackwards": "Driving backwards! {{penaltyPoints}} penalty points",
-    "ui.crawl.damageThreshold1000": "Damage threshold 1000 reached! {{penaltyPoints}} penalty points",
-    "ui.crawl.damageThreshold4000": "Damage threshold 4000 reached! {{penaltyPoints}} penalty points",
     "ui.crawl.vehicleFlippedUpright": "Vehicle flipped upright! {{penaltyPoints}} penalty points",
     "ui.crawl.vehicleReset": "Vehicle reset! {{penaltyPoints}} penalty points",
     "ui.crawl.boundaryViolation": "Boundary violation! {{penaltyPoints}} penalty points",
+    "ui.crawl.bonusCheckpoint": "Bonus checkpoint reached! -{{penaltyPoints}} penalty points",
+    "ui.crawl.gateCleared": "Gate cleared! -{{penaltyPoints}} penalty points",
+    "ui.crawl.dnf": "DNF! Did Not Finish - Disqualified!",
 
     "ui.freeroam.refuel.prompt": "Refuel Vehicle",
     "ui.freeroam.refuel.complete": "Your vehicle has been completely refuelled.",
