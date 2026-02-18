@@ -3124,5 +3124,10 @@
     "ui.common.disabled": "Letiltva",
     "ui.common.loading": "Betöltés...",
     "ui.common.loading.short": "Egy pillanat...",
-    "ui.common.new": "Új"
+    "ui.common.new": "Új",
+    "ui.mainmenu.addons": "Kiegészítők",
+    "ui.mainmenu.extras": "Extrák",
+    "ui.mainmenu.more": "Több...",
+    "ui.mainmenu.oldmenu": "Régi főmenü",
+    "ui.mainmenu.newmenu": "Új főmenü"
 }
