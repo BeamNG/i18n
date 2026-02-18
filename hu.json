@@ -3112,5 +3112,11 @@
     "garageMode.action.zoom.title": "Nagyítás, garázs mód",
     "missions.dragRace.wcusa.milesStarted": "Elindult a negyed mérföld!",
     "missions.dragRace.gridmapv2.title": "GridmapV2 Drag Pálya",
-    "ui.common.search.results": "Keresési eredmények"
+    "ui.common.search.results": "Keresési eredmények",
+    "ui.common.clear": "Törlés",
+    "ui.common.understood": "Értettem!",
+    "ui.common.collapse": "Bezár",
+    "ui.common.ignition": "Gyújtás",
+    "ui.common.resetVehicle": "Jármű Visszaállítása",
+    "ui.mainmenu.mod": "Mod"
 }
