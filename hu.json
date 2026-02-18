@@ -3111,5 +3111,6 @@
     "missions.hypermilling.progressKeyLabels.electricEnergy": "Elektromos",
     "garageMode.action.zoom.title": "Nagyítás, garázs mód",
     "missions.dragRace.wcusa.milesStarted": "Elindult a negyed mérföld!",
-    "missions.dragRace.gridmapv2.title": "GridmapV2 Drag Pálya"
+    "missions.dragRace.gridmapv2.title": "GridmapV2 Drag Pálya",
+    "ui.common.search.results": "Keresési eredmények"
 }
