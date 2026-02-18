@@ -3123,5 +3123,6 @@
     "ui.common.enabled": "Engedélyezve",
     "ui.common.disabled": "Letiltva",
     "ui.common.loading": "Betöltés...",
-    "ui.common.loading.short": "Egy pillanat..."
+    "ui.common.loading.short": "Egy pillanat...",
+    "ui.common.new": "Új"
 }
