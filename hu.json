@@ -3174,5 +3174,11 @@
     "ui.color.paint.selectOne": "Festés kiválasztása {index}",
     "ui.photomode.azimuth": "Nap Helyzete",
     "ui.photomode.dofAutofocus": "Okos Autofókusz",
-    "ui.photomode.dontReset": "Kilépéskor ne állítsa vissza a beállításokat"
+    "ui.photomode.dontReset": "Kilépéskor ne állítsa vissza a beállításokat",
+    "ui.mirrors.position.left": "Bal tükör",
+    "ui.mirrors.position.right": "Jobb tükör",
+    "ui.mirrors.position.mid": "Visszapillantó tükör",
+    "ui.mirrors.position.interior": "Belső tükör",
+    "ui.mirrors.spot": "Holttér",
+    "ui.rally.menus.chooseVehicle": "Válassz járművet"
 }
