@@ -3194,5 +3194,6 @@
     "ui.experiences.johnsonValley.description": "Próbálj ki pár járművet és útvonalat Johnson Valley szikláin és dombjain.",
     "ui.experiences.johnsonValley.task.subtext": "Használd a Kör Menüt [action=toggleRadialMenuMulti], hogy autót válassz. Közelíts meg egy útvonal-jelölőt és fogadd el a [action=toggleMenues] billentyűvel, hogy elkezdd a túrát.",
     "ui.photomode.toggleNodegrabber": "Csomópontmarkoló",
-    "ui.photomode.tooltipNodegrabber": "A Csomópontmarkoló láthatóságának ki/bekapcsolása"
+    "ui.photomode.tooltipNodegrabber": "A Csomópontmarkoló láthatóságának ki/bekapcsolása",
+    "ui.common.search.unknownArgument": "Ismeretlen keresési feltétel"
 }
