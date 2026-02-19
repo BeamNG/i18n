@@ -3133,5 +3133,18 @@
     "ui.quickrace.tod.time": "Idő",
     "ui.vehicleconfig.gotoold": "A régi UI-hoz",
     "ui.vehicleconfig.gotonew": "Az új UI-hoz",
-    "ui.mirrors.name": "Tükör beállítása"
+    "ui.mirrors.name": "Tükör beállítása",
+    "ui.modmanager.activeMods": "Aktív Modok",
+    "ui.modmanager.disabledMods": "Letiltott Modok",
+    "ui.environment.timeOfDayPlay": "Napszakok Váltakozási Sebessége",
+    "ui.environment.timeOfDay.notSupported": "Ezen a pályán a napszakok váltása nem támogatott.",
+    "ui.color.custom": "Egyedi",
+    "ui.color.paint.unnamed": "Festés {index}",
+    "ui.colorpicker.noPresets": "Nem található előbeállítás, kattints ide a hozzáadáshoz",
+    "ui.startscreen.license.personal": "Személyes, nem üzleti célú licensz",
+    "ui.common.search.invalidFormat": "Helytelen keresési formátum",
+    "ui.photomode.toggleExtraFeatures": "Extra Funkciók",
+    "ui.experiences.leisurelyDrive.description": "Ismerkedj meg az irányítással, és vezess keresztül Olaszország utcáin!",
+    "ui.experiences.leisurelyDrive.task.subtext": "Kövesd a kijelölt utat, vagy használd a térképet [action=toggleBigMap] saját úti cél megadásához.",
+    "ui.experiences.trackday.title": "Nyílt Pályanap"
 }
