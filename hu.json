@@ -3180,5 +3180,7 @@
     "ui.mirrors.position.mid": "Visszapillantó tükör",
     "ui.mirrors.position.interior": "Belső tükör",
     "ui.mirrors.spot": "Holttér",
-    "ui.rally.menus.chooseVehicle": "Válassz járművet"
+    "ui.rally.menus.chooseVehicle": "Válassz járművet",
+    "ui.common.search.noResults": "Nincs találat",
+    "ui.common.search.someHidden": "Néhány találat rejtve lehet"
 }
