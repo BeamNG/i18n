@@ -3146,5 +3146,10 @@
     "ui.photomode.toggleExtraFeatures": "Extra Funkciók",
     "ui.experiences.leisurelyDrive.description": "Ismerkedj meg az irányítással, és vezess keresztül Olaszország utcáin!",
     "ui.experiences.leisurelyDrive.task.subtext": "Kövesd a kijelölt utat, vagy használd a térképet [action=toggleBigMap] saját úti cél megadásához.",
-    "ui.experiences.trackday.title": "Nyílt Pályanap"
+    "ui.experiences.trackday.title": "Nyílt Pályanap",
+    "ui.modmanager.listPossiblyBrokenModsBodyBad": "Ezek a módosítások felülírnak más fájlokat, amelyek tönkretehetik az alkalmazást és az egyéb modokat (különösen a frissítések után). Az alkalmazásfájlok felülírása ellentétes a repo módosítási irányelveinkkel.",
+    "ui.vehicleconfig.liveWheelData": "Élő kerékadatok",
+    "ui.vehicleconfig.liveWheelDataTooltip": "Élő kerékdőlés, kerékösszetartás, utánfutás, SAI kerék adatainak megjelenítése",
+    "ui.vehicleconfig.searchHelp.example4": "Megkeresi az összes helyet a „_fr” kifejezésre, majd az összes névben a „signal” kifejezésre",
+    "ui.vehicleconfig.searchHelp.example7": "Modnevekben, címekben és címkesorokban keres a „szuper” kifejezésre"
 }
