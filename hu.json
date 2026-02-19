@@ -3129,5 +3129,9 @@
     "ui.mainmenu.extras": "Extrák",
     "ui.mainmenu.more": "Több...",
     "ui.mainmenu.oldmenu": "Régi főmenü",
-    "ui.mainmenu.newmenu": "Új főmenü"
+    "ui.mainmenu.newmenu": "Új főmenü",
+    "ui.quickrace.tod.time": "Idő",
+    "ui.vehicleconfig.gotoold": "A régi UI-hoz",
+    "ui.vehicleconfig.gotonew": "Az új UI-hoz",
+    "ui.mirrors.name": "Tükör beállítása"
 }
