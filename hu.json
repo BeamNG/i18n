@@ -3182,5 +3182,9 @@
     "ui.mirrors.spot": "Holttér",
     "ui.rally.menus.chooseVehicle": "Válassz járművet",
     "ui.common.search.noResults": "Nincs találat",
-    "ui.common.search.someHidden": "Néhány találat rejtve lehet"
+    "ui.common.search.someHidden": "Néhány találat rejtve lehet",
+    "ui.rally.experimentalWarning": "Rally mód - WIP",
+    "ui.rally.experimentalTitle": "Rally mód - kísérleti funkció",
+    "ui.photomode.replaySpeed": "Mostani visszajátszási sebesség",
+    "ui.photomode.SSAOControls": "Környezeti árnyék beállítása"
 }
