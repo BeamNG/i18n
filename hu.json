@@ -3195,5 +3195,18 @@
     "ui.experiences.johnsonValley.task.subtext": "Használd a Kör Menüt [action=toggleRadialMenuMulti], hogy autót válassz. Közelíts meg egy útvonal-jelölőt és fogadd el a [action=toggleMenues] billentyűvel, hogy elkezdd a túrát.",
     "ui.photomode.toggleNodegrabber": "Csomópontmarkoló",
     "ui.photomode.tooltipNodegrabber": "A Csomópontmarkoló láthatóságának ki/bekapcsolása",
-    "ui.common.search.unknownArgument": "Ismeretlen keresési feltétel"
+    "ui.common.search.unknownArgument": "Ismeretlen keresési feltétel",
+    "ui.experiences.missions.smallIslandPursuit.title": "Rendőri Üldözés",
+    "ui.experiences.missions.smallIslandPursuit.description": "Tartóztasd le a menekülő gyanúsítottat: érd utol, majd tedd mozgásképtelenné!",
+    "ui.experiences.missions.getDown.description": "Vesd le magad egy szikáról, és figyeld meg a sérüléseket!",
+    "ui.experiences.missions.garageToGarage.description": "Szállíts le véletlenszerű járműveket Olaszország-szerte!",
+    "ui.experiences.missions.orchardHill.title": "Rally Gyorsasági Szakasz",
+    "ui.experiences.missions.ringRoad.title": "Utcai Verseny",
+    "ui.experiences.missions.slitheryDriftShort.title": "Hegyi Drift",
+    "ui.experiences.missions.dragStripRace.title": "Gyorsulási Verseny",
+    "ui.experiences.missions.038_marbleHaul1.description": "Szállíts le két 19 tonnás márványtömböt a kővágóhoz!",
+    "ui.experiences.general.timeTag": "{{time}} perc",
+    "ui.experiences.general.explore": "Fedezd fel a környéket!",
+    "ui.experiences.discover_037.limousine.title": "Limuzin Tesztvezetés",
+    "ui.experiences.discover_037.limousine.description": "Vidd el az új Grand Marshal Limuzint egy tesztvezetésre Belasco City körül!"
 }
