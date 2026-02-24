@@ -3208,5 +3208,14 @@
     "ui.experiences.general.timeTag": "{{time}} perc",
     "ui.experiences.general.explore": "Fedezd fel a környéket!",
     "ui.experiences.discover_037.limousine.title": "Limuzin Tesztvezetés",
-    "ui.experiences.discover_037.limousine.description": "Vidd el az új Grand Marshal Limuzint egy tesztvezetésre Belasco City körül!"
+    "ui.experiences.discover_037.limousine.description": "Vidd el az új Grand Marshal Limuzint egy tesztvezetésre Belasco City körül!",
+    "ui.experiences.general.freeroamLevel": "Barangolás: {{level | translate}}",
+    "ui.experiences.discover_038.logLoader.task.logSortingGrapple.subText": "Próbáld meg a farönköket a kamionra pakolni.",
+    "ui.photomode.toggleSSAO": "Környezeti árnyék",
+    "ui.experiences.trackday.description": "Vidd el egy körre a válogatott nagy teljesítményű autókat a Hirochi Versenypályán.",
+    "ui.experiences.trackday.task1.label": "Vidd el az autókat egy körre!",
+    "ui.experiences.trackday.task2.subtext": "Lesd meg a versenypályát és a dragpályát. Használd a Térképet [action=toggleBigMap], hogy útvonalat állíts be.",
+    "ui.experiences.propDestruction.title": "Tárgy-Zúzás",
+    "ui.experiences.propDestruction.task.label": "Ütközz neki a tárgyaknak és zúzd össze őket.",
+    "ui.experiences.ramplow.title": "Forgalom-Káosz"
 }
