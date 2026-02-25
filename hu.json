@@ -3218,5 +3218,11 @@
     "ui.experiences.propDestruction.title": "Tárgy-Zúzás",
     "ui.experiences.propDestruction.task.label": "Ütközz neki a tárgyaknak és zúzd össze őket.",
     "ui.experiences.ramplow.title": "Forgalom-Káosz",
-    "ui.apps.brake_thermal_debug.coreCooling": "Mag Hűtés"
+    "ui.apps.brake_thermal_debug.coreCooling": "Mag Hűtés",
+    "ui.apps.brake_thermal_debug.padGlazing": "Betét Izzás",
+    "ui.apps.damage_app_vehicle_simple.component.engine.engineReducedTorque": "Motor Nyomatéka Csökkent",
+    "ui.apps.damage_app_vehicle_simple.component.engine.overTorqueDanger": "Túlnyomatékolás Kockázata",
+    "ui.apps.damage_app_vehicle_simple.component.engine.engineDisabled": "Motor Letiltva",
+    "ui.apps.engine_thermal_debug.oilLeakRateOilpan": "Olajteknő Eresztés Mérték",
+    "ui.apps.engine_thermal_debug.oilLeakRateRadiator": "Olajhűtő Eresztés Mérték"
 }
