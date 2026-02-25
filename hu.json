@@ -3217,5 +3217,6 @@
     "ui.experiences.trackday.task2.subtext": "Lesd meg a versenypályát és a dragpályát. Használd a Térképet [action=toggleBigMap], hogy útvonalat állíts be.",
     "ui.experiences.propDestruction.title": "Tárgy-Zúzás",
     "ui.experiences.propDestruction.task.label": "Ütközz neki a tárgyaknak és zúzd össze őket.",
-    "ui.experiences.ramplow.title": "Forgalom-Káosz"
+    "ui.experiences.ramplow.title": "Forgalom-Káosz",
+    "ui.apps.brake_thermal_debug.coreCooling": "Mag Hűtés"
 }
