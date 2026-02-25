@@ -3224,5 +3224,6 @@
     "ui.apps.damage_app_vehicle_simple.component.engine.overTorqueDanger": "Túlnyomatékolás Kockázata",
     "ui.apps.damage_app_vehicle_simple.component.engine.engineDisabled": "Motor Letiltva",
     "ui.apps.engine_thermal_debug.oilLeakRateOilpan": "Olajteknő Eresztés Mérték",
-    "ui.apps.engine_thermal_debug.oilLeakRateRadiator": "Olajhűtő Eresztés Mérték"
+    "ui.apps.engine_thermal_debug.oilLeakRateRadiator": "Olajhűtő Eresztés Mérték",
+    "ui.apps.engine_thermal_debug.oilLeakRateGravity": "Olaj Gravitáció Szivárgási Arány"
 }
