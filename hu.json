@@ -3247,5 +3247,22 @@
     "ui.playmodes.careerModePause": "Karrier: Megállítva",
     "ui.options.camera.disabled": "kikapcsolt",
     "ui.options.camera.chase": "üldöz",
-    "ui.options.camera.driver": "vezető"
+    "ui.options.camera.driver": "vezető",
+    "ui.apps.engine_thermal_debug.qcoolanttoair": "Q hűtőfolyadék a levegőhöz",
+    "ui.apps.engine_thermal_debug.qcoolanttoblock": "Q hűtőfolyadék a blokkhoz",
+    "ui.apps.engine_thermal_debug.qtooil": "Q az olajhoz",
+    "ui.apps.engine_thermal_debug.qtoexhaust": "Q a kipufogóhoz",
+    "ui.apps.engine_thermal_debug.connectingRodBearingsDamaged": "Hajtórúd csapágyak sérültek",
+    "ui.apps.hotlapping.ToggleDetail": "Részlet kapcsolása",
+    "ui.apps.node_beam_info.broken": "törött",
+    "ui.apps.node_beam_info.Nodes": "Csomópontok",
+    "ui.apps.node_beam_info.collidable": "ütközhető",
+    "ui.apps.pneumatics_debug.TankPressure": "Tartálynyomás",
+    "ui.apps.pneumatics_debug.CompressorState": "Kompresszor",
+    "ui.apps.pneumatics_debug.CompressorEngaged": "Bekapcsolva",
+    "ui.apps.pneumatics_debug.CompressorDisengaged": "Kikapcsolva",
+    "ui.apps.police.evade": "Lerázás",
+    "ui.apps.police.policeWrecks": "Rendőr széttörve: {{value}}",
+    "ui.apps.police.offensesCount": "Bűncselekmények: {{value}}",
+    "ui.apps.turbo_activity_graph.TurboRPM": "Turbó fordulatszám"
 }
