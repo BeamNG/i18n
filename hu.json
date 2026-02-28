@@ -3309,5 +3309,7 @@
     "ui.options.minimap.lookahead.high": "Magas",
     "ui.options.navigation.title": "Navigáció",
     "ui.options.officialTranslations": "Hivatalos fordítások",
-    "ui.options.replay": "Visszajátszás"
+    "ui.options.replay": "Visszajátszás",
+    "ui.experiences.missions.getDown.title": "Sérülés Próba",
+    "ui.experiences.missions.garageToGarage.title": "Autó Szállítás"
 }
