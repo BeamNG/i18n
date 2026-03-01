@@ -3328,5 +3328,6 @@
     "ui.apps.damage_app_vehicle_simple.component.engine.mildOverrevDamage": "Enyhe Túlforgatási Sérülés",
     "ui.career.motorsport.racing.name": "Versenyzés",
     "ui.statspage.generalTitle": "Általános statisztikák",
-    "ui.statspage.switchMode.toCareer": "Váltás a karrier statisztikákra"
+    "ui.statspage.switchMode.toCareer": "Váltás a karrier statisztikákra",
+    "ui.condition.needsRepair": "Javítás szükséges"
 }
