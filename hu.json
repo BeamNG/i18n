@@ -3330,5 +3330,12 @@
     "ui.statspage.generalTitle": "Általános statisztikák",
     "ui.statspage.switchMode.toCareer": "Váltás a karrier statisztikákra",
     "ui.condition.needsRepair": "Javítás szükséges",
-    "ui.experiences.trackday.task1.subtext": "Számos járművet kipróbálhatsz. Használd a körmenüt [action=toggleRadialMenuMulti], hogy verdát cserélj."
+    "ui.experiences.trackday.task1.subtext": "Számos járművet kipróbálhatsz. Használd a körmenüt [action=toggleRadialMenuMulti], hogy verdát cserélj.",
+    "ui.experiences.missions.ridgewayRider.title": "Sziklamászás",
+    "ui.experiences.missions.barrelKnocker.title": "Hordó-Lökés",
+    "ui.experiences.missions.038_quarrytt1.description": "Milyen gyorsan tudsz végigmenni a bánya-körön?",
+    "ui.experiences.missions.038_quarryG2G.title": "Garázsból garázsba az olasz bányában",
+    "ui.experiences.discover_037.destructiveProps.task.label": "Zúzd össze az autókat!",
+    "ui.experiences.discover_038.logLoader.title": "Rönkölés",
+    "ui.experiences.discover_038.rockslide.title": "\"Véletlen\" hegyomlás"
 }
