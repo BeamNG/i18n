@@ -3337,5 +3337,8 @@
     "ui.experiences.missions.038_quarryG2G.title": "Garázsból garázsba az olasz bányában",
     "ui.experiences.discover_037.destructiveProps.task.label": "Zúzd össze az autókat!",
     "ui.experiences.discover_038.logLoader.title": "Rönkölés",
-    "ui.experiences.discover_038.rockslide.title": "\"Véletlen\" hegyomlás"
+    "ui.experiences.discover_038.rockslide.title": "\"Véletlen\" hegyomlás",
+    "ui.apps.categories.rally": "Rally",
+    "ui.apps.damage_app_vehicle_simple.component.engine.impactDamage": "Motor sérülés ütközéstől",
+    "ui.apps.damage_app_vehicle_simple.component.gearbox.synchroWear": "Szinkronizátor sérült"
 }
