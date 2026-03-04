@@ -3345,5 +3345,6 @@
     "ui.apps.selector.interactivity.required": "Elvárt az egér használata",
     "ui.apps.hotlapping.EndHotlapping": "Időfutam vége",
     "ui.apps.hotlapping.Cancelrenaming": "Átnevezés bezárása",
-    "ui.apps.hotlapping.Vsprevbest": "Vs előző legjobb"
+    "ui.apps.hotlapping.Vsprevbest": "Vs előző legjobb",
+    "ui.apps.engine_thermal_debug.miniumSafeOilMass": "Olaj Minimum Biztonságos Tömeg"
 }
