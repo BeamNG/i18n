@@ -39,10 +39,10 @@
     "ui.appselect.add": "Alkalmazás hozzáadása",
     "ui.appselect.apps": "Alkalmazások",
     "ui.appselect.deselectAll": "Kijelölések megszüntetése",
-    "ui.appselect.done": "Kész",
+    "ui.appselect.done": "Appok megnézése",
     "ui.appselect.downloadMore": "Több letöltése!",
     "ui.appselect.filters": "Szűrők",
-    "ui.appselect.reset": "Elrendezés visszaállítása",
+    "ui.appselect.reset": "App elrendezésének visszaállítása",
     "ui.appselect.search": "Keresés",
     "ui.appselect.selectAll": "Összes kijelölése",
     "ui.colorpicker.brightness": "Fényerő",
@@ -3346,5 +3346,8 @@
     "ui.apps.hotlapping.EndHotlapping": "Időfutam vége",
     "ui.apps.hotlapping.Cancelrenaming": "Átnevezés bezárása",
     "ui.apps.hotlapping.Vsprevbest": "Vs előző legjobb",
-    "ui.apps.engine_thermal_debug.miniumSafeOilMass": "Olaj Minimum Biztonságos Tömeg"
+    "ui.apps.engine_thermal_debug.miniumSafeOilMass": "Olaj Minimum Biztonságos Tömeg",
+    "ui.experiences.missions.slitheryDriftShort.description": "Egy rövid és nehéz drift kör Olaszország hegyoldalán.",
+    "ui.experiences.missions.barrelKnocker.description": "Szerezz pontokat úgy, hogy ellököd az úton lévő hordókat.",
+    "ui.experiences.discover_038.title": "Nehéz Fém"
 }
