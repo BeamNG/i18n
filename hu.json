@@ -3385,5 +3385,13 @@
     "ui.apps.engine_thermal_debug.radiatorAirSpeedEfficiency": "Radiátor légsebesség hatékonysága",
     "ui.apps.engine_thermal_debug.coolantLeakRateOverpressure": "Hütőfolyadék túlnyomás szivárgási arány",
     "ui.apps.engine_thermal_debug.qoilradiatortoair": "Q olajradiátor a levegőhöz",
-    "ui.apps.threedexport.VertexColors": "VertexSzínek"
+    "ui.apps.threedexport.VertexColors": "VertexSzínek",
+    "vehicle.info.Years": "Évek",
+    "ui.options.pleaseChooseTheOptionsAbove": "Kérlek, válaszd ki a fenti lehetőségeket",
+    "ui.options.motionSim.absolute": "Szög",
+    "ui.options.motionSim.x": "X",
+    "ui.options.motionSim.y": "Y",
+    "ui.options.motionSim.z": "Z",
+    "ui.options.rally": "Rally",
+    "ui.options.rally.textCompositor.voice": "Másodpilóta Hangja"
 }
