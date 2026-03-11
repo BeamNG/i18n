@@ -3378,5 +3378,6 @@
     "ui.apps.damage_app_vehicle_simple.component.engine.engineLockedUp": "Motor Záródott",
     "ui.apps.engine_thermal_debug.maximumSafeOilMass": "Olaj Maximum Biztonságos Tömeg",
     "ui.apps.engine_thermal_debug.oilLeakRateOverall": "Az olaj teljes szivárgási aránya",
-    "ui.apps.thumbnail_generator.message1": "Ez az alkalmazás képeket fog készíteni az aktuális járműről és annak konfigurációiról."
+    "ui.apps.thumbnail_generator.message1": "Ez az alkalmazás képeket fog készíteni az aktuális járműről és annak konfigurációiról.",
+    "ui.apps.engine_thermal_debug.oilLubricationCoef": "Olaj Kenési Faktor"
 }
