@@ -3376,5 +3376,7 @@
     "ui.experiences.discover_038.rockslide.task.getIntoPlace.subText": "Szállj be a járműbe a(z) [action=toggleWalkingMode] gombbal vagy a körmenű segítségével [action=toggleRadialMenuMulti], utána pedig óvatosan tolass a kamionnal a szikla szélére.",
     "ui.replay.warning": "[b]Eltérő alkalmazásverzió[/b], más [b]aktivált modok[/b] vagy eltérő [b]mod verziók[/b] lejátszhatatlanná tehetnek egy visszajátszást.",
     "ui.apps.damage_app_vehicle_simple.component.engine.engineLockedUp": "Motor Záródott",
-    "ui.apps.engine_thermal_debug.maximumSafeOilMass": "Olaj Maximum Biztonságos Tömeg"
+    "ui.apps.engine_thermal_debug.maximumSafeOilMass": "Olaj Maximum Biztonságos Tömeg",
+    "ui.apps.engine_thermal_debug.oilLeakRateOverall": "Az olaj teljes szivárgási aránya",
+    "ui.apps.thumbnail_generator.message1": "Ez az alkalmazás képeket fog készíteni az aktuális járműről és annak konfigurációiról."
 }
