@@ -3379,5 +3379,11 @@
     "ui.apps.engine_thermal_debug.maximumSafeOilMass": "Olaj Maximum Biztonságos Tömeg",
     "ui.apps.engine_thermal_debug.oilLeakRateOverall": "Az olaj teljes szivárgási aránya",
     "ui.apps.thumbnail_generator.message1": "Ez az alkalmazás képeket fog készíteni az aktuális járműről és annak konfigurációiról.",
-    "ui.apps.engine_thermal_debug.oilLubricationCoef": "Olaj Kenési Faktor"
+    "ui.apps.engine_thermal_debug.oilLubricationCoef": "Olaj Kenési Faktor",
+    "ui.apps.engine_thermal_debug.missingOilDamage": "Olajhiányos sérülés",
+    "ui.apps.engine_thermal_debug.radiatorAirSpeed": "Radiátor légsebesség",
+    "ui.apps.engine_thermal_debug.radiatorAirSpeedEfficiency": "Radiátor légsebesség hatékonysága",
+    "ui.apps.engine_thermal_debug.coolantLeakRateOverpressure": "Hütőfolyadék túlnyomás szivárgási arány",
+    "ui.apps.engine_thermal_debug.qoilradiatortoair": "Q olajradiátor a levegőhöz",
+    "ui.apps.threedexport.VertexColors": "VertexSzínek"
 }
