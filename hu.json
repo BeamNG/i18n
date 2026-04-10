@@ -3393,5 +3393,7 @@
     "ui.options.motionSim.y": "Y",
     "ui.options.motionSim.z": "Z",
     "ui.options.rally": "Rally",
-    "ui.options.rally.textCompositor.voice": "Másodpilóta Hangja"
+    "ui.options.rally.textCompositor.voice": "Másodpilóta Hangja",
+    "ui.options.display": "Kijelző",
+    "ui.options.graphics.applyDisplay": "Kijelző beállítások alkalmazása"
 }
