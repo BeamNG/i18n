@@ -3399,5 +3399,6 @@
     "ui.options.graphics.PostFXMotionBlurStrength": "Mozgás elmosódás erőssége",
     "ui.options.graphics.PostFXMotionBlurPlayerVehicle": "Mozgás elmosódás az aktuális járműre is",
     "ui.options.graphics.PostFXMotionBlurEnabled": "Mozgás elmosódás",
-    "ui.options.graphics.PostFXMotionBlurEnabledTooltip": "A \"mozgás elmosódás\" elmossa a mozgó objektumokat, javítva a sebességérzeten.\n\n[b][*]GPU:[/b] Alacsony[b][*]VRAM:[/b] Semmi[b][*]CPU:[/b] Semmi"
+    "ui.options.graphics.PostFXMotionBlurEnabledTooltip": "A \"mozgás elmosódás\" elmossa a mozgó objektumokat, javítva a sebességérzeten.\n\n[b][*]GPU:[/b] Alacsony[b][*]VRAM:[/b] Semmi[b][*]CPU:[/b] Semmi",
+    "ui.options.graphics.GraphicShadowsQuality": "Árnyék felbontása"
 }
