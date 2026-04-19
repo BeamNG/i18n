@@ -1958,7 +1958,7 @@
     "ui.modWizard.skinWizard.editFile": "A festés szerkesztéséhez nyisd meg a <festés_neve>.DDS fájlt egy kompatibilis *.DDS szerkesztőben, pl. a Paint.Net-ben.",
     "ui.modWizard.skinWizard.editSkin": "A mappa megnyitása után neki is állhatsz a festésednek. Fess amit szeretnél a fehér részekre, majd mentsd el a festésedet. A Következő gombra kattintással a létrehozott festésed betöltődik a játékba, és valós időben is szerkesztheted.",
     "ui.levelselect.x86Disabled": "Ehhez a pályához a játék 64-bites változatát kell futtatnod.",
-    "ui.repository.mods": "Modok",
+    "ui.repository.mods": "Modkezelő",
     "ui.repository.order_by": "Rendezés",
     "ui.repository.order_ascendant_short": "növ",
     "ui.repository.order_descendant_short": "csökk",
