@@ -3462,5 +3462,7 @@
     "ui.options.rally.presets.NGRC": "Hardcore",
     "ui.options.rally.voices.british_english_male_relaxed": "Brit Férfi - Nyugodt",
     "ui.options.rally.voices.british_english_male_intense": "Brit Férfi - Intenzív",
-    "ui.options.traffic.loadForFreeroam.tooltip": "Ha be van kapcsolva, forgalmat fog betölteni, amikor egy pálya betöltésre került a szabad barangolás módban."
+    "ui.options.traffic.loadForFreeroam.tooltip": "Ha be van kapcsolva, forgalmat fog betölteni, amikor egy pálya betöltésre került a szabad barangolás módban.",
+    "ui.experiences.ramplow.description": "Okozz káoszt a West Coast USA pályán, Belasco Cityben és környékén.",
+    "ui.experiences.ramplow.task.label": "Csinálj egy kis felfordulást!"
 }
