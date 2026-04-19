@@ -1,5 +1,5 @@
 {
-    "engine.cef.subprocessdied.msg": "A felhasználói felületben hiba lépett fel.\n\n\n----\n\nHiba adatai:\n\n{}\n\n----\n\n\n\nTovábbi segítséget kaphatsz itt:\n\nhttps://go.beamng.com/UnresponsiveUIProcess\n\n\n\nMegnyitod most a böngészőben?",
+    "engine.cef.subprocessdied.msg": "Hiba történt a felhasználói felületen\n\n----\nHiba adatai:\n{}\n----\n\nTovábbi segítséget itt találsz:\nhttps://go.beamng.com/UnresponsiveUIProcess\n\nMegnyitod most böngészőben?",
     "engine.cef.subprocessdied.title": "Nem válaszoló UI folyamat",
     "engine.cef.subprocessdied.url": "https://documentation.beamng.com/support/troubleshooting/common_exit_codes/#unresponsive-ui-process",
     "engine.editor.menu.createBlankTerrain": "Üres terep létrehozása",
@@ -2065,7 +2065,7 @@
     "vehicle.drivetrain.engineCatastrophicOverTorqueDamage": "Túlhajtási sérülés: A motor tartósan sérült",
     "engine.editor.menu.resaveLevel": "Minden újramentése",
     "ui.modWizard.skinWizard.viewSkin": "Festés megtekintése",
-    "ui.modWizard.skinWizard.desc": "Példaképp a festésünk neve SkinExample lesz. A két szerkeszthető fájl a jobb oldali képen lett egyesítve. Amint megnyitottad a festésfájlokat, kattints a Következő gombra, hogy betöltsd a játékba a festést, vagy Befejezést, hogy kilépj a varázslóból.",
+    "ui.modWizard.skinWizard.desc": "Példaképp a festésünk neve SkinExample lesz. A két szerkeszthető fájl a jobb oldali képen lett egyesítve. Amint megnyitottad a festésfájlokat, kattints a következő gombra, hogy betöltsd a festést, vagy a befejezés gombra hogy kilépj a varázslóból.",
     "ui.modWizard.skinWizard.left": "A kép bal oldala a \"SkinExample.dds\" fájl. Itt készül majd a festésed javarésze. A skinezéshez egyszerűen fesd át a fehér részeket a szájízed szerint.",
     "ui.modWizard.skinWizard.right": "A kép jobb oldala a \"SkinExample_palette_uv1.dds\" fájl. Ezzel a képpel lehet meghatározni, hogy a festésed mely részei legyenek befesthetőek a játékbeli színválasztóval. Az első szín a piros, a második a zöld, a harmadik pedig a kék. Ha áttetszőre van állítva, a terület nem festhető le.",
     "ui.repository.repo_network_limit": "A hálózatod korlátozott, vagy adatforgalom-díjas. Vedd ezt figyelembe a modok letöltése során.",
@@ -2521,7 +2521,7 @@
     "ui.fonts.filename": "segoeui.ttf",
     "engine.fatalError.errMsg": "VÉGZETES HIBA: ",
     "engine.fatalError.experienced": "\n\n\nA BeamNG.drive végzetes hibát észlelt. Kattints az OK gombra, hogy bezárd a BeamNG-t és létrehozd a hibajelentést, majd küldd el ezt a jelentést, hogy kijavíthassuk a hibát.",
-    "engine.fatalError.experienced2": "\n\nA BeamNG alkalmazás végzetes hibát észlelt.",
+    "engine.fatalError.experienced2": "\n\nA BeamNG.drive végzetes hibába futott.",
     "ui.common.action.resume": "Folytat",
     "ui.common.action.load": "Betöltés",
     "ui.common.action.stop": "Megáll",
@@ -3464,5 +3464,6 @@
     "ui.options.rally.voices.british_english_male_intense": "Brit Férfi - Intenzív",
     "ui.options.traffic.loadForFreeroam.tooltip": "Ha be van kapcsolva, forgalmat fog betölteni, amikor egy pálya betöltésre került a szabad barangolás módban.",
     "ui.experiences.ramplow.description": "Okozz káoszt a West Coast USA pályán, Belasco Cityben és környékén.",
-    "ui.experiences.ramplow.task.label": "Csinálj egy kis felfordulást!"
+    "ui.experiences.ramplow.task.label": "Csinálj egy kis felfordulást!",
+    "ui.apps.damage_app_vehicle_simple.component.engine.inductionSystemDamaged": "Töltési Rendszer Sérült"
 }
