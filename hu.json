@@ -11,7 +11,7 @@
     "engine.editor.menu.quit": "Kilépés",
     "engine.editor.menu.saveLevel": "Pálya mentése",
     "engine.editor.menu.saveLevelAs": "Pálya mentése másként...",
-    "engine.engineFail": "Nem sikerült betölteni az alkalmazást, ezért most leáll.",
+    "engine.engineFail": "Nem sikerült betölteni az alkalmazást, Leálítás.",
     "engine.levelModified.msg": "A pálya módosítva lett a szerkesztővel. Elmented?",
     "engine.levelModified.title": "Pálya módosítva",
     "engine.msgboxErrorTitle": "Hiba",
