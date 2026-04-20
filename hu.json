@@ -3465,5 +3465,8 @@
     "ui.options.traffic.loadForFreeroam.tooltip": "Ha be van kapcsolva, forgalmat fog betölteni, amikor egy pálya betöltésre került a szabad barangolás módban.",
     "ui.experiences.ramplow.description": "Okozz káoszt a West Coast USA pályán, Belasco Cityben és környékén.",
     "ui.experiences.ramplow.task.label": "Csinálj egy kis felfordulást!",
-    "ui.apps.damage_app_vehicle_simple.component.engine.inductionSystemDamaged": "Töltési Rendszer Sérült"
+    "ui.apps.damage_app_vehicle_simple.component.engine.inductionSystemDamaged": "Töltési Rendszer Sérült",
+    "bigMap.progressLabels.recoveriesUsed": "Használt Visszaállítások",
+    "launchercpp.main_instruction": "Indító",
+    "launchercpp.main_content": "Üdvözlet"
 }
