@@ -3470,5 +3470,14 @@
     "launchercpp.main_instruction": "Indító",
     "launchercpp.main_content": "Üdvözlet",
     "ui.inputActions.camera.camera_2.title": "Kamera 2",
-    "ui.inputActions.camera.camera_3.description": "Váltás kamera 3-ra"
+    "ui.inputActions.camera.camera_3.description": "Váltás kamera 3-ra",
+    "ui.options.graphics.Low": "Alacsony",
+    "ui.options.graphics.Lowest": "Legalacsonyabb",
+    "ui.options.graphics.Custom": "Testreszabott",
+    "ui.dragrace.similarOpponent": "Hasonló teljesítmény",
+    "ui.campaign.localPlayers": "Helyi játékosok",
+    "December": "December",
+    "general.time_format": "nn HH éééé",
+    "ui.loadingScreen.tips": "TIPPEK",
+    "launchercpp.errorui_btn_openwiki": "Több információ"
 }
