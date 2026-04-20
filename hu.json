@@ -2601,7 +2601,7 @@
     "scenarios.west_coast_usa.mountain_race.description": "Hozd el a serleget ezen a kihívással teli versenyen, amely a nyugati part kacskaringós hegyi útjain át vezet!",
     "scenarios.italy.crestRoadAutobello.title": "Terepmenet",
     "scenarios.italy.crestRoadAutobello.description": "Vajon elég ügyes és gyors vagy ahhoz, hogy tartsd a tempót a másik Baja Piccolinával a göröngyös terepen?",
-    "scenarios.italy.crestRoadAutobello.fail.msg": "Nagyon eltávolodtál a másik autótól...",
+    "scenarios.italy.crestRoadAutobello.fail.msg": "Túlságosan távol voltál a másik járműtől...",
     "scenarios.italy.crestRoadAutobello.damage.msg": "Túlságosan megsérült a járműved...",
     "scenarios.italy.crestRoadAutobello.win.msg": "Szép munka!",
     "scenarios.italy.crestRoadAutobello.win.overtake.msg": "Szép munka! Olyan jó voltál, hogy sikerült meg is előznöd a kocsit, pedig csak követned kellett volna!",
