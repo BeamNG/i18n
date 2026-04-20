@@ -3468,5 +3468,7 @@
     "ui.apps.damage_app_vehicle_simple.component.engine.inductionSystemDamaged": "Töltési Rendszer Sérült",
     "bigMap.progressLabels.recoveriesUsed": "Használt Visszaállítások",
     "launchercpp.main_instruction": "Indító",
-    "launchercpp.main_content": "Üdvözlet"
+    "launchercpp.main_content": "Üdvözlet",
+    "ui.inputActions.camera.camera_2.title": "Kamera 2",
+    "ui.inputActions.camera.camera_3.description": "Váltás kamera 3-ra"
 }
