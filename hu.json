@@ -3479,5 +3479,19 @@
     "December": "December",
     "general.time_format": "nn HH éééé",
     "ui.loadingScreen.tips": "TIPPEK",
-    "launchercpp.errorui_btn_openwiki": "Több információ"
+    "launchercpp.errorui_btn_openwiki": "Több információ",
+    "ui.apps.simpleFlashMessage.name": "Egyszerű felvillanó üzenet",
+    "ui.options.gameplay.enableDragRaceInFreeroam": "Gyorsulási verseny",
+    "vehicle.info.0-100 km/h": "0-100 km/h",
+    "vehicle.info.0-60 mph": "0-60 mph",
+    "vehicle.info.Brand": "Gyártó",
+    "vehicle.info.Config Type": "Konfig típusa",
+    "vehicle.info.Country": "Ország",
+    "vehicle.info.Fuel Type": "Üzemanyag típusa",
+    "vehicle.info.Off-Road Score": "Off-Road Pont",
+    "vehicle.info.Source": "Forrás",
+    "vehicle.info.Top Speed": "Top Sebesség",
+    "vehicle.info.Type": "Típus",
+    "vehicle.info.Value": "Érték",
+    "vehicle.info.Weight": "Súly"
 }
