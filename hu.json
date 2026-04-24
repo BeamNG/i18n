@@ -3493,5 +3493,10 @@
     "vehicle.info.Top Speed": "Top Sebesség",
     "vehicle.info.Type": "Típus",
     "vehicle.info.Value": "Érték",
-    "vehicle.info.Weight": "Súly"
+    "vehicle.info.Weight": "Súly",
+    "ui.options.traffic.useExtras": "jármű tárolás használata",
+    "ui.options.traffic.parkedAmount": "Leparkolt járművek mennyisége",
+    "ui.options.traffic.useParked": "Leparkolt járművek használata",
+    "ui.options.traffic.allowMods": "Modok spawnolásának engedélyezése",
+    "ui.options.traffic.simpleVehicles": "Egyszerűsített járművek használata"
 }
