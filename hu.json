@@ -641,7 +641,7 @@
     "ui.options.graphics.GraphicPostfxQuality": "Utófeldolgozás minősége",
     "ui.options.graphics.GraphicAnisotropic": "Anizotróp szűrés",
     "ui.options.graphics.GraphicGrassDensity": "Fű sűrűsége",
-    "ui.options.graphics.postfx": "PostFX",
+    "ui.options.graphics.postfx": "PostFX Manager",
     "ui.options.graphics.GraphicDynReflection.warning": "Figyelem: A magasabb értékek jelentős erőforrásokat igényelnek! Ha teljesítményproblémákat tapasztalsz, csökkentsd a beállítás értékét!",
     "ui.options.graphics.GraphicDynReflectionFacesPerupdate": "Frissítési ráta",
     "ui.options.graphics.GraphicDisableShadows": "Árnyékok letiltása",
@@ -3498,5 +3498,16 @@
     "ui.options.traffic.parkedAmount": "Leparkolt járművek mennyisége",
     "ui.options.traffic.useParked": "Leparkolt járművek használata",
     "ui.options.traffic.allowMods": "Modok spawnolásának engedélyezése",
-    "ui.options.traffic.simpleVehicles": "Egyszerűsített járművek használata"
+    "ui.options.traffic.simpleVehicles": "Egyszerűsített járművek használata",
+    "ui.options.graphics.postfxReset": "PostFX beállítások visszaállítása",
+    "ui.options.graphics.GraphicDynMirrors": "Részletes tükrök (csak támogatott járművek)",
+    "ui.options.graphics.shadows.none": "Nincs",
+    "ui.options.graphics.Video": "Videó",
+    "ui.options.graphics.Images": "Képek",
+    "ui.options.graphics.Imagesscaled": "Képek skálázva",
+    "ui.options.graphics.openXR": "Virtuális valóság (OpenXR)",
+    "ui.options.graphics.openXRhelp": "[url=https://go.beamng.com/vr]VR dokumentáció itt elérhető[/url]",
+    "ui.options.graphics.openXRtoggleOn": "Aktiváld [action=enableHeadset]",
+    "ui.options.graphics.openXRtoggleOff": "Kapcsold ki [action=enableHeadset]",
+    "ui.options.graphics.openXRcenter": "Középre [action=centerHeadset]"
 }
