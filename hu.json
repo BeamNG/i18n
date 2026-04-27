@@ -3509,5 +3509,9 @@
     "ui.options.graphics.openXRhelp": "[url=https://go.beamng.com/vr]VR dokumentáció itt elérhető[/url]",
     "ui.options.graphics.openXRtoggleOn": "Aktiváld [action=enableHeadset]",
     "ui.options.graphics.openXRtoggleOff": "Kapcsold ki [action=enableHeadset]",
-    "ui.options.graphics.openXRcenter": "Középre [action=centerHeadset]"
+    "ui.options.graphics.openXRcenter": "Középre [action=centerHeadset]",
+    "ui.options.graphics.openXRuiMode.1": "Fej",
+    "ui.options.graphics.openXRuiDepth": "Mélység",
+    "ui.options.graphics.openXRuiWidth": "Szélesség",
+    "ui.options.graphics.openXRwindowViewMode.0": "Üres (leggyorsabb)"
 }
