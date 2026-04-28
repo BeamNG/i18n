@@ -2566,7 +2566,7 @@
     "ui.options.graphics.GraphicMaxDecalCount": "Keréknyomok mértéke",
     "ui.options.graphics.GraphicMaxDecalCount.warning": "Figyelem: A nagy értékek súlyosan befolyásolhatják a teljesítményt. Javasolt ezt az értéket 6000 alatt tartani!",
     "ui.options.audio.settings": "Beállítások",
-    "ui.options.audio.maxVoices": "Maximum hangforrások",
+    "ui.options.audio.maxVoices": "Maximum hangok",
     "ui.options.audio.maxVoicesChanged.warning": "Figyelem: Ezen beállítás módosítása a játék újraindítását igényli!",
     "ui.controls.steering_wiki": "A kormány beállításával kapcsolatos bővebb információkért látogasd meg a kapcsolódó wiki oldalunkat: [url=https://wiki.beamng.com/Steering_wheel_setup]https://wiki.beamng.com/Steering_wheel_setup[/url]",
     "ui.radialmenu2.traffic": "Forgalom",
@@ -3513,5 +3513,13 @@
     "ui.options.graphics.openXRuiMode.1": "Fej",
     "ui.options.graphics.openXRuiDepth": "Mélység",
     "ui.options.graphics.openXRuiWidth": "Szélesség",
-    "ui.options.graphics.openXRwindowViewMode.0": "Üres (leggyorsabb)"
+    "ui.options.graphics.openXRwindowViewMode.0": "Üres (leggyorsabb)",
+    "ui.openXR.welcomeTitle": "Üdvözlünk a VR-ban",
+    "ui.openXR.buttonOkText": "Megértettem! [action=enableHeadset]",
+    "ui.openXR.errorsTitle": "VR hiba észlelve",
+    "ui.options.audio.powerVol": "Tápegység",
+    "ui.options.audio.forcedInductionVol": "Kényszerindukció",
+    "ui.options.audio.aeroVolTooltip": "Sebességgel összefüggő szél",
+    "ui.options.audio.Ultra": "Ultra (512 hang)",
+    "ui.options.audio.High": "Magas (384 hang)"
 }
