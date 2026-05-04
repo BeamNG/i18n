@@ -2568,7 +2568,7 @@
     "ui.options.audio.settings": "Beállítások",
     "ui.options.audio.maxVoices": "Maximum hangok",
     "ui.options.audio.maxVoicesChanged.warning": "Figyelem: Ezen beállítás módosítása a játék újraindítását igényli!",
-    "ui.controls.steering_wiki": "A kormány beállításával kapcsolatos bővebb információkért látogasd meg a kapcsolódó wiki oldalunkat: [url=https://wiki.beamng.com/Steering_wheel_setup]https://wiki.beamng.com/Steering_wheel_setup[/url]",
+    "ui.controls.steering_wiki": "A kormány beállításával kapcsolatos segítség: [url=https://wiki.beamng.com/Steering_wheel_setup]https://wiki.beamng.com/Steering_wheel_setup[/url]\nHibakeresési segédlet: [url=https://go.beamng.com/inputTroubleshootingGuide]https://go.beamng.com/inputTroubleshootingGuide[/url]",
     "ui.radialmenu2.traffic": "Forgalom",
     "ui.radialmenu2.traffic.desc": "AI forgalom beállítása.",
     "ui.radialmenu2.traffic.remove": "Forgalom törlése",
