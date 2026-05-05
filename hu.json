@@ -3560,5 +3560,6 @@
     "ui.radialmenu2.cruiseControl.toggle": "Tempomat állítása",
     "ui.radialmenu2.cruiseControl.toggle.desc": "Tempomat be- vagy kikapcsolása.",
     "ui.radialmenu2.cruiseControl.targetSpeed": "Célsebesség:  {{speed | unit: \"speed\":0}}",
-    "ui.radialmenu2.cruiseControl.notSet": "A tempomat nem aktív"
+    "ui.radialmenu2.cruiseControl.notSet": "A tempomat nem aktív",
+    "ui.radialmenu2.repairVehicle": "Jármű megjavítása"
 }
