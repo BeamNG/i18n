@@ -2426,7 +2426,7 @@
     "ui.camera.driverTiltAdjusted": "Megdöntöttük {{angle|number:1}} fokkal az ülést az összes '{{vehicleName}}' típusú járművednél",
     "ui.camera.driverPositionAdjusted": "Az ülés pozíciója a következőképpen módosult az összes '{{vehicleName}}' típusú járművednél: {{y*100|number:1}} cm, {{z*100|number:1}} cm",
     "ui.mapview.labels.photoMode": "Fotó szafari",
-    "ui.mapview.labels.missionGiver": "Küldetésadó",
+    "ui.mapview.labels.missionGiver": "Kihívás-adó",
     "scenarios.gridmap.hard_parking.fail.damage.msg": "Hozzáértél egy másik autóhoz...",
     "scenarios.gridmap.hard_parking.win.msg": "Szép munka!",
     "scenarios.utah.prototype.arrival.title": "Üdvözlünk Utahban",
@@ -3563,5 +3563,14 @@
     "ui.radialmenu2.cruiseControl.notSet": "A tempomat nem aktív",
     "ui.radialmenu2.repairVehicle": "Jármű megjavítása",
     "ui.radialmenu2.enterVehicle": "Ülj be a járműbe",
-    "ui.radialmenu2.exitVehicle": "Kiszállás a járműből"
+    "ui.radialmenu2.exitVehicle": "Kiszállás a járműből",
+    "ui.stats.distance": "Távolság",
+    "ui.stats.maxSpeed": "Max sebesség",
+    "ui.stats.time": "Idő",
+    "ui.decalsEditor.layersNoun": "réteg | rétegek",
+    "ui.camera.mode.driver": "Vezető",
+    "ui.camera.mode.onboard.mrbeam": "Mr. Beam",
+    "ui.camera.mode.external": "Külső",
+    "ui.camera.mode.relative": "Relatív",
+    "ui.mapview.labels.custom": "Egyedi"
 }
