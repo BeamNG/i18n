@@ -3625,5 +3625,6 @@
     "ui.options.other.interpolateVehiclePosition": "A jármű helyzetének beszúrása",
     "ui.options.userInterface.freeroamSetupDefaultStep.options": "Opciók",
     "ui.options.gameplay.steeringLimitMultiplier": "Max szög korlátozása erre",
-    "ui.career.specialized.police.name": "Rendőr"
+    "ui.career.specialized.police.name": "Rendőr",
+    "ui.condition.integrity": "Beágyazás"
 }
