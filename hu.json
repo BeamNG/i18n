@@ -3626,5 +3626,6 @@
     "ui.options.userInterface.freeroamSetupDefaultStep.options": "Opciók",
     "ui.options.gameplay.steeringLimitMultiplier": "Max szög korlátozása erre",
     "ui.career.specialized.police.name": "Rendőr",
-    "ui.condition.integrity": "Beágyazás"
+    "ui.condition.integrity": "Beágyazás",
+    "ui.experiences.missions.dragStripRace.description": "Mérkőzz meg a többiekkel a Hirochi gyorsulási pályáján."
 }
