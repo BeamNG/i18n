@@ -5355,5 +5355,11 @@
     "missions.drift.general.driftAndCombo": "Drift: {{points}} Kombo {{combo}}",
     "missions.drift.general.addPoints": "+ {{points}} puan(lar)",
     "missions.drift.general.addSeconds": "+ {{time}} saniye(ler)",
-    "missions.drift.general.timeLeft": "Kalan süre: {{timeLeft}}"
+    "missions.drift.general.timeLeft": "Kalan süre: {{timeLeft}}",
+    "ui.vehicleconfig.brand.800-Series": "800-Serisi",
+    "ui.vehicleconfig.brand.Alder": "Alder",
+    "ui.vehicleconfig.brand.Apex": "Apex",
+    "ui.vehicleconfig.brand.Arnida": "Arnida",
+    "ui.vehicleconfig.brand.Autobello": "Autobello",
+    "ui.vehicleconfig.brand.2400i": "2400i"
 }
