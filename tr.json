@@ -5361,5 +5361,11 @@
     "ui.vehicleconfig.brand.Apex": "Apex",
     "ui.vehicleconfig.brand.Arnida": "Arnida",
     "ui.vehicleconfig.brand.Autobello": "Autobello",
-    "ui.vehicleconfig.brand.2400i": "2400i"
+    "ui.vehicleconfig.brand.2400i": "2400i",
+    "ui.vehicleconfig.brand.Bar-Grip": "Bar-Grip",
+    "ui.vehicleconfig.brand.Barstow": "Barstow",
+    "ui.vehicleconfig.brand.Basso": "Basso",
+    "ui.vehicleconfig.brand.Bastion": "Bastion",
+    "ui.vehicleconfig.brand.Battlehawk": "Battlehawk",
+    "ui.vehicleconfig.brand.Beam Safari": "Beam Safari"
 }
