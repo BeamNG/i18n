@@ -5367,5 +5367,9 @@
     "ui.vehicleconfig.brand.Basso": "Basso",
     "ui.vehicleconfig.brand.Bastion": "Bastion",
     "ui.vehicleconfig.brand.Battlehawk": "Battlehawk",
-    "ui.vehicleconfig.brand.Beam Safari": "Beam Safari"
+    "ui.vehicleconfig.brand.Beam Safari": "Beam Safari",
+    "ui.career.tutorial.popup.damagedVehicleCareer.text": "Şahsi aracın zarar gördü. Garaja dön ve bilgisayarı kullanarak onu tamir edebilirsin. Eğer aracın kullanılamayacak durumda ise dairesel menüyü kullanarak oraya çekici ile yollayabilirsin.",
+    "ui.career.tutorial.popup.damagedVehicleCareer.title": "Araç Zarar Gördü",
+    "ui.career.tutorial.popup.starterVehicleOverview.title": "Başlangıç Aracına Genel Bakış",
+    "ui.career.tutorial.popup.careerUnlocked.title": "Kariyer Açıldı"
 }
