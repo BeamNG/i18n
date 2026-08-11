@@ -8765,5 +8765,10 @@
     "ui.career.performance.title": "Prestandaklass",
     "ui.crawl.bonusCheckpoint": "Bonuskontroll uppnådd! -{{penaltyPoints}} straffpoäng",
     "ui.crawl.gateCleared": "Port passerad! -{{penaltyPoints}} straffpoäng",
-    "ui.crawl.dnf": "DNF! Klarade Ej Målet – Diskvalificerad!"
+    "ui.crawl.dnf": "DNF! Klarade Ej Målet – Diskvalificerad!",
+    "ui.vehicleconfig.brand.2400i": "2400i",
+    "ui.vehicleconfig.brand.800-Series": "800-Serien",
+    "ui.vehicleconfig.brand.Alder": "Alder",
+    "ui.vehicleconfig.brand.Apex": "Apex",
+    "ui.vehicleconfig.brand.Arnida": "Arnida"
 }
