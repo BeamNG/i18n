@@ -8511,5 +8511,8 @@
     "ui.options.minimap.lookahead.label": "Náhled vpřed",
     "ui.options.minimap.lookahead.low": "Nizký",
     "ui.options.minimap.lookahead.medium": "Střední",
-    "ui.options.minimap.lookahead.high": "Vysoký"
+    "ui.options.minimap.lookahead.high": "Vysoký",
+    "ui.vehicleconfig.brand.2400i": "2400i",
+    "ui.vehicleconfig.brand.Alder": "Alder",
+    "ui.vehicleconfig.brand.Apex": "Apex"
 }
