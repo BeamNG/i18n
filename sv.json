@@ -7218,7 +7218,7 @@
     "vehicle.vehicleController.shifterModeChanged": "Växelläget har tillfälligt ändrats till \"{{shifterModeName | translate}}\" beteende.<br>Återställs när fordon byts.",
     "vehicle.vehicleController.usingHshifter": "Växelspak har använts. Byter växellådsbeteende...",
     "vehicle.vehicleController.cannotShiftAuto": "Kan inte växla till läge \"{{mode}}\" med denna växellåda",
-    "vehicle.vehicleController.cannotShiftSequential": "För närvarande används: \"{{shifterModeName | translate}}\" växellådsbeteende (använd [action=toggleShifterMode] för att ändra)",
+    "vehicle.vehicleController.cannotShiftSequential": "Kan inte växla, för närvarande används: \"{{shifterModeName | translate}}\" växellådsbeteende.",
     "vehicle.powertrain.deviceBroken": "{{deviceName}} trasig",
     "vehicle.vehicleController.stalledStarting": "Motorn är av, startar...",
     "vehicle.vehicleController.stalledAutoClutch": "Motorn är av, håll [action=activateStarterMotor] för att starta den",
