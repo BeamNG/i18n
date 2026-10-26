@@ -6536,7 +6536,7 @@
     "vehicle.combustionEngine.engineDrying": "Vysoušení motoru od vody ({{percent}} %)",
     "vehicle.combustionEngine.engineDried": "Motor vyschl",
     "vehicle.combustionEngine.engineHydrolocked": "Motor zablokovala voda",
-    "vehicle.combustionEngine.engineCatastrophicOverrevDamage": "Poškození z přetáčení: Motor se zablokoval",
+    "vehicle.combustionEngine.engineCatastrophicOverrevDamage": "Poškození z přetáčení: Motor se zadřel",
     "vehicle.combustionEngine.engineCatastrophicOverTorqueDamage": "Poškození z překroucení: Motor je trvale poškozen",
     "vehicle.combustionEngine.exhaustDamaged": "Výfuk poškozen",
     "vehicle.vehicleController.stalledAutoClutch": "Motor je vypnutý; zapneš ho podržením [action=activateStarterMotor]",
@@ -8519,5 +8519,6 @@
     "ui.vehicleconfig.brand.Arnida": "Arnida",
     "ui.vehicleconfig.brand.Autobello": "Autobello",
     "ui.vehicleconfig.brand.Bar-Grip": "Bar-Grip",
-    "ui.vehicleconfig.brand.Barstow": "Barstow"
+    "ui.vehicleconfig.brand.Barstow": "Barstow",
+    "ui.vehicleconfig.alwaysSortByName": "Vždy seřazovat dle názvu"
 }
