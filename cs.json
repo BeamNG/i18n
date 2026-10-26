@@ -8514,5 +8514,10 @@
     "ui.options.minimap.lookahead.high": "Vysoký",
     "ui.vehicleconfig.brand.2400i": "2400i",
     "ui.vehicleconfig.brand.Alder": "Alder",
-    "ui.vehicleconfig.brand.Apex": "Apex"
+    "ui.vehicleconfig.brand.Apex": "Apex",
+    "ui.vehicleconfig.brand.800-Series": "Řada 800",
+    "ui.vehicleconfig.brand.Arnida": "Arnida",
+    "ui.vehicleconfig.brand.Autobello": "Autobello",
+    "ui.vehicleconfig.brand.Bar-Grip": "Bar-Grip",
+    "ui.vehicleconfig.brand.Barstow": "Barstow"
 }
