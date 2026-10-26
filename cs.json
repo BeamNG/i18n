@@ -41,7 +41,7 @@
     "engine.levelModified.title": "Úroveň upravena",
     "engine.msgboxErrorTitle": "Chyba",
     "engine.resourceMissing": "Nepodařilo se vytvořit zdroj (chybí soubor?): ",
-    "engine.welcome": "Vítej v BeamNG.drive v českém jazyce :) přeložil: dartomis",
+    "engine.welcome": "Vítej v simulátoru BeamNG :)",
     "engine.windowedModeReq.msgEditor": "Pro přepnutí do režimu celé obrazovky prosím ukončete Editor misí.",
     "engine.windowedModeReq.msgGUI": "Pro přepnutí do režimu celé obrazovky prosím ukončete GUI Editor.",
     "engine.windowedModeReq.title": "Je vyžadován režim v okně",
@@ -8520,5 +8520,17 @@
     "ui.vehicleconfig.brand.Autobello": "Autobello",
     "ui.vehicleconfig.brand.Bar-Grip": "Bar-Grip",
     "ui.vehicleconfig.brand.Barstow": "Barstow",
-    "ui.vehicleconfig.alwaysSortByName": "Vždy seřazovat dle názvu"
+    "ui.vehicleconfig.alwaysSortByName": "Vždy seřazovat dle názvu",
+    "ui.vehicleconfig.brand.Basso": "Basso",
+    "ui.vehicleconfig.brand.Bastion": "Bastion",
+    "ui.vehicleconfig.brand.Battlehawk": "Battlehawk",
+    "ui.vehicleconfig.brand.Beam Safari": "Beam Safari",
+    "ui.vehicleconfig.brand.Beamcom": "Beamcom",
+    "ui.vehicleconfig.brand.BeamNG": "BeamNG",
+    "ui.vehicleconfig.brand.BeaMoving": "BeaMoving",
+    "ui.vehicleconfig.brand.Beta": "Beta",
+    "ui.vehicleconfig.brand.BlastR": "BlastR",
+    "ui.vehicleconfig.brand.BlastR Energy": "BlastR Energy",
+    "ui.vehicleconfig.brand.Bluebuck": "Bluebuck",
+    "ui.vehicleconfig.brand.Bolide": "Bolide"
 }
