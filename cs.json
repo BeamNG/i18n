@@ -9030,5 +9030,6 @@
     "ui.vehicleconfig.information.name.Automatic Pedals": "Automatické pedály",
     "ui.vehicleconfig.information.name.Automatic Transmission": "Automatická převodovka",
     "ui.vehicleconfig.information.name.Average Fuel Consumption": "Průměrná spotřeba paliva",
-    "ui.vehicleconfig.information.name.AWD": "AWD"
+    "ui.vehicleconfig.information.name.AWD": "AWD",
+    "ui.vehicleconfig.information.name.Birch (609kg/m^3)": "Bříza (609 kg/m^3)"
 }
