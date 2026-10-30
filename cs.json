@@ -9031,5 +9031,10 @@
     "ui.vehicleconfig.information.name.Automatic Transmission": "Automatická převodovka",
     "ui.vehicleconfig.information.name.Average Fuel Consumption": "Průměrná spotřeba paliva",
     "ui.vehicleconfig.information.name.AWD": "AWD",
-    "ui.vehicleconfig.information.name.Birch (609kg/m^3)": "Bříza (609 kg/m^3)"
+    "ui.vehicleconfig.information.name.Birch (609kg/m^3)": "Bříza (609 kg/m^3)",
+    "ui.vehicleconfig.information.name.BRAND": "{{brand1 | translate}}",
+    "ui.vehicleconfig.information.name.BRAND (449kg/m^3)": "{{brand1 | translate}} (449 kg/m^3)",
+    "ui.vehicleconfig.information.name.BRAND (E)": "{{brand1 | translate}} (E)",
+    "ui.vehicleconfig.information.name.BRAND (ICE)": "{{brand1 | translate}} (ICE)",
+    "ui.vehicleconfig.information.name.BRAND 12.8L I6 Diesel Engine": "{{brand1 | translate}} 12,8l dieselový motor I6"
 }
