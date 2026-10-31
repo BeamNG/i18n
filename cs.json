@@ -9036,5 +9036,14 @@
     "ui.vehicleconfig.information.name.BRAND (449kg/m^3)": "{{brand1 | translate}} (449 kg/m^3)",
     "ui.vehicleconfig.information.name.BRAND (E)": "{{brand1 | translate}} (E)",
     "ui.vehicleconfig.information.name.BRAND (ICE)": "{{brand1 | translate}} (ICE)",
-    "ui.vehicleconfig.information.name.BRAND 12.8L I6 Diesel Engine": "{{brand1 | translate}} 12,8l dieselový motor I6"
+    "ui.vehicleconfig.information.name.BRAND 12.8L I6 Diesel Engine": "{{brand1 | translate}} 12,8l dieselový motor I6",
+    "ui.vehicleconfig.information.name.BRAND 1400cc I4 Engine": "{{brand1 | translate}} 1400cc motor I4",
+    "ui.vehicleconfig.information.name.BRAND 18L V8 Diesel Engine": "{{brand1 | translate}} 18l dieselový motor V8",
+    "ui.vehicleconfig.information.name.BRAND 20.4L I6 Diesel Engine": "{{brand1 | translate}} 20,4l dieselový motor I6",
+    "ui.vehicleconfig.information.name.BRAND 3.5L V6 Engine": "{{brand1 | translate}} 3,5l motor V6",
+    "ui.vehicleconfig.information.name.BRAND 4.1L I6 Engine": "{{brand1 | translate}} 4,1l motor I6",
+    "ui.vehicleconfig.information.name.BRAND 4.5L V8 Engine": "{{brand1 | translate}} 4,5l motor V8",
+    "ui.vehicleconfig.information.name.BRAND 5.7L V8 Engine": "{{brand1 | translate}} 5,7l motor V8",
+    "ui.vehicleconfig.information.name.BRAND 550cc I3 Engine": "{{brand1 | translate}} 550cc motor I3",
+    "ui.vehicleconfig.information.name.BRAND BRAND": "{{brand1 | translate}} {{brand2 | translate}}"
 }
