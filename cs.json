@@ -9046,5 +9046,7 @@
     "ui.vehicleconfig.information.name.BRAND 5.7L V8 Engine": "{{brand1 | translate}} 5,7l motor V8",
     "ui.vehicleconfig.information.name.BRAND 550cc I3 Engine": "{{brand1 | translate}} 550cc motor I3",
     "ui.vehicleconfig.information.name.BRAND BRAND": "{{brand1 | translate}} {{brand2 | translate}}",
-    "ui.vehicleconfig.information.name.Brass Coil": "Mosazná cívka"
+    "ui.vehicleconfig.information.name.Brass Coil": "Mosazná cívka",
+    "ui.vehicleconfig.information.name.Carburetor": "Karburátor",
+    "ui.vehicleconfig.information.name.Cardboard Box": "Kartonová krabice"
 }
