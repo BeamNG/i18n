@@ -9048,5 +9048,6 @@
     "ui.vehicleconfig.information.name.BRAND BRAND": "{{brand1 | translate}} {{brand2 | translate}}",
     "ui.vehicleconfig.information.name.Brass Coil": "Mosazná cívka",
     "ui.vehicleconfig.information.name.Carburetor": "Karburátor",
-    "ui.vehicleconfig.information.name.Cardboard Box": "Kartonová krabice"
+    "ui.vehicleconfig.information.name.Cardboard Box": "Kartonová krabice",
+    "ui.vehicleconfig.information.name.Christmas Tree": "Vánoční strom"
 }
