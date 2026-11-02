@@ -9051,5 +9051,12 @@
     "ui.vehicleconfig.information.name.Cardboard Box": "Kartonová krabice",
     "ui.vehicleconfig.information.name.Christmas Tree": "Vánoční strom",
     "ui.vehicleconfig.information.name.Copper Coil": "Měděná cívka",
-    "ui.vehicleconfig.information.name.Cypress (513kg/m^3)": "Cypřiš (513 kg/m^3)"
+    "ui.vehicleconfig.information.name.Cypress (513kg/m^3)": "Cypřiš (513 kg/m^3)",
+    "ui.vehicleconfig.information.name.Diesel 4-Speed Automatic Transmission": "Dieselová 4stupňová automatická převodovka",
+    "ui.vehicleconfig.information.name.Diesel 5-Speed Manual Transmission": "Dieselová 5stupňová manuální převodovka",
+    "ui.vehicleconfig.information.name.Diesel 6-Speed Automatic Transmission": "Dieselová 6stupňová automatická převodovka",
+    "ui.vehicleconfig.information.name.Diesel 6-Speed Manual Transmission": "Dieselová 6stupňová manuální převodovka",
+    "ui.vehicleconfig.information.name.Diesel 7-Speed Dual Clutch Transmission": "Dieselová 7stupňová dvouspojková převodovka",
+    "ui.vehicleconfig.information.name.Diesel 8-Speed Automatic Transmission": "Dieselová 8stupňová automatická převodovka",
+    "ui.vehicleconfig.information.name.Diesel Fuel Tank": "Dieselová palivová nádrž"
 }
