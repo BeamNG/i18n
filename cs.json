@@ -9059,5 +9059,10 @@
     "ui.vehicleconfig.information.name.Diesel 7-Speed Dual Clutch Transmission": "Dieselová 7stupňová dvouspojková převodovka",
     "ui.vehicleconfig.information.name.Diesel 8-Speed Automatic Transmission": "Dieselová 8stupňová automatická převodovka",
     "ui.vehicleconfig.information.name.Diesel Fuel Tank": "Dieselová palivová nádrž",
-    "ui.vehicleconfig.information.name.Double 20lb Nitrous Oxide Bottle": "Dvojitá 9,06kg tlak. láhev na oxid dusný"
+    "ui.vehicleconfig.information.name.Double 20lb Nitrous Oxide Bottle": "Dvojitá 9,06kg tlak. láhev na oxid dusný",
+    "ui.vehicleconfig.information.name.Dynamic Textures": "Dynamické textury",
+    "ui.vehicleconfig.information.name.E 110 ECU": "E 110 ECU",
+    "ui.vehicleconfig.information.name.E 160 ECU": "E 160 ECU",
+    "ui.vehicleconfig.information.name.E 230 ECU": "E 230 ECU",
+    "ui.vehicleconfig.information.name.E ECU": "E ECU"
 }
