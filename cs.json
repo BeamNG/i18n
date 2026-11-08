@@ -9068,5 +9068,6 @@
     "ui.vehicleconfig.information.name.ESC & TC Off": "ESC a TC vyp.",
     "ui.vehicleconfig.information.name.External Oil Cooler": "Externí olejový chladič",
     "ui.vehicleconfig.information.name.Fir (432kg/m^3)": "Jedle (432 kg/m^3)",
-    "ui.vehicleconfig.information.name.Fire Extinguisher": "Hasicí přístroj"
+    "ui.vehicleconfig.information.name.Fire Extinguisher": "Hasicí přístroj",
+    "ui.vehicleconfig.information.name.Front License Plate": "Přední registrační značka"
 }
